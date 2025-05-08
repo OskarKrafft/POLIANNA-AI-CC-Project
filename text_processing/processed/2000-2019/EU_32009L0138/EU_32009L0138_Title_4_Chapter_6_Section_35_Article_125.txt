@@ -1,0 +1,7 @@
+Article 125
+Documentation standards
+Insurance and reinsurance undertakings shall document the design and operational details of their internal model.
+The documentation shall demonstrate compliance with Articles 120 to 124.
+The documentation shall provide a detailed outline of the theory, assumptions, and mathematical and empirical bases underlying the internal model.
+The documentation shall indicate any circumstances under which the internal model does not work effectively.
+Insurance and reinsurance undertakings shall document all major changes to their internal model, as set out in Article 115.

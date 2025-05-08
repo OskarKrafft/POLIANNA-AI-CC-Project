@@ -1,0 +1,5 @@
+Article 34
+Functionality of Eudamed
+1.   The Commission shall, in collaboration with the MDCG, draw up the functional specifications for Eudamed. The Commission shall draw up a plan for the implementation of those specifications by 26 May 2018. That plan shall seek to ensure that Eudamed is fully functional at a date that allows the Commission to publish the notice referred to in paragraph 3 of this Article by 25 March 2020 and that all other relevant deadlines laid down in Article 123 of this Regulation and in Article 113 of Regulation (EU) 2017/746 are met.
+2.   The Commission shall, on the basis of an independent audit report, inform the MDCG when it has verified that Eudamed has achieved full functionality and Eudamed meets the functional specifications drawn up pursuant to paragraph 1.
+3.   The Commission shall, after consultation with the MDCG and when it is satisfied that the conditions referred to in paragraph 2 have been fulfilled, publish a notice to that effect in the Official Journal of the European Union.

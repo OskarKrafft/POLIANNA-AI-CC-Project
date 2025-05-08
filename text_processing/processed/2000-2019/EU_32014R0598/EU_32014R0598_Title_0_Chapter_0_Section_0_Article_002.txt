@@ -1,0 +1,15 @@
+Article 2
+Definitions
+For the purpose of this Regulation, the following definitions shall apply:
+(1)
+‘aircraft’ means fixed-wing aircraft with a maximum certificated take-off mass of 34 000 kg or more, or with a certificated maximum internal accommodation for the aircraft type in question consisting of 19 passenger seats or more, excluding any seats for crew only;
+(2)
+‘airport’ means an airport which has more than 50 000 civil aircraft movements per calendar year (a movement being a take-off or landing), on the basis of the average number of movements in the last three calendar years before the noise assessment;
+(3)
+‘Balanced Approach’ means the process developed by the International Civil Aviation Organization under which the range of available measures, namely the reduction of aircraft noise at source, land-use planning and management, noise abatement operational procedures and operating restrictions, is considered in a consistent way with a view to addressing the noise problem in the most cost-effective way on an airport-by-airport basis;
+(4)
+‘marginally compliant aircraft’ means aircraft which are certified in accordance with limits laid down in Volume 1, Part II, Chapter 3 of Annex 16 to the Convention on International Civil Aviation signed on 7 December 1944 (the Chicago Convention) by a cumulative margin of less than 8 EPNdB (Effective Perceived Noise in Decibels) during a transitional period ending on 14 June 2020, and by a cumulative margin of less than 10 EPNdB following the end of that transitional period, whereby the cumulative margin is the figure expressed in EPNdB obtained by adding the individual margins (i.e. the differences between the certificated noise level and the maximum permitted noise level) at each of the three reference noise measurement points defined in Volume 1, Part II, Chapter 3 of Annex 16 to the Chicago Convention;
+(5)
+‘noise-related action’ means any measure that affects the noise climate around airports, for which the principles of the Balanced Approach apply, including other non-operational actions that can affect the number of people exposed to aircraft noise;
+(6)
+‘operating restriction’ means a noise-related action that limits access to or reduces the operational capacity of an airport, including operating restrictions aimed at the withdrawal from operations of marginally compliant aircraft at specific airports as well as operating restrictions of a partial nature, which for example apply for an identified period of time during the day or only for certain runways at the airport.

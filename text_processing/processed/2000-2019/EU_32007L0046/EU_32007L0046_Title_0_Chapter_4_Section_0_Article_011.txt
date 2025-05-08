@@ -1,0 +1,10 @@
+Article 11
+Tests required for EC type-approval
+1.   Compliance with the technical prescriptions laid down in this Directive and in the regulatory acts listed in Annex IV shall be demonstrated by means of appropriate tests performed by designated technical services.
+The test procedures, the specific equipment and tools necessary to perform those tests shall be described in each of the regulatory acts.
+2.   The required tests shall be performed on vehicles, components and separate technical units which are representative of the type to be approved.
+However, the manufacturer may select, in agreement with the approval authority, a vehicle, a system, a component or a separate technical unit which, while not representative of the type to be approved, combines a number of the most unfavourable features with regard to the required level of performance. Virtual testing methods may be used to aid decision-making during the selection process.
+3.   As alternatives to the test procedures referred to in paragraph 1 and with the agreement of the approval authority, virtual testing methods may be used at the request of the manufacturer with respect to the regulatory acts listed in Annex XVI.
+4.   The general conditions which virtual testing methods must fulfil are set out in Appendix 1 to Annex XVI.
+For each of the regulatory acts listed in Annex XVI, the specific testing conditions and the administrative provisions related thereto shall be laid down in Appendix 2 to that Annex.
+5.   The Commission shall establish the list of the regulatory acts for which virtual testing methods are permitted, the specific conditions and the administrative provisions related thereto. These measures, designed to amend non-essential elements of this Directive, inter alia by supplementing it, shall be established and updated in accordance with the regulatory procedure with scrutiny referred to in Article 40(2).

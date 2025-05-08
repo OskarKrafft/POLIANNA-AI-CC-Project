@@ -1,0 +1,35 @@
+Article 5
+Mass in running order determination
+1.   The mass in running order of an L-category vehicle shall be determined by measuring the mass of the unladen vehicle ready for normal use and shall include the mass of:
+(a)
+liquids;
+(b)
+standard equipment in accordance with the manufacturer’s specifications;
+(c)
+‘fuel’ in the fuel tanks that shall be filled to at least 90 % of their capacities.
+For the purposes of this point:
+(i)
+if a vehicle is propelled with a ‘liquid fuel’ this shall be considered as ‘fuel’;
+(ii)
+if a vehicle is propelled with a liquid ‘fuel/oil mixture’:
+—
+if fuel to propel the vehicle and lubrication oil are pre-mixed then this ‘pre-mixture’ shall be considered as ‘fuel’,
+—
+if fuel to propel the vehicle and lubrication oil are stored separately then only ‘fuel’ propelling the vehicle shall be considered as ‘fuel’; or
+(iii)
+if a vehicle is propelled by a gaseous fuel, a liquefied gaseous fuel or is running on compressed air, the mass of ‘fuel’ in the gaseous fuel tanks may be set to 0 kg;
+(d)
+the bodywork, the cabin, the doors; and
+(e)
+the glazing, the coupling, the spare wheels as well as the tools.
+2.   The mass in running order of an L-category vehicle shall exclude the mass of:
+(a)
+the driver (75 kg) and passenger (65 kg);
+(b)
+the machines or equipment installed on the load platform area;
+(c)
+in the case of a hybrid or pure electric vehicle, the propulsion batteries;
+(d)
+in the case of mono-fuel, bi-fuel or multi-fuel vehicles, a gaseous fuel system as well as storage tanks for gaseous fuel; and
+(e)
+in the case of pre-compressed air propulsion, storage tanks to store compressed air.

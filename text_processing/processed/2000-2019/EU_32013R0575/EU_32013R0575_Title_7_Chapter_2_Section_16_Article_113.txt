@@ -1,0 +1,39 @@
+Article 113
+Calculation of risk weighted exposure amounts
+1.   To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless deducted from own funds, in accordance with the provisions of Section 2. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of Export Credit Agencies in accordance with Section 3.
+2.   For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with Section 2.
+3.   Where an exposure is subject to credit protection the risk weight applicable to that item may be amended in accordance with Chapter 4.
+4.   Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Chapter 5.
+5.   Exposures for which no calculation is provided in Section 2 shall be assigned a risk-weight of 100 %.
+6.   With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC. Competent authorities are empowered to grant approval if the following conditions are fulfilled:
+(a)
+the counterparty is an institution, a financial holding company or a mixed financial holding company, financial institution, asset management company or ancillary services undertaking subject to appropriate prudential requirements;
+(b)
+the counterparty is included in the same consolidation as the institution on a full basis;
+(c)
+the counterparty is subject to the same risk evaluation, measurement and control procedures as the institution;
+(d)
+the counterparty is established in the same Member State as the institution;
+(e)
+there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the institution.
+Where the institution, in accordance with this paragraph, is authorised not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.
+7.   With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 and Tier 2 items, institutions may, subject to the prior permission of the competent authorities, not apply the requirements of paragraph 1 of this Article to exposures to counterparties with which the institution has entered into an institutional protection scheme that is a contractual or statutory liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to avoid bankruptcy where necessary. Competent authorities are empowered to grant permission if the following conditions are fulfilled:
+(a)
+the requirements set out in points (a), (d) and (e) of paragraph 6 are met;
+(b)
+the arrangements ensure that the institutional protection scheme is able to grant support necessary under its commitment from funds readily available to it;
+(c)
+the institutional protection scheme disposes of suitable and uniformly stipulated systems for the monitoring and classification of risk, which gives a complete overview of the risk situations of all the individual members and the institutional protection scheme as a whole, with corresponding possibilities to take influence; those systems shall suitably monitor defaulted exposures in accordance with Article 178(1);
+(d)
+the institutional protection scheme conducts its own risk review which is communicated to the individual members;
+(e)
+the institutional protection scheme draws up and publishes on an annual basis, a consolidated report comprising the balance sheet, the profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole, or a report comprising the aggregated balance sheet, the aggregated profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole;
+(f)
+members of the institutional protection scheme are obliged to give advance notice of at least 24 months if they wish to end the institutional protection scheme;
+(g)
+the multiple use of elements eligible for the calculation of own funds (hereinafter referred to as ‧multiple gearing‧) as well as any inappropriate creation of own funds between the members of the institutional protection scheme shall be eliminated;
+(h)
+The institutional protection scheme shall be based on a broad membership of credit institutions of a predominantly homogeneous business profile;
+(i)
+the adequacy of the systems referred to in points (c) and (d) is approved and monitored at regular intervals by the relevant competent authorities.
+Where the institution, in accordance with this paragraph, decides not to apply the requirements of paragraph 1, it may assign a risk weight of 0 %.

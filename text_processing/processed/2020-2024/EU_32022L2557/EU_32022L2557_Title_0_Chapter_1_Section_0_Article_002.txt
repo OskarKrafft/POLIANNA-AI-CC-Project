@@ -1,0 +1,31 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘critical entity’ means a public or private entity which has been identified by a Member State in accordance with Article 6 as belonging to one of the categories set out in the third column of the table in the Annex;
+(2)
+‘resilience’ means a critical entity’s ability to prevent, protect against, respond to, resist, mitigate, absorb, accommodate and recover from an incident;
+(3)
+‘incident’ means an event which has the potential to significantly disrupt, or that disrupts, the provision of an essential service, including when it affects the national systems that safeguard the rule of law;
+(4)
+‘critical infrastructure’ means an asset, a facility, equipment, a network or a system, or a part of an asset, a facility, equipment, a network or a system, which is necessary for the provision of an essential service;
+(5)
+‘essential service’ means a service which is crucial for the maintenance of vital societal functions, economic activities, public health and safety, or the environment;
+(6)
+‘risk’ means the potential for loss or disruption caused by an incident and is to be expressed as a combination of the magnitude of such loss or disruption and the likelihood of occurrence of the incident;
+(7)
+‘risk assessment ’ means the overall process for determining the nature and extent of a risk by identifying and analysing potential relevant threats, vulnerabilities and hazards which could lead to an incident and by evaluating the potential loss or disruption of the provision of an essential service caused by that incident;
+(8)
+‘standard’ means a standard as defined in Article 2, point (1), of Regulation (EU) No 1025/2012 of the European Parliament and of the Council (30);
+(9)
+‘technical specification’ means a technical specification as defined in Article 2, point (4), of Regulation (EU) No 1025/2012;
+(10)
+‘public administration entity’ means an entity recognised as such in a Member State in accordance with national law, not including the judiciary, parliaments or central banks, which complies with the following criteria:
+(a)
+it is established for the purpose of meeting needs in the general interest and does not have an industrial or commercial character;
+(b)
+it has legal personality or is entitled by law to act on behalf of another entity with legal personality;
+(c)
+it is financed, for the most part, by the State authorities or by other central-level bodies governed by public law, is subject to management supervision by those authorities or bodies, or has an administrative, managerial or supervisory board, more than half of whose members are appointed by the State authorities or by other central-level bodies governed by public law;
+(d)
+it has the power to address to natural or legal persons administrative or regulatory decisions affecting their rights in the cross-border movement of persons, goods, services or capital.

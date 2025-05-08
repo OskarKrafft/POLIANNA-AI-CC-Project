@@ -1,0 +1,23 @@
+Article 3
+Limitations on the financial instruments admitted to trading or recorded on DLT market infrastructure
+1.   DLT financial instruments shall only be admitted to trading on a DLT market infrastructure, or be recorded on a DLT market infrastructure, if, at the moment of admission to trading or the moment of recording on a distributed ledger, the DLT financial instruments are:
+(a)
+shares, the issuer of which has a market capitalisation, or a tentative market capitalisation, of less than EUR 500 million;
+(b)
+bonds, other forms of securitised debt, including depositary receipts in respect of such securities, or money market instruments, with an issue size of less than EUR 1 billion, excluding those that embed a derivative or incorporate a structure which makes it difficult for the client to understand the risk involved; or
+(c)
+units in collective investment undertakings covered by Article 25(4), point (a)(iv), of Directive 2014/65/EU, the market value of the assets under management of which is less than EUR 500 million.
+Corporate bonds issued by issuers whose market capitalisation did not exceed EUR 200 million at the time of their issuance shall be excluded from the calculation of the threshold referred to in the first subparagraph, point (b).
+2.   The aggregate market value of all the DLT financial instruments that are admitted to trading on a DLT market infrastructure or that are recorded on a DLT market infrastructure shall not exceed EUR 6 billion at the moment of admission to trading, or initial recording, of a new DLT financial instrument.
+Where the admission to trading or initial recording of a new DLT financial instrument would result in the aggregate market value referred to in the first subparagraph reaching EUR 6 billion, the DLT market infrastructure shall not admit that DLT financial instrument to trading or record it.
+3.   Where the aggregate market value of all the DLT financial instruments that are admitted to trading on a DLT market infrastructure or that are recorded on a DLT market infrastructure has reached EUR 9 billion, the operator of the DLT market infrastructure shall activate the transition strategy referred to in Article 7(7). The operator of the DLT market infrastructure shall notify the competent authority of the activation of its transition strategy and of the timescale for the transition in the monthly report provided for in paragraph 5.
+4.   The operator of a DLT market infrastructure shall calculate the monthly average aggregate market value of DLT financial instruments traded or recorded on that DLT market infrastructure. That monthly average shall be calculated as the average of the daily closing prices of each DLT financial instrument, multiplied by the number of DLT financial instruments that are traded or recorded on that DLT market infrastructure with the same International Securities Identification Number (ISIN).
+The operator of the DLT market infrastructure shall use that monthly average:
+(a)
+when assessing whether the admission to trading or recording of a new DLT financial instrument in the following month would result in the aggregate market value of DLT financial instruments reaching the threshold referred to in paragraph 2 of this Article; and
+(b)
+when deciding whether to activate the transition strategy referred to in Article 7(7).
+5.   The operator of a DLT market infrastructure shall submit monthly reports to its competent authority demonstrating that all DLT financial instruments that are admitted to trading or recorded on the DLT market infrastructure do not exceed the thresholds set out in paragraphs 2 and 3.
+6.   A competent authority may set lower thresholds than the values set out in paragraphs 1 and 2. If a competent authority lowers the threshold referred to in paragraph 2, the value set out in paragraph 3 shall be deemed to be commensurately lowered.
+For the purposes of the first subparagraph of this paragraph, the competent authority shall consider the market size and the average capitalisation of DLT financial instruments of a given type that have been admitted to trading platforms in the Member States where the services and activities will be carried out and shall consider the risks that relate to the issuers, to the type of distributed ledger technology used and to the services and activities of the DLT market infrastructure.
+7.   Regulation (EU) No 596/2014 applies to DLT financial instruments admitted to trading on a DLT MTF or on a DLT TSS.

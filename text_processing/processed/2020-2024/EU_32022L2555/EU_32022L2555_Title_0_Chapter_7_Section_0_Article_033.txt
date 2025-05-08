@@ -1,0 +1,38 @@
+Article 33
+Supervisory and enforcement measures in relation to important entities
+1.   When provided with evidence, indication or information that an important entity allegedly does not comply with this Directive, in particular Articles 21 and 23 thereof, Member States shall ensure that the competent authorities take action, where necessary, through ex post supervisory measures. Member States shall ensure that those measures are effective, proportionate and dissuasive, taking into account the circumstances of each individual case.
+2.   Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to important entities, have the power to subject those entities at least to:
+(a)
+on-site inspections and off-site ex post supervision conducted by trained professionals;
+(b)
+targeted security audits carried out by an independent body or a competent authority;
+(c)
+security scans based on objective, non-discriminatory, fair and transparent risk assessment criteria, where necessary with the cooperation of the entity concerned;
+(d)
+requests for information necessary to assess, ex post, the cybersecurity risk-management measures adopted by the entity concerned, including documented cybersecurity policies, as well as compliance with the obligation to submit information to the competent authorities pursuant to Article 27;
+(e)
+requests to access data, documents and information necessary to carry out their supervisory tasks;
+(f)
+requests for evidence of implementation of cybersecurity policies, such as the results of security audits carried out by a qualified auditor and the respective underlying evidence.
+The targeted security audits referred to in the first subparagraph, point (b), shall be based on risk assessments conducted by the competent authority or the audited entity, or on other risk-related available information.
+The results of any targeted security audit shall be made available to the competent authority. The costs of such targeted security audit carried out by an independent body shall be paid by the audited entity, except in duly substantiated cases when the competent authority decides otherwise.
+3.   When exercising their powers under paragraph 2, point (d), (e) or (f), the competent authorities shall state the purpose of the request and specify the information requested.
+4.   Member States shall ensure that the competent authorities, when exercising their enforcement powers in relation to important entities, have the power at least to:
+(a)
+issue warnings about infringements of this Directive by the entities concerned;
+(b)
+adopt binding instructions or an order requiring the entities concerned to remedy the deficiencies identified or the infringement of this Directive;
+(c)
+order the entities concerned to cease conduct that infringes this Directive and desist from repeating that conduct;
+(d)
+order the entities concerned to ensure that their cybersecurity risk-management measures comply with Article 21 or to fulfil the reporting obligations laid down in Article 23, in a specified manner and within a specified period;
+(e)
+order the entities concerned to inform the natural or legal persons with regard to which they provide services or carry out activities which are potentially affected by a significant cyber threat of the nature of the threat, as well as of any possible protective or remedial measures which can be taken by those natural or legal persons in response to that threat;
+(f)
+order the entities concerned to implement the recommendations provided as a result of a security audit within a reasonable deadline;
+(g)
+order the entities concerned to make public aspects of infringements of this Directive in a specified manner;
+(h)
+impose, or request the imposition by the relevant bodies, courts or tribunals, in accordance with national law, of an administrative fine pursuant to Article 34 in addition to any of the measures referred to in points (a) to (g) of this paragraph.
+5.   Article 32(6), (7) and (8) shall apply mutatis mutandis to the supervisory and enforcement measures provided for in this Article for important entities.
+6.   Member States shall ensure that their competent authorities under this Directive cooperate with the relevant competent authorities of the Member State concerned under Regulation (EU) 2022/2554. In particular, Member States shall ensure that their competent authorities under this Directive inform the Oversight Forum established pursuant to Article 32(1) of Regulation (EU) 2022/2554 when exercising their supervisory and enforcement powers aimed at ensuring compliance of an important entity that is designated as a critical ICT third-party service provider pursuant to Article 31 of Regulation (EU) 2022/2554. with this Directive.

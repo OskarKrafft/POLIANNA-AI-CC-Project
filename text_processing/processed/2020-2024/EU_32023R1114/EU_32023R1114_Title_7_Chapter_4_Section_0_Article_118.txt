@@ -1,0 +1,5 @@
+Article 118
+EBA crypto-asset committee
+1.   EBA shall create a permanent internal committee pursuant to Article 41 of Regulation (EU) No 1093/2010 for the purposes of preparing EBA’s decisions to be taken in accordance with Article 44 thereof, including decisions relating to the supervisory tasks that have been conferred on EBA by this Regulation.
+2.   The crypto-asset committee may also prepare decisions in relation to draft regulatory technical standards and draft implementing technical standards relating to supervisory tasks that have been conferred on EBA by this Regulation.
+3.   EBA shall ensure that the crypto-asset committee performs only the activities referred to in paragraphs 1 and 2 and any other tasks necessary for the performance of its activities related to crypto-assets.

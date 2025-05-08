@@ -1,0 +1,32 @@
+Article 276
+Recognition and treatment of collateral
+1.   For the purposes of this Section, institutions shall calculate the collateral amounts of VM, VMMA, NICA and NICAMA, by applying all the following requirements:
+(a)
+where all the transactions included in a netting set belong to the trading book, only collateral that is eligible under Articles 197 and 299 shall be recognised;
+(b)
+where a netting set contains at least one transaction that belongs to the non-trading book, only collateral that is eligible under Article 197 shall be recognised;
+(c)
+collateral received from a counterparty shall be recognised with a positive sign and collateral posted to a counterparty shall be recognised with a negative sign;
+(d)
+the volatility-adjusted value of any type of collateral received or posted shall be calculated in accordance with Article 223; for the purposes of that calculation, institutions shall not use the method set out in Article 225;
+(e)
+the same collateral item shall not be included in both VM and NICA at the same time;
+(f)
+the same collateral item shall not be included in both VMMA and NICAMA at the same time;
+(g)
+any collateral posted to the counterparty that is segregated from the assets of that counterparty and, as a result of that segregation, is bankruptcy remote in the event of the default or insolvency of that counterparty shall not be recognised in the calculation of NICA and NICAMA.
+2.   For the calculation of the volatility-adjusted value of collateral posted referred to in point (d) of paragraph 1 of this Article, institutions shall replace the formula set out in Article 223(2) with the following formula:
+ 
+CVA = C · (1 + HC + Hfx)
+where:
+ 
+CVA = the volatility-adjusted value of collateral posted; and
+ 
+C = the collateral;
+ 
+Hc and Hfx are defined in accordance with Article 223(2).
+3.   For the purposes of point (d) of paragraph 1, institutions shall set the liquidation period relevant for the calculation of the volatility-adjusted value of any collateral received or posted in accordance with one of the following time horizons:
+(a)
+one year for the netting sets referred to in Article 275(1);
+(b)
+the margin period of risk determined in accordance with point (b) of Article 279c(1) for the netting sets referred to in Article 275(2) and (3).

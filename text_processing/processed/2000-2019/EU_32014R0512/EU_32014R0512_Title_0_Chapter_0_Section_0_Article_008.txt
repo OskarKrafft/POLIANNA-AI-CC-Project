@@ -1,0 +1,147 @@
+Article 11
+Security Accreditation Board
+1.   A Security Accreditation Board for European GNSS systems (the “Security Accreditation Board”) is hereby set up to perform the tasks set out in this Article.
+2.   The Security Accreditation Board shall perform its tasks without prejudice to the responsibility entrusted to the Commission by Regulation (EU) No 1285/2013, in particular for matters relating to security, and without prejudice to the competences of the Member States as regards security accreditation.
+3.   As security accreditation authority, the Security Accreditation Board shall, with regard to security accreditation for the European GNSS systems, be responsible for:
+(a)
+defining and approving a security accreditation strategy setting out:
+(i)
+the scope of the activities necessary to perform and maintain the accreditation of the European GNSS systems and their potential interconnection with other systems;
+(ii)
+a security accreditation process for the European GNSS systems with a degree of detail commensurate with the required level of assurance and clearly stating the approval conditions; that process shall be performed in accordance with the relevant requirements, in particular those referred to in Article 13 of Regulation (EU) No 1285/2013;
+(iii)
+the role of relevant stakeholders involved in the accreditation process;
+(iv)
+an accreditation schedule compliant with the phases of the programmes, in particular as regards the deployment of infrastructure, service provision and evolution;
+(v)
+the principles of the security accreditation for networks connected to the systems and PRS equipment connected to the system established under the Galileo programme to be performed by national entities of the Member States competent in security matters;
+(b)
+taking security accreditation decisions, in particular on the approval of satellite launches, the authorisation to operate the systems in their different configurations and for the various services up to and including the signal in space, and the authorisation to operate the ground stations. As regards the networks and PRS equipment connected to the system established under the Galileo programme, the Security Accreditation Board shall take decisions only on the authorisation of bodies to develop and manufacture PRS receivers or PRS security modules, taking into account the advice provided by national entities competent in security matters and the overall security risks;
+(c)
+examining and, except as regards documents which the Commission is to adopt under Article 13 of Regulation (EU) No 1285/2013 and Article 8 of Decision No 1104/2011/EU, approving all documentation relating to security accreditation;
+(d)
+advising, within its field of competence, the Commission in the elaboration of draft texts for acts referred to in Article 13 of Regulation (EU) No 1285/2013 and Article 8 of Decision No 1104/2011/EU, including for the establishment of security operating procedures (SecOps), and providing a statement with its concluding position;
+(e)
+examining and approving the security risk assessment developed in accordance with the monitoring process referred to in Article 10(h), taking into account compliance with the documents referred to in point (c) of this paragraph and those developed in accordance with Article 13 of Regulation (EU) No 1285/2013 and Article 8 of Decision No 1104/2011/EU; cooperating with the Commission to define risk mitigation measures;
+(f)
+checking the implementation of security measures in relation to the security accreditation of the European GNSS systems by undertaking or sponsoring security assessments, inspections or reviews, in accordance with Article 12(b)of this Regulation;
+(g)
+endorsing the selection of approved products and measures which protect against electronic eavesdropping (TEMPEST) and of approved cryptographic products used to provide security for the European GNSS systems;
+(h)
+approving or, where relevant, participating in the joint approval of, together with the relevant entity competent in security matters, the interconnection of the European GNSS systems with other systems;
+(i)
+agreeing with the relevant Member State the template for access control referred to in Article 12(c);
+(j)
+on the basis of the risk reports referred to in paragraph 11 of this Article, informing the Commission of its risk assessment and providing advice to the Commission on residual risk treatment options for a given security accreditation decision;
+(k)
+assisting, in close liaison with the Commission, the Council in the implementation of Joint Action 2004/552/CFSP upon a specific request of the Council;
+(l)
+carrying out the consultations which are necessary to perform its tasks.
+4.   The Security Accreditation Board shall also:
+(a)
+prepare and approve that part of the multiannual work programme referred to in Article 8a(1) concerning the operational activities covered by this Chapter and the financial and human resources needed to accomplish those activities, and submit it to the Administrative Board in good time so that it can be incorporated in the multiannual work programme;
+(b)
+prepare and approve that part of the annual work programme referred to in Article 8a(2) concerning the operational activities covered by this Chapter and the financial and human resources needed to accomplish those activities, and submit it to the Administrative Board in good time so that it can be incorporated in the annual work programme;
+(c)
+prepare and approve that part of the annual report referred to in point (h) of Article 6(2) concerning the Agency’s activities and prospects covered by this Chapter and the financial and human resources needed to accomplish those activities and prospects, and submit it to the Administrative Board in good time so that it can be incorporated in the annual report;
+(d)
+adopt and publish its rules of procedure.
+5.   The Commission shall keep the Security Accreditation Board continuously informed of the impact of any decisions envisaged by the Security Accreditation Board on the proper conduct of the programmes and of the implementation of residual risk treatment plans. The Security Accreditation Board shall take note of any such opinion of the Commission.
+6.   The decisions of the Security Accreditation Board shall be addressed to the Commission.
+7.   The Security Accreditation Board shall be composed of one representative of each Member State, a representative of the Commission and a representative of the HR. The Member States, the Commission and the HR shall endeavour to limit the turnover of their respective representatives on the Security Accreditation Board. The term of office of the members of the Security Accreditation Board shall be four years and shall be renewable. A representative of ESA shall be invited to attend the meetings of the Security Accreditation Board as an observer. On an exceptional basis, representatives of third countries or international organisations may also be invited to attend meetings as observers for matters directly relating to those third countries or international organisations. Arrangements for such participation of representatives of third countries or international organisations and the conditions therefor shall be established in the agreements referred to in Article 23(1) and shall comply with the rules of procedure of the Security Accreditation Board.
+8.   The Security Accreditation Board shall elect a Chairperson and Deputy Chairperson from among its members by a two-thirds majority of all members with the right to vote. The Deputy Chairperson shall automatically take the place of the Chairperson when the Chairperson is prevented from attending to his/her duties.
+The Security Accreditation Board shall have the power to dismiss the Chairperson, the Deputy Chairperson or both of them. It shall adopt the decision to dismiss by a two-thirds majority.
+The term of office of the Chairperson and of the Deputy Chairperson of the Security Accreditation Board shall be two years renewable once. The term of office of either person shall end if he or she ceases to be a member of the Security Accreditation Board.
+9.   The Security Accreditation Board shall have access to all the human and material resources required to provide appropriate administrative support functions and to enable it, together with the bodies referred to in paragraph 11, to perform its tasks independently, in particular when handling files, initiating and monitoring the implementation of security procedures and performing system security audits, preparing decisions and organising its meetings. It shall also have access to any information needed for the performance of its tasks in the possession of the Agency, without prejudice to the principles of autonomy and independence referred to in Article 10(i).
+10.   The Security Accreditation Board and the Agency staff under its supervision shall perform their work in a manner ensuring autonomy and independence in relation to the other activities of the Agency, in particular operational activities associated with the exploitation of the systems, in accordance with the objectives of the programmes. To that end, an effective organisational division shall be established within the Agency between the staff involved in activities covered by this Chapter and the other staff of the Agency. The Security Accreditation Board shall immediately inform the Executive Director, the Administrative Board and the Commission of any circumstances that could hamper its autonomy or independence. In the event that no remedy is found within the Agency, the Commission shall examine the situation, in consultation with the relevant parties. On the basis of the outcome of that examination, the Commission shall take appropriate mitigation measures to be implemented by the Agency, and shall inform the European Parliament and the Council thereof.
+11.   The Security Accreditation Board shall set up special subordinate bodies, acting on its instructions, to deal with specific issues. In particular, while ensuring necessary continuity of work, it shall set up a panel to conduct security analysis reviews and tests to produce the relevant risk reports in order to assist it in preparing its decisions. The Security Accreditation Board may set up and disband expert groups to contribute to the work of the panel.
+12.   Without prejudice to the competence of the Member States and of the task of the Agency referred to in point (a)(i) of Article 14(1) of Regulation (EU) No 1285/2013, during the deployment phase of the Galileo programme, a group of experts of the Member States shall be set up under the supervision of the Security Accreditation Board to perform the tasks of the Crypto Distribution Authority (CDA) relating to the management of EU cryptographic material in particular for:
+(i)
+the management of flights keys and other keys necessary for the functioning of the system established under the Galileo programme;
+(ii)
+the verification of the establishment and the enforcement of procedures for accounting, secure handling, storage and distribution of PRS keys.
+13.   If consensus according to the general principles referred to in Article 10 of this Regulation cannot be reached, the Security Accreditation Board shall take decisions on the basis of majority voting, as provided for in Article 16 of the Treaty on European Union and without prejudice to Article 9 of this Regulation. The representative of the Commission and the representative of the HR shall not vote. The Chairperson of the Security Accreditation Board shall sign, on behalf of the Security Accreditation Board, the decisions adopted by the Security Accreditation Board.
+14.   The Commission shall keep the European Parliament and the Council informed, without undue delay, of the impact of the adoption of the security accreditation decisions on the proper conduct of the programmes. If the Commission considers that a decision taken by the Security Accreditation Board may have a significant effect on the proper conduct of the programmes, for example in terms of costs, schedule or performance, it shall immediately inform the European Parliament and the Council.
+15.   Taking into account the views of the European Parliament and of the Council, which should be expressed within one month, the Commission may adopt any adequate measures in accordance with Regulation (EU) No 1285/2013.
+16.   The Administrative Board shall be periodically kept informed of the evolution of the work of the Security Accreditation Board.
+17.   The timetable for the work of the Security Accreditation Board shall respect the annual work programme referred to in Article 27 of Regulation (EU) No 1285/2013.’;
+(5)
+the following Article is inserted:
+‘Article 11a
+Tasks of the Chairperson of the Security Accreditation Board
+1.   The Chairperson of the Security Accreditation Board shall perform the following tasks:
+(a)
+managing security accreditation activities under the supervision of the Security Accreditation Board;
+(b)
+implementing the part of the Agency’s multiannual and annual work programmes covered by this Chapter under the supervision of the Security Accreditation Board;
+(c)
+cooperating with the Executive Director to help to draw up the draft establishment plan referred to in Article 13(3) and the organisational structures of the Agency;
+(d)
+preparing the section of the progress report referred to in Article 8(g) concerning the operational activities covered by this Chapter, and submitting it to the Security Accreditation Board and the Executive Director in good time so that it can be incorporated in the progress report;
+(e)
+preparing the section of the annual report and of the action plan referred to in Article 8(h) and (r) respectively, concerning the operational activities covered by this Chapter, and submitting it to the Executive Director in good time;
+(f)
+representing the Agency for the activities and decisions covered by this Chapter;
+(g)
+exercising, with regard to the Agency’s staff involved in the activities concerned by this Chapter, the powers referred to in first subparagraph of Article 6(3), delegated to him/her in accordance with the fourth subparagraph of Article 6(3).
+2.   For activities covered by this Chapter, the European Parliament and the Council may call upon the Chairperson of the Security Accreditation Board for an exchange of views on the work and prospects of the Agency before those institutions, including with regard to the multiannual and the annual work programmes.’;
+(6)
+in Article 12, point (b) is replaced by the following:
+‘(b)
+permit duly authorised persons appointed by the Security Accreditation Board, in agreement with and under the supervision of national entities competent in security matters, to have access to any information and to any areas and/or sites related to the security of systems falling within their jurisdiction, in accordance with their national laws and regulations, and without any discrimination on ground of nationality of nationals of Member States, including for the purposes of security audits and tests as decided by the Security Accreditation Board and of the security risk monitoring process referred to in Article 10(h). These audits and tests shall be performed in accordance with the following principles:
+(i)
+the importance of security and effective risk management within the entities inspected shall be emphasised;
+(ii)
+countermeasures to mitigate the specific impact of loss of confidentiality, integrity or availability of classified information shall be recommended.’;
+(7)
+Article 13 is amended as follows:
+(a)
+paragraph 3 is replaced by the following:
+‘3.   The Executive Director shall, in close collaboration with the Chairperson of the Security Accreditation Board for activities covered by Chapter III, draw up a draft estimate of expenditure and revenue of the Agency for the next financial year, making clear the distinction between those elements of the draft statement of estimates which relate to security accreditation activities and the other activities of the Agency. The Chairperson of the Security Accreditation Board may write a statement on that draft and the Executive Director shall forward both the draft estimate and the statement to the Administrative Board and the Security Accreditation Board, accompanied by a draft establishment plan.’;
+(b)
+paragraphs 5 and 6 are replaced by the following:
+‘5.   Each year, the Administrative Board, based on the draft estimate of expenditure and revenue and in close cooperation with the Security Accreditation Board for activities covered by Chapter III, shall draw up the estimate of the Agency’s revenue and expenditure for the next financial year.
+6.   The Administrative Board shall, by 31 March, forward the statement of estimates, which shall include a draft establishment plan together with the provisional annual work programme, to the Commission and to the third countries or international organisations with which the Union has concluded agreements in accordance with Article 23(1).’;
+(8)
+in Article 14, paragraph 10 is replaced by the following:
+‘10.   The European Parliament, upon a recommendation from the Council acting by a qualified majority, shall, before 30 April of the year N + 2, grant discharge to the Executive Director in respect of the implementation of the budget for year N, with the exception of the part of the budget implementation covering tasks which are, where appropriate, entrusted to the Agency under Article 14(2) of Regulation (EU) No 1285/2013 to which the procedure referred to in Articles 164 and 165 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council shall apply (*6).
+
+(*6)  Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).’;"
+                        
+(9)
+the following Chapter is inserted:
+
+                                       ‘CHAPTER IVa
+
+HUMAN RESOURCES
+
+Article 15a
+Staff
+1.   The Staff Regulations of Officials of the European Union, the Conditions of Employment of Other Servants and the rules adopted jointly by the institutions of the Union for the purposes of the application of those Staff Regulations and Conditions of Employment shall apply to the staff employed by the Agency.
+2.   The staff of the Agency shall consist of servants recruited by the Agency as necessary to perform its tasks. They shall have security clearances appropriate to the classification of the information they are handling.
+3.   The Agency’s internal rules, such as the rules of procedure of the Administrative Board, the rules of procedure of the Security Accreditation Board, the financial rules applicable to the Agency, the rules for the application of the staff regulations and the rules for access to documents, shall ensure the autonomy and independence of staff performing the security accreditation activities vis-à-vis staff performing the other activities of the Agency, pursuant to Article 10(i).
+Article 15b
+Appointment and Term of Office of the Executive Director
+1.   The Executive Director shall be recruited as a temporary member of staff of the Agency in accordance with Article 2(a) of the Conditions of Employment of Other Servants.
+2.   The Executive Director shall be appointed by the Administrative Board on the grounds of merit and documented administrative and managerial skills, as well as relevant competence and experience, from a list of candidates proposed by the Commission, after an open and transparent competition, following the publication of a call for expressions of interest in the Official Journal of the European Union or elsewhere.
+The candidate selected by the Administrative Board may be invited at the earliest opportunity to make a statement before the European Parliament and to answer questions from its Members.
+The Chairperson of the Administrative Board shall represent the Agency for the purpose of concluding the Executive Director’s contract.
+The Administrative Board shall take its decision to appoint the Executive Director by a two-thirds majority of its members.
+3.   The term of office of the Executive Director shall be five years. At the end of that term of office, the Commission shall carry out an assessment of the Executive Director’s performance taking into account the future tasks and challenges of the Agency.
+On the basis of a proposal from the Commission, taking into account the assessment referred to in the first subparagraph, the Administrative Board may extend the term of office of the Executive Director once for a period of up to four years.
+Any decision to extend the term of office of the Executive Director shall be adopted by a two-thirds majority of members of the Administrative Board.
+An Executive Director whose term of office has been extended may not thereafter take part in a selection procedure for the same post.
+The Administrative Board shall inform the European Parliament of its intention to extend the Executive Director’s term of office. Before the extension, the Executive Director may be invited to make a statement before the relevant committees of the European Parliament and answer Members’ questions.
+4.   The Administrative Board may dismiss the Executive Director, on the basis of a proposal of the Commission or of one third of its members, by means of a decision adopted by a two-thirds majority of its members.
+5.   The European Parliament and the Council may call upon the Executive Director for an exchange of views on the work and prospects of the Agency before those institutions, including with regard to the multiannual and the annual work programme. That exchange of views shall not touch upon matters relating to the security accreditation activities covered by Chapter III.
+Article 15c
+Seconded national experts
+The Agency may also use national experts. These experts shall have security clearances appropriate to the classification of the information they are handling. The Staff Regulations and the Conditions of Employments of Other Servants shall not apply to such staff.’;
+(10)
+Articles 16 and 17 are replaced by the following:
+‘Article 16
+Prevention of fraud
+1.   In order to combat fraud, corruption and any other illegal activities, Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council (*7) shall apply to the Agency without restriction. To that end, the Agency shall accede to the Interinstitutional Agreement of 25 May 1999 between the European Parliament, the Council and the Commission of the European Communities concerning internal investigations by the European Anti-Fraud Office (OLAF) (*8) and shall issue the appropriate provisions to the staff of the Agency and to seconded national experts using the model decision in the Annex to that Agreement.
+2.   The Court of Auditors shall have the authority to supervise beneficiaries of the Agency’s funding as well as contractors and sub-contractors who have received Union funds through the Agency, on the basis of documents provided to it or using on-the-spot checks.
+3.   With regard to grants financed or contracts awarded by the Agency, OLAF may carry out investigations, including on-the-spot checks and inspections in accordance with Regulation (EU, Euratom) No 883/2013 and Council Regulation (Euratom, EC) No 2185/96 (*9), in order to combat fraud, corruption and any other illegal activity detrimental to the Union’s financial interests.
+4.   Without prejudice to paragraphs 1, 2 and 3 of this Article, the cooperation agreements concluded by the Agency with third countries or international organisations, contracts and grant agreements concluded by the Agency with third parties, and any financing decision taken by the Agency shall provide expressly that the Court of Auditors and OLAF may carry out checks and investigations in accordance with their respective powers.

@@ -1,0 +1,93 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘electronic communications network’ means transmission systems, whether or not based on a permanent infrastructure or centralised administration capacity, and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including internet) and mobile networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;
+(2)
+‘very high capacity network’ means either an electronic communications network which consists wholly of optical fibre elements at least up to the distribution point at the serving location, or an electronic communications network which is capable of delivering, under usual peak-time conditions, similar network performance in terms of available downlink and uplink bandwidth, resilience, error-related parameters, and latency and its variation; network performance can be considered similar regardless of whether the end-user experience varies due to the inherently different characteristics of the medium by which the network ultimately connects with the network termination point;
+(3)
+‘transnational markets’ means markets identified in accordance with Article 65, which cover the Union or a substantial part thereof located in more than one Member State;
+(4)
+‘electronic communications service’ means a service normally provided for remuneration via electronic communications networks, which encompasses, with the exception of services providing, or exercising editorial control over, content transmitted using electronic communications networks and services, the following types of services:
+(a)
+‘internet access service’ as defined in point (2) of the second paragraph of Article 2 of Regulation (EU) 2015/2120;
+(b)
+interpersonal communications service; and
+(c)
+services consisting wholly or mainly in the conveyance of signals such as transmission services used for the provision of machine-to-machine services and for broadcasting;
+(5)
+‘interpersonal communications service’ means a service normally provided for remuneration that enables direct interpersonal and interactive exchange of information via electronic communications networks between a finite number of persons, whereby the persons initiating or participating in the communication determine its recipient(s) and does not include services which enable interpersonal and interactive communication merely as a minor ancillary feature that is intrinsically linked to another service;
+(6)
+‘number-based interpersonal communications service’ means an interpersonal communications service which connects with publicly assigned numbering resources, namely, a number or numbers in national or international numbering plans, or which enables communication with a number or numbers in national or international numbering plans;
+(7)
+‘number-independent interpersonal communications service’ means an interpersonal communications service which does not connect with publicly assigned numbering resources, namely, a number or numbers in national or international numbering plans, or which does not enable communication with a number or numbers in national or international numbering plans;
+(8)
+‘public electronic communications network’ means an electronic communications network used wholly or mainly for the provision of publicly available electronic communications services which support the transfer of information between network termination points;
+(9)
+‘network termination point’ means the physical point at which an end-user is provided with access to a public electronic communications network, and which, in the case of networks involving switching or routing, is identified by means of a specific network address, which may be linked to an end-user’s number or name;
+(10)
+‘associated facilities’ means associated services, physical infrastructures and other facilities or elements associated with an electronic communications network or an electronic communications service which enable or support the provision of services via that network or service, or have the potential to do so, and include buildings or entries to buildings, building wiring, antennae, towers and other supporting constructions, ducts, conduits, masts, manholes, and cabinets;
+(11)
+‘associated service’ means a service associated with an electronic communications network or an electronic communications service which enables or supports the provision, self-provision or automated-provision of services via that network or service, or has the potential to do so, and includes number translation or systems offering equivalent functionality, conditional access systems and electronic programme guides (EPGs), as well as other services such as identity, location and presence service;
+(12)
+‘conditional access system’ means any technical measure, authentication system and/or arrangement whereby access to a protected radio or television broadcasting service in intelligible form is made conditional upon subscription or another form of prior individual authorisation;
+(13)
+‘user’ means a natural or legal person using or requesting a publicly available electronic communications service;
+(14)
+‘end-user’ means a user not providing public electronic communications networks or publicly available electronic communications services;
+(15)
+‘consumer’ means any natural person who uses or requests a publicly available electronic communications service for purposes which are outside his or her trade, business, craft or profession;
+(16)
+‘provision of an electronic communications network’ means the establishment, operation, control or making available of such a network;
+(17)
+‘enhanced digital television equipment’ means set-top boxes intended for connection to television sets or integrated digital television sets, able to receive digital interactive television services;
+(18)
+‘application programming interface’ or ‘API’ means the software interface between applications, made available by broadcasters or service providers, and the resources in the enhanced digital television equipment for digital television and radio services;
+(19)
+‘radio spectrum allocation’ means the designation of a given radio spectrum band for use by one or more types of radio communications services, where appropriate, under specified conditions;
+(20)
+‘harmful interference’ means interference which endangers the functioning of a radio navigation service or of other safety services or which otherwise seriously degrades, obstructs or repeatedly interrupts a radio communications service operating in accordance with the applicable international, Union or national regulations;
+(21)
+‘security of networks and services’ means the ability of electronic communications networks and services to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of those networks and services, of stored or transmitted or processed data, or of the related services offered by, or accessible via, those electronic communications networks or services;
+(22)
+‘general authorisation’ means a legal framework established by a Member State ensuring rights for the provision of electronic communications networks or services and laying down sector-specific obligations that may apply to all or to specific types of electronic communications networks and services, in accordance with this Directive;
+(23)
+‘small-area wireless access point’ means low-power wireless network access equipment of a small size operating within a small range, using licenced radio spectrum or licence-exempt radio spectrum or a combination thereof, which may be used as part of a public electronic communications network, which may be equipped with one or more low visual impact antennae, and which allows wireless access by users to electronic communications networks regardless of the underlying network topology, be it mobile or fixed;
+(24)
+‘radio local area network’ or ‘RLAN’ means low-power wireless access system, operating within a small range, with a low risk of interference with other such systems deployed in close proximity by other users, using, on a non-exclusive basis, harmonised radio spectrum;
+(25)
+‘harmonised radio spectrum’ means radio spectrum for which harmonised conditions relating to its availability and efficient use have been established by way of technical implementing measures in accordance with Article 4 of Decision No 676/2002/EC;
+(26)
+‘shared use of radio spectrum’ means access by two or more users to use the same radio spectrum bands under a defined sharing arrangement, authorised on the basis of a general authorisation, individual rights of use for radio spectrum or a combination thereof, including regulatory approaches such as licensed shared access aiming to facilitate the shared use of a radio spectrum band, subject to a binding agreement of all parties involved, in accordance with sharing rules as included in their rights of use for radio spectrum in order to guarantee to all users predictable and reliable sharing arrangements, and without prejudice to the application of competition law;
+(27)
+‘access’ means the making available of facilities or services to another undertaking, under defined conditions, either on an exclusive or a non-exclusive basis, for the purpose of providing electronic communications services, including when they are used for the delivery of information society services or broadcast content services; it covers, inter alia: access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non-fixed means (in particular this includes access to the local loop and to facilities and services necessary to provide services over the local loop); access to physical infrastructure including buildings, ducts and masts; access to relevant software systems including operational support systems; access to information systems or databases for pre-ordering, provisioning, ordering, maintaining and repair requests, and billing; access to number translation or systems offering equivalent functionality; access to fixed and mobile networks, in particular for roaming; access to conditional access systems for digital television services and access to virtual network services;
+(28)
+‘interconnection’ means a specific type of access implemented between public network operators by means of the physical and logical linking of public electronic communications networks used by the same or a different undertaking in order to allow the users of one undertaking to communicate with users of the same or another undertaking, or to access services provided by another undertaking where such services are provided by the parties involved or other parties who have access to the network;
+(29)
+‘operator’ means an undertaking providing or authorised to provide a public electronic communications network or an associated facility;
+(30)
+‘local loop’ means the physical path used by electronic communications signals connecting the network termination point to a distribution frame or equivalent facility in the fixed public electronic communications network;
+(31)
+‘call’ means a connection established by means of a publicly available interpersonal communications service allowing two-way voice communication;
+(32)
+‘voice communications service’ means a publicly available electronic communications service for originating and receiving, directly or indirectly, national or national and international calls through a number or numbers in a national or international numbering plan;
+(33)
+‘geographic number’ means a number from the national numbering plan where part of its digit structure contains geographic significance used for routing calls to the physical location of the network termination point;
+(34)
+‘non-geographic number’ means a number from the national numbering plan that is not a geographic number, such as mobile, freephone and premium-rate numbers;
+(35)
+‘total conversation service’ means a multimedia real time conversation service that provides bidirectional symmetric real time transfer of motion video, real time text and voice between users in two or more locations;
+(36)
+‘public safety answering point’ or ‘PSAP’ means a physical location where an emergency communication is first received under the responsibility of a public authority or a private organisation recognised by the Member State;
+(37)
+‘most appropriate PSAP’ means a PSAP established by responsible authorities to cover emergency communications from a certain area or for emergency communications of a certain type;
+(38)
+‘emergency communication’ means communication by means of interpersonal communications services between an end-user and the PSAP with the goal to request and receive emergency relief from emergency services;
+(39)
+‘emergency service’ means a service, recognised as such by the Member State, that provides immediate and rapid assistance in situations where there is, in particular, a direct risk to life or limb, to individual or public health or safety, to private or public property, or to the environment, in accordance with national law;
+(40)
+‘caller location information’ means, in a public mobile network, the data processed, derived from network infrastructure or handsets, indicating the geographic position of an end-user’s mobile terminal equipment, and, in a public fixed network, the data about the physical address of the network termination point;
+(41)
+‘terminal equipment’ means terminal equipment as defined in point (1) of Article 1 of Commission Directive 2008/63/EC (43);
+(42)
+‘security incident’ means an event having an actual adverse effect on the security of electronic communications networks or services.

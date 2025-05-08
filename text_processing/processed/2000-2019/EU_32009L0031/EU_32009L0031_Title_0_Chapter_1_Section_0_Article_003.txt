@@ -1,0 +1,47 @@
+Article 3
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1.
+‘geological storage of CO2’ means injection accompanied by storage of CO2 streams in underground geological formations;
+2.
+‘water column’ means the vertically continuous mass of water from the surface to the bottom sediments of a water body;
+3.
+‘storage site’ means a defined volume area within a geological formation used for the geological storage of CO2 and associated surface and injection facilities;
+4.
+‘geological formation’ means a lithostratigraphical subdivision within which distinct rock layers can be found and mapped;
+5.
+‘leakage’ means any release of CO2 from the storage complex;
+6.
+‘storage complex’ means the storage site and surrounding geological domain which can have an effect on overall storage integrity and security; that is, secondary containment formations;
+7.
+‘hydraulic unit’ means a hydraulically connected pore space where pressure communication can be measured by technical means and which is bordered by flow barriers, such as faults, salt domes, lithological boundaries, or by the wedging out or outcropping of the formation;
+8.
+‘exploration’ means the assessment of potential storage complexes for the purposes of geologically storing CO2 by means of activities intruding into the subsurface such as drilling to obtain geological information about strata in the potential storage complex and, as appropriate, carrying out injection tests in order to characterise the storage site;
+9.
+‘exploration permit’ means a written and reasoned decision authorising exploration, and specifying the conditions under which it may take place, issued by the competent authority pursuant to the requirements of this Directive;
+10.
+‘operator’ means any natural or legal, private or public person who operates or controls the storage site or to whom decisive economic power over the technical functioning of the storage site has been delegated according to national legislation;
+11.
+‘storage permit’ means a written and reasoned decision or decisions authorising the geological storage of CO2 in a storage site by the operator, and specifying the conditions under which it may take place, issued by the competent authority pursuant to the requirements of this Directive;
+12.
+‘substantial change’ means any change not provided for in the storage permit, which may have significant effects on the environment or human health;
+13.
+‘CO2 stream’ means a flow of substances that results from CO2 capture processes;
+14.
+‘waste’ means the substances defined as waste in Article 1(1)(a) of Directive 2006/12/EC;
+15.
+‘CO2 plume’ means the dispersing volume of CO2 in the geological formation;
+16.
+‘migration’ means the movement of CO2 within the storage complex;
+17.
+‘significant irregularity’ means any irregularity in the injection or storage operations or in the condition of the storage complex itself, which implies the risk of a leakage or risk to the environment or human health;
+18.
+‘significant risk’ means a combination of a probability of occurrence of damage and a magnitude of damage that cannot be disregarded without calling into question the purpose of this Directive for the storage site concerned;
+19.
+‘corrective measures’ means any measures taken to correct significant irregularities or to close leakages in order to prevent or stop the release of CO2 from the storage complex;
+20.
+‘closure’ of a storage site means the definitive cessation of CO2 injection into that storage site;
+21.
+‘post-closure’ means the period after the closure of a storage site, including the period after the transfer of responsibility to the competent authority;
+22.
+‘transport network’ means the network of pipelines, including associated booster stations, for the transport of CO2 to the storage site.

@@ -1,0 +1,60 @@
+Article 14
+Pre-consented recovery facilities
+1.   A legal or natural person owning or exercising control over a recovery facility may submit a request for that facility to be pre-consented to the competent authority which has jurisdiction over the facility, as designated pursuant to Article 75.
+Facilities that only carry out operation R13 shall not be eligible to submit a request as referred to in the first subparagraph.
+2.   The request referred to in paragraph 1 shall include the following information:
+(a)
+the name, registration number and address of the recovery facility;
+(b)
+copies of permits issued to the recovery facility to carry out waste treatment pursuant to Article 23 of Directive 2008/98/EC, as well as, where relevant, standards or certifications with which the facility complies;
+(c)
+a description of the technology employed to ensure the environmentally sound recovery of waste in the recovery facility, for which the pre-consent is requested, including technology designed to save energy or limit the emission of greenhouse gases linked to the activities of the facility;
+(d)
+the R-code or codes as referred to in Annex II of Directive 2008/98/EC for the recovery operation or operations for which the pre-consent is requested;
+(e)
+the designation and composition of the waste, the physical characteristics and the waste identification code or codes for the wastes for which the pre-consent is requested, as listed in Annex IV to this Regulation or in the list of waste referred to in Article 7 of Directive 2008/98/EC;
+(f)
+the total quantity of each type of waste for which the pre-consent is requested, compared to the treatment capacity for which the facility is permitted to carry out waste treatment pursuant to Article 23 of Directive 2008/98/EC;
+(g)
+the quantity of residual waste generated through the recovery of the waste in relation to the quantity of recovered material, and the planned method of recovery or disposal for the residual waste;
+(h)
+records of the activities of the facility linked to waste recovery, covering in particular the quantity and types of waste treated in the last three years, where relevant;
+(i)
+evidence or an attestation that the legal or natural person owning or exercising control over the facility has not been convicted of having carried out an illegal shipment or any other illegal act in relation to waste management in the 5 years prior to the request, in particular with regard to the protection of the environment or human health.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 80 to amend paragraph 2 of this Article as regards the information to be included in the request.
+4.   The procedure referred to in paragraphs 5 to 10 of this Article shall apply to pre-consent a facility for which a request was submitted in accordance with paragraph 1.
+5.   The competent authority shall, within 55 days after the date of receipt of a request submitted pursuant to paragraph 1 and containing the information as referred to in paragraph 2, assess the request and decide whether to approve it.
+6.   Where the legal or natural person referred to in paragraph 1 has provided all the information referred to in paragraph 2, the competent authority shall approve the request and issue a pre-consent for the facility concerned. The pre-consent may contain conditions relating to the duration of the pre-consent, the types and quantities of waste covered by the pre-consent, the technology used or other conditions necessary to ensure that the waste is managed in an environmentally sound manner.
+7.   By way of derogation from paragraph 6, the competent authority may refuse to approve the request for pre-consent if it is not satisfied that issuing the pre-consent will ensure that the waste will be managed in accordance with the waste hierarchy and other requirements laid down in Directive 2008/98/EC or, where relevant, that best available techniques will be applied in accordance with conclusions established under Directive 2010/75/EU.
+8.   The decision to approve or refuse the request for pre-consent shall be communicated to the legal or natural person that submitted the request as soon as it is taken by the competent authority and shall be duly reasoned.
+9.   The pre-consent of a recovery facility shall be valid for 10 years, unless stated otherwise in the decision to approve the request for pre-consent. During that period the competent authority shall conduct at least one inspection in accordance with Article 60. Additional inspections shall be conducted if needed on the basis of the risk-based assessment approach as referred to in Article 62.
+10.   A pre-consent of a recovery facility may be revoked at any time by the competent authority, if information becomes available which shows that the information provided in accordance with paragraph 2 is false or that the conditions in paragraph 6 are no longer fulfilled. A decision to revoke a pre-consent shall be duly reasoned and communicated to the facility concerned.
+11.   The legal or natural person referred to in paragraph 1 shall immediately inform the competent authority concerned of any change in the information submitted in accordance with paragraph 2. The competent authority concerned shall duly assess those changes and, if necessary, update or revoke the pre-consent.
+12.   In the case of a general notification submitted in accordance with Article 13 relating to shipments destined to a pre-consented facility, the period of validity of the consent referred to in Article 9(4) shall be extended to three years.
+By way of derogation from the first subparagraph, the competent authorities concerned may decide, in duly justified cases, to extend the period of validity for a period shorter than 3 years.
+13.   The competent authorities that have issued a pre-consent to a facility in accordance with this Article shall, using the form set out in Annex VI, inform the Commission and, where appropriate, the OECD Secretariat of the following:
+(a)
+the name, registration number and address of the recovery facility;
+(b)
+a description of the technology employed, and the R-code or codes as referred to in Annex II to Directive 2008/98/EC;
+(c)
+the waste identification code or codes for the wastes to which the pre-consent applies;
+(d)
+the total pre-consented quantity;
+(e)
+the period of validity of the pre-consent;
+(f)
+any change in the pre-consent;
+(g)
+any change in the information notified;
+(h)
+any revocation of the pre-consent.
+14.   By way of derogation from Articles 9, 10 and 12, the consent given in accordance with Article 9(1), the conditions imposed in accordance with Article 10 or the objections raised in accordance with Article 12 by all the competent authorities concerned with respect of a notification for a shipment destined for a pre-consented facility shall be subject to a time limit of seven working days after the date on which the notifier has been informed in accordance with Article 8(12) that the notification has been properly completed.
+15.   If one or more competent authorities wish to request additional information in accordance with Article 8(2), (4), (7) or (9), in relation to a notification for shipments to a pre-consented facility, the periods mentioned in those paragraphs, as well as in Article 8(3) and (8), shall be shortened to:
+(a)
+five working days for Article 8(2), (3), (7) and (8); and
+(b)
+three working days for Article 8(4) and (9).
+16.   Notwithstanding paragraph 14, a competent authority concerned may decide that more time is needed in order to receive further information or documentation from the notifier.
+In such cases, that competent authority shall, within seven working days of the date on which the notifier has been informed in accordance with Article 8(12) that the notification has been properly completed, inform the notifier and the other competent authorities concerned.
+The total time needed to take one of the decisions as referred to in Article 9(1) shall not exceed 30 days from the date on which the notifier has been informed in accordance with Article 8(12) that the notification has been properly completed.

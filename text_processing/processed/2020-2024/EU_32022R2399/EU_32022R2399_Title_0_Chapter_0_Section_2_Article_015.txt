@@ -1,0 +1,9 @@
+Article 15
+Additional information exchange processed through EU CSW-CERTEX
+1.   EU CSW-CERTEX shall enable the necessary exchange of information between national single window environments for customs and Union non-customs systems for the following purposes:
+(a)
+transmitting the data that have been identified as the common data set pursuant to Article 13(1), as well as the applicable additional data elements identified pursuant to Article 13(2) (‘partner competent authority data set’) to enable partner competent authorities to carry out their duties in respect of the relevant formalities, in accordance with Union legislation other than customs legislation;
+(b)
+transmitting to economic operators for the purposes of Article 11(1), point (b), any feedback from partner competent authorities entered in the relevant Union non-customs systems.
+2.   Where an economic operator is registered with the customs authorities in accordance with Article 9 of Regulation (EU) No 952/2013, the EORI number shall be used for the exchanges of information referred to in paragraph 1 of this Article.
+3.   The Commission shall adopt implementing acts, establishing procedural arrangements for the exchanges of information referred to in paragraph 1 of this Article, including, where appropriate, any specific rules governing the protection of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).

@@ -1,0 +1,15 @@
+Article 19
+Rules and conditions for affixing the CE marking
+1.   The CE marking shall be affixed visibly, legibly and indelibly to any of the following:
+(a)
+each item of pressure equipment referred to in Article 4(1) or its dataplate;
+(b)
+each assembly referred to in Article 4(2) or its dataplate.
+Where the affixing of the CE marking is not possible or not warranted on account of the nature of the equipment or assembly, it shall be affixed to the packaging and to the accompanying documents.
+The item or assembly referred to in points (a) and (b) of the first subparagraph shall be complete or shall be in a state permitting final assessment as described in point 3.2 of Annex I.
+2.   It is not necessary for the CE marking to be affixed to each individual item of pressure equipment making up an assembly. Individual items of pressure equipment already bearing the CE marking when incorporated into the assembly shall continue to bear that marking.
+3.   The CE marking shall be affixed before the item of pressure equipment or the assembly is placed on the market.
+4.   The CE marking shall be followed by the identification number of the notified body, where that body is involved in the production control phase.
+The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the manufacturer or his authorised representative.
+5.   The CE marking and, where applicable, the identification number referred to in paragraph 4 may be followed by any other mark indicating a special risk or use.
+6.   Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking.

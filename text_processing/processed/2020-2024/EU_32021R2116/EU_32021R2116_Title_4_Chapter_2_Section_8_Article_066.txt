@@ -1,0 +1,21 @@
+Article 66
+Elements of the integrated system
+1.   The integrated system shall comprise the following elements:
+(a)
+an identification system for agricultural parcels;
+(b)
+a geo-spatial application system and, where applicable, an animal-based application system;
+(c)
+an area monitoring system;
+(d)
+a system for the identification of beneficiaries of the interventions and measures referred to in Article 65(2);
+(e)
+a control and penalty system;
+(f)
+where applicable, a system for the identification and registration of payment entitlements;
+(g)
+where applicable, a system for the identification and registration of animals.
+2.   The integrated system shall provide information relevant for the reporting on the indicators referred to in Article 7 of Regulation (EU) 2021/2115.
+3.   The integrated system shall operate on the basis of electronic databases and geographic information systems and shall enable the exchange and integration of data between the electronic databases and the geographic information systems. Where relevant, geographic information systems shall allow for this exchange and integration of data on agricultural parcels in delimited protected zones and designated areas that have been established in accordance with Union legislation listed in Annex XIII to Regulation (EU) 2021/2115, such as Natura 2000 areas or nitrate vulnerable zones within the meaning of Article 2, point (k), of Council Directive 91/676/EEC (32), as well as the landscape features under the good agricultural and environmental conditions defined in accordance with Article 13 of Regulation (EU) 2021/2115 or covered by interventions listed in Title III, Chapters II and IV, of that Regulation.
+4.   Without prejudice to the responsibilities of the Member States for the implementation and application of the integrated system, the Commission may seek the assistance of specialised bodies or persons in order to facilitate the establishment, monitoring and operation of the integrated system, in particular with a view to providing the competent authorities of the Member States with technical advice.
+5.   Member States shall take the measures required for the proper establishment and operation of the integrated system and, where requested by another Member State, shall give one another the mutual assistance needed for the purposes of this Chapter.

@@ -1,0 +1,21 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘reference period’ means the reference period referred to in Article 63(5), point (a), of the Financial Regulation, which shall be from 1 January 2020 to 31 December 2023;
+(2)
+‘applicable law’ means Union law and the national law relating to its application;
+(3)
+‘irregularity’ means any breach of applicable law resulting from an act or omission by any public or private entity involved in the implementation of the financial contribution from the Reserve, including Member State authorities, which has, or would have, the effect of prejudicing the Union budget by charging an unjustified item of expenditure to the Union budget;
+(4)
+‘systemic irregularity’ means any irregularity, which may be of a recurring nature, with a high probability of occurrence in similar types of measures;
+(5)
+‘total errors’ means the sum of the projected random errors and, if applicable, delimited systemic errors and uncorrected anomalous errors;
+(6)
+‘total error rate’ means total errors divided by the audit population;
+(7)
+‘residual error rate’ means the total errors less the financial corrections applied by the Member State to reduce the risks identified by the independent audit body, divided by the expenditure to be declared in the application for a financial contribution from the Reserve;
+(8)
+‘relocation’ means a transfer of the same or similar activity or part thereof within the meaning of Article 2, point (61a), of Commission Regulation (EU) No 651/2014 (20);
+(9)
+‘territories with special status’, in the context of this Regulation, means, where appropriate, the British Overseas Territories and the Crown Dependencies.

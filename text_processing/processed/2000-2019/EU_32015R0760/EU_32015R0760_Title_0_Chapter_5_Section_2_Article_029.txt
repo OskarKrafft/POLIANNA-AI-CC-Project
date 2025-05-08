@@ -1,0 +1,17 @@
+Article 29
+Specific provisions concerning the depositary of an ELTIF marketed to retail investors
+1.   By way of derogation from Article 21(3) of Directive 2011/61/EU, the depositary of an ELTIF marketed to retail investors shall be an entity of the type referred to in Article 23(2) of Directive 2009/65/EC.
+2.   By way of derogation from the second subparagraph of Article 21(13) and Article 21(14) of Directive 2011/61/EU, the depositary of an ELTIF marketed to retail investors shall not be able to discharge itself of liability in the event of a loss of financial instruments held in custody by a third party.
+3.   The liability of the depositary referred to in Article 21(12) of Directive 2011/61/EU shall not be excluded or limited by agreement where the ELTIF is marketed to retail investors.
+4.   Any agreement that contravenes paragraph 3 shall be void.
+5.   The assets held in custody by the depositary of an ELTIF shall not be reused by the depositary, or by any third party to whom the custody function has been delegated, for their own account. Reuse comprises any transaction involving assets held in custody including, but not limited to, transferring, pledging, selling and lending.
+The assets held in custody by the depositary of an ELTIF are only allowed to be reused provided that:
+(a)
+the reuse of the assets is executed for the account of the ELTIF;
+(b)
+the depositary is carrying out the instructions of the manager of the ELTIF on behalf of the ELTIF;
+(c)
+the reuse is for the benefit of the ELTIF and in the interests of the unit- or shareholders; and
+(d)
+the transaction is covered by high quality and liquid collateral received by the ELTIF under a title transfer arrangement.
+The market value of the collateral referred to in point (d) of the second subparagraph shall at all times amount to at least the market value of the reused assets plus a premium.

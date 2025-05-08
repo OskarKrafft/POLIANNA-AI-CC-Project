@@ -1,0 +1,73 @@
+Article 46
+Amendments to Directive 89/665/EEC
+Directive 89/665/EEC is amended as follows:
+(1)
+in Article 1, paragraph 1 is replaced by the following:
+‘1.   This Directive applies to contracts referred to in Directive 2014/24/EU of the European Parliament and of the Council (*1) unless such contracts are excluded in accordance with Articles 7, 8, 9, 10, 11, 12, 15, 16, 17 and 37 of that Directive.
+This Directive also applies to concessions awarded by contracting authorities, referred to in Directive 2014/23/EU of the European Parliament and of the Council (*2) unless such concessions are excluded in accordance with Articles 10, 11, 12, 17 and 25 of that Directive.
+Contracts within the meaning of this Directive include public contracts, framework agreements, works and services concessions and dynamic purchasing systems.
+Member States shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU, decisions taken by the contracting authorities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles 2 to 2f of this Directive, on the grounds that such decisions have infringed Union law in the field of public procurement or national rules transposing that law.
+
+(*1)  Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement (OJ L 94, 28.3.2014, p. 65)."
+                        
+
+(*2)  Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contract (OJ L 94, 28.3.2014, p. 1).’;"
+                        
+(2)
+in Article 2a, paragraph 2 is amended as follows:
+(a)
+the first subparagraph is replaced by the following:
+‘A contract may not be concluded following the decision to award a contract falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned if fax or electronic means are used or, if other means of communication are used, before the expiry of a period of either at least 15 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned or at least 10 calendar days with effect from the day following the date of the receipt of the contract award decision.’;
+(b)
+in the fourth subparagraph, the first indent is replaced by the following:
+‘—
+a summary of the relevant reasons as set out in Article 55(2) of Directive 2014/24/EU, subject to Article 55(3) of that Directive, or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to Article 40(2) of that Directive, and’;
+(3)
+Article 2b is amended as follows:
+(a)
+in the first paragraph:
+(i)
+point (a) is replaced by the following:
+‘(a)
+if Directive 2014/24/EU or, where relevant, Directive 2014/23/EU does not require prior publication of a contract notice in the Official Journal of the European Union;’;
+(ii)
+point (c) is replaced by the following:
+‘(c)
+in the case of a contract based on a framework agreement as provided for in Article 33 of Directive 2014/24/EU and in the case of a specific contract based on a dynamic purchasing system as provided for in Article 34 of that Directive.’;
+(b)
+in the second paragraph, the first and the second indent are replaced by the following:
+‘—
+there is an infringement of point (c) of Article 33(4) or of Article 34(6) of Directive 2014/24/EU, and
+—
+the contract value is estimated to be equal to or to exceed the thresholds set out in Article 4 of Directive 2014/24/EU.’;
+(4)
+in Article 2c, the words ‘Directive 2004/18/EC’ are replaced by the words ‘Directive 2014/24/EU or Directive 2014/23/EU’;
+(5)
+Article 2d is amended as follows:
+(a)
+in paragraph 1:
+(i)
+point (a) is replaced by the following:
+‘(a)
+if the contracting authority has awarded a contract without prior publication of a contract notice in the Official Journal of the European Union without this being permissible in accordance with Directive 2014/24/EU or Directive 2014/23/EU’;
+(ii)
+in point (b) the words ‘Directive 2004/18/EC’ are replaced by the words ‘Directive 2014/24/EU or Directive 2014/23/EU’;
+(b)
+in paragraph 4, the first indent is replaced by the following:
+‘—
+the contracting authority considers that the award of a contract without prior publication of a contract notice in the Official Journal of the European Union is permissible in accordance with Directive 2014/24/EU or Directive 2014/23/EU’;
+(c)
+in paragraph 5, the first indent is replaced by the following:
+‘—
+the contracting authority considers that the award of a contract is in accordance with point (c) of Article 33(4) or with Article 34(6) of Directive 2014/24/EU,’;
+(6)
+in Article 2f(1), point (a) is replaced by the following:
+‘(a)
+before the expiry of at least 30 calendar days with effect from the day following the date on which:
+—
+the contracting authority published a contract award notice in accordance with Articles 50 and 51 of Directive 2014/24/EU or with Articles 31 and 32 of Directive 2014/23/EU, provided that this notice includes justification of the decision of the contracting authority to award the contract without prior publication of a contract notice in the Official Journal of the European Union, or
+—
+the contracting authority informed the tenderers and candidates concerned of the conclusion of the contract, provided that this information contains a summary of the relevant reasons as set out in Article 55(2) of Directive 2014/24/EU, subject to Article 55(3) of that Directive or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to Article 40(2) of that Directive. This option also applies to the cases referred to in point (c) of the first paragraph of Article 2b of this Directive’;
+(7)
+in Article 3, paragraph 1 is replaced by the following:
+‘1.   The Commission may invoke the procedure provided for in paragraphs 2 to 5 when, prior to a contract being concluded, it considers that a serious infringement of Union law in the field of public procurement has been committed during a contract award procedure falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU.’.

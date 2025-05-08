@@ -1,0 +1,37 @@
+Article 57
+Manufacturers’ obligations
+1.   Manufacturers shall provide unrestricted access to vehicle repair and maintenance information to independent operators through websites using a standardised format in a readily accessible and prompt manner. In particular, this access shall be granted in a manner which is non-discriminatory compared to the provision given or access granted to authorised dealers and repairers. This obligation shall not apply if a vehicle has been approved as a small series vehicle.
+2.   Until the Commission has adopted a common standard, the information referred to in paragraph 1 shall be submitted in a consistent manner that can be processed by independent operators with reasonable effort.
+Manufacturers shall also make training material available to independent operators and authorised dealers and repairers.
+3.   The information referred to in paragraph 1 shall include as a minimum all of the following:
+(a)
+an unequivocal vehicle identification number;
+(b)
+service handbooks including repair and maintenance records and service schedules;
+(c)
+technical manuals and technical service bulletins;
+(d)
+component and diagnosis information (such as minimum and maximum theoretical values for measurements);
+(e)
+wiring diagrams;
+(f)
+diagnostic trouble codes, including manufacturer-specific codes;
+(g)
+the software identification and calibration verification numbers applicable to a vehicle type;
+(h)
+information concerning, and delivered by means of, proprietary tools and equipment;
+(i)
+data record information and two-directional monitoring and test data;
+(j)
+work units.
+4.   Authorised dealers or repairers within the distribution system of a given vehicle manufacturer shall be regarded as independent operators for the purposes of this Regulation to the extent that they provide repair or maintenance services for vehicles in respect of which they are not members of the vehicle manufacturer’s distribution system.
+5.   The vehicle repair and maintenance information shall always be available, except as required for maintenance purposes of the information system.
+6.   For the purposes of manufacture and servicing of OBD-compatible replacement or service parts and diagnostic tools and test equipment, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested manufacturer or repairer of component, diagnostic tool or test equipment.
+7.   For the purposes of design and manufacture of automotive equipment for alternative-fuel vehicles, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested manufacturer, installer or repairer of equipment for alternative-fuel vehicles.
+8.   When applying for EU type-approval, the manufacturer shall provide the approval authority with proof of compliance with this Regulation relating to the information required under this Article.
+In the event that such information is not available, or does not conform to this Regulation and the delegated and implementing acts adopted pursuant to this Regulation, when applying for EU type-approval, the manufacturer shall provide it within six months from the date of type-approval.
+The Commission may adopt implementing acts in order to lay down a template of a certificate on access to vehicle OBD and vehicle repair and maintenance information providing such proof of compliance to the approval authority. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(2).
+9.   If such proof of compliance is not provided within the period referred to in the second subparagraph of paragraph 8, the approval authority shall take appropriate measures to ensure compliance.
+10.   The manufacturer shall make subsequent amendments and supplements to vehicle repair and maintenance information available on its websites at the same time they are made available to authorised repairers.
+11.   Where repair and maintenance records of a vehicle are kept in a central database of the vehicle manufacturer or on its behalf, independent repairers shall have access to such records free of charge and shall be able to enter information on repair and maintenance which they have performed.
+12.   The Commission shall be empowered to adopt delegated acts in accordance with Article 75 laying down the details of the requirements with regard to access to repair and maintenance information, in particular technical specifications relating to the way in which vehicle repair and maintenance information shall be provided.

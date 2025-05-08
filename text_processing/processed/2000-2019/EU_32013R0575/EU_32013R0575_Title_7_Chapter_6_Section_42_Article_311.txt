@@ -1,0 +1,19 @@
+Article 311
+Own funds requirements for exposures to CCPs that cease to meet certain conditions
+1.   An institution shall apply the treatment set out in this Article where one or both of the following conditions have been met:
+(a)
+the institution has received from a CCP a notification required by point (j)(ii) of Article 50b of Regulation (EU) No 648/2012 that the CCP has stopped calculating KCCP;
+(b)
+it has become known to the institution, following a public announcement or notification from the competent authority of a CCP used by the institution or from that CCP itself, that the CCP will no longer comply with the conditions for authorisation or recognition, as applicable.
+2.   Where only the condition in point (a) of paragraph 1 has been met, the competent authority of the institution shall verify the reasons why the CCP has stopped calculating KCCP.
+Where the competent authority considers that the reasons referred to in the first subparagraph are valid, it may permit institutions in its Member State to apply the treatment set out in Article 310 to their trade exposures and default fund contributions to that CCP. Where it grants such permission, it shall disclose the reasons for its decision.
+Where the competent authority considers that the reasons referred to in the first subparagraph are not valid, all institutions in its Member State, irrespective of the treatment they chose in accordance with Article 301(2), shall apply the treatment set out in points (a) to (d) of paragraph 3 of this Article.
+3.   Where the condition in point (b) of paragraph 1 has been met, irrespective of whether the condition in point (a) of that paragraph has been met or not, an institution shall, within three months of the circumstance set out in point (b) of that paragraph arising, or earlier where the competent authority of the institution requires it, do the following with respect to its exposures to that CCP:
+(a)
+cease to apply the treatment it chose in accordance with Article 301(2);
+(b)
+apply the treatment set out in point (b) of Article 306(1) to its trade exposures to that CCP;
+(c)
+apply the treatment set out in Article 309 to its pre-funded contributions to the default fund of that CCP and to its unfunded contributions to that CCP;
+(d)
+treat exposures other than those listed in points (b) and (c) to that CCP as exposures to a corporate in accordance with the Standardised Approach for credit risk as set out in Chapter 2.

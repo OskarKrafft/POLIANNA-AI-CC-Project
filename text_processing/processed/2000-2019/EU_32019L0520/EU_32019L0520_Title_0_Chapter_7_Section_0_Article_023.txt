@@ -1,0 +1,14 @@
+Article 23
+Procedure for the exchange of information between Member States
+1.   In order to allow the identification of the vehicle, and the owner or holder of that vehicle, for which a failure to pay a road fee has been established, each Member State shall grant access only to other Member States' national contact points to the following national vehicle registration data, with the power to conduct automated searches thereon:
+(a)
+data relating to vehicles; and
+(b)
+data relating to the owners or holders of the vehicle.
+The data elements referred to in points (a) and (b) which are necessary in order to conduct an automated search shall comply with Annex I.
+2.   For the purposes of the exchange of data referred to in paragraph 1, each Member State shall designate a national contact point. Member States shall take the measures necessary to ensure that the exchange of information between Member States takes place only between the national contact points. The powers of the national contact points shall be governed by the applicable law of the Member State concerned. In that data exchange process, particular attention shall be paid to the proper protection of personal data.
+3.   When conducting an automated search in the form of an outgoing request, the national contact point of the Member State in whose territory there was a failure to pay a road fee shall use a full registration number.
+Those automated searches shall be conducted in compliance with the procedures referred to in points 2 and 3 of Chapter 3 of the Annex to Council Decision 2008/616/JHA (16) and with the requirements of Annex I to this Directive.
+The Member State in whose territory there was a failure to pay a road fee shall use the data obtained in order to establish who is liable for the failure to pay that fee.
+4.   Member States shall take the measures necessary to ensure that the exchange of information is carried out using the European Vehicle and Driving Licence Information System (Eucaris) software application and amended versions of this software, in compliance with Annex I to this Directive and with points 2 and 3 of Chapter 3 of the Annex to Decision 2008/616/JHA.
+5.   Each Member State shall bear its own costs arising from the administration, use and maintenance of the software applications referred to in paragraph 4.

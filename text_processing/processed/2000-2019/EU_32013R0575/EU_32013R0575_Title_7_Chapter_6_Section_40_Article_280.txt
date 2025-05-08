@@ -1,0 +1,48 @@
+Article 280
+Calculation of risk positions
+1.   An institution shall determine the size and sign of a risk position as follows:
+(a)
+for all instruments other than debt instruments:
+(i)
+as the effective notional value in the case of a transaction with a linear risk profile;
+(ii)
+
+
+
+
+
+where:
+Pref
+
+=
+price of the underlying instrument, expressed in the reference currency;
+V
+=
+value of the financial instrument (in the case of an option, the value is the option price);
+p
+=
+price of the underlying instrument, expressed in the same currency as V;
+(b)
+for debt instruments and the payment legs of all transactions:
+(i)
+as the effective notional value multiplied by the modified duration in the case of a transaction with a linear risk profile;
+(ii)
+
+
+
+
+
+where:
+V
+=
+value of the financial instrument (in the case of an option this is the option price);
+r
+=
+interest rate level.
+If V is denominated in a currency other than the reference currency, the derivative shall be converted into the reference currency by multiplication with the relevant exchange rate.
+2.   Institutions shall group the risk positions into hedging sets. The absolute value amount of the sum of the resulting risk positions shall be calculated for each hedging set. The net risk position shall be the result of that calculation and shall be calculated for the purposes of Article 276(2) as follows:
+
+
+
+
+

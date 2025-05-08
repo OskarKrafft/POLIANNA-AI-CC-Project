@@ -1,0 +1,9 @@
+Article 19
+Prohibition of defeat devices
+The use of defeat devices that reduce the effectiveness of safety, electromagnetic compatibility, the on-board diagnostics system, sound abatement or pollutant emission abatement systems shall be prohibited. An element of design shall not be considered a defeat device if any of the following conditions is met:
+(a)
+the need for the device is justified in terms of protecting the engine against damage or accident and ensuring safe operation of the vehicle;
+(b)
+the device does not function beyond the requirements of engine starting;
+(c)
+the operating conditions are included to a substantial extent in the test procedures for verifying if the vehicle complies with this Regulation and with the delegated and implementing acts adopted pursuant to this Regulation.

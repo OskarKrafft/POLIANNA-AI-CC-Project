@@ -1,0 +1,35 @@
+Article 2
+For the purposes of this Directive:
+1. "type of vehicle" means either a vehicle or a group of vehicles (variants) which:
+(a) belong to a single category (two-wheel moped L1e, three-wheel moped L2e, etc., as defined in Article 1);
+(b) are constructed by the same manufacturer;
+(c) have the same chassis, frame, sub-frame, floor pan or structure to which major components are attached;
+(d) have a power unit with the same principle of operation (internal combustion, electric, hybrid, etc.);
+(e) have the same type designation given by the manufacturer.
+A type of vehicle may include variants and versions;
+2. "variant" means either a vehicle or a group of vehicles (versions) being of the same type where:
+(a) they have the same shape of the bodywork (basic characteristics);
+(b) within the group of vehicles (versions) the difference in the mass in running order between the lowest value and the highest value does not exceed 20 % of the lowest value;
+(c) within the group of vehicles (versions) the difference in the maximum permissible mass between the lowest value and the highest value does not exceed 20 % of the lowest value;
+(d) they have the same operating cycle (two or four stroke, spark ignition or compression ignition);
+(e) within the group of vehicles (versions) the difference in the cylinder capacity of the power unit (in the case of an internal combustion unit) between the lowest value and the highest value does not exceed 30 % of the lowest value;
+(f) have the same number and arrangement of cylinders;
+(g) within the group of vehicles (versions) the difference in the power output of the power unit between the lowest value and the highest value does not exceed 30 % of the lowest value;
+(h) have the same operating mode (of electric motors);
+(i) have the same type of gearbox (manual, automatic, etc.);
+3. "version" means a vehicle of the same typeand variant but which may incorporate any of the equipment, components or systems listed in the information document in Annex II provided that there is only:
+(a) one value quoted for:
+(i) the mass in running order;
+(ii) the maximum permissible mass;
+(iii) the power output of the power unit;
+(iv) the cylinder capacity of the power unit; and
+(b) one set of test results quoted in accordance with Annex VII;
+4. "system" means any vehicle system such as brakes, emission control equipment, etc. which is subject to the requirements laid down in any of the separate directives;
+5. "separate technical unit" means a device, such as a replacement exhaust system silencer, subject to the requirements of a separate directive, intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified types of vehicles, where the separate directive makes express provision for so doing;
+6. "component" means a device, such as a lamp, subject to the requirements of a separate directive, intended to be part of a vehicle, which may be type-approved independently of a vehicle, where the separate directive makes express provision for so doing;
+7. "type-approval" means the procedure whereby a Member State certifies that a type of vehicle, system, separate technical unit or component satisfies the technical requirements set out in this Directive or the separate directives and the checks on the correctness of the manufacturer's data, as provided for in the exhaustive list set out in Annex I;
+8. "twinned wheels" means two wheels mounted on the same axle, the distance between the centres of their areas of contact with the ground being less than 460 mm. Twinned wheels shall be considered as one wheel;
+9. "twin-propulsion vehicles" means vehicles with two different systems of propulsion, for example an electric system and a thermic system;
+10. "manufacturer" means the person or body responsible to the approval authority for all aspects of the type-approval process and for ensuring conformity of production. It is not essential that the person or body is directly involved in all stages of the construction of the vehicle, component or separate technical unit covered by the approval process;
+11. "technical service" means the organisation or body that has been appointed as a testing laboratory to carry out tests or inspections on behalf of the approval authority of a Member State. This function may also be carried out by the approval authority itself.
+

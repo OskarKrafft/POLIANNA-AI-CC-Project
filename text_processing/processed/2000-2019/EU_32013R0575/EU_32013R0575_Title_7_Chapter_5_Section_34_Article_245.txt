@@ -1,0 +1,13 @@
+Article 245
+Calculation of risk-weighted exposure amounts
+1.   Where an originator institution has transferred significant credit risk associated with securitised exposures in accordance with Section 2, that institution may:
+(a)
+in the case of a traditional securitisation, exclude from its calculation of risk-weighted exposure amounts, and, as relevant, expected loss amounts, the exposures which it has securitised;
+(b)
+in the case of a synthetic securitisation, calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, in respect of the securitised exposures in accordance with Articles 249 and 250.
+2.   Where the originator institution has decided to apply paragraph 1, it shall calculate the risk-weighted exposure amounts prescribed in this Chapter for the positions that it may hold in the securitisation.
+Where the originator institution has not transferred significant credit risk or has decided not to apply paragraph 1, it need not calculate risk-weighted exposure amounts for any positions it may have in the securitisation in question but shall continue including the securitised exposures in its calculation of risk-weighted exposure amounts as if they had not been securitised.
+3.   Where there is an exposure to different tranches in a securitisation, the exposure to each tranche shall be considered a separate securitisation position. The providers of credit protection to securitisation positions shall be considered to hold positions in the securitisation. Securitisation positions shall include exposures to a securitisation arising from interest rate or currency derivative contracts.
+4.   Unless a securitisation position is deducted from Common Equity Tier 1 items pursuant to Article 36(1)(k), the risk-weighted exposure amount shall be included in the institution's total of risk-weighted exposure amounts for the purposes of Article 92(3).
+5.   The risk-weighted exposure amount of a securitisation position shall be calculated by applying to the exposure value of the position, calculated as set out in Article 246, the relevant total risk weight.
+6.   The total risk weight shall be determined as the sum of the risk weight set out in this Chapter and any additional risk weight in accordance with Article 407.

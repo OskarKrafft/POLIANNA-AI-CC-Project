@@ -1,0 +1,33 @@
+Article 15
+Operational management
+1.   After a transitional period, a management authority (the ‘Management Authority’), funded from the general budget of the European Union, shall be responsible for the operational management of Central SIS II. The Management Authority shall ensure, in cooperation with the Member States, that at all times the best available technology, subject to a cost-benefit analysis, is used for Central SIS II.
+2.   The Management Authority shall also be responsible for the following tasks relating to the Communication Infrastructure:
+(a)
+supervision;
+(b)
+security;
+(c)
+the coordination of relations between the Member States and the provider.
+3.   The Commission shall be responsible for all other tasks relating to the Communication Infrastructure, in particular:
+(a)
+tasks relating to implementation of the budget;
+(b)
+acquisition and renewal;
+(c)
+contractual matters.
+4.   During a transitional period before the Management Authority takes up its responsibilities, the Commission shall be responsible for the operational management of Central SIS II. The Commission may delegate that task and tasks relating to implementation of the budget, in accordance with the Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities (17), to national public-sector bodies, in two different countries.
+5.   Each national public-sector body referred to in paragraph 4 shall meet the following selection criteria:
+(a)
+it must demonstrate that it has lengthy experience in operating a large-scale information system with the functionalities referred to in Article 4(4);
+(b)
+it must have considerable expertise in the service and security requirements of an information system with functionalities comparable to those referred to in Article 4(4);
+(c)
+it must have sufficient and experienced staff with the appropriate professional expertise and linguistic skills to work in an international cooperation environment such as that required by SIS II;
+(d)
+it must have a secure and custom-built facility infrastructure able, in particular, to back-up and guarantee the continuous functioning of large-scale IT systems;
+and
+(e)
+its administrative environment must allow it to implement its tasks properly and avoid any conflict of interests.
+6.   Prior to any delegation as referred to in paragraph 4 and at regular intervals thereafter, the Commission shall inform the European Parliament and the Council of the terms of the delegation, its precise scope, and the bodies to which tasks are delegated.
+7.   Where the Commission delegates its responsibility during the transitional period pursuant to paragraph 4, it shall ensure that this delegation fully respects the limits set by the institutional system laid out in the Treaty. It shall ensure, in particular, that this delegation does not adversely affect any effective control mechanism under Community law, whether of the Court of Justice, the Court of Auditors or the European Data Protection Supervisor.
+8.   Operational management of Central SIS II shall consist of all the tasks necessary to keep Central SIS II functioning 24 hours a day, 7 days a week in accordance with this Regulation, in particular the maintenance work and technical developments necessary for the smooth running of the system.

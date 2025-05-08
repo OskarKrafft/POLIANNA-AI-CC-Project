@@ -1,0 +1,37 @@
+Article 10
+Content of emergency plans
+1.   The emergency plan shall:
+(a)
+build upon the crisis levels referred to in Article 11(1);
+(b)
+define the role and responsibilities of natural gas undertakings, transmission system operators for electricity if relevant and of industrial gas customers including relevant electricity producers, taking account of the different extent to which they are affected in the event of a disruption of gas supply, and their interaction with the competent authorities and where appropriate with the national regulatory authorities at each of the crisis levels referred to in Article 11(1);
+(c)
+define the role and responsibilities of the competent authorities and of the other bodies to which tasks have been delegated as referred to in Article 3(2) at each of the crisis levels referred to in Article 11(1);
+(d)
+ensure that natural gas undertakings and industrial gas customers including relevant electricity producers are given sufficient opportunity to respond to the crisis levels referred to in Article 11(1);
+(e)
+identify, if appropriate, the measures and actions to be taken to mitigate the potential impact of a disruption of gas supply on district heating and the supply of electricity generated from gas, including through an integrated view of energy systems operations across electricity and gas if relevant;
+(f)
+establish detailed procedures and measures to be followed for the crisis levels referred to in Article 11(1), including the corresponding schemes on information flows;
+(g)
+designate a crisis manager and define its role;
+(h)
+identify the contribution of market-based measures for coping with the situation at alert level and mitigating the situation at emergency level;
+(i)
+identify the contribution of non-market-based measures planned or to be implemented for the emergency level, and assess the degree to which the use of such non-market-based measures is necessary to cope with a crisis. The effects of the non-market-based measures shall be assessed and procedures for their implementation defined. Non-market-based measures are to be used only when market-based mechanisms alone can no longer ensure supplies, in particular to protected customers, or for the application of Article 13;
+(j)
+describe the mechanisms used to cooperate with other Member States for the crisis levels referred to in Article 11(1) and information exchange arrangements between the competent authorities;
+(k)
+detail the reporting obligations imposed on natural gas undertakings and, where appropriate, electricity undertakings at alert and emergency levels;
+(l)
+describe the technical or legal arrangements in place to prevent undue gas consumption of customers who are connected to a gas distribution or transmission network but not protected customers;
+(m)
+describe the technical, legal and financial arrangements in place to apply the solidarity obligations laid down in Article 13;
+(n)
+estimate the gas volumes that could be consumed by solidarity protected customers covering at least the cases described in Article 6(1);
+(o)
+establish a list of predefined actions to make gas available in the event of an emergency, including commercial agreements between the parties involved in such actions and the compensation mechanisms for natural gas undertakings where appropriate, taking due account of the confidentiality of sensitive data. Such actions may involve cross-border agreements between Member States and/or natural gas undertakings.
+In order to prevent undue gas consumption during an emergency, as referred to in point (l) of the first subparagraph, or during the application of the measures referred to in Article 11(3) and Article 13, the competent authority of the Member State concerned shall inform customers who are not protected customers that they are required to cease or reduce their gas consumption without creating technically unsafe situations.
+2.   The emergency plan shall be updated every four years after 1 March 2019 or more frequently if circumstances so warrant or at the Commission's request. The updated plan shall reflect the updated risk assessment and the results of the tests carried out in accordance with paragraph 3 of this Article. Article 8(4) to (11) shall apply to the updated plan.
+3.   The measures, actions and procedures contained in the emergency plan shall be tested at least once between its four-year updates referred to in paragraph 2. In order to test the emergency plan, the competent authority shall simulate high and medium impact scenarios and responses in real time in accordance with that emergency plan. The results of the tests shall be presented at the GCG by the competent authority.
+4.   The emergency plan shall ensure that cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible in the event of an emergency and shall not introduce any measure unduly restricting the flow of gas across borders.

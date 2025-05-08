@@ -1,0 +1,19 @@
+Article 16
+Supply of the declaration of performance and conformity
+1.   The manufacturer shall supply by electronic means a copy of the declaration of performance and conformity of each product which is made available on the market, unless the declaration is included in a digital product passport that fulfils the conditions set out in Article 76 and is available through the construction digital product passport system established in accordance with Article 75.
+However, where a batch of the same product is supplied to a single user, it may be accompanied by a single copy of the declaration of performance and conformity.
+2.   By way of derogation from paragraph 1 of this Article, a manufacturer may make the declaration of performance and conformity referred to in Article 13(1) available on a website, provided that the manufacturer complies with all of the following conditions:
+(a)
+ensures that the content of the declaration of performance and conformity is made available in an unamendable electronic format on the website;
+(b)
+provides the declaration of performance and conformity in a human- and machine-readable format and offers the possibility to download a copy in a commonly readable format;
+(c)
+ensures that the website where the declaration of performance and conformity has been made available is monitored and maintained so that the website and the declarations of performance and conformity are continuously available to recipients of the construction product;
+(d)
+ensures that the recipients of construction products are able to access the declaration of performance and conformity free of charge;
+(e)
+provides instructions to the recipients of construction products on how to access the website and the declarations of performance and conformity drawn up for such products available on that website;
+(f)
+provides a link between the product and the declaration of performance and conformity related to it through the unique identification code of the product type; manufacturers may use a data carrier, including a permalink, to provide the link, provided that point (a) is complied with.
+3.   As part of the standardisation request referred to in Article 5(2), the Commission may also request the European standardisation organisation to issue guidelines to ensure interoperability of the human- and machine readable formats referred to in paragraph 2, point (b) of this Article.
+4.   The manufacturer shall supply or make available in a digital product passport in accordance with paragraph 1, or on a website in accordance with paragraph 2, the declaration of performance and conformity in the language or languages required by each of the Member States in which the manufacturer intends to make the product available. Another economic operator who makes that manufacturer’s product available in any additional Member State shall make a translation or translations of the declaration of performance and conformity available in the languages required by the additional Member State, together with the respective original version.

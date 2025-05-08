@@ -1,0 +1,33 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(a)
+‘CO2 emissions’ means the release of CO2 into the atmosphere by ships;
+(b)
+‘port of call’ means the port where a ship stops to load or unload cargo or to embark or disembark passengers; consequently, stops for the sole purposes of refuelling, obtaining supplies, relieving the crew, going into dry-dock or making repairs to the ship and/or its equipment, stops in port because the ship is in need of assistance or in distress, ship-to-ship transfers carried out outside ports, and stops for the sole purpose of taking shelter from adverse weather or rendered necessary by search and rescue activities are excluded;
+(c)
+‘voyage’ means any movement of a ship that originates from or terminates in a port of call and that serves the purpose of transporting passengers or cargo for commercial purposes;
+(d)
+‘company’ means the shipowner or any other organisation or person, such as the manager or the bareboat charterer, which has assumed the responsibility for the operation of the ship from the shipowner;
+(e)
+‘gross tonnage’ (GT) means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I to the International Convention on Tonnage Measurement of Ships, adopted by the International Maritime Organization (IMO) in London on 23 June 1969, or any successor convention;
+(f)
+‘verifier’ means a legal entity carrying out verification activities which is accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008 and this Regulation;
+(g)
+‘verification’ means the activities carried out by a verifier to assess the conformity of the documents transmitted by the company with the requirements of this Regulation;
+(h)
+‘document of compliance’ means a document specific to a ship, issued to a company by a verifier, which confirms that that ship has complied with the requirements of this Regulation for a specific reporting period;
+(i)
+‘other relevant information’ means information related to CO2 emissions from the consumption of fuels, to transport work and to the energy efficiency of ships, which enables the analysis of emission trends and the assessment of ships' performances;
+(j)
+‘emission factor’ means the average emission rate of a greenhouse gas relative to the activity data of a source stream, assuming complete oxidation for combustion and complete conversion for all other chemical reactions;
+(k)
+‘uncertainty’ means a parameter, associated with the result of the determination of a quantity, that characterises the dispersion of the values that could reasonably be attributed to the particular quantity, including the effects of systematic as well as of random factors, expressed as a percentage, and describes a confidence interval around the mean value comprising 95 % of inferred values taking into account any asymmetry of the distribution of values;
+(l)
+‘conservative’ means that a set of assumptions is defined in order to ensure that no under-estimation of annual emissions or over-estimation of distances or amounts of cargo carried occurs;
+(m)
+‘reporting period’ means one calendar year during which CO2 emissions have to be monitored and reported. For voyages starting and ending in two different calendar years, the monitoring and reporting data shall be accounted under the first calendar year concerned;
+(n)
+‘ship at berth’ means a ship which is securely moored or anchored in a port falling under the jurisdiction of a Member State while it is loading, unloading or hotelling, including the time spent when not engaged in cargo operations;
+(o)
+‘ice class’ means the notation assigned to the ship by the competent national authorities of the flag State or an organisation recognised by that State, showing that the ship has been designed for navigation in sea-ice conditions.

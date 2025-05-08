@@ -1,0 +1,44 @@
+Article 11
+Requirements, technical capabilities and tasks of CSIRTs
+1.   The CSIRTs shall comply with the following requirements:
+(a)
+the CSIRTs shall ensure a high level of availability of their communication channels by avoiding single points of failure, and shall have several means for being contacted and for contacting others at all times; they shall clearly specify the communication channels and make them known to constituency and cooperative partners;
+(b)
+the CSIRTs’ premises and the supporting information systems shall be located at secure sites;
+(c)
+the CSIRTs shall be equipped with an appropriate system for managing and routing requests, in particular to facilitate effective and efficient handovers;
+(d)
+the CSIRTs shall ensure the confidentiality and trustworthiness of their operations;
+(e)
+the CSIRTs shall be adequately staffed to ensure availability of their services at all times and they shall ensure that their staff is trained appropriately;
+(f)
+the CSIRTs shall be equipped with redundant systems and backup working space to ensure continuity of their services.
+The CSIRTs may participate in international cooperation networks.
+2.   Member States shall ensure that their CSIRTs jointly have the technical capabilities necessary to carry out the tasks referred to in paragraph 3. Member States shall ensure that sufficient resources are allocated to their CSIRTs to ensure adequate staffing levels for the purpose of enabling the CSIRTs to develop their technical capabilities.
+3.   The CSIRTs shall have the following tasks:
+(a)
+monitoring and analysing cyber threats, vulnerabilities and incidents at national level and, upon request, providing assistance to essential and important entities concerned regarding real-time or near real-time monitoring of their network and information systems;
+(b)
+providing early warnings, alerts, announcements and dissemination of information to essential and important entities concerned as well as to the competent authorities and other relevant stakeholders on cyber threats, vulnerabilities and incidents, if possible in near real-time;
+(c)
+responding to incidents and providing assistance to the essential and important entities concerned, where applicable;
+(d)
+collecting and analysing forensic data and providing dynamic risk and incident analysis and situational awareness regarding cybersecurity;
+(e)
+providing, upon the request of an essential or important entity, a proactive scanning of the network and information systems of the entity concerned to detect vulnerabilities with a potential significant impact;
+(f)
+participating in the CSIRTs network and providing mutual assistance in accordance with their capacities and competencies to other members of the CSIRTs network upon their request;
+(g)
+where applicable, acting as a coordinator for the purposes of the coordinated vulnerability disclosure under Article 12(1);
+(h)
+contributing to the deployment of secure information-sharing tools pursuant to Article 10(3).
+The CSIRTs may carry out proactive non-intrusive scanning of publicly accessible network and information systems of essential and important entities. Such scanning shall be carried out to detect vulnerable or insecurely configured network and information systems and inform the entities concerned. Such scanning shall not have any negative impact on the functioning of the entities’ services.
+When carrying out the tasks referred to in the first subparagraph, the CSIRTs may prioritise particular tasks on the basis of a risk-based approach.
+4.   The CSIRTs shall establish cooperation relationships with relevant stakeholders in the private sector, with a view to achieving the objectives of this Directive.
+5.   In order to facilitate cooperation referred to in paragraph 4, the CSIRTs shall promote the adoption and use of common or standardised practices, classification schemes and taxonomies in relation to:
+(a)
+incident-handling procedures;
+(b)
+crisis management; and
+(c)
+coordinated vulnerability disclosure under Article 12(1).

@@ -1,0 +1,30 @@
+Article 6
+Ad hoc data requirements
+1.   The Commission is empowered to adopt delegated acts in accordance with Article 17, supplementing this Regulation by specifying the information to be provided by Member States on an ad hoc basis, where, within the scope of this Regulation, the collection of additional information is deemed necessary for the purpose of addressing additional statistical needs. Those delegated acts shall specify:
+(a)
+the topics and detailed topics related to the domains specified in Article 5 to be provided in the ad hoc data collection and the reasons for such additional statistical needs;
+(b)
+the reference periods.
+2.   When exercising the power to adopt delegated acts referred to in paragraph 1, the Commission shall justify the data needs, shall assess the feasibility of collecting the required data, using input from relevant experts, and shall ensure that no significant additional burden or costs are imposed on the Member States or on the respondents.
+3.   The Commission is empowered to adopt delegated acts referred to in paragraph 1 starting from the reference year 2024 and with a minimum of two years between each ad hoc data collection, starting from the deadline for transmitting the data of the latest ad hoc data collection.
+4.   The Commission shall adopt implementing acts to provide:
+(a)
+a list of variables, not exceeding 50 variables;
+(b)
+the description of variables, including all of the following:
+(i)
+the characteristics of the observation unit,
+(ii)
+the measurement unit for the characteristics of the observation unit,
+(iii)
+the organic and regional dimensions for the characteristics of the observation unit;
+a variable is counted as a combination of a characteristic of an observation unit with the corresponding measurement unit and one of its dimensions;
+(c)
+the precision requirements;
+(d)
+the deadlines for transmitting the data;
+(e)
+the observation units;
+(f)
+the description of the reference period as set out in the delegated act referred to in paragraph 1.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 19(2) at least 12 months before the beginning of the relevant reference year.

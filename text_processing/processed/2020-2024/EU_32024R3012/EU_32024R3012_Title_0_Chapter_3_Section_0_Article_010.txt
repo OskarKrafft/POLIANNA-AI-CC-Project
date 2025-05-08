@@ -1,0 +1,19 @@
+Article 10
+Certification bodies
+1.   Certification bodies appointed by certification schemes shall be accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008 or be recognised by a national competent authority as being competent to cover the scope of this Regulation or the specific scope of the certification scheme.
+2.   Certification bodies shall:
+(a)
+be competent to carry out the certification audit and re-certification audit;
+(b)
+be legally and financially independent of an operator or of a group of operators; and
+(c)
+carry out in the public interest the activities required under this Regulation.
+3.   For the purpose of paragraph 2, point (b), certification bodies or any part thereof shall not:
+(a)
+be an operator or a group of operators, the owner of an operator or of a group of operators, or be owned by them;
+(b)
+have relations with an operator or with a group of operators that could affect their independence and impartiality.
+4.   Member States shall supervise the operation of certification bodies.
+Certification bodies shall submit, upon request by the national competent authorities, all relevant information necessary to supervise their operation, including the date, time and location of the certification audit and re-certification audit.
+Where Member States find issues of non-conformity, they shall inform the certification body and the relevant certification scheme thereof without delay.
+The information on issues of non-conformity shall be published in the certification registry or, once established, in the Union registry.

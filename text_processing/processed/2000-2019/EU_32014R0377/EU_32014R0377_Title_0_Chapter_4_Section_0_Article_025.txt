@@ -1,0 +1,7 @@
+Article 25
+Protection of security interests
+1.   The Commission shall evaluate the security framework of Copernicus, taking into account the objectives referred to in Article 4. To that end, the Commission shall assess the necessary security measures which shall be designed to avoid any risks or threats for the interest or security of the Union or its Member States, in particular to ensure compliance with the principles set out in Decision 2001/844/EC, ECSC, Euratom and Decision 2013/488/EU.
+2.   On the basis of the evaluation referred to in paragraph 1, the Commission shall by means of implementing acts establish the necessary security-related technical specifications for Copernicus. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(4).
+3.   The Commission may be assisted by independent experts from Member States in order to define the technical specifications of the security framework referred to in paragraph 2.
+4.   Notwithstanding paragraph 2, the Council shall adopt the measures to be taken whenever the security of the Union or its Member States could be affected by data and information provided by Copernicus.
+5.   Where EU classified information is generated or handled within Copernicus, all participants shall ensure a degree of protection equivalent to that provided by the rules set out in the Annex to Decision 2001/844/EC and in the Annexes to Decision 2013/488/EU.

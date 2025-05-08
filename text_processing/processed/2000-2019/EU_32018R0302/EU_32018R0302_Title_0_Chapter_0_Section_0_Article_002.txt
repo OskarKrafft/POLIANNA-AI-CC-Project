@@ -1,0 +1,39 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘electronically supplied services’ means services which are delivered over the internet or an electronic network and the nature of which renders their supply essentially automated and involving minimal human intervention, and impossible to ensure in the absence of information technology;
+(2)
+‘interchange fee’ means interchange fee as defined in point (10) of Article 2 of Regulation (EU) 2015/751;
+(3)
+‘card-based payment instrument’ means card-based payment instrument as defined in point (20) of Article 2 of Regulation (EU) 2015/751;
+(4)
+‘payment brand’ means payment brand as defined in point (30) of Article 2 of Regulation (EU) 2015/751;
+(5)
+‘payment transaction’ means payment transaction as defined in point (5) of Article 4 of Directive (EU) 2015/2366;
+(6)
+‘payment service’ means payment service as defined in point (3) of Article 4 of Directive (EU) 2015/2366;
+(7)
+‘payment service provider’ means payment service provider as defined in point (11) of Article 4 of Directive (EU) 2015/2366;
+(8)
+‘payment account’ means payment account as defined in point (12) of Article 4 of Directive (EU) 2015/2366;
+(9)
+‘payment instrument’ means payment instrument as defined in point (14) of Article 4 of Directive (EU) 2015/2366;
+(10)
+‘direct debit’ means direct debit as defined in point (23) of Article 4 of Directive (EU) 2015/2366;
+(11)
+‘credit transfer’ means credit transfer as defined in point (24) of Article 4 of Directive (EU) 2015/2366;
+(12)
+‘consumer’ means any natural person who is acting for purposes which are outside his or her trade, business, craft or profession;
+(13)
+‘customer’ means a consumer who is a national of, or has his or her place of residence in, a Member State, or an undertaking which has its place of establishment in a Member State, and receives a service or purchases a good, or seeks to do so, within the Union, for the sole purpose of end use;
+(14)
+‘general conditions of access’ means all terms, conditions and other information, including net sale prices, regulating the access of customers to goods or services offered for sale by a trader, which are set, applied and made available to the public at large by or on behalf of the trader and which apply in the absence of an individually negotiated agreement between the trader and the customer;
+(15)
+‘goods’ means any tangible movable item, with the exception of items sold by way of execution or otherwise by authority of law;
+(16)
+‘online interface’ means any software, including a website or a part thereof and applications, including mobile applications, operated by or on behalf of a trader, which serves to give customers access to the trader's goods or services with a view to engaging in a transaction with respect to those goods or services;
+(17)
+‘service’ means any self-employed economic activity, normally provided for remuneration, as referred to in Article 57 TFEU;
+(18)
+‘trader’ means any natural person or any legal person, irrespective of whether privately or publicly owned, who is acting, including through any other person acting in the name or on behalf of the trader, for purposes relating to the trade, business, craft or profession of the trader.

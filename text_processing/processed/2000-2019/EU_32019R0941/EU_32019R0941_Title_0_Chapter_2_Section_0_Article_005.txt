@@ -1,0 +1,25 @@
+Article 5
+Methodology for identifying regional electricity crisis scenarios
+1.   By 5 January 2020, the ENTSO for Electricity shall submit to ACER a proposal for a methodology for identifying the most relevant regional electricity crisis scenarios.
+2.   The proposed methodology shall identify electricity crisis scenarios in relation to system adequacy, system security and fuel security on the basis of at least the following risks:
+(a)
+rare and extreme natural hazards;
+(b)
+accidental hazards going beyond the N-1 security criterion and exceptional contingencies;
+(c)
+consequential hazards including the consequences of malicious attacks and of fuel shortages.
+3.   The proposed methodology shall include at least the following elements:
+(a)
+a consideration of all relevant national and regional circumstances, including any subgroups;
+(b)
+interaction and correlation of risks across borders;
+(c)
+simulations of simultaneous electricity crisis scenarios;
+(d)
+ranking of risks according to their impact and probability;
+(e)
+principles on how to handle sensitive information in a manner that ensures transparency towards the public.
+4.   When considering the risks of disruption of gas supply in the context of identifying the risks pursuant to point (c) of paragraph 2 of this Article, the ENTSO for Electricity shall use the natural gas supply and infrastructure disruption scenarios developed by ENTSOG pursuant to Article 7 of Regulation (EU) 2017/1938.
+5.   Before submitting the proposed methodology to ACER, the ENTSO for Electricity shall conduct a consultation involving at least the regional coordination centres, industry and consumer organisations, producers or their trade bodies, transmission system operators and relevant distribution system operators, competent authorities, regulatory authorities and other relevant national authorities. The ENTSO for Electricity shall duly take into account the results of the consultation and present them, together with the proposed methodology, at a meeting of the ECG.
+6.   Within two months of receipt of the proposed methodology, ACER shall, after consulting the ECG, in its formation composed only of representatives of the Member States, approve or amend the proposal. The ENTSO for Electricity and ACER shall publish the final version of the methodology on their websites.
+7.   The ENTSO for Electricity shall update and improve the methodology in accordance with paragraphs 1 to 6 where significant new information becomes available. The ECG in its formation composed only of representatives of the Member States may recommend, and ACER or the Commission may request, such updates and improvements with due justification. Within six months of receipt of the request, the ENTSO for Electricity shall submit to ACER a draft of the proposed changes. Within two months of receipt of such a draft, ACER shall, after consulting the ECG, in its formation composed only of representatives of the Member States, approve or amend the proposed changes. The ENTSO for Electricity and ACER shall publish the final version of the updated methodology on their websites.

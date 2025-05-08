@@ -1,0 +1,30 @@
+Article 47
+Vehicle registers
+1.   Until the European Vehicle Register referred to in paragraph 5 is operational, each Member State shall keep a national vehicle register. That register shall:
+(a)
+comply with the common specifications referred to in paragraph 2;
+(b)
+be kept updated by a body independent of any railway undertaking;
+(c)
+be accessible to the national safety authorities and investigating bodies designated in Articles 16 and 22 of Directive (EU) 2016/798; it shall also be made accessible, in response to any legitimate request, to the regulatory bodies referred to in Article 55 of Directive 2012/34/EU, and to the Agency, the railway undertakings and the infrastructure managers, as well as those persons or organisations registering vehicles or identified in the register.
+2.   The Commission shall adopt common specifications for the national vehicle registers as regards their content, data format, functional and technical architecture, operating mode, including arrangements for the exchange of data, and rules for data input and consultation, by means of implementing acts.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3).
+3.   The national vehicle register shall contain at least the following elements:
+(a)
+the EVN;
+(b)
+references to the ‘EC’ declaration of verification and the issuing body;
+(c)
+references to the European register of authorised vehicle types referred to in Article 48;
+(d)
+identification of the owner of the vehicle and the keeper;
+(e)
+restrictions on how the vehicle may be used;
+(f)
+references to the entity in charge of maintenance.
+4.   As long as Member States' national vehicle registers are not linked in accordance with the specification referred to in paragraph 2, each Member State shall update its register, as regards the data with which it is concerned, with the modifications made by another Member State in its own register.
+5.   With a view to reducing administrative burdens and undue costs for Member States and stakeholders, by 16 June 2018, the Commission, taking into account the result of a cost-benefit analysis, shall adopt by means of implementing acts the technical and functional specifications for the European Vehicle Register, which would incorporate the national vehicle registers with a view to providing a harmonised interface to all users for the registration of vehicles and data management. Points (b) and (c) of paragraph 1 and paragraph 3 shall apply. Such a specification shall include content, data format, functional and technical architecture, operating mode, including arrangements for the exchange of data, and rules for data input, and consultation, as well as migration steps.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3) and on the basis of a recommendation of the Agency.
+The European Vehicle Register shall be developed taking into consideration the IT applications and registers already set up by the Agency and the Member States, such as the European Centralised Virtual Vehicle Register connected to the national vehicle registers. The European Vehicle Register shall be operational by 16 June 2021.
+6.   The keeper shall immediately declare any modification to the data entered in the vehicle registers, the destruction of a vehicle or its decision to no longer register a vehicle, to the Member State where the vehicle has been registered.
+7.   In the case of vehicles authorised for the first time in a third country and subsequently used in a Member State, that Member State shall ensure that the vehicle data, including at least data relating to the keeper of the vehicle concerned, the entity in charge of its maintenance and the restrictions on how the vehicle may be used, can be retrieved through a vehicle register or are otherwise made available without delay in an easily readable format and in accordance with the same non-discriminatory principles that apply to similar data from a vehicle register.

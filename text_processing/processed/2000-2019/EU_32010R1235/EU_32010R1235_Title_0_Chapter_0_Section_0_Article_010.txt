@@ -1,0 +1,129 @@
+Article 29
+The Commission shall make public a report on the performance of pharmacovigilance tasks by the Agency on 2 January 2014 at the latest and subsequently every 3 years thereafter.’;
+12.
+Article 56(1) is amended as follows:
+(a)
+the following point is inserted:
+‘(aa)
+the Pharmacovigilance Risk Assessment Committee, which shall be responsible for providing recommendations to the Committee for Medicinal Products for Human Use and the coordination group on any question relating to pharmacovigilance activities in respect of medicinal products for human use and on risk management systems and it shall be responsible for monitoring the effectiveness of those risk management systems;’;
+(b)
+point (f) is replaced by the following:
+‘(f)
+a Secretariat, which shall provide technical, scientific and administrative support for the Committees and ensure appropriate coordination between them, and which shall provide technical and administrative support for the coordination group and ensure appropriate coordination between it and the Committees.’;
+13.
+Article 57 is amended as follows:
+(a)
+in paragraph 1, points (c) to (f) are replaced by the following:
+‘(c)
+coordinating the monitoring of medicinal products for human use which have been authorised within the Union and providing advice on the measures necessary to ensure the safe and effective use of these medicinal products for human use, in particular by coordinating the evaluation and implementation of pharmacovigilance obligations and systems and the monitoring of such implementation;
+(d)
+ensuring the collation and dissemination of information on suspected adverse reactions to medicinal products for human use authorised in the Union by means of a database permanently accessible to all Member States;
+(e)
+assisting Member States with the rapid communication of information on pharmacovigilance concerns to healthcare professionals and coordinating the safety announcements of the national competent authorities;
+(f)
+distributing appropriate information on pharmacovigilance concerns to the general public, in particular by setting up and maintaining a European medicines web-portal;’;
+(b)
+in paragraph 2, the following subparagraph is inserted after the first subparagraph:
+
+                                             ‘For the purposes of the database, the Agency shall set up and maintain a list of all medicinal products for human use authorised in the Union. To this effect the following measures shall be taken:
+(a)
+the Agency shall, by 2 July 2011 at the latest, make public a format for the electronic submission of information on medicinal products for human use;
+(b)
+marketing authorisation holders shall, by 2 July 2012 at the latest, electronically submit to the Agency information on all medicinal products for human use authorised or registered in the Union, using the format referred to in point (a);
+(c)
+from the date set out in point (b), marketing authorisation holders shall inform the Agency of any new or varied marketing authorisations granted in the Union, using the format referred to in point (a).’;
+14.
+the following Article is inserted:
+‘Article 61a
+1.   The Pharmacovigilance Risk Assessment Committee shall be composed of the following:
+(a)
+one member and one alternate member appointed by each Member State, in accordance with paragraph 3 of this Article;
+(b)
+six members appointed by the Commission, with a view to ensuring that the relevant expertise is available within the Committee, including clinical pharmacology and pharmacoepidemiology, on the basis of a public call for expressions of interest;
+(c)
+one member and one alternate member appointed by the Commission, on the basis of a public call for expressions of interest, after consulting the European Parliament, in order to represent healthcare professionals;
+(d)
+one member and one alternate member appointed by the Commission, on the basis of a public call for expressions of interest, after consulting the European Parliament, in order to represent patient organisations.
+The alternate members shall represent and vote for the members in their absence. The alternate members referred to in point (a) may be appointed to act as rapporteurs in accordance with Article 62.
+2.   A Member State may delegate its tasks in the Pharmacovigilance Risk Assessment Committee to another Member State. Each Member State may represent no more than one other Member State.
+3.   The members and alternate members of the Pharmacovigilance Risk Assessment Committee shall be appointed on the basis of their relevant expertise in pharmacovigilance matters and risk assessment of medicinal products for human use, in order to guarantee the highest levels of specialist qualifications and a broad spectrum of relevant expertise. For this purpose, Member States shall liaise with the Management Board and the Commission in order to ensure that the final composition of the Committee covers the scientific areas relevant to its tasks.
+4.   The members and alternate members of the Pharmacovigilance Risk Assessment Committee shall be appointed for a term of 3 years, which may be prolonged once and thereafter renewed following the procedures referred to in paragraph 1. The Committee shall elect its Chairman from among its members for a term of 3 years, which may be prolonged once.
+5.   Paragraphs 3, 4, 6, 7 and 8 of Article 61 shall apply to the Pharmacovigilance Risk Assessment Committee.
+6.   The mandate of the Pharmacovigilance Risk Assessment Committee shall cover all aspects of the risk management of the use of medicinal products for human use including the detection, assessment, minimisation and communication relating to the risk of adverse reactions, having due regard to the therapeutic effect of the medicinal product for human use, the design and evaluation of post-authorisation safety studies and pharmacovigilance audit.’;
+15.
+Article 62 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+the first subparagraph is replaced by the following:
+‘Where, in accordance with this Regulation, any of the Committees referred to in Article 56(1) is required to evaluate a medicinal product for human use, it shall appoint one of its members to act as rapporteur, taking into account existing expertise in the Member State. The Committee concerned may appoint a second member to act as co-rapporteur.
+A rapporteur appointed for this purpose by the Pharmacovigilance Risk Assessment Committee shall closely collaborate with the rapporteur appointed by the Committee for Medicinal Products for Human Use or the Reference Member State for the medicinal product for human use concerned.’;
+(ii)
+the fourth subparagraph is replaced by the following:
+‘If there is a request for re-examination of one of its opinions where this possibility is provided for in Union law, the Committee concerned shall appoint a different rapporteur and, where necessary, a different co-rapporteur from those appointed for the initial opinion. The re-examination procedure may deal only with the points of the opinion initially identified by the applicant and may be based only on the scientific data available when the Committee adopted the initial opinion. The applicant may request that the Committee consult a scientific advisory group in connection with the re-examination.’;
+(b)
+in paragraph 2, the first subparagraph is replaced by the following:
+‘Member States shall transmit to the Agency the names of national experts with proven experience in the evaluation of medicinal products for human use who, taking into account Article 63(2), would be available to serve on working parties or scientific advisory groups of any of the Committees referred to in Article 56(1), together with an indication of their qualifications and specific areas of expertise.’;
+(c)
+in paragraph 3, the following subparagraph is added:
+‘The first and second subparagraphs shall also apply to the work of rapporteurs in the coordination group as regards the fulfilment of its tasks in accordance with Articles 107c, 107e, 107g, 107k and 107q of Directive 2001/83/EC.’;
+16.
+Article 64(2) is amended as follows:
+(a)
+point (b) is replaced by the following:
+‘(b)
+for managing all the Agency resources necessary for conducting the activities of the Committees referred to in Article 56(1), including making available appropriate scientific and technical support to those Committees, and for making available appropriate technical support to the coordination group;’;
+(b)
+point (d) is replaced by the following:
+‘(d)
+for ensuring appropriate coordination between the Committees referred to in Article 56(1) and, where necessary, between the Committees and the coordination group;’;
+17.
+in Article 66(g), the words ‘Article 67’ are replaced by the words ‘Article 68’;
+18.
+Article 67 is amended as follows:
+(a)
+in paragraph 3, the first subparagraph is replaced by the following:
+‘The Agency’s revenue shall consist of a contribution from the Union and fees paid by undertakings for obtaining and maintaining Union marketing authorisations and for other services provided by the Agency, or by the coordination group as regards the fulfilment of its tasks in accordance with Articles 107c, 107e, 107g, 107k and 107q of Directive 2001/83/EC.’;
+(b)
+paragraph 4 is replaced by the following:
+‘4.   Activities relating to pharmacovigilance, to the operation of communications networks and to market surveillance shall be under the permanent control of the Management Board in order to guarantee the independence of the Agency. This shall not preclude the Agency from charging fees to marketing authorisation holders for performing these activities by the Agency on the condition that its independence is strictly guaranteed.’;
+19.
+Article 82(3) is replaced by the following:
+‘3.   Without prejudice to the unique, Union nature of the content of the documents referred to in points (a) to (d) of Article 9(4) and in points (a) to (e) of Article 34(4), this Regulation shall not prohibit the use of two or more commercial designs for a given medicinal product for human use covered by a single marketing authorisation.’;
+20.
+in Article 83(6), the second sentence is replaced by the following:
+
+                        ‘Article 28(1) and (2) shall apply mutatis mutandis.’;
+21.
+the following Articles are inserted:
+‘Article 87a
+In order to harmonise the performance of the pharmacovigilance activities provided for in this Regulation, the Commission shall adopt implementing measures as provided for in Article 108 of Directive 2001/83/EC covering the following areas:
+(a)
+the content and maintenance of the pharmacovigilance system master file kept by the marketing authorisation holder;
+(b)
+the minimum requirements for the quality system for the performance of pharmacovigilance activities by the Agency;
+(c)
+the use of internationally agreed terminology, formats and standards for the performance of pharmacovigilance activities;
+(d)
+the minimum requirements for the monitoring of data included in the Eudravigilance database to determine whether there are new risks or whether risks have changed;
+(e)
+the format and content of electronic transmission of suspected adverse reactions by Member States and marketing authorisation holders;
+(f)
+the format and content of electronic periodic safety update reports and risk management plans;
+(g)
+the format of protocols, abstracts and final study reports of the post-authorisation safety studies.
+Those measures shall take account of the work on international harmonisation carried out in the area of pharmacovigilance and shall, where necessary, be revised to take account of technical and scientific progress. Those measures shall be adopted in accordance with the regulatory procedure referred to in Article 87(2).
+Article 87b
+1.   The power to adopt the delegated acts referred to in Article 10b shall be conferred on the Commission for a period of 5 years from 1 January 2011. The Commission shall draw up a report in respect of the delegated powers not later than 6 months before the end of the 5 year period. The delegation of powers shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 87c.
+2.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+3.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 87c and 87d.
+Article 87c
+1.   The delegation of powers referred to in Article 10b may be revoked at any time by the European Parliament or by the Council.
+2.   The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.
+3.   The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+Article 87d
+1.   The European Parliament or the Council may object to a delegated act within a period of 2 months from the date of notification.
+At the initiative of the European Parliament or the Council that period shall be extended by 2 months.
+2.   If, on expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+3.   If either the European Parliament or the Council objects to the delegated act within the period referred to in paragraph 1, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.’.

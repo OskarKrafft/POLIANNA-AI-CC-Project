@@ -1,0 +1,15 @@
+Article 23
+Trading obligation for investment firms
+1.   An investment firm shall ensure the trades it undertakes in shares admitted to trading on a regulated market or traded on a trading venue shall take place on a regulated market, MTF or systematic internaliser, or a third-country trading venue assessed as equivalent in accordance with Article 25(4)(a) of Directive 2014/65/EU, as appropriate, unless their characteristics include that they:
+(a)
+are non-systematic, ad-hoc, irregular and infrequent; or
+(b)
+are carried out between eligible and/or professional counterparties and do not contribute to the price discovery process.
+2.   An investment firm that operates an internal matching system which executes client orders in shares, depositary receipts, ETFs, certificates and other similar financial instruments on a multilateral basis must ensure it is authorised as an MTF under Directive 2014/65/EU and comply with all relevant provisions pertaining to such authorisations.
+3.   ESMA shall develop draft regulatory technical standards to specify the particular characteristics of those transactions in shares that do not contribute to the price discovery process as referred to in paragraph 1, taking into consideration cases such as:
+(a)
+non-addressable liquidity trades; or
+(b)
+where the exchange of such financial instruments is determined by factors other than the current market valuation of the financial instrument.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

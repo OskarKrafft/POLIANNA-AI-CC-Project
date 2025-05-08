@@ -1,0 +1,28 @@
+Article 76
+Regulatory treatment of new very high capacity network elements
+1.   Undertakings which have been designated as having significant market power in one or several relevant markets in accordance with Article 67 may offer commitments, in accordance with the procedure set out in Article 79 and subject to the second subparagraph of this paragraph, to open the deployment of a new very high capacity network that consists of optical fibre elements up to the end-user premises or base station to co-investment, for example by offering co-ownership or long-term risk sharing through co-financing or through purchase agreements giving rise to specific rights of a structural character by other providers of electronic communications networks or services.
+When the national regulatory authority assesses those commitments, it shall determine, in particular, whether the offer to co-invest complies with all of the following conditions:
+(a)
+it is open at any moment during the lifetime of the network to any provider of electronic communications networks or services;
+(b)
+it would allow other co-investors which are providers of electronic communications networks or services to compete effectively and sustainably in the long term in downstream markets in which the undertaking designated as having significant market power is active, on terms which include:
+(i)
+fair, reasonable and non-discriminatory terms allowing access to the full capacity of the network to the extent that it is subject to co-investment;
+(ii)
+flexibility in terms of the value and timing of the participation of each co-investor;
+(iii)
+the possibility to increase such participation in the future; and
+(iv)
+reciprocal rights awarded by the co-investors after the deployment of the co-invested infrastructure;
+(c)
+it is made public by the undertaking in a timely manner and, if the undertaking does not have the characteristics listed in Article 80(1), at least six months before the start of the deployment of the new network; that period may be prolonged based on national circumstances;
+(d)
+access seekers not participating in the co-investment can benefit from the outset from the same quality, speed, conditions and end-user reach as were available before the deployment, accompanied by a mechanism of adaptation over time confirmed by the national regulatory authority in light of developments on the related retail markets, that maintains the incentives to participate in the co-investment; such mechanism shall ensure that access seekers have access to the very high capacity elements of the network at a time, and on the basis of transparent and non-discriminatory terms, which reflect appropriately the degrees of risk incurred by the respective co-investors at different stages of the deployment and take into account the competitive situation in retail markets;
+(e)
+it complies at a minimum with the criteria set out in Annex IV and is made in good faith.
+2.   If the national regulatory authority concludes, taking into account the results of the market test conducted in accordance with Article 79(2), that the co-investment commitment offered complies with the conditions set out in paragraph 1 of this Article, it shall make that commitment binding pursuant to Article 79(3), and shall not impose any additional obligations pursuant to Article 68 as regards the elements of the new very high capacity network that are subject to the commitments, if at least one potential co-investor has entered into a co-investment agreement with the undertaking designated as having significant market power.
+The first subparagraph shall be without prejudice to the regulatory treatment of circumstances that do not comply with the conditions set out in paragraph 1 of this Article, taking into account the results of any market test conducted in accordance with Article 79(2), but that have an impact on competition and are taken into account for the purposes of Articles 67 and 68.
+By way of derogation from the first subparagraph of this paragraph, a national regulatory authority may, in duly justified circumstances, impose, maintain or adapt remedies in accordance with Articles 68 to 74 as regards new very high capacity networks in order to address significant competition problems on specific markets, where the national regulatory authority establishes that, given the specific characteristics of these markets, those competition problems would not otherwise be addressed.
+3.   National regulatory authorities shall, on an ongoing basis, monitor compliance with the conditions set out in paragraph 1 and may require the undertaking designated as having significant market power to provide it with annual compliance statements.
+This Article shall be without prejudice to the power of a national regulatory authority to take decisions pursuant to Article 26(1) in the event of a dispute arising between undertakings in connection with a co-investment agreement considered by it to comply with the conditions set out in paragraph 1 of this Article.
+4.   BEREC, after consulting stakeholders and in close cooperation with the Commission, shall publish guidelines to foster the consistent application by national regulatory authorities of the conditions set out in paragraph 1, and the criteria set out in Annex IV.

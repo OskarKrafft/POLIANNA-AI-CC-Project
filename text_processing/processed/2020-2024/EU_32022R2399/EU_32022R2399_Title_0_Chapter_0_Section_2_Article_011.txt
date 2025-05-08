@@ -1,0 +1,8 @@
+Article 11
+Streamlining the fulfilment of customs formalities and Union non-customs formalities
+1.   For Union non-customs formalities and systems listed in Part A of the Annex, the national single window environments for customs shall provide the following functionalities:
+(a)
+enabling economic operators to submit the relevant information required for the fulfilment of the applicable customs formalities and Union non-customs formalities; and
+(b)
+communicating to economic operators the electronic feedback from customs authorities and partner competent authorities regarding the fulfilment of customs formalities and Union non-customs formalities.
+2.   For Union non-customs formalities and systems listed in Part B of the Annex, the national single window environments for customs may provide the functionalities listed in paragraph 1. In that situation, the same set of functionalities as those listed in paragraph 1 shall be provided.

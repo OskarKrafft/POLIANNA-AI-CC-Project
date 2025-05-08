@@ -1,0 +1,45 @@
+Article 7
+Technical specifications of data requirements
+1.   For the detailed topics listed in Annex I, Member States shall compile data relevant to each detailed topic. The Commission may adopt implementing acts further specifying the following elements of the data to be transmitted under this Regulation, their technical definitions and simplifications:
+(a)
+variables;
+(b)
+measurement unit;
+(c)
+statistical population (including the requirements in terms of market/non-market activities or producers);
+(d)
+classifications (including the product, countries and territories as well as nature of transaction lists) and breakdowns;
+(e)
+transmission of individual records of data on a voluntary basis;
+(f)
+use of approximations and quality requirements;
+(g)
+data transmission deadline;
+(h)
+first reference period;
+(i)
+weighting and change of base year for the domain short-term business statistics;
+(j)
+further specifications, including the reference period, related to the topic of international trade in goods.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+2.   When exercising the powers referred to in paragraph 1 with regard to the simplifications, the Commission shall take into account the size and importance of the business economies, in accordance with the principle of proportionality, in order to alleviate the burden on enterprises. In addition, the Commission shall ensure that the input needed for compiling the accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013 and of balance of payments statistics in accordance with Regulation (EC) No 184/2005 is maintained. Implementing acts, except for the first implementing acts to be adopted pursuant to this Regulation, shall be adopted at least 18 months before the end of the reference period of the data for the topics listed in Annex I. For the topics of innovation and ICT usage and e-commerce the implementing acts shall be adopted, respectively, at least six and fifteen months before the end of the reference period of the data.
+3.   When adopting implementing acts in accordance with point (a) of paragraph 1, except for the topics listed in points (b), (c) and (d) of Article 6(2), the Commission shall ensure that the number of variables in each domain listed in Article 6(1) does not exceed:
+(a)
+22 variables for the domain short-term business statistics;
+(b)
+93 variables for the domain country-level business statistics;
+(c)
+31 variables for the domain regional business statistics; and
+(d)
+26 variables for the domain statistics on international activities.
+4.   When adopting implementing acts in accordance with point (a) of paragraph 1, for the topics listed in points (b), (c) and (d) of Article 6 (2), the Commission shall ensure that the number of variables in each topic does not exceed:
+(a)
+20 variables for the topic of global value chains;
+(b)
+73 variables for the topic of ICT usage and e-commerce; and
+(c)
+57 variables for the topic of innovation.
+5.   Where new data are required in order to respond to user needs and to provide for a certain degree of flexibility, the Commission may change not more than five variables for each of the domains short-term business statistics, regional business statistics and statistics on international activities and not more than 20 variables for the domain country-level business statistics in any period of five consecutive calendar years, in accordance with paragraph 3. Those maxima shall not apply to the topics of global value chains, innovation or ICT usage and e-commerce.
+6.   Notwithstanding paragraph 3 of this Article, where new data are required in order to respond to user needs, to provide for a certain degree of flexibility following the pilot studies referred to in Article 20, the overall number of variables for the domains referred to in paragraph 3 of this Article shall not be increased by more than 10 variables.
+7.   When preparing the implementing acts referred to in paragraph 1, any potential additional cost or administrative burden on Member States or on the respondents shall be taken into account together with an assessment of the envisaged improvement of the quality of the statistics and any other direct or indirect benefit resulting from the additional proposed action.
+The first subparagraph of this paragraph shall not apply to changes resulting from modifications in classifications and nomenclatures or changes to accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013 and of balance of payments statistics in accordance with Regulation (EC) No 184/2005.

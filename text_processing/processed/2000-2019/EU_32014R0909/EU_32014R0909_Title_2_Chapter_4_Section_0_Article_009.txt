@@ -1,0 +1,9 @@
+Article 9
+Settlement internalisers
+1.   Settlement internalisers shall report to the competent authorities of their place of establishment on a quarterly basis the aggregated volume and value of all securities transactions that they settle outside securities settlement systems.
+Competent authorities shall without delay transmit the information received under the first subparagraph to ESMA and shall inform ESMA of any potential risk resulting from that settlement activity.
+2.   ESMA may, in close cooperation with the members of the ESCB, develop draft regulatory technical standards further specifying the content of such reporting.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+3.   ESMA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the reporting and transmission of information referred to in paragraph 1.
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

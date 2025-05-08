@@ -1,0 +1,5 @@
+Article 8
+Requirements for hydrogen containers designed to use compressed (gaseous) hydrogen
+1.   Hydrogen containers designed to use compressed (gaseous) hydrogen shall be classified in accordance with point 1 of Annex IV.
+2.   The containers referred to in paragraph 1 shall be tested in accordance with the test procedures set out in Annex IV with regard to their type.
+3.   A detailed description of all principal properties of the material and tolerances used in the design of the container shall be provided, including the results of tests to which the material has been subjected.

@@ -1,0 +1,56 @@
+Article 17
+Requirements for the functional safety of vehicles
+1.   Manufacturers shall ensure that vehicles are designed, constructed and assembled so as to minimise the risk of injury to the vehicle occupants and to other persons in the vehicle’s surrounding area.
+2.   Manufacturers shall ensure that vehicles, systems, components and separate technical units comply with the relevant requirements set out in this Regulation including the requirements relating to:
+(a)
+vehicle structure integrity;
+(b)
+systems to aid the control of the vehicle by the driver, in particular as regards steering and braking systems, including advanced braking systems and electronic stability control systems;
+(c)
+systems to provide the driver with visibility and information on the state of the vehicle and the surrounding area, including glazing, mirrors and driver information systems;
+(d)
+vehicle lighting systems;
+(e)
+vehicle occupant protection, including interior fittings, head restraint, seat belts, vehicle doors;
+(f)
+vehicle exterior and accessories;
+(g)
+electromagnetic compatibility;
+(h)
+audible warning devices;
+(i)
+heating systems;
+(j)
+devices to prevent unauthorised use;
+(k)
+vehicle identification systems;
+(l)
+masses and dimensions;
+(m)
+electrical safety, including static electricity;
+(n)
+rear protective structures;
+(o)
+lateral protection;
+(p)
+load platforms;
+(q)
+towing devices;
+(r)
+tyres;
+(s)
+spray-suppression systems;
+(t)
+reverse gear;
+(u)
+tracks;
+(v)
+mechanical couplings, including protection against errors of fitting.
+3.   Components of vehicles, whose hazards of an electrical nature are covered by the delegated or implementing acts adopted pursuant to this Regulation, shall not be subject to Directive 2006/95/EC of the European Parliament and of the Council of 12 December 2006 on the harmonisation of the laws of Member States relating to electrical equipment designed for use within certain voltage limits (32).
+4.   The requirements referred to in paragraphs 1 and 2 shall apply to vehicles, and to systems, components and separate technical units intended for such vehicles, if they are applicable in accordance with Annex I.
+5.   In order to ensure that a high level of functional safety is attained, the Commission shall be empowered to adopt delegated acts in accordance with Article 71 concerning the detailed technical requirements for the subjects listed in paragraph 2 of this Article, including test procedures and limit values, where applicable. The first such delegated acts shall be adopted by 31 December 2014.
+These detailed requirements shall be such as to increase or at least maintain the level of functional safety provided for by the Directives referred to in Article 76(1) and Article 77, and shall ensure the following:
+(a)
+vehicles with a maximum design speed of more than 40 km/h meet an equivalent level of functional safety with regard to brake performance and, where appropriate, anti-lock braking systems as motor vehicles and their trailers;
+(b)
+the maximum contact pressure exerted on hard road surface from tyres or tracks does not exceed 0,8 MPa.

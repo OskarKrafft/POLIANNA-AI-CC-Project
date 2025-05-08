@@ -1,0 +1,66 @@
+Article 13
+Control of use
+1.   The use of SF6 in magnesium die-casting and in the recycling of magnesium die-casting alloys shall be prohibited.
+2.   The use of SF6 to fill vehicle tyres shall be prohibited.
+3.   The use of fluorinated greenhouse gases, with a global warming potential of 2 500 or more, for the maintenance or servicing of refrigeration equipment with a charge size of 40 tonnes of CO2 equivalent or more, shall be prohibited. From 1 January 2025, the use of fluorinated greenhouse gases, with a global warming potential of 2 500 or more, for the maintenance or servicing of any refrigeration equipment shall be prohibited.
+The prohibitions referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C.
+The prohibitions referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2030:
+(a)
+reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2 500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that containers containing those gases have been labelled in accordance with Article 12(7);
+(b)
+recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2 500 or more used for the maintenance or servicing of existing refrigeration equipment, provided that they have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.
+The prohibitions referred to in the first subparagraph shall not apply to refrigeration equipment for which an exemption has been authorised in accordance with Article 11(5).
+4.   From 1 January 2026, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 2 500 or more, for the maintenance or servicing of air-conditioning equipment and heat pumps shall be prohibited.
+The prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases until 1 January 2032:
+(a)
+reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 2 500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided that containers containing those gases have been labelled in accordance with Article 12(7);
+(b)
+recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 2 500 or more used for the maintenance or servicing of existing air-conditioning equipment and heat pumps, provided those gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.
+5.   From 1 January 2032, the use of fluorinated greenhouse gases listed in Annex I, with a global warming potential of 750 or more, for the maintenance or servicing of stationary refrigeration equipment, with the exclusion of chillers, shall be prohibited.
+The prohibition referred to in the first subparagraph shall not apply to military equipment or equipment intended for applications designed to cool products to temperatures below – 50 °C or equipment intended for applications designed to cool nuclear power stations.
+The prohibition referred to in the first subparagraph shall not apply to the following categories of fluorinated greenhouse gases:
+(a)
+reclaimed fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided that containers containing those gases have been labelled in accordance with Article 12(7);
+(b)
+recycled fluorinated greenhouse gases listed in Annex I with a global warming potential of 750 or more used for the maintenance or servicing of existing stationary refrigeration equipment, with the exclusion of chillers, provided such gases have been recovered from such equipment; such recycled gases shall only be used by the undertaking which carried out their recovery as part of maintenance or servicing or by the undertaking for which the recovery was carried out as part of maintenance or servicing.
+6.   Following a substantiated request by a competent authority of a Member State and taking into account the objectives of this Regulation, the Commission shall assess the availability of reclaimed and recycled fluorinated greenhouse gases falling within the scope of paragraphs 4 and 5. Where the Commission’s assessment points to a verified shortage of a reclaimed and recycled fluorinated greenhouse gas, the Commission may, exceptionally, by means of implementing acts, authorise an exemption from the prohibitions set out in paragraph 4 or 5, for up to 4 years, to the extent needed to address the shortage identified.
+7.   From 1 January 2035, the use of SF6 for the maintenance or servicing of electrical switchgear equipment shall be prohibited unless it is reclaimed or recycled, except if it is proved that reclaimed or recycled SF6:
+(a)
+cannot be used on technical grounds; or
+(b)
+are not available in the event of an emergency repair situation.
+In such cases, the user shall provide evidence, upon request, setting out the justification for use to the competent authority of the Member State concerned or to the Commission.
+This paragraph shall not apply to military equipment.
+8.   The use of desflurane as an inhalation anaesthetic shall be prohibited from 1 January 2026, except where such use is strictly required and no other anaesthetic can be used on medical grounds. The healthcare institution shall keep evidence of the medical justification, and provide it, upon request, to the competent authority of the Member State concerned or to the Commission.
+9.   The putting into operation of the following electrical switchgear using, or whose functioning relies upon, fluorinated greenhouse gases in insulating or breaking medium shall be prohibited as follows:
+(a)
+from 1 January 2026, medium voltage electrical switchgear for primary and secondary distribution up to and including 24 kV;
+(b)
+from 1 January 2030, medium voltage electrical switchgear for primary and secondary distribution from more than 24 kV up to and including 52 kV;
+(c)
+from 1 January 2028, high voltage electrical switchgear from 52 kV up to and including 145 kV and up to and including 50 kA short circuit current, with a global warming potential of 1 or more;
+(d)
+from 1 January 2032, high voltage electrical switchgear of more than 145 kV or more than 50 kA short circuit current, with a global warming potential of 1 or more.
+10.   The taking out of operation of an electrical switchgear which is operating within the Union and the subsequent putting into operation of that electrical switchgear at a different site in the Union shall not be considered as putting into operation for the purposes of this Article.
+11.   By way of derogation from paragraph 9, the putting into operation of electrical switchgear using or whose functioning relies upon insulating or breaking medium with a global warming potential lower than 1 000 is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned one of the following situations applies:
+(a)
+during the first 2 years after the relevant dates referred to in paragraph 9, points (a) and (b), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases were received;
+(b)
+during the first 2 years after the relevant dates referred to in paragraph 9, points (c) and (d), no bids or only bids offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one was received;
+(c)
+after the 2-year period referred to in point (a), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium not using fluorinated greenhouse gases; or
+(d)
+after the 2-year period referred to in point (b), no bids were received offering equipment from one manufacturer of electrical switchgear with insulating or breaking medium with a global warming potential of less than one.
+12.   By way of derogation from paragraph 11, the putting into operation of electrical switchgear with insulating or breaking medium with a global warming potential of 1 000 or more is allowed if, following a procurement procedure that considers the technical specificities of the equipment required for the specific use concerned, no bid was received for electrical switchgear with insulating or breaking medium with a global warming potential of less than 1 000.
+13.   Paragraph 9 shall not apply to electrical switchgear for which it has been established pursuant to ecodesign requirements adopted under Directive 2009/125/EC that its life cycle CO2 equivalent emissions would be lower than those of equivalent equipment which meets the relevant ecodesign requirements and would comply with the global warming potential limits in paragraph 9.
+14.   Paragraph 9 shall not apply where the operator can provide evidence that the order for the electrical switchgear has been placed before 11 March 2024.
+15.   Paragraph 9 shall not apply where the devices to extend existing electrical switchgear that use fluorinated greenhouse gases with a lower global warming potential than the fluorinated greenhouse gases used in the existing electrical switchgear are not compatible with the existing electrical switchgear, and the use of those devices would require the replacement of the existing entire electrical switchgear.
+16.   Where a derogation listed in paragraph 10, 11, 12, 13, 14 or 15 applies, the operator shall keep documentation establishing the evidence for the derogation for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.
+17.   The operator shall notify the competent authority in the Member State where the electrical switchgear is put into operation when applying a derogation listed in paragraph 11, 12, 14 or 15.
+18.   Parts of equipment may be installed for repair or servicing of existing electrical switchgear provided that there is no change of the type of fluorinated greenhouse gas used that leads to an increase of the global warming potential of the fluorinated greenhouse gas used or an increase in the amount of fluorinated greenhouse gases contained in the equipment.
+19.   The putting into operation of any equipment or utilisation of any product listed in points 2(b), 4, 5(c), 7(b), (c) and (d), 8(b) to (e), 9(b) to (f), 11(c), 17(c) and 19(b) of Annex IV after the respective prohibition date specified in those points shall be prohibited unless the operator can provide evidence that:
+(a)
+the relevant safety requirements at the particular location do not permit the installation of equipment using fluorinated greenhouse gases below the global warming potential value specified in the respective prohibitions; or
+(b)
+the equipment was placed on the market before the relevant prohibition date set out in Annex IV.
+20.   The operator shall keep documentation establishing the evidence referred to in paragraph 19 for at least 5 years and shall make it available, upon request, to the competent authority of the Member State concerned or to the Commission.

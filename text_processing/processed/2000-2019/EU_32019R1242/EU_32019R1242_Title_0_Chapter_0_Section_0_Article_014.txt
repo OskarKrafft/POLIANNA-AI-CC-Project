@@ -1,0 +1,13 @@
+Article 14
+Amendments to Annexes I and II
+1.   In order to ensure that the technical parameters used for the calculation of the average specific CO2 emissions of a manufacturer pursuant to Article 4 and the calculation of the specific CO2 emissions targets pursuant to Article 6 take into account technical progress and the evolution of freight transport logistics, the Commission is empowered to adopt delegated acts in accordance with Article 17 to amend the following provisions set out in Annexes I and II:
+(a)
+the entries for cab type and engine power set out in Table 1 of Annex I and the definitions of ‘sleeper cab’ and ‘day cab’ referred to in that Table;
+(b)
+the mission profile weights set out in Table 2 of Annex I;
+(c)
+the payload values set out in Table 3 of Annex I, and the payload adjustment factors set out in Table 1 of Annex II;
+(d)
+the annual mileage values set out in Table 4 of Annex I.
+2.   Where the type-approval procedures laid down in Regulation (EC) No 595/2009 and its implementing measures are modified by amendments other than those referred to in points (b) and (c) of paragraph 1 of this Article in such a way that the level of the CO2 emissions of the representative vehicles defined pursuant to this paragraph increase or decrease by more than 5 g CO2/km, the Commission shall, in accordance with point (b) of the first subparagraph of Article 11(2), apply an adjustment factor to the reference CO2 emissions that is to be calculated in accordance with the formula set out in point 2 of Annex II.
+3.   The Commission shall, by means of implementing acts, establish a methodology for defining one or more representative vehicles of a vehicle sub-group, including their statistical weightings, on the basis of which the adjustment referred to in paragraph 2 of this Article shall be determined, taking into account the monitoring data reported pursuant to Regulation (EU) 2018/956 and the technical characteristics of the vehicles listed in Article 12(1) of Regulation (EU) 2017/2400. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 16(2) of this Regulation.

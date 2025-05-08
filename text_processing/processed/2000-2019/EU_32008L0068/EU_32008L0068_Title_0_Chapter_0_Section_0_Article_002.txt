@@ -1,0 +1,15 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+1.
+‘ADR’ shall mean the European Agreement concerning the International Carriage of Dangerous Goods by Road, concluded at Geneva on 30 September 1957, as amended;
+2.
+‘RID’ shall mean the Regulations concerning the International Carriage of Dangerous Goods by Rail, appearing as Appendix C to the Convention concerning International Carriage by Rail (COTIF) concluded at Vilnius on 3 June 1999, as amended;
+3.
+‘ADN’ shall mean the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways, concluded at Geneva on 26 May 2000, as amended;
+4.
+‘vehicle’ shall mean any motor vehicle intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h, and any trailer, with the exception of vehicles which run on rails, mobile machinery and agricultural and forestry tractors that do not travel at a speed exceeding 40 km/h when transporting dangerous goods;
+5.
+‘wagon’ shall mean any rail vehicle without its own means of propulsion that runs on its own wheels on railway tracks and is used for the carriage of goods;
+6.
+‘vessel’ shall mean any inland waterway or seagoing vessel.

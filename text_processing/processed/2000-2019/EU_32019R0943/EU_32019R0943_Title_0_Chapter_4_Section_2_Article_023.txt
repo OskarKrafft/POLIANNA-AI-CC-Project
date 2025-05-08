@@ -1,0 +1,49 @@
+Article 23
+European resource adequacy assessment
+1.   The European resource adequacy assessment shall identify resource adequacy concerns by assessing the overall adequacy of the electricity system to supply current and projected demands for electricity at Union level, at the level of the Member States, and at the level of individual bidding zones, where relevant. The European resource adequacy assessment shall cover each year within a period of 10 years from the date of that assessment.
+2.   The European resource adequacy assessment shall be conducted by the ENTSO for Electricity.
+3.   By 5 January 2020, the ENTSO for Electricity shall submit to the Electricity Coordination Group set up under Article 1 of Commission Decision of 15 November 2012 (21) and ACER a draft methodology for the European resource adequacy assessment based on the principles provided for in paragraph 5 of this Article.
+4.   Transmission system operators shall provide the ENTSO for Electricity with the data it needs to carry out the European resource adequacy assessment.
+The ENTSO for Electricity shall carry out the European resource adequacy assessment on an annual basis. Producers and other market participants shall provide transmission system operators with data regarding expected utilisation of the generation resources, taking into account the availability of primary resources and appropriate scenarios of projected demand and supply.
+5.   The European resource adequacy assessment shall be based on a transparent methodology which shall ensure that the assessment:
+(a)
+is carried out on each bidding zone level covering at least all Member States;
+(b)
+is based on appropriate central reference scenarios of projected demand and supply including an economic assessment of the likelihood of retirement, mothballing, new-build of generation assets and measures to reach energy efficiency and electricity interconnection targets and appropriate sensitivities on extreme weather events, hydrological conditions, wholesale prices and carbon price developments;
+(c)
+contains separate scenarios reflecting the differing likelihoods of the occurrence of resource adequacy concerns which the different types of capacity mechanisms are designed to address;
+(d)
+appropriately takes account of the contribution of all resources including existing and future possibilities for generation, energy storage, sectoral integration, demand response, and import and export and their contribution to flexible system operation;
+(e)
+anticipates the likely impact of the measures referred in Article 20(3);
+(f)
+includes variants without existing or planned capacity mechanisms and, where applicable, variants with such mechanisms;
+(g)
+is based on a market model using the flow-based approach, where applicable;
+(h)
+applies probabilistic calculations;
+(i)
+applies a single modelling tool;
+(j)
+includes at least the following indicators referred to in Article 25:
+—
+
+                                       ‘expected energy not served’, and
+—
+
+                                       ‘loss of load expectation’;
+(k)
+identifies the sources of possible resource adequacy concerns, in particular whether it is a network constraint, a resource constraint, or both;
+(l)
+takes into account real network development;
+(m)
+ensures that the national characteristics of generation, demand flexibility and energy storage, the availability of primary resources and the level of interconnection are properly taken into consideration.
+6.   By 5 January 2020, the ENTSO for Electricity shall submit to ACER a draft methodology for calculating:
+(a)
+the value of lost load;
+(b)
+the cost of new entry for generation, or demand response; and
+(c)
+the reliability standard referred to in Article 25.
+The methodology shall be based on transparent, objective and verifiable criteria.
+7.   The proposals under paragraphs 3 and 6 for the draft methodology, the scenarios, sensitivities and assumptions on which they are based, and the results of the European resource adequacy assessment under paragraph 4 shall be subject to the prior consultation of Member States, the Electricity Coordination Group and relevant stakeholders and approval by ACER under the procedure set out in Article 27.

@@ -1,0 +1,24 @@
+Article 21
+Registers
+1.   For the purposes of the implementation of this Directive, each Member State shall keep a national electronic register of the following:
+(a)
+the EETS domains within their territory, including information relating to:
+(i)
+the corresponding toll chargers;
+(ii)
+the tolling technologies employed;
+(iii)
+the toll context data;
+(iv)
+the EETS domain statement; and
+(v)
+the EETS providers having EETS contracts with the toll chargers active in the territory of that Member State;
+(b)
+the EETS providers to whom it has granted registration in accordance with Article 4; and
+(c)
+the details of the single contact office referred to in Article 18 for EETS including a contact email address and telephone number.
+Unless otherwise specified, Member States shall verify at least once a year that the requirements set out in points (a), (d), (e) and (f) of Article 4 are still met, and shall update the register accordingly. The register shall also contain the conclusions of the audit provided for in point (e) of Article 4. A Member State shall not be held liable for the actions of the EETS providers mentioned in its register.
+2.   Member States shall take the measures necessary to ensure that all the data contained in the national electronic register are kept up-to-date and are accurate.
+3.   The registers shall be electronically accessible to the public.
+4.   These registers shall be available as of 19 October 2021.
+5.   At the end of each calendar year, the Member States authorities in charge of the registers shall communicate, to the Commission, by electronic means, the registers of EETS domains and EETS providers. The Commission shall make the information available to the other Member States. Any inconsistencies with the situation in a Member State shall be brought to the attention of the Member State of registration and of the Commission.

@@ -1,0 +1,108 @@
+Article 262
+Supervisory Formula Method
+1.   Under the Supervisory Formula Method, the risk weight for a securitisation position shall be calculated as follows subject to a floor of 20 % for re-securitisation positions and 7 % for all other securitisation positions:
+
+
+
+
+
+where:
+S[x] =
+x,
+when x ≤ K
+IRBR
+
+
+
+
+
+
+when x > K
+IRBR
+
+where:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+τ= 1 000;
+
+ω= 20;
+
+Beta [x; a, b]= the cumulative beta distribution with parameters a and b evaluated at x;
+
+T= the thickness of the tranche in which the position is held, measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the nominal amounts of the exposures that have been securitised. For derivative instruments listed in Annex II, the sum of the current replacement cost and the potential future credit exposure calculated in accordance with Chapter 6 shall be used in place of the nominal amount;
+
+KIRBR
+= the ratio of (a) KIRB to (b) the sum of the exposure values of the exposures that have been securitised, and is expressed in decimal form;
+
+L= the credit enhancement level, measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the nominal amounts of the exposures that have been securitised. Capitalised future income shall not be included in the measured L. Amounts due by counterparties to derivative instruments listed in Annex II that represent tranches more junior than the tranche in question may be measured at their current replacement cost, without the potential future credit exposures, in calculating the enhancement level;
+
+N= the effective number of exposures calculated in accordance with Article 261. In the case of re-securitisations, the institution shall look at the number of securitisation exposures in the pool and not the number of underlying exposures in the original pools from which the underlying securitisation exposures stem;
+
+ELGD= the exposure-weighted average loss-given-default, calculated as follows:
+where:
+
+LGDi
+= the average LGD associated with all exposures to the ith obligor, where LGD is determined in accordance with Chapter 3. In the case of resecuritisation, an LGD of 100 % shall be applied to the securitised positions. When default and dilution risk for purchased receivables are treated in an aggregate manner within a securitisation, the LGDi input shall be constructed as a weighted average of the LGD for credit risk and the 75 % LGD for dilution risk. The weights shall be the stand-alone own funds charges for credit risk and dilution risk respectively.
+2.   Where the nominal amount of the largest securitised exposure, C1, is no more than 3 % of the sum of the nominal amount of the securitised exposures, then, for the purposes of the Supervisory Formula Method, the institution may set LGD= 50 % in the case of securitisations, which are not re-securitisations, and N equal to either of the following:
+
+
+
+
+
+
+
+
+
+
+where:
+Cm
+
+=
+the ratio of the sum of the nominal amounts of the largest ‧m‧ exposures to the sum of the nominal amounts of the exposures securitised. The level of ‧m‧ may be set by the institution.
+For securitisations in which materially all securitised exposures are retail exposures, institutions may, subject to permission by the competent authority, use the Supervisory Formula Method using the simplifications h=0 and v=0, provided that the effective number of exposures is not low and that the exposures are not highly concentrated.
+3.   The competent authorities shall keep EBA informed about the use institutions make of paragraph 2. EBA shall monitor the range of practices in this area and shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines.
+4.   Credit risk mitigation on securitisation positions may be recognised in accordance with Article 264(2) to (4), subject to the conditions in Article 247.

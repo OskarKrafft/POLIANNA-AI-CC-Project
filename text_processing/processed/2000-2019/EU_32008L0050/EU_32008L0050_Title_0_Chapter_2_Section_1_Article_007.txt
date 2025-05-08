@@ -1,0 +1,11 @@
+Article 7
+Sampling points
+1.   The location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene and carbon monoxide in ambient air shall be determined using the criteria listed in Annex III.
+2.   In each zone or agglomeration where fixed measurements are the sole source of information for assessing air quality, the number of sampling points for each relevant pollutant shall not be less than the minimum number of sampling points specified in Section A of Annex V.
+3.   For zones and agglomerations within which information from fixed measurement sampling points is supplemented by information from modelling and/or indicative measurement, the total number of sampling points specified in Section A of Annex V may be reduced by up to 50 %, provided that the following conditions are met:
+(a)
+the supplementary methods provide sufficient information for the assessment of air quality with regard to limit values or alert thresholds, as well as adequate information for the public;
+(b)
+the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of the relevant pollutant to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I.
+The results of modelling and/or indicative measurement shall be taken into account for the assessment of air quality with respect to the limit values.
+4.   The application in Member States of the criteria for selecting sampling points shall be monitored by the Commission so as to facilitate the harmonised application of those criteria throughout the European Union.

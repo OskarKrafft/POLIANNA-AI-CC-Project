@@ -1,0 +1,17 @@
+Article 44
+Exchange of data and information via IMI
+1.   The exchange of data and information relating to EU type-approvals between national authorities, or between national authorities and the Commission, within the framework of this Regulation shall be in electronic format via IMI.
+2.   Any relevant information relating to EU type-approvals granted in accordance with this Regulation shall be gathered centrally and made accessible to the national authorities and to the Commission via IMI.
+3.   The Commission shall ensure that IMI also:
+(a)
+makes possible the exchange of data and information between manufacturers or technical services, on the one hand, and national authorities or the Commission, on the other;
+(b)
+provides public access to certain data and information relating to the results of type-approvals and monitoring results of in-service engines;
+(c)
+where appropriate and technically and economically feasible, and in agreement with the Member States concerned, provides facilities for the automatic transfer of data between existing national databases and IMI.
+4.   The uses of IMI referred to in paragraph 3 shall be optional.
+5.   The Commission may adopt implementing acts laying down the detailed technical requirements and procedures necessary for the interconnection of IMI with existing national databases as referred to in point (c) of paragraph 3 of this Article. Those implementing acts shall be adopted, by 31 December 2016, in accordance with the examination procedure referred to in Article 56(2).
+CHAPTER XII
+
+DESIGNATION AND NOTIFICATION OF TECHNICAL SERVICES
+

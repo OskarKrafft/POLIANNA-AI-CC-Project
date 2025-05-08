@@ -1,0 +1,8 @@
+Article 140
+Long-term and short-term credit assessments
+1.   Short-term credit assessments may only be used for short-term asset and off-balance sheet items constituting exposures to institutions and corporates.
+2.   Any short-term credit assessment shall only apply to the item the short-term credit assessment refers to, and it shall not be used to derive risk weights for any other item, except in the following cases:
+(a)
+if a short-term rated facility is assigned a 150 % risk weight, then all unrated unsecured exposures on that obligor whether short-term or long-term shall also be assigned a 150 % risk weight;
+(b)
+if a short-term rated facility is assigned a 50 % risk-weight, no unrated short-term exposure shall be assigned a risk weight lower than 100 %.

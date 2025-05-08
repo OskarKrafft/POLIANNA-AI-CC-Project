@@ -1,0 +1,14 @@
+Article 34
+Revisions and extensions of EU type-approvals
+1.   An amendment shall be designated a ‘revision’ where an approval authority finds that, despite the change in the particulars recorded in the information package referred to in Article 26(4), the concerned type of vehicle, system, component or separate technical unit continues to comply with the applicable requirements for that type and that, therefore, no inspections or tests need to be repeated.
+In such case, the approval authority shall issue the revised pages of the information package as necessary and without delay, marking each revised page to show clearly the nature of the change and the date of reissue, or it shall issue a consolidated, updated version of the information package, accompanied by a detailed description of the changes.
+2.   The amendment shall be designated an ‘extension’ where the approval authority finds that the particulars recorded in the information package have changed, and where any of the following apply:
+(a)
+further inspections or tests are required to verify continued compliance with the requirements upon which the existing EU type-approval has been based;
+(b)
+any information on the EU type-approval certificate, except for its attachments, has changed; or
+(c)
+new requirements under any regulatory act listed in Annex II become applicable to the approved type of vehicle, system, component or separate technical unit.
+In the event of an extension, the approval authority shall issue an updated EU type-approval certificate without delay, which shall be denoted by an extension number that is incremented in accordance with the number of successive extensions already granted. That approval certificate shall clearly state the reason for the extension, the date of reissue and, where relevant, the period of validity.
+3.   Whenever amended pages of the information package or a consolidated, updated version of the information package are issued, the index to the information package shall be amended accordingly to show the date of the most recent extension or revision, or the date of the most recent consolidation of the updated version.
+4.   No extension to the type-approval of a type of vehicle shall be required if the new requirements referred to in point (c) of paragraph 2 are, from a technical point of view, irrelevant to that type of vehicle or concern categories of vehicle other than the category to which it belongs.

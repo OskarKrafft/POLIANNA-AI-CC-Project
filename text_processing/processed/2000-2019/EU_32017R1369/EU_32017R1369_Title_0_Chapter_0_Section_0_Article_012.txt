@@ -1,0 +1,50 @@
+Article 12
+Product database
+1.   The Commission shall establish and maintain a product database consisting of a public part, a compliance part and an online portal giving access to those two parts.
+The product database shall not replace or modify the responsibilities of the market surveillance authorities.
+2.   The product database shall serve the following purposes:
+(a)
+to support market surveillance authorities in carrying out their tasks under this Regulation and the relevant delegated acts, including enforcement thereof;
+(b)
+to provide the public with information about products placed on the market and their energy labels, and product information sheets;
+(c)
+to provide the Commission with up-to-date energy efficiency information for products for reviewing energy labels;
+3.   The public part of the database and the online portal shall contain the information set out in points 1 and 2 of Annex I respectively which shall be made publicly available. The public part of the database shall meet the criteria in paragraph 7 of this Article, and the functional criteria set out in point 4 of Annex I.
+4.   The compliance part of the product database shall be accessible only to market surveillance authorities and to the Commission and shall contain the information set out in point 3 of Annex I, including the specific parts of the technical documentation as referred to in paragraph 5 of this Article. The compliance part shall meet the criteria in paragraphs 7 and 8 of this Article, and the functional criteria set out in point 4 of Annex I.
+5.   The mandatory specific parts of the technical documentation that the supplier shall enter into the database shall cover only:
+(a)
+a general description of the model, sufficient for it to be unequivocally and easily identified;
+(b)
+references to the harmonised standards applied or other measurement standards used;
+(c)
+specific precautions that shall be taken when the model is assembled, installed, maintained or tested;
+(d)
+the measured technical parameters of the model;
+(e)
+the calculations performed with the measured parameters;
+(f)
+testing conditions if not described sufficiently in point (b).
+In addition, the supplier may upload additional parts of the technical documentation on a voluntary basis into the database.
+6.   When data other than those specified in paragraph 5 or not available in the public part of the database would become necessary for market surveillance authorities and/or the Commission for carrying out their tasks under this Regulation, they shall be able to obtain them from the supplier on request.
+7.   The product database shall be established in accordance with the following criteria:
+(a)
+minimising the administrative burden for the supplier and other database users;
+(b)
+user-friendliness and cost-effectiveness; and
+(c)
+automatic avoidance of redundant registration.
+8.   The compliance part of the database shall be established in accordance with the following criteria:
+(a)
+protection from unintended use and the safeguarding of confidential information by way of strict security arrangements;
+(b)
+access rights based on the need-to-know principle;
+(c)
+processing of personal data in accordance with Regulation (EC) No 45/2001 and Directive 95/46/EC, as applicable;
+(d)
+limitation of data access in scope to prevent copying larger data sets;
+(e)
+traceability of data access for the supplier with regard to its technical documentation.
+9.   The data in the compliance part of the database shall be treated in accordance with Commission Decision (EU, Euratom) 2015/443 (20). In particular, the specific cyber-security arrangements of Commission Decision (EU, Euratom) 2017/46 (21) and its implementing rules shall apply. The confidentiality level shall reflect the consequential harm resulting from disclosure of the data to unauthorised persons.
+10.   The supplier shall have access and editing rights to the information it enters in the product database pursuant to Article 4(1) and (2). A record of changes shall be kept for market surveillance purposes, keeping track of the dates of any editing.
+11.   Customers using the public part of the product database shall be able to easily identify the best energy class populated for each product group, allowing them to compare model characteristics and to choose the most energy efficient products.
+12.   The Commission shall be empowered to specify, by means of implementing acts, the operational details of the product database. After consulting the Consultation Forum provided for in Article 14, those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18(2).

@@ -1,0 +1,28 @@
+Article 42
+Evaluation
+1.   The Commission shall carry out evaluations of the Programme in a timely manner to feed into the decision-making process.
+2.   By 21 March 2024 and every year thereafter, the Commission shall inform the European Parliament and the Council of the main findings regarding the initial implementation of the Programme, including the completion of definition activities, the consolidation of user needs and implementation plans, as well as the views of relevant stakeholders at Union and national level.
+3.   By 30 June 2026, the Commission shall evaluate the implementation of the Programme in light of the objectives referred to in Article 3. To that end, the Commission shall assess:
+(a)
+the performance of the secure connectivity system and services provided under the Programme, in particular low latency, reliability, autonomy and worldwide access;
+(b)
+the governance and implementation models, and their efficiency;
+(c)
+the evolution of needs of the users of the Programme;
+(d)
+the synergy and complementarity of the Programme with other Union programmes, in particular GOVSATCOM and the other components of the Union Space Programme;
+(e)
+the evolution of available capacities, innovations, and development of new technologies in the space ecosystem;
+(f)
+the participation of start-ups and SMEs throughout the Union;
+(g)
+the environmental impact of the Programme taking account of the criteria set out in Article 8;
+(h)
+any cost overruns, the timeliness in meeting the established project deadlines and the effectiveness of the governance and management of the Programme;
+(i)
+the effectiveness, efficiency, relevance, coherence, and Union added value of the Programme’s activities.
+If appropriate, the evaluation shall be accompanied by an appropriate proposal.
+4.   The evaluation of the Programme shall take into consideration the results of the evaluation of the GOVSATCOM component pursuant to Article 102 of Regulation (EU) 2021/696.
+5.   The Commission shall communicate the conclusions of the evaluations accompanied by its observations, to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.
+6.   The entities involved in the implementation of this Regulation shall provide the Commission with the data and information necessary for the evaluation referred to in paragraph 1.
+7.   Two years after the full operational capability, and every two years thereafter, the Agency shall issue a market report, after consulting relevant stakeholders, on the impact of the Programme on the Union commercial satellite upstream and downstream industry with a view to ensuring the minimum possible impact on competition and the maintenance of incentives to innovate.

@@ -1,0 +1,17 @@
+Article 255
+Treatment of unrated liquidity facilities
+1.   Institutions may apply a conversion factor of 50 % to the nominal amount of an unrated liquidity facility in order to determine its exposure value when the following conditions are met:
+(a)
+the liquidity facility documentation shall clearly identify and limit the circumstances under which the facility may be drawn;
+(b)
+it shall not be possible for the facility to be drawn so as to provide credit support by covering losses already incurred at the time of draw and in particular not so as to provide liquidity in respect of exposures in default at the time of draw or so as to acquire assets at more than fair value;
+(c)
+the facility shall not be used to provide permanent or regular funding for the securitisation;
+(d)
+repayment of draws on the facility shall not be subordinated to the claims of investors other than to claims arising in respect of interest rate or currency derivative contracts, fees or other such payments, nor be subject to waiver or deferral;
+(e)
+it shall not be possible for the facility to be drawn after all applicable credit enhancements from which the liquidity facility would benefit are exhausted;
+(f)
+the facility shall include a provision that results in an automatic reduction in the amount that can be drawn by the amount of exposures that are in default, where ‧default‧ has the meaning given to it under Chapter 3, or where the pool of securitised exposures consists of rated instruments, that terminates the facility if the average quality of the pool falls below investment grade.
+The risk weight to be applied shall be the highest risk weight that would be applied to any of the securitised exposures under Chapter 2 by an institution holding the exposures.
+2.   To determine the exposure value of cash advance facilities, a conversion factor of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that the conditions set out in paragraph 1 are satisfied and that repayment of draws on the facility are senior to any other claims on the cash flows arising from the securitised exposures.

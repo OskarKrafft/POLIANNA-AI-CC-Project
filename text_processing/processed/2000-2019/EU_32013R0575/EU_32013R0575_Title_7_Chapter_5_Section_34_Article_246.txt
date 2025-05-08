@@ -1,0 +1,16 @@
+Article 246
+Exposure value
+1.   The exposure value shall be calculated as follows:
+(a)
+where an institution calculates risk-weighted exposure amounts under Sub-section 3, the exposure value of an on-balance sheet securitisation position shall be its accounting value remaining after specific credit risk adjustments treated in accordance with Article 110 have been applied;
+(b)
+where an institution calculates risk-weighted exposure amounts under Sub-section 4, the exposure value of an on-balance sheet securitisation position shall be the accounting value measured without taking into account any credit risk adjustments treated in accordance with Article 110 made;
+(c)
+where an institution calculates risk-weighted exposure amounts under Sub-section 3, the exposure value of an off-balance sheet securitisation position shall be its nominal value, less any specific credit risk adjustment of that securitisation position, multiplied by a conversion factor as prescribed in this Chapter. The conversion factor shall be 100 % unless otherwise specified;
+(d)
+where an institution calculates risk-weighted exposure amounts under Sub-section 4, the exposure value of an off-balance sheet securitisation position shall be its nominal value multiplied by a conversion factor as prescribed in this Chapter. The conversion factor shall be 100 % unless otherwise specified;
+(e)
+The exposure value for the counterparty credit risk of a derivative instrument listed in Annex II, shall be determined in accordance with Chapter 6.
+2.   Where an institution has two or more overlapping positions in a securitisation, it shall, to the extent that they overlap include in its calculation of risk-weighted exposure amounts only the position or portion of a position producing the higher risk-weighted exposure amounts. The institution may also recognise such overlap between specific risk own funds requirements for positions in the trading book and own funds requirements for securitisation positions in the non-trading book, provided that the institution is able to calculate and compare the own funds requirements for the relevant positions. For the purpose of this paragraph, overlapping occurs when the positions, wholly or partially, represent an exposure to the same risk such that, to the extent of the overlap, there is a single exposure.
+3.   Where Article 268(c) applies to positions in the ABCP, the institution may, use the risk-weight assigned to a liquidity facility in order to calculate the risk-weighted exposure amount for the ABCP provided that 100 % of the ABCP issued by the programme is covered by this or other liquidity facilities and all of those liquidity facilities rank pari passu with the ABCP so that they form overlapping positions.
+The institution shall notify to the competent authorities the use it makes of that treatment.

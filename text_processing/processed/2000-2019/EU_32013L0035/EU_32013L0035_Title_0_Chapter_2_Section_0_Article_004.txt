@@ -1,0 +1,32 @@
+Article 4
+Assessment of risks and determination of exposure
+1.   In carrying out the obligations laid down in Articles 6(3) and 9(1) of Directive 89/391/EEC, the employer shall assess all risks for workers arising from electromagnetic fields at the workplace and, if necessary, measure or calculate the levels of electromagnetic fields to which workers are exposed.
+Without prejudice to Article 10 of Directive 89/391/EEC and Article 6 of this Directive, that assessment can be made public on request in accordance with relevant Union and national laws. In particular, in the case of processing the personal data of employees in the course of such an assessment, any publication shall comply with Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (9) and the national laws of the Member States implementing that Directive. Unless there is an overriding public interest in disclosure, public authorities that are in possession of a copy of the assessment may refuse a request for access to it or a request to make it public, where disclosure would undermine the protection of commercial interests of the employer, including those relating to intellectual property. Employers may refuse to disclose or make public the assessment under the same conditions in accordance with the relevant Union and national laws.
+2.   For the purpose of the assessment provided for in paragraph 1 of this Article the employer shall identify and assess electromagnetic fields at the workplace, taking into account the relevant practical guides referred to in Article 14 and other relevant standards or guidelines provided by the Member State concerned, including exposure databases. Notwithstanding the employer’s obligations under this Article, the employer shall also be entitled, where relevant, to take into account the emission levels and other appropriate safety-related data provided, by the manufacturer or distributor, for the equipment, in accordance with relevant Union law, including an assessment of risks, if applicable to the exposure conditions at the workplace or place of installation.
+3.   If compliance with the ELVs cannot be reliably determined on the basis of readily accessible information, the assessment of the exposure shall be carried out on the basis of measurements or calculations. In such a case, the assessment shall take into account uncertainties concerning the measurements or calculations, such as numerical errors, source modelling, phantom geometry and the electrical properties of tissues and materials, determined in accordance with relevant good practice.
+4.   The assessment, measurement and calculations referred to in paragraphs 1, 2 and 3 of this Article shall be planned and carried out by competent services or persons at suitable intervals, taking into account the guidance given under this Directive and taking particular account of Articles 7 and 11 of Directive 89/391/EEC concerning the necessary competent services or persons and the consultation and participation of workers. The data obtained from the assessment, measurement or calculation of the level of exposure shall be preserved in a suitable traceable form so as to permit consultation at a later stage, in accordance with national law and practice.
+5.   When carrying out the risk assessment pursuant to Article 6(3) of Directive 89/391/EEC, the employer shall give particular attention to the following:
+(a)
+the health effects ELVs, the sensory effects ELVs and the ALs referred to in Article 3 and Annexes II and III to this Directive;
+(b)
+the frequency, the level, duration and type of exposure, including the distribution over the worker’s body and over the volume of the workplace;
+(c)
+any direct biophysical effects;
+(d)
+any effects on the health and safety of workers at particular risk, in particular workers who wear active or passive implanted medical devices, such as cardiac pacemakers, workers with medical devices worn on the body, such as insulin pumps, and pregnant workers;
+(e)
+any indirect effects;
+(f)
+the existence of replacement equipment designed to reduce the level of exposure to electromagnetic fields;
+(g)
+appropriate information obtained from the health surveillance referred to in Article 8;
+(h)
+information provided by the manufacturer of equipment;
+(i)
+other relevant health and safety related information;
+(j)
+multiple sources of exposure;
+(k)
+simultaneous exposure to multiple frequency fields.
+6.   In workplaces open to the public it is not necessary for the exposure assessment to be carried out if an evaluation has already been undertaken in accordance with the provisions on the limitation of exposure of the general public to electromagnetic fields, if the restrictions specified in those provisions are respected for workers and if the health and safety risks are excluded. Where equipment intended for the public use is used as intended and complies with Union law on products that establishes stricter safety levels than those provided for by this Directive, and no other equipment is used, these conditions are deemed to be met.
+7.   The employer shall be in possession of an assessment of the risks in accordance with Article 9(1)(a) of Directive 89/391/EEC and shall identify which measures must be taken in accordance with Article 5 of this Directive. The risk assessment may include the reasons why the employer considers that the nature and the extent of the risks related to electromagnetic fields make a further detailed risk assessment unnecessary. The risk assessment shall be updated on a regular basis, particularly if there have been significant changes which could render it out of date, or if the results of the health surveillance referred to in Article 8 show this to be necessary.

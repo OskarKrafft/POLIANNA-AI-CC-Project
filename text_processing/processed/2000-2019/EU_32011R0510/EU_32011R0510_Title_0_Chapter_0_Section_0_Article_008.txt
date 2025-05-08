@@ -1,0 +1,20 @@
+Article 8
+Monitoring and reporting of average emissions
+1.   For the calendar year commencing 1 January 2012 and each subsequent calendar year, each Member State shall record information for each new light commercial vehicle registered in its territory in accordance with Part A of Annex II. This information shall be made available to the manufacturers and their designated importers or representatives in each Member State. Member States shall make every effort to ensure that reporting bodies operate in a transparent manner.
+2.   By 28 February of each year, commencing in 2013, each Member State shall determine and transmit to the Commission the information listed in Part B of Annex II in respect of the preceding calendar year. The data shall be transmitted in accordance with the format specified in Part C of Annex II.
+3.   On request from the Commission, a Member State shall also transmit the full set of data collected pursuant to paragraph 1.
+4.   The Commission shall keep a central register of the data reported by Member States under this Article and this register shall be publicly available. By 30 June 2013 and each subsequent year, the Commission shall provisionally calculate for each manufacturer:
+(a)
+the average specific emissions of CO2 in the preceding calendar year;
+(b)
+the specific emissions target in the preceding calendar year;
+(c)
+the difference between its average specific emissions of CO2 in the preceding calendar year and its specific emissions target for that year.
+The Commission shall notify each manufacturer of its provisional calculation for that manufacturer. The notification shall include data per Member State on the number of new light commercial vehicles registered and their specific emissions of CO2.
+5.   Manufacturers may, within three months of being notified of the provisional calculation under paragraph 4, notify the Commission of any errors in the data, specifying the Member State in which it considers that the error occurred.
+6.   The Commission shall consider any notifications from manufacturers and shall, by 31 October, either confirm or amend the provisional calculations under paragraph 4.
+7.   In relation to the calendar years 2012 and 2013 and on the basis of the calculations made pursuant to paragraph 5, the Commission shall notify a manufacturer where it appears to the Commission that the manufacturer's average specific emissions of CO2 exceed its specific emissions target.
+8.   In each Member State, the competent authority for the collection and communication of the monitoring data in accordance with this Regulation shall be the one designated in accordance with Article 8(7) of Regulation (EC) No 443/2009.
+9.   The Commission shall adopt detailed rules for the monitoring and reporting of data under this Article and for the application of Annex II. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14(2).
+In order to take account of experience gained from the application of this Regulation, the Commission may amend Annex II by means of delegated acts in accordance with Article 15, and subject to the conditions laid down in Articles 16 and 17.
+10.   Member States shall also collect and report data, in accordance with this Article, on registrations of vehicles in categories M2 and N2 as defined in Annex II to Directive 2007/46/EC with a reference mass not exceeding 2 610 kg and vehicles to which type approval is extended in accordance with Article 2(2) of Regulation (EC) No 715/2007.

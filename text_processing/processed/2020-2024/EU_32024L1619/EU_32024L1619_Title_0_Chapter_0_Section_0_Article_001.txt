@@ -1,0 +1,507 @@
+Article 1
+Amendments to Directive 2013/36/EU
+Directive 2013/36/EU is amended as follows:
+(1)
+Article 2 is amended as follows:
+(a)
+paragraph 5 is amended as follows:
+(i)
+points (4) and (5) are replaced by the following:
+‘(4)
+in Denmark, the “Danmarks Eksport- og Investeringsfond”, the “Danmarks Skibskredit A/S” and the “KommuneKredit”;
+(4a)
+in Czechia, the “Národní rozvojová banka a.s.”;
+(5)
+in Germany, the “Kreditanstalt für Wiederaufbau”, “Landwirtschaftliche Rentenbank”, “Bremer Aufbau-Bank GmbH”, “Hamburgische Investitions- und Förderbank”, “Investitionsbank Berlin”, “Investitionsbank des Landes Brandenburg”, “Investitionsbank Sachsen-Anhalt”, “Investitionsbank Schleswig-Holstein”, “Investitions- und Förderbank Niedersachsen — NBank”, “Investitions- und Strukturbank Rheinland-Pfalz”, “Landeskreditbank Baden-Württemberg Förderbank”, “LfA Förderbank Bayern”, “NRW.BANK”, “Saarländische Investitionskreditbank AG”, “Sächsische Aufbaubank — Förderbank”, “Thüringer Aufbaubank”, undertakings which are recognised under the “Wohnungsgemeinnützigkeitsgesetz” as bodies of State housing policy and are not mainly engaged in banking transactions, and undertakings recognised under that law as non-profit housing undertakings;’
+;
+(ii)
+point (18) is replaced by the following:
+‘(18)
+in Austria, undertakings recognised as housing associations in the public interest and the “Österreichische Kontrollbank AG” and “Oesterreichische Entwicklungsbank — OeEB”;’
+;
+(iii)
+the following point is inserted:
+‘(20a)
+in Romania, the “Banca de Investiții și Dezvoltare — S.A.”;’
+;
+(iv)
+point (24) is deleted;
+(b)
+paragraph 6 is replaced by the following:
+‘6.   The entities referred to in paragraph 5, points (3) to (23), of this Article shall be treated as financial institutions for the purposes of Article 34 and Title VII, Chapter 3.’
+(2)
+in Article 3, paragraph 1 is amended as follows:
+(a)
+the following point is inserted:
+‘(8a)
+“management body in its management function” means the management body acting in its role of directing an institution and includes the persons who effectively direct the business of the institution;’
+;
+(b)
+point (9) is replaced by the following:
+‘(9)
+“senior management” means those natural persons who exercise executive functions within an institution and are directly accountable to the management body but are not members of that body, and who are responsible for the day-to-day management of the institution under the direction of the management body;’
+;
+(c)
+the following points are inserted:
+‘(9a)
+“key function holders” means the persons who have significant influence over the direction of an institution but are not members of the management body, including the heads of internal control functions and the chief financial officer, where those heads or that officer are not members of the management body;
+(9b)
+“internal control functions” means risk management, compliance and internal audit functions;
+(9c)
+“heads of internal control functions” means the persons at the highest hierarchical level responsible for effectively managing the day-to-day operation of the internal control functions of an institution;
+(9d)
+“chief financial officer” means the person with overall responsibility for the financial resources management, financial planning and financial reporting of an institution;’
+;
+(d)
+point (11) is replaced by the following:
+‘(11)
+“model risk” means model risk as defined in Article 4(1), point (52b), of Regulation (EU) No 575/2013;’
+;
+(e)
+the following point is inserted:
+‘(29a)
+“stand-alone institution in the Union” means an institution that is not subject to prudential consolidation in the Union pursuant to Part One, Title II, Chapter 2, of Regulation (EU) No 575/2013, and that has no EU parent undertaking subject to such prudential consolidation;’
+;
+(f)
+the following point is inserted:
+‘(47a)
+“eligible capital” means eligible capital as defined in Article 4(1), point (71), of Regulation (EU) No 575/2013;’
+;
+(g)
+point (59) is replaced by the following:
+‘(59)
+“internal approaches” means the internal ratings based approach referred to in Article 143(1), the internal model approach referred to in Article 221, the internal model method referred to in Article 283, the alternative internal model approach referred to in Article 325az, and the internal assessment approach referred to in Article 265(2), of Regulation (EU) No 575/2013’
+;
+(h)
+the following points are added:
+‘(66)
+“large institution” means large institution as defined in Article 4(1), point (146), of Regulation (EU) No 575/2013;
+(67)
+“periodic penalty payment” means a periodic pecuniary enforcement measure aimed at ending ongoing breaches of national provisions transposing this Directive, breaches of Regulation (EU) No 575/2013 or breaches of decisions taken by a competent authority on the basis of those provisions or that Regulation and compelling the natural or legal person to return to compliance with the infringed provisions or decisions;
+(68)
+“environmental, social and governance risk” or “ESG risk” means environmental, social and governance risk as defined in Article 4(1), point (52d), of Regulation (EU) No 575/2013;
+(69)
+“climate neutrality” means the overall objective of achieving climate neutrality by 2050 as set out in Article 2(1) of Regulation (EU) 2021/1119 of the European Parliament and of the Council (*1);
+(70)
+“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*2) that is not a central bank digital currency.
+
+(*1)  Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (“European Climate Law”) (OJ L 243, 9.7.2021, p. 1)."
+                        
+
+(*2)  Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).’;"
+                        
+(3)
+in Article 4, paragraph 4 is replaced by the following:
+‘4.   Member States shall ensure that competent authorities have the expertise, resources, operational capacity, powers and independence necessary to carry out functions relating to prudential supervision and investigations and the powers necessary to impose the periodic penalty payments and penalties set out in this Directive and in Regulation (EU) No 575/2013.’
+(4)
+the following article is inserted:
+‘Article 4a
+Supervisory independence of competent authorities
+1.   For the purposes of this Article, “members of the competent authority’s governance body” means natural persons that form part of the most senior collective decision-making body of the competent authority and who are vested with the power to exercise executive functions regarding the day-to-day management of the supervisory function of the competent authority, excluding governors of national central banks.
+2.   For the purpose of preserving the independence of competent authorities in the exercise of their powers, Member States shall provide for the necessary arrangements to ensure that competent authorities, including their members of staff and the members of their governance bodies, can exercise their supervisory powers independently and objectively, without seeking or taking instructions from supervised institutions, from any body of the Union or any government of a Member State or from any other public or private body. Member States shall ensure that the governance bodies of competent authorities are functionally independent of other public and private bodies. Those arrangements shall be without prejudice to the arrangements under national law whereby competent authorities are subject to public and democratic accountability.
+Member States shall ensure that no member of a competent authority’s governance body who is appointed after 11 January 2026 remains in office for more than 14 years. Member States shall ensure that members of a competent authority’s governance body are appointed on the basis of published criteria that are objective and transparent and that those members can be dismissed if they no longer meet the criteria of appointment or have been convicted of a serious criminal offence. The reasons for dismissal shall be made public unless the member of the competent authority’s governance body concerned objects to the publication.
+Member States shall ensure that competent authorities publish their objectives, are accountable for the discharge of their duties in relation to those objectives and are subject to financial control in a manner which does not affect their independence.
+This paragraph shall be without prejudice to the rights and obligations of competent authorities pursuant to international or European systems of financial supervision, in particular the European system of financial supervision established pursuant to Regulation (EU) No 1093/2010 (*3), the single supervisory mechanism established pursuant to Council Regulation (EU) No 1024/2013 (*4) and Regulation (EU) No 468/2014 of the European Central Bank (*5), and the Single Resolution Mechanism established pursuant to Regulation (EU) No 806/2014 of the European Parliament and of the Council (*6).
+3.   Member States shall, in particular, ensure that competent authorities have in place all the necessary arrangements to prevent conflicts of interest of their members of staff and of the members of their governance bodies. For that purpose, Member States shall lay down rules that are proportionate to the role and responsibilities of the members of staff and the members of governance bodies, and that, at a minimum, prohibit them from:
+(a)
+trading in financial instruments issued by or referenced to the institutions supervised by their competent authorities, and the direct or indirect parent undertakings, subsidiaries or affiliates of those institutions, with the exception of:
+(i)
+instruments managed by third parties, provided that the owners of those instruments are precluded from intervening in the management of the portfolio;
+(ii)
+investments in collective investment undertakings;
+(b)
+being hired by or accepting any kind of contract for the provision of professional services during a certain period (“cooling-off period”) with any of the following:
+(i)
+institutions with which the member of staff or the member of the competent authority’s governance body has been directly involved for the purposes of supervision or decision-making, including the direct or indirect parent undertakings, subsidiaries or affiliates of those institutions;
+(ii)
+entities providing services to any of the entities referred to in point (i), unless the member of staff or the member of the competent authority’s governance body is strictly precluded from taking part in the provision of those services during the cooling-off period;
+(iii)
+entities conducting lobbying and advocacy activities directed at the competent authority on matters for which the member of staff or the member of the competent authority’s governance body was responsible during that member’s employment or term of office.
+The exceptions provided for in the first subparagraph, points (a)(i) and (ii), shall only apply where the third parties and collective investment undertakings do not predominantly invest in instruments issued by or referenced to the entities referred to in point (a).
+4.   The cooling-off period shall start from the date on which direct involvement in the supervision of the entities referred to in paragraph 3, point (b)(i), ceased. Competent authorities shall ensure that their members of staff and the members of their governance bodies have no access to confidential or sensitive information relating to those entities during the cooling-off period. In the case of hirings by entities referred to in paragraph 3, points (b)(i) and (ii), the length of the cooling-off period shall be no less than six months for members of staff directly involved in the supervision of entities referred to in paragraph 3, point (b)(i), and no less than 12 months for members of the competent authority’s governance body. In the case of hirings by entities referred to in paragraph 3, point (b)(iii), the length of the cooling-off period shall be no less than three months for both members of staff and members of the competent authority’s governance body.
+Member States may allow competent authorities to subject their members of staff and the members of their governance bodies to whom paragraph 3, point (b)(i), applies to a cooling-off period in the event of their hiring by direct competitors of one of the entities referred to in that point. For those purposes, the length of the cooling-off period shall be no less than three months for members of staff directly involved in the supervision of those entities and no less than six months for members of the competent authority’s governance body.
+5.   By way of derogation from paragraph 4, Member States may allow competent authorities to apply shorter cooling-off periods of a minimum of three months for the members of staff directly involved in the supervision of institutions only where a longer cooling-off period:
+(a)
+would unduly restrict the ability of the competent authority to hire new members of staff with the adequate or necessary skills to exercise its supervisory functions, in particular taking into account the small size of the national labour market; or
+(b)
+would constitute a breach of any relevant fundamental right recognised in the constitution of the Member State concerned, of the Charter of Fundamental Rights of the European Union, or of any relevant workers’ rights as set out in national labour law.
+6.   Members of staff and members of a competent authority’s governance body subject to the prohibition provided for in paragraph 3, point (b), shall be entitled to appropriate compensation for that prohibition. Member States shall decide on the appropriate form of such compensation.
+7.   Member States shall ensure that members of staff and members of a competent authority’s governance body are subject to a declaration of interest. That declaration shall include information on the members’ holdings in the form of stocks, equities, bonds, mutual funds, investment funds, mixed-type funds, hedge funds and exchange-traded funds, that may raise conflict of interest concerns. The persons concerned shall submit the declaration of interest prior to their appointment and subsequently on an annual basis.
+The declaration of interest shall be without prejudice to any requirement to submit a wealth declaration under applicable national rules.
+8.   Where a member of staff or a member of a competent authority’s governance body owns, at the time of being hired or appointed or at any time thereafter, financial instruments that may give rise to conflicts of interest, the competent authority shall have the power to require on a case-by-case basis that those instruments be sold or disposed of within a reasonable timeframe. Competent authorities shall also have the power to allow, on a case-by-case basis, those members to sell or dispose of financial instruments that they owned at the time of being hired or appointed.
+9.   To ensure a proportionate application of this Article, EBA shall, by 10 July 2026 issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, addressed to the competent authorities, on the prevention of conflicts of interest in, and on the independence of, competent authorities, taking into account international best practices.
+
+(*3)  Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12)."
+                        
+
+(*4)  Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)."
+                        
+
+(*5)  Regulation (EU) No 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for cooperation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities (SSM Framework Regulation) (ECB/2014/17) (OJ L 141, 14.5.2014, p. 1)."
+                        
+
+(*6)  Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1).’;"
+                        
+(5)
+Article 8a is amended as follows:
+(a)
+in paragraph 1, point (b) is replaced by the following:
+‘(b)
+the average of monthly total assets calculated over a period of 12 consecutive months is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in the group established in the Union, including any of their branches and subsidiaries established in a third country, that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU is equal to or exceeds EUR 30 billion, both calculated as an average over a period of 12 consecutive months.’
+;
+(b)
+the following paragraph is inserted:
+‘3a.   By way of derogation from paragraph 1 of this Article, based on the application received in accordance with that paragraph and the information received in accordance with Article 95a of Directive 2014/65/EU, the competent authority may, after receiving a request from an undertaking referred to in paragraph 1 of this Article, waive the requirement to obtain an authorisation as a credit institution in accordance with Article 8 of this Directive for that undertaking.
+Upon receiving a waiver request, the competent authority shall notify EBA thereof. EBA shall issue an opinion on that waiver request within one month from the notification by the competent authority. The competent authority shall take a decision on the waiver request, taking into account the EBA opinion and at least the following elements:
+(a)
+where the undertaking is part of a group, the organisational structure of the group, the booking practices prevailing within the group and the allocation of assets across the group entities;
+(b)
+the nature, size and complexity of the activities carried out by the undertaking in the Member State where it is established and in the Union as a whole;
+(c)
+the importance of, and systemic risk posed by, the activities carried out by the undertaking in the Member State where it is established and in the Union as a whole.
+Where the decision of the competent authority deviates from the opinion provided by EBA, the competent authority shall state the reasons for the deviation in its decision.
+The competent authority shall notify its decision to the undertaking concerned and to EBA. EBA shall publish that decision, together with its opinion, on its website.
+The competent authority shall reassess its decision every three years.’
+(c)
+the following paragraphs are added:
+‘7.   EBA shall develop draft regulatory technical standards to further specify the elements that are to be taken into consideration by the competent authority when deciding whether to grant a waiver in accordance with paragraph 3a, taking into account, in particular, the materiality of the counterparty credit risk to which an undertaking is exposed.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+8.   By 31 December 2028, EBA shall submit a report to the Commission on the use of the waiver as referred to in paragraph 3a of this Article as well as on the application of Article 4(1), point (1)(b)(iii), of Regulation (EU) No 575/2013.’
+(6)
+in Article 18, the following point is added:
+‘(g)
+meets all of the following conditions:
+(i)
+it has been determined to be failing or likely to fail in accordance with Article 32(1), point (a), of Directive 2014/59/EU or in accordance with Article 18(1), point (a), of Regulation (EU) No 806/2014;
+(ii)
+the resolution authority considers that the condition set out in Article 32(1), point (b), of Directive 2014/59/EU or in Article 18(1), point (b), of Regulation (EU) No 806/2014 is met with respect to that credit institution;
+(iii)
+the resolution authority considers that the condition set out in Article 32(1), point (c), of Directive 2014/59/EU or in Article 18(1), point (c), of Regulation (EU) No 806/2014 is not met with respect to that credit institution.’
+;
+(7)
+Article 21a is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Parent financial holding companies in a Member State, parent mixed financial holding companies in a Member State, EU parent financial holding companies and EU parent mixed financial holding companies shall seek approval in accordance with this Article. Other financial holding companies or mixed financial holding companies shall seek approval in accordance with this Article where they are required to comply with this Directive or Regulation (EU) No 575/2013 on a sub-consolidated basis or where they are designated as responsible for ensuring the group’s compliance with prudential requirements on a consolidated basis as referred to in paragraph 4, point (c), of this Article.
+Competent authorities shall, on a regular basis, and in any event at least annually, review the parent undertakings of an institution in order to verify if that institution, the entity requesting an authorisation pursuant to Article 8, or the entity designated as responsible for ensuring the group’s compliance with prudential requirements on a consolidated basis (the “designated entity”) has correctly identified any undertaking that complies with the criteria to be considered as a parent financial holding company in a Member State, a parent mixed financial holding company in a Member State, an EU parent financial holding company or an EU parent mixed financial holding company.
+For the purposes of the second subparagraph of this paragraph, where the parent undertakings are located in other Member States than the Member State in which the institution, the entity requesting an authorisation pursuant to Article 8 or the designated entity is established, competent authorities of those Member States shall cooperate closely to conduct the review.
+Competent authorities shall publish on their websites, and update on an annual basis, a list of financial holding companies and mixed financial holding companies that have been granted approval or exempted from approval in the Member State in accordance with this Article. Where an exemption from approval has been granted, the list shall also indicate the designated entity.’
+(b)
+paragraph 2 is amended as follows:
+(i)
+in the first subparagraph, point (b) is replaced by the following:
+‘(b)
+information regarding the nomination of at least two persons effectively directing the financial holding company or mixed financial holding company and compliance with the criteria and requirements set out in Article 91(1);’
+;
+(ii)
+the second subparagraph is replaced by the following:
+
+                                                      ‘Where the approval or the exemption from approval of a financial holding company or mixed financial holding company referred to in paragraphs 3 and 4 of this Article takes place concurrently with the assessment carried out pursuant to Article 8, 22 or 27a, the competent authority for the purposes of those Articles shall coordinate, as appropriate, with the consolidating supervisor and, where different, the competent authority in the Member State where the financial holding company or mixed financial holding company is established. The assessment period referred to in Article 22(2), second subparagraph, or in Article 27a (6) shall be suspended until the procedure set out in this Article is complete.’
+                                                   
+(c)
+in paragraph 3, point (c) is replaced by the following:
+‘(c)
+the criteria regarding shareholders and members of credit institutions set out in Article 14 and the requirements laid down in Article 121 are complied with.’
+;
+(d)
+in paragraph 4, the first subparagraph is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+
+                                                      ‘The financial holding company or mixed financial holding company may seek exemption from approval under this Article, which shall be granted where all of the following conditions are met:’
+                                                   
+(ii)
+point (c) is replaced by the following:
+‘(c)
+a subsidiary credit institution or a subsidiary financial holding company or mixed financial holding company that has been granted approval in accordance with this Article is designated as responsible for ensuring the group’s compliance with prudential requirements on a consolidated basis and is given all the necessary means and legal authority to discharge those obligations in an effective manner;’
+;
+(e)
+the following paragraph is inserted:
+‘4a.   Without prejudice to paragraph 4, the consolidating supervisor may allow, on a case-by-case basis, financial holding companies or mixed financial holding companies which are exempted from approval to be excluded from the perimeter of consolidation, provided that the following conditions are met:
+(a)
+the exclusion does not affect the effectiveness of the supervision of the subsidiary credit institution or of the group;
+(b)
+the financial holding company or mixed financial holding company has no equity exposures other than the equity exposure in the subsidiary credit institution or in the intermediate parent financial holding company or mixed financial holding company controlling the subsidiary credit institution;
+(c)
+the financial holding company or mixed financial holding company does not make substantial recourse to leverage and does not have exposures which are not related to its ownership in the subsidiary credit institution or in the intermediate parent financial holding company or mixed financial holding company controlling the subsidiary credit institution.’
+(f)
+paragraph 8 is amended as follows:
+(i)
+the first subparagraph is replaced by the following:
+
+                                                      ‘Where the consolidating supervisor is different from the competent authority in the Member State where the financial holding company or mixed financial holding company is established, the two authorities shall work together in full consultation for the purpose of taking decisions on the approval, exemption from approval and exclusion from the perimeter of consolidation referred to in paragraphs 3, 4 and 4a, and on the supervisory measures referred to in paragraphs 6 and 7. The consolidating supervisor shall prepare an assessment on the matters referred to in paragraphs 3, 4, 4a, 6 and 7, as applicable, and shall forward that assessment to the competent authority in the Member State where the financial holding company or mixed financial holding company is established. The two authorities shall do everything within their powers to reach a joint decision within two months of receipt of that assessment.’
+                                                   
+(ii)
+the following subparagraph is inserted after the first subparagraph:
+
+                                                      ‘In the event that a joint decision is reached, where the consolidating supervisor is different from the competent authority in the Member State where the financial holding company or mixed financial holding company is established, the joint decision shall also be implemented or, where permitted under national law, shall directly apply in the Member State where the financial holding company or mixed financial holding company is established.’
+                                                   
+(g)
+in paragraph 10, the first subparagraph is replaced by the following:
+
+                                          ‘Where approval or exemption from approval of a financial holding company or mixed financial holding company pursuant to this Article is refused, the consolidating supervisor shall notify the applicant of the decision and the reasons therefor within four months of receipt of the application, or where the application is incomplete, within four months of receipt of the complete information required for the decision.’
+                                       
+(8)
+in Article 21b, the following paragraph is inserted:
+‘6a.   EBA shall develop draft implementing technical standards to specify the uniform formats and definitions, and shall develop the IT solutions to be applied in the Union, for the reporting of the information referred to in paragraph 6.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2026.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.’
+(9)
+the following article is inserted:
+‘Article 21c
+Requirement to establish a branch for the provision of banking services by third-country undertakings
+1.   Member States shall require undertakings established in a third country as referred to in Article 47 to establish a branch in their territory and apply for authorisation in accordance with Title VI to commence or continue carrying out the activities referred to in Article 47(1) in the relevant Member State.
+2.   The requirement laid down in paragraph 1 of this Article shall not apply where the undertaking established in a third country provides a service or activity to a client or counterparty established or situated in the Union that is:
+(a)
+a retail client, an eligible counterparty, or a professional client within the meaning of Annex II, Sections I and II, to Directive 2014/65/EU established or situated in the Union where such client or counterparty approaches an undertaking established in a third country at its own exclusive initiative for the provision of any service or activity referred to in Article 47(1) of this Directive;
+(b)
+a credit institution;
+(c)
+an undertaking of the same group as that of the undertaking established in a third country.
+Without prejudice to the first subparagraph, point (c), where a third-country undertaking solicits a client or counterparty, or a potential client or counterparty, referred to in point (a) of that subparagraph, through an entity acting on its own behalf or having close links with such third-country undertaking or through any other person acting on behalf of such undertaking, it shall not be deemed to be a service provided at the own exclusive initiative of the client or counterparty, or of the potential client or counterparty.
+Member States shall ensure that competent authorities have the power to require credit institutions and branches established in their territory to provide them with the information they require to monitor the services provided at the own exclusive initiative of the client or counterparty established or situated in their territory where such services are provided by undertakings established in third countries that are part of the same group.
+3.   An initiative by a client or counterparty as referred to in paragraph 2 shall not entitle the third-country undertaking to market other categories of products, activities or services than those that the client or counterparty had solicited, other than through a third-country branch established in a Member State. However, the establishment of a third-country branch shall not be required for any services, activities or products necessary for, or closely related to the provision of the service, product or activity originally solicited by the client or counterparty, including where such closely related services, activities or products are provided subsequently to those originally solicited.
+4.   The requirement laid down in paragraph 1 of this Article shall not apply to services or activities listed in Annex I, Section A, to Directive 2014/65/EU, including any accommodating ancillary services, such as related deposit taking or the granting of credit or loans the purpose of which is to provide services under that Directive.
+5.   In order to preserve clients’ acquired rights under existing contracts, the requirement laid down in paragraph 1 shall be without prejudice to existing contracts that were entered into before 11 July 2026.
+6.   By 10 July 2025, EBA, after consulting EIOPA and ESMA, shall review whether any financial sector entity in addition to credit institutions should be exempted from the requirement to establish a branch for the provision of banking services by third-country undertakings in accordance with this Article. EBA shall submit a report thereon to the European Parliament, to the Council and to the Commission. That report shall take into account financial stability concerns and the impact on the competitiveness of the Union.
+Based on that report, the Commission shall, where appropriate, submit a legislative proposal to the European Parliament and to the Council.’
+(10)
+in Article 22(2), the first subparagraph is replaced by the following:
+
+                              ‘Competent authorities shall acknowledge, in writing, the receipt of notification under paragraph 1 or of further information under paragraph 3 promptly and in any event within 10 working days following receipt of the notification or of the information.’
+                           
+(11)
+Article 23 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (e) is replaced by the following:
+‘(e)
+whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 of the European Parliament and of the Council (*7) is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+
+(*7)  Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).’;"
+                        
+(ii)
+the following subparagraphs are added:
+
+                                                      ‘For the purpose of assessing the criterion set out in the first subparagraph, point (e), of this paragraph, competent authorities shall consult, in the context of their verifications, the authorities responsible for supervising the credit institutions in accordance with Directive (EU) 2015/849.
+Competent authorities may object to the proposed acquisition where the proposed acquirer is situated in a third country listed as a high-risk third country that has strategic deficiencies in its anti-money laundering and counter-terrorist financing regime, in accordance with Article 9 of Directive (EU) 2015/849, or in a third country that is subject to Union restrictive measures and it is assessed by the competent authority that it affects the capacity of the proposed acquirer to have in place the required practices and processes to comply with the requirements of the anti-money laundering and counter-terrorist financing regime.’
+                                                   
+(b)
+in paragraph 2, the following subparagraph is added:
+
+                                          ‘For the purposes of this paragraph and with regard to the criterion set out in paragraph 1, point (e), of this Article, a negative opinion by the authorities responsible for supervising the credit institutions in accordance with Directive (EU) 2015/849, received by the competent authorities within 30 working days of the initial request, shall be duly taken into consideration by the competent authorities when assessing the proposed acquisition and may constitute a reasonable ground for opposition.’
+                                       
+(c)
+the following paragraph is added:
+‘6.   EBA shall develop draft regulatory technical standards to specify the list of minimum information to be provided by the proposed acquirer to the competent authority at the time of the notification referred to in Article 22(1).
+For the purposes of the first subparagraph, EBA shall take into consideration Title II of Directive (EU) 2017/1132 of the European Parliament and of the Council (*8).
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+(*8)  Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (OJ L 169, 30.6.2017, p. 46).’;"
+                        
+(12)
+in Title III, the following chapters are added:
+
+                                       ‘CHAPTER 3
+
+ACQUISITION OR DIVESTITURE OF A MATERIAL HOLDING
+
+Article 27a
+Notification and assessment of the acquisition
+1.   Member States shall require institutions, and financial holding companies and mixed financial holding companies within the scope of Article 21a(1) (the “proposed acquirer”) to notify their competent authority in writing in advance where they intend to acquire, directly or indirectly, a material holding (the “proposed acquisition”). The notification shall indicate the size of the proposed acquisition and the relevant information, as specified in Article 27b(5).
+2.   For the purposes of paragraph 1, a holding shall be deemed material where it is equal to or more than 15 % of the eligible capital of the proposed acquirer.
+3.   For the purposes of paragraph 1, where the proposed acquirer is an institution, the threshold referred to in paragraph 2 shall apply on both an individual basis and on the basis of the consolidated situation of the group. Where the threshold referred to in paragraph 2 is only exceeded on an individual basis, the proposed acquirer shall notify the competent authority in the Member State where it is established. That competent authority shall assess the proposed acquisition. Where that threshold is exceeded on an individual basis and on the basis of the consolidated situation of the group, the proposed acquirer shall also notify the consolidating supervisor. That consolidating supervisor shall also assess the proposed acquisition.
+4.   Where the proposed acquirer is a financial holding company or mixed financial holding company within the scope of Article 21a(1), the threshold referred to in paragraph 2 of this Article shall apply on the basis of the consolidated situation, and the consolidating supervisor shall be the competent authority for the purposes of paragraph 1 of this Article.
+5.   The competent authority shall acknowledge, in writing, the receipt of the notification referred to in paragraph 1 or of any additional information in accordance with paragraph 9 promptly and in any event within 10 working days following receipt of the notification or of the additional information.
+6.   The competent authority shall have 60 working days from the date of the written acknowledgement of receipt of the notification and from the receipt of all documents, including those required by the Member State to be attached to the notification in accordance with Article 27b(5) (the “assessment period”), to carry out the assessment provided for in Article 27b(1).
+Where the proposed acquisition concerns a qualifying holding in a credit institution as referred to in Article 22(1), the proposed acquirer shall also be subject to the notification requirement and the assessment under that Article. In that event, the time for the competent authority to carry out both the assessment provided for in Article 27b(1) and that referred to in Article 22(2) shall expire only when the later of the two relevant assessment periods expires.
+7.   Where the proposed acquisition of a material holding is conducted between entities of the same group as referred to in Article 113(6) of Regulation (EU) No 575/2013 or between entities within the same institutional protection scheme as referred to in Article 113(7) of that Regulation, the competent authority shall not be required to carry out the assessment provided for in Article 27b(1) of this Directive.
+8.   The competent authority shall inform the proposed acquirer of the date of the expiry of the assessment period at the time of acknowledging receipt as referred to in paragraph 5.
+9.   The competent authority may, during the assessment period, where necessary, and in any event no later than on the 50th working day of the assessment period, request additional information that is necessary to complete the assessment provided for in Article 27b(1). Such a request shall be made in writing and shall specify the additional information needed.
+10.   The assessment period shall be suspended between the date of request for additional information by the competent authority and the date of receipt of a response thereto by the proposed acquirer, providing all the requested information. That suspension shall not exceed 20 working days. Any further requests by the competent authority for completion or clarification of the information provided shall be at its discretion but shall not result in a suspension of the assessment period.
+11.   The competent authority may extend the suspension referred to in paragraph 10 to a maximum of 30 working days in the following situations:
+(a)
+where the entity being acquired is situated in, or is subject to the regulatory framework of, a third country;
+(b)
+where an exchange of information with authorities responsible for supervising the proposed acquirer in accordance with Directive (EU) 2015/849 is necessary to carry out the assessment provided for in Article 27b(1) of this Directive.
+12.   Where the approval of a financial holding company or mixed financial holding company within the scope of Article 21a(1) takes place concurrently with the assessment provided for in Article 27b(1), the competent authority for the purposes of Article 21a(1) shall coordinate, as appropriate, with the consolidating supervisor and, where different, the competent authority in the Member State where the financial holding company or mixed financial holding company is established. In that case, the assessment period shall be suspended until the procedure set out in Article 21a is complete.
+13.   Where the competent authority decides to oppose the proposed acquisition, it shall, within two working days of completion of the assessment provided for in Article 27b(1), and before the end of the assessment period, inform the proposed acquirer in writing, providing the reasons for its opposition.
+14.   Where the competent authority does not oppose the proposed acquisition within the assessment period in writing, it shall be deemed approved.
+15.   The competent authority may set a maximum period for completing the proposed acquisition and extend it, where appropriate.
+Article 27b
+Assessment criteria
+1.   In assessing the notification of the proposed acquisition provided for in Article 27a(1) and the information referred to in Article 27a(9), the competent authority shall assess the prospect for sound and prudent management by the proposed acquirer and, in particular, the risks to which the proposed acquirer is or might be exposed after the proposed acquisition, in accordance with the following criteria:
+(a)
+whether the proposed acquirer will be able to comply and continue to comply with the prudential requirements set out in this Directive and Regulation (EU) No 575/2013, and where applicable, other Union legal acts;
+(b)
+whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+2.   For the purpose of assessing the criterion set out in paragraph 1, point (b), of this Article, the competent authority shall consult, in the context of its verifications, the authorities responsible for supervising the proposed acquirer in accordance with Directive (EU) 2015/849.
+3.   The competent authority may oppose the proposed acquisition only if there are reasonable grounds for doing so on the basis of the criteria set out in paragraph 1 of this Article, or if the information provided by the proposed acquirer is incomplete despite a request made in accordance with Article 27a(9).
+For the purposes of this paragraph and with regard to the criterion set out in paragraph 1, point (b), of this Article, a negative opinion by the authorities responsible for supervising the proposed acquirer in accordance with Directive (EU) 2015/849, received by the competent authorities within 30 working days of the initial request, shall be duly taken into consideration by the competent authorities when assessing the proposed acquisition and may constitute a reasonable ground for opposition.
+4.   Member States shall neither impose any prior conditions in respect of the level of the proposed acquisition nor allow the competent authority to examine the proposed acquisition in terms of the economic needs of the market.
+5.   Member States shall publish a list of the information required to carry out the assessment. The proposed acquirer shall provide that information to the competent authority at the time of the notification referred to in Article 27a(1). The information required shall be proportionate and appropriate to the nature of the proposed acquisition. Member States shall not require information that is not relevant for the prudential assessment under this Article.
+6.   Without prejudice to Article 27a(5) to (11), where two or more proposals to acquire material holdings in the same entity have been notified, the competent authority shall treat the proposed acquirers in a non-discriminatory manner.
+7.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the list of minimum information to be provided by the proposed acquirer to the competent authority at the time of the notification referred to in Article 27a(1), Article 27f(1) and Article 27i(1);
+(b)
+a common assessment methodology of the criteria set out in this Article and Article 27j;
+(c)
+the process applicable to notification and the prudential assessment required under Articles 27a and 27i.
+For the purposes of the first subparagraph, EBA shall take into consideration Title II of Directive (EU) 2017/1132.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 27c
+Cooperation between competent authorities
+1.   The competent authority shall consult the authorities entrusted with the public duty of supervising other financial sector entities concerned when carrying out the assessment provided for in Article 27b(1) where the proposed acquisition concerns one of the following:
+(a)
+a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that of the proposed acquirer;
+(b)
+a parent undertaking of a credit institution, of an insurance undertaking, of a reinsurance undertaking, of an investment firm or of an asset management company, authorised in another Member State or in a sector other than that of the proposed acquirer;
+(c)
+a legal person controlling a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that in which the acquisition is proposed.
+2.   Where the proposed acquirer is an institution and the threshold referred to in Article 27a(2) is only exceeded on an individual basis, the competent authority assessing the proposed acquisition shall notify the consolidating supervisor of the proposed acquisition within 10 working days following receipt of the notification by the proposed acquirer, if the proposed acquirer is part of a group and the competent authority is different from the consolidating supervisor. The competent authority shall also forward its assessment to the consolidating supervisor.
+Where the proposed acquirer is a financial holding company or mixed financial holding company within the scope of Article 21a(1), the consolidating supervisor assessing the proposed acquisition shall notify the competent authority in the Member State where the proposed acquirer is established of the proposed acquisition within 10 working days following receipt of the notification by the proposed acquirer, if that competent authority is different from the consolidating supervisor. The consolidating supervisor shall also forward its assessment to that competent authority.
+Where the proposed acquirer is an institution and the threshold referred to in Article 27a(2) is exceeded on both an individual basis and on the basis of the consolidated situation of the group, the competent authority and the consolidating supervisor assessing the proposed acquisition shall seek to coordinate their assessments, in particular with regard to their consultation of the relevant authorities referred to in paragraph 1 of this Article.
+3.   Where the assessment of the proposed acquisition needs to be carried out by the consolidating supervisor referred to in Article 27a(3) and the consolidating supervisor is different from the competent authority in the Member State where the proposed acquirer is established, the two authorities shall work together in full consultation. The consolidating supervisor shall prepare an assessment on the proposed acquisition and shall forward that assessment to the competent authority in the Member State where the proposed acquirer is established. The two authorities shall do everything within their powers to reach a joint decision within two months of receipt of that assessment. That joint decision shall be duly documented and reasoned. The consolidating supervisor shall communicate that joint decision to the proposed acquirer.
+In the event that a joint decision is not taken within two months of receipt of the assessment, the consolidating supervisor or the competent authority in the Member State where the proposed acquirer is established shall refrain from taking a decision and shall refer the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010. EBA shall take its decision within one month of receipt of the referral to EBA. The authorities concerned shall adopt a joint decision in conformity with the decision of EBA.
+4.   The competent authorities shall, without delay, provide each other with any information which is essential or relevant for the assessment. In that regard, the competent authorities shall communicate to each other upon request or on their own initiative all relevant information for the assessment.
+The competent authorities shall seek to coordinate their assessments and ensure the consistency of their decisions. To that end, the decision by the competent authority responsible for the assessment shall indicate any views or reservations made by other relevant competent authorities.
+5.   EBA shall develop draft implementing technical standards to establish common procedures and forms and shall develop templates for the consultation process between the relevant competent authorities as referred to in this Article.
+EBA shall submit those draft implementing technical standards to the Commission by 10 July 2026.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+Article 27d
+Notification of divestiture
+Member States shall require institutions, and financial holding companies and mixed financial holding companies within the scope of Article 21a(1), to notify the competent authority where they intend to dispose, directly or indirectly, of a material holding as determined in accordance with Article 27a(2). That notification shall be made in writing and in advance of the divestiture, indicating the size of the holding concerned.
+Article 27e
+Information obligations and penalties
+Where the proposed acquirer fails to notify the proposed acquisition in advance in accordance with Article 27a(1) or has acquired a material holding as referred to in that Article despite the opposition by the competent authority, Member States shall require the competent authority to take appropriate measures. Where a material holding is acquired despite opposition by the competent authority, Member States shall, without prejudice to potential penalties, provide either for exercise of the corresponding voting rights to be suspended or for votes cast to be declared null and void.
+Article 27f
+Notification of material transfers of assets and liabilities
+1.   Member States shall require institutions, and financial holding companies and mixed financial holding companies within the scope of Article 21a(1) to notify their competent authority in writing in advance of any material transfer of assets or liabilities which they execute either through a sale or any other type of transaction (the “proposed operation”).
+Where the proposed operation involves only entities from the same group, those entities shall also be subject to the first subparagraph.
+For the purposes of the first and second subparagraphs, each of the entities involved in the same proposed operation shall be subject individually to the obligation to notify set out therein.
+2.   For the purposes of paragraph 1, the proposed operation shall be deemed material for an entity where it is at least equal to 10 % of its total assets or liabilities, unless the proposed operation is executed between entities of the same group, in which case the proposed operation shall be deemed material for an entity where it is at least equal to 15 % of its total assets or liabilities.
+For the purposes of the first subparagraph of this paragraph, for parent financial holding companies and parent mixed financial holding companies referred to in paragraph 1, the percentages shall apply on the basis of their consolidated situation.
+The following shall not be taken into account for calculating the percentages referred to in the first subparagraph of this paragraph:
+(a)
+transfers of non-performing assets;
+(b)
+transfers of assets for the purpose of being included in a cover pool as defined in Article 3, point (3), of Directive (EU) 2019/2162 of the European Parliament and of the Council (*9);
+(c)
+transfers of assets to be securitised;
+(d)
+transfers of assets or liabilities in the context of the use of resolution tools, powers and mechanisms provided for in Title IV of Directive 2014/59/EU.
+3.   The competent authority shall acknowledge, in writing, the receipt of the notification under paragraph 1 promptly and in any event within 10 working days following receipt of the notification.
+Article 27g
+Information obligations and penalties
+Where the entities fail to notify the proposed operation in advance in accordance with Article 27f(1), Member States shall require the competent authorities to take appropriate measures.
+Article 27h
+Scope and definitions
+This Chapter is without prejudice to the application of Council Regulation (EC) No 139/2004 (*10) and Directive (EU) 2017/1132.
+Mergers and divisions that result from the application of Directive 2014/59/EU shall not be subject to the obligations laid down in this Chapter.
+For the purposes of this Chapter, the following definitions apply:
+(1)
+“merger” means any of the following operations whereby:
+(a)
+one or more companies, on being dissolved without going into liquidation, transfer all or parts of their assets and liabilities to another existing company, the acquiring company, in exchange for the issue to their members of securities or shares representing the capital of that acquiring company and, where applicable, a cash payment not exceeding 10 % of the nominal value unless stated otherwise by the applicable national law, or, in the absence of a nominal value, of the accounting par value of those securities or shares;
+(b)
+one or more companies, on being dissolved without going into liquidation, transfer all or parts of their assets and liabilities to another existing company, the acquiring company, without the issue of any new securities or shares by the acquiring company, provided that one person holds directly or indirectly all the securities and shares in the merging companies or the members of the merging companies hold their securities and shares in the same proportion in all merging companies;
+(c)
+two or more companies, on being dissolved without going into liquidation, transfer all or parts of their assets and liabilities to a company that they form, the new company, in exchange for the issue to their members of securities or shares representing the capital of that new company and, where applicable, a cash payment not exceeding 10 % of the nominal value unless stated otherwise by the applicable national law, or, in the absence of a nominal value, of the accounting par value of those securities or shares;
+(d)
+a company, on being dissolved without going into liquidation, transfers all or parts of its assets and liabilities to the company holding all the securities or shares representing its capital;
+(2)
+“division” means any of the following:
+(a)
+an operation whereby, after being wound up without going into liquidation, a company transfers to more than one company all its assets and liabilities in exchange for the allocation to the shareholders of the company being divided of securities or shares in the companies receiving contributions as a result of the division and, where applicable, a cash payment not exceeding 10 % of the nominal value unless stated otherwise by the applicable national law, or, in the absence of a nominal value, of the accounting par value of those securities or shares;
+(b)
+an operation whereby, after being wound up without going into liquidation, a company transfers to more than one newly-formed company all its assets and liabilities in exchange for the allocation to the shareholders of the company being divided of securities or shares in the recipient companies, and, where applicable, a cash payment not exceeding 10 % of the nominal value unless stated otherwise by the applicable national law, or, in the absence of a nominal value, of the accounting par value of those securities or shares;
+(c)
+an operation consisting of a combination of operations described under points (a) and (b);
+(d)
+an operation whereby a company being divided transfers part of its assets and liabilities to one or more recipient companies in exchange for the issue to the members of the company being divided of securities or shares in the recipient companies, in the company being divided or in both the recipient companies and the company being divided, and, where applicable, a cash payment not exceeding 10 % of the nominal value unless stated otherwise by the applicable national law, or, in the absence of a nominal value, of the accounting par value of those securities or shares;
+(e)
+an operation whereby a company being divided transfers part of its assets and liabilities to one or more recipient companies in exchange for the issue to the company being divided of securities or shares in the recipient companies.
+Article 27i
+Notification and assessment of the merger or division
+1.   Member States shall require institutions, and financial holding companies and mixed financial holding companies within the scope of Article 21a(1) (the “financial stakeholders”) carrying out a merger or division (the “proposed operation”), to notify, after the adoption of the draft terms of the proposed operation and in advance of the completion of the proposed operation, the competent authority which will be responsible for supervising the entities resulting from such proposed operation, indicating the relevant information, as specified in accordance with Article 27j(5).
+For the purposes of the first subparagraph of this paragraph, where the proposed operation consists of a division, the competent authority in charge of the supervision of the entity carrying out the proposed operation shall be the competent authority to be notified and in charge of the assessment provided for in Article 27j(1).
+2.   By way of derogation from paragraph 1 of this Article, where the proposed operation is a merger that only involves financial stakeholders from the same group, including a group of credit institutions that are permanently affiliated to a central body and which is supervised as a group, the competent authority shall not be required to carry out the assessment provided for in Article 27j(1).
+3.   The assessment provided for in Article 27j(1) shall not be carried out where the proposed operation requires an authorisation in accordance with Article 8, or an approval in accordance with Article 21a.
+4.   The competent authority shall acknowledge, in writing, the receipt of the notification referred to in paragraph 1 or of the additional information submitted in accordance with paragraph 5 promptly and in any event within 10 working days following receipt of the notification or of the additional information.
+Where the proposed operation involves only financial stakeholders from the same group, the competent authority shall have 60 working days from the date of the written acknowledgement of receipt of the notification and from the receipt of all documents required by the Member State to be attached to the notification in accordance with Article 27j(5) (the “assessment period”), to carry out the assessment provided for in Article 27j(1).
+The competent authority shall inform the financial stakeholders of the date of the expiry of the assessment period at the time of acknowledging receipt.
+5.   The competent authority may request additional information that is necessary to complete the assessment provided for in Article 27j(1). Such a request shall be made in writing and shall specify the additional information needed.
+Where the proposed operation involves only financial stakeholders from the same group, the competent authority may request additional information by no later than the 50th working day of the assessment period.
+The assessment period shall be suspended between the date of request for additional information by the competent authority and the date of receipt of a response thereto by the financial stakeholders, providing all the requested information. That suspension shall not exceed 20 working days. Any further requests by the competent authority for completion or clarification of the information provided shall be at its discretion but shall not result in a suspension of the assessment period.
+6.   The competent authority may extend the suspension referred to in paragraph 5, third subparagraph, to a maximum of 30 working days in the following situations:
+(a)
+where at least one of the financial stakeholders is situated in, or is subject to the regulatory framework of, a third country;
+(b)
+where an exchange of information with authorities responsible for supervising the financial stakeholders in accordance with Directive (EU) 2015/849 is necessary to carry out the assessment provided for in Article 27j(1) of this Directive.
+7.   The proposed operation shall not be completed before the competent authority has issued a positive opinion.
+8.   The competent authority shall, within two working days from the completion of its assessment, issue in writing a reasoned positive or negative opinion to the financial stakeholders. The financial stakeholders shall transmit that reasoned opinion to the authorities in charge, under the national law, of the scrutiny of the proposed operation.
+9.   Where the proposed operation involves only financial stakeholders from the same group and the competent authority does not oppose the proposed operation within the assessment period in writing, the opinion shall be deemed to be positive.
+10.   The reasoned positive opinion issued by the competent authority may provide for a limited period during which the proposed operation is to be carried out.
+Article 27j
+Assessment criteria
+1.   In assessing the notification of the proposed operation provided for in Article 27i(1) and the information referred to in Article 27i(5), the competent authority shall, in order to ensure the soundness of the prudential profile of the financial stakeholders after the completion of the proposed operation and in particular to address the risks to which the financial stakeholders are or might be exposed in the course of the proposed operation and the risks to which the entity resulting from the proposed operation might be exposed, assess the proposed operation in accordance with the following criteria:
+(a)
+the reputation of the financial stakeholders involved in the proposed operation;
+(b)
+the financial soundness of the financial stakeholders involved in the proposed operation, in particular in relation to the type of business pursued and envisaged for the entity resulting from the proposed operation;
+(c)
+whether the entity resulting from the proposed operation will be able to comply and continue to comply with the prudential requirements laid down in this Directive and Regulation (EU) No 575/2013, and where applicable, other Union legal acts, in particular Directives 2002/87/EC and 2009/110/EC;
+(d)
+whether the implementation plan of the proposed operation is realistic and sound from a prudential perspectiv;
+(e)
+whether there are reasonable grounds to suspect that, in connection with the proposed operation, money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed operation could increase the risk thereof.
+The implementation plan referred to in the first subparagraph, point (d), shall be subject to appropriate monitoring by the competent authority until completion of the proposed operation.
+2.   For the purpose of assessing the criterion set out in paragraph 1, point (e), of this Article, the competent authority shall consult, in the context of its verifications, the authorities responsible for supervising the financial stakeholders in accordance with Directive (EU) 2015/849.
+3.   The competent authority may issue a negative opinion regarding the proposed operation only if the criteria set out in paragraph 1 of this Article are not met or where the information provided by the financial stakeholder is incomplete despite a request made in accordance with Article 27i(5).
+With regard to the criterion set out in paragraph 1, point (e), of this Article, a negative opinion by the authorities responsible for supervising the financial stakeholders in accordance with Directive (EU) 2015/849, received by the competent authority within 30 working days of the initial request, shall be duly taken into consideration by the competent authority when assessing the proposed operation and may constitute a reasonable ground for a negative opinion, as referred to in the first subparagraph of this paragraph.
+4.   Member States shall not allow competent authorities to examine the proposed operation in terms of the economic needs of the market.
+5.   Member States shall publish a list of the information required to carry out the assessment provided for in paragraph 1 of this Article. The financial stakeholders shall provide that information to the competent authorities at the time of the notification referred to in Article 27i(1). The information required shall be proportionate and appropriate to the nature of the proposed operation. Member States shall not require information that is not relevant for a prudential assessment under this Article.
+Article 27k
+Cooperation between competent authorities
+1.   The competent authority shall consult the authorities entrusted with the public duty of supervising other financial sector entities concerned when carrying out the assessment provided for in Article 27j(1) where the proposed operation involves, in addition to the financial stakeholders, entities that are any of the following:
+(a)
+a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken;
+(b)
+a parent undertaking of a credit institution, of an insurance undertaking, of a reinsurance undertaking, of an investment firm or of an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken;
+(c)
+a legal person controlling a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken.
+2.   The competent authorities shall, without delay, provide each other with any information which is essential or relevant for the assessment. In that regard, the competent authorities shall communicate to each other upon request or on their own initiative all relevant information for the assessment. An opinion by a competent authority of a financial stakeholder shall indicate any views or reservations expressed by the competent authority that supervises one or more of the entities listed in paragraph 1.
+The competent authorities shall seek to coordinate their assessments and ensure the consistency of their opinions.
+3.   EBA shall develop draft implementing technical standards to establish common procedures and forms and shall develop templates for the consultation process between the relevant competent authorities as referred to in this Article.
+For the purposes of the first subparagraph, EBA shall take into consideration Title II of Directive (EU) 2017/1132.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2027.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+Article 27l
+Information obligations and penalties
+Where the financial stakeholders fail to notify the proposed operation in advance in accordance with Article 27i(1) or have carried out the proposed operation as referred to in that Article without prior positive opinion by the competent authorities, Member States shall require the competent authorities to take appropriate measures.
+
+(*9)  Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29)."
+                        
+
+(*10)  Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (OJ L 24, 29.1.2004, p. 1).’;"
+                        
+(13)
+Title VI is replaced by the following:
+
+                                       ‘TITLE VI
+
+PRUDENTIAL SUPERVISION OF THIRD-COUNTRY BRANCHES AND RELATIONS WITH THIRD COUNTRIES
+
+
+SECTION I
+
+
+
+General provisions
+
+

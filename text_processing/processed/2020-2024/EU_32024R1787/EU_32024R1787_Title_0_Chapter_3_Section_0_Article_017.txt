@@ -1,0 +1,8 @@
+Article 17
+Flaring efficiency requirements
+1.   Where a site is built, replaced or refurbished in whole or in part, or where new flare stacks or other combustion devices are installed, operators shall install only flare stacks or combustion devices with an auto-igniter or continuous pilot burner and with a destruction and removal efficiency by design level of at least 99 %.
+2.   Operators shall ensure that all flare stacks or other combustion devices comply with the requirements of paragraph 1 by 5 February 2026.
+3.   Operators shall inspect flare stacks or other combustion devices every 15 days in accordance with Annex IV, except where they are not used on a regular basis. Where flare stacks or other combustion devices are not used on a regular basis, operators shall inspect them before each use.
+As an alternative to regular inspections, subject to the approval of the competent authorities, operators may use remote or automated monitoring systems, as specified in accordance with points (1) and (2) of Annex IV.
+Where irregularities are detected, operators shall investigate the cause of the irregularity and remedy it within 6 hours or, in the case of severe weather events or other extreme conditions, within 6 hours after the conditions return to normal.
+4.   Where auto-igniters or continuous pilot burners are used, operators shall use flame supervision equipment to constantly monitor the main flare flame or the pilot flame to ensure that venting does not occur due to a flame-out condition.

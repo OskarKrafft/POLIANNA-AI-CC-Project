@@ -1,0 +1,49 @@
+Article 26
+Obligation to report transactions
+1.   Investment firms which execute transactions in financial instruments shall report complete and accurate details of such transactions to the competent authority as quickly as possible, and no later than the close of the following working day.
+The competent authorities shall, in accordance with Article 85 of Directive 2014/65/EU, establish the necessary arrangements in order to ensure that the competent authority of the most relevant market in terms of liquidity for those financial instruments also receives that information.
+The competent authorities shall make available to ESMA, upon request, any information reported in accordance with this Article.
+2.   The obligation laid down in paragraph 1 shall apply to:
+(a)
+financial instruments which are admitted to trading or traded on a trading venue or for which a request for admission to trading has been made;
+(b)
+financial instruments where the underlying is a financial instrument traded on a trading venue; and
+(c)
+financial instruments where the underlying is an index or a basket composed of financial instruments traded on a trading venue
+The obligation shall apply to transactions in financial instruments referred to in points (a) to (c) irrespective of whether or not such transactions are carried out on the trading venue.
+3.   The reports shall, in particular, include details of the names and numbers of the financial instruments bought or sold, the quantity, the dates and times of execution, the transaction prices, a designation to identify the clients on whose behalf the investment firm has executed that transaction, a designation to identify the persons and the computer algorithms within the investment firm responsible for the investment decision and the execution of the transaction, a designation to identify the applicable waiver under which the trade has taken place, means of identifying the investment firms concerned, and a designation to identify a short sale as defined in Article 2(1)(b) of Regulation (EU) No 236/2012 in respect of any shares and sovereign debt within the scope of Articles 12, 13 and 17 of that Regulation. For transactions not carried out on a trading venue, the reports shall include a designation identifying the types of transactions in accordance with the measures to be adopted pursuant to Article 20(3)(a) and Article 21(5)(a). For commodity derivatives, the reports shall indicate whether the transaction reduces risk in an objectively measurable way in accordance with Article 57 of Directive 2014/65/EU.
+4.   Investment firms which transmit orders shall include in the transmission of that order all the details as specified in paragraphs 1 and 3. Instead of including the mentioned details when transmitting orders, an investment firm may choose to report the transmitted order, if it is executed, as a transaction in accordance with the requirements under paragraph 1. In that case, the transaction report by the investment firm shall state that it pertains to a transmitted order.
+5.   The operator of a trading venue shall report details of transactions in financial instruments traded on its platform which are executed through its systems by a firm which is not subject to this Regulation in accordance with paragraphs 1 and 3.
+6.   In reporting the designation to identify the clients as required under paragraphs 3 and 4, investment firms shall use a legal entity identifier established to identify clients that are legal persons.
+ESMA shall develop by 3 January 2016 guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to ensure that the application of legal entity identifiers within the Union complies with international standards, in particular those established by the Financial Stability Board.
+7.   The reports shall be made to the competent authority either by the investment firm itself, an ARM acting on its behalf or by the trading venue through whose system the transaction was completed, in accordance with paragraphs 1, 3 and 9.
+Investment firms shall have responsibility for the completeness, accuracy and timely submission of the reports which are submitted to the competent authority.
+By way of derogation from that responsibility, where an investment firm reports details of those transactions through an ARM which is acting on its behalf or a trading venue, the investment firm shall not be responsible for failures in the completeness, accuracy or timely submission of the reports which are attributable to the ARM or trading venue. In those cases and subject to Article 66(4) of Directive 2014/65/EU the ARM or trading venue shall be responsible for those failures.
+Investment firms must nevertheless take reasonable steps to verify the completeness, accuracy and timeliness of the transaction reports which were submitted on their behalf.
+The home Member State shall require the trading venue, when making reports on behalf of the investment firm, to have sound security mechanisms in place designed to guarantee the security and authentication of the means of transfer of information, to minimise the risk of data corruption and unauthorised access and to prevent information leakage maintaining the confidentiality of the data at all times. The home Member State shall require the trading venue to maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.
+Trade-matching or reporting systems, including trade repositories registered or recognised in accordance with Title VI of Regulation (EU) No 648/2012, may be approved by the competent authority as an ARM in order to transmit transaction reports to the competent authority in accordance with paragraphs 1, 3 and 9.
+Where transactions have been reported to a trade repository in accordance with Article 9 of Regulation (EU) No 648/2012 which is approved as an ARM and where those reports contain the details required under paragraphs 1, 3 and 9 and are transmitted to the competent authority by the trade repository within the time limit set in paragraph 1, the obligation on the investment firm laid down in paragraph 1 shall be considered to have been complied with.
+Where there are errors or omissions in the transaction reports, the ARM, investment firm or trading venue reporting the transaction shall correct the information and submit a corrected report to the competent authority.
+8.   When, in accordance with Article 35(8) of Directive 2014/65/EU, reports provided for under this Article are transmitted to the competent authority of the host Member State, it shall transmit that information to the competent authorities of the home Member State of the investment firm, unless the competent authorities of the home Member State decide that they do not want to receive that information.
+9.   ESMA shall develop draft regulatory technical standards to specify:
+(a)
+data standards and formats for the information to be reported in accordance with paragraphs 1 and 3, including the methods and arrangements for reporting financial transactions and the form and content of such reports;
+(b)
+the criteria for defining a relevant market in accordance with paragraph 1;
+(c)
+the references of the financial instruments bought or sold, the quantity, the dates and times of execution, the transaction prices, the information and details of the identity of the client, a designation to identify the clients on whose behalf the investment firm has executed that transaction, a designation to identify the persons and the computer algorithms within the investment firm responsible for the investment decision and the execution of the transaction, a designation to identify the applicable waiver under which the trade has taken place, the means of identifying the investment firms concerned, the way in which the transaction was executed, data fields necessary for the processing and analysis of the transaction reports in accordance with paragraph 3; and
+(d)
+the designation to identify short sales of shares and sovereign debt as referred to in paragraph 3;
+(e)
+the relevant categories of financial instrument to be reported in accordance with paragraph 2;
+(f)
+the conditions upon which legal entity identifiers are developed, attributed and maintained, by Member States in accordance with paragraph 6, and the conditions under which those legal entity identifiers are used by investment firms so as to provide, pursuant to paragraphs 3, 4 and 5, for the designation to identify the clients in the transaction reports they are required to establish pursuant to paragraph 1;
+(g)
+the application of transaction reporting obligations to branches of investment firms;
+(h)
+what constitutes a transaction and execution of a transaction for the purposes of this Article.
+(i)
+when an investment firm is deemed to have transmitted an order for the purposes of paragraph 4.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+10.   By 3 January 2019, ESMA shall submit a report to the Commission on the functioning of this Article, including its interaction with the related reporting obligations under Regulation (EU) No 648/2012, and whether the content and format of transaction reports received and exchanged between competent authorities comprehensively enables monitoring of the activities of investment firms in accordance with Article 24 of this Regulation. The Commission may take steps to propose any changes, including providing for transactions to be transmitted only to a single system appointed by ESMA instead of to competent authorities. The Commission shall forward ESMA’s report to the European Parliament and to the Council.

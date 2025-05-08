@@ -1,0 +1,26 @@
+Article 17
+Urban wastewater surveillance
+1.   Member States shall set up a national system for cooperation and coordination between competent authorities responsible for public health and competent authorities responsible for urban wastewater treatment with regard to:
+(a)
+the identification of relevant public health parameters that are to be monitored at least in the inlet of urban wastewater treatment plants, taking into account available recommendations by, inter alia, the European Centre for Disease Prevention and Control (ECDC), the Health Emergency Preparedness and Response Authority (HERA) and the World Health Organization (WHO), such as:
+(i)
+SARS-CoV-2 virus and its variants;
+(ii)
+poliovirus;
+(iii)
+influenza virus;
+(iv)
+emerging pathogens;
+(v)
+any other public health parameters that are considered relevant by the competent authorities for monitoring;
+(b)
+the clear allocation of roles, responsibilities and costs among operators and relevant competent authorities, including where related to sampling and analysis;
+(c)
+the determination of the location and the frequency of urban wastewater sampling and analysis for each public health parameter identified in accordance with point (a), having regard to the available health data and the needs in terms of public health data and, where relevant, the local epidemiological situations;
+(d)
+the organisation of appropriate and timely communication of the monitoring results to the competent authorities responsible for public health and, where relevant, competent authorities for drinking water in order to facilitate the implementation of Article 8 of Directive (EU) 2020/2184 and to Union platforms, where such platforms are available, and in accordance with applicable law on protection of personal data.
+2.   Where a public health emergency is declared by the competent authority responsible for public health in a Member State, relevant public health parameters shall be monitored in urban wastewater from a representative distribution of the national population, to the extent that the relevant health parameters are found in urban wastewater. That monitoring shall continue until the competent authority declares that the public health emergency has ended, or for a longer period if deemed useful for other purposes by that competent authority.
+To determine whether there is a public health emergency, the competent authority shall consider Commission decisions adopted pursuant to Article 23(1) of Regulation (EU) 2022/2371, assessments of the ECDC, and decisions of the WHO taken in accordance with the International Health Regulations.
+3.   For agglomerations of 100 000 p.e. and above, Member States shall, by the last day of the second year from the date of adoption of the implementing act in the second subparagraph, ensure that antimicrobial resistance is monitored in urban wastewater.
+By 2 July 2026, the Commission shall adopt implementing acts in order to establish a minimum frequency of sampling and a harmonised methodology for measuring antimicrobial resistance in urban wastewater, taking into account at least all available data from national public health authorities and national authorities responsible for monitoring antimicrobial resistance. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+4.   Results from the monitoring referred to in this Article shall be reported in accordance with Article 22(1), point (h).

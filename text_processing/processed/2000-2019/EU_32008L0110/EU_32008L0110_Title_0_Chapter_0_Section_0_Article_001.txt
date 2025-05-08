@@ -1,0 +1,129 @@
+Article 1
+Amendments
+Directive 2004/49/EC is hereby amended as follows:
+1.
+the following points shall be added to Article 2(2):
+‘(d)
+heritage vehicles that run on national networks provided that they comply with national safety rules and regulations with a view to ensuring safe circulation of such vehicles;
+(e)
+heritage, museum and tourist railways that operate on their own network, including workshops, vehicles and staff.’;
+2.
+the following points shall be added to Article 3:
+‘(s)
+“keeper” means the person or entity that, being the owner of a vehicle or having the right to use it, exploits the vehicle as a means of transport and is registered as such in the National Vehicle Register (NVR) provided for in Article 33 of Directive 2008/57/EC of the European Parliament and of the Council of 17 June 2008 on the interoperability of the rail system within the Community (recast) (*1), (hereinafter referred to as the “Railway Interoperability Directive”);
+(t)
+“entity in charge of maintenance” means an entity in charge of maintenance of a vehicle, and registered as such in the NVR;
+(u)
+“vehicle” means a railway vehicle suitable for circulation on its own wheels on railway lines, with or without traction. A vehicle is composed of one or more structural and functional subsystems or parts of such subsystems.
+
+(*1)  
+                                             OJ L 191, 18.7.2008, p. 1.’;"
+                        
+3.
+in Article 4(4) the term ‘wagon keeper’ shall be replaced by ‘keeper’;
+4.
+Article 5(2) shall be replaced by the following:
+‘2.   Before 30 April 2009 Annex I shall be revised, in particular to incorporate therein the common definitions of the CSIs and the common methods for calculating accident costs. This measure, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+5.
+Article 6 shall be amended as follows:
+(a)
+paragraph 1 shall be replaced by the following:
+‘1.   An initial series of CSMs covering, as a minimum, the methods described in paragraph 3(a) shall be adopted by the Commission before 30 April 2008. They shall be published in the Official Journal of the European Union.
+A second series of CSMs covering the remaining methods described in paragraph 3 shall be adopted by the Commission before 30 April 2010. They shall be published in the Official Journal of the European Union.
+These measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+(b)
+point (c) of paragraph 3 shall be replaced by the following:
+‘(c)
+as far as they are not yet covered by TSIs, methods to check that the structural subsystems of the railway system are operated and maintained in accordance with the relevant essential requirements.’;
+(c)
+paragraph 4 shall be replaced by the following:
+‘4.   The CSMs shall be revised at regular intervals, taking into account the experience gained from their application and the global development of railway safety and the obligations on Member States as laid down in Article 4(1). This measure, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+6.
+Article 7 shall be amended as follows:
+(a)
+the first and second subparagraphs of paragraph 3 shall be replaced by the following:
+‘3.   The first set of draft CSTs shall be based on an examination of existing targets and safety performance in the Member States and shall ensure that the current safety performance of the rail system is not reduced in any Member State. It shall be adopted by the Commission before 30 April 2009 and shall be published in the Official Journal of the European Union. This measure, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).
+The second set of draft CSTs shall be based on the experience gained from the first set of CSTs and their implementation. It shall reflect any priority areas where safety needs to be further improved. It shall be adopted by the Commission before 30 April 2011 and shall be published in the Official Journal of the European Union. This measure, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+(b)
+paragraph 5 shall be replaced by the following:
+‘5.   The CSTs shall be revised at regular intervals, taking into account the global development of railway safety. This measure, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+7.
+Article 10 shall be amended as follows:
+(a)
+the second subparagraph of paragraph 1 shall be replaced by the following:
+‘The purpose of the safety certificate is to provide evidence that the railway undertaking has established its safety management system and can meet requirements laid down in TSIs and other relevant Community legislation and in national safety rules in order to control risks and provide transport services safely on the network.’;
+(b)
+point (b) of paragraph 2 shall be replaced by the following:
+‘(b)
+certification confirming acceptance of the provisions adopted by the railway undertaking to meet specific requirements necessary for the safe supply of its services on the relevant network. These requirements may concern the application of the TSIs and national safety rules, including the network operating rules, acceptance of staff certificates and authorisation to operate vehicles used by railway undertakings. The certification shall be based on documentation submitted by the railway undertaking as described in Annex IV.’;
+8.
+the following Article shall be inserted:
+‘Article 14a
+Maintenance of vehicles
+1.   Each vehicle, before it is placed in service or used on the network, shall have an entity in charge of maintenance assigned to it and this entity shall be registered in the NVR in accordance with Article 33 of the Railway Interoperability Directive.
+2.   A railway undertaking, an infrastructure manager or a keeper may be an entity in charge of maintenance.
+3.   Without prejudice to the responsibility of the railway undertakings and infrastructure managers for the safe operation of a train as provided for in Article 4, the entity shall ensure that the vehicles for which it is in charge of maintenance are in a safe state of running by means of a system of maintenance. To this end, the entity in charge of maintenance shall ensure that vehicles are maintained in accordance with:
+(a)
+the maintenance file of each vehicle;
+(b)
+the requirements in force including maintenance rules and TSI provisions.
+The entity in charge of maintenance shall carry out the maintenance itself or make use of contracted maintenance workshops.
+4.   In the case of freight wagons, each entity in charge of maintenance shall be certified by a body accredited or recognised in accordance with paragraph 5, or by a national safety authority. The accreditation process shall be based on criteria of independence, competence and impartiality, such as the relevant EN 45 000 series European standards. The recognition process shall also be based on criteria of independence, competence and impartiality.
+Where the entity in charge of maintenance is a railway undertaking or an infrastructure manager, compliance with the requirements to be adopted under paragraph 5 shall be checked by the relevant national safety authority pursuant to the procedures referred to in Articles 10 or 11 and shall be confirmed on the certificates specified in those procedures.
+5.   Based on a recommendation by the Agency, the Commission shall, by 24 December 2010, adopt a measure establishing a system of certification of the entity in charge of maintenance for freight wagons. Certificates granted in accordance with this system shall confirm compliance with the requirements referred to in paragraph 3.
+The measure shall include the requirements concerning:
+(a)
+the maintenance system established by the entity;
+(b)
+the format and validity of the certificate granted to the entity;
+(c)
+the criteria for accreditation or recognition of body or bodies responsible for issuing certificates and ensuring controls necessary for the functioning of the certification system;
+(d)
+the date of application of the certification system, including a transition period of one year for existing entities in charge of maintenance.
+This measure, designed to amend non-essential elements of this Directive, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).
+Based on a recommendation by the Agency, the Commission shall, by 24 December 2018 review this measure in order to include all vehicles and to update, if necessary, the certification system applicable to freight wagons.
+6.   The certificates granted in accordance with paragraph 5 shall be valid throughout the Community.
+7.   The Agency shall evaluate the certification process implemented in accordance with paragraph 5 by submitting a report to the Commission, no later than three years after the entry into force of the relevant measure.
+8.   Member States may decide to fulfil the obligations to identify the entity in charge of maintenance and to certify it through alternative measures, in the following cases:
+(a)
+vehicles registered in a third country and maintained according to the law of that country;
+(b)
+vehicles which are used on networks or lines the track gauge of which is different from that of the main rail network within the Community and for which fulfilment of the requirements referred to in paragraph 3 are ensured by international agreements with third countries;
+(c)
+vehicles identified in Article 2(2), and military equipment and special transport requiring an ad hoc national safety authority permit to be delivered prior to the service. In this case derogations shall be granted for periods not longer than five years.
+Such alternative measures shall be implemented through derogations to be granted by the relevant national safety authority:
+(a)
+when registering vehicles pursuant to Article 33 of the Railway Interoperability Directive, as far as the identification of the entity in charge of maintenance is concerned;
+(b)
+when delivering safety certificates and authorisations to railway undertakings and infrastructure managers pursuant to Articles 10 and 11 of this Directive, as far as the identification or certification of the entity in charge of maintenance is concerned.
+Such derogations shall be identified and justified in the annual safety report referred to in Article 18 of this Directive. Where it appears that undue safety risks are being taken on the Community rail system, the Agency shall immediately inform the Commission thereof. The Commission shall make contact with the parties involved and, where appropriate, request the Member State to withdraw its derogation decision.’;
+9.
+Article 16(2) shall be amended as follows:
+(a)
+point (a) shall be replaced by the following:
+‘(a)
+authorising the placing in service of the structural subsystems constituting the rail system in accordance with Article 15 of the Railway Interoperability Directive and checking that they are operated and maintained in accordance with the relevant essential requirements;’;
+(b)
+point (b) shall be deleted;
+(c)
+point (g) shall be replaced by the following:
+‘(g)
+supervising that vehicles are duly registered in the NVR and that safety related information contained therein, is accurate and kept up to date;’;
+10.
+the following point shall be added to Article 18:
+‘(e)
+the derogations that have been decided in accordance with Article 14a(8).’;
+11.
+Article 26 shall be replaced by the following:
+‘Article 26
+Adaptation of the Annexes
+The Annexes shall be adapted to scientific and technical progress. This measure, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 27(2a).’;
+12.
+Article 27 shall be amended as follows:
+(a)
+the following paragraph shall be inserted:
+‘2a.   Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.’;
+(b)
+paragraph 4 shall be deleted;
+13.
+point 3 of Annex II shall be deleted.

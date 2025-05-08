@@ -1,0 +1,205 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘medical device’ means ‘medical device’ as defined in point (1) of Article 2 of Regulation (EU) 2017/745;
+(2)
+‘in vitro diagnostic medical device’ means any medical device which is a reagent, reagent product, calibrator, control material, kit, instrument, apparatus, piece of equipment, software or system, whether used alone or in combination, intended by the manufacturer to be used in vitro for the examination of specimens, including blood and tissue donations, derived from the human body, solely or principally for the purpose of providing information on one or more of the following:
+(a)
+concerning a physiological or pathological process or state;
+(b)
+concerning congenital physical or mental impairments;
+(c)
+concerning the predisposition to a medical condition or a disease;
+(d)
+to determine the safety and compatibility with potential recipients;
+(e)
+to predict treatment response or reactions;
+(f)
+to define or monitoring therapeutic measures.
+Specimen receptacles shall also be deemed to be in vitro diagnostic medical devices;
+(3)
+‘specimen receptacle’ means a device, whether of a vacuum-type or not, specifically intended by its manufacturer for the primary containment and preservation of specimens derived from the human body for the purpose of in vitro diagnostic examination;
+(4)
+‘accessory for an in vitro diagnostic medical device’ means an article which, whilst not being itself an in vitro diagnostic medical device, is intended by its manufacturer to be used together with one or several particular in vitro diagnostic medical device(s) to specifically enable the in vitro diagnostic medical device(s) to be used in accordance with its/their intended purpose(s) or to specifically and directly assist the medical functionality of the in vitro diagnostic medical device(s) in terms of its/their intended purpose(s);
+(5)
+‘device for self-testing’ means any device intended by the manufacturer to be used by lay persons, including devices used for testing services offered to lay persons by means of information society services;
+(6)
+‘device for near-patient testing’ means any device that is not intended for self-testing but is intended to perform testing outside a laboratory environment, generally near to, or at the side of, the patient by a health professional;
+(7)
+‘companion diagnostic’ means a device which is essential for the safe and effective use of a corresponding medicinal product to:
+(a)
+identify, before and/or during treatment, patients who are most likely to benefit from the corresponding medicinal product; or
+(b)
+identify, before and/or during treatment, patients likely to be at increased risk of serious adverse reactions as a result of treatment with the corresponding medicinal product;
+(8)
+‘generic device group’ means a set of devices having the same or similar intended purposes or a commonality of technology allowing them to be classified in a generic manner not reflecting specific characteristics;
+(9)
+‘single-use device’ means a device that is intended to be used during a single procedure;
+(10)
+‘falsified device’ means any device with a false presentation of its identity and/or of its source and/or its CE marking certificates or documents relating to CE marking procedures. This definition does not include unintentional non-compliance and is without prejudice to infringements of intellectual property rights;
+(11)
+‘kit’ means a set of components that are packaged together and intended to be used to perform a specific in vitro diagnostic examination, or a part thereof;
+(12)
+‘intended purpose’ means the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions for use or in promotional or sales materials or statements or as specified by the manufacturer in the performance evaluation;
+(13)
+‘label’ means the written, printed or graphic information appearing either on the device itself, or on the packaging of each unit or on the packaging of multiple devices;
+(14)
+‘instructions for use’ means the information provided by the manufacturer to inform the user of a device's intended purpose and proper use and of any precautions to be taken;
+(15)
+‘Unique Device Identifier’ (‘UDI’) means a series of numeric or alphanumeric characters that is created through internationally accepted device identification and coding standards and that allows unambiguous identification of specific devices on the market;
+(16)
+‘risk’ means the combination of the probability of occurrence of harm and the severity of that harm;
+(17)
+‘benefit-risk determination’ means the analysis of all assessments of benefit and risk of possible relevance for the use of the device for the intended purpose, when used in accordance with the intended purpose given by the manufacturer;
+(18)
+‘compatibility’ is the ability of a device, including software, when used together with one or more other devices in accordance with its intended purpose, to:
+(a)
+perform without losing or compromising the ability to perform as intended, and/or
+(b)
+integrate and/or operate without the need for modification or adaption of any part of the combined devices, and/or
+(c)
+be used together without conflict/interference or adverse reaction;
+(19)
+‘interoperability’ is the ability of two or more devices, including software, from the same manufacturer or from different manufacturers, to:
+(a)
+exchange information and use the information that has been exchanged for the correct execution of a specified function without changing the content of the data, and/or
+(b)
+communicate with each other, and/or
+(c)
+work together as intended;
+(20)
+‘making available on the market’ means any supply of a device, other than a device for performance study, for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(21)
+‘placing on the market’ means the first making available of a device, other than a device for performance study, on the Union market;
+(22)
+‘putting into service’ means the stage at which a device, other than a device for performance study, has been made available to the final user as being ready for use on the Union market for the first time for its intended purpose;
+(23)
+‘manufacturer’ means a natural or legal person who manufactures or fully refurbishes a device or has a device designed, manufactured or fully refurbished, and markets that device under its name or trade mark;
+(24)
+‘fully refurbishing’, for the purposes of the definition of manufacturer, means the complete rebuilding of a device already placed on the market or put into service, or the making of a new device from used devices, to bring it into conformity with this Regulation, combined with the assignment of a new lifetime to the refurbished device;
+(25)
+‘authorised representative’ means any natural or legal person established within the Union who has received and accepted a written mandate from a manufacturer, located outside the Union, to act on the manufacturer's behalf in relation to specified tasks with regard to the latter's obligations under this Regulation;
+(26)
+‘importer’ means any natural or legal person established within the Union that places a device from a third country on the Union market;
+(27)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a device available on the market, up until the point of putting into service;
+(28)
+‘economic operator’ means a manufacturer, an authorised representative, an importer or a distributor;
+(29)
+‘health institution’ means an organisation the primary purpose of which is the care or treatment of patients or the promotion of public health;
+(30)
+‘user’ means any healthcare professional or lay person who uses a device;
+(31)
+‘lay person’ means an individual who does not have formal education in a relevant field of healthcare or medical discipline;
+(32)
+‘conformity assessment’ means the process demonstrating whether the requirements of this Regulation relating to a device have been fulfilled;
+(33)
+‘conformity assessment body’ means a body that performs third-party conformity assessment activities including calibration, testing, certification and inspection;
+(34)
+‘notified body’ means a conformity assessment body designated in accordance with this Regulation;
+(35)
+‘CE marking of conformity’ or ‘CE marking’ means a marking by which a manufacturer indicates that a device is in conformity with the applicable requirements set out in this Regulation and other applicable Union harmonisation legislation providing for its affixing;
+(36)
+‘clinical evidence’ means clinical data and performance evaluation results, pertaining to a device of a sufficient amount and quality to allow a qualified assessment of whether the device is safe and achieves the intended clinical benefit(s), when used as intended by the manufacturer;
+(37)
+‘clinical benefit’ means the positive impact of a device related to its function, such as that of screening, monitoring, diagnosis or aid to diagnosis of patients, or a positive impact on patient management or public health;
+(38)
+‘scientific validity of an analyte’ means the association of an analyte with a clinical condition or a physiological state;
+(39)
+‘performance of a device’ means the ability of a device to achieve its intended purpose as claimed by the manufacturer. It consists of the analytical and, where applicable, the clinical performance supporting that intended purpose;
+(40)
+‘analytical performance’ means the ability of a device to correctly detect or measure a particular analyte;
+(41)
+‘clinical performance’ means the ability of a device to yield results that are correlated with a particular clinical condition or a physiological or pathological process or state in accordance with the target population and intended user;
+(42)
+‘performance study’ means a study undertaken to establish or confirm the analytical or clinical performance of a device;
+(43)
+‘performance study plan’ means a document that describes the rationale, objectives, design methodology, monitoring, statistical considerations, organisation and conduct of a performance study;
+(44)
+‘performance evaluation’ means an assessment and analysis of data to establish or verify the scientific validity, the analytical and, where applicable, the clinical performance of a device;
+(45)
+‘device for performance study’ means a device intended by the manufacturer to be used in a performance study.
+A device intended to be used for research purposes, without any medical objective, shall not be deemed to be a device for performance study;
+(46)
+‘interventional clinical performance study’ means a clinical performance study where the test results may influence patient management decisions and/or may be used to guide treatment;
+(47)
+‘subject’ means an individual who participates in a performance study and whose specimen(s) undergo in vitro examination by a device for performance study and/or by a device used for control purposes;
+(48)
+‘investigator’ means an individual responsible for the conduct of a performance study at a performance study site;
+(49)
+‘diagnostic specificity’ means the ability of a device to recognise the absence of a target marker associated with a particular disease or condition;
+(50)
+‘diagnostic sensitivity’ means the ability of a device to identify the presence of a target marker associated with a particular disease or condition;
+(51)
+‘predictive value’ means the probability that a person with a positive device test result has a given condition under investigation, or that a person with a negative device test result does not have a given condition;
+(52)
+‘positive predictive value’ means the ability of a device to separate true positive results from false positive results for a given attribute in a given population;
+(53)
+‘negative predictive value’ means the ability of a device to separate true negative results from false negative results for a given attribute in a given population;
+(54)
+‘likelihood ratio’ means the likelihood of a given result arising in an individual with the target clinical condition or physiological state compared to the likelihood of the same result arising in an individual without that clinical condition or physiological state;
+(55)
+‘calibrator’ means a measurement reference material used in the calibration of a device;
+(56)
+‘control material’ means a substance, material or article intended by its manufacturer to be used to verify the performance characteristics of a device;
+(57)
+‘sponsor’ means any individual, company, institution or organisation which takes responsibility for the initiation, for the management and setting up of the financing of the performance study;
+(58)
+‘informed consent’ means a subject's free and voluntary expression of his or her willingness to participate in a particular performance study, after having been informed of all aspects of the performance study that are relevant to the subject's decision to participate or, in the case of minors and of incapacitated subjects, an authorisation or agreement from their legally designated representative to include them in the performance study;
+(59)
+‘ethics committee’ means an independent body established in a Member State in accordance with the law of that Member State and empowered to give opinions for the purposes of this Regulation, taking into account the views of laypersons, in particular patients or patients' organisations;
+(60)
+‘adverse event’ means any untoward medical occurrence, inappropriate patient management decision, unintended disease or injury or any untoward clinical signs, including an abnormal laboratory finding, in subjects, users or other persons, in the context of a performance study, whether or not related to the device for performance study;
+(61)
+‘serious adverse event’ means any adverse event that led to any of the following:
+(a)
+a patient management decision resulting in death or an imminent life-threatening situation for the individual being tested, or in the death of the individual's offspring,
+(b)
+death,
+(c)
+serious deterioration in the health of the individual being tested or the recipient of tested donations or materials, that resulted in any of the following:
+(i)
+life-threatening illness or injury,
+(ii)
+permanent impairment of a body structure or a body function,
+(iii)
+hospitalisation or prolongation of patient hospitalisation,
+(iv)
+medical or surgical intervention to prevent life-threatening illness or injury or permanent impairment to a body structure or a body function,
+(v)
+chronic disease,
+(d)
+foetal distress, foetal death or a congenital physical or mental impairment or birth defect;
+(62)
+‘device deficiency’ means any inadequacy in the identity, quality, durability, reliability, safety or performance of a device for performance study, including malfunction, use errors or inadequacy in information supplied by the manufacturer;
+(63)
+‘post-market surveillance’ means all activities carried out by manufacturers in cooperation with other economic operators to institute and keep up to date a systematic procedure to proactively collect and review experience gained from devices they place on the market, make available on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;
+(64)
+‘market surveillance’ means the activities carried out and measures taken by public authorities to check and ensure that devices comply with the requirements set out in the relevant Union harmonisation legislation and do not endanger health, safety or any other aspect of public interest protection;
+(65)
+‘recall’ means any measure aimed at achieving the return of a device that has already been made available to the end user;
+(66)
+‘withdrawal’ means any measure aimed at preventing a device in the supply chain from being further made available on the market;
+(67)
+‘incident’ means any malfunction or deterioration in the characteristics or performance of a device made available on the market, including use-error due to ergonomic features, as well as any inadequacy in the information supplied by the manufacturer and any harm as a consequence of a medical decision, action taken or not taken on the basis of information or result(s) provided by the device;
+(68)
+‘serious incident’ means any incident that directly or indirectly led, might have led or might lead to any of the following:
+(a)
+the death of a patient, user or other person,
+(b)
+the temporary or permanent serious deterioration of a patient's, user's or other person's state of health,
+(c)
+a serious public health threat;
+(69)
+‘serious public health threat’ means an event which could result in imminent risk of death, serious deterioration in a person's state of health, or serious illness, that may require prompt remedial action, and that may cause significant morbidity or mortality in humans, or that is unusual or unexpected for the given place and time;
+(70)
+‘corrective action’ means action taken to eliminate the cause of a potential or actual non-conformity or other undesirable situation;
+(71)
+‘field safety corrective action’ means corrective action taken by a manufacturer for technical or medical reasons to prevent or reduce the risk of a serious incident in relation to a device made available on the market;
+(72)
+‘field safety notice’ means a communication sent by a manufacturer to users or customers in relation to a field safety corrective action;
+(73)
+‘harmonised standard’ means a European standard as defined in point (1)(c) of Article 2 of Regulation (EU) No 1025/2012;
+(74)
+‘common specifications’ (CS) means a set of technical and/or clinical requirements, other than a standard, that provides a means of complying with the legal obligations applicable to a device, process or system.

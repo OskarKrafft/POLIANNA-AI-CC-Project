@@ -1,0 +1,56 @@
+Article 19
+Content and form of the crypto-asset white paper for asset-referenced tokens
+1.   A crypto-asset white paper for an asset-referenced token shall contain all of the following information, as further specified in Annex II:
+(a)
+information about the issuer of the asset-referenced token;
+(b)
+information about the asset-referenced token;
+(c)
+information about the offer to the public of the asset-referenced token or its admission to trading;
+(d)
+information on the rights and obligations attached to the asset-referenced token;
+(e)
+information on the underlying technology;
+(f)
+information on the risks;
+(g)
+information on the reserve of assets;
+(h)
+information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the asset-referenced token.
+The crypto-asset white paper shall also include the identity of the person other than the issuer that offers to the public or seeks admission to trading pursuant to Article 16(1), second subparagraph, and the reason why that particular person offers that asset-referenced token or seeks its admission to trading. In cases where the crypto-asset white paper is not drawn up by the issuer, the crypto-asset white paper shall also include the identity of the person that drew up the crypto-asset white paper and the reason why that particular person drew it up.
+2.   All information listed in paragraph 1 shall be fair, clear and not misleading. The crypto-asset white paper shall not contain material omissions and shall be presented in a concise and comprehensible form.
+3.   The crypto-asset white paper shall not contain any assertions as regards the future value of the crypto-assets, other than the statement referred to in paragraph 4.
+4.   The crypto-asset white paper shall contain a clear and unambiguous statement that:
+(a)
+the asset-referenced token may lose its value in part or in full;
+(b)
+the asset-referenced token may not always be transferable;
+(c)
+the asset-referenced token may not be liquid;
+(d)
+the asset-referenced token is not covered by the investor compensation schemes under Directive 97/9/EC;
+(e)
+the asset-referenced token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+5.   The crypto-asset white paper shall contain a statement from the management body of the issuer of the asset-referenced token. That statement shall confirm that the crypto-asset white paper complies with this Title and that, to the best of the knowledge of the management body, the information presented in the crypto-asset white paper is fair, clear and not misleading and the crypto-asset white paper makes no omission likely to affect its import.
+6.   The crypto-asset white paper shall contain a summary, inserted after the statement referred to in paragraph 5, which shall in brief and non-technical language provide key information about the offer to the public of the asset-referenced token or the intended admission to trading of the asset-referenced token. The summary shall be easily understandable and presented and laid out in a clear and comprehensive format, using characters of readable size. The summary of the crypto-asset white paper shall provide appropriate information about the characteristics of the asset-referenced token concerned in order to help prospective holders of that asset-referenced token to make an informed decision.
+The summary shall contain a warning that:
+(a)
+it should be read as an introduction to the crypto-asset white paper;
+(b)
+the prospective holder should base any decision to purchase the asset-referenced token on the content of the crypto-asset white paper as a whole and not on the summary alone;
+(c)
+the offer to the public of the asset-referenced token does not constitute an offer or solicitation to purchase financial instruments and that any such offer or solicitation can be made only by means of a prospectus or other offer documents pursuant to the applicable national law;
+(d)
+the crypto-asset white paper does not constitute a prospectus as referred to in Regulation (EU) 2017/1129 or any other offer document pursuant to Union or national law.
+The summary shall state that the holders of asset-referenced tokens have a right of redemption at any time, and the conditions for such redemption.
+7.   The crypto-asset white paper shall contain the date of its notification and a table of contents.
+8.   The crypto-asset white paper shall be drawn up in an official language of the home Member State, or in a language customary in the sphere of international finance.
+Where the asset-referenced token is also offered in a Member State other than the issuer’s home Member State, the crypto-asset white paper shall also be drawn up in an official language of the host Member State, or in a language customary in the sphere of international finance.
+9.   The crypto-asset white paper shall be made available in a machine-readable format.
+10.   ESMA, in cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, formats and templates for the purposes of paragraph 9.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+11.   ESMA, in cooperation with EBA, shall develop draft regulatory technical standards on the content, methodologies and presentation of information referred to in paragraph 1, first subparagraph, point (h), in respect of the sustainability indicators in relation to adverse impacts on the climate and other environment‐related adverse impacts.
+When developing the draft regulatory technical standards referred to in the first subparagraph, ESMA shall consider the various types of consensus mechanisms used to validate transactions in crypto-assets, their incentive structures and the use of energy, renewable energy and natural resources, the production of waste and greenhouse gas emissions. ESMA shall update those regulatory technical standards in the light of regulatory and technological developments.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

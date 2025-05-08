@@ -1,0 +1,125 @@
+Article 1
+Directive 2014/53/EU is amended as follows:
+(1)
+Article 3 is amended as follows:
+(a)
+in paragraph 3, first subparagraph, point (a) is replaced by the following:
+‘(a)
+radio equipment interworks with accessories other than the charging devices for the categories or classes of radio equipment, specified in Part I of Annex Ia, which are specifically referred to in paragraph 4 of this Article;’
+;
+(b)
+the following paragraph is added:
+‘4.   Radio equipment falling within the categories or classes specified in Part I of Annex Ia shall be so constructed that it complies with the specifications relating to charging capabilities set out in that Annex for the relevant category or class of radio equipment.
+With respect to radio equipment capable of being recharged by means of wired charging, the Commission is empowered to adopt delegated acts in accordance with Article 44 to amend Part I of Annex Ia in the light of scientific and technological progress or market developments in order to ensure a minimum common interoperability between radio equipment and its charging devices, as well as to improve consumer convenience, to reduce environmental waste and to avoid market fragmentation, by:
+(a)
+modifying, adding or removing categories or classes of radio equipment;
+(b)
+modifying, adding or removing technical specifications, including references and descriptions, in relation to the charging receptacle(s) and charging communication protocol(s), for each category or class of radio equipment concerned.
+The Commission shall continuously assess market developments, market fragmentation and technological progress with a view to identifying categories or classes of radio equipment capable of being recharged by means of wired charging for which the inclusion in Part I of Annex Ia would lead to significant consumer convenience and reduction of environmental waste.
+The Commission shall submit a report on the assessment referred to in the third subparagraph to the European Parliament and to the Council, for the first time by 28 December 2025 and every 5 years thereafter, and shall adopt delegated acts pursuant to the second subparagraph, point (a), accordingly.
+With respect to radio equipment capable of being recharged by means other than wired charging, the Commission is empowered to adopt delegated acts in accordance with Article 44 in order to amend Part I of Annex Ia in the light of scientific and technological progress or market developments in order to ensure a minimum common interoperability between radio equipment and its charging devices, as well as to improve consumer convenience, to reduce environmental waste and to avoid market fragmentation, by:
+(a)
+introducing, modifying, adding or removing categories or classes of radio equipment;
+(b)
+introducing, modifying, adding or removing technical specifications, including references and descriptions, in relation to charging interface(s) and charging communication protocol(s), for each category or class of radio equipment concerned.
+The Commission shall, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, and by 28 December 2024, request one or more European standardisation organisations to draft harmonised standards laying down technical specifications for the charging interface(s) and charging communication protocol(s) for radio equipment capable of being recharged by means other than wired charging. In accordance with the procedure laid down in Article 10(2) of Regulation (EU) No 1025/2012, the Commission shall consult the committee set up under Article 45(1) of this Directive. The requirements as to the content of the requested harmonised standards shall be based on an assessment carried out by the Commission of the current state of wireless charging technologies for radio equipment, covering in particular market developments, market penetration, market fragmentation, technological performance, interoperability, energy efficiency and charging performance.
+When preparing the delegated acts referred to in this Article with respect to radio equipment capable of being recharged by means of wired charging, as well as with respect to radio equipment capable of being recharged by means other than wired charging, the Commission shall take into account the degree of market acceptance of the technical specifications under consideration, the resulting consumer convenience and the extent of the reduction of environmental waste and market fragmentation that can be expected from such technical specifications. Technical specifications that are based on relevant available European or international standards shall be deemed to meet the objectives set out in the previous sentence. However, where such European or international standards do not exist, or where the Commission determines, based on its technical assessment, that they do not meet those objectives in an optimal manner, the Commission may set out other technical specifications which better meet those objectives.’
+(2)
+the following Article is inserted:
+‘Article 3a
+Possibility for consumers and other end-users to acquire certain categories or classes of radio equipment without a charging device
+1.
+Where an economic operator offers to consumers and other end-users the possibility to acquire the radio equipment referred to in Article 3(4) together with a charging device, the economic operator shall also offer the consumers and other end-users the possibility of acquiring that radio equipment without any charging device.
+2.
+Economic operators shall ensure that the information on whether or not a charging device is included with the radio equipment referred to in Article 3(4) is displayed in a graphic form using a user-friendly and easily accessible pictogram as set out in Part III of Annex Ia when such radio equipment is made available to consumers and other end-users. The pictogram shall be printed on the packaging or affixed to the packaging as a sticker. When the radio equipment is made available to consumers and other end-users, the pictogram shall be displayed in a visible and legible manner and, in the case of distance selling, close to the price indication.
+The Commission is empowered to adopt delegated acts in accordance with Article 44 in order to amend Part III of Annex Ia as a consequence of amendments to Parts I and II of that Annex, or as a consequence of future amendments to labelling requirements, or in the light of technological progress, by introducing, modifying, adding or removing any graphic or textual elements.’
+(3)
+in Article 10, paragraph 8 is replaced by the following:
+‘8.   Manufacturers shall ensure that the radio equipment is accompanied by instructions and safety information. Instructions shall include the information required to use radio equipment in accordance with its intended use. Such information shall include, where applicable, a description of accessories and components, including software, which allow the radio equipment to operate as intended. Such instructions and safety information, as well as any labelling, shall be clear, understandable and intelligible.
+The following information shall also be included in the instructions in the case of radio equipment intentionally emitting radio waves:
+(a)
+frequency band(s) in which the radio equipment operates;
+(b)
+maximum radio-frequency power transmitted in the frequency band(s) in which the radio equipment operates.
+In the case of radio equipment referred to in Article 3(4), the instructions shall contain information on the specifications relating to the radio equipment’s charging capabilities and the compatible charging devices, as set out in Part II of Annex Ia. In addition to being included in the instructions, when the manufacturers make such radio equipment available to consumers and other end-users, the information shall be also displayed on a label, as set out in Part IV of Annex Ia. The label shall be printed in the instructions and on the packaging or affixed to the packaging as a sticker. In the absence of packaging, the sticker with the label shall be affixed to the radio equipment. When the radio equipment is made available to consumers and other end-users, the label shall be displayed in a visible and legible manner and, in the case of distance selling, close to the price indication. Where the size or nature of the radio equipment does not allow otherwise, the label may be printed as a separate document accompanying the radio equipment.
+The instructions and safety information referred to in the first, second and third subparagraphs of this paragraph shall be in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.
+The Commission is empowered to adopt delegated acts in accordance with Article 44 in order to amend Parts II and IV of Annex Ia, as a consequence of amendments to Part I of that Annex, or as a consequence of future amendments to labelling requirements, or in the light of technological progress, by introducing, modifying, adding or removing any details in relation to the information, graphic or textual elements, as set out in this Article.’
+(4)
+in Article 12(4), the following subparagraph is added:
+
+                              ‘When making the radio equipment referred to in Article 3(4) available to consumers and other end-users, importers shall ensure that:
+(a)
+such radio equipment displays, or is supplied with, a label in accordance with Article 10(8), third subparagraph;
+(b)
+that label is displayed in a visible and legible manner and, in the case of distance selling, close to the price indication.’
+(5)
+in Article 13(2), the following subparagraph is added:
+
+                              ‘When making the radio equipment referred to in Article 3(4) available to consumers and other end-users, distributors shall ensure that:
+(a)
+such radio equipment displays, or is supplied with, a label in accordance with Article 10(8), third subparagraph;
+(b)
+that label is displayed in a visible and legible manner and, in the case of distance selling, close to the price indication.’
+(6)
+in Article 17(2), introductory part, the words ‘Article 3(1)’ are replaced by the words ‘Article 3(1) and (4)’;
+(7)
+Article 40 is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                          ‘Procedure at national level for dealing with radio equipment presenting a risk or not in compliance with essential requirements’
+                                       
+(b)
+in paragraph 1, the first subparagraph is replaced by the following:
+
+                                          ‘Where the market surveillance authorities of a Member State have sufficient reason to believe that radio equipment covered by this Directive presents a risk to the health or safety of persons or to other aspects of public interest protection covered by this Directive, or that it does not comply with at least one of the applicable essential requirements set out in Article 3, they shall carry out an evaluation in relation to the radio equipment concerned covering all relevant requirements laid down in this Directive. The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.’
+                                       
+(8)
+in Article 43, paragraph 1 is amended as follows:
+(a)
+the following points are inserted after point (f):
+‘(fa)
+the pictogram as referred to in Article 3a(2), or the label as referred to in Article 10(8), has not been drawn up correctly;
+(fb)
+the label as referred to in Article 10(8) does not accompany the radio equipment concerned;
+(fc)
+the pictogram or the label is not affixed or displayed in accordance with Article 3a(2) or Article 10(8), respectively;’
+;
+(b)
+point (h) is replaced by the following:
+‘(h)
+the information referred to in Article 10(8), the EU declaration of conformity referred to in Article 10(9) or the information on usage restrictions referred to in Article 10(10) does not accompany the radio equipment;’
+;
+(c)
+point (j) is replaced by the following:
+‘(j)
+Article 3a(1) or Article 5 is not complied with.’
+;
+(9)
+Article 44 is amended as follows:
+(a)
+in paragraph 2, the following sentence is inserted after the first sentence:
+
+                                          ‘The power to adopt delegated acts referred to in Article 3(4), Article 3a(2), second subparagraph, and Article 10(8), fifth subparagraph, shall be conferred on the Commission for a period of 5 years from 27 December 2022
+                                          ’
+                                       
+(b)
+in paragraph 3, the first sentence is replaced by the following:
+
+                                          ‘The delegation of power referred to in Article 3(3), second subparagraph, Article 3(4), Article 3a(2), second subparagraph, Article 4(2), Article 5(2) and Article 10(8), fifth subparagraph, may be revoked at any time by the European Parliament or by the Council.’
+                                       
+(c)
+the following paragraph is inserted:
+‘3a.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*1).
+
+(*1)  
+                                                   OJ L 123, 12.5.2016, p. 1.’;"
+                        
+(d)
+paragraph 5 is replaced by the following:
+‘5.   A delegated act adopted pursuant to Article 3(3), second subparagraph, Article 3(4), Article 3a(2), second subparagraph, Article 4(2), Article 5(2) or Article 10(8), fifth subparagraph, shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.’
+(10)
+in Article 47, the following paragraph is added:
+‘3.   By 28 December 2026, the Commission shall submit to the European Parliament and the Council a report on the impact of the possibility to acquire radio equipment without any charging device and without cables, particularly with regard to consumer convenience, the reduction of environmental waste, behavioural changes and the development of market practices. That report shall be accompanied, if appropriate, by a legislative proposal to amend this Directive to introduce mandatory unbundling of the sale of charging devices and cables from the sale of radio equipment.’
+(11)
+the text set out in the Annex to this Directive is inserted as Annex Ia.

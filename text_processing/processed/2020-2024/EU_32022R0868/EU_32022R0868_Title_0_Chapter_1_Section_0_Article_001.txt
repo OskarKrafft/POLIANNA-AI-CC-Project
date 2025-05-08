@@ -1,0 +1,21 @@
+Article 1
+Subject matter and scope
+1.   This Regulation lays down:
+(a)
+conditions for the re-use, within the Union, of certain categories of data held by public sector bodies;
+(b)
+a notification and supervisory framework for the provision of data intermediation services;
+(c)
+a framework for voluntary registration of entities which collect and process data made available for altruistic purposes; and
+(d)
+a framework for the establishment of a European Data Innovation Board.
+2.   This Regulation does not create any obligation on public sector bodies to allow the re-use of data, nor does it release public sector bodies from their confidentiality obligations under Union or national law.
+This Regulation is without prejudice to:
+(a)
+specific provisions in Union or national law regarding the access to or re-use of certain categories of data, in particular with regard to the granting of access to and disclosure of official documents; and
+(b)
+the obligations of public sector bodies under Union or national law to allow the re-use of data or to requirements related to processing of non-personal data.
+Where sector-specific Union or national law requires public sector bodies, data intermediation services providers or recognised data altruism organisations to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union or national law shall also apply. Any such specific additional requirements shall be non-discriminatory, proportionate and objectively justified.
+3.   Union and national law on the protection of personal data shall apply to any personal data processed in connection with this Regulation. In particular, this Regulation is without prejudice to Regulations (EU) 2016/679 and (EU) 2018/1725 and Directives 2002/58/EC and (EU) 2016/680, including with regard to the powers and competences of supervisory authorities. In the event of a conflict between this Regulation and Union law on the protection of personal data or national law adopted in accordance with such Union law, the relevant Union or national law on the protection of personal data shall prevail. This Regulation does not create a legal basis for the processing of personal data, nor does it affect any of the rights and obligations set out in Regulations (EU) 2016/679 or (EU) 2018/1725 or Directives 2002/58/EC or (EU) 2016/680.
+4.   This Regulation is without prejudice to the application of competition law.
+5.   This Regulation is without prejudice to the competences of the Member States with regard to their activities concerning public security, defence and national security.

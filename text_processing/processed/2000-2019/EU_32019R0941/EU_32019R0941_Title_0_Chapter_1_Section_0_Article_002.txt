@@ -1,0 +1,47 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘security of electricity supply’ means the ability of an electricity system to guarantee the supply of electricity to customers with a clearly established level of performance, as determined by the Member States concerned;
+(2)
+‘transmission system operator’ means transmission system operator as defined in point (35) of Article 2 of Directive (EU) 2019/944;
+(3)
+‘distribution’ means distribution as defined in point (28) of Article 2 of Directive (EU) 2019/944;
+(4)
+‘cross-border flow’ means cross-border flow as defined in point (3) of Article 2 of Regulation (EU) 2019/943;
+(5)
+‘cross zonal capacity’ means the capability of the interconnected system to accommodate energy transfer between bidding zones;
+(6)
+‘customer’ means customer as defined in point (1) of Article 2 of Directive (EU) 2019/944;
+(7)
+‘distribution system operator’ means distribution system operator as defined in point (29) of Article 2 of Directive (EU) 2019/944;
+(8)
+‘generation’ means generation as defined in point (37) of Article 2 of Directive (EU) 2019/944;
+(9)
+‘electricity crisis’ means a present or imminent situation in which there is a significant electricity shortage, as determined by the Member States and described in their risk-preparedness plans, or in which it is impossible to supply electricity to customers;
+(10)
+‘simultaneous electricity crisis’ means an electricity crisis affecting more than one Member State at the same time;
+(11)
+‘competent authority’ means a national governmental authority or a regulatory authority designated by a Member State in accordance with Article 3;
+(12)
+‘regulatory authorities’ means regulatory authorities referred to in Article 57(1) of Directive (EU) 2019/944;
+(13)
+‘crisis coordinator’ means a person, a group of persons, a team composed of the relevant national electricity crisis managers or an institution tasked with acting as a contact point and coordinating the information flow during an electricity crisis;
+(14)
+‘non-market-based measure’ means any supply- or demand-side measure that deviates from market rules or commercial agreements, the purpose of which is to mitigate an electricity crisis;
+(15)
+‘producer’ means producer as defined in point (38) of Article 2 of Directive (EU) 2019/944;
+(16)
+‘region’ means a group of Member States whose transmission system operators share the same regional coordination centre as referred to in Article 36 of Regulation (EU) 2019/943;
+(17)
+‘subgroup’ means a group of Member States, within a region, which have the technical ability to provide each other assistance in accordance with Article 15;
+(18)
+‘early warning’ means a provision of concrete, serious, reliable information indicating that an event may occur which is likely to result in a significant deterioration of the electricity supply situation and is likely to lead to electricity crisis;
+(19)
+‘transmission’ means transmission as defined in point (34) of Article 2 of Directive (EU) 2019/944;
+(20)
+‘electricity undertaking’ means electricity undertaking as defined in point (57) of Article 2 of Directive (EU) 2019/944;
+(21)
+‘capacity allocation’ means the attribution of cross zonal capacity;
+(22)
+‘energy from renewable sources’ means energy from renewable sources or renewable energy as defined in point (31) of Article 2 of Directive (EU) 2019/944.

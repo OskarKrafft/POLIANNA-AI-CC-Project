@@ -1,0 +1,5 @@
+Article 16
+Compliance with market rules
+1.   Measures taken to prevent or mitigate electricity crises shall comply with the rules governing the internal electricity market and system operation.
+2.   Non-market-based measures shall be activated in an electricity crisis only as a last resort if all options provided by the market have been exhausted or where it is evident that market-based measures alone are not sufficient to prevent a further deterioration of the electricity supply situation. Non-market-based measures shall not unduly distort competition and the effective functioning of the internal electricity market. They shall be necessary, proportionate, non-discriminatory and temporary. The competent authority shall inform relevant stakeholders in its Member State of the application of any non-market-based measures.
+3.   Transaction curtailment including curtailment of already allocated cross zonal capacity, limitation of provision of cross zonal capacity for capacity allocation or limitation of provision of schedules shall be initiated only in accordance with Article 16(2) of Regulation (EU) 2019/943, and the rules adopted to implement that provision.

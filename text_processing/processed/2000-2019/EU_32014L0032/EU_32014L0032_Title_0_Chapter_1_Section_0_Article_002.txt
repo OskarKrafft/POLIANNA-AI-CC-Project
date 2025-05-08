@@ -1,0 +1,4 @@
+Article 2
+Scope
+1.   This Directive applies to the measuring instruments defined in the instrument-specific Annexes III to XII (hereinafter ‘instrument-specific Annexes’) concerning water meters (MI-001), gas meters and volume conversion devices (MI-002), active electrical energy meters (MI-003), thermal energy meters (MI-004), measuring systems for continuous and dynamic measurement of quantities of liquids other than water (MI-005), automatic weighing instruments (MI-006), taximeters (MI-007), material measures (MI-008), dimensional measuring instruments (MI-009) and exhaust gas analysers (MI-010).
+2.   This Directive is a specific Directive in respect of requirements for electromagnetic immunity within the meaning of Article 2(3) of Directive 2014/30/EU of the European Parliament and of the Council (10). That Directive continues to apply with regard to emission requirements.

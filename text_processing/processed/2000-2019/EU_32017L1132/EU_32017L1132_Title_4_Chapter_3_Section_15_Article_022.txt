@@ -1,0 +1,14 @@
+Article 22
+System of interconnection of registers
+1.   A European central platform (‘the platform’) shall be established.
+2.   The system of interconnection of registers shall be composed of:
+—
+the registers of Member States,
+—
+the platform,
+—
+the portal serving as the European electronic access point.
+3.   Member States shall ensure the interoperability of their registers within the system of interconnection of registers via the platform.
+4.   Member States may establish optional access points to the system of interconnection of registers. They shall notify the Commission without undue delay of the establishment of such access points and of any significant changes to their operation.
+5.   Access to information from the system of interconnection of registers shall be ensured through the portal and through the optional access points established by the Member States.
+6.   The establishment of the system of interconnection of registers shall not affect existing bilateral agreements concluded between Member States concerning the exchange of information on companies.

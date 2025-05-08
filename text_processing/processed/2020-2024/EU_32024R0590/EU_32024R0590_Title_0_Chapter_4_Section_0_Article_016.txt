@@ -1,0 +1,26 @@
+Article 16
+Licensing system
+1.   The Commission shall set up and ensure the operation of the electronic licensing system for ozone-depleting substances listed in Annex I, and for products and equipment containing those substances or whose functioning relies upon those substances (the ‘licensing system’).
+2.   Undertakings that wish to obtain the licences required in accordance with Article 13(2) or Article 14(3) shall submit an application using the licensing system. Before submitting such an application, undertakings shall have a valid registration in the licensing system. Undertakings shall also ensure that they have a valid registration in the licensing system before reporting pursuant to Article 24.
+Applications for licences shall be processed within 30 days. Licences shall be issued in accordance with the rules and procedures set out in Annex VII.
+3.   Licences may be issued to undertakings with an establishment within the Union and to undertakings with an establishment outside the Union.
+Undertakings with an establishment outside the Union shall appoint an only representative with an establishment within the Union that assumes the full responsibility for compliance with this Regulation. The only representative may be the same as the one appointed pursuant to Article 8 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council (22).
+4.   Licences shall be time-limited. They shall remain valid until they expire, are suspended or revoked by the Commission pursuant to this Article, or are withdrawn by the undertaking. In the case of imports or exports of recovered, recycled or reclaimed halons stored for critical uses referred to in Article 9(1), the time limit shall not exceed the end date for the critical use set out in Annex V.
+5.   Each undertaking that holds a licence shall, during the period of validity of the licence, notify the Commission without undue delay of any changes which might occur during the period of validity of the licence in relation to the information submitted in accordance with Annex VII.
+6.   The Commission may request additional information where needed to confirm the accuracy and completeness of the information provided by the undertakings in accordance with Annex VII.
+7.   The competent authorities of Member States, including the customs authorities, or the Commission may require a certificate attesting the nature or composition of substances to be imported or exported and may request a copy of the licence issued by the country from which the import or to which the export takes place.
+8.   The Commission may share the data submitted in the licensing system to the extent necessary in specific cases with competent authorities of the Parties to the Protocol concerned.
+9.   A licence shall be suspended where there is reasonable suspicion that any obligation set out in this Regulation is not complied with. A licence shall be revoked where there is evidence that any obligation set out in this Regulation is not complied with. The licence application shall also be rejected or the licence revoked where there is evidence of serious or repeated infringements of Union customs law or Union environmental law by the undertaking related to its activities under this Regulation.
+Undertakings shall be informed, as soon as possible, of any licence application being rejected or of any licence being suspended or revoked, specifying the reasons for rejection, suspension or revocation. Member States shall also be informed of such cases.
+10.   Undertakings shall take all necessary measures to ensure that an export of ozone-depleting substances does not:
+(a)
+constitute a case of illegal trade;
+(b)
+impact adversely on the implementation of control measures taken by the country of destination to comply with its obligations under the Protocol;
+(c)
+lead to an excess of the quantitative limits under the Protocol for the country referred to in point (b).
+11.   The competent authorities of Member States, including customs authorities, shall have access to the licensing system for the purpose of enforcing this Regulation. Access to the licensing system by customs authorities shall be ensured via the European Union Single Window Environment for Customs (‘EU Single Window Environment for Customs’) referred to in paragraphs 14 and 15.
+12.   The competent authorities of Member States and the Commission shall ensure the confidentiality of the information included in the licensing system.
+13.   The Commission is empowered to adopt delegated acts in accordance with Article 29 to amend Annex VII where it is necessary to ensure the smooth functioning of the licensing system, to facilitate the enforcement of customs controls, or where it is necessary to comply with the Protocol.
+14.   The Commission shall ensure the interconnection of the licensing system with the EU Single Window Environment for Customs through the European Union Customs Single Window Certificate Exchange System established by Regulation (EU) 2022/2399.
+15.   Member States shall ensure the interconnection of their national single window environments for customs with the European Union Customs Single Window Certificate Exchange System for the purpose of exchanging information with the licensing system.

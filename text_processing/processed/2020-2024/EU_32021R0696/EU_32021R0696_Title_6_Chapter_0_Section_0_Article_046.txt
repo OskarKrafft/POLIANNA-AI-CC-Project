@@ -1,0 +1,12 @@
+Article 46
+Services provided by EGNOS
+1.   The services provided by EGNOS shall comprise:
+(a)
+an EGNOS open service (EOS), which shall be free of direct user charges and shall provide positioning and synchronisation information intended mainly for high-volume satellite navigation applications for use by consumers;
+(b)
+EGNOS data access service (EDAS), which shall be free of direct user charges and shall provide positioning and synchronisation information intended mainly for satellite navigation applications for professional or commercial use, offering improved performance and data with greater added value than those obtained through the EOS;
+(c)
+a safety-of-life (SoL) service, which shall be free of direct user charges and shall provide positioning and time synchronisation information with a high level of continuity, availability and accuracy, including an integrity message alerting users to any failure in, or out-of-tolerance signals emitted by, Galileo and other GNSSs which EGNOS augments in the coverage area, intended mainly for users for whom safety is essential, in particular in the sector of civil aviation for the purpose of air navigation services, in accordance with ICAO standards, or other transport sectors.
+2.   The services referred to in paragraph 1 shall be provided as a priority on the territory of all Member States geographically located in Europe, including for that purpose Cyprus, the Azores, the Canary Islands and Madeira, by the end of 2026.
+3.   The geographical coverage of EGNOS may be extended to other regions of the world, in particular to the territories of candidate countries, of third countries associated with the Single European Sky and of third countries in the European Neighbourhood Policy, subject to technical feasibility and in conformity with security requirements referred to in Article 34(2), and, for the SoL service, on the basis of international agreements.
+4.   The cost of the extension of the geographical coverage of EGNOS under paragraph 3 of this Article, including the related operating costs specific to these regions, shall not be covered by the budget referred to in Article 11. The Commission shall consider other programmes or instrument to finance such activities. Such extension shall not delay the offering of the services referred to in paragraph 1 of this Article throughout the territory of Member States geographically located in Europe.

@@ -1,0 +1,14 @@
+Article 14
+Obligations of offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens
+1.   Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall:
+(a)
+act honestly, fairly and professionally;
+(b)
+communicate with holders and prospective holders of the crypto-assets in a fair, clear and not misleading manner;
+(c)
+identify, prevent, manage and disclose any conflicts of interest that might arise;
+(d)
+maintain all of their systems and security access protocols in conformity with the appropriate Union standards.
+For the purposes of point (d) of the first subparagraph, ESMA, in cooperation with EBA, shall by 30 December 2024 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to specify those Union standards.
+2.   Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall act in the best interests of the holders of such crypto-assets and shall treat them equally, unless any preferential treatment of specific holders and the reasons for that preferential treatment are disclosed in the crypto-asset white paper and, where applicable, the marketing communications.
+3.   Where an offer to the public of a crypto-asset other than an asset-referenced token or e-money token is cancelled, offerors of such crypto-asset shall ensure that any funds collected from holders or prospective holders are duly returned to them no later than 25 calendar days after the date of cancellation.

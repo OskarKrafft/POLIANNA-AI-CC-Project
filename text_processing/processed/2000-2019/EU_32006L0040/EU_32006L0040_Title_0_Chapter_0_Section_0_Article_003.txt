@@ -1,0 +1,23 @@
+Article 3
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1.
+‘vehicle’ means any motor vehicle falling within the scope of this Directive;
+2.
+‘vehicle type’ means a type as defined in section B of Annex II of Directive 70/156/EEC;
+3.
+‘air-conditioning system’ means any system whose main purpose is to decrease the air temperature and humidity of the passenger compartment of a vehicle;
+4.
+‘dual evaporator system’ means a system where one evaporator is mounted in the engine compartment and the other in a different compartment of the vehicle; all other systems shall be considered ‘single evaporator systems’;
+5.
+‘fluorinated greenhouse gases’ means hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulphur hexafluoride (SF6) as referred to in Annex A of the Kyoto Protocol and preparations containing these substances, but excludes substances controlled under Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer (10);
+6.
+‘hydrofluorocarbon’ means an organic compound consisting of carbon, hydrogen and fluorine, and where no more than six carbon atoms are contained in the molecule;
+7.
+‘perfluorocarbon’ means an organic compound consisting of carbon and fluorine only, and where no more than six carbon atoms are contained in the molecule;
+8.
+‘global warming potential’ means the climatic warming potential of a fluorinated greenhouse gas relative to that of carbon dioxide. The global warming potential (GWP) is calculated in terms of the 100 year warming potential of one kilogram of a gas relative to one kilogram of CO2. The relevant GWP figures are those published in the third assessment report adopted by the Intergovernmental Panel on Climate Change (2001 IPCC GWP values) (11);
+9.
+‘preparation’ means a mixture composed of two or more substances at least one of which is a fluorinated greenhouse gas. The total global warming potential (12) of the preparation shall be determined in accordance with Part 2 of the Annex;
+10.
+‘retrofitting’ means installing an air-conditioning system in a vehicle after it has been registered.

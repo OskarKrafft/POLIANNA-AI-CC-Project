@@ -1,0 +1,131 @@
+Article 2
+Definitions
+The following definitions apply:
+(1)
+‘policies and measures’ means all instruments which contribute to meeting the objectives of the integrated national energy and climate plans and/or to implement commitments under points (a) and (b) of Article 4(2) of the UNFCCC, which may include those that do not have the limitation and reduction of greenhouse gas emissions or change in the energy system as a primary objective;
+(2)
+‘existing policies and measures’ means implemented policies and measures and adopted policies and measures;
+(3)
+‘implemented policies and measures’ means policies and measures for which one or more of the following applies at the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report: directly applicable Union or national law is in force, one or more voluntary agreements have been established, financial resources have been allocated, human resources have been mobilised;
+(4)
+‘adopted policies and measures’ means policies and measures for which an official government decision has been made by the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report and there is a clear commitment to proceed with implementation;
+(5)
+‘planned policies and measures’ means options that are under discussion and that have a realistic chance of being adopted and implemented after the date of submission of the integrated national energy and climate plan or of the integrated national energy and climate progress report;
+(6)
+‘system for policies and measures and projections’ means a system of institutional, legal and procedural arrangements established for reporting policies and measures and projections relating to anthropogenic emissions by sources and removals by sinks of greenhouse gases and to the energy system, inter alia as required by Article 39;
+(7)
+‘projections’ means forecasts of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system, including at least quantitative estimates for a sequence of four future years ending with 0 or 5 immediately following the reporting year;
+(8)
+‘projections without measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that exclude the effects of all policies and measures which are planned, adopted or implemented after the year chosen as the starting point for the relevant projection;
+(9)
+‘projections with measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks that encompass the effects, in terms of greenhouse gas emission reductions or developments of the energy system, of policies and measures that have been adopted and implemented;
+(10)
+‘projections with additional measures’ means projections of anthropogenic greenhouse gas emissions by sources and removals by sinks or developments of the energy system that encompass the effects, in terms of greenhouse gas emission reductions, of policies and measures which have been adopted and implemented to mitigate climate change or meet energy objectives, as well as policies and measures which are planned for that purpose;
+(11)
+‘the Union's 2030 targets for energy and climate’ means the Union-wide binding target of at least 40 % domestic reduction in economy-wide greenhouse gas emissions as compared to 1990 to be achieved by 2030, the Union-level binding target of at least 32 % for the share of renewable energy consumed in the Union in 2030, the Union-level headline target of at least 32,5 % for improving energy efficiency in 2030, and the 15 % electricity interconnection target for 2030 or any subsequent targets in this regard agreed by the European Council or by the European Parliament and by the Council for 2030;
+(12)
+‘national inventory system’ means a system of institutional, legal and procedural arrangements established within a Member State for estimating anthropogenic emissions by sources and removals by sinks of greenhouse gases, and for reporting and archiving inventory information;
+(13)
+‘indicator’ means a quantitative or qualitative factor or variable that contributes to better understanding progress in implementing;
+(14)
+‘key indicators’ mean the indicators for the progress made with regard to the five dimensions of the Energy Union as proposed by the Commission;
+(15)
+‘technical corrections’ means adjustments to the national greenhouse gas inventory estimates made in the context of the review carried out pursuant to Article 38 when the submitted inventory data are incomplete or are prepared in a way that is not consistent with relevant international or Union rules or guidelines and that are intended to replace originally submitted estimates;
+(16)
+‘quality assurance’ means a planned system of review procedures to ensure that data quality objectives are met and that the best possible estimates and information are reported to support the effectiveness of the quality control programme and to assist Member States;
+(17)
+‘quality control’ means a system of routine technical activities to measure and control the quality of the information and estimates compiled with the purpose of ensuring data integrity, correctness and completeness, identifying and addressing errors and omissions, documenting and archiving data and other material used, and recording all quality assurance activities;
+(18)
+‘energy efficiency first’ means taking utmost account in energy planning, and in policy and investment decisions, of alternative cost-efficient energy efficiency measures to make energy demand and energy supply more efficient, in particular by means of cost-effective end-use energy savings, demand response initiatives and more efficient conversion, transmission and distribution of energy, whilst still achieving the objectives of those decisions;
+(19)
+‘SET-Plan’ means the Strategic Energy Technology Plan as set out in the Commission communication of 15 September 2015, entitled, ‘Towards an Integrated Strategic Energy Technology (SET) Plan: Accelerating the European Energy System Transformation’;
+(20)
+‘early efforts’ means:
+(a)
+in the context of the assessment of a potential gap between the Union's 2030 target for energy from renewable sources and the collective contributions of Member States, a Member State's achievement of a share of energy from renewable sources above its national binding target for 2020 as set out in Annex I to Directive (EU) 2018/2001 or a Member State's early progress towards its national binding target for 2020;
+(b)
+in the context of Commission recommendations based on the assessment pursuant to point (b) of Article 29(1) with regard to energy from renewable sources, a Member State's early implementation of its contribution to the Union's binding target of at least 32 % of renewable energy in 2030 as measured against its national reference points for renewable energy;
+(21)
+‘regional cooperation’ means cooperation between two or more Member States engaged in a partnership covering one or more of the five dimensions of the Energy Union;
+(22)
+‘energy from renewable sources’ or ‘renewable energy’ means energy from renewable sources or renewable energy as defined in point (1) of Article 2 of Directive (EU) 2018/2001;
+(23)
+‘gross final consumption of energy’ means gross final consumption of energy as defined in point (4) of Article 2 of Directive (EU) 2018/2001;
+(24)
+‘support scheme’ means support scheme as defined in point (5) of Article 2 of Directive (EU) 2018/2001;
+(25)
+‘repowering’ means repowering as defined in point (10) of Article 2 of Directive (EU) 2018/2001;
+(26)
+‘renewable energy community’ means renewable energy community as defined in point (16) of Article 2 of Directive (EU) 2018/2001;
+(27)
+‘district heating’ or ‘district cooling’ means district heating or district cooling as defined in point (19) of Article 2 of Directive (EU) 2018/2001;
+(28)
+‘waste’ means waste as defined in point (23) of Article 2 of Directive (EU) 2018/2001;
+(29)
+‘biomass’ means biomass as defined in point (24) of Article 2 of Directive (EU) 2018/2001;
+(30)
+‘agricultural biomass’ means agricultural biomass as defined in point (25) of Article 2 of Directive (EU) 2018/2001;
+(31)
+‘forest biomass’ means forest biomass as defined in point (26) of Article 2 of Directive (EU) 2018/2001;
+(32)
+‘biomass fuels’ means biomass fuels as defined in point (27) of Article 2 of Directive (EU) 2018/2001;
+(33)
+‘biogas’ means biogas as defined in point (28) of Article 2 of Directive (EU) 2018/2001;
+(34)
+‘bioliquids’ means bioliquids as defined in point (32) of Article 2 of Directive (EU) 2018/2001;
+(35)
+‘biofuels’ means biofuels as defined in point (33) of Article 2 of Directive (EU) 2018/2001;
+(36)
+‘advanced biofuels’ means advanced biofuels as defined in point (34) of Article 2 of Directive (EU) 2018/2001;
+(37)
+‘recycled carbon fuels’ means recycled carbon fuels as defined in point (35) of Article 2 of Directive (EU) 2018/2001;
+(38)
+‘starch-rich crops’ means starch-rich crops as defined in point (39) of Article 2 of Directive (EU) 2018/2001;
+(39)
+‘food and feed crops’ means food and feed crops as defined in point (40) of Article 2 of Directive (EU) 2018/2001;
+(40)
+‘ligno-cellulosic material’ means ligno-cellulosic material as defined in point (41) of Article 2 of Directive (EU) 2018/2001;
+(41)
+‘residue’ means residue as defined in point (43) of Article 2 of Directive (EU) 2018/2001;
+(42)
+‘primary energy consumption’ means primary energy consumption as defined in point (2) of Article 2 of Directive 2012/27/EU;
+(43)
+‘final energy consumption’ means final energy consumption as defined in point (3) of Article 2 of Directive 2012/27/EU;
+(44)
+‘energy efficiency’ means energy efficiency as defined in point (4) of Article 2 of Directive 2012/27/EU;
+(45)
+‘energy savings’ means energy savings as defined in point (5) of Article 2 of Directive 2012/27/EU;
+(46)
+‘energy efficiency improvement’ means energy efficiency improvement as defined in point (6) of Article 2 of Directive 2012/27/EU;
+(47)
+‘energy service’ means energy service as defined in point (7) of Article 2 of Directive 2012/27/EU;
+(48)
+‘total useful floor area’ means total useful floor area as defined in point (10) of Article 2 of Directive 2012/27/EU;
+(49)
+‘energy management system’ means energy management system as defined in point (11) of Article 2 of Directive 2012/27/EU;
+(50)
+‘obligated party’ means obligated party as defined in point (14) of Article 2 of Directive 2012/27/EU;
+(51)
+‘implementing public authority’ means implementing public authority as defined in point (17) of Article 2 of Directive 2012/27/EU;
+(52)
+‘individual action’ means individual action as defined in point (19) of Article 2 of Directive 2012/27/EU;
+(53)
+‘energy distributor’ means energy distributor as defined in point (20) of Article 2 of Directive 2012/27/EU;
+(54)
+‘distribution system operator’ means ‘distribution system operator’ as defined in point (6) of Article 2 of Directive 2009/72/EC and in point (6) of Article 2 of Directive 2009/73/EC;
+(55)
+‘retail energy sales company’ means retail energy sales company as defined in point (22) of Article 2 of Directive 2012/27/EU;
+(56)
+‘energy service provider’ means energy service provider as defined in point (24) of Article 2 of Directive 2012/27/EU;
+(57)
+‘energy performance contracting’ means energy performance contracting as defined in point (27) of Article 2 of Directive 2012/27/EU;
+(58)
+‘cogeneration’ means cogeneration as defined in point (30) of Article 2 of Directive 2012/27/EU;
+(59)
+‘building’ means a building as defined in point (1) of Article 2 of Directive 2010/31/EU;
+(60)
+‘nearly zero-energy building’ means a nearly zero-energy building as defined in point (2) of Article 2 of Directive 2010/31/EU;
+(61)
+‘heat pump’ means heat pump as defined in point (18) of Article 2 of Directive 2010/31/EU;
+(62)
+‘fossil fuel’ means non-renewable carbon-based energy sources such as solid fuels, natural gas and oil.

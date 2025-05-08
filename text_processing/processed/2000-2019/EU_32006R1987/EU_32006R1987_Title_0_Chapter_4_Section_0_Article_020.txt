@@ -1,0 +1,32 @@
+Article 20
+Categories of data
+1.   Without prejudice to Article 8(1) or the provisions of this Regulation providing for the storage of additional data, SIS II shall contain only those categories of data which are supplied by each of the Member States, as required for the purposes laid down in Article 24.
+2.   The information on persons in relation to whom an alert has been issued shall be no more than the following:
+(a)
+surname(s) and forename(s), name(s) at birth and previously used names and any aliases, which may be entered separately;
+(b)
+any specific, objective, physical characteristics not subject to change;
+(c)
+place and date of birth;
+(d)
+sex;
+(e)
+photographs;
+(f)
+fingerprints;
+(g)
+nationality(ies);
+(h)
+whether the person concerned is armed, violent or has escaped;
+(i)
+reason for the alert;
+(j)
+authority issuing the alert;
+(k)
+a reference to the decision giving rise to the alert;
+(l)
+action to be taken;
+(m)
+link(s) to other alerts issued in SIS II in accordance with Article 37.
+3.   The technical rules necessary for entering, updating, deleting and searching the data referred to in paragraph 2 shall be established in accordance with the procedure referred to in Article 51(2), without prejudice to the provisions of the instrument setting up the Management Authority.
+4.   The technical rules necessary for searching the data referred to in paragraph 2 shall be similar for searches in CS-SIS, in national copies and in technical copies, as referred to in Article 31(2).

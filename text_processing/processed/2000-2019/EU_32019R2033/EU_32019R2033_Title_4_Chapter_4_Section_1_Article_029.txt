@@ -1,0 +1,56 @@
+Article 29
+Potential future exposure
+1.   The potential future exposure (PFE) referred to in Article 27 shall be calculated for each derivative as the product of:
+(a)
+the effective notional (EN) amount of the transaction set in accordance with paragraphs 2 to 6 of this Article; and
+(b)
+the supervisory factor (SF) set in accordance with paragraph 7 of this Article.
+2.   The effective notional (EN) amount shall be the product of the notional amount calculated in accordance with paragraph 3, its duration calculated in accordance with paragraph 4, and its supervisory delta calculated in accordance with paragraph 6.
+3.   The notional amount, unless clearly stated and fixed until maturity, shall be determined as follows:
+(a)
+for foreign exchange derivative contracts, the notional amount is defined as the notional amount of the foreign currency leg of the contract, converted to the domestic currency; if both legs of a foreign exchange derivative are denominated in currencies other than the domestic currency, the notional amount of each leg is converted to the domestic currency and the leg with the larger domestic currency value is the notional amount;
+(b)
+for equity and commodity derivatives contracts and emission allowances and derivatives thereof, the notional amount is defined as the product of the market price of one unit of the instrument and the number of units referenced by the trade;
+(c)
+for transactions with multiple payoffs that are state contingent including digital options or target redemption forwards, an investment firm shall calculate the notional amount for each state and use the largest resulting calculation;
+(d)
+where the notional is a formula of market values, the investment firm shall enter the CMVs to determine the trade notional amount;
+(e)
+for variable notional swaps such as amortising and accreting swaps, investment firms shall use the average notional over the remaining life of the swap as the trade notional amount;
+(f)
+leveraged swaps shall be converted to the notional amount of the equivalent unleveraged swap so that where all rates in a swap are multiplied by a factor, the stated notional amount is multiplied by the factor on the interest rates to determine the notional amount;
+(g)
+for a derivative contract with multiple exchanges of principal, the notional amount shall be multiplied by the number of exchanges of principal in the derivative contract to determine the notional amount.
+4.   The notional amount of interest rate contracts and credit derivative contracts for the time to maturity (in years) of those contracts shall be adjusted according to the duration set out in the following formula:
+Duration = (1 – exp(–0,05 • time to maturity)) / 0,05
+For derivative contracts other than interest rate contracts and credit derivative contracts the duration shall be 1.
+5.   The maturity of a contract shall be the latest date on which the contract may still be executed.
+If the derivative references the value of another interest rate or credit instrument, the time period shall be determined on the basis of the underlying instrument.
+For options, the maturity shall be the latest contractual exercise date as specified by the contract.
+For a derivative contract that is structured such that on specified dates any outstanding exposure is settled and the terms are reset so that the fair value of the contract is zero, the remaining maturity shall equal the time until the next reset date.
+6.   The supervisory delta of options and swaptions may be calculated by the investment firm itself, using an appropriate model subject to the approval of competent authorities. The model shall estimate the rate of change of the value of the option with respect to small changes in the market value of the underlying. For transactions other than options and swaptions or where no model has been approved by the competent authorities, the delta shall be 1.
+7.   The supervisory factor (SF) for each asset class shall be set in accordance with the following table:
+
+Table 3
+
+Asset class
+Supervisory factor
+Interest rate
+0,5 %
+Foreign exchange
+4 %
+Credit
+1 %
+Equity single name
+32 %
+Equity index
+20 %
+Commodity and emission allowance
+18 %
+Other
+32 %
+8.   The potential future exposure of a netting set is the sum of the potential future exposure of all transactions included in the netting set, multiplied by:
+(a)
+0,42, for netting sets of transactions with financial and non‐financial counterparties for which collateral is exchanged bilaterally with the counterparty, if required, in accordance with the conditions laid down in Article 11 of Regulation (EU) No 648/2012;
+(b)
+1, for other netting sets.

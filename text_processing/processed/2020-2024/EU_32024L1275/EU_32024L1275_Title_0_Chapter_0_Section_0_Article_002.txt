@@ -1,0 +1,173 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘building’ means a roofed construction having walls, for which energy is used to condition the indoor environment;
+(2)
+‘zero-emission building’ means a building with a very high energy performance, as determined in accordance with Annex I, requiring zero or a very low amount of energy, producing zero on-site carbon emissions from fossil fuels and producing zero or a very low amount of operational greenhouse gas emissions, in accordance with Article 11;
+(3)
+‘nearly zero-energy building’ means a building with a very high energy performance, as determined in accordance with Annex I, which is no worse than the 2023 cost-optimal level reported by Member States pursuant to Article 6(2) and where the nearly zero or very low amount of energy required is covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or energy from renewable sources produced nearby;
+(4)
+‘minimum energy performance standards’ means rules that require existing buildings to meet an energy performance requirement as part of a wide renovation plan for a building stock or at a trigger point on the market such as sale, rent, donation or change of purpose within the cadastre or land registry, in a period of time or by a specific date, thereby triggering the renovation of existing buildings;
+(5)
+‘public bodies’ means public bodies as defined in Article 2, point (12), of Directive (EU) 2023/1791;
+(6)
+‘technical building system’ means technical equipment of a building or building unit for space heating, space cooling, ventilation, domestic hot water, built-in lighting, building automation and control, on-site renewable energy generation and energy storage, or a combination thereof, including those systems using energy from renewable sources;
+(7)
+‘building automation and control system’ means a system comprising all products, software and engineering services that can support energy-efficient, economical and safe operation of technical building systems through automatic controls and by facilitating the manual management of those technical building systems;
+(8)
+‘energy performance of a building’ means the calculated or metered amount of energy needed to meet the energy demand associated with a typical use of the building, which includes energy used for heating, cooling, ventilation, domestic hot water and lighting;
+(9)
+‘primary energy’ means energy from renewable and non-renewable sources which has not undergone any conversion or transformation process;
+(10)
+‘metered’ means measured by a relevant device, such as an energy meter, a power meter, a power metering and monitoring device, or an electricity meter;
+(11)
+‘non-renewable primary energy factor’ means an indicator that is calculated by dividing the primary energy from non-renewable sources for a given energy carrier, including the delivered energy and the calculated energy overheads of delivery to the points of use, by the delivered energy;
+(12)
+‘renewable primary energy factor’ means an indicator that is calculated by dividing the primary energy from renewable sources from an on-site, nearby or distant energy source that is delivered via a given energy carrier, including the delivered energy and the calculated energy overheads of delivery to the points of use, by the delivered energy;
+(13)
+‘total primary energy factor’ means the sum of renewable and non-renewable primary energy factors for a given energy carrier;
+(14)
+‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar (solar thermal and solar photovoltaic) and geothermal energy, osmotic energy, ambient energy, tide, wave and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas, and biogas;
+(15)
+‘building envelope’ means the integrated elements of a building which separate its interior from the outdoor environment;
+(16)
+‘building unit’ means a section, floor or apartment within a building which is designed or altered to be used separately;
+(17)
+‘building element’ means a technical building system or an element of the building envelope;
+(18)
+‘residential building or building unit’ means a room or suite of rooms in a permanent building or a structurally separated part of a building which is designed for all-year habitation by one private household;
+(19)
+‘renovation passport’ means a tailored roadmap for the deep renovation of a specific building in a maximum number of steps that will significantly improve its energy performance;
+(20)
+‘deep renovation’ means a renovation which is in line with the ‘energy efficiency first’ principle, which focuses on essential building elements and which transforms a building or building unit:
+(a)
+before 1 January 2030, into a nearly zero-energy building;
+(b)
+from 1 January 2030, into a zero-emission building;
+(21)
+‘staged deep renovation’ means a deep renovation carried out in a maximum number of steps, asset out in a renovation passport;
+(22)
+‘major renovation’ means the renovation of a building where:
+(a)
+the total cost of the renovation relating to the building envelope or the technical building systems is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated; or
+(b)
+more than 25 % of the surface of the building envelope undergoes renovation.
+Member States may choose to apply point (a) or (b);
+(23)
+‘operational greenhouse gas emissions’ means greenhouse gas emissions associated with the energy consumption of the technical building systems during the use and operation of the building;
+(24)
+‘whole-life-cycle greenhouse gas emissions’ means greenhouse gas emissions that occur over the whole life cycle of a building, including the production and transport of construction products, construction-site activities, the use of energy in the building and replacement of construction products, as well as demolition, transport and management of waste materials and their reuse, recycling and final disposal;
+(25)
+‘life-cycle global warming potential’ or ‘life-cycle GWP’ means an indicator which quantifies the global warming potential contributions of a building along its full life cycle;
+(26)
+‘split incentives’ means split incentives as defined in Article 2, point (54), of Directive (EU) 2023/1791;
+(27)
+‘energy poverty’ means energy poverty as defined in Article 2, point (52), of Directive (EU) 2023/1791;
+(28)
+‘vulnerable households’ means households in energy poverty or households, including lower middle-income households, that are particularly exposed to high energy costs and that lack the means to renovate the building that they occupy;
+(29)
+‘European standard’ means a standard adopted by the European Committee for Standardization, the European Committee for Electrotechnical Standardization or the European Telecommunications Standards Institute and made available for public use;
+(30)
+‘energy performance certificate’ means a certificate, recognised by a Member State or by a legal person designated by it, which indicates the energy performance of a building or building unit, calculated in accordance with a methodology adopted pursuant to Article 4;
+(31)
+‘cogeneration’ means the simultaneous generation in one process of thermal energy and electrical or mechanical energy;
+(32)
+‘cost-optimal level’ means the energy performance level which leads to the lowest cost during the estimated economic life cycle, where:
+(a)
+the lowest cost is determined taking into account:
+(i)
+the category and use of the building concerned;
+(ii)
+energy-related investment costs on the basis of official forecasts;
+(iii)
+maintenance and operating costs, including energy costs taking into account the cost of greenhouse gas allowances;
+(iv)
+environmental and health externalities of energy use;
+(v)
+earnings from energy produced on-site, where applicable;
+(vi)
+waste management costs, where applicable; and
+(b)
+the estimated economic life cycle is determined by each Member State and refers to the remaining estimated economic life cycle of a building where energy performance requirements are set for the building as a whole, or to the estimated economic life cycle of a building element where energy performance requirements are set for building elements.
+The cost-optimal level shall lie within the range of performance levels where the cost-benefit analysis calculated over the estimated economic life cycle is positive;
+(33)
+‘recharging point’ means a recharging point as defined in Article 2, point (48), of Regulation (EU) 2023/1804 of the European Parliament and of the Council (27);
+(34)
+‘pre-cabling’ means all measures that are necessary to enable the installation of recharging points, including data transmission, cables, cable routes and, where necessary, electricity meters;
+(35)
+‘roofed car park’ means a roofed construction, with at least three car parking spaces, that does not use energy to condition the indoor environment;
+(36)
+‘micro-isolated system’ means any system with consumption less than 500 GWh in the year 2022, where there is no connection with other systems;
+(37)
+‘smart recharging’ means smart recharging as defined in Article 2, second paragraph, point (14m), of Directive (EU) 2018/2001 of the European Parliament and of the Council (28);
+(38)
+‘bi-directional recharging’ means bi-directional recharging as defined in Article 2, point (11), of Regulation (EU) 2023/1804;
+(39)
+‘mortgage portfolio standards’ means mechanisms incentivising mortgage lenders to establish a path to increase the median energy performance of the portfolio of buildings covered by their mortgages towards 2030 and 2050, and to encourage potential clients to improve the energy performance of their property in line with the Union’s decarbonisation ambition and relevant energy targets in the area of energy consumption in buildings, relying on the criteria for determining environmentally sustainable economic activities set out in Article 3 of Regulation (EU) 2020/852;
+(40)
+‘pay-as-you-save financial scheme’ means a loan scheme dedicated exclusively to energy performance improvements where a correlation is established in the designing of the scheme between the repayments on the loan and the achieved energy savings, also taking into account other economic factors such as the indexation of the energy cost, interest rates, increased asset value and loan re-financing;
+(41)
+‘digital building logbook’ means a common repository for all relevant building data, including data related to energy performance such as energy performance certificates, renovation passports and smart readiness indicators, as well as data related to the life-cycle GWP, which facilitates informed decision making and information sharing within the construction sector, and among building owners and occupants, financial institutions and public bodies;
+(42)
+‘air-conditioning system’ means a combination of the components required to provide a form of indoor air treatment, by which temperature is controlled or can be lowered;
+(43)
+‘heating system’ means a combination of the components required to provide a form of indoor air treatment, by which the temperature is increased;
+(44)
+‘ventilation system’ means the technical building system which provides outdoor air to a space by natural or mechanical means;
+(45)
+‘heat generator’ means the part of a heating system that generates useful heat for uses identified in Annex I, using one or more of the following processes:
+(a)
+the combustion of fuels in, for example, a boiler;
+(b)
+the Joule effect, taking place in the heating elements of an electric resistance heating system;
+(c)
+capturing heat from ambient air, ventilation exhaust air, or a water or ground heat source using a heat pump;
+(46)
+‘cooling generator’ means the part of an air-conditioning system that generates useful cooling for uses identified in Annex I;
+(47)
+‘energy performance contracting’ means energy performance contracting as defined in Article 2, point (33), of Directive (EU) 2023/1791;
+(48)
+‘boiler’ means the combined boiler body-burner unit, designed to transmit to fluids the heat released from burning;
+(49)
+‘effective rated output’ means the maximum calorific output, expressed in kW, specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;
+(50)
+‘district heating’ or ‘district cooling’ means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central or decentralised source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling;
+(51)
+‘useful floor area’ means the area of the floor of a building needed as parameter to quantify specific conditions of use that are expressed per unit of floor area and for the application of the simplifications and the zoning and allocation or re-allocation rules;
+(52)
+‘reference floor area’ means the floor area used as reference size for the assessment of the energy performance of a building, calculated as the sum of the useful floor areas of the spaces within the building envelope specified for the energy performance assessment;
+(53)
+‘assessment boundary’ means the boundary where the delivered energy and exported energy are measured or calculated;
+(54)
+‘on-site’ means in or on a particular building or on the land on which that building is located;
+(55)
+‘energy from renewable sources produced nearby’ means energy from renewable sources, produced within a local or district-level perimeter of a particular building, which fulfils all of the following conditions:
+(a)
+it can be distributed and used only within that local and district-level perimeter through a dedicated distribution network;
+(b)
+it allows for the calculation of a specific primary energy factor valid only for the energy from renewable sources produced within that local or district-level perimeter; and
+(c)
+it can be used on-site through a dedicated connection to the energy production source, where that dedicated connection requires specific equipment for the safe supply and metering of energy for self-use of the building;
+(56)
+‘services related to the energy performance of buildings’ or ‘EPB services’ means the services, such as heating, cooling, ventilation, domestic hot water and lighting and others for which the energy use is taken into account in the calculation of the energy performance of buildings;
+(57)
+‘energy needs’ means the energy to be delivered to, or extracted from, a conditioned space to maintain the intended space conditions during a given period of time, disregarding any technical building system inefficiencies;
+(58)
+‘energy use’ or ‘energy consumption’ means energy input to a technical building system providing an EPB service intended to satisfy an energy need;
+(59)
+‘self-use’ means the use of energy from renewable sources produced on-site or energy from renewable sources produced nearby by on-site technical systems for EPB services;
+(60)
+‘other on-site uses’ means on-site uses other than EPB services, including appliances, miscellaneous and ancillary loads, or electro-mobility recharging points;
+(61)
+‘calculation interval’ means the discrete time interval used for the calculation of the energy performance;
+(62)
+‘delivered energy’ means energy, expressed per energy carrier, supplied to the technical building systems through the assessment boundary, to satisfy the uses taken into account or to produce the exported energy;
+(63)
+‘exported energy’ means the proportion of the renewable energy, expressed per energy carrier and per primary energy factor, that is exported to the energy grid instead of being used on-site for self-use or for other on-site uses;
+(64)
+‘bicycle parking space’ means a designated space for parking at least one bicycle;
+(65)
+‘car park physically adjacent to a building’ means a car park which is intended for the use of residents, visitors or workers of a building and which is located within the property area of the building or is in the direct vicinity of the building;
+(66)
+‘indoor environmental quality’ means the result of an assessment of the conditions inside a building that influence the health and wellbeing of its occupants, based upon parameters such as those relating to the temperature, humidity, ventilation rate and presence of contaminants.

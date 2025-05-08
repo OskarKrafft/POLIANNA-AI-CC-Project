@@ -1,0 +1,19 @@
+Article 23
+Activation of the crisis stage
+1.   A semiconductor crisis shall be considered to occur where:
+(a)
+there are serious disruptions in the semiconductor supply chain or serious obstacles to trade in semiconductors within the Union causing significant shortages of semiconductors, intermediate products or raw or processed materials; and
+(b)
+such significant shortages prevent the supply, repair or maintenance of essential products used by critical sectors to the extent that it would have serious detrimental effect on the functioning of the critical sectors due to their impact on society, economy and security of the Union.
+2.   Where the Commission becomes aware of a potential semiconductor crisis pursuant to Article 22(2), it shall assess whether the conditions of paragraph 1 of this Article are met. That assessment shall take into account the potential positive and negative impacts and consequences of the crisis stage on the Union’s semiconductor industry and critical sectors. Where that assessment provides concrete and reliable evidence, the Commission may, after consulting the European Semiconductor Board, propose to the Council to activate the crisis stage.
+3.   The Council, acting by qualified majority, may activate the crisis stage by means of a Council implementing act. The duration of the crisis stage shall be specified in the implementing act and it shall not exceed 12 months.
+The Commission shall report on a regular basis and in any event at least every three months to the European Semiconductor Board and to the European Parliament on the state of the crisis.
+4.   Before the expiry of the duration for which the crisis stage was activated, the Commission shall assess whether it is appropriate to prolong the crisis stage. Where such assessment provides concrete and reliable evidence that the conditions for the activation of the crisis are still met, and after consulting the European Semiconductor Board, the Commission may propose to the Council to prolong the crisis stage.
+The Council, acting by qualified majority, may prolong the crisis stage by means of a Council implementing act. The duration of the prolongation shall be limited and specified in the Council implementing act.
+The Commission may propose prolonging the crisis stage once or more frequently where duly justified.
+5.   During the crisis stage, the Commission shall, after consulting the European Semiconductor Board, assess the appropriateness of an early termination of the crisis stage. If the assessment indicates so, the Commission may propose to the Council to terminate the crisis stage.
+The Council may terminate the crisis stage by means of a Council implementing act.
+6.   During the crisis stage, the Commission shall, upon request from a Member State or on its own initiative, convene extraordinary meetings of the European Semiconductor Board where necessary.
+Member States shall work closely with the Commission, inform in a timely manner about and coordinate any national measures taken with regard to the semiconductor supply chain within the European Semiconductor Board.
+7.   Upon expiry of the period for which the crisis stage is activated or in the event of its early termination pursuant to paragraph 5 of this Article, the measures taken in accordance with Articles 25, 26 and 27 shall cease to apply immediately.
+8.   The Commission shall update the mapping and the monitoring of the semiconductor value chains pursuant to Articles 19 and 20 taking into account the experience from the crisis no later than six months after the expiry of the duration of the crisis stage.

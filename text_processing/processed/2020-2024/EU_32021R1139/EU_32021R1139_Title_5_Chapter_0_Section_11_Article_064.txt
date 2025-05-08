@@ -1,0 +1,10 @@
+Article 64
+Amendments to Regulation (EU) 2017/1004
+Article 6 of Regulation (EU) 2017/1004 is amended as follows:
+(1)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Without prejudice to their current data collection obligations under Union law, Member States shall collect data within the framework of a work plan drawn up in accordance with the multiannual Union programme (the ‘national work plan’). Member States shall submit to the Commission by electronic means their national work plans by 15 October of the year preceding the year from which the national work plan is to apply, unless an existing plan still applies, in which case they shall notify the Commission thereof.
+2.   The Commission shall adopt implementing acts approving the national work plans referred to in paragraph 1 by 31 December of the year preceding the year from which the national work plan is to apply. When approving the national work plans, the Commission shall take into account the evaluation conducted by STECF in accordance with Article 10. If such evaluation indicates that the national work plan does not comply with this Article or does not ensure the scientific relevance of the data or sufficient quality of the proposed methods and procedures, the Commission shall immediately inform the Member State concerned and indicate amendments to that work plan that the Commission considers necessary. Subsequently, the Member State concerned shall submit a revised national work plan to the Commission.’;
+(2)
+the following paragraph is added:
+‘5.   The Commission may adopt implementing acts laying down rules on procedures, format and timetables for the submission of the national work plans referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 25(2).’.

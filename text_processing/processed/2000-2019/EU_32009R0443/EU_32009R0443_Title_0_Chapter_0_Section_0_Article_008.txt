@@ -1,0 +1,21 @@
+Article 8
+Monitoring and reporting of average emissions
+1.   For the calendar year commencing 1 January 2010 and each subsequent calendar year, each Member State shall record information for each new passenger car registered in its territory in accordance with Part A of Annex II. This information shall be made available to the manufacturers and their designated importers or representatives in each Member State. Member States shall make every effort to ensure that reporting bodies operate in a transparent manner. Each Member State shall ensure that the specific emissions of CO2 of passenger cars which are not type-approved in accordance with Regulation (EC) No 715/2007 are measured and recorded in the certificate of conformity.
+2.   By 28 February of each year, commencing in 2011, each Member State shall determine and transmit to the Commission the information listed in Part B of Annex II in respect of the preceding calendar year. The data shall be transmitted in accordance with the format specified in Part C of Annex II.
+3.   On request from the Commission, a Member State shall also transmit the full set of data collected pursuant to paragraph 1.
+4.   The Commission shall keep a central register of the data reported by Member States under this Article and by 30 June of each year, commencing in 2011, shall provisionally calculate the following for each manufacturer:
+(a)
+the average specific emissions of CO2 in the preceding calendar year;
+(b)
+the specific emissions target in the preceding calendar year; and
+(c)
+the difference between its average specific emissions of CO2 in the preceding calendar year and its specific emissions target for that year.
+The Commission shall notify each manufacturer of its provisional calculation for that manufacturer. The notification shall include data for each Member State on the number of new passenger cars registered and their specific emissions of CO2.
+The register shall be publicly available.
+5.   Manufacturers may, within three months of being notified of the provisional calculation under paragraph 4, notify the Commission of any errors in the data, specifying the Member State in which it considers that the error occurred.
+The Commission shall consider any notifications from manufacturers and shall, by 31 October, either confirm or amend the provisional calculations under paragraph 4.
+6.   Where, on the basis of the calculations under paragraph 5, in relation to the calendar year 2010 or 2011, it appears to the Commission that a manufacturer's average specific emissions of CO2 in that year exceeded its specific emissions target for that year, the Commission shall notify the manufacturer.
+7.   Member States shall designate a competent authority for the collection and communication of the monitoring data in accordance with this Regulation and shall inform the Commission of the competent authority designated no later than 8 December 2009. The Commission shall subsequently inform the European Parliament and the Council thereof.
+8.   For each calendar year in which Article 6 applies, Member States shall provide information to the Commission regarding the proportion of filling stations and the sustainability criteria in relation to E85 as referred to in that Article.
+9.   The Commission may adopt detailed rules on the monitoring and reporting of data under this Article and on the application of Annex II in accordance with the regulatory procedure referred to in Article 14(2).
+The Commission may amend Annex II in the light of the experience of the application of this Regulation. Those measures designed to amend non-essential elements of this Regulation shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).

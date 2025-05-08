@@ -1,0 +1,13 @@
+Article 11
+Quality
+1.   Member States shall take the necessary measures to ensure the quality of the transmitted data and metadata.
+2.   For the purposes of this Regulation, the quality criteria defined in Article 12(1) of Regulation (EC) No 223/2009 shall apply.
+3.   The Commission (Eurostat) shall assess the quality of the data and metadata transmitted.
+4.   For that purpose, Member States shall transmit a quality report describing the statistical process to the Commission (Eurostat), for each reference year covered by this Regulation, and in particular:
+(a)
+metadata describing the methodology used and how technical specifications were achieved by reference to those laid down by this Regulation;
+(b)
+information on compliance with the minimum requirements for the sampling frames used, including in developing and updating them, as laid down in this Regulation;
+The Commission may adopt implementing acts setting out the practical arrangements for, and the contents of, the quality reports. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2) and shall not impose significant additional burdens or costs on the Member States.
+5.   Member States shall inform the Commission (Eurostat) as soon as possible about any relevant information or change with regard to the implementation of this Regulation that could influence the quality of the data transmitted.
+6.   At the request of the Commission (Eurostat), Member States shall provide necessary additional clarification to evaluate the quality of the statistical information.

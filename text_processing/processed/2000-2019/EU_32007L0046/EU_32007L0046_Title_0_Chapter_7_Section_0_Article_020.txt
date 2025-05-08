@@ -1,0 +1,15 @@
+Article 20
+Exemptions for new technologies or new concepts
+1.   Member States may, on application by the manufacturer, grant an EC type-approval in respect of a type of system, component or separate technical unit that incorporates technologies or concepts which are incompatible with one or more regulatory acts listed in Part I of Annex IV, subject to authorisation being granted by the Commission in accordance with the procedure referred to in Article 40(3).
+2.   Pending the decision as to whether or not authorisation is granted, the Member State may grant a provisional approval, valid only in its territory, in respect of a type of vehicle covered by the exemption sought, provided that it informs the Commission and the other Member States thereof without delay by means of a file containing the following elements:
+(a)
+the reasons why the technologies or concepts in question make the system, component or separate technical unit incompatible with the requirements;
+(b)
+a description of the safety and environmental considerations concerned and the measures taken;
+(c)
+a description of the tests, including their results, demonstrating that, by comparison with the requirements from which exemption is sought, at least an equivalent level of safety and environmental protection is ensured.
+3.   Other Member States may decide to accept the provisional approval referred to in paragraph 2 on their territory.
+4.   The Commission shall decide, in accordance with the procedure referred to in Article 40(3), whether or not to allow the Member State to grant an EC type-approval in respect of that type of vehicle.
+Where appropriate, the decision shall also specify whether its validity is subject to any restrictions, such as time-limits. In all cases, the validity of the approval shall not be less than 36 months.
+If the Commission decides to refuse authorisation, the Member State shall immediately give notice to the holder of the provisional type-approval referred to in paragraph 2 of this Article that the provisional approval will be revoked six months after the date of the Commission’s decision. However, vehicles manufactured in conformity with the provisional approval before it was revoked shall be permitted to be registered, sold or enter service in any Member State that accepted the provisional approval.
+5.   This Article does not apply where a system, component or separate technical unit complies with a UNECE Regulation to which the Community has acceded.

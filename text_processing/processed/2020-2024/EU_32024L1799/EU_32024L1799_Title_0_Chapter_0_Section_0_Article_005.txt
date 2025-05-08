@@ -1,0 +1,19 @@
+Article 5
+Obligation to repair
+1.   Member States shall ensure that upon the consumer’s request, the manufacturer shall repair goods for which, and to the extent that, repairability requirements are provided for by Union legal acts listed in Annex II. The manufacturer shall not be obliged to repair such goods where repair is impossible. The manufacturer may sub-contract repair in order to fulfil its obligation to repair.
+2.   The repair pursuant to paragraph 1 shall be carried out subject to the following conditions:
+(a)
+it shall be carried out either free of charge or for a reasonable price;
+(b)
+it shall be carried out within a reasonable period of time from the moment the manufacturer has physical possession of the good, has received the good or has been given access to the good by the consumer;
+(c)
+the manufacturer may provide the consumer with the loan of a replacement good free of charge or for a reasonable fee for the duration of the repair; and
+(d)
+in cases where the repair is impossible, the manufacturer may offer the consumer a refurbished good.
+3.   Where the manufacturer obliged to repair pursuant to paragraph 1 is established outside the Union, its authorised representative in the Union shall perform the obligation of the manufacturer. Where the manufacturer has no authorised representative in the Union, the importer of the good concerned shall perform the obligation of the manufacturer. Where there is no importer, the distributor of the good concerned shall perform the obligation of the manufacturer. The authorised representative, importer and distributor may sub-contract repair in order to fulfil their obligation to repair.
+4.   Manufacturers that make spare parts and tools available for goods covered by Union legal acts listed in Annex II shall offer these spare parts and tools at a reasonable price that does not deter repair.
+5.   Manufacturers, or, where applicable, authorised representatives, importers or distributors who have an obligation to repair pursuant to this Article shall ensure that consumers can access, via a free access website, information on the indicative prices that are charged for the typical repair of goods covered by Union legal acts listed in Annex II.
+6.   Manufacturers shall not use any contractual clauses, hardware or software techniques that impede the repair of goods covered by Union legal acts listed in Annex II unless justified by legitimate and objective factors including the protection of intellectual property rights under Union and national law. Manufacturers shall, in particular, not impede the use of original or second-hand spare parts, compatible spare parts and spare parts issued from 3D-printing, by independent repairers when those spare parts are in conformity with requirements under Union or national law such as requirements on product safety or in compliance with intellectual property. This paragraph is without prejudice to the specific requirements of Union legal acts listed in Annex II and without prejudice to Union and national law providing for the protection of intellectual property rights.
+7.   Manufacturers shall not refuse to repair goods covered by Union legal acts listed in Annex II for the sole reason that a previous repair has been performed by other repairers or by other persons.
+8.   Without prejudice to the obligation to repair under this Article, consumers may seek repair from any repairer of their choice.
+9.   The Commission shall adopt delegated acts in accordance with Article 20 to amend Annex II by updating the list of Union legal acts laying down repairability requirements in the light of regulatory developments. The Commission shall adopt such delegated acts without undue delay after publication of the respective Union legal act, and at the latest 12 months after such publication.

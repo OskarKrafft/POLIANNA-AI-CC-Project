@@ -1,0 +1,28 @@
+Article 1
+Subject matter and scope
+1.   This Directive establishes minimum rules for criminal sanctions for insider dealing, for unlawful disclosure of inside information and for market manipulation to ensure the integrity of financial markets in the Union and to enhance investor protection and confidence in those markets.
+2.   This Directive applies to the following:
+(a)
+financial instruments admitted to trading on a regulated market or for which a request for admission to trading on a regulated market has been made;
+(b)
+financial instruments traded on a multilateral trading facility (MTF), admitted to trading on an MTF or for which a request for admission to trading on an MTF has been made;
+(c)
+financial instruments traded on an organised trading facility (OTF);
+(d)
+financial instruments not covered by point (a), (b) or (c), the price or value of which depends on, or has an effect on, the price or value of a financial instrument referred to in those points, including, but not limited to, credit default swaps and contracts for difference.
+This Directive also applies to behaviour or transactions, including bids, relating to the auctioning on an auction platform authorised as a regulated market of emission allowances or other auctioned products based thereon, including when auctioned products are not financial instruments, pursuant to Commission Regulation (EU) No 1031/2010 (7). Without prejudice to any specific provisions referring to bids submitted in the context of an auction, any provisions in this Directive referring to orders to trade shall apply to such bids.
+3.   This Directive does not apply to:
+(a)
+trading in own shares in buy-back programmes, where such trading is carried out in accordance with Article 5(1), (2) and (3) of Regulation (EU) No 596/2014;
+(b)
+trading in securities or associated instruments as referred to in points (a) and (b) of Article 3(2) of Regulation (EU) No 596/2014 for the stabilisation of securities, where such trading is carried out in accordance with Article 5(4) and (5) of that Regulation;
+(c)
+transactions, orders or behaviours carried out in pursuit of monetary, exchange rate or public debt management policy in accordance with Article 6(1) of Regulation (EU) No 596/2014, transactions order or behaviours carried out in accordance with Article 6(2) thereof, activities in pursuit of the Union’s climate policy in accordance with Article 6(3) thereof, or activities in pursuit of the Union’s Common Agricultural Policy or of the Union’s Common Fisheries Policy in accordance with Article 6(4) thereof;
+4.   Article 5 also applies to:
+(a)
+spot commodity contracts that are not wholesale energy products, where the transaction, order or behaviour has an effect on the price or value of a financial instrument referred to in paragraph 2 of this Article;
+(b)
+types of financial instruments, including derivative contracts or derivative instruments for the transfer of credit risk, where the transaction, order, bid or behaviour has an effect on the price or value of a spot commodity contract where the price or value depends on the price or value of those financial instruments;
+(c)
+behaviour in relation to benchmarks.
+5.   This Directive applies to any transaction, order or behaviour concerning any financial instrument as referred to in paragraphs 2 and 4, irrespective of whether or not such transaction, order or behaviour takes place on a trading venue.

@@ -1,0 +1,19 @@
+Article 30
+Validity of EU type-approval
+1.   EU type-approvals shall be issued for an unlimited duration.
+2.   An EU type-approval of an engine shall become invalid in any of the following cases:
+(a)
+where new requirements applicable to the approved engine type or, where applicable, to the engine family become mandatory for its placing on the market and it is not possible to extend or revise the EU type-approval accordingly;
+(b)
+where production of the approved engine type or engine family is definitively and voluntarily discontinued;
+(c)
+where the validity of the EU type-approval expires by virtue of a restriction, in accordance with Article 35(3);
+(d)
+where the EU type-approval has been withdrawn in accordance with Articles 26(5), 39(1) or 40(3).
+3.   Where the conditions for the validity of an EU type-approval are no longer satisfied in respect of only one engine type within an engine family, the EU type-approval of the engine family in question shall become invalid only in so far as that particular engine type is concerned.
+4.   Where the production of an engine type or, where applicable, an engine family is definitively discontinued, the manufacturer shall notify the approval authority that granted the corresponding EU type-approval of that discontinuation.
+Within one month of receiving that notification, the approval authority that granted the EU type-approval for the engine type or engine family shall inform the approval authorities of the other Member States accordingly.
+5.   Without prejudice to paragraph 4, where an EU type-approval of an engine type or, where applicable, of an engine family is to become invalid, the manufacturer shall notify the approval authority that granted the corresponding EU type-approval of that fact.
+In such cases, the approval authority that granted the EU type-approval shall without delay communicate all relevant information to the approval authorities of the other Member States.
+That communication shall specify, in particular, the date of production and the engine identification number of the last engine produced.
+6.   The notification requirements referred to in paragraphs 4 and 5 shall be deemed to have been fulfilled where the relevant information has been uploaded onto IMI.

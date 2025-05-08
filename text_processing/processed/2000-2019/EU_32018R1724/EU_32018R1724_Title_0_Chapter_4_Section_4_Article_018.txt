@@ -1,0 +1,15 @@
+Article 18
+Common user interface
+1.   The Commission shall, in close cooperation with the Member States, provide a common user interface, integrated into the ‘Your Europe’ portal, to ensure the proper functioning of the gateway.
+2.   The common user interface shall give access to the information, procedures and assistance or problem-solving services by means of links to the relevant Union and national level websites or webpages included in the repository for links referred to in Article 19.
+3.   The Member States and the Commission, acting in accordance with their respective roles and responsibilities, as provided for in Article 4, shall ensure that the information on rules and obligations, on procedures and on assistance and problem-solving services is organised and marked in a way that makes it easier to find through the common user interface.
+4.   The Commission shall ensure that the common user interface complies with the following quality requirements:
+(a)
+it is easy to use;
+(b)
+it is accessible online through various electronic devices;
+(c)
+it is developed and optimised for different web browsers;
+(d)
+it meets the following web accessibility requirements: perceivability, operability, understandability and robustness.
+5.   The Commission may adopt implementing acts laying down interoperability requirements to make it easier to find the information on rules and obligations, on procedures and on assistance and problem-solving services through the common user interface. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 37(2).

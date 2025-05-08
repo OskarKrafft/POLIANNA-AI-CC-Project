@@ -1,0 +1,44 @@
+Article 13
+Classification of pressure equipment
+1.   Pressure equipment referred to in Article 4(1) shall be classified by category in accordance with Annex II, according to an ascending level of hazard.
+For the purposes of such classification fluids shall be divided into the following two groups:
+(a)
+group 1 consisting of substances and mixtures, as defined in points (7) and (8) of Article 2 of Regulation (EC) No 1272/2008, that are classified as hazardous in accordance with the following physical or health hazard classes laid down in Parts 2 and 3 of Annex I to that Regulation:
+(i)
+unstable explosives or explosives of Divisions 1.1, 1.2, 1.3, 1.4 and 1.5;
+(ii)
+flammable gases, category 1 and 2;
+(iii)
+oxidising gases, category 1;
+(iv)
+flammable liquids, category 1 and 2;
+(v)
+flammable liquids, category 3 where the maximum allowable temperature is above the flashpoint;
+(vi)
+flammable solids, category 1 and 2;
+(vii)
+self-reactive substances and mixtures, type A to F;
+(viii)
+pyrophoric liquids, category 1;
+(ix)
+pyrophoric solids, category 1;
+(x)
+substances and mixtures which in contact with water emit flammable gases, category 1, 2 and 3;
+(xi)
+oxidising liquids, category 1, 2 and 3;
+(xii)
+oxidising solids, category 1, 2 and 3;
+(xiii)
+organic peroxides types A to F;
+(xiv)
+acute oral toxicity, category 1 and 2;
+(xv)
+acute dermal toxicity, category 1 and 2;
+(xvi)
+acute inhalation toxicity, category 1, 2 and 3;
+(xvii)
+specific target organ toxicity – single exposure, category 1.
+Group 1 comprises also substances and mixtures contained in pressure equipment with a maximum allowable temperature TS which exceeds the flashpoint of the fluid;
+(b)
+group 2 consisting of substances and mixtures not referred to in point (a).
+2.   Where a vessel is composed of a number of chambers, it shall be classified in the highest category applicable to the individual chambers. Where a chamber contains several fluids, classification shall be on the basis of the fluid which requires the highest category.

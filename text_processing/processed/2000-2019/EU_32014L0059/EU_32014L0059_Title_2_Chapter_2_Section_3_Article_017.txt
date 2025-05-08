@@ -1,0 +1,39 @@
+Article 17
+Powers to address or remove impediments to resolvability
+1.   Member States shall ensure that when, pursuant to an assessment of resolvability for an institution carried out in accordance with Articles 15 and 16, a resolution authority after consulting the competent authority determines that there are substantive impediments to the resolvability of that institution, the resolution authority shall notify in writing that determination to the institution concerned, to the competent authority and to the resolution authorities of the jurisdictions in which significant branches are located.
+2.   The requirement for resolution authorities to draw up resolution plans and for the relevant resolution authorities to reach a joint decision on group resolution plans in Article 10(1) and Article 13(4) respectively shall be suspended following the notification referred to in paragraph 1 of this Article until the measures to remove the substantive impediments to resolvability have been accepted by the resolution authority pursuant to paragraph 3 of this Article or decided pursuant to paragraph 4 of this Article.
+3.   Within four months of the date of receipt of a notification made in accordance with paragraph 1, the institution shall propose to the resolution authority possible measures to address or remove the substantive impediments identified in the notification. The resolution authority, after consulting the competent authority, shall assess whether those measures effectively address or remove the substantive impediments in question.
+4.   Where the resolution authority assesses that the measures proposed by an institution in accordance with paragraph 3 do not effectively reduce or remove the impediments in question, it shall, either directly or indirectly through the competent authority, require the institution to take alternative measures that may achieve that objective, and notify in writing those measures to the institution, which shall propose within one month a plan to comply with them.
+In identifying alternative measures, the resolution authority shall demonstrate how the measures proposed by the institution would not be able to remove the impediments to resolvability and how the alternative measures proposed are proportionate in removing them. The resolution authority shall take into account the threat to financial stability of those impediments to resolvability and the effect of the measures on the business of the institution, its stability and its ability to contribute to the economy.
+5.   For the purposes of paragraph 4, resolution authorities shall have the power to take any of the following measures:
+(a)
+require the institution to revise any intragroup financing agreements or review the absence thereof, or draw up service agreements, whether intra-group or with third parties, to cover the provision of critical functions;
+(b)
+require the institution to limit its maximum individual and aggregate exposures;
+(c)
+impose specific or regular additional information requirements relevant for resolution purposes;
+(d)
+require the institution to divest specific assets;
+(e)
+require the institution to limit or cease specific existing or proposed activities;
+(f)
+restrict or prevent the development of new or existing business lines or sale of new or existing products;
+(g)
+require changes to legal or operational structures of the institution or any group entity, either directly or indirectly under its control, so as to reduce complexity in order to ensure that critical functions may be legally and operationally separated from other functions through the application of the resolution tools;
+(h)
+require an institution or a parent undertaking to set up a parent financial holding company in a Member State or a Union parent financial holding company;
+(i)
+require an institution or entity referred to in point (b), (c) or (d) of Article 1(1) to issue eligible liabilities to meet the requirements of Article 45;
+(j)
+require an institution or entity referred to in point(b), (c) or (d) of Article 1(1), to take other steps to meet the minimum requirement for own funds and eligible liabilities under Article 45, including in particular to attempt to renegotiate any eligible liability, additional Tier 1 instrument or Tier 2 instrument it has issued, with a view to ensuring that any decision of the resolution authority to write down or convert that liability or instrument would be effected under the law of the jurisdiction governing that liability or instrument; and
+(k)
+where an institution is the subsidiary of a mixed-activity holding company, requiring that the mixed-activity holding company set up a separate financial holding company to control the institution, if necessary in order to facilitate the resolution of the institution and to avoid the application of the resolution tools and powers referred to in Title IV having an adverse effect on the non-financial part of the group.
+6.   A decision made pursuant to paragraph 1 or 4 shall meet the following requirements:
+(a)
+it shall be supported by reasons for the assessment or determination in question;
+(b)
+it shall indicate how that assessment or determination complies with the requirement for proportionate application laid down in paragraph 4; and
+(c)
+it shall be subject to a right of appeal.
+7.   Before identifying any measure referred to in paragraph 4, the resolution authority, after consulting the competent authority and, if appropriate, the designated national macroprudential authority, shall duly consider the potential effect of those measures on the particular institution, on the internal market for financial services, on the financial stability in other Member States and Union as a whole.
+8.   EBA shall, by 3 July 2015, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify further details on the measures provided for in paragraph 5 and the circumstances in which each measure may be applied.

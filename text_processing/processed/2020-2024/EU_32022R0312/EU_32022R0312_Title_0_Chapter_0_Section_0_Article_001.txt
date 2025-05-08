@@ -1,0 +1,13 @@
+Article 1
+Amendments to Regulation (EU) 2020/1429
+Regulation (EU) 2020/1429 is amended as follows:
+(1)
+Article 1 is replaced by the following:
+‘Article 1
+This Regulation lays down temporary rules on the levying of charges for the use of railway infrastructure as set out in Chapter IV of Directive 2012/34/EU. It applies to the use of railway infrastructure for domestic and international rail services covered by that Directive, during the period from 1 March 2020 until 30 June 2022 (“the reference period”).’;
+(2)
+Article 5, paragraph 2 is replaced by the following:
+‘2.   Where the Commission finds, on the basis of the data referred to in paragraph 1, that the reduction in the level of rail traffic as compared to the level in the corresponding period in the previous years is persisting and is likely to persist, and also finds, on the basis of the best available scientific data, that this situation is the result of the impact of the COVID-19 pandemic, the Commission shall adopt delegated acts in accordance with Article 6 to amend the reference period specified in Article 1 accordingly. Any such amendment may only extend the reference period by up to six months, and the reference period may not be extended beyond 31 December 2023.’;
+(3)
+Article 6, paragraph 2 is replaced by the following:
+‘2.   The power to adopt delegated acts referred to in Article 5(2) shall be conferred on the Commission until 31 December 2023.’.

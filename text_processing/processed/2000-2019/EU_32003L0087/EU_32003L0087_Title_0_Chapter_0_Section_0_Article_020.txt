@@ -1,0 +1,5 @@
+Article 20
+Central Administrator
+1.   The Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue, transfer and cancellation of allowances.
+2.   The Central Administrator shall conduct an automated check on each transaction in registries through the independent transaction log to ensure there are no irregularities in the issue, transfer and cancellation of allowances.
+3.   If irregularities are identified through the automated check, the Central Administrator shall inform the Member State or Member States concerned who shall not register the transactions in question or any further transactions relating to the allowances concerned until the irregularities have been resolved.

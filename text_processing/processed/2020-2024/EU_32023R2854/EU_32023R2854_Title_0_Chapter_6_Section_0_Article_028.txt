@@ -1,0 +1,8 @@
+Article 28
+Contractual transparency obligations on international access and transfer
+1.   Providers of data processing services shall make the following information available on their websites, and keep that information up to date:
+(a)
+the jurisdiction to which the ICT infrastructure deployed for data processing of their individual services is subject;
+(b)
+a general description of the technical, organisational and contractual measures adopted by the provider of data processing services in order to prevent international governmental access to or transfer of non-personal data held in the Union where such access or transfer would create a conflict with Union law or the national law of the relevant Member State.
+2.   The websites referred to in paragraph 1 shall be listed in contracts for all data processing services offered by providers of data processing services.

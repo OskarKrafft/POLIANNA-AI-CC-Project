@@ -1,0 +1,8 @@
+Article 29
+Retention period of alerts
+1.   Alerts entered in SIS II pursuant to this Regulation shall be kept only for the time required to achieve the purposes for which they were entered.
+2.   A Member State issuing an alert shall, within three years of its entry in SIS II, review the need to keep it.
+3.   Each Member State shall, where appropriate, set shorter review periods in accordance with its national law.
+4.   Within the review period, a Member State issuing an alert may, following a comprehensive individual assessment, which shall be recorded, decide to keep the alert longer, should this prove necessary for the purposes for which the alert was issued. In such a case, paragraph 2 shall apply also to the extension. Any extension of an alert shall be communicated to CS-SIS.
+5.   Alerts shall automatically be erased after the review period referred to in paragraph 2 except where the Member State issuing the alert has communicated the extension of the alert to CS-SIS pursuant to paragraph 4. CS-SIS shall automatically inform the Member States of the scheduled deletion of data from the system four months in advance.
+6.   Member States shall keep statistics about the number of alerts the retention period of which has been extended in accordance with paragraph 4.

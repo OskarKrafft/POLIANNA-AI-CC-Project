@@ -1,0 +1,99 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘global warming potential’ or ‘GWP’ means the climatic warming potential of a greenhouse gas relative to that of carbon dioxide (CO2), calculated in terms of the 100-year global warming potential, unless otherwise specified, of one kilogram of a greenhouse gas relative to one kilogram of CO2, as set out in Annexes I, II, III and VI or in the case of mixtures, calculated in accordance with Annex VI;
+(2)
+‘mixture’ means a substance composed of two or more substances, at least one of which is a substance listed in Annex I, II or III;
+(3)
+‘tonne of CO2 equivalent’ means a quantity of greenhouse gases expressed as the product of the weight of the greenhouse gases in metric tonnes and of their global warming potential;
+(4)
+‘hydrofluorocarbons’ or ‘HFCs’ means the substances listed in Section 1 of Annex I or mixtures containing any of those substances;
+(5)
+‘operator‘ means the undertaking exercising actual power over the technical functioning of products, equipment or facilities covered by this Regulation, or the owner designated by a Member State as being responsible for the operator’s obligations in specific cases;
+(6)
+‘placing on the market’ means the customs release for free circulation in the Union or the supplying or making available to another person within the Union, for the first time, for payment or free of charge, or the use of substances produced, or of products or equipment manufactured, for own use;
+(7)
+‘import’ means the entry of substances, products and equipment into the customs territory of the Union, in so far as the territory is covered by a ratification of the 1987 Montreal Protocol on Substances that Deplete the Ozone Layer (the ‘Protocol’), and includes temporary storage and the customs procedures referred to in Articles 201 and 210 of Regulation (EU) No 952/2013;
+(8)
+‘export’ means the exit of substances, products and equipment from the customs territory of the Union, in so far as the territory is covered by a ratification of the Protocol;
+(9)
+‘hermetically sealed equipment’ means equipment of which all parts containing fluorinated greenhouse gas are made tight during the manufacturing process at the premises of the manufacturer by welding, brazing or a similar permanent connection, which may include capped valves or capped service ports that allow proper repair or disposal, and of which the joints in the sealed system have a tested leakage rate of less than 3 grams per year under a pressure of at least a quarter of the maximum allowable pressure;
+(10)
+‘container’ means a receptacle which is designed primarily for transporting or storing fluorinated greenhouse gases;
+(11)
+‘recovery’ means the collection and storage of fluorinated greenhouse gases from containers, products and equipment during maintenance or servicing or prior to the disposal of the containers, products or equipment;
+(12)
+‘recycling’ means the reuse of a recovered fluorinated greenhouse gas following a basic cleaning process, including filtering and drying;
+(13)
+‘reclamation’ means the reprocessing of a recovered fluorinated greenhouse gas to the equivalent performance of a virgin substance, taking into account its intended use, in authorised reclamation facilities that have the appropriate equipment and procedures in place to enable the reclamation of such gases and that can assess and attest to the level of the required quality;
+(14)
+‘destruction’ means the process of transforming or decomposing, permanently and as completely as possible, a fluorinated greenhouse gas into one or more stable substances that are not fluorinated greenhouse gases;
+(15)
+‘decommissioning’ means the permanent removal from operation or usage of a product or of equipment that contains fluorinated greenhouse gases, including the final shutdown of a facility;
+(16)
+‘repair’ means the restoration of damaged or leaking products or equipment that contain fluorinated greenhouse gases or whose functioning relies upon those gases, involving a part containing or designed to contain such gases;
+(17)
+‘installation’ means the process of joining two or more pieces of equipment or circuits containing or designed to contain fluorinated greenhouse gases, with a view to assembling a system in the location where it will be operated, that entails joining together gas-carrying conductors of a system to complete a circuit irrespective of the need to charge the system after assembly;
+(18)
+‘maintenance or servicing’ means all activities, excluding recovery in accordance with Article 8 and leak checks in accordance with Article 4 and Article 10(1), first subparagraph, point (b), that entail opening the circuits or other subparts containing or designed to contain fluorinated greenhouse gases, supplying the system with fluorinated greenhouse gases, removing one or more pieces of circuit or equipment, reassembling two or more pieces of circuit or equipment, as well as repairing leaks, or adding fluorinated greenhouse gas;
+(19)
+‘virgin substance’ means a substance which has not previously been used;
+(20)
+‘stationary’ means not normally in transit during operation and covers room air conditioning equipment which is moveable between rooms;
+(21)
+‘mobile’ means normally in transit during operation;
+(22)
+‘one-component foam’ means a foam composition contained in a single aerosol dispenser in unreacted or partly reacted liquid state and that expands and hardens when it leaves the dispenser;
+(23)
+‘refrigerated truck’ means a motor vehicle with a mass of more than 3,5 tonnes that is designed and constructed primarily to carry goods and that is equipped with a refrigeration unit;
+(24)
+‘refrigerated trailer’ means a vehicle that is designed and constructed to be towed by a road vehicle or a tractor, primarily to carry goods and that is equipped with a refrigeration unit;
+(25)
+‘refrigerated light-duty vehicle’ means a motor vehicle with a mass of 3,5 tonnes or less that is designed and constructed primarily to carry goods and that is equipped with a refrigeration unit;
+(26)
+‘leakage detection system’ means a calibrated mechanical, electrical or electronic device for detecting leakage of fluorinated greenhouse gases which, on detection, alerts the operator;
+(27)
+‘undertaking’ means any natural or legal person which carries out an activity referred to in this Regulation;
+(28)
+‘feedstock’ means any fluorinated greenhouse gas listed in Annex I or II, that undergoes chemical transformation in a process in which it is entirely converted from its original composition and whose emissions are insignificant;
+(29)
+‘commercial use’ means use for the storage, display or dispensing of products, for sale to end users, in retail and food services;
+(30)
+‘fire protection equipment’ means the equipment and systems utilised in fire prevention or suppression applications and includes fire extinguishers;
+(31)
+‘organic Rankine cycle’ means a cycle containing condensable substances converting heat from a heat source into power for the generation of electric or mechanical energy;
+(32)
+‘military equipment’ means arms, munitions and material intended specifically for military purposes which are necessary for the protection of the essential interests of the security of Member States;
+(33)
+‘electrical switchgear’ means switching devices and the combination of such devices with associated control, measuring, protective and regulating equipment, and assemblies of such devices and equipment with associated interconnections, accessories, enclosures and supporting structures, intended for usage in connection with the generation, transmission, distribution and conversion of electric energy;
+(34)
+‘multipack centralised refrigeration systems’ means systems with two or more compressors operated in parallel, which are connected to one or more common condensers and to a number of cooling devices such as display cases, cabinets and freezers, or to chilled store rooms;
+(35)
+‘primary refrigerant circuit of cascade systems’ means the primary circuit in indirect medium temperature systems where a combination of two or more separate refrigeration circuits are connected in series such that the primary circuit absorbs the condenser heat from a secondary circuit for the medium temperature;
+(36)
+‘use’ means, in relation to fluorinated greenhouse gases, their utilisation in the production, maintenance or servicing, including refilling, of products and equipment, or in other activities and processes referred to in this Regulation;
+(37)
+‘establishment within the Union’ means, in relation to a natural person, for that person to have his or her habitual residence in the Union and, in relation to a legal person, for that person to have a permanent business establishment as referred to in Article 5, point (32), of Regulation (EU) No 952/2013 in the Union;
+(38)
+‘self-contained’ means a complete factory-made system which is in a suitable frame or casing, is fabricated and transported complete or in two or more sections, can contain isolation valves and in which no gas-containing parts are connected on site;
+(39)
+‘split system’ means a system consisting of a number of refrigerant piped units that form a separate but interconnected unit, requiring the installation and connection of refrigerant circuit components at the point of use;
+(40)
+‘air-conditioning’ means the process of treating air to meet the requirements of a conditioned space by controlling its temperature, humidity, cleanliness or distribution;
+(41)
+‘heat pump’ means a piece of equipment capable of using ambient heat or waste heat from air, water or ground sources to provide heat or cooling and is based on the interconnection of one or more components forming a closed cooling circuit in which a refrigerant circulates to extract and release heat;
+(42)
+‘safety requirements’ means requirements on the safety of using fluorinated greenhouse gases and natural refrigerants or products and equipment containing or relying on them, prohibiting the use of certain fluorinated greenhouse gases or their alternatives, including when contained in a product or in equipment at a specific place of intended utilisation due to site and application specificities that are set out in:
+(a)
+Union or national law; or
+(b)
+a non-legally binding act containing technical documentation or standards that have to be applied to ensure safety at the specific location, provided that they are in accordance with relevant Union or national law;
+(43)
+‘refrigeration’ means the process of maintaining or lowering the temperature of a product, substance, system or other item;
+(44)
+‘chiller’ means a single system whose primary function is to cool a heat transfer fluid (such as water, glycol, brine or CO2) for refrigeration, process, preservation or comfort purposes;
+(45)
+‘foam panel’ means a structure made of layers containing a foam and a rigid material, such as wood or metal, bound to one or both sides;
+(46)
+‘laminated board’ means a foam board that is covered by a thin layer of a non-rigid material, such as plastic.

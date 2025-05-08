@@ -1,0 +1,7 @@
+Article 10
+Travel information and reservation systems
+1.   In order to provide the information and to issue tickets referred to in this Regulation, railway undertakings and ticket vendors shall make use of CIRSRT, to be established by the procedures referred to in this Article.
+2.   The technical specifications for interoperability (TSIs) referred to in Directive 2001/16/EC shall be applied for the purposes of this Regulation.
+3.   The Commission shall, on a proposal to be submitted by the European Railway Agency (ERA), adopt the TSI of telematics applications for passengers by 3 December 2010. The TSI shall make possible the provision of the information, set out in Annex II, and the issuing of tickets as governed by this Regulation.
+4.   Railway undertakings shall adapt their CIRSRT according to the requirements set out in the TSI in accordance with a deployment plan set out in that TSI.
+5.   Subject to the provisions of Directive 95/46/EC, no railway undertaking or ticket vendor shall disclose personal information on individual bookings to other railway undertakings and/or ticket vendors.

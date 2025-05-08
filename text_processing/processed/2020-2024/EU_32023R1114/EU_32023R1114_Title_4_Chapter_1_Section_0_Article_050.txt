@@ -1,0 +1,5 @@
+Article 50
+Prohibition of granting interest
+1.   Notwithstanding Article 12 of Directive 2009/110/EC, issuers of e-money tokens shall not grant interest in relation to e-money tokens.
+2.   Crypto-asset service providers shall not grant interest when providing crypto-asset services related to e-money tokens.
+3.   For the purposes of paragraphs 1 and 2, any remuneration or any other benefit related to the length of time during which a holder of an e-money token holds such e-money token shall be treated as interest. That includes net compensation or discounts, with an effect equivalent to that of interest received by the holder of the e-money token, directly from the issuer or from third parties, and directly associated to the e-money token or from the remuneration or pricing of other products.

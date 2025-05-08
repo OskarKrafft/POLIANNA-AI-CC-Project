@@ -1,0 +1,27 @@
+Article 35
+Interoperability of data processing services
+1.   Open interoperability specifications and harmonised standards for the interoperability of data processing services shall:
+(a)
+achieve, where technically feasible, interoperability between different data processing services that cover the same service type;
+(b)
+enhance portability of digital assets between different data processing services that cover the same service type;
+(c)
+facilitate, where technically feasible, functional equivalence between different data processing services referred to in Article 30(1) that cover the same service type;
+(d)
+not have an adverse impact on the security and integrity of data processing services and data;
+(e)
+be designed in such a way so as to allow for technical advances and the inclusion of new functions and innovation in data processing services.
+2.   Open interoperability specifications and harmonised standards for the interoperability of data processing services shall adequately address:
+(a)
+the cloud interoperability aspects of transport interoperability, syntactic interoperability, semantic data interoperability, behavioural interoperability and policy interoperability;
+(b)
+the cloud data portability aspects of data syntactic portability, data semantic portability and data policy portability;
+(c)
+the cloud application aspects of application syntactic portability, application instruction portability, application metadata portability, application behaviour portability and application policy portability.
+3.   Open interoperability specifications shall comply with Annex II to Regulation (EU) No 1025/2012.
+4.   After taking into account relevant international and European standards and self-regulatory initiatives, the Commission may, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraphs 1 and 2 of this Article.
+5.   The Commission may, by means of implementing acts, adopt common specifications based on open interoperability specifications covering all of the essential requirements laid down in paragraphs 1 and 2.
+6.   When preparing the draft implementing act referred to in paragraph 5 of this Article, the Commission shall take into account the views of the relevant competent authorities referred to in Article 37(5), point (h) and other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
+7.   When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraphs 1 and 2, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
+8.   For the purpose of Article 30(3), the Commission shall, by means of implementing acts, publish the references of harmonised standards and common specifications for the interoperability of data processing services in a central Union standards repository for the interoperability of data processing services.
+9.   The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 46(2).

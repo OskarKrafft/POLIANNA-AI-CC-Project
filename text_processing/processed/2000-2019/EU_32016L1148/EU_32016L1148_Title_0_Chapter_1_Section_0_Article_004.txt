@@ -1,0 +1,47 @@
+Article 4
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘network and information system’ means:
+(a)
+an electronic communications network within the meaning of point (a) of Article 2 of Directive 2002/21/EC;
+(b)
+any device or group of interconnected or related devices, one or more of which, pursuant to a program, perform automatic processing of digital data; or
+(c)
+digital data stored, processed, retrieved or transmitted by elements covered under points (a) and (b) for the purposes of their operation, use, protection and maintenance;
+(2)
+‘security of network and information systems’ means the ability of network and information systems to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of stored or transmitted or processed data or the related services offered by, or accessible via, those network and information systems;
+(3)
+‘national strategy on the security of network and information systems’ means a framework providing strategic objectives and priorities on the security of network and information systems at national level;
+(4)
+‘operator of essential services’ means a public or private entity of a type referred to in Annex II, which meets the criteria laid down in Article 5(2);
+(5)
+‘digital service’ means a service within the meaning of point (b) of Article 1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council (17) which is of a type listed in Annex III;
+(6)
+‘digital service provider’ means any legal person that provides a digital service;
+(7)
+‘incident’ means any event having an actual adverse effect on the security of network and information systems;
+(8)
+‘incident handling’ means all procedures supporting the detection, analysis and containment of an incident and the response thereto;
+(9)
+‘risk’ means any reasonably identifiable circumstance or event having a potential adverse effect on the security of network and information systems;
+(10)
+‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a digital service provider not established in the Union, which may be addressed by a national competent authority or a CSIRT instead of the digital service provider with regard to the obligations of that digital service provider under this Directive;
+(11)
+‘standard’ means a standard within the meaning of point (1) of Article 2 of Regulation (EU) No 1025/2012;
+(12)
+‘specification’ means a technical specification within the meaning of point (4) of Article 2 of Regulation (EU) No 1025/2012;
+(13)
+‘internet exchange point (IXP)’ means a network facility which enables the interconnection of more than two independent autonomous systems, primarily for the purpose of facilitating the exchange of internet traffic; an IXP provides interconnection only for autonomous systems; an IXP does not require the internet traffic passing between any pair of participating autonomous systems to pass through any third autonomous system, nor does it alter or otherwise interfere with such traffic;
+(14)
+‘domain name system (DNS)’ means a hierarchical distributed naming system in a network which refers queries for domain names;
+(15)
+‘DNS service provider’ means an entity which provides DNS services on the internet;
+(16)
+‘top-level domain name registry’ means an entity which administers and operates the registration of internet domain names under a specific top-level domain (TLD);
+(17)
+‘online marketplace’ means a digital service that allows consumers and/or traders as respectively defined in point (a) and in point (b) of Article 4(1) of Directive 2013/11/EU of the European Parliament and of the Council (18) to conclude online sales or service contracts with traders either on the online marketplace's website or on a trader's website that uses computing services provided by the online marketplace;
+(18)
+‘online search engine’ means a digital service that allows users to perform searches of, in principle, all websites or websites in a particular language on the basis of a query on any subject in the form of a keyword, phrase or other input, and returns links in which information related to the requested content can be found;
+(19)
+‘cloud computing service’ means a digital service that enables access to a scalable and elastic pool of shareable computing resources.

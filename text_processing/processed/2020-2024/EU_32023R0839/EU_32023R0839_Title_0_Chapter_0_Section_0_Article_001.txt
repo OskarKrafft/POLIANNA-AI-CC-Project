@@ -1,0 +1,150 @@
+Article 1
+Regulation (EU) 2018/841 is amended as follows:
+(1)
+Article 1 is replaced by the following:
+‘Article 1
+Subject matter
+This Regulation sets out rules concerning:
+(a)
+commitments of Member States for the land use, land use change and forestry (‘LULUCF’) sector that contribute to achieving the objectives of the Paris Agreement and meeting the greenhouse gas emission reduction target of the Union for the period from 2021 to 2025;
+(b)
+accounting of greenhouse gas emissions and removals from the LULUCF sector and checking the compliance of Member States with the commitments referred to in point (a) for the period from 2021 to 2025;
+(c)
+a 2030 Union target for net greenhouse gas removals in the LULUCF sector;
+(d)
+targets for net greenhouse gas removals in the LULUCF sector for Member States for the period from 2026 to 2030.’
+(2)
+Article 2 is replaced by the following:
+‘Article 2
+Scope
+1.   This Regulation applies to emissions and removals of the greenhouse gases listed in Section A of Annex I to this Regulation, reported pursuant to Article 26(4) of Regulation (EU) 2018/1999 of the European Parliament and of the Council (*1) and occurring on the territories of Member States in the period from 2021 to 2025 in any of the following land accounting categories:
+(a)
+land use reported as cropland, grassland, wetlands, settlements or other land, converted to forest land (“afforested land”);
+(b)
+land use reported as forest land converted to cropland, grassland, wetlands, settlements or other land (“deforested land”);
+(c)
+land use reported as any of the following (“managed cropland”):
+(i)
+cropland remaining cropland;
+(ii)
+grassland, wetland, settlement or other land, converted to cropland;
+(iii)
+cropland converted to wetland, settlement or other land;
+(d)
+land use reported as any of the following (“managed grassland”):
+(i)
+grassland remaining grassland;
+(ii)
+cropland, wetland, settlement or other land, converted to grassland;
+(iii)
+grassland converted to wetland, settlement or other land;
+(e)
+land use reported as forest land remaining forest land (“managed forest land”);
+(f)
+where a Member State has notified to the Commission its intention to include managed wetland in the scope of its commitments pursuant to Article 4(1) of this Regulation by 31 December 2020, land use reported as one of the following (“managed wetland”):
+—
+wetland remaining wetland;
+—
+settlement or other land, converted to wetland;
+—
+wetland converted to settlement or other land.
+2.   This Regulation also applies to emissions and removals of the greenhouse gases listed in Section A of Annex I to this Regulation, reported pursuant to Article 26(4) of Regulation (EU) 2018/1999 and occurring on the territories of Member States in the period from 2026 to 2030, in any of the following land reporting categories or sectors:
+(a)
+forest land;
+(b)
+cropland;
+(c)
+grassland;
+(d)
+wetlands;
+(e)
+settlements;
+(f)
+other land;
+(g)
+harvested wood products;
+(h)
+other;
+(i)
+atmospheric deposition;
+(j)
+nitrogen leaching and run-off.
+
+(*1)  Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p.1).’;"
+                        
+(3)
+Article 3 is amended as follows:
+(a)
+point (9) is replaced by the following:
+‘(9)
+“natural disturbances” means any non-anthropogenic events or circumstances that cause significant emissions in the LULUCF sector, the occurrence of which is beyond the control of the relevant Member State, and the effects of which the Member State is objectively unable to significantly limit, even after their occurrence, on emissions;’;
+(b)
+the following point is added:
+‘(11)
+“climate change” means a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods.’;
+(4)
+Article 4 is replaced by the following:
+‘Article 4
+Commitments and targets
+1.   For the period from 2021 to 2025, taking into account the flexibilities provided for in Articles 12, 13 and 13a, each Member State shall ensure that greenhouse gas emissions do not exceed greenhouse gas removals, calculated as the sum of total emissions and total removals on its territory in all of the land accounting categories referred to in Article 2(1).
+2.   The 2030 Union target for net greenhouse gas removals shall be 310 million tonnes of CO2 equivalent as a sum of the values of the greenhouse gas net emissions and removals by Member States in 2030 set out in column D of Annex IIa, and shall be based on the average of its greenhouse gas inventory data for the years 2016, 2017 and 2018 as submitted in 2020.
+3.   Each Member State shall ensure that, taking into account the flexibilities provided for in Articles 12 and 13b, the sum of its greenhouse gas emissions and removals on its territory and in all of the land reporting categories referred to in Article 2(2), points (a) to (j), reported for the year 2030 in its greenhouse gas inventory submitted in 2032, compared to the average of its greenhouse gas inventory data for the years 2016, 2017 and 2018 as submitted in 2032, does not exceed the target set out for that Member State in column C of Annex IIa.
+4.   Each Member State shall ensure that the sum of the differences between the following points for each year in the period from 2026 to 2029 does not exceed the budget for 2026 to 2029:
+(a)
+its greenhouse gas emissions and removals on its territory and in all of the land reporting categories referred to in Article 2(2), points (a) to (j); and
+(b)
+the average value for its greenhouse gas inventory data for the years 2021, 2022 and 2023, as submitted in 2032.
+The budget for 2026 to 2029 shall be defined as the sum of the differences for each year in the period from 2026 to 2029 for that Member State between:
+(a)
+annual greenhouse gas emission and removal limit values for those years, established on the basis of a linear trajectory towards 2030; and
+(b)
+the average value for its greenhouse gas inventory data for the years 2021, 2022 and 2023, as submitted in 2025.
+The linear trajectory of a Member State shall start in 2022 at the average value for greenhouse gas inventory data for the years 2021, 2022 and 2023, and have as its end point for 2030 the value obtained by adding the value set out for that Member State in column C of Annex IIa to the average value for greenhouse gas inventory data for the years 2016, 2017 and 2018.
+The budget for 2026 to 2029 shall be defined on the basis of the greenhouse gas inventory data submitted in 2025 and the compliance with this budget shall be assessed on the basis of the greenhouse gas inventory data submitted in 2032.
+5.   The Commission shall adopt implementing acts setting out the annual limit values based on the linear trajectory for net greenhouse gas removals for each Member State, for each year in the period from 2026 to 2029 in terms of tonnes of CO2 equivalent. Those national trajectories shall be based on the average greenhouse gas inventory data for the years 2021, 2022 and 2023, reported by each Member State.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16a of this Regulation. For the purpose of those implementing acts, the Commission shall carry out a comprehensive review of the most recent national inventory data submitted by Member States pursuant to Article 26(4) of Regulation (EU) 2018/1999.
+6.   When adopting policies to comply with their commitments, targets and budgets as referred to in this Article, Member States shall consider the need to ensure a just and socially fair transition for all. The Commission may issue guidance to support Member States in that regard.’
+(5)
+in Article 5, paragraph 1 is replaced by the following:
+‘1.   Each Member State shall prepare and maintain accounts that accurately reflect the emissions and removals resulting from the land accounting categories referred to in Article 2. Member States shall ensure that their accounts and other data provided under this Regulation are accurate, complete, consistent, publicly accessible, comparable and transparent. Member States shall denote emissions by a positive sign (+) and removals by a negative sign (-).’
+(6)
+in Article 6, paragraphs 1 and 2 are replaced by the following:
+‘1.   Member States shall account for emissions and removals resulting from afforested land and deforested land calculated as the total emissions and total removals for each of the years in the period from 2021 to 2025.
+2.   By way of derogation from Article 5(3), and no later than 2025, where land use has been converted from cropland, grassland, wetland, settlements or other land to forest land, a Member State may, 30 years after the date of that conversion, change the categorisation of such land from land converted to forest land to forest land remaining forest land, where such change is duly justified based on the IPCC Guidelines.’
+(7)
+in Article 7, paragraphs 1, 2 and 3 are replaced by the following:
+‘1.   Each Member State shall account for emissions and removals resulting from managed cropland calculated as emissions and removals in the period from 2021 to 2025 minus the value obtained by multiplying by five the Member State’s average annual emissions and removals resulting from managed cropland in its base period from 2005 to 2009.
+2.   Each Member State shall account for emissions and removals resulting from managed grassland calculated as emissions and removals in the period from 2021 to 2025 minus the value obtained by multiplying by five the Member State’s average annual emissions and removals resulting from managed grassland in its base period from 2005 to 2009.
+3.   During the period from 2021 to 2025, each Member State that includes managed wetland in the scope of its commitments shall account for emissions and removals resulting from managed wetland, calculated as emissions and removals in that period minus the value obtained by multiplying by five the Member State’s average annual emissions and removals resulting from managed wetland in its base period from 2005 to 2009.’
+(8)
+Article 8 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Each Member State shall account for emissions and removals resulting from managed forest land, calculated as emissions and removals in the period from 2021 to 2025 minus the value obtained by multiplying by five the forest reference level of the Member State concerned.’
+(b)
+paragraph 3 is replaced by the following:
+‘3.   Member States shall submit to the Commission their national forestry accounting plans, including a proposed forest reference level, by 31 December 2018 for the period from 2021 to 2025. The national forestry accounting plan shall contain all the elements listed in Section B of Annex IV and shall be made public, including via the internet.’
+(c)
+paragraphs 7 to 10 are replaced by the following:
+‘7.   Where necessary based on the technical assessments carried out pursuant to paragraph 6, first subparagraph, and on, where applicable, the technical recommendations issued pursuant to paragraph 6, second subparagraph, Member States shall communicate their revised proposed forest reference levels to the Commission by 31 December 2019 for the period from 2021 to 2025. The Commission shall publish the proposed forest reference levels communicated to it by Member States.
+8.   Based on the proposed forest reference levels submitted by Member States, on the technical assessment carried out pursuant to paragraph 6 of this Article and, where applicable, on the revised proposed forest reference level submitted under paragraph 7 of this Article, the Commission shall adopt delegated acts in accordance with Article 16 amending Annex IV with a view to laying down the forest reference levels to be applied by the Member States for the period from 2021 to 2025.
+9.   If a Member State does not submit its forest reference level to the Commission by the dates specified in paragraph 3 of this Article and, where applicable, paragraph 7 of this Article, the Commission shall adopt delegated acts in accordance with Article 16 amending Annex IV with a view to laying down the forest reference level to be applied by that Member State for the period from 2021 to 2025, based on any technical assessment carried out pursuant to paragraph 6 of this Article.
+10.   The delegated acts referred to in paragraphs 8 and 9 shall be adopted by 31 October 2020 for the period from 2021 to 2025.’
+(9)
+Article 10 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   At the end of the period from 2021 to 2025, Member States may exclude from their accounts for afforested land and managed forest land greenhouse gas emissions, resulting from natural disturbances, that exceed the average emissions caused by natural disturbances in the period from 2001 to 2020, excluding statistical outliers (“background level”). That background level shall be calculated in accordance with this Article and Annex VI.’
+(b)
+in paragraph 2, point (b), the year ‘2030’ is replaced by ‘2025’;
+(10)
+Articles 11, 12 and 13 are replaced by the following:
+‘Article 11
+Flexibilities and governance
+1.   A Member State may use:
+(a)
+the general flexibilities set out in Article 12; and
+(b)
+in order to comply with the commitment, target and budget set in accordance with Article 4, the flexibilities set out in Articles 13 and 13b.
+Finland may, besides the flexibilities referred to in the first subparagraph, use additional compensation pursuant to Article 13a.
+2.   If a Member State is not in compliance with the monitoring requirements laid down in Article 26 of Regulation (EU) 2018/1999, the Central Administrator designated under Article 20 of Directive 2003/87/EC (the “Central Administrator”) shall temporarily prohibit that Member State from transferring pursuant to Article 12(2) of this Regulation or using the managed forest land flexibility pursuant to Article 13 of this Regulation. The Commission may also provide additional technical support to that Member State.

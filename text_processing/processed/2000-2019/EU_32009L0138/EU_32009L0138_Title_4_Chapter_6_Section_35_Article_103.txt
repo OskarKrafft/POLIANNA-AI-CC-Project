@@ -1,0 +1,9 @@
+Article 103
+Structure of the standard formula
+The Solvency Capital Requirement calculated on the basis of the standard formula shall be the sum of the following items:
+(a)
+the Basic Solvency Capital Requirement, as laid down in Article 104;
+(b)
+the capital requirement for operational risk, as laid down in Article 107;
+(c)
+the adjustment for the loss-absorbing capacity of technical provisions and deferred taxes, as laid down in Article 108.

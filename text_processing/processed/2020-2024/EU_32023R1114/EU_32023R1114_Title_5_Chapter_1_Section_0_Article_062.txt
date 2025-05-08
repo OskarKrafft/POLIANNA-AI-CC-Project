@@ -1,0 +1,56 @@
+Article 62
+Application for authorisation as a crypto-asset service provider
+1.   Legal persons or other undertakings that intend to provide crypto-asset services shall submit their application for an authorisation as a crypto-asset service provider to the competent authority of their home Member State.
+2.   The application referred to in paragraph 1 shall contain all of the following information:
+(a)
+the name, including the legal name and any other commercial name used, the legal entity identifier of the applicant crypto-asset service provider, the website operated by that provider, a contact email address, a contact telephone number and its physical address;
+(b)
+the legal form of the applicant crypto-asset service provider;
+(c)
+the articles of association of the applicant crypto-asset service provider, where applicable;
+(d)
+a programme of operations, setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;
+(e)
+proof that the applicant crypto-asset service provider meets the requirements for prudential safeguards set out in Article 67;
+(f)
+a description of the applicant crypto-asset service provider’s governance arrangements;
+(g)
+proof that members of the management body of the applicant crypto-asset service provider are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage that provider;
+(h)
+the identity of any shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider and the amounts of those holdings, as well as proof that those persons are of sufficiently good repute;
+(i)
+a description of the applicant crypto-asset service provider’s internal control mechanisms, policies and procedures to identify, assess and manage risks, including money laundering and terrorist financing risks, and business continuity plan;
+(j)
+the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;
+(k)
+a description of the procedure for the segregation of clients’ crypto-assets and funds;
+(l)
+a description of the applicant crypto-asset service provider’s complaints-handling procedures;
+(m)
+where the applicant crypto-asset service provider intends to provide custody and administration of crypto-assets on behalf of clients, a description of the custody and administration policy;
+(n)
+where the applicant crypto-asset service provider intends to operate a trading platform for crypto-assets, a description of the operating rules of the trading platform and of the procedure and system to detect market abuse;
+(o)
+where the applicant crypto-asset service provider intends to exchange crypto-assets for funds or other crypto-assets, a description of the commercial policy, which shall be non-discriminatory, governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets that the applicant crypto-asset service provider proposes to exchange for funds or other crypto-assets;
+(p)
+where the applicant crypto-asset service provider intends to execute orders for crypto-assets on behalf of clients, a description of the execution policy;
+(q)
+where the applicant crypto-asset service provider intends to provide advice on crypto-assets or portfolio management of crypto-assets, proof that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations;
+(r)
+where the applicant crypto-asset service provider intends to provide transfer services for crypto-assets on behalf of clients, information on the manner in which such transfer services will be provided;
+(s)
+the type of crypto-asset to which the crypto-asset service relates.
+3.   For the purposes of paragraph 2, points (g) and (h), an applicant crypto-asset service provider shall provide proof of all of the following:
+(a)
+for all members of the management body of the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering, and counter-terrorist financing, to fraud or to professional liability;
+(b)
+that the members of the management body of the applicant crypto-asset service provider collectively possess the appropriate knowledge, skills and experience to manage the crypto-asset service provider and that those persons are required to commit sufficient time to perform their duties;
+(c)
+for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
+4.   Competent authorities shall not require an applicant crypto-asset service provider to provide any information referred to in paragraphs 2 and 3 of this Article that they have already received under the respective authorisation procedures in accordance with Directive 2009/110/EC, 2014/65/EU or (EU) 2015/2366, or pursuant to national law applicable to crypto-asset services prior to 29 June 2023, provided that such previously submitted information or documents are still up-to-date.
+5.   ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the information referred to in paragraphs 2 and 3.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+6.   ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the information to be included in the application for authorisation as a crypto-asset service provider.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

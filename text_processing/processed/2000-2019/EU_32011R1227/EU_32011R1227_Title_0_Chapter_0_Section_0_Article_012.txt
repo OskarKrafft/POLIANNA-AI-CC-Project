@@ -1,0 +1,9 @@
+Article 12
+Operational reliability
+1.   The Agency shall ensure the confidentiality, integrity and protection of the information received pursuant to Article 4(2) and Articles 8 and 10. The Agency shall take all necessary measures to prevent any misuse of, and unauthorised access to, the information maintained in its systems.
+National regulatory authorities, competent financial authorities of the Member States, national competition authorities, ESMA and other relevant authorities shall ensure the confidentiality, integrity and protection of the information which they receive pursuant to Articles 4(2), 7(2) or 8(5) or Article 10 and shall take steps to prevent any misuse of such information.
+The Agency shall identify sources of operational risk and minimise them through the development of appropriate systems, controls and procedures.
+2.   Subject to Article 17, the Agency may decide to make publicly available parts of the information which it possesses, provided that commercially sensitive information on individual market participants or individual transactions or individual market places are not disclosed and cannot be inferred.
+The Agency shall make its commercially non-sensitive trade database available for scientific purposes, subject to confidentiality requirements.
+Information shall be published or made available in the interest of improving transparency of wholesale energy markets and provided it is not likely to create any distortion in competition on those energy markets.
+The Agency shall disseminate information in a fair manner according to transparent rules which it shall draw up and make publicly available.

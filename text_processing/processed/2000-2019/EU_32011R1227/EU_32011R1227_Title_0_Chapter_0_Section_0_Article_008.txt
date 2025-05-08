@@ -1,0 +1,33 @@
+Article 8
+Data collection
+1.   Market participants, or a person or authority listed in points (b) to (f) of paragraph 4 on their behalf, shall provide the Agency with a record of wholesale energy market transactions, including orders to trade. The information reported shall include the precise identification of the wholesale energy products bought and sold, the price and quantity agreed, the dates and times of execution, the parties to the transaction and the beneficiaries of the transaction and any other relevant information. While overall responsibility lies with market participants, once the required information is received from a person or authority listed in points (b) to (f) of paragraph 4, the reporting obligation on the market participant in question shall be considered to be fulfilled.
+2.   The Commission shall, by means of implementing acts:
+(a)
+draw up a list of the contracts and derivatives, including orders to trade, which are to be reported in accordance with paragraph 1 and appropriate de minimis thresholds for the reporting of transactions where appropriate;
+(b)
+adopt uniform rules on the reporting of information which is to be provided in accordance with paragraph 1;
+(c)
+lay down the timing and form in which that information is to be reported.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2). They shall take account of existing reporting systems.
+3.   Persons referred to in points (a) to (d) of paragraph 4 who have reported transactions in accordance with Directive 2004/39/EC or applicable Union legislation on derivative transactions, central counterparties and trade repositories shall not be subject to double reporting obligations relating to those transactions.
+Without prejudice to the first subparagraph of this paragraph, the implementing acts referred to in paragraph 2 may allow organised markets and trade matching or trade reporting systems to provide the Agency with records of wholesale energy transactions.
+4.   For the purposes of paragraph 1, information shall be provided by:
+(a)
+the market participant;
+(b)
+a third party acting on behalf of the market participant;
+(c)
+a trade reporting system;
+(d)
+an organised market, a trade-matching system or other person professionally arranging transactions;
+(e)
+a trade repository registered or recognised under applicable Union legislation on derivative transactions, central counterparties and trade repositories; or
+(f)
+a competent authority which has received that information in accordance with Article 25(3) of Directive 2004/39/EC or ESMA when it has received that information in accordance with applicable Union legislation on derivative transactions, central counterparties and trade repositories.
+5.   Market participants shall provide the Agency and national regulatory authorities with information related to the capacity and use of facilities for production, storage, consumption or transmission of electricity or natural gas or related to the capacity and use of LNG facilities, including planned or unplanned unavailability of these facilities, for the purpose of monitoring trading in wholesale energy markets. The reporting obligations on market participants shall be minimised by collecting the required information or parts thereof from existing sources where possible.
+6.   The Commission shall, by means of implementing acts:
+(a)
+adopt uniform rules on the reporting of information to be provided in accordance with paragraph 5 and on appropriate thresholds for such reporting where appropriate;
+(b)
+lay down the timing and form in which that information is to be reported.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2). They shall take account of existing reporting obligations under Regulations (EC) No 714/2009 and (EC) No 715/2009.

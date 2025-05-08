@@ -1,0 +1,7 @@
+Article 15
+Verification procedures
+1.   The verifier shall identify potential risks related to the monitoring and reporting process by comparing reported CO2 emissions with estimated data based on ship tracking data and characteristics such as the installed engine power. Where significant deviations are found, the verifier shall carry out further analyses.
+2.   The verifier shall identify potential risks related to the different calculation steps by reviewing all data sources and methodologies used.
+3.   The verifier shall take into consideration any effective risk control methods applied by the company to reduce levels of uncertainty associated with the accuracy specific to the monitoring methods used.
+4.   The company shall provide the verifier with any additional information that enables it to carry out the verification procedures. The verifier may conduct spot-checks during the verification process to determine the reliability of reported data and information.
+5.   The Commission shall be empowered to adopt delegated acts in accordance with Article 23, in order to further specify the rules for the verification activities referred to in this Regulation. When adopting these acts, the Commission shall take into account the elements set out in Part A of Annex III. The rules specified in those delegated acts shall be based on the principles for verification provided for in Article 14 and on relevant internationally accepted standards.

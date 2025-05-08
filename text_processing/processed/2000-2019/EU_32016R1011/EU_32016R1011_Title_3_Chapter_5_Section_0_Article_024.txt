@@ -1,0 +1,9 @@
+Article 24
+Significant benchmarks
+1.   A benchmark which does not fulfil any of the conditions laid down in Article 20(1) is significant when:
+(a)
+it is used directly or indirectly within a combination of benchmarks as a reference for financial instruments or financial contracts or for measuring the performance of investments funds having a total average value of at least EUR 50 billion on the basis of all the range of maturities or tenors of the benchmark, where applicable, over a period of six months; or
+(b)
+it has no or very few appropriate market-led substitutes and, in the event that the benchmark ceases to be provided or is provided on the basis of input data no longer fully representative of the underlying market or economic reality or unreliable input data, there would be a significant and adverse impact on market integrity, financial stability, consumers, the real economy or the financing of households or businesses in one or more Member States.
+2.   The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to review the calculation method used to determine the threshold referred to in point (a) of paragraph 1 of this Article in the light of market, price and regulatory developments as well as the appropriateness of the classification of benchmarks with a total value of financial instruments, financial contracts or investment funds referencing them that is close to that threshold. Such review shall take place at least every two years as from 1 January 2018.
+3.   An administrator shall immediately notify its competent authority when its significant benchmark falls below the threshold mentioned in point (a) of paragraph 1.

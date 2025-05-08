@@ -1,0 +1,12 @@
+Article 266
+Reduction in risk-weighted exposure amounts
+1.   The risk-weighted exposure amount of a securitisation position to which a 1 250 % risk weight is assigned may be reduced by 12,5 times the amount of any specific credit risk adjustments treated in accordance with Article 110 made by the institution in respect of the securitised exposures. To the extent that specific credit adjustments are taken account of for this purpose they shall not be taken account of for the purposes of the calculation laid down in Article 159.
+2.   The risk-weighted exposure amount of a securitisation position may be reduced by 12,5 times the amount of any specific credit risk adjustments treated in accordance with Article 110 made by the institution in respect of the position.
+3.   As provided in Article 36(1)(k) in respect of a securitisation position in respect of which a 1 250 % risk weight applies, institutions may, as an alternative to including the position in their calculation of risk-weighted exposure amounts, deduct from own funds the exposure value of the position subject to the following:
+(a)
+the exposure value of the position may be derived from the risk-weighted exposure amounts taking into account any reductions made in accordance with paragraphs 1 and 2;
+(b)
+the calculation of the exposure value may reflect eligible funded protection in a manner consistent with the methodology prescribed in Articles 247 and 264;
+(c)
+where the Supervisory Formula Method is used to calculate risk-weighted exposure amounts and L < KIRBR and [L+T] > KIRBR the position may be treated as two positions with L equal to KIRBR for the more senior of the positions.
+4.   Where an institution makes use of the option in paragraph 3 it may subtract 12,5 times the amount deducted in accordance with that paragraph from the amount specified in Article 260 as the amount to which the risk-weighted exposure amount in respect of its positions in a securitisation may be limited.

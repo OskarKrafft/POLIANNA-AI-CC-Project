@@ -1,0 +1,9 @@
+Article 16
+RtC K‐factor requirement
+The RtC K‐factor requirement is determined by the following formula:
+K‐AUM + K‐CMH + K‐ASA + K‐COH
+where:
+K‐AUM is equal to AUM measured in accordance with Article 17, multiplied by the corresponding coefficient in Article 15(2);
+K‐CMH is equal to CMH measured in accordance with Article 18, multiplied by the corresponding coefficient in Article 15(2);
+K‐ASA is equal to ASA measured in accordance with Article 19, multiplied by the corresponding coefficient in Article 15(2);
+K‐COH is equal to COH measured in accordance with Article 20, multiplied by the corresponding coefficient in Article 15(2).

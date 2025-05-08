@@ -1,0 +1,19 @@
+Article 13
+Digital product passport registry
+1.   By 19 July 2026, the Commission shall set up a digital registry (the ‘registry’) which stores in a secure manner at least the unique identifiers.
+In the case of products intended to be placed under the customs procedure ‘release for free circulation’, the registry shall store the commodity code.
+The registry shall store the unique identifiers for batteries as referred to in Article 77(3) of Regulation (EU) 2023/1542 of the European Parliament and of the Council (61).
+The Commission shall manage the registry and shall ensure that the data stored in the registry are processed securely and in compliance with Union law, including applicable rules on the protection of personal data.
+2.   The Commission shall, in the delegated acts adopted pursuant to Article 4, specify any other data which, in addition to being included in the digital product passport, are to be stored in the registry, taking into account at least the following criteria:
+(a)
+the need to allow for the verification of the authenticity of the digital product passport;
+(b)
+the relevance of information for improving the efficiency and effectiveness of market surveillance checks and customs controls;
+(c)
+the need to avoid a disproportionate administrative burden for economic operators and customs authorities.
+3.   In relation to its responsibility to set up and manage the registry and the processing of any personal data that might result from that activity, the Commission shall be regarded as controller as defined in Article 3, point (8), of Regulation (EU) 2018/1725.
+4.   The economic operator placing the product on the market or putting it into service shall upload, in the registry, the data referred to in paragraphs 1 and 2.
+5.   Upon the uploading by the economic operator of the data referred to in paragraphs 1 and 2 in the registry, the registry shall automatically communicate to that economic operator a unique registration identifier associated with the unique identifiers uploaded in the registry for a specific product in accordance with paragraph 4. That communication by the registry shall not be deemed to be proof of compliance with this Regulation or other Union law.
+The Commission shall adopt an implementing act specifying the implementation arrangements for the registry, including for the communication of the unique registration identifier referred to in the first subparagraph.
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 73(3).
+6.   The Commission, competent national authorities and customs authorities shall have access to the registry for the purposes of carrying out their duties pursuant to Union law.

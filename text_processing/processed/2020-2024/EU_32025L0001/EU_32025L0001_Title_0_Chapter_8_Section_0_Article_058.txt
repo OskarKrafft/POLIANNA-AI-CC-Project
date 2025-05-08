@@ -1,0 +1,28 @@
+Article 58
+Safeguard for counterparties in partial transfers
+1.   Member States shall ensure appropriate protection of the following arrangements and of the counterparties to the following arrangements:
+(a)
+security arrangements, under which a person has by way of security an actual or contingent interest in the assets or rights that are subject to transfer, irrespective of whether that interest is secured by specific assets or rights or by way of a floating charge or similar arrangement;
+(b)
+title transfer financial collateral arrangements, under which collateral to secure or cover the performance of specified obligations is provided by a transfer of full ownership of assets from the collateral provider to the collateral taker, on terms providing for the collateral taker to transfer assets where those specified obligations are performed;
+(c)
+set-off arrangements, under which two or more claims or obligations owed between the undertaking under resolution and a counterparty can be set off against each other;
+(d)
+netting arrangements;
+(e)
+unit-linked policies or other ring-fenced portfolios;
+(f)
+reinsurance agreements;
+(g)
+structured finance arrangements, including securitisations and instruments used for hedging purposes which form an integral part of the cover pool and which according to national law are secured, and involve the granting and holding of security by a party to the arrangement or a trustee, agent or nominee.
+The form of protection that is appropriate, for the classes of arrangements specified in the first subparagraph, points (a) to (g), shall be chosen in accordance with Articles 59 to 62.
+2.   Member States shall ensure that the protections specified in paragraph 1 apply in the following circumstances:
+(a)
+a resolution authority transfers some but not all of the assets, rights or liabilities of an undertaking under resolution to another entity or, in the application of a resolution tool, from a bridge undertaking or asset and liability management vehicle to another person;
+(b)
+a resolution authority exercises the powers specified in Article 43(1), point (f).
+3.   The requirement under paragraph 1 shall apply irrespective of the number of parties involved in the arrangements and of whether the arrangements:
+(a)
+are created by contract, trusts or other means, or arise automatically by operation of law;
+(b)
+arise under or are governed in whole or in part by the law of another Member State or of a third country.

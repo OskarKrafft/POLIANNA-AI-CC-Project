@@ -1,0 +1,75 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘goods’ means goods listed in Annex I;
+(2)
+‘greenhouse gases’ means greenhouse gases as specified in Annex I in relation to each of the goods listed in that Annex;
+(3)
+‘emissions’ means the release of greenhouse gases into the atmosphere from the production of goods;
+(4)
+‘importation’ means release for free circulation as provided for in Article 201 of Regulation (EU) No 952/2013;
+(5)
+‘EU ETS’ means the system for greenhouse gas emissions allowance trading within the Union in respect of activities listed in Annex I to Directive 2003/87/EC other than aviation activities;
+(6)
+‘customs territory of the Union’ means the territory defined in Article 4 of Regulation (EU) No 952/2013;
+(7)
+‘third country’ means a country or territory outside the customs territory of the Union;
+(8)
+‘continental shelf’ means a continental shelf as defined in Article 76 of the United Nations Convention on the Law of the Sea;
+(9)
+‘exclusive economic zone’ means an exclusive economic zone as defined in Article 55 of the United Nations Convention on the Law of the Sea and which has been declared as an exclusive economic zone by a Member State pursuant to that convention;
+(10)
+‘intrinsic value’ means the intrinsic value for commercial goods as defined in Article 1, point (48), of Delegated Regulation (EU) 2015/2446;
+(11)
+‘market coupling’ means the allocation of transmission capacity through a Union system which simultaneously matches orders and allocates cross-zonal capacities as set out in Regulation (EU) 2015/1222;
+(12)
+‘explicit capacity allocation’ means the allocation of cross-border transmission capacity separate from the trade of electricity;
+(13)
+‘competent authority’ means the authority designated by each Member State in accordance with Article 11;
+(14)
+‘customs authorities’ means the customs administrations of Member States as defined in Article 5, point (1), of Regulation (EU) No 952/2013;
+(15)
+‘importer’ means either the person lodging a customs declaration for release for free circulation of goods in its own name and on its own behalf or, where the customs declaration is lodged by an indirect customs representative in accordance with Article 18 of Regulation (EU) No 952/2013, the person on whose behalf such a declaration is lodged;
+(16)
+‘customs declarant’ means a declarant as defined in Article 5, point (15), of Regulation (EU) No 952/2013 lodging a customs declaration for release for free circulation of goods in its own name or the person in whose name such a declaration is lodged;
+(17)
+‘authorised CBAM declarant’ means a person authorised by a competent authority in accordance with Article 17;
+(18)
+‘person’ means a natural person, a legal person or any association of persons which is not a legal person but which is recognised under Union or national law as having the capacity to perform legal acts;
+(19)
+‘established in a Member State’ means:
+(a)
+in the case of a natural person, any person whose place of residence is in a Member State;
+(b)
+in the case of a legal person or an association of persons, any person whose registered office, central headquarters or permanent business establishment is in a Member State;
+(20)
+‘Economic Operators Registration and Identification number (EORI number)’ means the number assigned by the customs authority when the registration for customs purposes has been carried out in accordance with Article 9 of Regulation (EU) No 952/2013;
+(21)
+‘direct emissions’ means emissions from the production processes of goods, including emissions from the production of heating and cooling that is consumed during the production processes, irrespective of the location of the production of the heating or cooling;
+(22)
+‘embedded emissions’ means direct emissions released during the production of goods and indirect emissions from the production of electricity that is consumed during the production processes, calculated in accordance with the methods set out in Annex IV and further specified in the implementing acts adopted pursuant to Article 7(7);
+(23)
+‘tonne of CO2e’ means one metric tonne of CO2, or an amount of any other greenhouse gas listed in Annex I with an equivalent global warming potential;
+(24)
+‘CBAM certificate’ means a certificate in electronic format corresponding to one tonne of CO2e of embedded emissions in goods;
+(25)
+‘surrender’ means offsetting of CBAM certificates against the declared embedded emissions in imported goods or against the embedded emissions in imported goods that should have been declared;
+(26)
+‘production processes’ means the chemical and physical processes carried out to produce goods in an installation;
+(27)
+‘default value’ means a value, which is calculated or drawn from secondary data, which represents the embedded emissions in goods;
+(28)
+‘actual emissions’ means the emissions calculated based on primary data from the production processes of goods and from the production of electricity consumed during those processes as determined in accordance with the methods set out in Annex IV;
+(29)
+‘carbon price’ means the monetary amount paid in a third country, under a carbon emissions reduction scheme, in the form of a tax, levy or fee or in the form of emission allowances under a greenhouse gas emissions trading system, calculated on greenhouse gases covered by such a measure, and released during the production of goods;
+(30)
+‘installation’ means a stationary technical unit where a production process is carried out;
+(31)
+‘operator’ means any person who operates or controls an installation in a third country;
+(32)
+‘national accreditation body’ means a national accreditation body as appointed by each Member State pursuant to Article 4(1) of Regulation (EC) No 765/2008;
+(33)
+‘EU ETS allowance’ means an allowance as defined in Article 3, point (a), of Directive 2003/87/EC in respect of activities listed in Annex I to that Directive other than aviation activities;
+(34)
+‘indirect emissions’ means emissions from the production of electricity which is consumed during the production processes of goods, irrespective of the location of the production of the consumed electricity.

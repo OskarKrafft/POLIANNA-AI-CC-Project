@@ -1,0 +1,346 @@
+Article 7
+Consolidating the internal market for electronic communications
+1.   In carrying out their tasks under this Directive and the Specific Directives, national regulatory authorities shall take the utmost account of the objectives set out in Article 8, including in so far as they relate to the functioning of the internal market.
+2.   National regulatory authorities shall contribute to the development of the internal market by working with each other and with the Commission and BEREC in a transparent manner so as to ensure the consistent application, in all Member States, of the provisions of this Directive and the Specific Directives. To this end, they shall, in particular, work with the Commission and BEREC to identify the types of instruments and remedies best suited to address particular types of situations in the marketplace.
+3.   Except where otherwise provided in recommendations or guidelines adopted pursuant to Article 7b upon completion of the consultation referred to in Article 6, where a national regulatory authority intends to take a measure which:
+(a)
+falls within the scope of Articles 15 or 16 of this Directive, or Articles 5 or 8 of Directive 2002/19/EC (Access Directive); and
+(b)
+would affect trade between Member States;
+it shall make the draft measure accessible to the Commission, BEREC, and the national regulatory authorities in other Member States, at the same time, together with the reasoning on which the measure is based, in accordance with Article 5(3), and inform the Commission, BEREC and other national regulatory authorities thereof. National regulatory authorities, BEREC and the Commission may make comments to the national regulatory authority concerned only within one month. The one-month period may not be extended.
+4.   Where an intended measure covered by paragraph 3 aims at:
+(a)
+defining a relevant market which differs from those defined in the Recommendation in accordance with Article 15(1); or
+(b)
+deciding whether or not to designate an undertaking as having, either individually or jointly with others, significant market power, under Article 16(3), (4) or (5);
+and would affect trade between Member States, and the Commission has indicated to the national regulatory authority that it considers that the draft measure would create a barrier to the single market or if it has serious doubts as to its compatibility with Community law and in particular the objectives referred to in Article 8, the draft measure shall not be adopted for a further two months. This period may not be extended. The Commission shall inform other national regulatory authorities of its reservations in such a case.
+5.   Within the two-month period referred to in paragraph 4, the Commission may:
+(a)
+take a decision requiring the national regulatory authority concerned to withdraw the draft measure; and/or
+(b)
+take a decision to lift its reservations in relation to a draft measure referred to in paragraph 4.
+The Commission shall take utmost account of the opinion of BEREC before issuing a decision. The decision shall be accompanied by a detailed and objective analysis of why the Commission considers that the draft measure should not be adopted, together with specific proposals for amending the draft measure.
+6.   Where the Commission has adopted a decision in accordance with paragraph 5, requiring the national regulatory authority to withdraw a draft measure, the national regulatory authority shall amend or withdraw the draft measure within six months of the date of the Commission's decision. When the draft measure is amended, the national regulatory authority shall undertake a public consultation in accordance with the procedures referred to in Article 6, and shall re-notify the amended draft measure to the Commission in accordance with the provisions of paragraph 3.
+7.   The national regulatory authority concerned shall take the utmost account of comments of other national regulatory authorities, BEREC and the Commission and may, except in cases covered by paragraphs 4 and 5(a), adopt the resulting draft measure and, where it does so, shall communicate it to the Commission.
+8.   The national regulatory authority shall communicate to the Commission and BEREC all adopted final measures which fall under Article 7(3)(a) and (b).
+9.   In exceptional circumstances, where a national regulatory authority considers that there is an urgent need to act, in order to safeguard competition and protect the interests of users, by way of derogation from the procedure set out in paragraphs 3 and 4, it may immediately adopt proportionate and provisional measures. It shall, without delay, communicate those measures, with full reasons, to the Commission, the other national regulatory authority, and BEREC. A decision by the national regulatory authority to render such measures permanent or extend the time for which they are applicable shall be subject to the provisions of paragraphs 3 and 4.’;
+7)
+the following Articles shall be inserted:
+‘Article 7a
+Procedure for the consistent application of remedies
+1.   Where an intended measure covered by Article 7(3) aims at imposing, amending or withdrawing an obligation on an operator in application of Article 16 in conjunction with Article 5 and Articles 9 to 13 of Directive 2002/19/EC (Access Directive), and Article 17 of Directive 2002/22/EC (Universal Service Directive), the Commission may, within the period of one month provided for by Article 7(3) of this Directive, notify the national regulatory authority concerned and BEREC of its reasons for considering that the draft measure would create a barrier to the single market or its serious doubts as to its compatibility with Community law. In such a case, the draft measure shall not be adopted for a further three months following the Commission's notification.
+In the absence of such notification, the national regulatory authority concerned may adopt the draft measure, taking utmost account of any comments made by the Commission, BEREC or any other national regulatory authority.
+2.   Within the three month period referred to in paragraph 1, the Commission, BEREC and the national regulatory authority concerned shall cooperate closely to identify the most appropriate and effective measure in the light of the objectives laid down in Article 8, whilst taking due account of the views of market participants and the need to ensure the development of consistent regulatory practice.
+3.   Within six weeks from the beginning of the three month period referred to in paragraph 1, BEREC shall, acting by a majority of its component members, issue an opinion on the Commission's notification referred to in paragraph 1, indicating whether it considers that the draft measure should be amended or withdrawn and, where appropriate, provide specific proposals to that end. This opinion shall be reasoned and made public.
+4.   If in its opinion, BEREC shares the serious doubts of the Commission, it shall cooperate closely with the national regulatory authority concerned to identify the most appropriate and effective measure. Before the end of the three month period referred in paragraph 1, the national regulatory authority may:
+(a)
+amend or withdraw its draft measure taking utmost account of the Commission's notification referred to in paragraph 1 and of BEREC's opinion and advice;
+(b)
+maintain its draft measure.
+5.   Where BEREC does not share the serious doubts of the Commission or does not issue an opinion, or where the national regulatory authority amends or maintains its draft measure pursuant to paragraph 4, the Commission may, within one month following the end of the three month period referred to in paragraph 1 and taking utmost account of the opinion of BEREC if any:
+(a)
+issue a recommendation requiring the national regulatory authority concerned to amend or withdraw the draft measure, including specific proposals to that end and providing reasons justifying its recommendation, in particular where BEREC does not share the serious doubts of the Commission;
+(b)
+take a decision to lift its reservations indicated in accordance with paragraph 1.
+6.   Within one month of the Commission issuing the recommendation in accordance with paragraph 5(a) or lifting its reservations in accordance with paragraph 5(b), the national regulatory authority concerned shall communicate to the Commission and BEREC the adopted final measure.
+This period may be extended to allow the national regulatory authority to undertake a public consultation in accordance with Article 6.
+7.   Where the national regulatory authority decides not to amend or withdraw the draft measure on the basis of the recommendation issued under paragraph 5(a), it shall provide a reasoned justification.
+8.   The national regulatory authority may withdraw the proposed draft measure at any stage of the procedure.
+Article 7b
+Implementing provisions
+1.   After public consultation and consultation with national regulatory authorities and taking utmost account of the opinion of BEREC, the Commission may adopt recommendations and/or guidelines in relation to Article 7 that define the form, content and level of detail to be given in the notifications required in accordance with Article 7(3), the circumstances in which notifications would not be required, and the calculation of the time limits.
+2.   The measures referred to in paragraph 1 shall be adopted in accordance with the advisory procedure referred to in Article 22(2).’;
+8)
+Article 8 shall be amended as follows:
+(a)
+in paragraph 1, the second subparagraph shall be replaced by the following:
+
+                                          ‘Unless otherwise provided for in Article 9 regarding radio frequencies, Member States shall take the utmost account of the desirability of making regulations technologically neutral and shall ensure that, in carrying out the regulatory tasks specified in this Directive and the Specific Directives, in particular those designed to ensure effective competition, national regulatory authorities do likewise.’;
+(b)
+in paragraph 2, points (a) and (b) shall be replaced by the following:
+‘(a)
+ensuring that users, including disabled users, elderly users, and users with special social needs derive maximum benefit in terms of choice, price, and quality;
+(b)
+ensuring that there is no distortion or restriction of competition in the electronic communications sector, including the transmission of content;’;
+(c)
+in paragraph 2, point (c) shall be deleted;
+(d)
+in paragraph 3, point (c) shall be deleted;
+(e)
+in paragraph 3, point (d) shall be replaced by the following:
+‘(d)
+cooperating with each other, with the Commission and BEREC so as to ensure the development of consistent regulatory practice and the consistent application of this Directive and the Specific Directives.’;
+(f)
+in paragraph 4, point (e) shall be replaced by the following:
+‘(e)
+addressing the needs of specific social groups, in particular disabled users, elderly users and users with special social needs;’;
+(g)
+in paragraph 4, the following point shall be added:
+‘(g)
+promoting the ability of end-users to access and distribute information or run applications and services of their choice;’;
+(h)
+the following paragraph shall be added:
+‘5.   The national regulatory authorities shall, in pursuit of the policy objectives referred to in paragraphs 2, 3 and 4, apply objective, transparent, non-discriminatory and proportionate regulatory principles by, inter alia:
+(a)
+promoting regulatory predictability by ensuring a consistent regulatory approach over appropriate review periods;
+(b)
+ensuring that, in similar circumstances, there is no discrimination in the treatment of undertakings providing electronic communications networks and services;
+(c)
+safeguarding competition to the benefit of consumers and promoting, where appropriate, infrastructure-based competition;
+(d)
+promoting efficient investment and innovation in new and enhanced infrastructures, including by ensuring that any access obligation takes appropriate account of the risk incurred by the investing undertakings and by permitting various cooperative arrangements between investors and parties seeking access to diversify the risk of investment, whilst ensuring that competition in the market and the principle of non-discrimination are preserved;
+(e)
+taking due account of the variety of conditions relating to competition and consumers that exist in the various geographic areas within a Member State;
+(f)
+imposing ex-ante regulatory obligations only where there is no effective and sustainable competition and relaxing or lifting such obligations as soon as that condition is fulfilled.’;
+9)
+the following Article shall be inserted:
+‘Article 8a
+Strategic planning and coordination of radio spectrum policy
+1.   Member States shall cooperate with each other and with the Commission in the strategic planning, coordination and harmonisation of the use of radio spectrum in the European Community. To this end, they shall take into consideration, inter alia, the economic, safety, health, public interest, freedom of expression, cultural, scientific, social and technical aspects of EU policies as well as the various interests of radio spectrum user communities with the aim of optimising the use of radio spectrum and avoiding harmful interference.
+2.   By cooperating with each other and with the Commission, Member States shall promote the coordination of radio spectrum policy approaches in the European Community and, where appropriate, harmonised conditions with regard to the availability and efficient use of radio spectrum necessary for the establishment and functioning of the internal market in electronic communications.
+3.   The Commission, taking utmost account of the opinion of the Radio Spectrum Policy Group (RSPG), established by Commission Decision 2002/622/EC of 26 July 2002 establishing a Radio Spectrum Policy Group (*3), may submit legislative proposals to the European Parliament and the Council for establishing multiannual radio spectrum policy programmes. Such programmes shall set out the policy orientations and objectives for the strategic planning and harmonisation of the use of radio spectrum in accordance with the provisions of this Directive and the Specific Directives.
+4.   Where necessary to ensure the effective coordination of the interests of the European Community in international organisations competent in radio spectrum matters, the Commission, taking utmost account of the opinion of the RSPG, may propose common policy objectives to the European Parliament and the Council.
+
+(*3)  
+                                          OJ L 198, 27.7.2002, p. 49.’;"
+                        
+10)
+Article 9 shall be replaced by the following:
+‘Article 9
+Management of radio frequencies for electronic communications services
+1.   Taking due account of the fact that radio frequencies are a public good that has an important social, cultural and economic value, Member States shall ensure the effective management of radio frequencies for electronic communication services in their territory in accordance with Articles 8 and 8a. They shall ensure that spectrum allocation used for electronic communications services and issuing general authorisations or individual rights of use of such radio frequencies by competent national authorities are based on objective, transparent, non-discriminatory and proportionate criteria.
+In applying this Article, Member States shall respect relevant international agreements, including the ITU Radio Regulations, and may take public policy considerations into account.
+2.   Member States shall promote the harmonisation of use of radio frequencies across the Community, consistent with the need to ensure effective and efficient use thereof and in pursuit of benefits for the consumer such as economies of scale and interoperability of services. In so doing, they shall act in accordance with Article 8a and with the Decision No 676/2002/EC (Radio Spectrum Decision).
+3.   Unless otherwise provided in the second subparagraph, Member States shall ensure that all types of technology used for electronic communications services may be used in the radio frequency bands, declared available for electronic communications services in their National Frequency Allocation Plan in accordance with Community law.
+Member States may, however, provide for proportionate and non-discriminatory restrictions to the types of radio network or wireless access technology used for electronic communications services where this is necessary to:
+(a)
+avoid harmful interference;
+(b)
+protect public health against electromagnetic fields;
+(c)
+ensure technical quality of service;
+(d)
+ensure maximisation of radio frequency sharing;
+(e)
+safeguard efficient use of spectrum; or
+(f)
+ensure the fulfilment of a general interest objective in accordance with paragraph 4.
+4.   Unless otherwise provided in the second subparagraph, Member States shall ensure that all types of electronic communications services may be provided in the radio frequency bands, declared available for electronic communications services in their National Frequency Allocation Plan in accordance with Community law. Member States may, however, provide for proportionate and non-discriminatory restrictions to the types of electronic communications services to be provided, including, where necessary, to fulfil a requirement under the ITU Radio Regulations.
+Measures that require an electronic communications service to be provided in a specific band available for electronic communications services shall be justified in order to ensure the fulfilment of a general interest objective as defined by Member States in conformity with Community law, such as, and not limited to:
+(a)
+safety of life;
+(b)
+the promotion of social, regional or territorial cohesion;
+(c)
+the avoidance of inefficient use of radio frequencies; or
+(d)
+the promotion of cultural and linguistic diversity and media pluralism, for example by the provision of radio and television broadcasting services.
+A measure which prohibits the provision of any other electronic communications service in a specific band may only be provided for where justified by the need to protect safety of life services. Member States may, exceptionally, also extend such a measure in order to fulfil other general interest objectives as defined by Member States in accordance with Community law.
+5.   Member States shall regularly review the necessity of the restrictions referred to in paragraphs 3 and 4, and shall make the results of these reviews public.
+6.   Paragraphs 3 and 4 shall apply to spectrum allocated to be used for electronic communications services, general authorisations issued and individual rights of use of radio frequencies granted after 25 May 2011.
+Spectrum allocations, general authorisations and individual rights of use which existed by 25 May 2011 shall be subject to Article 9a.
+7.   Without prejudice to the provisions of the Specific Directives and taking into account the relevant national circumstances, Member States may lay down rules in order to prevent spectrum hoarding, in particular by setting out strict deadlines for the effective exploitation of the rights of use by the holder of the rights and by applying penalties, including financial penalties or the withdrawal of the rights of use in case of non-compliance with the deadlines. These rules shall be established and applied in a proportionate, non-discriminatory and transparent manner.’;
+11)
+the following Articles shall be inserted:
+‘Article 9a
+Review of restrictions on existing rights
+1.   For a period of five years starting from 25 May 2011, Member States may allow holders of rights to use radio frequencies which were granted before that date and which will remain valid for a period of not less that five years after that date, to submit an application to the competent national authority for a reassessment of the restrictions on their rights in accordance with Article 9(3) and (4).
+Before adopting its decision, the competent national authority shall notify the right holder of its reassessment of the restrictions, indicating the extent of the right after reassessment, and shall allow him a reasonable time limit to withdraw his application.
+If the right holder withdraws his application, the right shall remain unchanged until its expiry or until the end of the five-year period, whichever is the earlier date.
+2.   After the five-year period referred to in paragraph 1, Member States shall take all appropriate measures to ensure that Article 9(3) and (4) apply to all remaining general authorisations or individual rights of use and spectrum allocations used for electronic communications services which existed on 25 May 2011.
+3.   In applying this Article, Member States shall take appropriate measures to promote fair competition.
+4.   Measures adopted in applying this Article do not constitute the granting of new rights of use and therefore are not subject to the relevant provisions of Article 5(2) of Directive 2002/20/EC (Authorisation Directive).
+Article 9b
+Transfer or lease of individual rights to use radio frequencies
+1.   Member States shall ensure that undertakings may transfer or lease to other undertakings in accordance with conditions attached to the rights of use of radio frequencies and in accordance with national procedures individual rights to use radio frequencies in the bands for which this is provided in the implementing measures adopted pursuant to paragraph 3.
+In other bands, Member States may also make provision for undertakings to transfer or lease individual rights to use radio frequencies to other undertakings in accordance with national procedures.
+Conditions attached to individual rights to use radio frequencies shall continue to apply after the transfer or lease, unless otherwise specified by the competent national authority.
+Member States may also determine that the provisions of this paragraph shall not apply where the undertaking's individual right to use radio frequencies was initially obtained free of charge.
+2.   Member States shall ensure that an undertaking's intention to transfer rights to use radio frequencies, as well as the effective transfer thereof is notified in accordance with national procedures to the competent national authority responsible for granting individual rights of use and is made public. Where radio frequency use has been harmonised through the application of the Decision No 676/2002/EC (Radio Spectrum Decision) or other Community measures, any such transfer shall comply with such harmonised use.
+3.   The Commission may adopt appropriate implementing measures to identify the bands for which rights to use radio frequencies may be transferred or leased between undertakings. These measures shall not cover frequencies which are used for broadcasting.
+These technical implementing measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).’;
+12)
+Article 10 shall be amended as follows:
+(a)
+paragraphs 1 and 2 shall be replaced by the following:
+‘1.   Member States shall ensure that national regulatory authorities control the granting of rights of use of all national numbering resources and the management of the national numbering plans. Member States shall ensure that adequate numbers and numbering ranges are provided for all publicly available electronic communications services. National regulatory authorities shall establish objective, transparent and non-discriminatory procedures for granting rights of use for national numbering resources.
+2.   National regulatory authorities shall ensure that national numbering plans and procedures are applied in a manner that gives equal treatment to all providers of publicly available electronic communications services. In particular, Member States shall ensure that an undertaking to which the right of use for a range of numbers has been granted does not discriminate against other providers of electronic communications services as regards the number sequences used to give access to their services.’;
+(b)
+paragraph 4 shall be replaced by the following:
+‘4.   Member States shall support the harmonisation of specific numbers or numbering ranges within the Community where it promotes both the functioning of the internal market and the development of pan-European services. The Commission may take appropriate technical implementing measures on this matter.
+These measures designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).’;
+13)
+Article 11 shall be amended as follows:
+(a)
+paragraph 1, second subparagraph, first indent shall be replaced by the following:
+‘—
+acts on the basis of simple, efficient, transparent and publicly available procedures, applied without discrimination and without delay, and in any event makes its decision within six months of the application, except in cases of expropriation, and’;
+(b)
+paragraph 2 shall be replaced by the following:
+‘2.   Member States shall ensure that where public or local authorities retain ownership or control of undertakings operating public electronic communications networks and/or publicly available electronic communications services, there is an effective structural separation of the function responsible for granting the rights referred to in paragraph 1 from the activities associated with ownership or control.’;
+14)
+Article 12 shall be replaced by the following:
+‘Article 12
+Co-location and sharing of network elements and associated facilities for providers of electronic communications networks
+1.   Where an undertaking providing electronic communications networks has the right under national legislation to install facilities on, over or under public or private property, or may take advantage of a procedure for the expropriation or use of property, national regulatory authorities shall, taking full account of the principle of proportionality, be able to impose the sharing of such facilities or property, including buildings, entries to buildings, building wiring, masts, antennae, towers and other supporting constructions, ducts, conduits, manholes, cabinets.
+2.   Member States may require holders of the rights referred to in paragraph 1 to share facilities or property (including physical co-location) or take measures to facilitate the coordination of public works in order to protect the environment, public health, public security or to meet town and country planning objectives and only after an appropriate period of public consultation, during which all interested parties shall be given an opportunity to express their views. Such sharing or coordination arrangements may include rules for apportioning the costs of facility or property sharing.
+3.   Member States shall ensure that national authorities, after an appropriate period of public consultation during which all interested parties are given the opportunity to state their views, also have the power to impose obligations in relation to the sharing of wiring inside buildings or up to the first concentration or distribution point where this is located outside the building, on the holders of the rights referred to in paragraph 1 and/or on the owner of such wiring, where this is justified on the grounds that duplication of such infrastructure would be economically inefficient or physically impracticable. Such sharing or coordination arrangements may include rules for apportioning the costs of facility or property sharing adjusted for risk where appropriate.
+4.   Member States shall ensure that competent national authorities may require undertakings to provide the necessary information, if requested by the competent authorities, in order for these authorities, in conjunction with national regulatory authorities, to be able to establish a detailed inventory of the nature, availability and geographical location of the facilities referred to in paragraph 1 and make it available to interested parties.
+5.   Measures taken by a national regulatory authority in accordance with this Article shall be objective, transparent, non-discriminatory, and proportionate. Where relevant, these measures shall be carried out in coordination with local authorities.’;
+15)
+the following chapter shall be inserted:
+
+                                       ‘CHAPTER IIIa
+SECURITY AND INTEGRITY OF NETWORKS AND SERVICES
+Article 13a
+Security and integrity
+1.   Member States shall ensure that undertakings providing public communications networks or publicly available electronic communications services take appropriate technical and organisational measures to appropriately manage the risks posed to security of networks and services. Having regard to the state of the art, these measures shall ensure a level of security appropriate to the risk presented. In particular, measures shall be taken to prevent and minimise the impact of security incidents on users and interconnected networks.
+2.   Member States shall ensure that undertakings providing public communications networks take all appropriate steps to guarantee the integrity of their networks, and thus ensure the continuity of supply of services provided over those networks.
+3.   Member States shall ensure that undertakings providing public communications networks or publicly available electronic communications services notify the competent national regulatory authority of a breach of security or loss of integrity that has had a significant impact on the operation of networks or services.
+Where appropriate, the national regulatory authority concerned shall inform the national regulatory authorities in other Member States and the European Network and Information Security Agency (ENISA). The national regulatory authority concerned may inform the public or require the undertakings to do so, where it determines that disclosure of the breach is in the public interest.
+Once a year, the national regulatory authority concerned shall submit a summary report to the Commission and ENISA on the notifications received and the action taken in accordance with this paragraph.
+4.   The Commission, taking the utmost account of the opinion of ENISA, may adopt appropriate technical implementing measures with a view to harmonising the measures referred to in paragraphs 1, 2, and 3, including measures defining the circumstances, format and procedures applicable to notification requirements. These technical implementing measures shall be based on European and international standards to the greatest extent possible, and shall not prevent Member States from adopting additional requirements in order to pursue the objectives set out in paragraphs 1 and 2.
+These implementing measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).
+Article 13b
+Implementation and enforcement
+1.   Member States shall ensure that in order to implement Article 13a, competent national regulatory authorities have the power to issue binding instructions, including those regarding time limits for implementation, to undertakings providing public communications networks or publicly available electronic communications services.
+2.   Member States shall ensure that competent national regulatory authorities have the power to require undertakings providing public communications networks or publicly available electronic communications services to:
+(a)
+provide information needed to assess the security and/or integrity of their services and networks, including documented security policies; and
+(b)
+submit to a security audit carried out by a qualified independent body or a competent national authority and make the results thereof available to the national regulatory authority. The cost of the audit shall be paid by the undertaking.
+3.   Member States shall ensure that national regulatory authorities have all the powers necessary to investigate cases of non-compliance and the effects thereof on the security and integrity of the networks.
+4.   These provisions shall be without prejudice to Article 3 of this Directive.’;
+16)
+in Article 14, paragraph 3 shall be replaced by the following:
+‘3.   Where an undertaking has significant market power on a specific market (the first market), it may also be designated as having significant market power on a closely related market (the second market), where the links between the two markets are such as to allow the market power held in the first market to be leveraged into the second market, thereby strengthening the market power of the undertaking. Consequently, remedies aimed at preventing such leverage may be applied in the second market pursuant to Articles 9, 10, 11 and 13 of Directive 2002/19/EC (Access Directive), and where such remedies prove to be insufficient, remedies pursuant to Article 17 of Directive 2002/22/EC (Universal Service Directive) may be imposed.’;
+17)
+Article 15 shall be amended as follows:
+(a)
+the heading shall be replaced by the following:
+‘Procedure for the identification and definition of markets’;
+(b)
+in paragraph 1, the first subparagraph shall be replaced by the following:
+‘1.   After public consultation including with national regulatory authorities and taking the utmost account of the opinion of BEREC, the Commission shall, in accordance with the advisory procedure referred to in Article 22(2), adopt a Recommendation on Relevant Product and Service Markets (the Recommendation). The Recommendation shall identify those product and service markets within the electronic communications sector the characteristics of which may be such as to justify the imposition of regulatory obligations set out in the Specific Directives, without prejudice to markets that may be defined in specific cases under competition law. The Commission shall define markets in accordance with the principles of competition law.’;
+(c)
+paragraph 3 shall be replaced by the following:
+‘3.   National regulatory authorities shall, taking the utmost account of the Recommendation and the Guidelines, define relevant markets appropriate to national circumstances, in particular relevant geographic markets within their territory, in accordance with the principles of competition law. National regulatory authorities shall follow the procedures referred to in Articles 6 and 7 before defining the markets that differ from those identified in the Recommendation.’;
+(d)
+paragraph 4 shall be replaced by the following:
+‘4.   After consultation including with national regulatory authorities the Commission may, taking the utmost account of the opinion of BEREC, adopt a Decision identifying transnational markets, acting in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).’;
+18)
+Article 16 shall be amended as follows:
+(a)
+paragraphs 1 and 2 shall be replaced by the following:
+‘1.   National regulatory authorities shall carry out an analysis of the relevant markets taking into account the markets identified in the Recommendation, and taking the utmost account of the Guidelines. Member States shall ensure that this analysis is carried out, where appropriate, in collaboration with the national competition authorities.
+2.   Where a national regulatory authority is required under paragraphs 3 or 4 of this Article, Article 17 of Directive 2002/22/EC (Universal Service Directive), or Article 8 of Directive 2002/19/EC (Access Directive) to determine whether to impose, maintain, amend or withdraw obligations on undertakings, it shall determine on the basis of its market analysis referred to in paragraph 1 of this Article whether a relevant market is effectively competitive.’;
+(b)
+paragraphs 4, 5 and 6 shall be replaced by the following:
+‘4.   Where a national regulatory authority determines that a relevant market is not effectively competitive, it shall identify undertakings which individually or jointly have a significant market power on that market in accordance with Article 14 and the national regulatory authority shall on such undertakings impose appropriate specific regulatory obligations referred to in paragraph 2 of this Article or maintain or amend such obligations where they already exist.
+5.   In the case of transnational markets identified in the Decision referred to in Article 15(4), the national regulatory authorities concerned shall jointly conduct the market analysis taking the utmost account of the Guidelines and, in a concerted fashion, shall decide on any imposition, maintenance, amendment or withdrawal of regulatory obligations referred to in paragraph 2 of this Article.
+6.   Measures taken in accordance with the provisions of paragraphs 3 and 4 shall be subject to the procedures referred to in Articles 6 and 7. National regulatory authorities shall carry out an analysis of the relevant market and notify the corresponding draft measure in accordance with Article 7:
+(a)
+within three years from the adoption of a previous measure relating to that market. However, exceptionally, that period may be extended for up to three additional years, where the national regulatory authority has notified a reasoned proposed extension to the Commission and the Commission has not objected within one month of the notified extension;
+(b)
+within two years from the adoption of a revised Recommendation on relevant markets, for markets not previously notified to the Commission; or
+(c)
+within two years from their accession, for Member States which have newly joined the Union.’;
+(c)
+the following paragraph shall be added:
+‘7.   Where a national regulatory authority has not completed its analysis of a relevant market identified in the Recommendation within the time limit laid down in paragraph 6, BEREC shall, upon request, provide assistance to the national regulatory authority concerned in completing the analysis of the specific market and the specific obligations to be imposed. With this assistance, the national regulatory authority concerned shall within six months notify the draft measure to the Commission in accordance with Article 7.’;
+19)
+Article 17 shall be amended as follows:
+(a)
+in the first sentence of paragraph 1, the word ‘standards’ shall be replaced by ‘non-compulsory standards’;
+(b)
+the third subparagraph of paragraph 2 shall be replaced by the following:
+
+                                          ‘In the absence of such standards and/or specifications, Member States shall encourage the implementation of international standards or recommendations adopted by the International Telecommunication Union (ITU), the European Conference of Postal and Telecommunications Administrations (CEPT), the International Organisation for Standardisation (ISO) and the International Electrotechnical Commission (IEC).’;
+(c)
+paragraphs 4 and 5 shall be replaced by the following:
+‘4.   Where the Commission intends to make the implementation of certain standards and/or specifications compulsory, it shall publish a notice in the Official Journal of the European Union and invite public comment by all parties concerned. The Commission shall take appropriate implementing measures and make implementation of the relevant standards compulsory by making reference to them as compulsory standards in the list of standards and/or specifications published in the Official Journal of the European Union.
+5.   Where the Commission considers that standards and/or specifications referred to in paragraph 1 no longer contribute to the provision of harmonised electronic communications services, or that they no longer meet consumers' needs or are hampering technological development, it shall, acting in accordance with the advisory procedure referred to in Article 22(2), remove them from the list of standards and/or specifications referred to in paragraph 1.’;
+(d)
+in paragraph 6, the words ‘acting in accordance with the procedure referred to in Article 22(3), remove them from this list of standards and/or specifications referred to in paragraph 1’ shall be replaced by the words ‘take the appropriate implementing measures and remove those standards and/or specifications from the list of standards and/or specifications referred to in paragraph 1’;
+(e)
+the following paragraph shall be inserted:
+‘6a.   The implementing measures designed to amend non-essential elements of this Directive by supplementing it, referred to in paragraphs 4 and 6, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).’;
+20)
+Article 18 shall be amended as follows:
+(a)
+in paragraph 1, the following point (c) shall be added:
+‘(c)
+providers of digital TV services and equipment to cooperate in the provision of interoperable TV services for disabled end-users.’;
+(b)
+paragraph 3 shall be deleted;
+21)
+Article 19 shall be replaced by the following:
+‘Article 19
+Harmonisation procedures
+1.   Without prejudice to Article 9 of this Directive and Articles 6 and 8 of Directive 2002/20/EC (Authorisation Directive), where the Commission finds that divergences in the implementation by the national regulatory authorities of the regulatory tasks specified in this Directive and the Specific Directives may create a barrier to the internal market, the Commission may, taking the utmost account of the opinion of BEREC, issue a recommendation or a decision on the harmonised application of the provisions in this Directive and the Specific Directives in order to further the achievement of the objectives set out in Article 8.
+2.   Where the Commission issues a recommendation pursuant to paragraph 1, it shall act in accordance with the advisory procedure referred to in Article 22(2).
+Member States shall ensure that national regulatory authorities take the utmost account of those recommendations in carrying out their tasks. Where a national regulatory authority chooses not to follow a recommendation, it shall inform the Commission, giving the reasons for its position.
+3.   The decisions adopted pursuant to paragraph 1 may include only the identification of a harmonised or coordinated approach for the purposes of addressing the following matters:
+(a)
+the inconsistent implementation of general regulatory approaches by national regulatory authorities on the regulation of electronic communication markets in the application of Articles 15 and 16, where it creates a barrier to the internal market. Such decisions shall not refer to specific notifications issued by the national regulatory authorities pursuant to Article 7a;
+In such a case, the Commission shall propose a draft decision only:
+—
+after at least two years following the adoption of a Commission Recommendation dealing with the same matter, and
+—
+taking utmost account of an opinion from BEREC on the case for adoption of such a decision, which shall be provided by BEREC within three months of the Commission's request;
+(b)
+numbering, including number ranges, portability of numbers and identifiers, number and address translation systems, and access to 112 emergency services.
+4.   The decision referred to in paragraph 1, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3).
+5.   BEREC may on its own initiative advise the Commission on whether a measure should be adopted pursuant to paragraph 1.’;
+22)
+Article 20(1) shall be replaced by the following:
+‘1.   In the event of a dispute arising in connection with existing obligations under this Directive or the Specific Directives between undertakings providing electronic communications networks or services in a Member State, or between such undertakings and other undertakings in the Member State benefiting from obligations of access and/or interconnection arising under this Directive or the Specific Directives, the national regulatory authority concerned shall, at the request of either party, and without prejudice to the provisions of paragraph 2, issue a binding decision to resolve the dispute in the shortest possible time frame and in any case within four months, except in exceptional circumstances. The Member State concerned shall require that all parties cooperate fully with the national regulatory authority.’;
+23)
+Article 21 shall be replaced by the following:
+‘Article 21
+Resolution of cross-border disputes
+1.   In the event of a cross-border dispute arising under this Directive or the Specific Directives between parties in different Member States, and where the dispute lies within the competence of national regulatory authorities from more than one Member State, the provisions set out in paragraphs 2, 3 and 4 shall be applicable.
+2.   Any party may refer the dispute to the national regulatory authorities concerned. The competent national regulatory authorities shall coordinate their efforts and shall have the right to consult BEREC in order to bring about a consistent resolution of the dispute, in accordance with the objectives set out in Article 8.
+Any obligations imposed by the national regulatory authorities on undertakings as part of the resolution of a dispute shall comply with this Directive and the Specific Directives.
+Any national regulatory authority which has competence in such a dispute may request BEREC to adopt an opinion as to the action to be taken in accordance with the provisions of the Framework Directive and/or the Specific Directives to resolve the dispute.
+Where such a request has been made to BEREC, any national regulatory authority with competence in any aspect of the dispute shall await BEREC's opinion before taking action to resolve the dispute. This shall not preclude national regulatory authorities from taking urgent measures where necessary.
+Any obligations imposed on an undertaking by the national regulatory authority in resolving a dispute shall respect the provisions of this Directive or the Specific Directives and take the utmost account of the opinion adopted by BEREC.
+3.   Member States may make provision for the competent national regulatory authorities jointly to decline to resolve a dispute where other mechanisms, including mediation, exist and would better contribute to resolving of the dispute in a timely manner in accordance with the provisions of Article 8.
+They shall inform the parties without delay. If after four months the dispute is not resolved, where the dispute has not been brought before the courts by the party seeking redress and if either party requests it, the national regulatory authorities shall coordinate their efforts in order to resolve the dispute, in accordance with the provisions set out in Article 8 and taking the utmost account of any opinion adopted by BEREC.
+4.   The procedure referred to in paragraph 2 shall not preclude either party from bringing an action before the courts.’;
+24)
+the following Article shall be inserted:
+‘Article 21a
+Penalties
+Member States shall lay down rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and the Specific Directives and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be appropriate, effective, proportionate and dissuasive. The Member States shall notify those provisions to the Commission by 25 May 2011 and shall notify it without delay of any subsequent amendment affecting them.’;
+25)
+Article 22 shall be amended as follows:
+(a)
+paragraph 3 shall be replaced by the following:
+‘3.   Where reference is made to this paragraph, Article 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.’;
+(b)
+paragraph 4 shall be deleted;
+26)
+Article 27 shall be deleted;
+27)
+Annex I shall be deleted;
+28)
+Annex II shall be replaced by the following:
+
+                                       ‘ANNEX II
+Criteria to be used by national regulatory authorities in making an assessment of joint dominance in accordance with the second subparagraph of Article 14(2)
+Two or more undertakings can be found to be in a joint dominant position within the meaning of Article 14 if, even in the absence of structural or other links between them, they operate in a market which is characterised by a lack of effective competition and in which no single undertaking has significant market power. In accordance with the applicable Community law and with the case-law of the Court of Justice of the European Communities on joint dominance, this is likely to be the case where the market is concentrated and exhibits a number of appropriate characteristics of which the following may be the most relevant in the context of electronic communications:
+—
+low elasticity of demand,
+—
+similar market shares,
+—
+high legal or economic barriers to entry,
+—
+vertical integration with collective refusal to supply,
+—
+lack of countervailing buyer power,
+—
+lack of potential competition.
+The above is an indicative list and is not exhaustive, nor are the criteria cumulative. Rather, the list is intended to illustrate only the type of evidence that could be used to support assertions concerning the existence of joint dominance.’.

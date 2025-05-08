@@ -1,0 +1,24 @@
+Article 53
+Copernicus data and Copernicus information policy
+1.   Copernicus data and Copernicus information shall be provided to Copernicus users under the following free, full and open data policy:
+(a)
+Copernicus users may, on a free and worldwide basis, reproduce, distribute, communicate to the public, adapt, and modify all Copernicus data and Copernicus information and combine them with other data and information;
+(b)
+the free, full and open data policy shall include the following limitations:
+(i)
+the formats, timeliness and dissemination characteristics of Copernicus data and Copernicus information shall be pre-defined;
+(ii)
+the licensing conditions of Copernicus third-party data and information used in the production of Copernicus information shall be abided by where applicable;
+(iii)
+the security limitations resulting from the general security requirements referred to in Article 34(2);
+(iv)
+the protection against the risk of disruption of the system producing or making available Copernicus data and Copernicus information and of the data itself shall be ensured;
+(v)
+the protection of reliable access to Copernicus data and Copernicus information for European users shall be ensured.
+2.   The Commission shall adopt delegated acts in accordance with Article 105 to supplement the specific provisions set out in paragraph 1 of this Article as regards the specifications and conditions and procedures for the access to and use of Copernicus data and Copernicus information.
+3.   Where imperative grounds of urgency so require, the procedure provided for in Article 106 shall apply to delegated acts adopted pursuant to this Article.
+4.   The Commission shall issue licences and notices for access and use of Copernicus data and Copernicus information, including attribution clauses, in compliance with the Copernicus data policy as set out in this Regulation and applicable delegated acts adopted pursuant to paragraph 2.
+TITLE VIII
+
+OTHER COMPONENTS OF THE PROGRAMME
+

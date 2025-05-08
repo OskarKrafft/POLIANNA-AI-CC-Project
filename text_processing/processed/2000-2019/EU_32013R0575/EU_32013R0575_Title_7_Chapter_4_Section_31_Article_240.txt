@@ -1,0 +1,8 @@
+Article 240
+First-to-default credit derivatives
+Where an institution obtains credit protection for a number of exposures under terms that the first default among the exposures shall trigger payment and that this credit event shall terminate the contract, the institution may amend the calculation of the risk-weighted exposure amount and, as relevant, the expected loss amount of the exposure which would, in the absence of the credit protection, produce the lowest risk weighted exposure amount in accordance with this Chapter:
+(a)
+for institutions using the Standardised Approach, the risk-weighted exposure amount shall be that calculated under the Standardised Approach;
+(b)
+for institutions using the IRB Approach, the risk-weighted exposure amount shall be the sum of the risk-weighted exposure amount calculated under the IRB Approach and 12.5 times the expected loss amount.
+The treatment set out in this Article applies only where the exposure value is less than or equal to the value of the credit protection.

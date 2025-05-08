@@ -1,0 +1,41 @@
+Article 17
+Requirements for credit institutions
+1.   An asset-referenced token issued by a credit institution may be offered to the public or admitted to trading if the credit institution:
+(a)
+draws up a crypto-asset white paper as referred to in Article 19 for the asset-referenced token, submits that crypto-asset white paper for approval by the competent authority of its home Member State in accordance with the procedure set out in the regulatory technical standards adopted pursuant to paragraph 8 of this Article, and has the crypto-asset white paper approved by the competent authority;
+(b)
+notifies the respective competent authority, at least 90 working days before issuing the asset-referenced token for the first time, by providing it with the following information:
+(i)
+a programme of operations, setting out the business model that the credit institution intends to follow;
+(ii)
+a legal opinion that the asset-referenced token does not qualify as either of the following:
+—
+a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4);
+—
+an e-money token;
+(iii)
+a detailed description of the governance arrangements referred to in Article 34(1);
+(iv)
+the policies and procedures listed in Article 34(5), first subparagraph;
+(v)
+a description of the contractual arrangements with third-party entities as referred to in Article 34(5), second subparagraph;
+(vi)
+a description of the business continuity policy referred to in Article 34(9);
+(vii)
+a description of the internal control mechanisms and risk management procedures referred to in Article 34(10);
+(viii)
+a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data referred to in Article 34(11).
+2.   A credit institution that has previously notified the competent authority in accordance with paragraph 1, point (b), when issuing another asset-referenced token shall not be required to submit any information that was previously submitted by it to the competent authority where such information would be identical. When submitting the information listed in paragraph 1, point (b), the credit institution shall expressly confirm that any information not resubmitted is still up-to-date.
+3.   The competent authority receiving a notification referred to in paragraph 1, point (b), shall, within 20 working days of receipt of the information listed therein, assess whether the information required under that point has been provided. Where the competent authority concludes that a notification is not complete because information is missing, it shall immediately inform the notifying credit institution thereof and set a deadline by which that credit institution is required to provide the missing information.
+The deadline for providing any missing information shall not exceed 20 working days from the date of the request. Until the expiry of that deadline, the period set by paragraph 1, point (b), shall be suspended. Any further requests by the competent authority for completion or clarification of the information shall be at its discretion but shall not result in a suspension of the period set by paragraph 1, point (b).
+The credit institution shall not make an offer to the public or seek the admission to trading of the asset-referenced token as long as the notification is incomplete.
+4.   A credit institution that issues asset-referenced tokens, including significant asset-referenced tokens, shall not be subject to Articles 16, 18, 20, 21, 24, 35, 41 and 42.
+5.   The competent authority shall communicate to the ECB without delay the complete information received under paragraph 1 and, where the credit institution is established in a Member State whose official currency is not the euro or where an official currency of a Member State that is not the euro is referenced by the asset-referenced token, also to the central bank of that Member State.
+The ECB and, where applicable, the central bank of the Member State as referred to in the first subparagraph shall, within 20 working days of receipt of the complete information, issue an opinion on that information and transmit that opinion to the competent authority.
+The competent authority shall require the credit institution not to offer to the public or seek the admission to trading of the asset-referenced token in cases where the ECB or, where applicable, the central bank of the Member State as referred to in first subparagraph, gives a negative opinion on the grounds of a risk posed to the smooth operation of payment systems, monetary policy transmission or monetary sovereignty.
+6.   The competent authority shall communicate to ESMA the information specified in Article 109(3) after verifying the completeness of the information received under paragraph 1 of this Article.
+ESMA shall make such information available in the register, under Article 109(3), by the starting date of the offer to the public or admission to trading.
+7.   The relevant competent authority shall, within two working days of withdrawing authorisation, communicate to ESMA the withdrawal of authorisation of a credit institution that issues asset-referenced tokens. ESMA shall make the information on such withdrawal available in the register, under Article 109(3), without undue delay.
+8.   EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards to further specify the procedure for the approval of a crypto-asset white paper referred to in paragraph 1, point (a).
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

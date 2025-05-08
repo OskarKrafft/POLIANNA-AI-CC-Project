@@ -1,0 +1,18 @@
+Article 8
+Data sources and methods
+1.   For the purpose of obtaining statistics related to the input and output of agricultural activities, Member States shall use one or more of the following data sources and methods, provided that the data allow for the production of statistics that meet the quality requirements laid down in Article 10:
+(a)
+statistical surveys or other statistical data collection methods;
+(b)
+the administrative data sources specified in paragraph 2 of this Article;
+(c)
+other administrative data sources based on national law, other sources, methods or innovative approaches, such as digital tools and remote sensors.
+2.   As regards paragraph 1, point (b), of this Article, Member States may use any data from the following sources:
+(a)
+the integrated administration and control system established by Regulation (EU) 2021/2116 of the European Parliament and of the Council (23), the system for the identification and registration of bovine animals established by Regulation (EC) No 1760/2000 of the European Parliament and of the Council (24), the system for the identification and registration of certain species of kept terrestrial animals required under Regulation (EU) 2016/429 of the European Parliament and of the Council (25), the vineyard register established in accordance with Article 145 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council (26), the organic farming registers set up pursuant to Regulation (EU) 2018/848 or any other relevant administrative data of adequate quality for statistical purposes as described in Article 10(3) of this Regulation, defined in Union law;
+(b)
+the records kept in electronic format and referred to in Article 67 of Regulation (EC) No 1107/2009; or
+(c)
+any other relevant administrative data sources provided that such data allow for the production of statistics that meet the quality requirements laid down in Article 10 of this Regulation.
+3.   Member States which decide to use the sources, methods or innovative approaches referred to in paragraph 1, point (c), shall inform the Commission (Eurostat) during the year preceding the reference year during which the source, method or innovative approach will be used, and shall provide details concerning the quality of the data obtained.
+4.   National authorities responsible for complying with this Regulation shall have the right to access and use, promptly and free of charge, data, including individual data on enterprises and agricultural holdings in administrative records compiled on their national territory pursuant to Article 17a of Regulation (EC) No 223/2009. The national authorities and the owners of the administrative records shall establish the necessary cooperation mechanisms for such access. That access shall also be granted in cases where the competent authority has delegated tasks to be carried out on its behalf to private or semi-public bodies.

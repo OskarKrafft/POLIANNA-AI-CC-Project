@@ -1,0 +1,25 @@
+Article 222
+Elimination of double use of eligible own funds
+1.   The double use of own funds eligible for the Solvency Capital Requirement among the different insurance or reinsurance undertakings taken into account in that calculation shall not be allowed.
+For that purpose, when calculating the group solvency and where the methods described in Subsection 4 do not provide for it, the following amounts shall be excluded:
+(a)
+the value of any asset of the participating insurance or reinsurance undertaking which represents the financing of own funds eligible for the Solvency Capital Requirement of one of its related insurance or reinsurance undertakings;
+(b)
+the value of any asset of a related insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking which represents the financing of own funds eligible for the Solvency Capital Requirement of that participating insurance or reinsurance undertaking;
+(c)
+the value of any asset of a related insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking which represents the financing of own funds eligible for the Solvency Capital Requirement of any other related insurance or reinsurance undertaking of that participating insurance or reinsurance undertaking.
+2.   Without prejudice to paragraph 1, the following may be included in the calculation only in so far as they are eligible for covering the Solvency Capital Requirement of the related undertaking concerned:
+(a)
+surplus funds falling under Article 91(2) arising in a related life insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking for which the group solvency is calculated;
+(b)
+any subscribed but not paid-up capital of a related insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking for which the group solvency is calculated.
+However, the following shall in any event be excluded from the calculation:
+(i)
+subscribed but not paid-up capital which represents a potential obligation on the part of the participating undertaking;
+(ii)
+subscribed but not paid-up capital of the participating insurance or reinsurance undertaking which represents a potential obligation on the part of a related insurance or reinsurance undertaking;
+(iii)
+subscribed but not paid-up capital of a related insurance or reinsurance undertaking which represents a potential obligation on the part of another related insurance or reinsurance undertaking of the same participating insurance or reinsurance undertaking.
+3.   Where the supervisory authorities consider that certain own funds eligible for the Solvency Capital Requirement of a related insurance or reinsurance undertaking other than those referred to in paragraph 2 cannot effectively be made available to cover the Solvency Capital Requirement of the participating insurance or reinsurance undertaking for which the group solvency is calculated, those own funds may be included in the calculation only in so far as they are eligible for covering the Solvency Capital Requirement of the related undertaking.
+4.   The sum of the own funds referred to in paragraphs 2 and 3 shall not exceed the Solvency Capital Requirement of the related insurance or reinsurance undertaking.
+5.   Any eligible own funds of a related insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking for which the group solvency is calculated that are subject to prior authorisation from the supervisory authority in accordance with Article 90 shall be included in the calculation only in so far as they have been duly authorised by the supervisory authority responsible for the supervision of that related undertaking.

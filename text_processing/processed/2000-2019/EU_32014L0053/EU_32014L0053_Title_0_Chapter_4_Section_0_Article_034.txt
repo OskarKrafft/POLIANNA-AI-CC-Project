@@ -1,0 +1,8 @@
+Article 34
+Operational obligations of notified bodies
+1.   Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided for in Annexes III and IV.
+2.   Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators. Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the radio equipment technology in question and the mass or serial nature of the production process.
+In so doing they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the radio equipment with this Directive.
+3.   Where a notified body finds that the essential requirements set out in Article 3 or corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue an EU-type examination certificate or a quality system approval.
+4.   Where, in the course of the monitoring of conformity following the issue of an EU-type examination certificate or a quality system approval, a notified body finds that radio equipment no longer complies, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the EU-type examination certificate or the quality system approval if necessary.
+5.   Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any EU-type examination certificates or quality system approvals, as appropriate.

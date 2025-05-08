@@ -1,0 +1,26 @@
+Article 4
+Notifications and list of financial instruments
+1.   Market operators of regulated markets and investment firms and market operators operating an MTF or an OTF shall, without delay, notify the competent authority of the trading venue of any financial instrument for which a request for admission to trading on their trading venue is made, which is admitted to trading, or which is traded for the first time.
+They shall also notify the competent authority of the trading venue when a financial instrument ceases to be traded or to be admitted to trading, unless the date on which the financial instrument ceases to be traded or to be admitted to trading is known and was referred to in the notification made in accordance with the first subparagraph.
+Notifications referred to in this paragraph shall include, as appropriate, the names and identifiers of the financial instruments concerned, and the date and time of the request for admission to trading, admission to trading, and the date and time of the first trade.
+Market operators and investment firms shall also transmit to the competent authority of the trading venue the information set out in the third subparagraph with regard to financial instruments that were the subject of a request for admission to trading or that were admitted to trading before 2 July 2014, and that are still admitted to trading or traded on that date.
+2.   Competent authorities of the trading venue shall transmit notifications that they receive pursuant to paragraph 1 to ESMA without delay. ESMA shall publish those notifications on in its website in the form of a list immediately on receipt. ESMA shall update that list immediately on receipt of a notification by a competent authority of the trading venue. The list shall not limit the scope of this Regulation.
+3.   The list shall contain the following information:
+(a)
+the names and identifiers of financial instruments which are the subject of a request for admission to trading, admitted to trading or traded for the first time, on regulated markets, MTFs and OTFs;
+(b)
+the dates and times of the requests for admission to trading, of the admissions to trading, or of the first trades;
+(c)
+details of the trading venues on which the financial instruments are the subject of a request for admission to trading, admitted to trading or traded for the first time; and
+(d)
+the date and time at which the financial instruments cease to be traded or to be admitted to trading.
+4.   In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards to lay down:
+(a)
+the content of the notifications referred to in paragraph 1; and
+(b)
+the manner and conditions of the compilation, publication and maintenance of the list referred to in paragraph 3.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council (23).
+5.   In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to lay down the timing, format and template of the submission of notifications under paragraphs 1 and 2.
+ESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

@@ -1,0 +1,17 @@
+Article 23
+Guidelines
+1.   Where appropriate, Guidelines providing the minimum degree of harmonisation required to achieve the aims of this Regulation shall specify:
+(a)
+details of third-party access services, including the character, duration and other requirements of those services, in accordance with Articles 14 and 15;
+(b)
+details of the principles underlying capacity-allocation mechanisms and on the application of congestion-management procedures in the event of contractual congestion, in accordance with Articles 16 and 17;
+(c)
+details of the provision of information, definition of the technical information necessary for network users to gain effective access to the system and the definition of all relevant points for transparency requirements, including the information to be published at all relevant points and the time schedule for the publication of that information, in accordance with Articles 18 and 19;
+(d)
+details of tariff methodology related to cross-border trade of natural gas, in accordance with Article 13;
+(e)
+details relating to the areas listed in Article 8(6).
+For that purpose, the Commission shall consult the Agency and the ENTSO for Gas.
+2.   Guidelines on the issues listed in points (a), (b) and (c) of paragraph 1 are laid down in Annex I with respect to transmission system operators.
+The Commission may adopt Guidelines on the issues listed in paragraph 1 of this Article and amend the Guidelines referred to in points (a), (b) and (c) thereof. Those measures, designed to amend non-essential elements of this Regulation, inter alia by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 28(2).
+3.   The application and amendment of Guidelines adopted pursuant to this Regulation shall reflect differences between national gas systems, and shall, therefore, not require uniform detailed terms and conditions of third-party access at Community level. They may, however, set minimum requirements to be met to achieve non-discriminatory and transparent network access conditions necessary for an internal market in natural gas, which may then be applied in the light of differences between national gas systems.

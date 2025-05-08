@@ -1,0 +1,25 @@
+Article 34
+General exemptions
+1.   Except as regards point (a) of Article 32(2), engines for export to third countries shall not be subject to this Regulation.
+2.   Except as regards point (b) of Article 32(2), engines for use by the armed forces shall not be subject to this Regulation.
+For the purposes of this paragraph, fire services, civil defence services, forces responsible for maintaining public order and emergency medical services shall not be considered to be part of the armed forces.
+3.   Without prejudice to Article 32 and with the consent of the OEM, a manufacturer may deliver to that OEM an engine separately from its exhaust after-treatment system.
+4.   Notwithstanding Article 5(3), Member States shall authorise the temporary placing on the market, for the purposes of field testing, of engines that have not been EU type-approved in accordance with this Regulation.
+5.   Notwithstanding Articles 18(2) and 22(3), Member States shall grant EU type-approval for, and authorise the placing on the market of, engines that meet the gaseous and particulate pollutant emission limit values for special purpose engines set out in Annex VI, on the condition that the engines are intended for installation in non-road mobile machinery to be used in potentially explosive atmospheres, as defined in point (5) of Article 2 of Directive 2014/34/EU of the European Parliament and of the Council (21).
+6.   Notwithstanding Articles 18(2) and 22(3), Member States may, upon request, grant EU type-approval for, and authorise the placing on the market of, engines that meet the gaseous and particulate pollutant emission limit values for special purpose engines set out in Annex VI, on the condition that the engines are intended for installation in non-road mobile machinery that is exclusively used for the launch and recovery of lifeboats operated by a national rescue service.
+7.   Notwithstanding Articles 5(3) and 18(2), in relation to engines of categories RLL or RLR and placed on the Union market on or before 31 December 2011, Member States may authorise the placing on the market of replacement engines if the approval authority, upon examination, recognises and concludes that the installation of an engine that complies with the applicable emission limits set out in Tables II-7 and II-8 of Annex II will involve significant technical difficulties. In such a case, the replacement engines shall either comply with the emission limits that they would have needed to meet in order to be placed on the Union market on 31 December 2011, or shall comply with more stringent emission limits.
+In respect of engines in categories RLL and RLR that were placed on the Union market after 31 December 2011, Member States may authorise the placing on the market of replacement engines complying with the emission limits that the engines to be replaced had to meet when they were originally placed on the Union market.
+8.   In respect of engines in categories RLL or RLR, Member States may authorise the placing on the market of engines that comply with the latest applicable emission limits defined in the relevant legislation applicable on 5 October 2016, provided that:
+(a)
+those engines are part of a project which is at an advanced stage of development on 6 October 2016, as defined in Directive 2008/57/EC; and
+(b)
+the use of engines that comply with the applicable emission limits set out in Tables II-7 or II-8 of Annex II will lead to disproportionate costs.
+By 17 September 2017, each Member State shall communicate to the Commission the list of any such projects.
+9.   The Commission is empowered to adopt delegated acts in accordance with Article 55 for the purpose of supplementing this Regulation with the detailed technical specifications and conditions for:
+(a)
+the delivery of an engine separately from its exhaust after-treatment system by a manufacturer to an OEM, as referred to in paragraph 3;
+(b)
+the temporary placing on the market, for the purposes of field testing, of engines that have not been EU type-approved in accordance with this Regulation, as referred to in paragraph 4;
+(c)
+granting the EU type-approval for, and authorising the placing on the market of, engines that meet the gaseous and particulate pollutant emission limit values for special purpose engines set out in Annex VI, as referred to in paragraphs 5 and 6.
+Those delegated acts shall be adopted by 31 December 2016.

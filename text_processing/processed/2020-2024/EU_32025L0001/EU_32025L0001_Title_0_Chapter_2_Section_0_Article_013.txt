@@ -1,0 +1,14 @@
+Article 13
+Assessment of resolvability
+1.   Member States shall ensure that resolution authorities, after having consulted the supervisory authority, assess the extent to which insurance or reinsurance undertakings that are not part of a group are resolvable without the assumption of any extraordinary public financial support besides, where available and applicable, the use of insurance guarantee schemes or of any financing arrangements.
+An insurance or reinsurance undertaking shall be deemed resolvable where it is feasible and credible for that undertaking to be wound up under normal insolvency proceedings, or for the resolution authority to resolve that undertaking by applying resolution tools and exercising resolution powers.
+2.   Where a resolution authority concludes that resolution action may be necessary in the public interest because winding up under normal insolvency proceedings would not meet the resolution objectives to the same extent, it shall proceed to the following consecutive stages:
+(a)
+select a preferred resolution action appropriate to achieve the resolution objectives given the structure and business model of the insurance or reinsurance undertaking;
+(b)
+assess whether it is feasible to apply the selected resolution action effectively within an appropriate timeframe and identify potential impediments to its implementation;
+(c)
+assess the credibility of the selected resolution action, taking into consideration the likely impact of resolution on the financial systems or real economies of the Member States or the Union and the protection of the collective interest of policy holders, beneficiaries and claimants, with a view to ensuring the continuity of critical functions carried out by the insurance or reinsurance undertaking.
+3.   Resolution authorities shall make the resolvability assessment referred to in paragraph 1 at the same time as, and for the purposes of, the drawing up and updating of the resolution plan in accordance with Article 9. When performing the assessment referred to in paragraph 1, resolution authorities shall, as a minimum, examine the resolvability dimensions specified in the Annex.
+4.   For the purposes of the assessment of resolvability, resolution authorities may request insurance or reinsurance undertakings to provide all necessary information.
+5.   EIOPA shall, by 29 January 2027, issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to specify further matters and criteria for the assessment of the resolvability of insurance and reinsurance undertakings or groups provided for in paragraph 1 of this Article and in Article 14 of this Directive.

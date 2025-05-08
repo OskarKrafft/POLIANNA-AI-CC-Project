@@ -1,0 +1,126 @@
+Article 1
+Regulation (EU) No 691/2011 is amended as follows:
+(1)
+Article 1 is replaced by the following:
+‘Article 1
+Subject matter
+This Regulation establishes a common framework for the collection, compilation, transmission and evaluation of European environmental economic accounts, for the purpose of setting up environmental economic accounts as satellite accounts to the European System of Accounts 2010 (ESA 2010) set out in Regulation (EU) No 549/2013 of the European Parliament and of the Council (*1), by providing methodology, common standards, definitions, classifications and accounting rules intended to be used for compiling environmental economic accounts.
+This Regulation also contributes to providing sound information on key trends of, pressures on, and drivers for environmental change and thereby supports monitoring and evaluation of the Union’s progress in meeting its environmental objectives laid down in Union law as well as its international environmental commitments.
+
+(*1)  Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).’;"
+                        
+(2)
+in Article 2, the following points are added:
+‘(7)
+“forest accounts” means asset accounts for forest resources, comprising wooded land and timber on wooded land, and economic activity accounts for forestry and logging;
+(8)
+“environmental subsidies and similar transfers” means current and capital transfers within the meaning of the ESA 2010, intended to support activities protecting the environment and safeguarding natural resources and related products;
+(9)
+“ecosystem accounts” means a set of accounts designed to provide consistent information on the extent and condition of ecosystems and on the flows of services from those ecosystems to the socioeconomic system.’
+;
+(3)
+Article 3 is amended as follows:
+(a)
+in paragraph 1, the following points are added:
+‘(g)
+a module for forest accounts, as set out in Annex VII;
+(h)
+a module for environmental subsidies and similar transfers accounts, as set out in Annex VIII;
+(i)
+a module for ecosystem accounts, as set out in Annex IX.’
+;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   The Commission is empowered to adopt delegated acts in accordance with Article 9 where necessary to take account of environmental, economic and technical developments:
+(a)
+to supplement this Regulation by providing methodological guidance;
+(b)
+to amend Annexes I to VI as regards the information referred to in paragraph 2, points (c), (d) and (e);
+(c)
+to amend Annexes VII, VIII and IX as regards the information referred to in paragraph 2, points (c), (d) and (e), provided that:
+(i)
+the list of characteristics referred to in paragraph 2, point (c), is only amended by up to four characteristics for each Annex every 3 years, and
+(ii)
+the information referred to in paragraph 2, point (d), is amended only in order to set out the first reference year, frequency and transmission deadlines of any added characteristics.
+In exercising its power pursuant to this paragraph, the Commission shall ensure that its delegated acts do not impose a significant additional burden on the Member States or on the respondents. The Commission shall duly justify its delegated acts.’
+(4)
+Article 4 is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                             ‘Pilot and feasibility studies’
+                                          
+(b)
+paragraph 1 is replaced by the following:
+‘1.   The Commission shall draw up a programme for pilot and feasibility studies to be carried out by Member States on a voluntary basis in order to develop reporting and improve data quality, establish long time series and develop methodology. The programme shall include pilot studies to test the new environmental economic account modules. In drawing up the programme, the Commission shall give particular attention to modules producing data on energy subsidies, including fossil fuel subsidies, and ensure that no additional administrative or financial burdens are placed on the Member States and on the respondents.’
+(c)
+the following paragraph is added:
+‘3.   In addition to the programme for pilot and feasibility studies, the Commission (Eurostat) shall by 27 June 2026, in cooperation with the Member States, carry out an assessment of methodological possibilities and the feasibility of monetary valuation, possible reporting values where those values are missing and possible alternative ways of measuring for ecosystem services accounts, taking into account international standards of the System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA EA). Based on the results of that assessment and those studies, the Commission may submit to the European Parliament and to the Council a legislative proposal amending this Regulation in order to include the monetary ecosystem accounts.’
+(5)
+in Article 5, paragraph 2 is amended as follows:
+(a)
+the following point is added:
+‘(d)
+any other relevant sources, methods or innovative approaches insofar as they allow for the production of environmental economic accounts that are comparable and compliant with the applicable specific quality requirements.’
+;
+(b)
+the following subparagraph is added:
+‘Member States which decide to use the sources, methods or innovative approaches referred to in point (d) shall inform the Commission (Eurostat) as soon as possible before the end of the year preceding the implementation of the method and shall provide details concerning the quality of the data obtained.’
+(6)
+Article 8 is replaced by the following:
+‘Article 8
+Derogations
+1.   The Commission may adopt implementing acts granting derogations to Member States in so far as their national statistical systems require major adaptions. Derogations may be granted from the Annexes during the transitional period referred to therein. Derogations may also be granted from the implementing measures and delegated acts adopted pursuant to this Regulation. Those derogations may be granted for a maximum duration of 2 years. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+The first subparagraph of this paragraph shall not apply to changes resulting from modifications in classifications and nomenclatures or changes to accounting frameworks of national and regional accounts in accordance with Regulation (EU) No 549/2013.
+2.   For the purpose of obtaining a derogation from Annexes VII, VIII and IX under paragraph 1, the Member State concerned shall submit a duly justified request to the Commission by 27 December 2026. For the purpose of obtaining a derogation under paragraph 1 from implementing measures or delegated acts adopted pursuant to this Regulation which enter into force after 26 December 2024, the Member State concerned shall submit a duly justified request to the Commission within three months of the date of entry into force of the measure or act concerned.’
+(7)
+the following article is inserted:
+‘Article 8a
+Financing
+1.   For the implementation of this Regulation, the Union shall provide financial support from the Single Market Programme established by Regulation (EU) 2021/690 of the European Parliament and of the Council (*2) to the national statistical institutes and other national authorities referred to in Article 5(2) of Regulation (EC) No 223/2009, for:
+(a)
+developing methodologies for statistics under this Regulation, including the participation of Member States in the representative pilot and feasibility studies referred to in Article 4;
+(b)
+improving the statistical quality of accounts, in particular for the development or enhancement of processes, including digitally based solutions that aim to produce statistics of a higher quality;
+(c)
+improving timeliness of accounts and reducing the administrative and reporting burden.
+2.   The amount of the Union financial contribution under this Article shall be established in accordance with the rules of the Single Market Programme as part of the annual budgetary procedure, subject to the availability of funding. The budgetary authority shall determine the appropriation available each year.
+3.   For the implementation of this Regulation, a financial contribution may also be made available to the national statistical institutes and other national authorities referred to in Article 5(2) of Regulation (EC) No 223/2009 from other applicable financial programmes of the Union in accordance with the rules of such programmes.
+
+(*2)  Regulation (EU) 2021/690 of the European Parliament and of the Council of 28 April 2021 establishing a programme for the internal market, competitiveness of enterprises, including small and medium-sized enterprises, the area of plants, animals, food and feed, and European statistics (Single Market Programme) and repealing Regulations (EU) No 99/2013, (EU) No 1287/2013, (EU) No 254/2014 and (EU) No 652/2014 (OJ L 153, 3.5.2021, p. 1).’;"
+                        
+(8)
+Article 9 is replaced by the following:
+‘Article 9
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 3(3) and (4) and Article 10 shall be conferred on the Commission for a period of five years from 11 August 2011. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in Article 3(3) and (4) and Article 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6.   A delegated act adopted pursuant to Article 3(3) or (4) or Article 10 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.’
+(9)
+the following article is inserted:
+‘Article 9a
+Environmental Economic Account Statistical Data Portal (“Dashboard”)
+1.   The Commission (Eurostat) shall establish an Environmental Economic Account Statistical Data Portal (“Dashboard”), which shall summarise the key indicators from environmental economic accounts in a user-friendly and interactive way.
+The data portal shall display the data provided by Member States in each of the modules set out in this Regulation and on the climate change mitigation investments referred to in Article 10, fourth paragraph.
+2.   The data portal shall be operational by 31 December 2024 and shall be updated by the Commission (Eurostat) once a year. The data portal shall be made publicly available on the Eurostat website.’
+(10)
+Article 10 is amended as follows:
+(a)
+in the second paragraph, the first indent is replaced by the following:
+‘—
+for introducing new environmental economic account modules, such as water accounts (quantitative and qualitative), resource management expenditure accounts, subsidies or support measures potentially harmful to the environment and waste accounts;’
+;
+(b)
+the following paragraphs are added:
+‘By 31 December 2024 and at least every 2 years thereafter, the Commission (Eurostat) shall issue a digital publication that contains data and statistics on climate change mitigation, including investments, compiled from the relevant data available from the environmental economic account modules and, if appropriate, from other data sources.
+The Commission shall adopt delegated acts in accordance with Article 9 in order to amend, as appropriate, Annex V, Section 3, to include characteristics regarding other investments on climate change mitigation. The data included in the digital publication referred to in the third paragraph of this Article shall provide a breakdown of that data per Member State, including on investments, and shall cover all sectors of the economy and activities.
+By 27 December 2026, the Commission shall assess the quality of the data available on energy subsidies, including fossil fuel subsidies, on climate change adaptation and on water and, where appropriate, submit a legislative proposal to the European Parliament and to the Council for the introduction of new environmental economic account modules for energy subsidies, including fossil fuel subsidies; climate change adaptation, including expenditure on it, and for water accounts.’
+(11)
+in Annex IV, Section 3, first paragraph, the eighth indent is deleted;
+(12)
+all references to ‘EU-28’ and to ‘ESA 95’ are replaced by ‘EU-27’ and by ‘ESA 2010’, respectively, throughout the text and the Annexes;
+(13)
+Annexes VII, VIII and IX are added in accordance with the Annex to this Regulation.

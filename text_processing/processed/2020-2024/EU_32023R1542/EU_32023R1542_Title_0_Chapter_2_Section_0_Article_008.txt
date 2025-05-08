@@ -1,0 +1,27 @@
+Article 8
+Recycled content in industrial batteries, electric vehicle batteries, LMT batteries and SLI batteries
+1.   From 18 August 2028 or 24 months after the date of entry into force of the delegated act referred to in the third subparagraph, whichever is the latest, industrial batteries with a capacity greater than 2 kWh, except those with exclusively external storage, electric vehicle batteries and SLI batteries that contain cobalt, lead, lithium or nickel in active materials, shall be accompanied by documentation containing information about the percentage share of cobalt, lithium or nickel that is present in active materials and that has been recovered from battery manufacturing waste or post-consumer waste, and the percentage share of lead that is present in the battery and that has been recovered from waste, for each battery model per year and per manufacturing plant.
+The first subparagraph shall apply from 18 August 2033 to LMT batteries that contain cobalt, lead, lithium or nickel in active materials.
+By 18 August 2026, the Commission shall adopt a delegated act in accordance with Article 89 to supplement this Regulation by establishing, for the batteries referred to in the first and second subparagraphs, the methodology for the calculation and verification of the percentage share of cobalt, lithium or nickel that is present in active materials and that has been recovered from battery manufacturing waste or post-consumer waste, and the percentage share of lead that is present in the battery and that has been recovered from waste, and the format for the documentation.
+2.   From 18 August 2031, for industrial batteries with a capacity greater than 2 kWh, except those with exclusively external storage, electric vehicle batteries and SLI batteries that contain cobalt, lead, lithium or nickel in active materials, the technical documentation referred to in Annex VIII shall demonstrate that those batteries contain, in active materials, the following minimum percentage share of, respectively, cobalt, lithium or nickel that has been recovered from battery manufacturing waste or post-consumer waste, and the minimum percentage share of lead that is present in the battery and that has been recovered from waste, for each battery model per year and per manufacturing plant:
+(a)
+16 % cobalt;
+(b)
+85 % lead;
+(c)
+6 % lithium;
+(d)
+6 % nickel.
+3.   From 18 August 2036, for industrial batteries with a capacity greater than 2 kWh, except those with exclusively external storage, electric vehicle batteries, LMT batteries and SLI batteries that contain cobalt, lead, lithium or nickel in active materials, the technical documentation referred to in Annex VIII shall demonstrate that those batteries contain, in the active materials, the following minimum percentage share of, respectively, cobalt, lithium or nickel that has been recovered from battery manufacturing waste or post-consumer waste, and the minimum percentage share of lead that is present in the battery and that has been recovered from waste, for each battery model per year and per manufacturing plant:
+(a)
+26 % cobalt;
+(b)
+85 % lead;
+(c)
+12 % lithium;
+(d)
+15 % nickel.
+4.   Paragraphs 1, 2 and 3 shall not apply to batteries that have been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing, if the batteries had already been placed on the market or put into service before undergoing such operations.
+5.   After the date of entry into force of the delegated act adopted under paragraph 1, and no later than 31 December 2028, the Commission shall assess whether, due to the existing availability, and the forecasted availability for 2030 and 2035, of cobalt, lead, lithium or nickel recovered from waste, or lack thereof, and in view of technical and scientific progress, it is appropriate to revise the targets laid down in paragraphs 2 and 3.
+Where justified and appropriate on the basis of the assessment made under the first subparagraph or due to other considerable changes in battery technology impacting the type of materials recovered, the Commission shall adopt, by 18 August 2029, a delegated act in accordance with Article 89, to amend the targets laid down in paragraphs 2 and 3.
+6.   Where justified and appropriate due to market developments regarding battery chemistries impacting the type of materials that can be recovered, the Commission is empowered to adopt delegated acts in accordance with Article 89, to amend this Regulation by adding materials other than cobalt, lead, lithium and nickel, with specific minimum shares of recycled content per specific material in paragraphs 2 and 3 of this Article.

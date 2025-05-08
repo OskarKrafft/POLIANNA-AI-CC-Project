@@ -1,0 +1,51 @@
+Article 2
+Amendments to Directive 2004/109/EC
+Directive 2004/109/EC is amended as follows:
+(1)
+in Article 2(1) the following point is added:
+‘(r)
+“sustainability reporting” means sustainability reporting as defined in point (18) of Article 2 of Directive 2013/34/EU of the European Parliament and of the Council (*23).
+
+(*23)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).’;"
+                        
+(2)
+Article 4 is amended as follows:
+(a)
+in paragraph 2, point (c) is replaced by the following:
+‘(c)
+statements made by the persons responsible within the issuer, whose names and functions shall be clearly indicated, to the effect that, to the best of their knowledge, the financial statements prepared in accordance with the applicable set of accounting standards give a true and fair view of the assets, liabilities, financial position and profit or loss of the issuer and the undertakings included in the consolidation taken as a whole and that the management report includes a fair review of the development and performance of the business and the position of the issuer and the undertakings included in the consolidation taken as a whole, together with a description of the principal risks and uncertainties that they face and, where appropriate, that it is prepared in accordance with sustainability reporting standards referred to in Article 29b of Directive 2013/34/EU and with the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852 of the European Parliament and of the Council (*24).
+
+(*24)  Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).’;"
+                        
+(b)
+paragraphs 4 and 5 are replaced by the following:
+‘4.   The financial statements shall be audited in accordance with the first subparagraph of Article 34(1) and Article 34(2) of Directive 2013/34/EU.
+The statutory auditor shall deliver the opinion and statement on the management report referred to in points (a) and (b) of the second subparagraph of Article 34(1) and in Article 34(2) of Directive 2013/34/EU.
+The audit report, referred to in Article 28 of Directive 2006/43/EC of the European Parliament and of the Council (*25), signed by the person or persons responsible for carrying out the work set out in Article 34(1) and (2) of Directive 2013/34/EU shall be disclosed in full to the public together with the annual financial report.
+Where applicable, an assurance opinion on sustainability reporting shall be provided in accordance with point (aa) of the second subparagraph of Article 34(1) and Article 34(2) to (5) of Directive 2013/34/EU.
+The assurance report on sustainability reporting referred to in Article 28a of Directive 2006/43/EC shall be disclosed in full to the public together with the annual financial report.
+5.   The management report shall be drawn up in accordance with Articles 19, 19a and 20, and Article 29d(1) of Directive 2013/34/EU, and shall include the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852, when drawn up by undertakings referred to in those provisions.
+Where the issuer is required to prepare consolidated accounts, the consolidated management report shall be drawn up in accordance with Articles 29 and 29a and Article 29d(2) of Directive 2013/34/EU and shall include the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852, when drawn up by undertakings referred to in those provisions.
+
+(*25)  Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;"
+                        
+(3)
+Article 23(4) is amended as follows:
+(a)
+the third and fourth subparagraphs are replaced by the following:
+
+                                          ‘The Commission shall, in accordance with the procedure referred to in Article 27(2) of this Directive, take the necessary decisions on the equivalence of accounting standards under the conditions set out in Article 30(3) of this Directive and on the equivalence of sustainability reporting standards as referred to in Article 29b of Directive 2013/34/EU which are used by third-country issuers. If the Commission decides that the accounting standards or the sustainability reporting standards of a third country are not equivalent, it may allow the issuers concerned to continue using such standards during an appropriate transitional period.
+In the context of the third subparagraph of this paragraph, the Commission shall also adopt, by means of delegated acts adopted in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions laid down in Articles 27a and 27b, measures that aim to establish general equivalence criteria regarding accounting standards and sustainability reporting standards relevant to issuers of more than one country.’;
+(b)
+the following subparagraph is added:
+
+                                          ‘The criteria that the Commission shall use when assessing the equivalence of sustainability reporting standards used by third-country issuers referred to in the third subparagraph shall at least ensure the following:
+(a)
+that the sustainability reporting standards require undertakings to disclose information on environmental, social and governance factors;
+(b)
+that the sustainability reporting standards require undertakings to disclose information necessary to understand their impacts on sustainability matters, and information necessary to understand how sustainability matters affect their development, performance and position.’;
+(4)
+the following Article is inserted:
+‘Article 28d
+ESMA guidelines
+After consulting the European Environment Agency and the European Union Agency for Fundamental Rights, ESMA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the supervision of sustainability reporting by national competent authorities.’.

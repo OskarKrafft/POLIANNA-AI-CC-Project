@@ -1,0 +1,15 @@
+Article 4
+Registration of EETS providers
+Each Member State shall establish a procedure for registering EETS providers. It shall grant the registration to entities which are established on its territory, which request registration and which can demonstrate that they fulfil the following requirements:
+(a)
+hold EN ISO 9001 certification or equivalent;
+(b)
+have the technical equipment and the EC declaration or certificate attesting the conformity of the interoperability constituents to specifications;
+(c)
+have competence in the provision of electronic toll services or in other relevant domains;
+(d)
+have appropriate financial standing;
+(e)
+maintain a global risk management plan, which is audited at least every two years; and
+(f)
+are of good repute.

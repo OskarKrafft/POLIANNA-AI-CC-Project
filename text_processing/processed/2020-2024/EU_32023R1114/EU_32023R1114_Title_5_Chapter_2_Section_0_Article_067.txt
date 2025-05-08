@@ -1,0 +1,52 @@
+Article 67
+Prudential requirements
+1.   Crypto-asset service providers shall, at all times, have in place prudential safeguards equal to an amount of at least the higher of the following:
+(a)
+the amount of permanent minimum capital requirements indicated in Annex IV, depending on the type of the crypto-asset services provided;
+(b)
+one quarter of the fixed overheads of the preceding year, reviewed annually.
+2.   Crypto-asset service providers that have not been in business for one year from the date on which they began providing services shall use, for the calculation referred to in paragraph 1, point (b), the projected fixed overheads included in their projections for the first 12 months of service provision, as submitted with their application for authorisation.
+3.   For the purposes of paragraph 1, point (b), crypto-asset service providers shall calculate their fixed overheads for the preceding year, using figures resulting from the applicable accounting framework, by subtracting the following items from the total expenses after distribution of profits to shareholders or members in their most recently audited annual financial statements or, where audited statements are not available, in annual financial statements validated by national supervisors:
+(a)
+staff bonuses and other remuneration, to the extent that those bonuses and that remuneration depend on a net profit of the crypto-asset service providers in the relevant year;
+(b)
+employees’, directors’ and partners’ shares in profits;
+(c)
+other appropriations of profits and other variable remuneration, to the extent that they are fully discretionary;
+(d)
+non-recurring expenses from non-ordinary activities.
+4.   The prudential safeguards referred to in paragraph 1 shall take any of the following forms or a combination thereof:
+(a)
+own funds, consisting of Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full, pursuant to Article 36 of that Regulation, without the application of threshold exemptions pursuant to Articles 46 and 48 of that Regulation;
+(b)
+an insurance policy covering the territories of the Union where crypto-asset services are provided or a comparable guarantee.
+5.   The insurance policy referred to in paragraph 4, point (b), shall be disclosed to the public on the crypto-asset service provider’s website and shall have at least the following characteristics:
+(a)
+it has an initial term of not less than one year;
+(b)
+the notice period for its cancellation is at least 90 days;
+(c)
+it is taken out from an undertaking authorised to provide insurance, in accordance with Union or national law;
+(d)
+it is provided by a third-party entity.
+6.   The insurance policy referred to in paragraph 4, point (b), shall include coverage against the risk of all of the following:
+(a)
+loss of documents;
+(b)
+misrepresentations or misleading statements made;
+(c)
+acts, errors or omissions resulting in a breach of:
+(i)
+legal and regulatory obligations;
+(ii)
+the obligation to act honestly, fairly and professionally towards clients;
+(iii)
+obligations of confidentiality;
+(d)
+failure to establish, implement and maintain appropriate procedures to prevent conflicts of interest;
+(e)
+losses arising from business disruption or system failures;
+(f)
+where applicable to the business model, gross negligence in the safeguarding of clients’ crypto-assets and funds;
+(g)
+liability of the crypto-asset service providers towards clients pursuant to Article 75(8).

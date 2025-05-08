@@ -1,0 +1,47 @@
+Article 10
+Emergency Plans and Crisis Levels
+1.   The national and joint Emergency Plans shall:
+(a)
+build upon the crisis levels set out in paragraph 3;
+(b)
+define the role and responsibilities of natural gas undertakings and of industrial gas customers including relevant electricity producers, taking account of the different extents to which they are affected in the event of gas supply disruptions, and their interaction with the Competent Authorities and where appropriate with the national regulatory authorities at each of the crisis levels defined in paragraph 3;
+(c)
+define the role and responsibilities of the Competent Authorities and of the other bodies to which tasks have been delegated as referred to in Article 2(2) at each of the crisis levels defined in paragraph 3 of this Article;
+(d)
+ensure that natural gas undertakings and industrial gas customers are given sufficient opportunity to respond at each crisis level;
+(e)
+identify, if appropriate, the measures and actions to be taken to mitigate the potential impact of a gas supply disruption on district heating and the supply of electricity generated from gas;
+(f)
+establish detailed procedures and measures to be followed for each crisis level, including the corresponding schemes on information flows;
+(g)
+designate a crisis manager or team and define its role;
+(h)
+identify the contribution of market-based measures, notably those listed in Annex II, for coping with the situation at alert level and mitigating the situation at emergency level;
+(i)
+identify the contribution of non-market based measures planned or to be implemented for the emergency level, notably those listed in Annex III, and assess the degree to which the use of such non-market based measures is necessary to cope with a crisis, assess their effects and define the procedures to implement them, taking into account the fact that non-market based measures are to be used only when market-based mechanisms alone can no longer ensure supplies, in particular to protected customers;
+(j)
+describe the mechanisms used to cooperate with other Member States for each crisis level;
+(k)
+detail the reporting obligations imposed on natural gas undertakings at alert and emergency levels;
+(l)
+establish a list of predefined actions to make gas available in the event of an emergency, including commercial agreements between the parties involved in such actions and the compensation mechanisms for natural gas undertakings where appropriate, taking due account of the confidentiality of sensitive data. Such actions may involve cross-border agreements between Member States and/or natural gas undertakings.
+2.   The national and joint Emergency Plans shall be updated every 2 years, unless circumstances warrant more frequent updates, and shall reflect the updated risk assessment. The consultation provided for between Competent Authorities under Article 4(2) shall be carried out before the adoption of the updated Plans.
+3.   The three main crisis levels shall be as follows:
+(a)
+early warning level (early warning): when there is concrete, serious and reliable information that an event may occur which is likely to result in significant deterioration of the supply situation and is likely to lead to the alert or the emergency level being triggered; the early warning level may be activated by an early warning mechanism;
+(b)
+alert level (alert): when a supply disruption or exceptionally high gas demand occurs which results in significant deterioration of the supply situation, but the market is still able to manage that disruption or demand without the need to resort to non-market measures;
+(c)
+emergency level (emergency): in the event of exceptionally high gas demand, significant supply disruption or other significant deterioration of the supply situation and in the event that all relevant market measures have been implemented but the supply of gas is insufficient to meet the remaining gas demand so that non-market measures have to be additionally introduced with a view, in particular, to safeguarding supplies of gas to protected customers according to Article 8.
+4.   The national and joint Emergency Plans shall ensure that cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible in the event of an emergency. The Plans shall be in accordance with Article 3(6) of this Regulation and shall not introduce any measure unduly restricting the flow of gas across borders.
+5.   When the Competent Authority declares any of the crisis levels referred to in paragraph 3, it shall immediately inform the Commission and provide it with all the necessary information, in particular with information on the action it intends to take. In the event of an emergency which may result in a call for assistance from the Union and its Member States, the Competent Authority of the Member State concerned shall without delay notify the Commission’s Civil Protection Monitoring and Information Centre.
+6.   When the Competent Authority declares an emergency, it shall follow the pre-defined action as defined in its Emergency Plan and shall immediately inform the Commission in particular of the action it intends to take in accordance with paragraph 1. In duly justified exceptional circumstances, the Competent Authority may take action deviating from the Emergency Plan. The Competent Authority shall immediately inform the Commission of any such action and shall provide a justification therefore.
+7.   The Member States and, in particular, the Competent Authorities shall ensure that:
+(a)
+no measures are introduced which unduly restrict the flow of gas within the internal market at any time;
+(b)
+no measures are introduced that are likely to endanger seriously the gas supply situation in another Member State; and
+(c)
+cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible, in accordance with the Emergency Plan.
+8.   The Commission shall verify, as soon as possible, but in any case within 5 days of receiving the information of the Competent Authority referred to in paragraph 5, whether the declaration of an emergency is justified in accordance with point (c) of paragraph 3 and whether the measures taken follow as closely as possible the actions listed in the Emergency Plan and are not imposing an undue burden on natural gas undertakings and are in accordance with paragraph 7. The Commission may, at the request of a Competent Authority, natural gas undertakings or on its own initiative, request the Competent Authority to modify the measures where they are contrary to the conditions established in paragraph 7 and in the first sentence of this paragraph. The Commission may also request the Competent Authority to lift the declaration of emergency where it considers that such declaration is not or no longer justified according to point (c) of paragraph 3.
+Within 3 days of the notification of the Commission’s request, the Competent Authority shall modify the measures and notify the Commission thereof, or shall inform the Commission of the reasons for which it does not agree with the request. In that case, the Commission may within 3 days amend or withdraw its request or, in order to consider the issue, convene the Competent Authority or, where appropriate, the Competent Authorities concerned, and, where the Commission deems it necessary, the Gas Coordination Group. The Commission shall set out its detailed reasoning for requesting any changes to the action. The Competent Authority shall take full account of the position of the Commission. Where the final decision of the Competent Authority diverges from the Commission’s position, the Competent Authority shall provide the reasoning underlying such decision.

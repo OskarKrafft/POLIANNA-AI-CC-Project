@@ -1,0 +1,24 @@
+Article 101
+Specific reporting obligations
+1.   Institutions shall report on a semi-annual basis the following data to the competent authorities for each national property market to which they are exposed:
+(a)
+losses stemming from exposures for which an institution has recognised immovable residential property as collateral, up to the lower of the pledged amount and 80 % of the market value or 80 % of the mortgage lending value unless otherwise decided under Article 124(2);
+(b)
+overall losses stemming from exposures for which an institution has recognised immovable residential property as collateral, up to the part of the exposure treated as fully secured by immovable residential property in accordance with Article 124(1);
+(c)
+the exposure value of all outstanding exposures for which an institution has recognised immovable residential property as collateral limited to the part treated as fully secured by immovable residential property in accordance with Article 124(1);
+(d)
+losses stemming from exposures for which an institution has recognised immovable commercial property as collateral, up to the lower of the pledged amount and 50 % of the market value or 60 % of the mortgage lending value unless otherwise decided under Article 124(2);
+(e)
+overall losses stemming from exposures for which an institution has recognised immovable commercial property as collateral, up to the part of the exposure treated as fully secured by immovable commercial property in accordance with Article 124(1).
+(f)
+the exposure value of all outstanding exposures for which an institution has recognised immovable commercial property as collateral limited to the part treated as fully secured by immovable commercial property in accordance with Article 124(1).
+2.   The data referred to in paragraph 1 shall be reported to the competent authority of the home Member State of the relevant institution. Where an institution has a branch in another Member State, the data relating to that branch shall also be reported to the competent authorities of the host Member State. The data shall be reported separately for each property market within the Union to which the relevant institution is exposed.
+3.   The competent authorities shall publish annually on an aggregated basis the data specified in points (a) to (f) of paragraph 1, together with historical data, where available. A competent authority shall, upon the request of another competent authority in a Member State or EBA provide to that competent authority or EBA more detailed information on the condition of the residential or commercial immovable property markets in that Member State.
+4.   EBA shall develop draft implementing technical standards to specify the following:
+(a)
+uniform formats, definitions, frequencies and dates of reporting, as well as the IT solutions, of the items referred to in paragraph 1;
+(b)
+uniform formats, definitions, frequencies and dates of reporting, as well as IT solutions, of the aggregate data referred to in paragraph 2.
+EBA shall submit those draft implementing technical standards to the Commission by 1 February 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

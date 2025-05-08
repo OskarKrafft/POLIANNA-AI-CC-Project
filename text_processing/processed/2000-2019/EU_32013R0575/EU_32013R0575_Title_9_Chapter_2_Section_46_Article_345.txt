@@ -1,0 +1,20 @@
+Article 345
+Reduction of net positions
+1.   In the case of the underwriting of debt and equity instruments, an institution may use the following procedure in calculating its own funds requirements. The institution shall first calculate the net positions by deducting the underwriting positions which are subscribed or sub-underwritten by third parties on the basis of formal agreements. The institution shall then reduce the net positions by the reduction factors in Table 4 and calculate its own funds requirements using the reduced underwriting positions.
+
+Table 4
+
+working day 0:
+100  %
+working day 1:
+90  %
+working days 2 to 3:
+75  %
+working day 4:
+50  %
+working day 5:
+25  %
+after working day 5:
+0  %.
+‧Working day zero‧ shall be the working day on which the institution becomes unconditionally committed to accepting a known quantity of securities at an agreed price.
+2.   The institutions shall notify to the competent authorities the use they make of paragraph 1.

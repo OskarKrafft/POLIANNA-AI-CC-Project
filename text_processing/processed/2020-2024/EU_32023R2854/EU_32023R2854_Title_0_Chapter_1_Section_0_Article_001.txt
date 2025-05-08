@@ -1,0 +1,51 @@
+Article 1
+Subject matter and scope
+1.   This Regulation lays down harmonised rules, inter alia, on:
+(a)
+the making available of product data and related service data to the user of the connected product or related service;
+(b)
+the making available of data by data holders to data recipients;
+(c)
+the making available of data by data holders to public sector bodies, the Commission, the European Central Bank and Union bodies, where there is an exceptional need for those data for the performance of a specific task carried out in the public interest;
+(d)
+facilitating switching between data processing services;
+(e)
+introducing safeguards against unlawful third-party access to non-personal data; and
+(f)
+the development of interoperability standards for data to be accessed, transferred and used.
+2.   This Regulation covers personal and non-personal data, including the following types of data, in the following contexts:
+(a)
+Chapter II applies to data, with the exception of content, concerning the performance, use and environment of connected products and related services;
+(b)
+Chapter III applies to any private sector data that is subject to statutory data sharing obligations;
+(c)
+Chapter IV applies to any private sector data accessed and used on the basis of contract between enterprises;
+(d)
+Chapter V applies to any private sector data with a focus on non-personal data;
+(e)
+Chapter VI applies to any data and services processed by providers of data processing services;
+(f)
+Chapter VII applies to any non-personal data held in the Union by providers of data processing services.
+3.   This Regulation applies to:
+(a)
+manufacturers of connected products placed on the market in the Union and providers of related services, irrespective of the place of establishment of those manufacturers and providers;
+(b)
+users in the Union of connected products or related services as referred to in point (a);
+(c)
+data holders, irrespective of their place of establishment, that make data available to data recipients in the Union;
+(d)
+data recipients in the Union to whom data are made available;
+(e)
+public sector bodies, the Commission, the European Central Bank and Union bodies that request data holders to make data available where there is an exceptional need for those data for the performance of a specific task carried out in the public interest and to the data holders that provide those data in response to such request;
+(f)
+providers of data processing services, irrespective of their place of establishment, providing such services to customers in the Union;
+(g)
+participants in data spaces and vendors of applications using smart contracts and persons whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement.
+4.   Where this Regulation refers to connected products or related services, such references are also understood to include virtual assistants insofar as they interact with a connected product or related service.
+5.   This Regulation is without prejudice to Union and national law on the protection of personal data, privacy and confidentiality of communications and integrity of terminal equipment, which shall apply to personal data processed in connection with the rights and obligations laid down herein, in particular Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive 2002/58/EC, including the powers and competences of supervisory authorities and the rights of data subjects. Insofar as users are data subjects, the rights laid down in Chapter II of this Regulation shall complement the rights of access by data subjects and rights to data portability under Articles 15 and 20 of Regulation (EU) 2016/679. In the event of a conflict between this Regulation and Union law on the protection of personal data or privacy, or national legislation adopted in accordance with such Union law, the relevant Union or national law on the protection of personal data or privacy shall prevail.
+6.   This Regulation does not apply to or pre-empt voluntary arrangements for the exchange of data between private and public entities, in particular voluntary arrangements for data sharing.
+This Regulation does not affect Union or national legal acts providing for the sharing of, access to and the use of data for the purpose of the prevention, investigation, detection or prosecution of criminal offences or for the execution of criminal penalties, or for customs and taxation purposes, in particular Regulations (EU) 2021/784, (EU) 2022/2065 and (EU) 2023/1543 and Directive (EU) 2023/1544, or international cooperation in that area. This Regulation does not apply to the collection or sharing of, access to or the use of data under Regulation (EU) 2015/847 and Directive (EU) 2015/849. This Regulation does not apply to areas that fall outside the scope of Union law and in any event does not affect the competences of the Member States concerning public security, defence or national security, regardless of the type of entity entrusted by the Member States to carry out tasks in relation to those competences, or their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and the maintenance of law and order. This Regulation does not affect the competences of the Member States concerning customs and tax administration or the health and safety of citizens.
+7.   This Regulation complements the self-regulatory approach of Regulation (EU) 2018/1807 by adding generally applicable obligations on cloud switching.
+8.   This Regulation is without prejudice to Union and national legal acts providing for the protection of intellectual property rights, in particular Directives 2001/29/EC, 2004/48/EC and (EU) 2019/790.
+9.   This Regulation complements and is without prejudice to Union law which aims to promote the interests of consumers and ensure a high level of consumer protection, and to protect their health, safety and economic interests, in particular Directives 93/13/EEC, 2005/29/EC and 2011/83/EU.
+10.   This Regulation does not preclude the conclusion of voluntary lawful data sharing contracts, including contracts concluded on a reciprocal basis, which comply with the requirements laid down in this Regulation.

@@ -1,0 +1,16 @@
+Article 37
+Limits with regard to concentration risk and exposure value excess
+1.   An investment firm’s limit with regard to the concentration risk of an exposure value with regard to an individual client or group of connected clients shall be 25 % of its own funds.
+Where that individual client is a credit institution or an investment firm, or where a group of connected clients includes one or more credit institutions or investment firms, the limit with regard to concentration risk shall be the higher of 25 % of the investment firm’s own funds or EUR 150 million provided that for the sum of exposure values with regard to all connected clients that are not credit institutions or investment firms, the limit with regard to concentration risk remains at 25 % of the investment firms’ own funds.
+Where the amount of EUR 150 million is higher than 25 % of the investment firm’s own funds, the limit with regard to concentration risk shall not exceed 100 % of the investment firm’s own funds.
+2.   Where the limits referred to in paragraph 1 are exceeded, an investment firm shall meet the obligation to notify set out in Article 38 and meet an own funds requirement on the exposure value excess in accordance with Article 39.
+Investment firms shall calculate an exposure value excess with regard to an individual client or group of connected clients in accordance with the following formula:
+exposure value excess = EV – L
+where:
+EV = exposure value calculated in the manner laid down in Article 36; and
+L = limit with regard to concentration risk as determined in paragraph 1 of this Article.
+3.   The exposure value with regard to an individual client or group of connected clients shall not exceed:
+(a)
+500 % of the investment firm’s own funds, where 10 days or less have elapsed since the excess occurred;
+(b)
+in aggregate, 600 % of the investment firm’s own funds, for any excesses that have persisted for more than 10 days.

@@ -1,0 +1,33 @@
+Article 131
+Fines
+1.   EBA shall adopt a decision imposing a fine in accordance with paragraph 3 or 4 of this Article where, in accordance with Article 134(8), it finds that:
+(a)
+an issuer of a significant asset-referenced token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex V;
+(b)
+an issuer of a significant e-money token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex VI.
+An infringement shall be considered to have been committed intentionally if EBA finds objective factors which demonstrate that such an issuer or a member of its management body acted deliberately to commit the infringement.
+2.   When adopting a decision as referred to in paragraph 1, EBA shall take into account the nature and seriousness of the infringement, having regard to:
+(a)
+the duration and frequency of the infringement;
+(b)
+whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;
+(c)
+whether the infringement has revealed serious or systemic weaknesses in the issuer of the significant asset-referenced token’s or in the issuer of the significant e-money token’s procedures, policies and risk management measures;
+(d)
+whether the infringement has been committed intentionally or negligently;
+(e)
+the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;
+(f)
+the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
+(g)
+the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;
+(h)
+the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or the significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;
+(i)
+the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+(j)
+previous infringements by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token responsible for the infringement;
+(k)
+measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
+3.   For issuers of significant asset-referenced tokens, the maximum amount of the fine referred to in paragraph 1 shall be up to 12,5 % of its annual turnover in the preceding business year, or twice the amount or profits gained or losses avoided because of the infringement where those can be determined.
+4.   For issuers of significant e-money tokens, the maximum amount of the fine referred to in paragraph 1 shall be up to 10 % of its annual turnover in the preceding business year, or twice the amount or profits gained or losses avoided because of the infringement where those can be determined.

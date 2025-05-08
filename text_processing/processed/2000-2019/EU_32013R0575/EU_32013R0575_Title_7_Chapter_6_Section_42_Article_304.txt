@@ -1,0 +1,26 @@
+Article 304
+Treatment of clearing members' exposures to clients
+1.   Where an institution acts as a clearing member and, in that capacity, acts as a financial intermediary between a client and a CCP, it shall calculate the own funds requirements for its CCP-related transactions with the client in accordance with Sections 1 to 8 of this Chapter and with Title VI of Part Three, as applicable.
+2.   Where an institution acting as a clearing member enters into a contractual arrangement with a client of another clearing member that facilitates, in accordance with Article 48(5) and (6), of Regulation (EU) No 648/2012, the transfer of positions and collateral referred to in Article 305(2)(b) of this Regulation for that client, and that contractual agreement gives rise to a contingent obligation for that institution, that institution may attribute an exposure value of zero to that contingent obligation.
+3.   An institution acting as a clearing member may apply a shorter margin period of risk when calculating the own fund requirement for its exposures to a client in accordance with the Internal Model Method. The margin period of risk applied by the institution shall not be less than five days.
+4.   An institution acting as a clearing member may multiply its EAD by a scalar when calculating the own fund requirement for its exposures to a client in accordance with the Mark-to-Market Method, the Standardised Method or the Original Exposure Method. The scalars that the institutions may apply are the following:
+(a)
+0,71 for a margin period of risk of five days;
+(b)
+0,77 for a margin period of risk of six days;
+(c)
+0,84 for a margin period of risk of seven days;
+(d)
+0,89 for a margin period of risk of eight days;
+(e)
+0,95 for a margin period of risk of nine days;
+(f)
+1 for a margin period of risk of ten days or more.
+5.   EBA shall develop draft regulatory technical standards to specify the margin periods of risk that institutions may use for the purposes of paragraphs 3 and 4.
+When developing those draft regulatory technical standards, EBA shall apply the following principles:
+(a)
+it shall define the margin period of risk for each of the types of contracts and transactions listed in Article 301(1);
+(b)
+the margin periods of risk to be defined in point (a) shall reflect the close-out period of the contracts and transactions referred to in that point.
+EBA shall submit those draft regulatory technical standards to the Commission by 30 June 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

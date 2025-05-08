@@ -1,0 +1,10 @@
+Article 268
+Requirements to be met by the credit assessments of ECAIs
+For the purposes of calculating risk-weighted exposure amounts in accordance with Section 3, institutions shall only use a credit assessment of an ECAI if the following conditions are met:
+(a)
+there shall be no mismatch between the types of payments reflected in the credit assessment and the types of payment to which the institution is entitled under the contract giving rise to the securitisation position in question;
+(b)
+loss and cash-flow analysis as well as sensitivity of ratings to changes in the underlying ratings assumptions, including the performance of pool assets, shall be published by the ECAI as well as the credit assessments, procedures, methodologies, assumptions, and the key elements underpinning the assessments in accordance with Regulation (EC) No 1060/2009. Information that is made available only to a limited number of entities shall not be considered to have been published. The credit assessments shall be included in the ECAI's transition matrix;
+(c)
+the credit assessment shall not be based or partly based on unfunded support provided by the institution itself. In such case, the institution shall consider the relevant position for the purposes of calculating risk-weighted exposure amounts for this position in accordance with Section 3 as if it were not rated.
+The ECAI shall be committed to publish explanations how the performance of pool assets affects this credit assessment.

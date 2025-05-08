@@ -1,0 +1,8 @@
+Article 5
+Data transmission
+1.   Each Member State shall determine a reference date. The reference date shall fall in a year specified on the basis of this Regulation (reference year). The first reference year shall be 2011. The Commission (Eurostat) shall establish subsequent reference years in accordance with the regulatory procedure with scrutiny referred to in Article 8(3). Reference years shall fall during the beginning of every decade.
+2.   Member States shall provide the Commission (Eurostat) with final, validated and aggregated data and with metadata, as required by this Regulation, within 27 months of the end of the reference year.
+3.   The Commission (Eurostat) shall adopt a programme of the statistical data and of the metadata to be transmitted to fulfil the requirements of this Regulation, in accordance with the regulatory procedure with scrutiny referred to in Article 8(3).
+4.   The Commission (Eurostat) shall adopt the technical specifications of the topics as required by this Regulation as well as of their breakdowns, in accordance with the regulatory procedure referred to in Article 8(2).
+5.   Member States shall transmit to the Commission (Eurostat) the validated data and metadata in electronic form. The Commission (Eurostat) shall adopt the appropriate technical format to be used for the transmission of the required data, in accordance with the regulatory procedure referred to in Article 8(2).
+6.   In the event of a revision or correction in accordance with Article 4(3), Member States shall transmit the modified data to the Commission (Eurostat) no later than on the date of release of the revised data.

@@ -1,0 +1,54 @@
+Article 9
+Content of preventive action plans
+1.   The preventive action plan shall contain:
+(a)
+the results of the risk assessment and a summary of the scenarios considered, as referred to in point (c) of Article 7(4);
+(b)
+the definition of protected customers and the information described in the second subparagraph of Article 6(1);
+(c)
+the measures, volumes and capacities needed to fulfil the infrastructure and gas supply standards laid down in Articles 5 and 6, including, where applicable, the extent to which demand-side measures can sufficiently compensate, in a timely manner, for a disruption of gas supply as referred to in Article 5(2), the identification of the single largest gas infrastructure of common interest in the case of the application of Article 5(3), the necessary gas volumes per category of protected customers and per scenario as referred to in Article 6(1), and any increased gas supply standard including any justification showing compliance with the conditions laid down in Article 6(2) and a description of a mechanism to reduce temporarily any increased gas supply standard or additional obligation in accordance with Article 11(3);
+(d)
+obligations imposed on natural gas undertakings, electricity undertakings where appropriate, and other relevant bodies likely to have an impact on the security of gas supply, such as obligations for the safe operation of the gas system;
+(e)
+other preventive measures designed to address the risks identified in the risk assessment, such as those relating to the need to enhance interconnections between neighbouring Member States, to further improve energy efficiency, to reduce gas demand and the possibility to diversify gas routes and sources of gas supply and the regional utilisation of existing storage and LNG capacities, if appropriate, in order to maintain gas supply to all customers as far as possible;
+(f)
+information on the economic impact, effectiveness and efficiency of the measures contained in the plan, including the obligations referred to in point (k);
+(g)
+a description of the effects of the measures contained in the plan on the functioning of the internal energy market as well as national markets, including the obligations referred to in point (k);
+(h)
+a description of the impact of the measures on the environment and on customers;
+(i)
+the mechanisms to be used for cooperation with other Member States, including the mechanisms for preparing and implementing preventive action plans and emergency plans;
+(j)
+information on existing and future interconnections and infrastructure, including those providing access to the internal market, cross-border flows, cross-border access to storage and LNG facilities and the bi-directional capacity, in particular in the event of an emergency;
+(k)
+information on all public service obligations that relate to the security of gas supply.
+Critical information relating to points (a), (c) and (d) of the first subparagraph which, if revealed, could endanger the security of gas supply, may be excluded.
+2.   The preventive action plan, in particular the actions to meet the infrastructure standard as laid down in Article 5, shall take into account the Union-wide TYNDP elaborated by ENTSOG pursuant to Article 8(10) of Regulation (EC) No 715/2009.
+3.   The preventive action plan shall be based primarily on market-based measures and shall not put an undue burden on natural gas undertakings, or negatively impact on the functioning of the internal market in gas.
+4.   Member States, and in particular their competent authorities, shall ensure that all preventive non-market-based measures, such as those referred to in Annex VIII, adopted on or after 1 November 2017, irrespective of whether they are part of the preventive action plan or adopted subsequently, comply with the criteria laid down in the first subparagraph of Article 6(2).
+5.   The competent authority shall make public any measure referred to in paragraph 4 which has not yet been included in the preventive action plan, and shall notify to the Commission the description of any such measure and of its impact on the national gas market and, to the extent possible, on the gas markets of other Member States.
+6.   If the Commission doubts whether a measure referred to in paragraph 4 of this Article complies with the criteria laid down in the first subparagraph of Article 6(2) it shall request from the Member State concerned the notification of an impact assessment.
+7.   An impact assessment pursuant to paragraph 6 shall cover at least the following:
+(a)
+the potential impact on the development of the national gas market and competition at national level;
+(b)
+the potential impact on the internal gas market;
+(c)
+the potential impact on the security of gas supply of neighbouring Member States, in particular for those measures that could reduce the liquidity in regional markets or restrict flows to neighbouring Member States;
+(d)
+the costs and benefits, assessed against alternative market-based-measures;
+(e)
+an assessment of necessity and proportionality in comparison with possible market-based measures;
+(f)
+an appreciation whether the measure ensures equal possibilities for all market participants;
+(g)
+a phase-out strategy, the expected duration of the envisaged measure and an appropriate review calendar.
+The analysis referred to in points (a) and (b) shall be carried out by the national regulatory authority. The impact assessment shall be made public by the competent authority and shall be notified to the Commission.
+8.   Where the Commission considers, based on the impact assessment, that the measure is likely to endanger the security of gas supply of other Member States or of the Union it shall take a decision within four months of notification of the impact assessment requiring, to the extent necessary, the amendment or withdrawal of the measure.
+The adopted measure shall enter into force only when it is approved by the Commission or has been amended in accordance with the Commission decision.
+The four-month period shall begin on the day following receipt of a complete notification. The four-month period may be extended with the consent of both the Commission and the competent authority.
+9.   Where the Commission considers, based on the impact assessment, that the measure does not comply with the criteria laid down in the first paragraph of Article 6(2) it may issue an opinion within four months of notification of the impact assessment. The procedure set out in Article 8(8) and (9) shall apply.
+The four-month period shall begin on the day following receipt of a complete notification. The four-month period may be extended with the consent of both the Commission and the competent authority.
+10.   Article 8(9) shall apply to any measure subject to paragraphs 6 to 9 of this Article.
+11.   The preventive action plan shall be updated every four years after 1 March 2019 or more frequently if the circumstances so warrant or at the Commission's request. The updated plan shall reflect the updated risk assessment and the results of the tests carried out in accordance with Article 10(3). Article 8 shall apply to the updated plan.

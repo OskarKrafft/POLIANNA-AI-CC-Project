@@ -1,0 +1,19 @@
+Article 79
+Placing of crypto-assets
+1.   Crypto-asset service providers placing crypto-assets shall communicate the following information to the offeror, to the person seeking admission to trading, or to any third party acting on their behalf, before entering into an agreement with them:
+(a)
+the type of placement under consideration, including whether a minimum amount of purchase is guaranteed or not;
+(b)
+an indication of the amount of transaction fees associated with the proposed placing;
+(c)
+the likely timing, process and price for the proposed operation;
+(d)
+information about the targeted purchasers.
+Crypto-asset service providers placing crypto-assets shall, before placing those crypto-assets, obtain the agreement of the issuers of those crypto-assets or any third party acting on their behalf as regards the information listed in the first subparagraph.
+2.   Crypto-asset service providers’ rules on conflicts of interest referred to in Article 72(1) shall have specific and adequate procedures in place to identify, prevent, manage and disclose any conflicts of interest arising from the following situations:
+(a)
+crypto-asset service providers place the crypto-assets with their own clients;
+(b)
+the proposed price for placing of crypto-assets has been overestimated or underestimated;
+(c)
+incentives, including non-monetary incentives, are paid or granted by the offeror to crypto-asset service providers.

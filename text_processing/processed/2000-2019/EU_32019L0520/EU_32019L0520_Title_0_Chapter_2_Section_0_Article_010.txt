@@ -1,0 +1,10 @@
+Article 10
+Rights and obligations of EETS users
+1.   Member States shall take the measures necessary to allow EETS users to subscribe to EETS through any EETS provider, regardless of their nationality, Member State of residence or the Member State in which the vehicle is registered. When entering into a contract, EETS users shall be duly informed about valid means of payment and, in accordance with Regulation (EU) 2016/679, about the processing of their personal data and the rights stemming from applicable legislation on the protection of personal data.
+2.   The payment of a toll by an EETS user to its EETS provider shall be deemed to fulfil the EETS user's payment obligations to the relevant toll charger.
+If two or more OBE are installed or carried on-board a vehicle, it is the responsibility of the EETS user to use or activate the relevant OBE for the specific EETS domain.
+3.   The Commission shall adopt delegated acts in accordance with Article 30, at the latest by 19 October 2019, to further define the obligations of the EETS users regarding:
+(a)
+the provision of data to the EETS provider; and
+(b)
+the use and handling of the OBE.

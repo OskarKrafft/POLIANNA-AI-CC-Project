@@ -1,0 +1,17 @@
+Article 9
+Modifications to the monitoring plan
+1.   Companies shall check regularly, and at least annually, whether a ship’s monitoring plan reflects the nature and functioning of the ship and whether any of the data it contains can be improved, corrected or updated.
+2.   Companies shall modify the monitoring plan without undue delay where any of the following situations occurs:
+(a)
+a change of company;
+(b)
+new energy conversion systems, new types of energy, new systems for connection to OPS, or new substitute sources of energy or new zero-emission technologies enter into use;
+(c)
+a change in availability of data, due to the use of new types of measuring equipment, new sampling methods or analysis methods, or for other reasons, may affect the accuracy of the data collected;
+(d)
+companies, verifiers or competent authorities have found that data resulting from the monitoring method applied are incorrect;
+(e)
+verifiers have identified any part of the monitoring plan as not being in conformity with the requirements of this Regulation and the company is required by the verifier to revise it in accordance with Article 11(1);
+(f)
+companies, verifiers or competent authorities have found that the methods to prevent data gaps and identify data errors are inadequate to ensure data accuracy, completeness and transparency.
+3.   Companies shall notify to the verifiers without undue delay any proposals for modification of the monitoring plan.

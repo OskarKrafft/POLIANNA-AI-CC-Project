@@ -1,0 +1,367 @@
+Article 24
+Electronic transmission of landing declaration data
+1.   The master of a Union fishing vessel or a representative of the master shall submit by electronic means the information referred to in Article 23(2) to the competent authority of their flag Member State within 24 hours after completion of the landing.
+2.   By way of derogation from paragraph 1 of this Article, for fishery products which are weighed in accordance with Article 60(3), points (c) and (d), the master or a representative of the master shall submit by electronic means the information referred to in Article 23 to the competent authority of the flag Member State within 24 hours after the completion of the weighing.
+3.   Where a Union fishing vessel lands catches in a Member State other than its flag Member State, the competent authorities of the flag Member State shall immediately upon receipt forward the landing declaration data by electronic means to the competent authorities of the Member State in whose territory the catch was landed.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 119a supplementing this Regulation by:
+(a)
+laying down detailed rules on derogations concerning the submission of the landing declaration;
+(b)
+laying down the rules to be applied in the event of technical or communication failure or non-functioning of electronic recording and reporting systems for landing declaration data;
+(c)
+adopting measures to be taken in the event of non-receipt of landing declaration data;
+(d)
+adopting rules on the access to landing declaration data and measures to be taken in the event of data access failure.
+5.   The Commission may, by means of implementing acts, lay down detailed rules on:
+(a)
+the format and procedure for submission of the landing declaration;
+(b)
+the completion and digital recording of landing declaration data;
+(c)
+the functioning of the electronic recording and reporting systems for landing declaration data;
+(d)
+the requirements for the transmission of landing declaration data from a Union fishing vessel to the competent authorities of its flag State and return messages from the authorities.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(22)
+Article 25 is deleted.
+(23)
+Article 26 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessels’ are replaced by the words ‘catching vessels’, and the words ‘fishing vessel’ are replaced by the words ‘catching vessel’;
+(b)
+in paragraphs 2 and 3, the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’;
+(c)
+in paragraph 4, the words ‘fishing vessels’ are replaced by the words ‘Union catching vessels’;
+(d)
+in paragraph 6, the words ‘fishing vessel’ are replaced by the words ‘catching vessel’.
+(24)
+In Article 27(1), the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’.
+(25)
+Article 28 is deleted.
+(26)
+Article 29 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’;
+(b)
+in paragraph 2, the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’, and the words ‘fishing vessels’ are replaced by the words ‘catching vessels’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   A Member State may choose not to count against any maximum allowable fishing effort the activity of a Union catching vessel in a geographical area subject to a fishing effort regime where that Union catching vessel has been present in that geographical area but was unable to fish because it was assisting another vessel in need of emergency aid or because it was transporting an injured person for emergency medical aid.’.
+(27)
+Article 30 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’;
+(b)
+in paragraph 2, the words ‘fishing vessel’ are replaced by the words ‘Union catching vessel’.
+(28)
+Article 31 is replaced by the following:
+‘Article 31
+Catching vessels exempted from the application of a fishing effort regime
+This Section shall not apply to Union catching vessels to the extent that they are exempted from the application of a fishing effort regime.’.
+(29)
+Article 32 is deleted.
+(30)
+Article 33 is replaced by the following:
+‘Article 33
+Recording of catches and fishing effort
+1.   Each flag Member State or, in the case of fishing without a vessel, each coastal Member State shall record all data relating to catches and fishing effort referred to in this Regulation, in particular data referred to in Articles 14, 21, 23, 54d, 55, 62, 66 and 68, and shall keep the originals of those data for a period of at least three years in accordance with national law.
+2.   Before the 15th day of each month, each flag Member State or, in the case of fishing without a vessel, each coastal Member State shall submit by electronic means to the Commission or the body designated by it, the aggregated data on:
+(a)
+the quantities of each species, if applicable by stock or group of stocks, caught and kept on board, and the quantities of each species discarded, in live-weight equivalent, during the preceding month, including, as a separate entry, those below the applicable minimum conservation reference size;
+(b)
+the fishing effort deployed during the preceding month for each fishing area subject to a fishing effort regime or, where appropriate, for each fishery subject to a fishing effort regime;
+(c)
+the quantities of each species, if applicable by stock or group of stocks, caught in the case of fishing without a vessel, and the quantities of each species discarded, in live-weight equivalent, during the preceding month, including, as a separate entry, those below the applicable minimum conservation reference size.
+3.   Where the data submitted by a Member State in accordance with paragraph 2 are based on estimates for a species, a stock or a group of stocks, the Member State shall submit to the Commission the corrected data on quantities established on the basis of landing declarations, sales notes or catch declarations as soon as possible and no later than three months after the end of the period for which the quota or fishing effort limit was set.
+4.   Where a Member State detects inconsistencies between the information submitted to the Commission in accordance with paragraphs 2 and 3 of this Article and the results of the validation performed in accordance with Article 109, the Member State shall submit to the Commission the corrected data on quantities established on the basis of that validation as soon as possible and no later than six months after the end of the period for which the quota or fishing effort limit was set.
+5.   Where the Commission detects inconsistencies concerning the data submitted by a Member State to the Commission in accordance with this Article, it shall consult the Member State concerned, which shall correct the data and submit the corrected data to the Commission as soon as possible.
+6.   Catches of each species, a stock or a group of stocks subject to a quota shall be counted against the quotas applicable to the Member States in accordance with Article 15 of Regulation (EU) No 1380/2013.
+7.   Catches taken in the framework of scientific research which are marketed and sold, including, where appropriate, those below the applicable minimum conservation reference size, shall be recorded by the Member States and the data on such catches shall be submitted to the Commission. The catches shall be counted against the quota applicable to the flag Member State insofar as they exceed 2 % of the quota concerned. This paragraph shall not apply to catches taken during mandatory research surveys at sea as referred to in Article 5(1), point (b), of Regulation (EU) 2017/1004 of the European Parliament and of the Council (*8).
+8.   Except for fishing effort deployed by catching vessels that are exempted from the application of a fishing effort regime, all fishing effort deployed by Union catching vessels when carrying on board or, where appropriate, using a fishing gear which is subject to a fishing effort regime or operating in a fishery subject to a fishing effort regime in a geographical area subject to that fishing effort regime shall be counted against the maximum allowable fishing effort related to such fishing gear, fishery or geographical area which is available to the flag Member State concerned.
+9.   Fishing effort deployed in the framework of scientific research by a catching vessel carrying a fishing gear which is subject to a fishing effort regime or operating in a fishery subject to a fishing effort regime in a geographical area subject to that fishing effort regime shall be counted against the maximum allowable fishing effort related to such fishing gear, fishery or geographical area which is available to its flag Member State, if the catches taken during the deployment of that fishing effort are marketed and sold, insofar as they exceed 2 % of the fishing effort allocated. This paragraph shall not apply to catches taken during mandatory research surveys at sea as referred to in Article 5(1), point (b), of Regulation (EU) 2017/1004.
+10.   The Commission may, by means of implementing acts, lay down rules concerning the formats for the transmission of the data referred to in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+
+(*8)  Regulation (EU) 2017/1004 of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (OJ L 157, 20.6.2017, p. 1).’."
+                        
+(31)
+Article 34 is replaced by the following:
+‘Article 34
+Data on exhaustion of fishing opportunities
+The Commission may request a Member State to submit more detailed information than that provided for in Article 33 where 80 % of a quota for a stock or a group of stocks is deemed to be exhausted, or where 80 % of the maximum allowable fishing effort for a fishing gear or a specific fishery and a corresponding geographical area is deemed to have been reached.’.
+(32)
+Article 35 is amended as follows:
+(a)
+paragraphs 1, 2 and 3 are replaced by the following:
+‘1.   Each Member State shall establish the date from which:
+(a)
+the catches of a stock or a group of stocks subject to the quota of the Member State is to be deemed to have exhausted that quota;
+(b)
+the maximum allowable fishing effort for a fishing gear or a fishery and a corresponding geographical area is to be deemed to have been reached.
+2.   As from the date referred to in paragraph 1, the Member State concerned shall prohibit fishing operations, as well as fishing without a vessel, for the stock or the group of stocks for which the quota has been exhausted, in the relevant fishery, or when carrying on board the relevant fishing gear in the geographical area where the maximum allowable fishing effort has been reached, by all or part of the catching vessels flying the flag of that Member State or, as applicable, by its operators in the case of fishing without a vessel. In such a case, that Member State may fix a date by which transhipments, transfers and landings or final declarations of catches have to be completed.
+3.   The decision referred to in paragraph 2 shall be made public by the Member State concerned and immediately communicated to the Commission. The Commission shall make it publicly available on its website.’
+(b)
+the following paragraph is inserted:
+‘3a.   As from the date on which the decision referred to in paragraph 2 was made public by the Member State concerned, that Member State shall ensure that no fishing operations by any catching vessel flying its flag, or fishing without a vessel by its operators, take place for the stock or group of stocks concerned.’.
+(33)
+In Article 36, paragraph 2 is replaced by the following:
+‘2.   Where the Commission finds that fishing opportunities available to the Union, a Member State or group of Member States are deemed to have been exhausted, the Commission shall inform the Member States concerned thereof and may, by means of implementing acts, prohibit fishing operations, as well as fishing without a vessel, for the relevant area, fishing gear, stock, group of stocks or fleet involved in those fishing operations.’.
+(34)
+Article 37 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Where the Commission has prohibited fishing operations, as well as fishing without a vessel, because of the alleged exhaustion of the fishing opportunities available to a Member State or group of Member States or to the Union and it transpires that a Member State has not in fact exhausted its fishing opportunities, this Article shall apply.
+2.   If the prejudice suffered by the Member State for which fishing operations have been prohibited before its fishing opportunities were exhausted has not been removed, the Commission shall, by means of implementing acts, adopt measures with the aim of remedying, in an appropriate manner, the prejudice caused. Those implementing acts shall, in particular, lay down:
+(a)
+the notification of a prejudice suffered;
+(b)
+the identification of the Member States which suffered prejudice and the amount of the prejudice;
+(c)
+the identification of the Member States which have overfished, and the quantities of fish caught in excess;
+(d)
+the deductions to be made from the fishing opportunities of Member States which have overfished, in proportion to the exceeded fishing opportunities;
+(e)
+the additions to be made to the fishing opportunities of the prejudiced Member States in proportion to the prejudice suffered;
+(f)
+the dates on which the additions and deductions shall take effect.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’
+                                             
+(b)
+paragraph 4 is deleted.
+(35)
+In Title IV, the heading of Chapter II is replaced by the following:
+
+                                       ‘
+                                       Chapter II
+
+
+Control of fishing capacity
+                                       ’.
+(36)
+Article 38 is replaced by the following:
+‘Article 38
+Fishing capacity
+1.   Member States shall be responsible for carrying out the necessary checks in order to ensure that the total capacity corresponding to the fishing licences issued by a Member State concerned, in GT and in kW, shall at any moment not be higher than the maximum capacity levels for that Member State established in accordance with Article 22 of Regulation (EU) No 1380/2013.
+2.   The Commission may, by means of implementing acts, lay down detailed rules for the application of this Article concerning:
+(a)
+the verification of the engine power of catching vessels;
+(b)
+the verification of the tonnage of catching vessels;
+(c)
+the verification of the type, number and characteristics of the fishing gear.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(37)
+In Chapter II of Title IV, the heading of Section 2 is replaced by the following:
+
+                                       ‘SECTION 2
+ENGINE POWER AND TONNAGE’.
+(38)
+Article 39 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessel’ are replaced by the words ‘catching vessel’;
+(b)
+the following paragraph is inserted:
+‘2a.   When a catching vessel exceeds the authorised engine power set out in the fishing licence, a regularisation may be carried out within a maximum period and in accordance with criteria established by the flag Member State concerned.’
+(c)
+paragraph 3 is replaced by the following:
+‘3.   All costs arising from the certification and verification of engine power under this Article shall be borne by the flag Member States. In accordance with Article 39 of Regulation (EU) No 1380/2013, Member States may require the operators of the catching vessels flying their flag involved in the relevant fishery to contribute to those costs.’.
+(39)
+The following article is inserted:
+‘Article 39a
+Continuous monitoring of engine power
+1.   Member States shall, based on a risk assessment, determine which vessels equipped with inboard propulsive engines with a certified engine power exceeding 221 kilowatts and using towed gear, as defined in Article 6, point (12), of Regulation (EU) 2019/1241, pose a high risk of non-compliance with the rules of the common fisheries policy concerning engine power. They shall ensure that those vessels are equipped with permanently installed systems that measure and record engine power continuously.
+2.   Member States shall also ensure that catching vessels are equipped with permanently installed systems that measure and record engine power continuously in cases where those vessels use bottom trawls or Danish seines, are equipped with inboard propulsive engines with a certified engine power between 120 and 221 kilowatts, and are operating in the area referred to in part C, point 2.1, of Annex V to Regulation (EU) 2019/1241.
+3.   The systems referred to in paragraph 1 shall ensure the continuous measurement of propulsive engine power in kilowatts and the storage of those data on board.
+4.   Masters of catching vessels and holders of fishing licences shall ensure that the systems referred to in paragraph 1 function at all times and that the data from the continuous measurement of propulsive engine power are recorded and stored on board and are accessible on board the vessels at all times to officials.
+5.   The Commission shall, by means of implementing acts, lay down detailed rules concerning the installation, technical requirements and characteristics of the systems referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+6.   The risk assessment referred to in paragraph 1 shall:
+(a)
+establish the level of risk of non-compliance by fleet segment, based on gear, area covered, effort regime, species targeted, power reduction and speed;
+(b)
+take into consideration confirmed infringements related to the use of an engine with an engine power exceeding that indicated on the engine certificate;
+(c)
+include an analysis determining the likelihood and impact of non-compliance with the rules of the common fisheries policy concerning engine power, in particular as regards overfishing;
+(d)
+take into consideration the exceeding of the capacity ceiling.
+7.   The risk assessment shall be jointly carried out by the Member States, in cooperation with EFCA.
+8.   Member States may provide that Union catching vessels flying their flag equipped with inboard propulsive engines with a certified engine power of no more than 221 kilowatts and using towed gear, as defined in Article 6, point (12), of Regulation (EU) 2019/1241, shall be equipped with permanently installed systems that measure and record engine power continuously, based on the risk of non-compliance with the rules of the common fisheries policy concerning engine power.’.
+(40)
+Article 40 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessels’ are replaced by the words ‘catching vessels’;
+(b)
+in paragraph 2, the words ‘fishing vessels’ are replaced by the words ‘catching vessels’;
+(c)
+paragraph 5 is deleted;
+(d)
+paragraph 6 is replaced by the following:
+‘6.   The Commission may, by means of implementing acts, lay down detailed rules concerning the certification of propulsion engine power. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(41)
+Article 41 is replaced by the following:
+‘Article 41
+Verification of engine power
+1.   In the case of catching vessels which are not equipped with a continuous monitoring system as provided in Article 39a, Member States shall, following a risk analysis, undertake data verification, in accordance with a sampling plan based on the methodology to be adopted in accordance with paragraph 5 of this Article, of the consistency of engine power using all the information available concerning the characteristics of the vessel concerned. In particular, they shall verify the information contained in:
+(a)
+vessel position data;
+(b)
+fishing logbook data;
+(c)
+the Engine International Air Pollution Prevention (EIAPP) certificate issued for the engine in accordance with Annex VI to the MARPOL 73/78 Convention;
+(d)
+class certificates issued by a recognised ship inspection and survey organisation within the meaning of Directive 2009/15/EC of the European Parliament and of the Council (*9);
+(e)
+the sea trial certificate;
+(f)
+the Union fishing fleet register; and
+(g)
+any other documents providing relevant information on vessel power or any related technical characteristics.
+2.   Where, following the analysis of the information referred to in paragraph 1, there are indications that the engine power of a catching vessel exceeds the power indicated in the fishing licence or in the Union or national fishing fleet register, Member States shall proceed with a physical verification of the engine power or shall ensure that the catching vessel concerned is equipped with a system referred to in Article 39a(1).
+3.   For the purpose of verifying the engine power of a catching vessel, Member States shall apply the requirements adopted by the International Organisation for Standardisation in its recommended International Standard ISO 15016:2015 or equivalent European or national recognised methods.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 119a amending paragraph 3 of this Article in order to adapt the reference to the relevant ISO International Standard to technical progress.
+5.   The Commission may, by means of implementing acts, lay down detailed rules concerning the verification of engine power, including the methodology for establishing the sampling plan. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+
+(*9)  Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations (OJ L 131, 28.5.2009, p. 47).’."
+                        
+(42)
+The following article is inserted:
+‘Article 41a
+Verification of tonnage
+1.   Where there is evidence that the tonnage of a catching vessel differs from the tonnage indicated in the fishing licence, the flag Member State shall proceed with a verification of the tonnage. For that purpose, the Member States shall take into consideration, in particular, changes to the enclosed volume or dimensions of the vessel.
+2.   The Commission may, by means of implementing acts, lay down detailed rules concerning the verification of tonnage. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(43)
+Article 42 is amended as follows:
+(a)
+in paragraph 1, the words ‘in places close to the shore’ are replaced by the words ‘at a designated landing site’;
+(b)
+in paragraph 2, the words ‘in places close to the shore’ are replaced by the words ‘at designated landing sites’, and the words ‘Articles 60 and 61’ are replaced by ‘Article 60’.
+(44)
+Article 43 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   In a multiannual plan a threshold may be set, applicable to the live weight of species subject to that plan, above which a Union fishing vessel shall be required to land catches in a designated port or at a designated landing site.
+2.   Where quantities retained on board exceed the threshold referred to in paragraph 1, the master of a Union fishing vessel shall ensure that the landing of catches is carried out in a designated port or at a designated landing site in the Union.’
+(b)
+in paragraphs 4, 5 and 6, the words ‘places close to the shore’ are replaced by the words ‘landing sites’;
+(c)
+paragraph 7 is deleted.
+(45)
+Article 44 is replaced by the following:
+‘Article 44
+Separate stowage of demersal catches subject to multiannual plans
+1.   Catches of demersal stocks subject to a multiannual plan which are retained on board a Union fishing vessel of 12 metres in length overall or more, and which are not below the minimum conservation reference size, shall be placed in boxes, compartments or containers separately for each of such stocks in such a way that they are identifiable from other boxes, compartments or containers.
+2.   Masters of Union fishing vessels shall keep the catches referred to in paragraph 1 according to a stowage plan that indicates the location of the different species in the holds.
+3.   It shall be prohibited to retain on board a Union fishing vessel in any box, compartment or container any quantity of catches referred to in paragraph 1 mixed with any other fishery products.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 119a concerning the exemption of certain demersal stocks from the obligation set out in this Article.’.
+(46)
+Articles 45 and 46 are deleted.
+(47)
+Article 48 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   A Union catching vessel shall have equipment on board to retrieve its lost gear, including fishing gear, fishing aggregating devices and buoys.’
+(b)
+in paragraph 2, the words ‘fishing vessel’ are replaced by the words ‘catching vessel’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   If the lost gear cannot be retrieved, the master of the catching vessel shall include the information on the lost gear in the fishing logbook pursuant to Article 14(7). The competent authority of the flag Member State shall without delay forward that information to the competent authority of the coastal Member State.’
+(d)
+in paragraph 4, the words ‘fishing vessel’ are replaced by the words ‘catching vessel’;
+(e)
+paragraph 5 is replaced by the following:
+‘5.   Member States shall collect and record information concerning lost gear and provide that information to the Commission or EFCA upon request.
+6.   By 31 December every year, the Commission shall make publicly available on its website a compilation of the information referred to in paragraph 5 for the preceding year. The Commission may request EFCA to assist in the compilation of such information.’.
+(48)
+Article 49 is amended as follows:
+(a)
+in paragraph 1, the words ‘fishing vessel’ are replaced by the words ‘catching vessel’;
+(b)
+paragraph 2 is replaced by the following:
+‘2.   Without prejudice to Article 44, the Commission may, by means of implementing acts, lay down detailed rules on the keeping on board of a stowage plan, by species, for processed products, indicating where they are located in the hold. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(49)
+Article 50 is replaced by the following:
+‘Article 50
+Control of fishing restricted areas
+1.   Fishing activities in fishing restricted areas located in Union waters shall be controlled by the coastal Member State. The coastal Member State shall have a system to detect and record the fishing vessels’ entry into, transit through and exit from fishing restricted areas under its sovereignty or jurisdiction.
+2.   Fishing activities of Union fishing vessels in fishing restricted areas located in third-country waters or on the high seas shall be controlled by the flag Member States.
+3.   Union and third-country catching vessels that are not authorised to conduct fishing activities in fishing restricted areas may only transit through such areas subject to the following conditions:
+(a)
+all fishing gear carried on board is lashed and stowed during the transit;
+(b)
+the transit is continuous and expeditious and the speed during transit is not less than six knots, except in cases of force majeure. In such cases, the master of a Union catching vessel shall immediately inform the fisheries monitoring centre of its flag Member State, which shall inform the competent authorities of the coastal Member State, and the master of a third-country catching vessel shall immediately inform the competent authorities of the coastal Member State; and
+(c)
+the tracking device referred to in Article 9 is functioning.
+4.   Paragraph 3 shall apply only insofar as the relevant restriction or prohibition of all or certain fishing activities in fishing restricted areas are in force.’.
+(50)
+The following chapter is inserted after Article 54c:
+
+                                       ‘
+                                       Chapter Iva
+
+
+Control of fishing without a vessel
+
+Article 54d
+Fishing without a vessel
+1.   Member States shall ensure that fishing without a vessel on their territory and in Union waters is conducted in accordance with the objectives and rules of the common fisheries policy.
+2.   For the purpose referred to in paragraph 1, Member States shall:
+(a)
+put in place a licensing or other alternative registration system for natural and legal persons conducting such activities; and
+(b)
+ensure that the quantities of species, stocks or group of stocks caught are recorded and that those records are submitted by electronic means to the competent authorities.
+3.   Natural or legal persons conducting fishing without a vessel or their representative shall record the catches referred to in paragraph 2, point (b), and those records shall contain in particular the following information:
+(a)
+a unique fishing day identification number;
+(b)
+the unique identifier in the system referred to in paragraph 2, point (a);
+(c)
+the FAO alpha-3 code of each species and the relevant geographical area in which the catches were taken;
+(d)
+the date of catches;
+(e)
+the category of fishing gear, where applicable;
+(f)
+the quantities of each species in kilograms live weight or, where appropriate, the number of individuals, including the quantities or individuals below the applicable minimum conservation reference size, as a separate entry;
+(g)
+where applicable, estimated quantities of each species discarded in kilograms live weight or, where appropriate, the number of individuals.
+4.   The records referred to in paragraph 2, point (b), shall be submitted to the competent authorities by electronic means at least once within 24 hours after the start of the fishing activity.
+5.   The Commission may, by means of implementing acts, lay down detailed rules on the weighing of catches, as well as the format and submission of the catch declaration referred to in paragraph 3, taking into account, if necessary, the specificities of those fisheries. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(51)
+Article 55 is replaced by the following:
+‘Article 55
+Recreational fisheries
+1.   Member States shall ensure that recreational fisheries on their territory and in Union waters are conducted in a manner compatible with the objectives and rules of the common fisheries policy.
+For that purpose coastal Member States shall have in place an electronic system for the recording and reporting of catches from recreational fisheries.
+Coastal Member States may use an electronic system referred to in the second subparagraph developed at national or Union level. If one or more coastal Member States so request by 10 May 2024, the Commission shall develop such a system. A requesting Member State shall implement the system as developed by the Commission.
+2.   Except for data for recreational fisheries recorded and reported pursuant to paragraph 3 and without prejudice to the collection of data for recreational fisheries under Regulation (EU) 2017/1004, coastal Member States shall collect data on catches by natural persons engaged in recreational fisheries for species, stocks or groups of stocks for which fishing opportunities are set by the Union, which are covered by a multiannual plan, or which are subject to the landing obligation. Those data shall be collected through data collection mechanisms based on a methodology, which shall be determined by each coastal Member State and notified to the Commission. Coastal Member States shall send those data to the Commission at least once a year referring to the preceding calendar year.
+3.   Coastal Member States shall ensure that natural persons engaged in recreational fisheries are registered and that they record and report their catches through an electronic system referred to paragraph 1 as follows:
+(a)
+For species, stocks, or groups of stocks that are subject to Union conservation measures which apply specifically to recreational fisheries, such as quotas, catch limits and bag limits, on a daily basis; and
+(b)
+for species, stocks or groups of stocks for which fishing opportunities are set by the Union or which are covered by a multiannual plan or which are subject to the landing obligation, and for which species scientific advice from the Scientific, Technical and Economic Committee for Fisheries (STECF), ICES or an equivalent scientific body indicates that recreational fisheries are having a significant impact on the fishing mortality, as from 1 January 2030.
+The Commission may, by way of implementing acts, adopt the list of species, stocks or groups of stocks to which point (b) of the first subparagraph applies and to set the frequency of recording and reporting of these catches. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+4.   The recording and reporting of catches from recreational fisheries by natural persons may be carried out by a legal person on their behalf.
+5.   The marketing or sale of catches from recreational fisheries shall be prohibited.
+6.   The Commission may, by way of implementing acts, adopt detailed rules concerning:
+(a)
+the submission to the Commission of catch data collected by Member States under paragraphs 2 and 3;
+(b)
+the marking of gear used for recreational fisheries, except hand-held gear, in a simple and proportionate manner.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+7.   This Article shall apply to any recreational fishing activities, including fishing activities organised by commercial entities in the tourism sector and in the sector of sports competition.’.
+(52)
+The heading of Title V is replaced by the following:
+
+                                       ‘
+                                       TITLE V
+
+
+CONTROL IN THE SUPPLY CHAIN
+                                       ’.
+(53)
+In Title V, Chapter I is replaced by the following:
+
+                                       ‘
+                                       Chapter I
+
+
+General provisions
+

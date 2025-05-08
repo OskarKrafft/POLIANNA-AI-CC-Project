@@ -1,0 +1,26 @@
+Article 116
+Exposures to public sector entities
+1.   Exposures to public sector entities for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight according to the credit quality step to which exposures to the central government of the jurisdiction in which the public sector entity is incorporated are assigned in accordance with the following Table 2:
+
+Table 2
+
+Credit quality step to which central government is assigned
+1
+2
+3
+4
+5
+6
+Risk weight
+20  %
+50  %
+100  %
+100  %
+100  %
+150  %
+For exposures to public sector entities incorporated in countries where the central government is unrated, the risk weight shall be 100 %.
+2.   Exposures to public sector entities for which a credit assessment by a nominated ECAI is available shall be treated in accordance with Article 120. The preferential treatment for short-term exposures specified in Articles 119(2) and 120(2), shall not be applied to those entities.
+3.   For exposures to public sector entities with an original maturity of three months or less, the risk weight shall be 20 %.
+4.   In exceptional circumstances, exposures to public-sector entities may be treated as exposures to the central government, regional government or local authority in whose jurisdiction they are established where in the opinion of the competent authorities of this jurisdiction there is no difference in risk between such exposures because of the existence of an appropriate guarantee by the central government, regional government or local authority.
+5.   When competent authorities of a third country jurisdiction, which apply supervisory and regulatory arrangements at least equivalent to those applied in the Union, treat exposures to public sector entities in accordance with paragraph 1 or 2, institutions may risk weight exposures to such public sector entities in the same manner. Otherwise the institutions shall apply a risk weight of 100 %.
+For the purposes of this paragraph, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to whether a third country applies supervisory and regulatory arrangements at least equivalent to those applied in the Union. In the absence of such a decision, until 1 January 2015, institutions may continue to apply the treatment set out in this paragraph to the third country where the relevant competent authorities had approved the third country as eligible for that treatment before 1 January 2014.

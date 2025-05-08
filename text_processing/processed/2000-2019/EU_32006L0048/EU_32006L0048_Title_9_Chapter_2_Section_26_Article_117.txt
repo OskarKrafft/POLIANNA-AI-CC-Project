@@ -1,0 +1,13 @@
+Article 117
+1.   Where an exposure to a client is guaranteed by a third party, or by collateral in the form of securities issued by a third party under the conditions laid down in Article 113(3)(o), Member States may:
+(a)
+treat the exposure as having been incurred to the guarantor rather than to the client; or
+(b)
+treat the exposure as having been incurred to the third party rather than to the client, if the exposure defined in Article 113(3)(o) is guaranteed by collateral under the conditions there laid down.
+2.   Where Member States apply the treatment provided for in point (a) of paragraph 1:
+(a)
+where the guarantee is denominated in a currency different from that in which the exposure is denominated the amount of the exposure deemed to be covered will be calculated in accordance with the provisions on the treatment of currency mismatch for unfunded credit protection in Annex VIII;
+(b)
+a mismatch between the maturity of the exposure and the maturity of the protection will be treated in accordance with the provisions on the treatment of maturity mismatch in Annex VIII; and
+(c)
+partial coverage may be recognised in accordance with the treatment set out in Annex VIII.

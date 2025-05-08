@@ -1,0 +1,28 @@
+Article 14
+Notification of national rules
+1.   Member States shall notify to the Commission and to the Agency the existing national rules referred to in Article 13(2) in the following cases:
+(a)
+where the national rule(s) has/have not been notified by 15 June 2016. In that case, they shall be notified by 16 December 2016;
+(b)
+each time the rules are changed;
+(c)
+when a new request has been submitted in accordance with Article 7 for non-application of the TSI;
+(d)
+where national rules become redundant after publication or revision of the TSI concerned.
+2.   Member States shall notify the full text of national rules referred to in paragraph 1 through the appropriate IT system in accordance with Article 27 of Regulation (EU) 2016/796.
+3.   Member States shall ensure that national rules referred to in paragraph 1, including those covering the interfaces between vehicles and networks, are easily accessible, in the public domain and formulated in terminology that all interested parties can understand. Member States may be requested to provide additional information on those national rules.
+4.   Member States may lay down new national rules only in the following cases:
+(a)
+when a TSI does not fully meet the essential requirements;
+(b)
+as an urgent preventive measure, in particular following an accident.
+5.   Member States shall submit, through the appropriate IT system in accordance with Article 27 of Regulation (EU) 2016/796, the drafts of new national rules to the Agency and the Commission for consideration before the expected introduction of the proposed new rule into the national legal system, in due time and within the deadlines referred to in Article 25(1) of Regulation (EU) 2016/796 and provide justification for the introduction of that new national rule. Member States shall ensure that the draft is sufficiently developed to allow the Agency to carry out its examination in accordance with Article 25(2) of Regulation (EU) 2016/796.
+6.   When they adopt a new national rule, Member States shall notify it to the Agency and the Commission through the appropriate IT system in accordance with Article 27 of Regulation (EU) 2016/796.
+7.   In the case of urgent preventive measures, Member States may adopt and apply a new national rule immediately. That rule shall be notified in accordance with Article 27(2) of Regulation (EU) 2016/796 and subject to the assessment of the Agency in accordance with Article 26(1), (2) and (5) of that Regulation.
+8.   When notifying a national rule referred to in paragraph 1 or a new national rule, Member States shall provide justification of the need for that rule in order to fulfil an essential requirement not already covered by the relevant TSI.
+9.   Draft national rules and national rules referred to in paragraph 1 shall be examined by the Agency in accordance with the procedures laid down in Articles 25 and 26 of Regulation (EU) 2016/796.
+10.   The Commission shall establish, by means of implementing acts, the classification of the notified national rules in different groups with the aim of facilitating cross-acceptance in different Member States and the placing on the market of vehicles, including compatibility between fixed and mobile equipment. Those implementing acts shall build on the progress achieved by the Agency in the field of cross-acceptance and shall be adopted in accordance with the examination procedure referred to in Article 51(3).
+The Agency shall classify, in accordance with the implementing acts referred to in the first subparagraph, the national rules which are notified in accordance with this Article.
+11.   Member States may decide not to notify rules and restrictions of a strictly local nature. In such cases, Member States shall mention those rules and restrictions in the registers of infrastructure referred to in Article 49.
+12.   National rules notified under this Article are not subject to the notification procedure set out in Directive (EU) 2015/1535 of the European Parliament and of the Council (14).
+13.   National rules not notified in accordance with this Article shall not apply for the purposes of this Directive.

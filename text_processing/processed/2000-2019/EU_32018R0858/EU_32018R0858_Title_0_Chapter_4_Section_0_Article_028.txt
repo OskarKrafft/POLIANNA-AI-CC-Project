@@ -1,0 +1,23 @@
+Article 28
+EU type-approval certificate
+1.   The EU type-approval certificate shall contain the following attachments:
+(a)
+the information package referred to in Article 26(4);
+(b)
+the test reports referred to in Article 30 in the case of a system, component or separate technical unit type-approval, or the test results sheet in the case of whole-vehicle type-approval;
+(c)
+in the case of the whole-vehicle type-approval, the name and the specimen of the signature of the person or persons authorised to sign the certificates of conformity and a statement of their position in the company;
+(d)
+in the case of the whole-vehicle type-approval, a filled-out specimen of the certificate of conformity of the vehicle type.
+2.   The EU type-approval certificate shall be given a unique number in accordance with a harmonised numbering system, which shall at least allow for the identification of the Member State which granted the EU type-approval and for the identification of the requirements to which the type of vehicle, system, component or separate technical unit conforms.
+3.   The Commission shall adopt implementing acts laying down the templates for the EU type-approval certificate, the harmonised numbering system, and the test result sheet, respectively, including providing the relevant electronic formats. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted by 5 July 2020.
+4.   In respect of each type of vehicle, system, component and separate technical unit, the approval authority shall:
+(a)
+complete all the relevant sections of the EU type-approval certificate, including its attachments;
+(b)
+compile the index to the information package as referred to in Article 26(4);
+(c)
+issue the completed EU type-approval certificate and its attachments to the manufacturer without delay.
+5.   In the case of an EU type-approval, the validity of which has been restricted in accordance with Article 39, Article 43 or Part III of Annex II, or in relation to which certain provisions of this Regulation or of the regulatory acts listed in Annex II do not apply, the EU type-approval certificate shall specify those restrictions or the relevant provisions that do not apply.
+6.   Where a manufacturer of a vehicle chooses the mixed type-approval procedure, the approval authority shall complete the information package as referred to in Article 26(4) with the references to the test reports referred to in Article 30 for the systems, components or separate technical units for which no EU type-approval certificate has been issued. The approval authority shall also clearly identify in the information package the technical requirements of the regulatory acts listed in Annex II against which the vehicle was tested.
+7.   Where a manufacturer of a vehicle chooses the single-step type-approval procedure, the approval authority shall attach to the EU type-approval certificate a list of relevant regulatory acts in accordance with the template provided in the implementing acts referred to in paragraph 3.

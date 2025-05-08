@@ -1,0 +1,45 @@
+Article 11
+Market soundings
+1.   A market sounding comprises the communication of information, prior to the announcement of a transaction, in order to gauge the interest of potential investors in a possible transaction and the conditions relating to it such as its potential size or pricing, to one or more potential investors by:
+(a)
+an issuer;
+(b)
+a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;
+(c)
+an emission allowance market participant; or
+(d)
+a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).
+2.   Without prejudice to Article 23(3), disclosure of inside information by a person intending to make a takeover bid for the securities of a company or a merger with a company to parties entitled to the securities, shall also constitute a market sounding, provided that:
+(a)
+the information is necessary to enable the parties entitled to the securities to form an opinion on their willingness to offer their securities: and
+(b)
+the willingness of parties entitled to the securities to offer their securities is reasonably required for the decision to make the takeover bid or merger.
+3.   A disclosing market participant shall, prior to conducting a market sounding, specifically consider whether the market sounding will involve the disclosure of inside information. The disclosing market participant shall make a written record of its conclusion and the reasons therefor. It shall provide such written records to the competent authority upon request. This obligation shall apply to each disclosure of information throughout the course of the market sounding. The disclosing market participant shall update the written records referred to in this paragraph accordingly.
+4.   For the purposes of Article 10(1), disclosure of inside information made in the course of a market sounding shall be deemed to be made in the normal exercise of a person’s employment, profession or duties where the disclosing market participant complies with paragraphs 3 and 5 of this Article.
+5.   For the purposes of paragraph 4, the disclosing market participant shall, before making the disclosure:
+(a)
+obtain the consent of the person receiving the market sounding to receive inside information;
+(b)
+inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by acquiring or disposing of, for his own account or for the account of a third party, directly or indirectly, financial instruments relating to that information;
+(c)
+inform the person receiving the market sounding that he is prohibited from using that information, or attempting to use that information, by cancelling or amending an order which has already been placed concerning a financial instrument to which the information relates; and
+(d)
+inform the person receiving the market sounding that by agreeing to receive the information he is obliged to keep the information confidential.
+The disclosing market participant shall make and maintain a record of all information given to the person receiving the market sounding, including the information given in accordance with points (a) to (d) of the first subparagraph, and the identity of the potential investors to whom the information has been disclosed, including but not limited to the legal and natural persons acting on behalf of the potential investor, and the date and time of each disclosure. The disclosing market participant shall provide that record to the competent authority upon request.
+6.   Where information that has been disclosed in the course of a market sounding ceases to be inside information according to the assessment of the disclosing market participant, the disclosing market participant shall inform the recipient accordingly, as soon as possible.
+The disclosing market participant shall maintain a record of the information given in accordance with this paragraph and shall provide it to the competent authority upon request.
+7.   Notwithstanding the provisions of this Article, the person receiving the market sounding shall assess for itself whether it is in possession of inside information or when it ceases to be in possession of inside information.
+8.   The disclosing market participant shall keep the records referred to in this Article for a period of at least five years.
+9.   In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards to determine appropriate arrangements, procedures and record keeping requirements for persons to comply with the requirements laid down in paragraphs 4, 5, 6 and 8.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+10.   In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to specify the systems and notification templates to be used by persons to comply with the requirements established by paragraphs 4, 5, 6 and 8 of this Article, particularly the precise format of the records referred to in paragraphs 4 to 8 and the technical means for appropriate communication of the information referred to in paragraph 6 to the person receiving the market sounding.
+ESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+11.   ESMA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010, addressed to persons receiving market soundings, regarding:
+(a)
+the factors that such persons are to take into account when information is disclosed to them as part of a market sounding in order for them to assess whether the information amounts to inside information;
+(b)
+the steps that such persons are to take if inside information has been disclosed to them in order to comply with Articles 8 and 10 of this Regulation; and
+(c)
+the records that such persons are to maintain in order to demonstrate that they have complied with Articles 8 and 10 of this Regulation.

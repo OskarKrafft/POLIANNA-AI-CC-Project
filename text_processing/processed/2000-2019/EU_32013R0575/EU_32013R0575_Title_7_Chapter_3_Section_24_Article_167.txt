@@ -1,0 +1,4 @@
+Article 167
+Equity exposures
+1.   The exposure value of equity exposures shall be the accounting value remaining after specific credit risk adjustment have been applied.
+2.   The exposure value of off-balance sheet equity exposures shall be its nominal value after reducing its nominal value by specific credit risk adjustments for this exposure.

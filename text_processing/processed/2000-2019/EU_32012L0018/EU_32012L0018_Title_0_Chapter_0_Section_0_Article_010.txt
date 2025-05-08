@@ -1,0 +1,26 @@
+Article 10
+Safety report
+1.   Member States shall require the operator of an upper-tier establishment to produce a safety report for the purposes of:
+(a)
+demonstrating that a MAPP and a safety management system for implementing it have been put into effect in accordance with the information set out in Annex III;
+(b)
+demonstrating that major-accident hazards and possible major-accident scenarios have been identified and that the necessary measures have been taken to prevent such accidents and to limit their consequences for human health and the environment;
+(c)
+demonstrating that adequate safety and reliability have been taken into account in the design, construction, operation and maintenance of any installation, storage facility, equipment and infrastructure connected with its operation which are linked to major-accident hazards inside the establishment;
+(d)
+demonstrating that internal emergency plans have been drawn up and supplying information to enable the external emergency plan to be drawn up;
+(e)
+providing sufficient information to the competent authority to enable decisions to be made regarding the siting of new activities or developments around existing establishments.
+2.   The safety report shall contain at least the data and information listed in Annex II. It shall name the relevant organisations involved in the drawing up of the report.
+3.   The safety report shall be sent to the competent authority within the following time-limits:
+(a)
+for new establishments, a reasonable period of time prior to the start of construction or operation, or prior to the modifications leading to a change in the inventory of dangerous substances;
+(b)
+for existing upper-tier establishments, 1 June 2016;
+(c)
+for other establishments, two years from the date from which this Directive applies to the establishment concerned.
+4.   Paragraphs 1, 2 and 3 shall not apply if the operator has already sent the safety report to the competent authority under the requirements of national law before 1 June 2015, and the information contained therein complies with paragraphs 1 and 2 and has remained unchanged. In order to comply with paragraphs 1 and 2, the operator shall submit any changed parts of the safety report in the format agreed by the competent authority, subject to the time-limits referred to in paragraph 3.
+5.   Without prejudice to Article 11, the operator shall periodically review and where necessary update the safety report at least every five years.
+The operator shall also review and where necessary update the safety report following a major accident at its establishment, and at any other time at the initiative of the operator or at the request of the competent authority, where justified by new facts or by new technological knowledge about safety matters, including knowledge arising from analysis of accidents or, as far as possible, ‘near misses’, and by developments in knowledge concerning the assessment of hazards.
+The updated safety report or updated parts thereof shall be sent to the competent authority without delay.
+6.   Before the operator commences construction or operation, or in the cases referred to in points (b) and (c) of paragraph 3 and in paragraph 5 of this Article, the competent authority shall within a reasonable period of receipt of the report communicate the conclusions of its examination of the safety report to the operator and, where appropriate, in accordance with Article 19, prohibit the bringing into use, or the continued use, of the establishment concerned.

@@ -1,0 +1,13 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘agricultural holding’ or ‘holding’ means a single unit, both technically and economically, which has a single management and which undertakes agricultural activities listed in Annex I within the economic territory of the European Union, either as its primary or secondary activity;
+(b)
+‘livestock unit’ means a standard measurement unit that allows the aggregation of the various categories of livestock in order to enable them to be compared. Livestock units are defined on the basis of the feed requirements of the individual animal categories, for which the coefficients shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 15(2);
+(c)
+‘sample surveys’ means statistical surveys based on stratified random sampling which are designed to provide representative statistics concerning agricultural holdings at regional and national levels. The stratification shall include the size and type of the agricultural holding to ensure that agricultural holdings of different sizes and types are adequately represented;
+(d)
+‘region’ means the NUTS 2 territorial unit defined in Regulation (EC) No 1059/2003;
+(e)
+‘location of the holding’ means the latitude and longitude coordinates within an arc of 5 minutes that avoid the direct identification of an individual holding. If a latitude and longitude location contains only one agricultural holding, then this holding shall be attributed to a neighbouring location, which contains at least one other agricultural holding.

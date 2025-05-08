@@ -1,0 +1,25 @@
+Article 281
+Interest rate risk positions
+1.   In order to calculate interest rate risk position, institutions shall apply the following provisions.
+2.   For interest rate risk positions from the following:
+(a)
+money deposits received from the counterparty as collateral;
+(b)
+a payment legs;
+(c)
+underlying debt instruments,
+to which in each case a capital charge of 1,60 % or less applies in accordance with Table 1 of Article 336, institutions shall assign those positions to one of the six hedging sets for each currency set out in Table 4.
+
+Table 4
+
+ 
+Government referenced interest rates
+Non-government referenced interest rates
+Maturity
+< 1 year
+< 1 year
+>1 ≤ 5 years
+> 5 years
+>1 ≤ 5 years
+> 5 years
+3.   For interest rate risk positions from underlying debt instruments or payment legs for which the interest rate is linked to a reference interest rate that represents a general market interest level, the remaining maturity shall be the length of the time interval up to the next re-adjustment of the interest rate. In all other cases, it shall be the remaining life of the underlying debt instrument or, in the case of a payment leg, the remaining life of the transaction.

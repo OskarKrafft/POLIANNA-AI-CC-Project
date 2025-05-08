@@ -1,0 +1,71 @@
+Article 9
+Specific permission to operate a DLT SS
+1.   A legal person who is authorised as a CSD under Regulation (EU) No 909/2014 may apply for a specific permission to operate a DLT SS under this Regulation.
+2.   Where a legal person applies for authorisation as a CSD under Regulation (EU) No 909/2014 and simultaneously applies for a specific permission under this Article, for the sole purpose of operating a DLT SS, the competent authority shall not assess whether the applicant fulfils those requirements of Regulation (EU) No 909/2014 in respect of which the applicant has requested an exemption in accordance with Article 5 of this Regulation.
+3.   Where, as referred to in paragraph 2 of this Article, a legal person simultaneously applies for authorisation as a CSD and for a specific permission, it shall submit in its application the information referred to in Article 17(2) of Regulation (EU) No 909/2014, except for information that would be necessary to demonstrate compliance with the requirements in respect of which the applicant has requested an exemption in accordance with Article 5 of this Regulation.
+4.   An application for a specific permission to operate a DLT SS under this Regulation shall contain the following information:
+(a)
+the applicant’s business plan, the rules of the DLT SS and any legal terms as referred to in Article 7(1), as well as information regarding the functioning, services and activities of the DLT SS as referred to in Article 7(3);
+(b)
+a description of the functioning of the distributed ledger technology used, as referred to in Article 7(2);
+(c)
+a description of the applicant’s overall IT and cyber arrangements as referred to in Article 7(4);
+(d)
+evidence that the applicant has in place sufficient prudential safeguards to meet its liabilities and to compensate its clients, as referred to in Article 7(6), third subparagraph;
+(e)
+where applicable, a description of the safekeeping arrangements for clients’ DLT financial instruments as referred Article 7(5);
+(f)
+a description of the arrangements for ensuring investor protection and a description of the mechanisms for handling client complaints and redress, as referred to in Article 7(6), second subparagraph;
+(g)
+the applicant’s transition strategy; and
+(h)
+the exemptions that the applicant is requesting under Article 5, the justification for each exemption requested and any compensatory measures proposed and the means by which it intends to comply with the conditions attached to those exemptions.
+5.   By 23 March 2023, ESMA shall develop guidelines to establish standard forms, formats and templates for the purposes of paragraph 4.
+6.   Within 30 working days of the date of receipt of an application for a specific permission to operate a DLT SS, the competent authority shall assess whether the application is complete. If the application is not complete, the competent authority shall set a time limit by which the applicant is to provide the missing or any additional information. The competent authority shall inform the applicant when the competent authority considers the application to be complete.
+As soon as the competent authority considers the application to be complete, it shall send a copy of that application to:
+(a)
+ESMA; and
+(b)
+the relevant authorities specified in Article 12 of Regulation (EU) No 909/2014.
+7.   Where necessary to promote the consistency and proportionality of exemptions, or where necessary to ensure investor protection, market integrity and financial stability, ESMA shall provide the competent authority with a non-binding opinion on the exemptions requested or on the adequacy of the type of distributed ledger technology used for the purposes of this Regulation, within 30 calendar days of receiving a copy of that application.
+Before issuing a non-binding opinion, ESMA shall consult the competent authorities of the other Member States and shall take the utmost account of their views when issuing its opinion.
+Where ESMA issues a non-binding opinion, the competent authority shall give that opinion due consideration and shall provide ESMA with a statement regarding any significant deviations from that opinion if ESMA so requests. ESMA’s opinion and the competent authority’s statement shall not be made public.
+The relevant authorities specified in Article 12 of Regulation (EU) No 909/2014 shall provide the competent authority with a non-binding opinion on the features of the DLT SS operated by the applicant within 30 calendar days of receiving a copy of that application.
+8.   By 24 March 2025, ESMA shall develop guidelines to promote the consistency and proportionality of:
+(a)
+exemptions granted to CSDs operating DLT SSs throughout the Union, including in the context of evaluating the adequacy of different types of distributed ledger technology used by market operators for the purposes of this Regulation; and
+(b)
+the exercise of the option provided for in Article 3(6).
+Those guidelines shall ensure investor protection, market integrity and financial stability.
+ESMA shall periodically update those guidelines.
+9.   Within 90 working days of the date of receipt of a complete application for a specific permission to operate a DLT SS, the competent authority shall carry out an assessment of the application and decide whether to grant the specific permission. Where the applicant applies simultaneously for authorisation as a CSD under Regulation (EU) No 909/2014 and for a specific permission under this Regulation, the assessment period may be extended for a further period up to that specified in Article 17(8) of Regulation (EU) No 909/2014.
+10.   Without prejudice to Article 17 of Regulation (EU) No 909/2014, the competent authority shall refuse to grant a specific permission to operate a DLT SS if there are grounds for believing that:
+(a)
+there are significant risks to investor protection, market integrity or financial stability that are not properly addressed and mitigated by the applicant;
+(b)
+the specific permission to operate a DLT SS and the exemptions requested are being sought for the purpose of circumventing legal or regulatory requirements; or
+(c)
+the CSD will not be able to comply, or will not allow its users to comply, with applicable provisions of Union law or provisions of national law falling outside the scope of Union law.
+11.   A specific permission shall be valid throughout the Union for a period of up to six years from the date of issuance. The specific permission shall specify the exemptions that are granted in accordance with Article 5, any compensatory measures and any lower thresholds set by the competent authority in accordance with Article 3(6).
+The competent authority shall inform ESMA and the relevant authorities specified in paragraph 7 of this Article of the grant, refusal or withdrawal of a specific permission under this Article without delay, including any information specified under the first subparagraph of this paragraph.
+ESMA shall publish on its website:
+(a)
+the list of DLT SSs, the start and end dates of their specific permissions, the list of exemptions granted to each of them, and any lower thresholds set by the competent authorities for each of them; and
+(b)
+the total number of requests for exemptions that have been made under Article 5, indicating the number and types of exemptions granted or refused, together with the justifications for any refusals.
+The information referred to in the third subparagraph, point (b), shall be published on an anonymous basis.
+12.   Without prejudice to Article 20 of Regulation (EU) No 909/2014, the competent authority shall withdraw a specific permission or any related exemptions where:
+(a)
+a flaw has been discovered in the functioning of the distributed ledger technology used, or in the services and activities provided by the CSD operating the DLT SS, that poses a risk to investor protection, market integrity or financial stability, and the risk outweighs the benefits of the services and activities under experimentation;
+(b)
+the CSD operating the DLT SS has breached the conditions attached to the exemptions;
+(c)
+the CSD operating the DLT SS has recorded financial instruments that do not fulfil the conditions set out in Article 3(1);
+(d)
+the CSD operating the DLT SS has exceeded the threshold referred to in Article 3(2);
+(e)
+the CSD operating the DLT SS has exceeded the threshold referred to in Article 3(3) and has not activated the transition strategy; or
+(f)
+the CSD operating the DLT SS obtained the specific permission or related exemptions on the basis of misleading information or a material omission.
+13.   Where a CSD operating a DLT SS intends to introduce a material change to the functioning of the distributed ledger technology used, or to the services or activities of that CSD, and that material change requires a new specific permission, a new exemption, or the modification of one or more of that CSD’s existing exemptions or of any conditions attached to an exemption, the CSD operating the DLT SS shall request a new specific permission, exemption or modification.
+Where a CSD operating a DLT SS requests a new specific permission, exemption or modification, the procedure set out in Article 5 shall apply. That request shall be processed by the competent authority in accordance with this Article.

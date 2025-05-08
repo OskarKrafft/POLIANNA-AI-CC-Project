@@ -1,0 +1,9 @@
+Article 18
+Data and metadata transmission
+1.   Member States shall provide the Commission (Eurostat) with the data and metadata required by this Regulation in accordance with data and metadata exchange standards. Where the data transmitted is confidential, the true value will be sent with a flag indicating that it is the subject to confidentiality and cannot be disseminated.
+The Commission may adopt implementing acts establishing such standards as well as a procedure for the transmission of the data and metadata. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+2.   Following a duly reasoned request from the Commission (Eurostat) Member States shall carry out statistical analyses of the national statistical business registers and transmit the results to the Commission (Eurostat).
+The Commission (Eurostat) may adopt implementing acts specifying the format and the procedure for the transmission of the results of such statistical analyses.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+The Commission (Eurostat) shall ensure that such implementing acts do not impose a significant additional cost or burden on the Member States or on the respondents.
+3.   Following a duly reasoned request from the Commission (Eurostat), Member States shall provide any relevant information with regard to the implementation of this Regulation in the Member States. Such Commission requests shall not impose a significant additional administrative or financial burden on the Member States.

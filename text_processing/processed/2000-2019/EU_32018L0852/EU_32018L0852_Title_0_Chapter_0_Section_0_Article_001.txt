@@ -1,0 +1,228 @@
+Article 1
+Amendments
+Directive 94/62/EC is amended as follows:
+(1)
+in Article 1, paragraph 2 is replaced by the following:
+‘2.   To that end, this Directive lays down measures aimed, as a first priority, at preventing the production of packaging waste and, as additional fundamental principles, at reusing packaging, at recycling and other forms of recovering packaging waste and, therefore, at reducing the final disposal of such waste in order to contribute to the transition towards a circular economy.’;
+(2)
+Article 3 is amended as follows:
+(a)
+in point 1, the following text is deleted:
+
+                                          ‘The Commission shall, as appropriate, examine and, where necessary, review the illustrative examples for the definition of packaging given in Annex I. As a priority, the following items shall be addressed: CD and video cases, flower pots, tubes and cylinders around which flexible material is wound, release paper of self-adhesive labels and wrapping paper. Those measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 21(3).’;
+(b)
+point 2 is replaced by the following:
+‘2.
+“packaging waste” shall mean any packaging or packaging material covered by the definition of waste laid down in Article 3 of Directive 2008/98/EC, excluding production residues;’;
+(c)
+the following points are inserted:
+‘2a.
+“reusable packaging” shall mean packaging which has been conceived, designed and placed on the market to accomplish within its lifecycle multiple trips or rotations by being refilled or reused for the same purpose for which it was conceived;
+2b.
+“composite packaging” shall mean packaging made of two or more layers of different materials which cannot be separated by hand and form a single integral unit, consisting of an inner receptacle and an outer enclosure, that it is filled, stored, transported and emptied as such;
+2c.
+the definitions of “waste”, “waste management”, “collection”, “separate collection”, “prevention”, “reuse”, “treatment”, “recovery”, “recycling”, “disposal”, and “extended producer responsibility scheme” laid down in Article 3 of Directive 2008/98/EC shall apply;’;
+(d)
+points 3 to 10 are deleted;
+(3)
+Article 4 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Member States shall ensure that, in addition to the measures taken in accordance with Article 9, other preventive measures are implemented in order to prevent generation of packaging waste and to minimise the environmental impact of packaging.
+Such other preventive measures may consist of national programmes, incentives through extended producer responsibility schemes to minimise the environmental impact of packaging, or similar actions adopted, if appropriate, in consultation with economic operators, and consumer and environmental organisations, and designed to bring together and take advantage of the many initiatives taken within Member States as regards prevention.
+Member States shall make use of economic instruments and other measures to provide incentives for the application of the waste hierarchy such as those indicated in Annex IVa to Directive 2008/98/EC or other appropriate instruments and measures.’;
+(b)
+paragraph 3 is deleted;
+(4)
+Article 5 is replaced by the following:
+‘Article 5
+Reuse
+1.   In line with the waste hierarchy laid down in Article 4 of Directive 2008/98/EC, Member States shall take measures to encourage the increase in the share of reusable packaging placed on the market and of systems to reuse packaging in an environmentally sound manner and in conformity with the Treaty, without compromising food hygiene or the safety of consumers. Such measures may include, inter alia:
+(a)
+the use of deposit-return schemes;
+(b)
+the setting of qualitative or quantitative targets;
+(c)
+the use of economic incentives;
+(d)
+the setting up of a minimum percentage of reusable packaging placed on the market every year for each packaging stream.
+2.   A Member State may decide to attain an adjusted level of the targets referred to in points (f) to (i) of Article 6(1) for a given year by taking into account the average share, in the preceding three years, of reusable sales packaging placed on the market for the first time and reused as part of a system to reuse packaging.
+The adjusted level shall be calculated by subtracting:
+(a)
+from the targets laid down in points (f) and (h) of Article 6(1), the share of the reusable sales packaging referred to in the first subparagraph of this paragraph in all sales packaging placed on the market, and
+(b)
+from the targets laid down in points (g) and (i) of Article 6(1), the share of the reusable sales packaging referred to in the first subparagraph of this paragraph, composed of the respective packaging material, in all sales packaging composed of that material placed on the market.
+No more than five percentage points of such share shall be taken into account for the calculation of the respective adjusted target level.
+3.   A Member State may take into account the amounts of wooden packaging that is repaired for reuse in the calculation of the targets laid down in point (f), point (g)(ii), point (h) and point (i)(ii) of Article 6(1).
+4.   In order to ensure uniform conditions for the application of paragraphs 2 and 3 of this Article, the Commission shall adopt by 31 March 2019 implementing acts establishing rules for the calculation, verification and reporting of data, and for the calculation of the targets pursuant to paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2).
+5.   By 31 December 2024, the Commission shall examine data on reusable packaging provided by Member States in accordance with Article 12 and Annex III with a view to considering the feasibility of setting quantitative targets on reuse of packaging, including the calculation rules, and any further measures to promote reuse of packaging. To that end, the Commission shall submit a report to the European Parliament and to the Council, accompanied, if appropriate, by a legislative proposal.’;
+(5)
+Article 6 is amended as follows:
+(a)
+in paragraph 1, the following points are added:
+‘(f)
+no later than 31 December 2025 a minimum of 65 % by weight of all packaging waste will be recycled;
+(g)
+no later than 31 December 2025 the following minimum targets by weight for recycling will be met regarding the following specific materials contained in packaging waste:
+(i)
+50 % of plastic;
+(ii)
+25 % of wood;
+(iii)
+70 % of ferrous metals;
+(iv)
+50 % of aluminium;
+(v)
+70 % of glass;
+(vi)
+75 % of paper and cardboard;
+(h)
+no later than 31 December 2030 a minimum of 70 % by weight of all packaging waste will be recycled;
+(i)
+no later than 31 December 2030 the following minimum targets by weight for recycling will be met regarding the following specific materials contained in packaging waste:
+(i)
+55 % of plastic;
+(ii)
+30 % of wood;
+(iii)
+80 % of ferrous metals;
+(iv)
+60 % of aluminium;
+(v)
+75 % of glass;
+(vi)
+85 % of paper and cardboard.’;
+(b)
+the following paragraphs are inserted:
+‘1a.   Without prejudice to points (f) and (h) of paragraph 1, a Member State may postpone the deadlines for attaining the targets referred to in point (g)(i) to (vi) and point (i)(i) to (vi) of paragraph 1 by up to five years, under the following conditions:
+(a)
+the derogation is limited to a maximum of 15 percentage points from a single target or divided between two targets,
+(b)
+as a result of the derogation, the recycling rate for a single target is not reduced below 30 %,
+(c)
+as a result of the derogation, the recycling rate for a single target referred to in point (g)(v) and (vi) and point (i)(v) and (vi) of paragraph 1 is not reduced below 60 %, and
+(d)
+at the latest 24 months before the respective deadline laid down in point (g) or (i) of paragraph 1 of this Article, the Member State notifies the Commission of its intention to postpone the respective deadline and submits an implementation plan in accordance with Annex IV to this Directive. The Member State may combine that plan with an implementation plan submitted pursuant to point (b) of Article 11(3) of Directive 2008/98/EC.
+1b.   Within three months of receipt of the implementation plan submitted pursuant to point (d) of paragraph 1a, the Commission may request a Member State to revise that plan if the Commission considers that the plan does not comply with the requirements set out in Annex IV. The Member State concerned shall submit a revised plan within three months of receipt of the Commission’s request.
+1c.   By 31 December 2024, the Commission shall review the targets laid down in points (h) and (i) of paragraph 1 with a view to maintaining or, if appropriate, increasing them. To that end, the Commission shall submit a report to the European Parliament and to the Council, accompanied, if appropriate, by a legislative proposal.’;
+(c)
+paragraphs 2, 3, 5, 8 and 9 are deleted;
+(6)
+the following article is inserted:
+‘Article 6a
+Rules on the calculation of the attainment of the targets
+1.   For the purpose of calculating whether the targets laid down in points (f) to (i) of Article 6(1) have been attained:
+(a)
+Member States shall calculate the weight of packaging waste generated and recycled in a given calendar year. Packaging waste generated in a Member State may be deemed to be equal to the amount of packaging placed on the market in the same year within that Member State;
+(b)
+the weight of packaging waste recycled shall be calculated as the weight of packaging that has become waste which, having undergone all necessary checking, sorting and other preliminary operations to remove waste materials that are not targeted by the subsequent reprocessing and to ensure high-quality recycling, enters the recycling operation whereby waste materials are actually reprocessed into products, materials or substances.
+2.   For the purposes of point (a) of paragraph 1, the weight of packaging waste recycled shall be measured when the waste enters the recycling operation.
+By way of derogation from the first subparagraph, the weight of the packaging waste recycled may be measured at the output of any sorting operation provided that:
+(a)
+such output waste is subsequently recycled;
+(b)
+the weight of materials or substances that are removed by further operations preceding the recycling operation and are not subsequently recycled is not included in the weight of waste reported as recycled.
+3.   Member States shall establish an effective system of quality control and traceability of the packaging waste to ensure that the conditions laid down in point (a) of paragraph 1 of this Article and points (a) and (b) of paragraph 2 of this Article are met. To ensure the reliability and accuracy of the data gathered on recycled packaging waste, the system may consist of electronic registries set up pursuant to Article 35(4) of Directive 2008/98/EC, technical specifications for the quality requirements of sorted waste, or average loss rates for sorted waste for various waste types and waste management practices respectively. Average loss rates shall only be used in cases where reliable data cannot be otherwise obtained and shall be calculated on the basis of the calculation rules established in the delegated act adopted pursuant to Article 11a(10) of Directive 2008/98/EC.
+4.   For the purposes of calculating whether the targets laid down in points (f) to (i) of Article 6(1) have been attained, the amount of biodegradable packaging waste that enters aerobic or anaerobic treatment may be counted as recycled where that treatment generates compost, digestate, or other output with a similar quantity of recycled content in relation to input, which is to be used as a recycled product, material or substance. Where the output is used on land, Member States may count it as recycled only if this use results in benefits to agriculture or ecological improvement.
+5.   The amount of packaging waste materials that have ceased to be waste as a result of a preparatory operation before being reprocessed may be counted as recycled provided that such materials are destined for subsequent reprocessing into products, materials or substances to be used for the original or other purposes. However, end-of-waste materials to be used as fuels or other means to generate energy, or to be incinerated, backfilled or landfilled, shall not be counted towards the attainment of the recycling targets.
+6.   For the purposes of calculating whether the targets laid down in points (f) to (i) of Article 6(1) have been attained, Member States may take into account the recycling of metals separated after incineration of waste in proportion to the share of the packaging waste incinerated provided that the recycled metals meet certain quality criteria laid down in the implementing act adopted pursuant to Article 11a(9) of Directive 2008/98/EC.
+7.   Packaging waste sent to another Member State for the purposes of recycling in that other Member State may only be counted towards the attainment of the targets laid down in points (f) to (i) of Article 6(1) by the Member State in which that packaging waste was collected.
+8.   Packaging waste exported from the Union shall count towards the attainment of the targets laid down in Article 6(1) of this Directive by the Member State in which it was collected only if the requirements of paragraph 3 of this Article are met and if, in accordance with Regulation (EC) No 1013/2006 of the European Parliament and of the Council (*1), the exporter can prove that the shipment of waste complies with the requirements of that Regulation and that the treatment of packaging waste outside the Union took place in conditions that are broadly equivalent to the requirements of the relevant Union environmental law.
+9.   In order to ensure uniform conditions for the application of paragraphs 1 to 5 of this Article, the Commission shall adopt by 31 March 2019 implementing acts establishing rules for the calculation, verification and reporting of data, in particular as regards the weight of packaging waste generated. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2).
+
+(*1)  Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste (OJ L 190, 12.7.2006, p. 1).’;"
+                        
+(7)
+the following article is inserted:
+‘Article 6b
+Early warning report
+1.   The Commission shall, in cooperation with the European Environment Agency, draw up reports on the progress towards the attainment of the targets laid down in points (f) to (i) of Article 6(1) at the latest three years before each of the deadlines laid down therein.
+2.   The reports referred to in paragraph 1 shall include the following:
+(a)
+an estimation of the attainment of the targets by each Member State;
+(b)
+a list of Member States at risk of not attaining the targets within the respective deadlines, accompanied by appropriate recommendations for the Member States concerned;
+(c)
+examples of best practices that are used throughout the Union which could provide guidance for progressing towards attaining the targets.’;
+(8)
+Article 7 is replaced by the following:
+‘Article 7
+Return, collection and recovery systems
+1.   In order to meet the objectives laid down in this Directive, Member States shall take the necessary measures to ensure that systems are set up to provide for:
+(a)
+the return and/or collection of used packaging and/or packaging waste from the consumer, other final user, or from the waste stream in order to channel it to the most appropriate waste management alternatives;
+(b)
+the reuse or recovery including recycling of the packaging and/or packaging waste collected.
+Those systems shall be open to the participation of the economic operators of the sectors concerned and to the participation of the competent public authorities. They shall also apply to imported products under non-discriminatory conditions, including the detailed arrangements and any tariffs imposed for access to the systems, and shall be designed so as to avoid barriers to trade or distortions of competition in conformity with the Treaty.
+2.   Member States shall ensure that, by 31 December of 2024, extended producer responsibility schemes are established for all packaging in accordance with Articles 8 and 8a of Directive 2008/98/EC.
+3.   The measures referred to in paragraphs 1 and 2 shall form part of a policy covering all packaging and packaging waste and shall take into account, in particular, requirements regarding the protection of the environment and consumer health, safety and hygiene, the protection of the quality, the authenticity and the technical characteristics of the packed goods and materials used, and the protection of industrial and commercial property rights.
+4.   Member States shall take measures to promote high quality recycling of packaging waste and to meet the necessary quality standards for the relevant recycling sectors. To that end, Article 11(1) of Directive 2008/98/EC shall apply to packaging waste, including from composite packaging.’;
+(9)
+in Article 9, the following paragraph is added:
+‘5.   By 31 December 2020, the Commission shall examine the feasibility of reinforcing the essential requirements with a view to, inter alia, improving design for reuse and promoting high quality recycling, as well as strengthening their enforcement. To that end, the Commission shall submit a report to the European Parliament and to the Council, accompanied, if appropriate, by a legislative proposal.’;
+(10)
+Article 11(3) is replaced by the following:
+‘3.   The Commission shall adopt delegated acts in accordance with Article 21a in order to supplement this Directive by determining the conditions under which the concentration levels referred to in paragraph 1 of this Article do not apply to recycled materials and to product loops which are in a closed and controlled chain, as well as by determining the types of packaging which are exempted from the requirement laid down in the third indent of paragraph 1 of this Article.’;
+(11)
+Article 12 is amended as follows:
+(a)
+the title is replaced by ‘Information systems and reporting’;
+(b)
+paragraph 2 is replaced by the following:
+‘2.   The databases referred to in paragraph 1 shall include the data based on Annex III and shall provide in particular information on the magnitude, characteristics and evolution of the packaging and packaging waste flows at the level of individual Member States, including information on the toxicity or danger of packaging materials and components used for their manufacture.’;
+(c)
+paragraph 3 is deleted;
+(d)
+the following paragraphs are inserted:
+‘3a.   Member States shall report the data concerning the implementation of points (a) to (i) of Article 6(1) and data on reusable packaging, for each calendar year to the Commission.
+They shall report the data electronically within 18 months of the end of the reporting year for which the data are collected. The data shall be reported in the format established by the Commission on the basis of Annex III in accordance with paragraph 3d of this Article.
+The first reporting period concerning the targets set out in points (f) to (i) of Article 6(1) and data on reusable packaging shall start in the first full calendar year after the adoption of the implementing act that establishes the format for reporting, in accordance with paragraph 3d of this Article, and shall cover the data for that reporting period.
+3b.   The data reported by Member States in accordance with this Article shall be accompanied by a quality check report and a report on the measures taken pursuant to Article 6a(3) and (8), including detailed information about the average loss rates where applicable.
+3c.   The Commission shall review the data reported in accordance with this Article and publish a report on the results of its review. The report shall assess the organisation of the data collection, the sources of data and the methodology used in Member States as well as the completeness, reliability, timeliness and consistency of that data. The assessment may include specific recommendations for improvement. The report shall be drawn up after the first reporting of the data by the Member States and every four years thereafter.
+3d.   By 31 March 2019, the Commission shall adopt implementing acts laying down the format for reporting data in accordance with paragraph 3a of this Article. For the purposes of reporting on the implementation of points (a) to (e) of Article 6(1) of this Directive, Member States shall use the format established in Commission Decision 2005/270/EC (*2). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2) of this Directive.
+
+(*2)  Commission Decision 2005/270/EC of 22 March 2005 establishing the formats relating to the database system pursuant to Directive 94/62/EC of the European Parliament and of the Council on packaging and packaging waste (OJ L 86, 5.4.2005, p. 6).’;"
+                        
+(e)
+paragraph 5 is deleted;
+(12)
+Article 17 is deleted;
+(13)
+Article 19 is replaced by the following:
+‘Article 19
+Adaptation to scientific and technical progress
+1.   The Commission shall adopt implementing acts necessary for adapting the identification system referred to in Article 8(2) and Article 10, second paragraph, sixth indent, to scientific and technical progress. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 21(2).
+2.   The Commission is empowered to adopt delegated acts in accordance with Article 21a to amend the illustrative examples for the definition of packaging listed in Annex I.’;
+(14)
+Article 20 is replaced by the following:
+‘Article 20
+Specific measures
+The Commission is empowered to adopt delegated acts in accordance with Article 21a in order to supplement this Directive where necessary to deal with any difficulties encountered in applying the provisions of this Directive, in particular, to inert packaging materials placed on the market in very small quantities (i.e. approximately 0,1 % by weight) in the Union, primary packaging for medical devices and pharmaceutical products, small packaging and luxury packaging.’;
+(15)
+Article 21 is replaced by the following:
+‘Article 21
+Committee procedure
+1.   The Commission shall be assisted by the committee established by Article 39 of Directive 2008/98/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*3).
+2.   When reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*3)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).’;"
+                        
+(16)
+the following article is inserted:
+‘Article 21a
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Articles 11(3) and 19(2) and Article 20 shall be conferred on the Commission for a period of five years from 4 July 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in Articles 11(3) and 19(2) and Article 20 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*4).
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6.   A delegated act adopted pursuant to Articles 11(3) and 19(2) and Article 20 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+(*4)  
+                                          OJ L 123, 12.5.2016, p. 1.’;"
+                        
+(17)
+Annexes II and III are amended as set out in the Annex to this Directive;
+(18)
+Annex IV is added as set out in the Annex to this Directive.

@@ -1,0 +1,12 @@
+Article 9
+Conformity or suitability for use
+1.   Member States and the Agency shall consider that an interoperability constituent meets the essential requirements if it complies with the conditions laid down in the corresponding TSI or the corresponding European specifications developed to comply with those conditions. The ‘EC’ declaration of conformity or suitability for use shall attest that the interoperability constituents have been subject to the procedures laid down in the corresponding TSI for assessing conformity or suitability for use.
+2.   Where the TSI so requires, the ‘EC’ declaration shall be accompanied by:
+(a)
+a certificate, issued by a notified body or bodies, of the intrinsic conformity of an interoperability constituent considered in isolation, to the technical specifications to be met;
+(b)
+a certificate, issued by a notified body or bodies, of the suitability for use of an interoperability constituent considered within its railway environment, particularly in the case of functional requirements concerned.
+3.   The ‘EC’ declaration shall be dated and signed by the manufacturer or its authorised representative.
+4.   The Commission shall establish, by means of implementing acts, the template of the ‘EC’ declaration of conformity or suitability for use of interoperability constituents and the list of accompanying documents. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3).
+5.   Spare parts for subsystems that are already placed in service when the corresponding TSI enters into force may be installed in those subsystems without being subject to paragraph 1.
+6.   TSIs may provide for a period of transition for rail products identified by those TSIs as interoperability constituents which have already been placed on the market when the TSIs enter into force. Such constituents shall comply with Article 8(1).

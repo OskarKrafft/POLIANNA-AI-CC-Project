@@ -1,0 +1,13 @@
+Article 9
+Policy implementation support projects
+1.   The Board may propose that the Commission set up projects to support public sector bodies in the digital implementation of Union policies ensuring the cross-border interoperability of trans-European digital public services (policy implementation support project).
+2.   The policy implementation support project shall set out:
+(a)
+the existing Interoperable Europe solutions that are deemed to be necessary for the digital implementation of the policy requirements;
+(b)
+any missing interoperability solutions to be developed that are deemed to be necessary for the digital implementation of the policy requirements;
+(c)
+other recommended support measures, such as training, the sharing of expertise or peer review, as well as financial support opportunities to assist the implementation of interoperability solutions.
+3.   The Commission shall, after consulting the Board, lay down the scope, timeline, necessary involvement of particular sectors and administrative levels and working methods of the support project. Where the Commission has already carried out and published an interoperability assessment pursuant to Article 3, the outcome of that assessment shall be taken into account when setting up the support project.
+4.   In order to reinforce the policy implementation support project, the Board may propose the establishment of an interoperability regulatory sandbox pursuant to Article 11.
+5.   The outcome of a policy implementation support project as well as interoperability solutions developed during the project shall be openly available and made public on the Interoperable Europe portal.

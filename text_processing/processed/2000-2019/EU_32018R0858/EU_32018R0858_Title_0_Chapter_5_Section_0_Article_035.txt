@@ -1,0 +1,23 @@
+Article 35
+Termination of validity
+1.   Seven years after the latest update of the information package in case of an EU whole-vehicle type-approval certificate for vehicles of categories M1 and N1, and 10 years for vehicles of categories M2, M3, N2, N3 and O, the approval authority shall verify that the type of vehicle complies with all the regulatory acts that are relevant to that type.
+Where the approval authority carries out the verification referred to in the first subparagraph of this paragraph, it is not necessary for the tests referred to in Article 30 to be repeated.
+2.   An EU type-approval shall become invalid in each of the following cases:
+(a)
+where new requirements applicable to the approved type of vehicle, system, component or separate technical unit become mandatory for the making available on the market, registration or entry into service and the EU type-approval cannot be extended on the grounds laid down in point (c) of Article 34(2);
+(b)
+where a verification carried out in accordance with paragraph 1 of this Article concludes that the vehicle does not comply with all the regulatory acts that are relevant to that type;
+(c)
+where the production of vehicles in conformity with the approved type of vehicle is definitively discontinued on a voluntary basis, which shall be deemed to have occurred where no vehicle of the type concerned has been produced in the previous two years; however, such type-approvals shall continue to be valid for the purpose of registration or entry into service as long as point (a) of this paragraph is not applicable;
+(d)
+where the EU type-approval has been withdrawn in accordance with Article 31(7);
+(e)
+where the validity of the EU type-approval certificate expires due to a restriction referred to in Article 39(6);
+(f)
+where the type-approval was found to be based on false declarations, falsified test results or where data were withheld which would have led to the refusal to grant the type-approval.
+3.   Where the whole-vehicle type-approval of only one variant within a type of vehicle or one version within a variant becomes invalid, the whole-vehicle type-approval of the type of vehicle in question shall become invalid only in so far as the particular variant or version is concerned.
+4.   Where the production of a particular type of vehicle, system, component or separate technical unit is definitively discontinued, the manufacturer shall notify the approval authority that granted the EU type-approval without delay.
+Within one month of receiving the notification referred to in the first subparagraph, the approval authority that granted the EU type-approval for the type of vehicle, system, component, or separate technical unit, shall inform the approval authorities of the other Member States accordingly.
+5.   Where an EU type-approval certificate is due to become invalid, the manufacturer shall notify the approval authority that granted the EU type-approval without delay.
+6.   Upon receiving the notification from the manufacturer, the approval authority that granted the EU type-approval shall communicate to the approval authorities of the other Member States and the Commission without delay all relevant information for the making available on the market, registering or entering into service of vehicles, systems, components or separate technical units, as appropriate.
+In the case of vehicles, the communication referred to in the first subparagraph of this paragraph shall specify the date of manufacture and the vehicle identification number (‘VIN’), as defined in point (2) of Article 2 of Commission Regulation (EU) No 19/2011 (19), of the last vehicle produced.

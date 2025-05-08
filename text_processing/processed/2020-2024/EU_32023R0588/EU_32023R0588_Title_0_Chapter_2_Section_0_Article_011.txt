@@ -1,0 +1,21 @@
+Article 11
+Programme participants and competent authorities
+1.   Member States, the Council, the Commission and the EEAS shall be Programme participants insofar as they authorise the users of the governmental services or provide capacities, sites or facilities.
+2.   Union agencies and bodies may become Programme participants insofar as necessary to fulfil their tasks and in accordance with detailed rules laid down in an administrative arrangement concluded between the agency or body concerned and the Union institution that supervises it.
+3.   Third countries and international organisations may become Programme participants in accordance with Article 39.
+4.   Each Programme participant shall designate one competent secure connectivity authority.
+Programme participants shall be deemed to comply with the requirement referred to in the first subparagraph if they satisfy both of the following criteria:
+(a)
+they are also GOVSATCOM participants in accordance with Article 68 of Regulation (EU) 2021/696;
+(b)
+they have designated a competent authority in accordance with Article 68(4) of Regulation (EU) 2021/696.
+5.   The prioritisation of governmental services between the users authorised by each Programme participant shall be determined and implemented by that Programme participant.
+6.   A competent secure connectivity authority as referred to in paragraph 4 shall ensure that:
+(a)
+the use of governmental services is in compliance with the general security requirements referred to in Article 30(3);
+(b)
+the access rights to the governmental services are determined and managed;
+(c)
+user equipment necessary for the use of the governmental services and associated electronic communication connections and information are used and managed in accordance with the general security requirements referred to in Article 30(3);
+(d)
+a central point of contact is established to assist as necessary in the reporting of security risks and threats, in particular the detection of potentially harmful electromagnetic interference affecting the services under the Programme.

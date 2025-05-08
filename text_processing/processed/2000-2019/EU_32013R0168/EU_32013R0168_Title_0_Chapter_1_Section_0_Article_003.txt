@@ -1,0 +1,245 @@
+Article 3
+Definitions
+For the purposes of this Regulation and the acts listed in Annex II, except as otherwise provided therein, the following definitions shall apply:
+(1)
+‘type-approval’ means the procedure whereby an approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements;
+(2)
+‘type-approval certificate’ means the document whereby the approval authority officially certifies that a type of vehicle, system, component or separate technical unit is approved;
+(3)
+‘whole-vehicle type-approval’ means a type-approval whereby an approval authority certifies that an incomplete, complete or completed vehicle type satisfies the relevant administrative provisions and technical requirements;
+(4)
+‘EU type-approval’ means the procedure whereby an approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of this Regulation;
+(5)
+‘EU type-approval certificate’ means the certificate based on the template set out in the implementing act adopted pursuant to this Regulation or the communication form set out in the relevant UNECE regulations referred to in this Regulation or the delegated acts adopted pursuant to this Regulation;
+(6)
+‘system type-approval’ means a type-approval whereby an approval authority certifies that a system built into a vehicle of a specific type satisfies the relevant administrative provisions and technical requirements;
+(7)
+‘separate technical unit type-approval’ means a type-approval whereby an approval authority certifies that a separate technical unit satisfies the relevant administrative provisions and technical requirements in relation to one or more specified types of vehicles;
+(8)
+‘component type-approval’ means a type-approval whereby an approval authority certifies that a component independently of a vehicle satisfies the relevant administrative provisions and technical requirements;
+(9)
+‘national type-approval’ means a type-approval procedure laid down by the national law of a Member State, the validity of such approval being restricted to the territory of that Member State;
+(10)
+‘certificate of conformity’ means the document issued by the manufacturer, which certifies that a produced vehicle conforms to the approved vehicle type;
+(11)
+‘base vehicle’ means any vehicle which is used at the initial stage of a multi-stage type-approval process;
+(12)
+‘incomplete vehicle’ means any vehicle which must undergo at least one further stage of completion in order to meet the relevant technical requirements of this Regulation;
+(13)
+‘completed vehicle’ means a vehicle resulting from the process of multi-stage type-approval which meets the relevant technical requirements of this Regulation;
+(14)
+‘complete vehicle’ means any vehicle which need not be completed in order to meet the relevant technical requirements of this Regulation;
+(15)
+‘system’ means an assembly of devices combined to perform one or more specific functions in a vehicle and which is subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation;
+(16)
+‘component’ means a device subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation, which is intended to be part of a vehicle and which may be type-approved independently of a vehicle in accordance with this Regulation and the delegated or implementing acts adopted pursuant to this Regulation where those acts make express provision for so doing;
+(17)
+‘separate technical unit’ means a device subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation and intended to be part of a vehicle, which may be type-approved separately, but only in relation to one or more specified types of vehicle, where those acts make express provision for so doing;
+(18)
+‘parts’ means goods used for the assembly of a vehicle as well as spare parts;
+(19)
+‘equipment’ means any goods other than parts which can be added to or installed on a vehicle;
+(20)
+‘original parts or equipment’ means parts or equipment which are manufactured according to the specifications and production standards provided by the vehicle manufacturer for the production of parts or equipment for the assembly of the vehicle in question; this includes parts or equipment which are manufactured on the same production line as these parts or equipment; it is presumed, unless the contrary is proven, that parts or equipment constitute original parts or equipment if the manufacturer certifies that the parts or equipment match the quality of the components used for the assembly of the vehicle in question and have been manufactured in accordance with the specifications and production standards of the vehicle manufacturer;
+(21)
+‘spare parts’ means goods which are to be installed in or on a vehicle so as to replace original parts of that vehicle, including goods such as lubricants which are necessary for the use of a vehicle, with the exception of fuel;
+(22)
+‘functional safety’ means the absence of unacceptable risk of physical injury or of damage to the health of persons or to property owing to hazards caused by mal-functional behaviour of mechanical, hydraulic, pneumatic, electrical or electronic systems, components or separate technical units;
+(23)
+‘advanced brake system’ means an anti-lock brake system, a combined brake system or both;
+(24)
+‘anti-lock brake system’ means a system that senses wheel slip and automatically modulates the pressure producing the braking forces at the wheel(s) to limit the degree of wheel slip;
+(25)
+‘combined brake system’ means:
+(a)
+for vehicle categories L1e and L3e: a service brake system where at least two brakes on different wheels are operated by actuation of a single control;
+(b)
+for vehicle category L4e: a service brake system where the brakes on at least the front and rear wheels are operated by actuation of a single control (if the rear wheel and sidecar wheel are braked by the same brake system, this is regarded as the rear brake);
+(c)
+for vehicle categories L2e, L5e, L6e and L7e: a service brake system where the brakes on all wheels are operated by actuation of a single control;
+(26)
+‘automatic switching-on of lighting’ means a lighting system turned on when the ignition switch or the engine on-off switch is in the on-position;
+(27)
+‘pollution control device’ means those components of a vehicle that control or reduce tailpipe and/or evaporative emissions;
+(28)
+‘replacement pollution control device’ means a pollution control device or an assembly of such devices that is intended to replace an original pollution control device and that can be approved as a separate technical unit;
+(29)
+‘seating position’ means:
+(a)
+a saddle accommodating either the driver or a passenger, which is used by sitting in an astride position; or
+(b)
+any seat which can accommodate at the minimum a person with the size of a anthropomorphic manikin of a 50th percentile adult male, in the case of the driver;
+(30)
+‘compression ignition engine’ or ‘CI engine’ means a combustion engine working according to the principles of the ‘Diesel’ cycle;
+(31)
+‘positive ignition engine’ or ‘PI engine’ means a combustion engine working according to the principles of the ‘Otto’ cycle;
+(32)
+‘hybrid vehicle’ means a powered vehicle equipped with at least two different energy converters and two different energy storage systems (on-vehicle) for the purpose of vehicle propulsion;
+(33)
+‘hybrid electric vehicle’ means a vehicle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy/power:
+(a)
+a consumable fuel;
+(b)
+a battery, capacitor, flywheel/generator or other electrical energy or power storage device.
+This definition also includes vehicles which draw energy from a consumable fuel only for the purpose of re-charging the electrical energy/power storage device;
+(34)
+‘propulsion’ means a combustion engine, an electric engine, any hybrid application or a combination of those engine types or any other engine type;
+(35)
+‘maximum continuous rated power’ means the maximum thirty minutes power at the output shaft of an electric engine as set out in UNECE regulation No 85;
+(36)
+‘maximum net power’ means the maximum power of a combustion engine available on the test bench at the end of the crankshaft or equivalent component;
+(37)
+‘defeat device’ means any element of design which senses temperature, vehicle speed, engine speed and/or load, transmission gear, manifold vacuum or any other parameter for the purpose of activating, modulating, delaying or deactivating the operation of any part of the emission control and exhaust after-treatment system and which reduces the effectiveness of the emission control system under conditions which may reasonably be expected to be encountered in normal vehicle operation and use;
+(38)
+‘durability’ means the ability of components and systems to last so that the environmental performance as laid down in Article 23 and Annex V can still be met after a mileage as defined in Annex VII and so that vehicle functional safety is ensured, if the vehicle is used under normal or intended circumstances and serviced in accordance with the manufacturer’s recommendations;
+(39)
+‘engine capacity’ means:
+(a)
+for reciprocating piston engines, the nominal engine swept volume;
+(b)
+for rotary-piston (Wankel) engines, double the nominal engine swept volume;
+(40)
+‘evaporative emissions’ means the hydrocarbon vapours lost from the fuel storage and supply system of a motor vehicle and not those from tailpipe emissions;
+(41)
+‘SHED test’ means a vehicle test in a sealed house for evaporation determination, in which a special evaporative emission test is conducted;
+(42)
+‘gaseous fuel system’ means a system composed of gaseous fuel storage, fuel supply, metering and control components fitted to an engine in order to allow the engine to run on LPG, CNG or hydrogen as a mono-fuel, bi-fuel or multi-fuel application;
+(43)
+‘gaseous pollutant’ means the exhaust gas emissions of carbon monoxide (CO), oxides of nitrogen (NOx) expressed in nitrogen dioxide (NO2) equivalent, and hydrocarbons (HC);
+(44)
+‘tailpipe emissions’ means the emission of gaseous pollutants and particulate matter at the tailpipe of the vehicle;
+(45)
+‘particulate matter’ means components of the exhaust gas which are removed from the diluted exhaust gas at a maximum temperature of 325 K (52 °C) by means of the filters described in the test procedure for verifying average tailpipe emissions;
+(46)
+‘Worldwide harmonised Motorcycle Testing Cycle’ or ‘WMTC’ means the world harmonised emission laboratory test cycle WMTC as defined by UNECE global technical regulation No 2;
+(47)
+‘manufacturer’ means any natural or legal person who is responsible to the approval authority for all aspects of the type-approval or authorisation process, for ensuring conformity of production and who is also responsible for market surveillance concerns for the vehicles, systems, components and separate technical units produced, whether or not the natural or legal person is directly involved in all stages of the design and construction of the vehicle, system, component or separate technical unit which is the subject of the approval process;
+(48)
+‘manufacturer’s representative’ means any natural or legal person established in the Union who is duly appointed by the manufacturer to represent the manufacturer before the approval authority or the market surveillance authority and to act on the manufacturer’s behalf in matters covered by this Regulation;
+(49)
+‘importer’ means any natural or legal person established in the Union who places on the market a vehicle, system, component, separate technical unit, part or equipment from a third country;
+(50)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes available a vehicle, system, component, separate technical unit, part or equipment on the market;
+(51)
+‘economic operator’ means the manufacturer, the manufacturer’s representative, the importer or the distributor;
+(52)
+‘registration’ means the administrative authorisation for the entry into service in road traffic of a vehicle, involving the identification of the latter and the issuing to it of a serial number, to be known as the registration number, be it permanently, temporarily or for a short period of time;
+(53)
+‘entry into service’ means the first use, for its intended purpose, in the Union, of a vehicle, system, component, separate technical unit, part or equipment;
+(54)
+‘placing on the market’ means making available a vehicle, system, component, separate technical unit, part or equipment for the first time in the Union;
+(55)
+‘making available on the market’ means any supply of a vehicle, system, component, separate technical unit, part or equipment for distribution or use on the market in the course of a commercial activity, whether in return for payment or free of charge;
+(56)
+‘approval authority’ means the authority of a Member State established or appointed by the Member State and notified to the Commission by the Member State, with competence for all aspects of the approval of a type of vehicle, system, component or separate technical unit, for the authorisation process, for issuing and, if appropriate, withdrawing or refusing approval certificates, for acting as the contact point for the approval authorities of other Member States, for designating the technical services and for ensuring that the manufacturer meets his obligations regarding the conformity of production;
+(57)
+‘market surveillance authority’ means an authority of a Member State responsible for carrying out market surveillance on its territory;
+(58)
+‘market surveillance’ means the activities carried out and measures taken by national authorities to ensure that vehicles, systems, components or separate technical units made available on the market comply with the requirements set out in the relevant Union harmonisation legislation and do not endanger health, safety or any other aspect of public interest protection;
+(59)
+‘national authority’ means an approval authority or any other authority involved in and responsible for market surveillance, border control or registration in a Member State in respect of vehicles, systems, components or separate technical units, parts or equipment;
+(60)
+‘technical service’ means an organisation or body designated by the approval authority of a Member State as a testing laboratory to carry out tests, or as a conformity assessment body to carry out the initial assessment and other tests or inspections, on behalf of the approval authority, it being possible for the approval authority itself to carry out those functions;
+(61)
+‘self-testing’ means the performance of tests in its own facilities, the registration of the test results and the submission of a report, including conclusions, to the approval authority by a manufacturer that has been designated as a technical service in order to assess compliance with certain requirements;
+(62)
+‘virtual testing method’ means computer simulations, including calculations, to demonstrate whether a vehicle, a system, a component or a separate technical unit fulfils the technical requirements of a delegated act adopted pursuant to Article 32(6) without requiring the use of a physical vehicle, system, component or separate technical unit;
+(63)
+‘on-board diagnostic system’ or ‘OBD system’ means a system which has the capability to identify the likely area of malfunction by means of fault codes stored in a computer memory;
+(64)
+‘vehicle repair and maintenance information’ means all information required for diagnosis, servicing, inspection, periodic monitoring, repair, re-programming or re-initialising of a vehicle and which manufacturers provide to their authorised dealers and repairers, including all subsequent amendments and supplements to such information; that information includes all information required for the fitting of parts and equipment on vehicles;
+(65)
+‘independent operator’ means undertakings other than authorised dealers and repairers which are directly or indirectly involved in the repair and maintenance of vehicles, in particular repairers, manufacturers or distributors of repair equipment, tools or spare parts, publishers of technical information, automobile clubs, roadside assistance operators, operators offering inspection and testing services, operators offering training for installers, manufacturers and repairers of equipment for alternative fuel vehicles;
+(66)
+‘authorised repairer’ means a provider of repair and maintenance services for vehicles operating within the distribution system set up by a supplier of vehicles;
+(67)
+‘end-of-series vehicle’ means any vehicle that is part of a stock which cannot be made available on the market or can no longer be made available on the market, registered or enter into service owing to the entry into force of new technical requirements against which it has not been approved;
+(68)
+‘powered two-wheeler’ or ‘PTW’ means a powered two-wheel vehicle, including powered two-wheel cycles, two-wheel mopeds and two-wheel motorcycles;
+(69)
+‘powered tricycle’ means a powered three-wheel vehicle meeting the classification criteria for L5e category vehicles;
+(70)
+‘quadricycle’ means a four-wheel vehicle meeting the classification criteria for L6e or L7e category vehicles;
+(71)
+‘self-balancing vehicle’ means a vehicle concept that is based on an inherent unstable equilibrium and that needs an auxiliary control system to maintain its balance, and which includes powered one-wheel vehicles or powered two-wheel, two-track vehicles;
+(72)
+‘twinned wheels’ means two wheels mounted on the same axle which are considered to be one wheel, whereby the distance between the centres of their areas of contact with the ground is equal to or less than 460 mm;
+(73)
+‘vehicle type’ means a group of vehicles, including variants and versions of a particular category that do not differ in at least the following essential respects:
+(a)
+category and subcategory;
+(b)
+manufacturer;
+(c)
+chassis, frame, sub-frame, floor pan or structure to which major components are attached;
+(d)
+type designation given by the manufacturer;
+(74)
+‘variant’ means a vehicle of the same type where:
+(a)
+the basic characteristics of the bodywork shape are the same;
+(b)
+the propulsion and propulsion configuration are the same;
+(c)
+if a combustion engine is part of the propulsion, the engine operating cycle is the same;
+(d)
+the number and arrangement of cylinders are the same;
+(e)
+the type of gearbox is the same;
+(f)
+the difference in mass in running order between the lowest value and the highest value does not exceed 20 % of the lowest value;
+(g)
+the difference in the maximum permissible mass between the lowest value and the highest value does not exceed 20 % of the lowest value;
+(h)
+the difference in the cylinder capacity of the power unit (in the case of a combustion unit) between the lowest value and the highest value does not exceed 30 % of the lowest value; and
+(i)
+the difference in the power output of the power unit between the lowest value and the highest value does not exceed 30 % of the lowest value;
+(75)
+‘version of a variant’ means a vehicle which consists of a combination of items shown in the information package referred to in Article 29(10);
+(76)
+‘external combustion engine’ means a heat engine in which combustion and expansion chambers are physically separated and where an internal working fluid is heated by combustion in an external source; heat from the external combustion expands the internal working fluid which then, by expanding and acting on the mechanism of the engine, produces motion and usable work;
+(77)
+‘powertrain’ means the components and systems of a vehicle that generate power and deliver it to the road surface, including the engine(s), the engine management systems or any other control module, the pollution environmental protection control devices including pollutant emissions and noise abatement systems, the transmission and its control, either a drive shaft or belt drive or chain drive, the differentials, the final drive, and the driven wheel tyre (radius);
+(78)
+‘mono fuel vehicle’ means a vehicle that is designed to run primarily on one type of fuel;
+(79)
+‘mono fuel gas vehicle’ means a mono fuel vehicle that primarily runs on LPG, NG/biomethane, or hydrogen but may also have a petrol system for emergency purposes or starting only, where the petrol tank does not contain more than 5 litres of petrol;
+(80)
+‘E5’ means a fuel blend of 5 % anhydrous ethanol and 95 % petrol;
+(81)
+‘LPG’ means liquefied petroleum gas which is composed of propane and butane liquefied by storage under pressure;
+(82)
+‘NG’ means natural gas containing a very high methane content;
+(83)
+‘biomethane’ means a renewable natural gas made from organic sources that starts out as ‘biogas’ but then is cleaned up in a process called ‘biogas to biomethane’ which removes the impurities in biogas such as carbon dioxide, siloxanes and hydrogen sulphides (H2S);
+(84)
+‘bi-fuel vehicle’ means a vehicle with two separate fuel storage systems that can run part-time on two different fuels and is designed to run on only one fuel at a time;
+(85)
+‘bi-fuel gas vehicle’ means a bi-fuel vehicle that can run on petrol and also on either LPG, NG/biomethane or hydrogen;
+(86)
+‘flex fuel vehicle’ means a vehicle with one fuel storage system that can run on different blends of two or more fuels;
+(87)
+‘E85’ means a fuel blend of 85 % anhydrous ethanol and 15 % petrol;
+(88)
+‘flex fuel ethanol vehicle’ means a flex fuel vehicle that can run on petrol or a mixture of petrol and ethanol up to an 85 % ethanol blend;
+(89)
+‘H2NG’ means a fuel blend of hydrogen and natural gas;
+(90)
+‘flex fuel H2NG vehicle’ means a flex fuel vehicle that can run on different blends of hydrogen and NG/biomethane;
+(91)
+‘flex fuel biodiesel vehicle’ means a flex fuel vehicle that can run on mineral diesel or a blend of mineral diesel and biodiesel;
+(92)
+‘B5’ means a fuel blend of up to 5 % biodiesel and 95 % petroleum diesel;
+(93)
+‘biodiesel’ means a vegetable oil- or animal fat-based diesel fuel consisting of long-chain alkyl esters produced in a sustainable way;
+(94)
+‘pure electric vehicle’ means a vehicle powered by:
+(a)
+a system consisting of one or more electric energy storage devices, one or more electric power conditioning devices and one or more electric machines that convert stored electric energy to mechanical energy delivered at the wheels for propulsion of the vehicle;
+(b)
+an auxiliary electric propulsion fitted to a vehicle designed to pedal;
+(95)
+‘hydrogen fuel cell vehicle’ means a vehicle powered by a fuel cell that converts chemical energy from hydrogen into electric energy, for propulsion of the vehicle;
+(96)
+‘R-point’ or ‘seating reference point’ means a design point defined by the vehicle manufacturer for each seating position and established with respect to the three-dimensional reference system.
+References in this Regulation to requirements, procedures or arrangements laid down in this Regulation shall be read as references to such requirements, procedures or arrangements laid down in this Regulation and in the delegated and implementing acts adopted pursuant to this Regulation.

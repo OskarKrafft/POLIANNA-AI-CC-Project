@@ -1,0 +1,42 @@
+Article 150
+Conditions for permanent partial use
+1.   Where institutions have received the prior permission of the competent authorities, institutions permitted to use the IRB Approach in the calculation of risk-weighted exposure amounts and expected loss amounts for one or more exposure classes may apply the Standardised Approach for the following exposures:
+(a)
+the exposure class laid down in Article 147(2)(a), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+(b)
+the exposure class laid down in Article 147(2)(b), where the number of material counterparties is limited and it would be unduly burdensome for the institution to implement a rating system for these counterparties;
+(c)
+exposures in non-significant business units as well as exposure classes or types of exposures that are immaterial in terms of size and perceived risk profile;
+(d)
+exposures to central governments and central banks of the Member States and their regional governments, local authorities, administrative bodies and public sector entities provided:
+(i)
+there is no difference in risk between the exposures to that central government and central bank and those other exposures because of specific public arrangements; and
+(ii)
+exposures to the central government and central bank are assigned a 0 % risk weight under Article 114(2), (4) or (5);
+(e)
+exposures of an institution to a counterparty which is its parent undertaking, its subsidiary or a subsidiary of its parent undertaking provided that the counterparty is an institution or a financial holding company, mixed financial holding company, financial institution, asset management company or ancillary services undertaking subject to appropriate prudential requirements or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+(f)
+exposures between institutions which meet the requirements set out in Article 113(7);
+(g)
+equity exposures to entities whose credit obligations are assigned a 0 % risk weight under Chapter 2 including those publicly sponsored entities where a 0 % risk weight can be applied;
+(h)
+equity exposures incurred under legislative programmes to promote specified sectors of the economy that provide significant subsidies for the investment to the institution and involve some form of government oversight and restrictions on the equity investments where such exposures may in aggregate be excluded from the IRB Approach only up to a limit of 10 % of own funds;
+(i)
+the exposures identified in Article 119(4) meeting the conditions specified therein;
+(j)
+State and State-reinsured guarantees referred to in Article 215(2).
+The competent authorities shall permit the application of Standardised Approach for equity exposures referred to in points (g) and (h) of the first subparagraph which have been permitted for that treatment in other Member States. EBA shall publish on its website and regularly update a list with the exposures referred to in those points (to be treated according to the Standardised Approach.
+2.   For the purposes of paragraph 1, the equity exposure class of an institution shall be material if their aggregate value, excluding equity exposures incurred under legislative programmes as referred to in point (g) of paragraph 1, exceeds on average over the preceding year 10 % of the own funds of the institution. Where the number of those equity exposures is less than 10 individual holdings, that threshold shall be 5 % of the own funds of the institution.
+3.   EBA shall develop draft regulatory technical standards to determine the conditions of application of points (a), (b) and (c) of paragraph 1.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+4.   EBA shall issue guidelines on the application of point (d) of paragraph 1 in 2018, recommending limits in terms of a percentage of total balance sheet and/or risk weighted assets to be calculated in accordance with the Standardised Approach.
+Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.
+
+Sub-Section 1
+
+
+
+Treatment by type of exposure class
+
+

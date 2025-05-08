@@ -1,0 +1,6 @@
+Article 5
+Service delivery
+1.   The Commission shall take adequate measures to ensure effective competition in the provision of GMES services and to promote the participation of SMEs. The Commission shall facilitate the use of the GMES services output to develop the downstream sector.
+2.   The provision of GMES services shall be decentralised, where appropriate, to integrate at European level existing space, in-situ and reference data inventories and capacities in Member States, thus avoiding duplication. Procurement of new data that duplicate existing sources shall be avoided unless the use of existing or upgradable data sets is not technically feasible or cost-effective.
+3.   The Commission, taking into account the opinion of the User Forum, may define or validate appropriate procedures for the certification of the production of data within the framework of the GMES programme. Those procedures shall be transparent, verifiable and auditable to ensure authenticity, traceability and data integrity for the user. In its contractual arrangements with GMES service operators, the Commission shall ensure that those procedures are implemented.
+4.   The Commission shall report annually on the results achieved in the implementation of this Article.

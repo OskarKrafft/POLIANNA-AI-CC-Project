@@ -1,0 +1,11 @@
+Article 42
+Role of the Member States in security accreditation
+1.   Member States shall transmit to the Security Accreditation Board all information they consider relevant for the purposes of security accreditation.
+2.   In agreement with and under the supervision of national entities competent in security matters, Member States shall permit duly authorised persons appointed by the Security Accreditation Board to have access to any information and to any areas and sites related to the security of systems falling within their jurisdiction, in accordance with their national laws and regulations, including for the purposes of security inspections, audits and tests as decided by the Security Accreditation Board and of the security risk monitoring process referred to in point (h) of Article 37. That access shall be without any discrimination on the grounds of nationality against nationals of Member States.
+3.   Audits and tests referred to in paragraph 2 shall be performed in accordance with the following principles:
+(a)
+the importance of security and effective risk management within the entities inspected shall be emphasised;
+(b)
+countermeasures to mitigate the specific impact of loss of confidentiality, integrity or availability of classified information shall be recommended.
+4.   Each Member State shall be responsible for devising a template for access control, which outlines or lists the areas or sites to be accredited. The template for access control shall be agreed in advance between the Member States and the Security Accreditation Board, thereby ensuring that the same level of access control is being provided by all Member States.
+5.   Member States shall be responsible, at local level, for the accreditation of the security of sites that are located within their territory and form part of the security accreditation area for the Programme’s components, and report, to this end, to the Security Accreditation Board.

@@ -1,0 +1,33 @@
+Article 144
+The early detection and exclusion system
+1.   Information exchanged within the early detection and exclusion system referred to in Article 137 shall be centralised in a database set up by the Commission (the ‘database’) and shall be managed in accordance with the right to privacy and other rights provided for in Regulation (EU) 2018/1725.
+Information on cases of early detection, exclusion and/or financial penalties shall be entered in the database by the authorising officer responsible after notifying the person or entity concerned, as referred to in Article 137(2). Such notification may be deferred in exceptional circumstances, where there are compelling legitimate grounds to preserve the confidentiality of an investigation or of national judicial proceedings, until such compelling legitimate grounds to preserve the confidentiality cease to exist.
+In accordance with Regulation (EU) 2018/1725, the Commission shall upon request inform the person or entity subject to the early detection and exclusion system, as referred to in Article 137(2), of the data stored in the database relating to that person or entity.
+The information contained in the database shall be updated, where appropriate, following a rectification, an erasure or any modification of data. It shall only be published in accordance with Article 142.
+2.   The early detection and exclusion system shall be based on facts and findings as referred to in Article 138(3), fourth subparagraph, and on the transmission of information to the Commission, in particular, by:
+(a)
+the EPPO in respect of those Member States participating in enhanced cooperation pursuant to Regulation (EU) 2017/1939, or OLAF in accordance with Regulation (EU, Euratom) No 883/2013 where an investigation completed or in progress shows that it might be appropriate to take precautionary measures or actions to protect the financial interests of the Union, with due regard to the respect for procedural and fundamental rights, and to the protection of whistle-blowers;
+(b)
+an authorising officer of the Commission, of a European office set up by the Commission or of an executive agency;
+(c)
+a Union institution, a European office, an agency other than those referred to in point (b) of this paragraph, or a body or a person entrusted with implementation of CFSP actions;
+(d)
+entities implementing the budget under Article 62(1), first subparagraph, point (b), and persons and entities implementing funds, pursuant to budget implementation under Article 62(1), first subparagraph, point (a), with Member States, in cases of facts and findings established only in the context of final judgments or final administrative decisions with reference to the grounds set out in Article 138(1), points (c)(iv) and (d), as well as detected fraud and/or irregularity and their follow up, where the transmission of information is required by sector-specific rules;
+(e)
+persons or entities implementing Union funds pursuant to Article 62(1), first subparagraph, point (c), in cases of detected fraud and/or irregularity and their follow up.
+3.   Except where information is to be submitted in accordance with sector-specific rules, the information to be transmitted pursuant to paragraph 2 of this Article shall include:
+(a)
+the identification of the entity or person concerned;
+(b)
+a summary of the risks detected or the facts in question;
+(c)
+information that could assist the authorising officer in carrying out the verification referred to in paragraph 4 of this Article or in taking a decision on exclusion as referred to in Article 138(1) or (3), or a decision to impose a financial penalty as referred to in Article 140;
+(d)
+where applicable, information on any special measures necessary to ensure the confidentiality of the information transmitted, including measures for the safeguarding of evidence to protect the investigation or the national judicial proceedings.
+4.   The Commission shall without delay transmit the information referred to in paragraph 3 to its authorising officers and those of its executive agencies, all other Union institutions, Union bodies, European offices and agencies through the database referred to in paragraph 1 in order to allow them to carry out the necessary verification in respect of their ongoing award procedures and existing legal commitments.
+In carrying out that verification, the authorising officer responsible shall exercise his or her powers as set out in Article 74 and shall not go beyond what is foreseen in the terms and conditions of the award procedure and legal commitments.
+The retention period for the information related to the early detection transmitted in accordance with paragraph 3 of this Article shall not exceed one year. If, during that period, the authorising officer responsible requests the panel to issue a recommendation in a case concerning exclusion or financial penalties, the retention period may be extended until such time as the authorising officer responsible has taken a decision.
+5.   All persons and entities involved in budget implementation in accordance with Article 62 shall be granted access by the Commission to the information on decisions on exclusion pursuant to Article 138 to enable them to verify whether there is an exclusion in the early detection and exclusion system, when awarding contracts or selecting beneficiaries to implement Union funds.
+Except where the implementation of the budget is entrusted to persons or entities under Article 62(1), first subparagraph, point (c), according to the conditions referred to in Article 157(4), all persons and entities involved in budget implementation shall enforce such decisions with regard to the person or entity applying for or selected to implement Union funds.
+6.   As part of the annual report of the Commission to the European Parliament and to the Council pursuant to Article 325(5) TFEU, the Commission shall provide aggregate information on the decisions taken by the authorising officers under Articles 137 to 144 of this Regulation. That report shall also provide further information on any decisions taken by the authorising officers pursuant to Article 138(9), first subparagraph, point (b), of this Regulation and Article 142(2) of this Regulation and on any decisions by the authorising officers to deviate from the recommendation of the panel pursuant to Article 145(6), third subparagraph, of this Regulation.
+The information referred to in the first subparagraph of this paragraph shall be provided with due regard to confidentiality requirements and shall, in particular, not allow for the identification of the person or entity concerned, as referred to in Article 137(2).

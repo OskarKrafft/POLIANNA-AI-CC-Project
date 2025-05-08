@@ -1,0 +1,5 @@
+Article 21
+CSD register
+1.   Decisions taken by competent authorities under Articles 16, 19 and 20 shall be immediately communicated to ESMA.
+2.   Central banks shall without undue delay inform ESMA of any securities settlement system that they operate.
+3.   The name of each CSD operating in compliance with this Regulation and to which authorisation or recognition has been granted pursuant to Article 16, 19 or 25 shall be entered in a register specifying the services and, where applicable, classes of financial instruments for which the CSD has been authorised. The register shall include branches operated by the CSD in other Member States, CSD links and the information required under Article 31 where Member States have made use of the possibility provided for in that Article. ESMA shall make the register available on its dedicated website and keep it up to date.

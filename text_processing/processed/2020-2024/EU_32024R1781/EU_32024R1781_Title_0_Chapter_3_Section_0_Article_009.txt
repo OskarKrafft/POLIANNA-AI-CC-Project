@@ -1,0 +1,34 @@
+Article 9
+Digital product passport
+1.   The information requirements shall provide that products can only be placed on the market or put into service if a digital product passport is available in accordance with the applicable delegated acts adopted pursuant to Article 4 and with Articles 10 and 11. The data in the digital product passport shall be accurate, complete and up to date.
+2.   The requirements related to the digital product passport laid down in the delegated acts adopted pursuant to Article 4 shall, as appropriate for the product groups covered, specify the following:
+(a)
+the data to be included in the digital product passport pursuant to Annex III;
+(b)
+one or more data carriers to be used;
+(c)
+the layout in which the data carrier is to be presented and its positioning;
+(d)
+whether the digital product passport is to be established at model, batch or item level, and the definition of such levels;
+(e)
+the manner in which the digital product passport is to be made accessible to customers before they are bound by a contract for sale, hire or hire purchase, including in the event of distance selling;
+(f)
+the actors that are to have access to data in the digital product passport and to what data they are to have access;
+(g)
+the actors that are to create a digital product passport or update the data in a digital product passport and what data they may introduce or update;
+(h)
+the detailed arrangements for introducing or updating data;
+(i)
+the period during which the digital product passport is to remain available, which shall correspond to at least the expected lifetime of a specific product.
+3.   The requirements referred to in paragraph 2 shall:
+(a)
+ensure that actors along the value chain can easily access and understand product information relevant to them;
+(b)
+facilitate the verification of product compliance by competent national authorities; and
+(c)
+improve the traceability of products along the value chain.
+4.   When setting the requirements related to the digital product passport, the Commission may exempt product groups from the requirement to have a digital product passport where:
+(a)
+technical specifications of the digital product passport are not available in relation to the essential requirements included in Articles 10 and 11; or
+(b)
+other Union law includes a system for the digital provision of information related to a product group which the Commission considers achieves the objectives referred to in paragraph 3, points (a) and (b).

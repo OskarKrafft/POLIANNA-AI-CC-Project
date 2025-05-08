@@ -1,0 +1,28 @@
+Article 15
+Monitoring and recording
+1.   As of 1 January 2025, based on the monitoring plan referred to in Article 8 and following the assessment of that plan by the verifier, companies shall monitor and record, for each ship arriving at or departing from a port of call, and for each voyage referred to in Article 2(1), the following information:
+(a)
+port of departure and port of arrival including the date and time of departure and arrival and time spent at berth;
+(b)
+for each ship to which Article 6(1) applies, the connection to and use of OPS or the application of any of the exceptions provided for in Article 6(5) as confirmed pursuant to Article 6(9), point (a), where applicable;
+(c)
+the amount of each type of fuel consumed at berth and at sea;
+(d)
+the amount of electricity delivered to the ship through OPS;
+(e)
+for each type of fuel consumed at berth and at sea, the well-to-tank emission factor, the tank-to-wake emission factors of combusted fuel and the tank-to-wake emission factors of slipped fuel associated with the different fuel consumers on board, covering all relevant greenhouse gases;
+(f)
+the amount of each type of substitute source of energy consumed at berth and at sea;
+(g)
+the ship’s ice class, if the company requests to exclude the additional energy used due to ship’s ice class from the calculation of the compliance balance set out in Annex IV, using the Baltic Marine Environment Protection Commission (HELCOM) Recommendation 25/7 on safety of winter navigation in the Baltic Sea to establish the correspondence between ice classes;
+(h)
+the ship’s ice class, the date, time and position when entering and leaving the ice conditions, the amount of each type of fuel consumed and the distance travelled when sailing in ice conditions as well as the total distance travelled for all voyages during the reporting period, if the company requests to exclude the additional energy used due to sailing in ice conditions from the calculation of the compliance balance set out in Annex IV.
+2.   Companies shall record the information and data listed in paragraph 1 in a timely and transparent manner and compile them on an annual basis to enable the verifier to verify compliance with this Regulation.
+3.   By 31 January of the verification period, companies shall provide to the verifier a ship-specific report (the ‘FuelEU report’) containing all the information referred to in paragraph 1 of this Article and the monitoring data and documentation referred to in Article 7(4) for the reporting period.
+4.   In the event of the transfer of a ship from one company to another:
+(a)
+the transferring company shall notify to the verifier the information referred to in paragraph 1 of this Article for the time during which it had responsibility for the operation of the ship;
+(b)
+as close as practical to the day of completion of the transfer and no later than one month thereafter, the information referred to in point (a) shall be verified and recorded in the FuelEU database in accordance with Article 16 by the verifier that performed verification activities for the ship under the transferring company; and
+(c)
+without prejudice to points (a) and (b), the company that has responsibility for the operation of the ship on 31 December of the reporting period shall be responsible for the compliance of the ship with the requirements set out in Articles 4 and 6 for the entire reporting period during which the transfer or multiple transfers took place.

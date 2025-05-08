@@ -1,0 +1,210 @@
+Article 4
+Amendments to Regulation (EC) No 1005/2008
+Regulation (EC) No 1005/2008 is amended as follows:
+(1)
+In the title of the Regulation, in the Articles, in the headings of the Articles and Chapters and in the Annexes, the noun ‘Community’ or the corresponding adjective is replaced by ‘Union’, with any necessary grammatical changes being made.
+(2)
+In Article 2, point 17 is replaced by the following:
+‘17.
+“sighting” means any observation by a Member State’s competent authority responsible for inspection at sea, or by the master of a Union or third-country fishing vessel of a fishing vessel engaged in activities that may be considered to be IUU fishing in accordance with Article 3.’.
+(3)
+Article 3 is replaced by the following:
+‘Article 3
+Fishing vessels engaged in IUU fishing
+A fishing vessel shall be presumed to be engaged in IUU fishing if, contrary to the conservation and management measures applicable in the fishing area concerned, it carried out one or more activities:
+(a)
+listed in Article 90(2), points (a) to (m), of Regulation (EC) No 1224/2009; or
+(b)
+considered to be serious infringements pursuant to Article 90(3), points (a) to (f), (h), (i), (j), (l) and (n), of Regulation (EC) No 1224/2009.’.
+(4)
+Article 10 is replaced by the following:
+‘Article 10
+Inspection procedure
+For the purpose of verifying compliance with applicable laws, regulations and relevant international conservation and management measures, Member States shall apply the provisions of Chapter I of Title VII of Regulation (EC) No 1224/2009.’.
+(5)
+In Article 11, paragraphs 1 and 2 are replaced by the following:
+‘1.   If the information collected during the inspection or any other relevant data or information provides evidence that leads the official to believe that a fishing vessel has engaged in IUU fishing in accordance with Article 3 of this Regulation, the official shall carry out the duties set out in Article 82 of Regulation (EC) No 1224/2009.
+2.   If the results of the inspection provide evidence that a third-country fishing vessel has engaged in IUU fishing in accordance with Article 3, the competent authority of the port Member State shall not authorise such vessel to land or tranship its catch or to have access to port services.’
+(6)
+The heading of Chapter III is replaced by the following:
+
+                                       ‘
+                                       Catch certification scheme for fishery products
+                                       ’.
+(7)
+In Article 12, paragraph 5 is deleted.
+(8)
+The following articles are inserted:
+‘Article 12a
+Integrated computerised information management system for the Catch Certification Scheme
+1.   For the purpose of allowing the integrated management, handling, storage and exchange of information, data and documents relevant for checks, verifications, control and other relevant official activities concerning importation, re-exportation and, where relevant, exportation of fishery products, a digital information management system (CATCH) for the Catch Certification Scheme shall be established by the Commission in accordance with Articles 12b, 12c and 12d of this Regulation. CATCH shall be integrated in the Trade Control and Expert System (TRACES) referred to in Article 133(4) of Regulation (EU) 2017/625 of the European Parliament and of the Council (*23).
+2.   Exchange of information, data and documents in relation to the importation, re-exportation and, where relevant, exportation of fishery products and related checks, risk management, verifications and control, as well as in relation to documents referred to in this Chapter, such as importer declarations, catch certificates, re-export certificates, statements, applications or decisions, between the importer, the re-exporter and, where relevant, the exporter and the competent authorities of Member States, between the competent authorities of Member States or between the competent authorities of Member States and the Commission as provided for in this Regulation, shall be made using CATCH.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 54b supplementing this Regulation concerning the cases where, and the conditions under which, temporary exemptions from the application of paragraph 2 of this Article can be established.
+4.   The competent authorities of Member States shall use the information submitted by importers via CATCH under Article 16(1), for quantity management as well as, based on risk management, for carrying out their checks and verifications and for taking decisions as provided for under this Chapter and in delegated and implementing acts referred to in this Chapter and in Article 54a.
+Article 12b
+General functionalities of CATCH
+1.   CATCH shall:
+(a)
+allow for the computerised submission, handling, storage, management and exchange of information, data and documents necessary for the performance of checks, risk management, verifications, control, quantity management and decisions as provided for under this Chapter and in the related delegated and implementing acts referred to in this Chapter and in Article 54a, between the competent authorities of Member States, between competent authorities of Member States and the Commission and, where appropriate, between competent authorities of Member States and competent authorities of flag States, countries of processing and other third countries concerned, and importers and exporters;
+(b)
+provide for a quantity management mechanism which ensures that the weight of the raw material for one or more importations under one single catch certificate is not higher than the weight validated in such certificate;
+(c)
+by 10 January 2028 provide for the possibility of exchanging information, data and documents relevant for importation, re-exportation and, where relevant, exportation of fishery products in accordance with the provisions of this Chapter and the delegated and implementing acts adopted pursuant to this Chapter, with other authorities of the Member States and with the customs authorities of Member States through the EU Single Window;
+(d)
+provide for the possibility of electronic risk management and analysis.
+2.   CATCH may interoperate with other systems relevant for the fight against IUU fishing, including through an interface with existing and functioning national IT systems.
+Article 12c
+The functioning of CATCH
+In accordance with the rules laid down for TRACES, the Commission may adopt implementing acts for the functioning of CATCH which lay down:
+(a)
+the technical specifications for CATCH as a system component of TRACES, including the electronic data exchange mechanism for exchanges with existing national and other systems, identification of applicable standards, definition of message structures, access conditions, data dictionaries, exchange of protocols and procedures;
+(b)
+the specific rules for the functioning of CATCH and of its system components to ensure protection of personal data and security of exchange of information;
+(c)
+contingency arrangements to be applied in the event of unavailability of any of the functionalities of CATCH;
+(d)
+the cases where, and the conditions under which, the third countries and regional fisheries management organisations referred to in Article 13 or other international organisations may be granted partial access to the functionalities of CATCH and the technical specifications for such access;
+(e)
+the rules under which electronic documents are validated in accordance with Regulation (EU) No 910/2014 of the European Parliament and of the Council (*24);
+(f)
+the templates, forms and rules for the issuance of official documents, including in electronic format, provided for under this Regulation, other than those provided for in this Chapter and related Annexes.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 54(2).
+Article 12d
+Protection of personal data
+1.   Regulation (EU) 2016/679 of the European Parliament and of the Council (*25) and Regulation (EU) 2018/1725 of the European Parliament and of the Council (*26) shall apply to the extent that the information processed through CATCH contains personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679.
+2.   In relation to their responsibilities to transmit the relevant information to CATCH and the processing of any personal data that might result from that activity, the competent authorities of the Member States shall be regarded as controllers as defined in Article 4, point (7), of Regulation (EU) 2016/679.
+3.   The Commission shall be regarded as controller as defined in Article 3, point (8), of Regulation (EU) 2018/1725 in relation to its responsibility to manage CATCH and the processing of any personal data that might result from that activity.
+4.   Member States and the Commission shall ensure that CATCH complies with the rules on personal data protection referred to in Articles 134 and 135 of Regulation (EU) 2017/625.
+Article 12e
+Data security
+Member States and the Commission shall ensure that CATCH complies with the rules on data security referred to in Articles 134 and 136 of Regulation (EU) 2017/625.
+
+(*23)  Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1)."
+                        
+
+(*24)  Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73)."
+                        
+
+(*25)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1)."
+                        
+
+(*26)  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).’."
+                        
+(9)
+Article 14 is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                          ‘
+                                          Importation of fishery products
+                                          ’;
+(b)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   In order to import fishery products transported in the same form to the Union from a third country other than the flag State or the State in which processing takes place as referred to in paragraph 2, the importer shall submit to the competent authorities of the Member States of importation:
+(a)
+the catch certificate(s) validated by the flag State and, if applicable, the endorsed statement referred to in paragraph 2, as follows:
+(i)
+the original catch certificate(s) and, if applicable, the original of the statement referred to in paragraph 2, of the fishery products concerned if the total consignment is exported; or
+(ii)
+a copy of the original catch certificate(s) and, if applicable, a copy of the statement referred to in paragraph 2 where only a part of the fishery products concerned in the consignment is exported; and
+(b)
+documented evidence that the fishery products did not undergo operations other than unloading, reloading or any operation designed to preserve them in good and genuine condition, and remained under the surveillance of the competent authorities in that third country. Such documented evidence shall be provided by means of:
+(i)
+if the whole consignment related to a catch certificate and, if relevant, to the statement referred to in paragraph 2 is exported, the single transport document issued to cover the passage from the territory of the flag State or the State in which processing takes place through that third country; or
+(ii)
+if the original consignment related to a catch certificate and, if relevant, to the statement referred to in paragraph 2 of this Article is split, a document validated by the competent authorities of that third country, using the template referred to in Article 54a, which at least:
+—
+gives an exact description of the fishery products and the weight of the consignment exported, the dates of unloading and reloading of the fishery products and, where applicable, the names of the vessels or other means of transport used; and
+—
+indicates the name and approval number of the storage facility and the conditions under which the fishery products remained in that third country.
+Where the species concerned are subject to a catch documentation scheme adopted by a regional fisheries management organisation and recognised under Article 13, the documents referred to above may be replaced by the re-export certificate of that catch documentation scheme, provided that the third country has fulfilled its notification requirements accordingly.
+2.   In order to import fishery products constituting one single consignment and which have been processed in a third country, the importer shall submit to the competent authorities of the Member State of importation a statement established by the processing plant in that third country and endorsed by its competent authorities in accordance with the form set out in Annex IV:
+(a)
+giving an exact description of the unprocessed and processed products and their respective quantities;
+(b)
+indicating that the processed products have been processed in that third country from catches accompanied by catch certificate(s) validated by the flag State; and
+(c)
+accompanied by:
+(i)
+the original catch certificate(s) where the totality of the catches concerned has been used for the processing of the fishery products exported in a single consignment; or
+(ii)
+a copy of the original catch certificate(s), where part of the catches concerned has been used for the processing of the fishery products exported in a single consignment.
+Where the species concerned are subject to a catch documentation scheme adopted by a regional fisheries management organisation and recognised under Article 13, the statement may be replaced by the re-export certificate of that catch documentation scheme, provided that the third country of processing has fulfilled its notification requirements accordingly.’.
+(10)
+In Article 16, paragraph 1 is replaced by the following:
+‘1.   The importer of fishery products into the Union shall submit the catch certificate, as established in Article 12(4), together with their transport details as specified in the Appendix to Annex II, the statement of the processing plant as established in Article 14(2) and other information as required in Articles 12, 14 and 17, electronically via CATCH to the competent authorities of the Member State into which the fishery products are intended to be imported. The catch certificate together with all the relevant accompanying documents shall be submitted at least three working days before the estimated time of arrival at the place of entry into the territory of the Union. The deadline of three working days may be adapted according to the type of fishery product, the distance to the place of entry into the territory of the Union or the means of transport used. Those competent authorities shall, on the basis of risk management, check all submitted documents, in particular the catch certificate, in the light of the information provided in the notification received from the flag State in accordance with Articles 20 and 22.’
+(11)
+In Article 17, paragraph 3 is replaced by the following:
+‘3.   Verifications shall focus on risks identified on the basis of risk-management criteria determined at Union level. In addition, Member States may develop additional national criteria for the same purpose. Member States shall notify to the Commission their national criteria and any updates thereof. The Commission shall, by means of implementing acts, determine the Union criteria. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 54(2).’
+(12)
+In Article 27, paragraph 8 is replaced by the following:
+‘8.   Union fishing vessels shall not be included in the Union IUU vessel list if the flag Member State has taken action pursuant to this Regulation and Regulation (EC) No 1224/2009 against breaches constituting serious infringements as referred to in Article 42 of this Regulation, without prejudice to any action taken by regional fisheries management organisations.’
+(13)
+In Article 38, the following points are added:
+‘10.   the ownership, including as a beneficial owner as defined in Article 3, point (6), of Directive (EU) 2015/849 of the European Parliament and of the Council (*27), operation or management by Union operators of fishing vessels flying the flag of such countries shall be prohibited. Union owners, including beneficial owners, of fishing vessels flying the flag of such countries shall request that those vessels be removed from the registry of such countries within two months of the publication of the list of non-cooperating third countries in accordance with Article 33 of this Regulation. Where the request cannot be made directly by the owners, including beneficial owners, they shall mandate a relevant natural or legal person empowered to act on their behalf to request such removal within the timeframe provided;
+11.   access to port services and the conduct of landing or transhipment operations in Union ports by fishing vessels flying the flag of such countries shall be prohibited.
+
+(*27)  Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).’."
+                        
+(14)
+The heading of Chapter IX is replaced by the following:
+
+                                       ‘
+                                       Chapter IX
+
+
+Proceedings and enforcement
+                                       ’.
+(15)
+Article 42 is replaced by the following:
+‘Article 42
+Serious infringements
+For the purposes of this Regulation, “serious infringement” means any infringement falling within the scope of this Regulation which is listed in Article 90(2) of Regulation (EC) No 1224/2009 or considered to be a serious infringement pursuant to Article 90(3) of that Regulation.’.
+(16)
+The following article is inserted:
+‘Article 42a
+Proceedings in the event of serious infringements
+Without prejudice to Article 11(4) and Article 50 of this Regulation, Member States shall apply Article 85 of Regulation (EC) No 1224/2009 where a serious infringement is detected.’.
+(17)
+Article 43 is replaced by the following:
+‘Article 43
+Measures and sanctions
+In the event of serious infringements, Member States shall apply measures and sanctions in accordance with Title VIII of Regulation (EC) No 1224/2009.’.
+(18)
+Articles 44 to 47 are deleted.
+(19)
+Article 54 is replaced by the following:
+‘Article 54
+Committee procedure
+1.   The Commission shall be assisted by the Committee for Fisheries and Aquaculture established by Article 47 of Regulation (EU) No 1380/2013. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*28).
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+(*28)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).’."
+                        
+(20)
+The following articles are inserted:
+‘Article 54a
+Annexes and documents
+The Commission is empowered to adopt delegated acts in accordance with Article 54b amending Annex I, Annex II, including the Appendix thereto, and Annex IV, as well as supplementing this Regulation by adopting and keeping up to date a template for the document referred to in Article 14(1), point (b)(ii), in order to take into account international developments in catch documentation schemes, scientific developments and technical progress, including adaptations for the purpose of the implementation of CATCH. The Commission is also empowered to adopt delegated acts in accordance with Article 54b amending Annex I each year on the basis of the information collected under Chapters II, III, IV, V, VIII, X and XII.
+Article 54b
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 12a(3) and Article 54a shall be conferred on the Commission for an indeterminate period of time.
+3.   The delegation of power referred to in Article 12a(3) and Article 54a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*29).
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6.   A delegated act adopted pursuant to Article 12a(3) and Article 54a shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.
+
+(*29)  
+                                          OJ L 123, 12.5.2016, p. 1.’."
+                        
+(21)
+Annex II and the Appendix thereto are replaced by the text set out in Annex II to this Regulation.
+(22)
+In Annex IV, the introductory part is replaced by the following:
+
+                              ‘DOCUMENT NUMBER (*30): …
+I confirm that the processed fishery products: … (product description and Combined Nomenclature code) have been obtained from catches under the following catch certificate(s):
+
+(*30)  Insert document number’."
+                        

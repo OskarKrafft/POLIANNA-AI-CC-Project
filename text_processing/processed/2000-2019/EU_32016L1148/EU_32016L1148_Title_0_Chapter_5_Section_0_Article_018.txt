@@ -1,0 +1,5 @@
+Article 18
+Jurisdiction and territoriality
+1.   For the purposes of this Directive, a digital service provider shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment. A digital service provider shall be deemed to have its main establishment in a Member State when it has its head office in that Member State.
+2.   A digital service provider that is not established in the Union, but offers services referred to in Annex III within the Union, shall designate a representative in the Union. The representative shall be established in one of those Member States where the services are offered. The digital service provider shall be deemed to be under the jurisdiction of the Member State where the representative is established.
+3.   The designation of a representative by the digital service provider shall be without prejudice to legal actions which could be initiated against the digital service provider itself.

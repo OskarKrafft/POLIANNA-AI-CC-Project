@@ -1,0 +1,81 @@
+Article 5
+Regular data requirements
+1.   The statistics related to the input and output of agricultural activities shall cover the following domains and topics:
+(a)
+animal production statistics
+(i)
+livestock and meat,
+(ii)
+eggs and chicks,
+(iii)
+milk and milk products;
+(b)
+crop production statistics
+(i)
+crop area and production,
+(ii)
+crop balances,
+(iii)
+grasslands;
+(c)
+agricultural price statistics
+(i)
+agricultural price indices,
+(ii)
+absolute input prices,
+(iii)
+agricultural land prices and rents;
+(d)
+statistics on nutrients
+(i)
+nutrients in fertilisers for agriculture,
+(ii)
+nutrient balances;
+(e)
+statistics on plant protection products
+(i)
+plant protection products.
+2.   The detailed topics, their corresponding transmission frequencies and reference periods as well as their organic and regional dimensions shall be as set out in the Annex.
+3.   The data shall be transmitted to the Commission (Eurostat) in the form of aggregated data sets.
+4.   The data on organic production and products that comply with Regulation (EU) 2018/848 shall be integrated into the data sets.
+5.   Regional data shall be provided at NUTS 2 level as defined in Regulation (EC) No 1059/2003. By way of exception, those data may be provided only by NUTS 1 territorial units for Germany.
+6.   Where a variable has low or zero prevalence in a Member State, the values of that variable may be excluded from the transmitted data sets, if the Member State concerned has duly justified its exclusion to the Commission (Eurostat).
+7.   Relevant price information on agricultural input and output, including the characteristics and weights of the goods and services, shall be collected by Member States for compiling comparable price indices and for the variables necessary for the economic accounts for agriculture covered by Regulation (EC) No 138/2004.
+8.   The Commission is empowered to adopt delegated acts in accordance with Article 17 amending, in order to add, delete or modify detailed topics, including their description, as set out in the Annex.
+When exercising its power to adopt delegated acts referred to in the first subparagraph, the Commission shall ensure that:
+(a)
+the delegated acts are duly justified and do not impose significant additional burden or costs on the Member States or on the respondents;
+(b)
+over a period of five consecutive years, not more than four detailed topics are amended, out of which not more than one is new;
+(c)
+feasibility studies as set out in Article 11 are launched, where necessary, and their results are duly taken into account.
+9.   The Commission is empowered to adopt delegated acts in accordance with Article 17 amending the transmission frequencies, reference periods and the applicability of the dimensions of detailed topics as set out in the Annex.
+When exercising its power to adopt delegated acts referred to in the first subparagraph, the Commission shall ensure that:
+(a)
+the delegated acts are duly justified and do not impose significant additional burden or costs on the Member States or on the respondents;
+(b)
+feasibility studies as set out in Article 11 are launched, and their results are duly taken into account.
+10.   The Commission shall adopt implementing acts to define the data sets to be transmitted to the Commission (Eurostat). Those implementing acts shall specify the following technical elements of the data to be provided, where appropriate:
+(a)
+the list of variables;
+(b)
+the description of variables, including:
+(i)
+the characteristics of the observation unit,
+(ii)
+the measurement unit for the characteristics of the observation unit,
+(iii)
+the organic and regional dimensions for the characteristics of the observation unit;
+a variable is counted as a combination of a characteristic of an observation unit with the corresponding measurement unit and one of its dimensions;
+(c)
+the observation units;
+(d)
+the precision requirements;
+(e)
+the methodological rules;
+(f)
+the deadlines for transmitting the data, taking into account the necessary time to produce national data complying with the quality criteria defined in Article 12(1) of Regulation (EC) No 223/2009 and the need to minimise the administrative burden and costs on the Member States and the respondents; the deadlines for transmitting the data shall not be modified before 1 January 2030.
+Where the Commission identifies the need to modify the deadlines for transmitting the data, it shall launch feasibility studies as set out in Article 11 of this Regulation and the results of those feasibility studies shall be duly taken into account. When modifying the deadlines for transmitting the data, those deadlines shall not be reduced by more than 20 % of the days which separate the end of the reference period from the deadline for transmitting the data as set out in the first implementing act adopted pursuant to this paragraph, unless the reduction of the deadline for transmitting the data is solely due to the introduction of an innovative approach or the use of new digital data sources, such as Earth observation or big data, available in all Member States.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 19(2) at least 12 months before the beginning of the relevant reference year.
+11.   Where the Commission has adopted a delegated act pursuant to paragraph 8 or 9, except a delegated act amending the organic dimension, the implementing act referred to in paragraph 10 may modify, replace or add a maximum of 90 variables in total over a period of five consecutive years. That maximum limit shall not, however, apply to variables related to the domain of statistics on plant protection products.
+12.   Member States shall transmit pre-checked data and related metadata using a technical format specified by the Commission (Eurostat) for each data set. The single entry point services shall be used to transmit the data to the Commission (Eurostat).

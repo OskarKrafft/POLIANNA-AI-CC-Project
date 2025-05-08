@@ -1,0 +1,31 @@
+Article 232
+Other funded credit protection
+1.   Where the conditions set out in Article 212(1) are met, deposits with third party institutions may be treated as a guarantee by the third party institution.
+2.   Where the conditions set out in Article 212(2) are met, institutions shall subject the portion of the exposure collateralised by the current surrender value of life insurance policies pledged to the lending institution to the following treatment:
+(a)
+where the exposure is subject to the Standardised Approach, it shall be risk-weighted by using the risk weights specified in paragraph 3;
+(b)
+where the exposure is subject to the IRB Approach but not subject to the institution's own estimates of LGD, it shall be assigned an LGD of 40 %.
+In the event of a currency mismatch, institutions shall reduce the current surrender value in accordance with Article 233(3), the value of the credit protection being the current surrender value of the life insurance policy.
+3.   For the purposes of point (a) of paragraph 2, institutions shall assign the following risk weights on the basis of the risk weight assigned to a senior unsecured exposure to the undertaking providing the life insurance:
+(a)
+a risk weight of 20 %, where the senior unsecured exposure to the undertaking providing the life insurance is assigned a risk weight of 20 %;
+(b)
+a risk weight of 35 %, where the senior unsecured exposure to the undertaking providing the life insurance is assigned a risk weight of 50 %;
+(c)
+a risk weight of 70 %, where the senior unsecured exposure to the undertaking providing the life insurance is assigned a risk weight of 100 %;
+(d)
+a risk weight of 150 %, where the senior unsecured exposure to the undertaking providing the life insurance is assigned a risk weight of 150 %.
+4.   Institutions may treat instruments repurchased on request that are eligible under Article 200(c) as a guarantee by the issuing institution. The value of the eligible credit protection shall be the following:
+(a)
+where the instrument will be repurchased at its face value, the value of the protection shall be that amount;
+(b)
+where the instrument will be repurchased at market price, the value of the protection shall be the value of the instrument valued in the same way as the debt securities that meet the conditions in Article 197(4).
+
+Sub-Section 2
+
+
+
+Unfunded credit protection
+
+

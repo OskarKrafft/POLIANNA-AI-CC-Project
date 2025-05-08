@@ -1,0 +1,107 @@
+Article 2
+Definitions
+For the purpose of this Regulation, the following definitions apply:
+(1)
+‘relevant country-specific recommendations’ mean Council recommendations adopted in accordance with Articles 121(2) and 148(4) TFEU relating to structural challenges as well as complementary Commission recommendations issued in accordance with Article 34 of Regulation (EU) 2018/1999, which are appropriate to be addressed through multiannual investments that fall within the scope of the Funds as set out in Fund-specific Regulations;
+(2)
+‘enabling condition’ means a prerequisite condition for the effective and efficient implementation of the specific objectives;
+(3)
+‘applicable law’ means Union law and the national law relating to its application;
+(4)
+‘operation’ means:
+(a)
+a project, contract, action or group of projects selected under the programmes concerned;
+(b)
+in the context of financial instruments, a programme contribution to a financial instrument and the subsequent financial support provided to final recipients by that financial instrument;
+(5)
+‘operation of strategic importance’ means an operation which provides a significant contribution to the achievement of the objectives of a programme and which is subject to particular monitoring and communication measures;
+(6)
+‘priority’ in the context of the AMIF, the ISF and the BMVI, means a specific objective;
+(7)
+‘priority’ in the context of the EMFAF, for the purpose of Title VII only, means a specific objective;.
+(8)
+‘intermediate body’ means a public or private body which acts under the responsibility of a managing authority, or which carries out functions or tasks on behalf of such an authority;
+(9)
+‘beneficiary’ means:
+(a)
+a public or private body, an entity with or without legal personality, or a natural person, responsible for initiating or both initiating and implementing operations;
+(b)
+in the context of public-private partnerships (‘PPPs’), the public body initiating a PPP operation or the private partner selected for its implementation;
+(c)
+in the context of State aid schemes, the undertaking which receives the aid;
+(d)
+in the context of de minimis aid provided in accordance with Commission Regulations (EU) No 1407/2013 (37) or (EU) No 717/2014 (38), the Member State may decide that the beneficiary for the purposes of this Regulation is the body granting the aid, where it is responsible for intiating or both initiating and implementing the operation;
+(e)
+in the context of financial instruments, the body that implements the holding fund or, where there is no holding fund structure, the body that implements the specific fund or, where the managing authority manages the financial instrument, the managing authority;
+(10)
+‘small project fund’ means an operation in an Interreg programme aimed at the selection and implementation of projects, including people-to-people actions, of limited financial volume;
+(11)
+‘target’ means a pre-agreed value to be achieved by the end of the eligibility period in relation to an indicator included under a specific objective;
+(12)
+‘milestone’ means an intermediate value to be achieved at a given point in time during the eligibility period in relation to an output indicator included under a specific objective;
+(13)
+‘output indicator’ means an indicator to measure the specific deliverables of the intervention;
+(14)
+‘result indicator’ means an indicator to measure the effects of the interventions supported, with particular reference to the direct addressees, population targeted or users of infrastructure;
+(15)
+‘PPP operation’ means an operation which is implemented under a partnership between public bodies and the private sector in line with a PPP agreement, and which aims to provide public services through risk sharing by the pooling of either private sector expertise or additional sources of capital or both;
+(16)
+‘financial instrument’ means a form of support delivered via a structure through which financial products are provided to final recipients;
+(17)
+‘financial product’ means equity or quasi-equity investments, loans and guarantees as defined in Article 2 of the Financial Regulation;
+(18)
+‘final recipient’ means a legal or natural person receiving support from the Funds through a beneficiary of a small project fund or from a financial instrument;
+(19)
+‘programme contribution’ means the support from the Funds and the national public and private, if any, co-financing to a financial instrument;
+(20)
+‘holding fund’ means a fund set up under the responsibility of a managing authority under one or more programmes, to implement one or more specific funds;
+(21)
+‘specific fund’ means a fund through which a managing authority or a holding fund provides financial products to final recipients;
+(22)
+‘body implementing a financial instrument’ means a body, governed by public or private law, carrying out tasks of a holding fund or specific fund;
+(23)
+‘leverage effect’ means the amount of reimbursable financing provided to final recipients divided by the amount of the contribution from the Funds;
+(24)
+‘multiplier ratio’ in the context of guarantee instruments means a ratio established on the basis of a prudent ex ante risk assessment in respect of each a guarantee product to be offered, between the value of the underlying disbursed new loans, equity or quasi-equity investments, and the amount of the programme contribution set aside for guarantee contracts to cover expected and unexpected losses from these new loans, equity or quasi-equity investments;
+(25)
+‘management costs’ means direct or indirect costs reimbursed against evidence of expenditure incurred in the implementation of financial instruments;
+(26)
+‘management fees’ means a price for services rendered, as determined in the funding agreement between the managing authority and the body implementing a holding fund or a specific fund; and, where applicable, between the body implementing a holding fund and the body implementing a specific fund;
+(27)
+‘relocation’ means a transfer of the same or similar activity or part thereof within the meaning of point (61a) of Article 2 of Regulation (EU) No 651/2014;
+(28)
+‘public contribution’ means any contribution to the financing of operations the source of which is the budget of national, regional or local public authorities or of any European grouping of territorial cooperation (EGTC) established in accordance with Regulation (EC) No 1082/2006 of the European Parliament and of the Council (39), the budget of the Union made available to the Funds, the budget of public law bodies or the budget of associations of public authorities or of public law bodies and, for the purpose of determining the co-financing rate for ESF+ programmes or priorities, may include any financial resources collectively contributed by employers and workers;
+(29)
+‘accounting year’ means the period from 1 July to 30 June of the following year, except for the first accounting year of the programming period, in respect of which it means the period from the start date for eligibility of expenditure until 30 June 2022; for the final accounting year, it means the period from 1 July 2029 to 30 June 2030;
+(30)
+‘economic operator’ means any natural or legal person, or other entity involved in the implementation of the Funds, with the exception of a Member State exercising its prerogatives as a public authority;
+(31)
+‘irregularity’ means any breach of applicable law, resulting from an act or omission by an economic operator, which has, or would have, the effect of prejudicing the budget of the Union by charging unjustified expenditure to that budget;
+(32)
+‘serious deficiency’ means a deficiency in the effective functioning of the management and control system of a programme for which significant improvements in the management and control systems are required and where any of the key requirements 2, 4, 5, 9, 12, 13 and 15 referred to in Annex XI, or two or more of the other key requirements are assessed into categories 3 and 4 of that Annex;
+(33)
+‘systemic irregularity’ means any irregularity, which may be of a recurring nature, with a high probability of occurrence in similar types of operations, which results from a serious deficiency, including a failure to establish appropriate procedures in accordance with this Regulation and the Fund-specific rules;
+(34)
+‘total errors’ means the sum of the projected random errors and, if applicable, delimited systemic errors and uncorrected anomalous errors;
+(35)
+‘total error rate’ means total errors divided by the audit population;
+(36)
+‘residual error rate’ means the total errors less the financial corrections applied by the Member State to reduce the risks identified by the audit authority, divided by the expenditure to be declared in the accounts;
+(37)
+‘completed operation’ means an operation that has been physically completed or fully implemented and in respect of which all related payments have been made by beneficiaries and the corresponding public contribution has been paid to the beneficiaries;
+(38)
+‘sampling unit’ means one of the units, which may be an operation, a project within an operation or a payment claim by a beneficiary, into which an audit population is divided for the purpose of sampling;
+(39)
+‘escrow account’ means, in the case of a PPP operation, a bank account covered by a written agreement between a public body beneficiary and the private partner approved by the managing authority or an intermediate body used for payments during or after the eligibility period;
+(40)
+‘participant’ means a natural person benefiting directly from an operation without being responsible for initiating or both initiating and implementing the operation and who, in the context of the EMFAF, does not receive financial support;
+(41)
+‘energy efficiency first’ means taking utmost account in energy planning, and in policy and investment decisions, of alternative cost-efficient energy efficiency measures to make energy demand and energy supply more efficient, in particular by means of cost-effective end-use energy savings, demand response initiatives and more efficient conversion, transmission and distribution of energy, whilst still achieving the objectives of those decisions;
+(42)
+‘climate proofing’ means a process to prevent infrastructure from being vulnerable to potential long-term climate impacts whilst ensuring that the ‘energy efficiency first’ principle is respected and that the level of greenhouse gas emissions arising from the project is consistent with the climate neutrality objective in 2050;
+(43)
+‘grants under conditions’ means a category of grant subject to conditions linked to the repayment of support;
+(44)
+‘EIB’ means the European Investment Bank, the European Investment Fund or any subsidiary of the European Investment Bank;
+(45)
+‘Seal of Excellence’ means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding.

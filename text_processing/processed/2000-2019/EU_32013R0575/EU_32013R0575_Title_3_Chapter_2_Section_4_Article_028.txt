@@ -1,0 +1,80 @@
+Article 28
+Common Equity Tier 1 instruments
+1.   Capital instruments shall qualify as Common Equity Tier 1 instruments only if all the following conditions are met:
+(a)
+the instruments are issued directly by the institution with the prior approval of the owners of the institution or, where permitted under applicable national law, the management body of the institution;
+(b)
+the instruments are paid up and their purchase is not funded directly or indirectly by the institution;
+(c)
+the instruments meet all the following conditions as regards their classification:
+(i)
+they qualify as capital within the meaning of Article 22 of Directive 86/635/EEC;
+(ii)
+they are classified as equity within the meaning of the applicable accounting framework;
+(iii)
+they are classified as equity capital for the purposes of determining balance sheet insolvency, where applicable under national insolvency law;
+(d)
+the instruments are clearly and separately disclosed on the balance sheet in the financial statements of the institution;
+(e)
+the instruments are perpetual;
+(f)
+the principal amount of the instruments may not be reduced or repaid, except in either of the following cases:
+(i)
+the liquidation of the institution;
+(ii)
+discretionary repurchases of the instruments or other discretionary means of reducing capital, where the institution has received the prior permission of the competent authority in accordance with Article 77;
+(g)
+the provisions governing the instruments do not indicate expressly or implicitly that the principal amount of the instruments would or might be reduced or repaid other than in the liquidation of the institution, and the institution does not otherwise provide such an indication prior to or at issuance of the instruments, except in the case of instruments referred to in Article 27 where the refusal by the institution to redeem such instruments is prohibited under applicable national law;
+(h)
+the instruments meet the following conditions as regards distributions:
+(i)
+there is no preferential distribution treatment regarding the order of distribution payments, including in relation to other Common Equity Tier 1 instruments, and the terms governing the instruments do not provide preferential rights to payment of distributions;
+(ii)
+distributions to holders of the instruments may be paid only out of distributable items;
+(iii)
+the conditions governing the instruments do not include a cap or other restriction on the maximum level of distributions, except in the case of the instruments referred to in Article 27;
+(iv)
+the level of distributions is not determined on the basis of the amount for which the instruments were purchased at issuance, except in the case of the instruments referred to in Article 27;
+(v)
+the conditions governing the instruments do not include any obligation for the institution to make distributions to their holders and the institution is not otherwise subject to such an obligation;
+(vi)
+non-payment of distributions does not constitute an event of default of the institution;
+(vii)
+the cancellation of distributions imposes no restrictions on the institution;
+(i)
+compared to all the capital instruments issued by the institution, the instruments absorb the first and proportionately greatest share of losses as they occur, and each instrument absorbs losses to the same degree as all other Common Equity Tier 1 instruments;
+(j)
+the instruments rank below all other claims in the event of insolvency or liquidation of the institution;
+(k)
+the instruments entitle their owners to a claim on the residual assets of the institution, which, in the event of its liquidation and after the payment of all senior claims, is proportionate to the amount of such instruments issued and is not fixed or subject to a cap, except in the case of the capital instruments referred to in Article 27;
+(l)
+the instruments are not secured, or subject to a guarantee that enhances the seniority of the claim by any of the following:
+(i)
+the institution or its subsidiaries;
+(ii)
+the parent undertaking of the institution or its subsidiaries;
+(iii)
+the parent financial holding company or its subsidiaries;
+(iv)
+the mixed activity holding company or its subsidiaries;
+(v)
+the mixed financial holding company and its subsidiaries;
+(vi)
+any undertaking that has close links with the entities referred to in points (i) to (v);
+(m)
+the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of claims under the instruments in insolvency or liquidation.
+The condition set out in point (j) of the first subparagraph shall be deemed to be met, notwithstanding the instruments are included in Additional Tier 1 or Tier 2 by virtue of Article 484(3), provided that they rank pari passu.
+2.   The conditions laid down in point (i) of paragraph 1 shall be deemed to be met notwithstanding a write down on a permanent basis of the principal amount of Additional Tier 1 or Tier 2 instruments.
+The condition laid down in point (f) of paragraph 1 shall be deemed to be met notwithstanding the reduction of the principal amount of the capital instrument within a resolution procedure or as a consequence of a write down of capital instruments required by the resolution authority responsible for the institution.
+The condition laid down in point (g) of paragraph 1 shall be deemed to be met notwithstanding the provisions governing the capital instrument indicating expressly or implicitly that the principal amount of the instrument would or might be reduced within a resolution procedure or as a consequence of a write down of capital instruments required by the resolution authority responsible for the institution.
+3.   The condition laid down in point (h)(iii) of paragraph 1 shall be deemed to be met notwithstanding the instrument paying a dividend multiple, provided that such a dividend multiple does not result in a distribution that causes a disproportionate drag on own funds.
+4.   For the purposes of point (h)(i) of paragraph 1, differentiated distributions shall only reflect differentiated voting rights. In this respect, higher distributions shall only apply to Common Equity Tier 1 instruments with fewer or no voting rights.
+5.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the applicable forms and nature of indirect funding of own funds instruments;
+(b)
+Whether and when multiple distributions would constitute a disproportionate drag on own funds;
+(c)
+the meaning of preferential distributions.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

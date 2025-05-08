@@ -1,0 +1,58 @@
+Article 20
+Data provisions
+1.   Member States shall appoint an Identification Registration Organisation (‘IDRO’). The IDRO shall issue and manage unique identification (‘ID’) codes to identify at least operators of recharging points and mobility service providers, by 14 April 2025.
+2.   By 14 April 2025, operators of publicly accessible recharging points and refuelling points for alternative fuels, or, in accordance with the arrangements between them, the owners of those points, shall ensure the availability of static data and dynamic data concerning alternative fuels infrastructure operated by them, or services inherently linked to such infrastructure that they provide or they outsource, at no cost. The following data types shall be made available:
+(a)
+static data for publicly accessible recharging points and refuelling points for alternative fuels operated by them:
+(i)
+geographic location of the recharging points and refuelling points for alternative fuels,
+(ii)
+number of connectors,
+(iii)
+number of parking spaces for people with disabilities,
+(iv)
+contact information of the owner and operator of the recharging station and refuelling station,
+(v)
+opening hours;
+(b)
+further static data for publicly accessible recharging points operated by them:
+(i)
+ID codes, at least of the recharging point operator,
+(ii)
+type of connector,
+(iii)
+type of current (AC/DC),
+(iv)
+maximum power output (kW) of the recharging station,
+(v)
+maximum power output (kW) of the recharging point,
+(vi)
+vehicle type compatibility;
+(c)
+dynamic data for publicly accessible recharging points and refuelling points for alternative fuels operated by them:
+(i)
+operational status (operational/out of order),
+(ii)
+availability (in use/not in use),
+(iii)
+ad hoc price,
+(iv)
+electricity supplied is 100 % renewable (yes/no).
+The requirements laid down in point (c) shall not apply to publicly accessible recharging points that do not require payment for the recharging service.
+3.   Each operator of publicly accessible recharging and refuelling points for alternative fuels, or, in accordance with the arrangements between them, the owner of those points, shall set up an Application Programme Interface (API) that provides free and unrestricted access to the data referred to in paragraph 2, and shall submit information on that API to the national access points.
+The API of each operator of recharging and refuelling points, or, in accordance with the arrangements between them, the API of the owner of those points, shall comply with common technical requirements established by the Commission in the delegated acts referred to in paragraph 6 to enable an automated and uniform data exchange between the operators of publicly accessible recharging and refuelling points and data users.
+4.   By 31 December 2024, Member States shall ensure that the data referred to in paragraph 2 of this Article are made accessible on an open and non-discriminatory basis to all data users through their national access points in accordance with the relevant provisions related to such data in Delegated Regulation (EU) 2022/670 and in compliance with the additional complementary specifications that may be adopted in accordance with paragraph 7 of this Article. Where Member States aggregate data under their national access points, they may provide those data to a common European access point by means of an API.
+5.   By 31 December 2026, the Commission shall establish a common European access point to function as a data gateway facilitating the access to the data referred to in paragraph 2 from the different national access points. The Commission shall ensure that the common European access point is easily accessible and can be used by all data users, for example through the creation of a dedicated web portal.
+6.   The Commission shall be empowered to adopt delegated acts in accordance with Article 22 to:
+(a)
+amend paragraph 2 of this Article to include additional data types concerning publicly accessible recharging points and refuelling points for alternative fuels or services inherently linked to such infrastructure that the operators of that infrastructure provide or outsource in view of technological developments or new services made available on the market; and
+(b)
+supplement this Regulation by laying down common technical requirements for a common application programme interface to enable an automated and uniform data exchange between the operators of publicly accessible recharging points and refuelling points for alternative fuels and data users.
+7.   The Commission may adopt implementing acts laying down:
+(a)
+specifications that are complementary to those set out in Delegated Regulation (EU) 2022/670, related to the data format, frequency and quality in which the data referred to in paragraph 2 of this Article and in the delegated acts adopted on the basis of paragraph 6 of this Article shall be made available;
+(b)
+detailed procedures enabling the availability and accessibility of data required pursuant to this Article.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+Those implementing acts shall be without prejudice to Directive 2010/40/EU of the European Parliament and of the Council (32) and the delegated and implementing acts adopted on the basis thereof.
+8.   The delegated and implementing acts referred to in paragraphs 6 and 7 shall provide for reasonable transitional periods before the provisions contained therein, or amendments thereof, become binding on the operators or owners of recharging points and refuelling points for alternative fuels.

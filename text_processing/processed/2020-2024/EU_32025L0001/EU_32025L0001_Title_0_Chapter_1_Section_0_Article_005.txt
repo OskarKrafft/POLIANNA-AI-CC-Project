@@ -1,0 +1,50 @@
+Article 5
+Pre-emptive recovery plans
+1.   Member States shall ensure that insurance and reinsurance undertakings that are not part of a group subject to pre-emptive recovery planning pursuant to Article 7, and that meet the criteria laid down in paragraph 2 or 3 of this Article, draw up and keep updated a pre-emptive recovery plan. That pre-emptive recovery plan shall contain measures to be taken by the undertaking concerned to restore its financial position where that position has significantly deteriorated.
+The drawing up, keeping up-to-date and application of pre-emptive recovery plans shall be considered to be part of the system of governance within the meaning of Article 41 of Directive 2009/138/EC.
+2.   Member States shall ensure that the supervisory authority subjects insurance and reinsurance undertakings to pre-emptive recovery planning requirements on the basis of their size, business model, risk profile, interconnectedness and substitutability, their importance for the economy of the Member States in which they operate, and their cross-border activities, in particular significant cross-border activities.
+Supervisory authorities shall ensure that at least 60 % of the Member State’s life insurance and reinsurance market and at least 60 % of its non-life insurance and reinsurance market – the life market share being based on gross technical provisions and the non-life market share being based on gross written premiums – are subject to pre-emptive recovery planning requirements pursuant to this Article.
+In the calculation of the market coverage level referred to in the second subparagraph, the subsidiary insurance or reinsurance undertakings of a group may be taken into account where those subsidiary insurance or reinsurance undertakings are part of a group for which the ultimate parent undertaking is drawing up and maintaining a group pre-emptive recovery plan.
+3.   Any insurance or reinsurance undertaking which is subject to a resolution plan shall be subject to pre-emptive recovery planning requirements.
+Small and non-complex undertakings shall not be subject to pre-emptive recovery planning requirements, except where a supervisory authority considers that such an undertaking represents a particular risk at national or regional level.
+4.   Supervisory authorities shall ensure that insurance and reinsurance undertakings update their pre-emptive recovery plans at least every two years, and in any case:
+(a)
+after a change to the legal or organisational structure of the undertaking, to its business or to its financial position which could have a material effect on, or necessitates a material change to, the pre-emptive recovery plan;
+(b)
+when a material change to the financial position of the undertaking that could have a material effect on the effectiveness of the plan, or otherwise necessitate a revision of the pre-emptive recovery plan, becomes foreseeable.
+5.   Pre-emptive recovery plans shall not assume any access to or receipt of extraordinary public financial support.
+6.   Member States shall require that pre-emptive recovery plans contain all of the following:
+(a)
+a summary of the key elements of the plan, including material changes to the most recently submitted plan;
+(b)
+a description of the undertaking or the group, including a summary of any material changes since the most recently submitted plan;
+(c)
+a framework of indicators as referred to in paragraph 8;
+(d)
+a description of how the pre-emptive recovery plan has been drawn-up, how it will be updated and how it will be applied;
+(e)
+a range of remedial actions;
+(f)
+a communication strategy.
+(g)
+where the undertaking has breached the Solvency Capital Requirement laid down in Title I, Chapter VI, Section 4, of Directive 2009/138/EC and submitted a recovery plan in accordance with Article 138(2) of Directive 2009/138/EC at some point in the last 10 years, that recovery plan as well as an assessment of the measures taken to restore the undertaking’s compliance with the Solvency Capital Requirement.
+7.   Member States shall require that insurance and reinsurance undertakings assess the credibility and feasibility of their pre-emptive recovery plans, in particular the framework of indicators referred to in paragraph 8 and the remedial actions, against a range of scenarios of severe macroeconomic and financial stress relevant to the insurance or reinsurance undertaking’s specific conditions, including system-wide events, idiosyncratic stress events likely to materially affect their asset and liability profile, and combinations of such stress events.
+8.   Member States shall require that insurance and reinsurance undertakings ensure that their pre-emptive recovery plans contain a framework of qualitative and quantitative indicators that identify the points at which remedial actions should be considered or taken. Those indicators may include criteria relating to, inter alia, capital, liquidity, asset quality, profitability, market conditions, macro-economic conditions and operational events. Indicators relating to the capital position shall as a minimum contain any breach of the Solvency Capital Requirement laid down in Title I, Chapter VI, Section 4, of Directive 2009/138/EC.
+Member States shall require that any breach of the Solvency Capital Requirement result in appropriate remedial action by the undertaking concerned in line with the pre-emptive recovery plan.
+Member States shall require that supervisory authorities ensure that insurance and reinsurance undertakings put in place appropriate arrangements for the regular monitoring of the indicators referred to in the first subparagraph.
+9.   An insurance or reinsurance undertaking that decides to take a remedial action contained in its pre-emptive recovery plan, or that decides to refrain from taking such remedial action even though an indicator as referred to in paragraph 8, first subparagraph, has been met, shall notify such decision to the supervisory authority without delay.
+10.   The administrative, management or supervisory body of an insurance or reinsurance undertaking as referred to in paragraph 1 shall assess and approve the pre-emptive recovery plan before submitting it to the supervisory authority for review.
+11.   EIOPA shall, by 29 January 2027, issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to specify further:
+(a)
+in cooperation with the European Systemic Risk Board, the range of scenarios referred to in paragraph 7 of this Article;
+(b)
+the qualitative and quantitative indicators referred to in paragraph 8 of this Article.
+12.   EIOPA shall develop draft regulatory technical standards to specify further:
+(a)
+the criteria, in particular as regards cross-border activity, referred to in paragraph 2, first subparagraph;
+(b)
+the methods to be used when determining the market shares referred to in paragraph 2, second and third subparagraphs;
+(c)
+the information that an insurance or reinsurance undertaking is to include in the pre-emptive recovery plan, including the remedial actions referred to in paragraph 6, point (e), and their implementation.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 29 July 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.

@@ -1,0 +1,16 @@
+Article 30
+Governance of security
+1.   The Commission shall, within its field of competence and with the support of the Agency, ensure a high degree of security, in particular, with regard to:
+(a)
+the protection of infrastructure, both ground and space, and of the provision of services, particularly against physical or cyberattacks, including interference with data streams;
+(b)
+the control and management of technology transfers;
+(c)
+the development and preservation within the Union of the competences and know-how acquired;
+(d)
+the protection of sensitive non-classified information and classified information.
+2.   The Commission shall consult the Council and the Member States regarding the specification and design of any aspect of the EuroQCI infrastructure, in particular the QKD that relates to the protection of EUCI.
+The evaluation and approval of cryptographic products for the protection of EUCI shall be carried out while respecting the respective roles and fields of competence of the Council and the Member States.
+The security accreditation authority shall verify within the security accreditation process that only approved cryptographic products are used.
+3.   For the purposes of paragraph 1 of this Article, the Commission shall ensure that a risk and threat analysis is performed for the governmental infrastructure referred to in Article 5(2). On the basis of that analysis, it shall determine, by means of implementing acts, the general security requirements. In doing so, the Commission shall take account of the impact of those requirements on the smooth functioning of the governmental infrastructure, in particular in terms of cost, risk management and schedule, and shall ensure that the general level of security is not reduced, the functioning of the equipment is not undermined and the cybersecurity risks are taken into account. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(3).
+4.   Article 34(3) to (7) of Regulation (EU) 2021/696 shall apply to the Programme. For the purposes of this Regulation, the term ‘component’ in Article 34 of Regulation (EU) 2021/696 shall be read as ‘governmental infrastructure’, including governmental services, and all the references to Article 34(2) of Regulation (EU) 2021/696 shall be construed as references to paragraph 3 of this Article.

@@ -1,0 +1,11 @@
+Article 5
+Non-discrimination for reasons related to payment
+1.   A trader shall not, within the range of means of payment accepted by the trader, apply, for reasons related to a customer's nationality, place of residence or place of establishment, the location of the payment account, the place of establishment of the payment service provider or the place of issue of the payment instrument within the Union, different conditions for a payment transaction, where:
+(a)
+the payment transaction is made through an electronic transaction by credit transfer, direct debit or a card-based payment instrument within the same payment brand and category;
+(b)
+authentication requirements are fulfilled pursuant to Directive (EU) 2015/2366; and
+(c)
+the payment transactions are in a currency that the trader accepts.
+2.   Where justified by objective reasons, the prohibition set out in paragraph 1 shall not prevent the trader from withholding the delivery of the goods or the provision of the service, until the trader has received confirmation that the payment transaction has been properly initiated.
+3.   The prohibition set out in paragraph 1 shall not prevent the trader from requesting charges for the use of a card-based payment instrument for which interchange fees are not regulated under Chapter II of Regulation (EU) 2015/751 and for those payment services to which Regulation (EU) No 260/2012 does not apply, unless the prohibition or limitation of the right to request charges for the use of payment instruments, in accordance with Article 62(5) of Directive (EU) 2015/2366, has been introduced in the law of the Member State to which the trader's operation is subject. Those charges shall not exceed the direct costs borne by the trader for the use of the payment instrument.

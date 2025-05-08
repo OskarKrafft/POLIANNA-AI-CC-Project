@@ -1,0 +1,16 @@
+Article 52
+Investment policy
+1.   Member States shall ensure that investment firms which do not meet the criteria referred to in point (a) of Article 32(4) of Directive (EU) 2019/2034 disclose the following in accordance with Article 46 of this Regulation:
+(a)
+the proportion of voting rights attached to the shares held directly or indirectly by the investment firm, broken down by Member State and sector;
+(b)
+a complete description of voting behaviour in the general meetings of companies the shares of which are held in accordance with paragraph 2, an explanation of the votes, and the ratio of proposals put forward by the administrative or management body of the company which the investment firm has approved; and
+(c)
+an explanation of the use of proxy advisor firms;
+(d)
+the voting guidelines regarding the companies the shares of which are held in accordance with paragraph 2.
+The disclosure requirement referred to in point (b) of the first subparagraph shall not apply if the contractual arrangements of all shareholders represented by the investment firm at the shareholders’ meeting do not authorise the investment firm to vote on their behalf unless express voting orders are given by the shareholders after receiving the meeting’s agenda.
+2.   The investment firm referred to in paragraph 1 shall comply with that paragraph only in respect of each company whose shares are admitted to trading on a regulated market and only in respect of those shares to which voting rights are attached, where the proportion of voting rights that the investment firm directly or indirectly holds exceeds the threshold of 5 % of all voting rights attached to the shares issued by the company. Voting rights shall be calculated on the basis of all shares to which voting rights are attached, even if the exercise of those voting rights is suspended.
+3.   EBA, in consultation with ESMA, shall develop draft regulatory technical standards to specify templates for disclosure under paragraph 1.
+EBA shall submit those draft regulatory technical standards to the Commission by 26 June 2021.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Article 10 to 14 of Regulation (EU) No 1093/2010.

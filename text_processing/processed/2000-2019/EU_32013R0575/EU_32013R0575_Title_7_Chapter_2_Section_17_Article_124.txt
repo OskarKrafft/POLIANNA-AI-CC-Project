@@ -1,0 +1,23 @@
+Article 124
+Exposures secured by mortgages on immovable property
+1.   An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions under Article 125 and Article 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+The part of an exposure treated as fully secured by immovable property shall not be higher than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the property in question.
+2.   Based on the data collected under Article 101, and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the risk-weight of 35 % for exposures secured by mortgages on residential property referred to in Article 125 and the risk weight of 50 % for exposures secured on commercial immovable property referred to in Article 126 located in their territory are appropriately based on:
+(a)
+the loss experience of exposures secured by immovable property;
+(b)
+forward-looking immovable property markets developments;
+Competent authorities may set a higher risk weight or stricter criteria than those set out in Article 125(2) and Article 126(2), where appropriate, on the basis of financial stability considerations.
+For exposures secured by mortgages on residential property, the competent authority shall set the risk weight at a percentage from 35 % through 150 %,
+For exposures secured on commercial immovable property, the competent authority shall set the risk weight at a percentage from 50 % through 150 %,
+Within these ranges, the higher risk weight shall be set based on loss experience and taking into account forward-looking markets developments and financial stability considerations. Where the assessment demonstrates that the risk weights set out in Article 125(2) and Article 126(2) do not reflect the actual risks related to one or more property segments of such exposures, fully secured by mortgages on residential property or on commercial immovable property located in one or more parts of its territory, the competent authorities shall set, for those property segments of exposures, a higher risk weight corresponding to the actual risks.
+The competent authorities shall consult EBA on the adjustments to the risk weights and criteria applied, which will be calculated in accordance with the criteria set out in this paragraph as specified by the regulatory technical standards referred to in paragraph 4 of this Article. EBA shall publish the risk weights and criteria that the competent authorities set for exposures referred to in Articles 125, 126 and 199.
+3.   When competent authorities set a higher risk weight or stricter criteria, institutions shall have a 6-month transitional period to apply the new risk weight.
+4.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the rigorous criteria for the assessment of the mortgage lending value referred to in paragraph 1;
+(b)
+the conditions referred to in paragraph 2 that competent authorities shall take into account when determining higher risk-weights, in particular the term of "financial stability considerations".
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+5.   The institutions of one Member State shall apply the risk-weights and criteria that have been determined by the competent authorities of another Member State to exposures secured by mortgages on commercial and residential immovable property located in that Member State.

@@ -1,0 +1,20 @@
+Article 11
+Establishment of interoperability regulatory sandboxes
+1.   Interoperability regulatory sandboxes shall be operated under the responsibility of the participating Union entities or public sector bodies. Interoperability regulatory sandboxes that entail the processing of personal data by public sector bodies, shall be operated under the supervision of the national data protection authorities as well as other relevant national, regional or local supervisory authorities. Interoperability regulatory sandboxes that entail the processing of personal data by Union entities shall be operated under the supervision of the European Data Protection Supervisor.
+2.   The establishment of an interoperability regulatory sandbox as referred to paragraph 1 shall aim to contribute to the following objectives:
+(a)
+fostering innovation and facilitating the development and roll-out of innovative digital interoperability solutions for public services;
+(b)
+facilitating cross-border cooperation between national regional and local competent authorities and synergies in public service delivery;
+(c)
+facilitating the development of an open European GovTech ecosystem, including cooperation with SMEs, research and educational institutions and start-ups;
+(d)
+enhancing authorities’ understanding of the opportunities or barriers to cross-border interoperability of innovative interoperability solutions, including legal barriers;
+(e)
+contributing to the development or update of Interoperable Europe solutions;
+(f)
+contributing to evidence-based regulatory learning;
+(g)
+improving legal certainty and contributing to the sharing of best practices through cooperation with the authorities involved in the interoperability regulatory sandbox with a view to ensuring compliance with this Regulation and, where appropriate, with other Union and national law.
+3.   In order to ensure a harmonised approach and to support the implementation of interoperability regulatory sandboxes, the Commission may issue guidelines and clarifications, without prejudice to other Union law.
+4.   The Commission, after consulting the Board shall, upon a joint request from at least three participants, authorise the establishment of an interoperability regulatory sandbox. Where appropriate the request shall specify information such as the purpose of the processing of personal data, the actors involved and their roles, the categories of personal data concerned and their sources, and the envisaged retention period. The consultation shall not replace the prior consultation referred to in Article 36 of Regulation (EU) 2016/679 and Article 40 of Regulation (EU) 2018/1725. Where the interoperability regulatory sandbox is established for interoperability solutions supporting the cross-border interoperability of trans-European digital public services by one or more Union entities, including with the participation of public sector bodies, no authorisation shall be required.

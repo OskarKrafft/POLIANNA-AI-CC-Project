@@ -1,0 +1,4 @@
+Article 5
+General principles
+1.   The Commission shall publish Interoperable Europe solutions and the EIF on the Interoperable Europe portal, by electronic means, in formats that are open, machine-readable, accessible for persons with disabilities in accordance with Directives (EU) 2016/2102 (19) and (EU) 2019/882 (20) of the European Parliament and of the Council, findable and re-usable, if applicable, together with their documented source code and metadata. Machine-translated versions of the Interoperable Europe solutions shall be published on the Interoperable Europe portal in all the official languages of the Union institutions.
+2.   The Board shall monitor the overall coherence of the recommended interoperability solutions, and propose measures to ensure, where appropriate, their compatibility with other interoperability solutions that share a common purpose, while supporting, where relevant, their complementarity with or transition to new technologies.

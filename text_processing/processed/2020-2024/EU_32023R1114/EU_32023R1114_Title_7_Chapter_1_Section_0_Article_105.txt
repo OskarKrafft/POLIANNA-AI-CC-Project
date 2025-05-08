@@ -1,0 +1,31 @@
+Article 105
+Product intervention by competent authorities
+1.   A competent authority may prohibit or restrict the following in or from its Member State:
+(a)
+the marketing, distribution or sale of certain crypto-assets or crypto-assets with certain specified features; or
+(b)
+a type of activity or practice related to crypto-assets.
+2.   A competent authority shall only take a measure pursuant to paragraph 1 if it is satisfied on reasonable grounds that:
+(a)
+a crypto-asset gives rise to significant investor protection concerns or poses a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system within at least one Member State;
+(b)
+existing regulatory requirements under Union law applicable to the crypto-asset or crypto-asset service concerned do not sufficiently address the risks referred to in point (a) and the issue would not be better addressed by improved supervision or enforcement of existing requirements;
+(c)
+the measure is proportionate, taking into account the nature of the risks identified, the level of sophistication of investors or market participants concerned and the likely effect of the measure on investors and market participants who may hold, use or benefit from the crypto-asset or crypto-asset service concerned;
+(d)
+the competent authority has properly consulted the competent authorities in other Member States that might be significantly affected by the measure; and
+(e)
+the measure does not have a discriminatory effect on services or activities provided from another Member State.
+Where the conditions set out in the first subparagraph of this paragraph are fulfilled, the competent authority may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a crypto-asset has been marketed, distributed or sold to clients.
+The competent authority may decide to apply the prohibition or restriction referred to in paragraph 1 only in certain circumstances or to make it subject to exceptions.
+3.   The competent authority shall not impose a prohibition or restriction under this Article unless, not less than one month before the measure is intended to take effect, it has notified all other competent authorities and ESMA, or EBA for asset-referenced tokens and e-money tokens, in writing or through another medium agreed between the authorities, the following details:
+(a)
+the crypto-asset or activity or practice to which the proposed measure relates;
+(b)
+the precise nature of the proposed prohibition or restriction and when it is intended to take effect; and
+(c)
+the evidence upon which it has based its decision and upon which it is satisfied that each of the conditions in paragraph 2, first subparagraph, are met.
+4.   In exceptional cases where the competent authority considers it necessary in order to prevent any detrimental effects arising from the crypto-asset or activity or practice referred to in paragraph 1, the competent authority may take an urgent measure on a provisional basis with no less than 24 hours’ written notice before the measure is intended to take effect to all other competent authorities and ESMA, provided that all of the criteria listed in this Article are met and, in addition, that it is clearly established that a one-month notification period would not adequately address the specific concern or threat. The duration of measures taken on a provisional basis shall not exceed three months.
+5.   The competent authority shall publish on its website a notice of a decision to impose a prohibition or restriction as referred to in paragraph 1. That notice shall specify the details of the prohibition or restriction imposed and specify a time after the publication of the notice from which the measures will take effect and the evidence upon which the competent authority has based its decision, and is satisfied that each of the conditions in paragraph 2, first subparagraph, is met. The prohibition or restriction shall only apply to activities after the measures have taken effect.
+6.   The competent authority shall revoke a prohibition or restriction if the conditions in paragraph 2 no longer apply.
+7.   The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by specifying the criteria and factors to be taken into account by the competent authorities in determining whether there is a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system within at least one Member State as for the purposes of paragraph 2, first subparagraph, point (a).

@@ -1,0 +1,4 @@
+Article 57
+Cooperation between distribution system operators and transmission system operators
+1.   Distribution system operators and transmission system operators shall cooperate with each other in planning and operating their networks. In particular, distribution system operators and transmission system operators shall exchange all necessary information and data regarding, the performance of generation assets and demand side response, the daily operation of their networks and the long-term planning of network investments, with the view to ensure the cost-efficient, secure and reliable development and operation of their networks.
+2.   Distribution system operators and transmission system operators shall cooperate with each other in order to achieve coordinated access to resources such as distributed generation, energy storage or demand response that may support particular needs of both the distribution system operators and the transmission system operators.

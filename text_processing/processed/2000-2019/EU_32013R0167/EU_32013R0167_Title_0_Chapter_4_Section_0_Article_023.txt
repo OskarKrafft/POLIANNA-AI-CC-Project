@@ -1,0 +1,13 @@
+Article 23
+Specific requirements for information to be provided in the application for type-approval under different procedures
+1.   An application for step-by-step type-approval shall be accompanied by an information folder in accordance with Article 22 and by the complete set of type-approval certificates required pursuant to each of the applicable acts listed in Annex I.
+In the case of the type-approval of a system, component or separate technical unit, pursuant to the applicable acts listed in Annex I, the approval authority shall have access to the related information folder until such time as the approval is either issued or refused.
+2.   An application for single-step type-approval shall be accompanied by an information folder provided for in Article 22 containing the relevant information in accordance with the implementing acts adopted pursuant to this Regulation in relation to those applicable acts.
+3.   In the case of a mixed type-approval procedure, the information folder shall be accompanied by one or more type-approval certificates required pursuant to each of the applicable acts listed in Annex I and shall include, insofar as no type-approval certificate is presented, the relevant information in accordance with the implementing acts adopted pursuant to this Regulation, in relation to those applicable acts.
+4.   Without prejudice to paragraphs 1, 2 and 3, the following information shall be supplied for the purposes of multi-stage type-approval:
+(a)
+in the first stage, those parts of the information folder and the EU type-approval certificates which are relevant to the state of completion of the base vehicle;
+(b)
+in the second and subsequent stages, those parts of the information folder and the EU type-approval certificates which are relevant to the current stage of construction, together with a copy of the EU type-approval certificate for the vehicle issued at the preceding stage of construction and full details of any changes or additions that the manufacturer has made to the vehicle.
+The information specified in points (a) and (b) of the first subparagraph of this paragraph may be supplied in accordance with paragraph 3.
+5.   The approval authority may, by reasoned request, require the manufacturer to supply any additional information needed to enable a decision to be taken on which tests are required or to facilitate the execution of those tests.

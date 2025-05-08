@@ -1,0 +1,46 @@
+Article 49
+Requirement for deduction where consolidation, supplementary supervision or institutional protection schemes are applied
+1.   For the purposes of calculating own funds on an individual basis, a sub-consolidated basis and a consolidated basis, where the competent authorities require or permit institutions to apply method 1, 2 or 3 of Annex I to Directive 2002/87/EC, the competent authorities may permit institutions not to deduct the holdings of own funds instruments of a financial sector entity in which the parent institution, parent financial holding company or parent mixed financial holding company or institution has a significant investment, provided that the conditions laid down in points (a) to (e) of this paragraph are met:
+(a)
+the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
+(b)
+that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
+(c)
+the institution has received the prior permission of the competent authorities;
+(d)
+prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be included in the scope of consolidation under method 1, 2 or 3 is adequate;
+(e)
+the holdings in the entity belong to one of the following:
+(i)
+the parent credit institution;
+(ii)
+the parent financial holding company;
+(iii)
+the parent mixed financial holding company;
+(iv)
+the institution;
+(v)
+a subsidiary of one of the entities referred to in points (i) to (iv) that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One.
+The method chosen shall be applied in a consistent manner over time.
+2.   For the purposes of calculating own funds on an individual basis and a sub-consolidated basis, institutions subject to supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One shall not deduct holdings of own funds instruments issued by financial sector entities included in the scope of consolidated supervision, unless the competent authorities determine those deductions to be required for specific purposes, in particular structural separation of banking activities and resolution planning.
+Applying the approach referred to in the first subparagraph shall not entail disproportionate adverse effects on the whole or parts of the financial system in other Member States or in the Union as a whole forming or creating an obstacle to the functioning of the internal market.
+3.   Competent authorities may, for the purposes of calculating own funds on an individual or sub-consolidated basis permit institutions not to deduct holdings of own funds instruments in the following cases:
+(a)
+where an institution has a holding in another institution and the conditions referred to in points (i) to (v) are met:
+(i)
+the institutions fall within the same institutional protection scheme referred to in Article 113(7);
+(ii)
+the competent authorities have granted the permission referred to in Article 113(7);
+(iii)
+the conditions laid down in Article 113(7) are satisfied;
+(iv)
+the institutional protection scheme draws up a consolidated balance sheet referred to in point (e) of Article 113(7) or, where it is not required to draw up consolidated accounts, an extended aggregated calculation that is, to the satisfaction of the competent authorities, equivalent to the provisions of Directive 86/635/EEC, which incorporates certain adaptations of the provisions of Directive 83/349/EEC or of Regulation (EC) No 1606/2002, governing the consolidated accounts of groups of credit institutions. The equivalence of that extended aggregated calculation shall be verified by an external auditor and in particular that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme is eliminated in the calculation. The consolidated balance sheet or the extended aggregated calculation shall be reported to the competent authorities no less frequently than the frequency laid down in Article 99;
+(v)
+the institutions included in an institutional protection scheme meet together on a consolidated or extended aggregated basis the requirements laid down in Article 92 and carry out reporting of compliance with those requirements in accordance with Article 99. Within an institutional protection scheme the deduction of the interest owned by co-operative members or legal entities, which are not members of the institutional protection scheme, is not required, provided that the multiple use of elements eligible for the calculation of own funds as well as any inappropriate creation of own funds between the members of the institutional protection scheme and the minority shareholder, when it is an institution, is eliminated.
+(b)
+where a regional credit institution has a holding in its central or another regional credit institution and the conditions laid down in points (a)(i) to (v) are met.
+4.   The holdings in respect of which deduction is not made in accordance with paragraph 1, 2 or 3 shall qualify as exposures and shall be risk weighted in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable.
+5.   Where an institution applies methods 1 or 2 of Annex I to Directive 2002/87/EC, the institution shall disclose the supplementary own funds requirement and capital adequacy ratio of the financial conglomerate as calculated in accordance with Article 6 of and Annex I to that Directive.
+6.   EBA, EIOPA and the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 (27) shall, through the Joint Committee, develop draft regulatory technical standards to specify for the purposes of this Article the conditions of application of the calculation methods listed in Annex I, Part II of Directive 2002/87/EC for the purposes of the alternatives to deduction referred to in paragraph 1 of this Article.
+EBA, EIOPA and ESMA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.

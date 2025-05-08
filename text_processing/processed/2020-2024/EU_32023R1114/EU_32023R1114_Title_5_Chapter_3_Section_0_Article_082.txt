@@ -1,0 +1,14 @@
+Article 82
+Providing transfer services for crypto-assets on behalf of clients
+1.   Crypto-asset service providers providing transfer services for crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such agreement shall include at least the following:
+(a)
+the identity of the parties to the agreement;
+(b)
+a description of the modalities of the transfer service provided;
+(c)
+a description of the security systems used by the crypto-asset service provider;
+(d)
+fees applied by the crypto-asset service provider;
+(e)
+the applicable law.
+2.   ESMA, in close cooperation with EBA, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 for crypto-asset service providers providing transfer services for crypto-assets on behalf of clients as regards procedures and policies, including the rights of clients, in the context of transfer services for crypto-assets.

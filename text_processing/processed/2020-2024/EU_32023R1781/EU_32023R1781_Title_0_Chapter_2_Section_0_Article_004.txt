@@ -1,0 +1,15 @@
+Article 4
+Objectives of the Initiative
+1.   The general objective of the Initiative is to achieve large-scale technological capacity building and support related research and innovation activities throughout the Union’s semiconductor value chain to enable development and deployment of cutting-edge semiconductor technologies, next-generation semiconductor technologies and cutting-edge quantum technologies and the innovation of established technologies that will reinforce advanced design, systems integration and chip production capabilities in the Union, thereby increasing the competitiveness of the Union. It shall also contribute to the achievement of the green and digital transitions, in particular by reducing the climate impact of electronic systems, improving the sustainability of next-generation chips and strengthening the circular economy processes, contribute to quality jobs within the semiconductor ecosystem and address security-by-design principles, which provide protection against cybersecurity threats.
+2.   The Initiative shall have the following five operational objectives:
+(a)
+operational objective 1: building up advanced design capacities for integrated semiconductor technologies;
+(b)
+operational objective 2: enhancing existing and developing new advanced pilot lines across the Union to enable development and deployment of cutting-edge semiconductor technologies and next-generation semiconductor technologies;
+(c)
+operational objective 3: building advanced technology and engineering capacities for accelerating the innovative development of cutting-edge quantum chips and associated semiconductor technologies;
+(d)
+operational objective 4: establishing a network of competence centres across the Union by enhancing existing or creating new facilities;
+(e)
+operational objective 5: undertaking activities, to be described collectively as ‘Chips Fund’ activities, to facilitate access to debt financing and equity, including by providing clear guidance, in particular for start-ups, scale-ups, SMEs and small mid-caps in the semiconductor value chain, through a blending facility under the InvestEU Fund and via the European Innovation Council.
+3.   The Initiative’s operational objectives may include capacity building activities and related research and innovation activities. All capacity building activities shall be financed through the Digital Europe Programme and the related research and innovation activities shall be funded through Horizon Europe.

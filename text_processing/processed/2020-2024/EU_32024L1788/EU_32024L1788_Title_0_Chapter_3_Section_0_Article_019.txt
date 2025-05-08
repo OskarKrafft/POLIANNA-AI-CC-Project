@@ -1,0 +1,16 @@
+Article 19
+Functionalities of smart metering systems in the natural gas system
+Where the deployment of smart metering systems is positively assessed as a result of the cost-benefit assessment referred to in Article 17(2), or where smart metering systems are systematically deployed after 4 August 2024, Member States shall deploy those systems in accordance with European standards, Annex II and the following requirements:
+(a)
+the smart metering systems accurately measure actual natural gas consumption and are capable of providing to final customers information on actual time of use, including validated historical consumption data made easily and securely available and visualised to final customers on request and at no additional cost, and non-validated most recent available consumption data made easily and securely available to final customers at no additional cost, through a standardised interface or through remote access, in order to support automated energy efficiency programmes, and other services;
+(b)
+the security of the smart metering systems and data communication complies with relevant Union security rules, having due regard to the best available techniques for ensuring the highest level of cybersecurity protection while bearing in mind the costs and the principle of proportionality;
+(c)
+the privacy of final customers and the protection of their data complies with relevant Union data protection and privacy rules;
+(d)
+where requested by final customers their natural gas consumption data is made available to them, in accordance with the implementing acts adopted pursuant to Article 23, through a standardised communication interface or through remote access, or to a third party acting on their behalf, in an easily understandable format allowing them to compare offers on a like-for-like basis;
+(e)
+appropriate advice and information is given to final customers prior to or at the time of installation of smart meters, in particular concerning their full potential with regard to the management of meter reading and the monitoring of energy consumption, and concerning the collection and processing of personal data in accordance with the applicable Union data protection rules;
+(f)
+smart metering systems enable final customers to be metered and settled at the same time resolution as the shortest settlement period in the national market.
+For the purposes of point (d), it shall be possible for final customers to retrieve their metering data or transmit them to another party at no additional cost and in accordance with their right to data portability under Union data protection rules.

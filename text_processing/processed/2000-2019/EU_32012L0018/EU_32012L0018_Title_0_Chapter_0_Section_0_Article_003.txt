@@ -1,0 +1,45 @@
+Article 3
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1.
+‘establishment’ means the whole location under the control of an operator where dangerous substances are present in one or more installations, including common or related infrastructures or activities; establishments are either lower-tier establishments or upper-tier establishments;
+2.
+‘lower-tier establishment’ means an establishment where dangerous substances are present in quantities equal to or in excess of the quantities listed in Column 2 of Part 1 or in Column 2 of Part 2 of Annex I, but less than the quantities listed in Column 3 of Part 1 or in Column 3 of Part 2 of Annex I, where applicable using the summation rule laid down in note 4 to Annex I;
+3.
+‘upper-tier establishment’ means an establishment where dangerous substances are present in quantities equal to or in excess of the quantities listed in Column 3 of Part 1 or in Column 3 of Part 2 of Annex I, where applicable using the summation rule laid down in note 4 to Annex I;
+4.
+‘neighbouring establishment’ means an establishment that is located in such proximity to another establishment so as to increase the risk or consequences of a major accident;
+5.
+‘new establishment’ means
+(a)
+an establishment that enters into operation or is constructed, on or after 1 June 2015; or
+(b)
+a site of operation that falls within the scope of this Directive, or a lower-tier establishment that becomes an upper-tier establishment or vice versa, on or after 1 June 2015 due to modifications to its installations or activities resulting in a change in its inventory of dangerous substances;
+6.
+‘existing establishment’ means an establishment that on 31 May 2015 falls within the scope of Directive 96/82/EC and from 1 June 2015 falls within the scope of this Directive without changing its classification as a lower-tier establishment or upper-tier establishment;
+7.
+‘other establishment’ means a site of operation that falls within the scope of this Directive, or a lower-tier establishment that becomes an upper-tier establishment or vice versa, on or after 1 June 2015 for reasons other than those referred to in point 5;
+8.
+‘installation’ means a technical unit within an establishment and whether at or below ground level, in which dangerous substances are produced, used, handled or stored; it includes all the equipment, structures, pipework, machinery, tools, private railway sidings, docks, unloading quays serving the installation, jetties, warehouses or similar structures, floating or otherwise, necessary for the operation of that installation;
+9.
+‘operator’ means any natural or legal person who operates or controls an establishment or installation or, where provided for by national legislation, to whom the decisive economic or decision-making power over the technical functioning of the establishment or installation has been delegated;
+10.
+‘dangerous substance’ means a substance or mixture covered by Part 1 or listed in Part 2 of Annex I, including in the form of a raw material, product, by-product, residue or intermediate;
+11.
+‘mixture’ means a mixture or solution composed of two or more substances;
+12.
+‘presence of dangerous substances’ means the actual or anticipated presence of dangerous substances in the establishment, or of dangerous substances which it is reasonable to foresee may be generated during loss of control of the processes, including storage activities, in any installation within the establishment, in quantities equal to or exceeding the qualifying quantities set out in Part 1 or Part 2 of Annex I;
+13.
+‘major accident’ means an occurrence such as a major emission, fire, or explosion resulting from uncontrolled developments in the course of the operation of any establishment covered by this Directive, and leading to serious danger to human health or the environment, immediate or delayed, inside or outside the establishment, and involving one or more dangerous substances;
+14.
+‘hazard’ means the intrinsic property of a dangerous substance or physical situation, with a potential for creating damage to human health or the environment;
+15.
+‘risk’ means the likelihood of a specific effect occurring within a specified period or in specified circumstances;
+16.
+‘storage’ means the presence of a quantity of dangerous substances for the purposes of warehousing, depositing in safe custody or keeping in stock;
+17.
+‘the public’ means one or more natural or legal persons and, in accordance with national law or practice, their associations, organisations or groups;
+18.
+‘the public concerned’ means the public affected or likely to be affected by, or having an interest in, the taking of a decision on any of the matters covered by Article 15(1); for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any applicable requirements under national law shall be deemed to have an interest;
+19.
+‘inspection’ means all actions, including site visits, checks of internal measures, systems and reports and follow-up documents, and any necessary follow-up, undertaken by or on behalf of the competent authority to check and promote compliance of establishments with the requirements of this Directive.

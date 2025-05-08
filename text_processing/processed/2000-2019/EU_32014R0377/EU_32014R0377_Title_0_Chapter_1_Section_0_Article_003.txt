@@ -1,0 +1,29 @@
+Article 3
+Definitions
+For the purposes of this Regulation the following definitions apply:
+(1)
+‘dedicated missions’ means the space-based Earth observation missions for use and operated in Copernicus, in particular the Sentinel missions;
+(2)
+‘contributing missions’ means space-based Earth observation missions providing data to Copernicus complementing data provided by the dedicated missions;
+(3)
+‘dedicated mission data’ means spaceborne Earth observation data from dedicated missions for use in Copernicus;
+(4)
+‘contributing mission data’ means spaceborne Earth observation data from contributing missions licensed or provided for use in Copernicus;
+(5)
+‘in situ data’ means observation data from ground-, sea- or air-borne sensors as well as reference and ancillary data licensed or provided for use in Copernicus;
+(6)
+‘third party data and information’ means data and information created outside the scope of Copernicus and necessary for the implementation of its objectives;
+(7)
+‘Copernicus data’ means dedicated mission data, contributing mission data and in situ data;
+(8)
+‘Copernicus information’ means information from the Copernicus services referred to in Article 5(1) following processing or modelling of Copernicus data;
+(9)
+‘Copernicus users’ means:
+(a)
+Copernicus core users: Union institutions and bodies, European, national, regional or local authorities entrusted with the definition, implementation, enforcement or monitoring of a public service or policy in the areas referred to in point (a) of Article 2(2);
+(b)
+research users: universities or any other research and education organisations;
+(c)
+commercial and private users;
+(d)
+charities, non-governmental organisations and international organisations.

@@ -1,0 +1,11 @@
+Article 2
+Definitions
+For the purposes of this Directive, the definitions contained in Article 2 of Directive 2003/54/EC shall apply. In addition, the following definitions shall apply:
+(a)
+‘regulatory authority’ means the regulatory authorities in Member States, as designated in accordance with Article 23 of Directive 2003/54/EC;
+(b)
+‘security of electricity supply’ means the ability of an electricity system to supply final customers with electricity, as provided for under this Directive;
+(c)
+‘operational network security’ means the continuous operation of the transmission and, where appropriate, the distribution network under foreseeable circumstances;
+(d)
+‘balance between supply and demand’ means the satisfaction of foreseeable demands of consumers to use electricity without the need to enforce measures to reduce consumption.

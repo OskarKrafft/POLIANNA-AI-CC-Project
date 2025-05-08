@@ -1,0 +1,36 @@
+Article 30
+The asset and liability separation tool
+1.   Member States shall ensure that resolution authorities have the power to transfer assets, rights or liabilities of an undertaking under resolution or a bridge undertaking to one or more asset and liability management vehicles.
+2.   For the purposes of the asset and liability separation tool, an asset and liability management vehicle shall be a legal person that:
+(a)
+is wholly or partially owned by one or more public authorities which may include the resolution authority and is controlled by the resolution authority; and
+(b)
+has been created for the purpose of receiving some or all of the assets, rights and liabilities of one or more undertakings under resolution or a bridge undertaking.
+3.   The asset and liability management vehicle shall manage the portfolios transferred to it with a view to maximising their value through the sale of those portfolios or an orderly winding-down.
+4.   Member States shall ensure that the operation of an asset and liability management vehicle complies with the following requirements:
+(a)
+the resolution authority concerned has approved the asset and liability management vehicle’s constitutional documents;
+(b)
+subject to the asset and liability management vehicle’s ownership structure, the resolution authority concerned either appoints or approves the vehicle’s administrative, management or supervisory body;
+(c)
+the resolution authority concerned approves the remuneration of the members of the administrative, management or supervisory body and specifies their responsibilities;
+(d)
+the resolution authority concerned approves the strategy and risk profile of the asset and liability management vehicle.
+5.   Resolution authorities may exercise the power specified in paragraph 1 to transfer assets, rights or liabilities only in conjunction with other resolution tools and where any of the following situations occurs:
+(a)
+the situation of the particular market for those assets, rights or liabilities is such that the liquidation of those assets, rights or liabilities under normal insolvency proceedings could have an adverse effect on one or more financial markets;
+(b)
+such a transfer is necessary to facilitate the use of the solvent run-off tool or to ensure the proper functioning of the undertaking under resolution or a bridge undertaking;
+(c)
+such a transfer is necessary to maximise liquidation proceeds.
+6.   When applying the asset and liability separation tool, resolution authorities shall, in accordance with Article 23 and in accordance with the Union State aid framework, determine the consideration for which assets, rights and liabilities are transferred to the asset and liability management vehicle. The consideration may have nominal or negative value.
+7.   Where resolution authorities have applied the bridge undertaking tool, asset and liability management vehicles may, subsequent to the application of the bridge undertaking tool, acquire assets, rights or liabilities from the bridge undertaking.
+8.   Resolution authorities may transfer assets, rights or liabilities from the undertaking under resolution to one or more asset and liability management vehicles on more than one occasion and transfer assets, rights or liabilities back from one or more asset and liability management vehicles to the undertaking under resolution in any of the following situations:
+(a)
+the possibility that the assets, rights or liabilities might be transferred back is stated expressly in the instrument under which the transfer was made;
+(b)
+the assets, rights or liabilities do not fall within the classes of, or meet the conditions for transfer of, assets, rights or liabilities specified in the instrument under which the transfer was made.
+In either of the cases referred in the first subparagraph, points (a) and (b), the transfer back may be made within any period, and shall comply with any other conditions, stated in that instrument for the relevant purpose.
+The undertaking under resolution shall be obliged to take back any assets, rights or liabilities transferred in accordance with the first subparagraph, points (a) and (b).
+9.   The objectives of an asset and liability management vehicle shall not imply any duty or responsibility to shareholders or creditors of the undertaking under resolution. The members of the administrative, management or supervisory body or senior management of the asset and liability management vehicle shall have no liability to such shareholders or creditors for acts or omissions in the discharge of their duties, unless such acts or omissions involved gross negligence or serious misconduct under national law which directly affected the rights of such shareholders or creditors.
+Member States may further limit the liability of an asset and liability management vehicle, and of the members of its administrative, management or supervisory body or senior management for acts and omissions in the discharge of their duties.

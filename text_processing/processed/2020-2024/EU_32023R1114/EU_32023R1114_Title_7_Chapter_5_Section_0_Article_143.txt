@@ -1,0 +1,15 @@
+Article 143
+Transitional measures
+1.   Articles 4 to 15 shall not apply to offers to the public of crypto-assets that ended before 30 December 2024.
+2.   By way of derogation from Title II, only the following requirements shall apply in relation to crypto-assets other than asset-referenced tokens and e-money tokens that were admitted to trading before 30 December 2024:
+(a)
+Articles 7 and 9 shall apply to marketing communications published after 30 December 2024;
+(b)
+operators of trading platforms shall ensure by 31 December 2027 that a crypto-asset white paper, in the cases required by this Regulation, is drawn up, notified and published in accordance with Articles 6, 8 and 9 and updated in accordance with Article 12.
+3.   Crypto-asset service providers that provided their services in accordance with applicable law before 30 December 2024, may continue to do so until 1 July 2026 or until they are granted or refused an authorisation pursuant to Article 63, whichever is sooner.
+Member States may decide not to apply the transitional regime for crypto-asset service providers provided for in the first subparagraph or to reduce its duration where they consider that their national regulatory framework applicable before 30 December 2024 is less strict than this Regulation.
+By 30 June 2024, Member States shall notify to the Commission and ESMA whether they have exercised the option provided for in the second subparagraph and the duration of the transitional regime.
+4.   Issuers of asset-referenced tokens other than credit institutions that issued asset-referenced tokens in accordance with applicable law before 30 June 2024, may continue to do so until they are granted or refused an authorisation pursuant to Article 21, provided that they apply for authorisation before 30 July 2024.
+5.   Credit institutions that issued asset-referenced tokens in accordance with applicable law before 30 June 2024, may continue to do so until the crypto-asset white paper has been approved or has failed to be approved pursuant to Article 17 provided that they notify their competent authority pursuant to paragraph 1 of that Article before 30 July 2024.
+6.   By way of derogation from Articles 62 and 63, Member States may apply a simplified procedure for applications for an authorisation that are submitted between 30 December 2024 and 1 July 2026 by entities that on 30 December 2024, were authorised under national law to provide crypto-asset services. The competent authorities shall ensure that Chapters 2 and 3 of Title V are complied with before granting authorisation pursuant to such simplified procedures.
+7.   EBA shall exercise its supervisory responsibilities pursuant to Article 117 from the date of application of the delegated acts referred to in Article 43(11).

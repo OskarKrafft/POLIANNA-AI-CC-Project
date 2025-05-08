@@ -1,0 +1,50 @@
+Article 58
+Additional requirements for certain performance studies
+1.   Any performance study:
+(a)
+in which surgically invasive sample-taking is done only for the purpose of the performance study;
+(b)
+that is an interventional clinical performance study as defined in point (46) of Article 2; or
+(c)
+where the conduct of the study involves additional invasive procedures or other risks for the subjects of the studies,
+shall, in addition to meeting the requirements set out in Article 57 and Annex XIII, be designed, authorised, conducted, recorded and reported in accordance with this Article and Articles 59 to 77 and Annex XIV.
+2.   Performance studies involving companion diagnostics shall be subject to the same requirements as the performance studies listed in paragraph 1. This does not apply to performance studies involving companion diagnostics using only left-over samples. Such studies shall however be notified to the competent authority.
+3.   Performance studies shall be subject to scientific and ethical review. The ethical review shall be performed by an ethics committee in accordance with national law. Member States shall ensure that the procedures for review by ethics committees are compatible with the procedures set out in this Regulation for the assessment of the application for authorisation of a performance study. At least one lay person shall participate in the ethical review.
+4.   Where the sponsor of a performance study is not established in the Union, that sponsor shall ensure that a natural or legal person is established in the Union as its legal representative. Such legal representative shall be responsible for ensuring compliance with the sponsor's obligations pursuant to this Regulation, and shall be the addressee for all communications with the sponsor provided for in this Regulation. Any communication with that legal representative shall be deemed to be a communication with the sponsor.
+Member States may choose not to apply the first subparagraph to performance studies to be conducted solely on their territory, or on their territory and the territory of a third country, provided that they ensure that the sponsor establishes at least a contact person on their territory in respect of that performance study who shall be the addressee for all communications with the sponsor provided for in this Regulation.
+5.   A performance study as referred to in paragraph 1 may be conducted only where all of the following conditions are met:
+(a)
+the performance study is the subject of an authorisation by the Member State(s) in which the performance study is to be conducted, in accordance with this Regulation, unless otherwise stated;
+(b)
+an ethics committee, set up in accordance with national law, has not issued a negative opinion in relation to the performance study, which is valid for that entire Member State under its national law;
+(c)
+the sponsor or its legal representative or a contact person pursuant to paragraph 4 is established in the Union;
+(d)
+vulnerable populations and subjects are appropriately protected in accordance with Articles 59 to 64;
+(e)
+the anticipated benefits to the subjects or to public health justify the foreseeable risks and inconveniences and compliance with this condition is constantly monitored;
+(f)
+the subject or, where the subject is not able to give informed consent, his or her legally designated representative has given informed consent, in accordance with Article 59;
+(g)
+the subject or, where the subject is not able to give informed consent, his or her legally designated representative, has been provided with the contact details of an entity where further information can be received in case of need;
+(h)
+the rights of the subject to physical and mental integrity, to privacy and to the protection of the data concerning him or her in accordance with Directive 95/46/EC are safeguarded;
+(i)
+the performance study has been designed to involve as little pain, discomfort, fear and any other foreseeable risk as possible for the subjects, and both the risk threshold and the degree of distress are specifically defined in the performance study plan and constantly monitored;
+(j)
+the medical care provided to the subjects is the responsibility of an appropriately qualified medical doctor or, where appropriate, any other person entitled by national law to provide the relevant patient care under performance study conditions;
+(k)
+no undue influence, including that of a financial nature, is exerted on the subject, or, where applicable, on his or her legally designated representatives, to participate in the performance study;
+(l)
+where appropriate, biological safety testing reflecting the latest scientific knowledge or any other test deemed necessary in the light of the device's intended purpose has been conducted;
+(m)
+in the case of clinical performance studies, the analytical performance has been demonstrated, taking into consideration the state of the art;
+(n)
+in the case of interventional clinical performance studies, the analytical performance and scientific validity has been demonstrated, taking into consideration the state of the art. Where, for companion diagnostics, the scientific validity is not established, the scientific rationale for the use of the biomarker shall be provided;
+(o)
+the technical safety of the device with regard to its use has been proven, taking into consideration the state of the art as well as provisions in the field of occupational safety and accident prevention;
+(p)
+the requirements of Annex XIV are fulfilled.
+6.   Any subject, or, where the subject is not able to give informed consent, his or her legally designated representative, may, without any resulting detriment and without having to provide any justification, withdraw from the performance study at any time by revoking his or her informed consent. Without prejudice to Directive 95/46/EC, the withdrawal of the informed consent shall not affect the activities already carried out and the use of data obtained based on informed consent before its withdrawal.
+7.   The investigator shall be a person exercising a profession which is recognised in the Member State concerned, as qualifying for the role of investigator on account of having the necessary scientific knowledge and experience in patient care or laboratory medicine. Other personnel involved in conducting a performance study shall be suitably qualified, by education, training or experience in the relevant medical field and in clinical research methodology, to perform their tasks.
+8.   Where appropriate, the facilities where the performance study involving subjects is to be conducted shall be suitable for the performance study and shall be similar to the facilities where the device is intended to be used.

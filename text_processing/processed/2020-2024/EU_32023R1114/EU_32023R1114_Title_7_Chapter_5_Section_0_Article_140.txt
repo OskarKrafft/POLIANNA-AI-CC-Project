@@ -1,0 +1,71 @@
+Article 140
+Reports on the application of this Regulation
+1.   By 30 June 2027, having consulted EBA and ESMA, the Commission shall present a report to the European Parliament and the Council on the application of this Regulation accompanied, where appropriate, by a legislative proposal. An interim report shall be presented by 30 June 2025, accompanied, where appropriate, by a legislative proposal.
+2.   The reports referred to in paragraph 1 shall contain the following:
+(a)
+the number of issuances of crypto-assets in the Union, the number of crypto-asset white papers submitted or notified to the competent authorities, the type of crypto-assets issued and their market capitalisation and the number of crypto-assets admitted to trading;
+(b)
+a description of the experience with the classification of crypto-assets including possible divergences in approaches by competent authorities;
+(c)
+an assessment of the necessity of the introduction of an approval mechanism for crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;
+(d)
+an estimate of the number of Union residents using or investing in crypto-assets issued in the Union;
+(e)
+where possible, an estimate of the number of Union residents using or investing in crypto-assets issued outside the Union and an explanation of the availability of data in that respect;
+(f)
+the number and value of fraud, scams, hacks, the use of crypto-assets for payments related to ransomware attacks, cyber-attacks, thefts or losses of crypto-assets reported in the Union, types of fraudulent behaviour, the number of complaints received by crypto-asset service providers and issuers of asset-referenced tokens, the number of complaints received by competent authorities and the subjects of the complaints received;
+(g)
+the number of issuers of asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in asset-referenced tokens;
+(h)
+the number of issuers of significant asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in significant asset-referenced tokens;
+(i)
+the number of issuers of e-money tokens and an analysis of the official currencies referenced by the e-money tokens, the composition and the size of the funds deposited or invested in accordance with Article 54 and the volume of payments made in e-money tokens;
+(j)
+the number of issuers of significant e-money tokens and an analysis of the official currencies referenced by the significant e-money tokens and, for electronic money institutions issuing significant e-money tokens, an analysis of the categories of reserve assets, the size of the reserves of assets, and the volume of payments made in significant e-money tokens;
+(k)
+the number of significant crypto-asset service providers;
+(l)
+an assessment of the functioning of the markets in crypto-assets in the Union, including of market development and trends, taking into account the experience of the supervisory authorities, the number of authorised crypto-asset service providers and their respective average market share;
+(m)
+an assessment of the level of protection of holders of crypto-assets and clients of crypto-asset service providers, in particular retail holders;
+(n)
+an assessment of fraudulent marketing communications and scams involving crypto-assets occurring through social media networks;
+(o)
+an assessment of the requirements applicable to issuers of crypto-assets and crypto-asset service providers and their impact on operational resilience, market integrity, financial stability, and the protection of clients and holders of crypto-assets;
+(p)
+an evaluation of the application of Article 81 and of the possibility of introducing appropriateness tests in Articles 78, 79 and 80 in order to better protect clients of crypto-asset service providers, especially retail holders;
+(q)
+an assessment of whether the scope of crypto-asset services covered by this Regulation is appropriate and whether any adjustment to the definitions set out in this Regulation is needed, as well as whether any additional innovative crypto-asset forms need to be included in the scope of this Regulation;
+(r)
+an assessment of whether the prudential requirements for crypto-asset service providers are appropriate and whether they should be aligned with the requirements for initial capital and own funds applicable to investment firms under Regulation (EU) 2019/2033 of the European Parliament and of the Council (46) and Directive (EU) 2019/2034 of the European Parliament and of the Council (47);
+(s)
+an assessment of the appropriateness of the thresholds to classify asset-referenced tokens and e-money tokens as significant as set out in Article 43(1), points (a), (b) and (c), and an assessment of whether the thresholds should be evaluated periodically;
+(t)
+an assessment of the development of decentralised finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems;
+(u)
+an assessment of the appropriateness of the thresholds to consider crypto-asset service providers as significant pursuant to Article 85, and an assessment of whether the thresholds should be evaluated periodically;
+(v)
+an assessment of whether an equivalence regime should be established under this Regulation for entities providing crypto-asset services, issuers of asset-referenced tokens or issuers of e-money tokens from third countries;
+(w)
+an assessment of whether the exemptions under Articles 4 and 16 are appropriate;
+(x)
+an assessment of the impact of this Regulation on the proper functioning of the internal market with regard to crypto-assets, including any impact on the access to finance for SMEs and on the development of new means of payment, including payment instruments;
+(y)
+a description of developments in business models and technologies in markets in crypto-assets with a particular focus on the environmental and climate-related impact of new technologies, as well as an assessment of policy options and where necessary any additional measures that might be warranted to mitigate the adverse impacts on the climate and other environment-related adverse impacts of the technologies used in markets in crypto-assets and, in particular, of the consensus mechanisms used to validate crypto-asset transactions;
+(z)
+an appraisal of whether any changes are needed to the measures set out in this Regulation to ensure the protection of clients and holders of crypto-assets, market integrity and financial stability;
+(aa)
+the application of administrative penalties and other administrative measures;
+(ab)
+an evaluation of the cooperation between the competent authorities, EBA, ESMA, central banks, as well as other relevant authorities, including with regards to the interaction between their responsibilities or tasks, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and EBA, respectively, being responsible for supervision under this Regulation;
+(ac)
+an evaluation of the cooperation between the competent authorities and ESMA regarding the supervision of significant crypto-asset service providers, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and ESMA, respectively, being responsible for the supervision of significant crypto-asset service providers under this Regulation;
+(ad)
+the costs for issuers of crypto-assets other than asset-referenced tokens and e-money tokens, to comply with this Regulation as a percentage of the amount raised through crypto-asset issuances;
+(ae)
+the costs for issuers of asset-referenced tokens and issuers of e-money tokens to comply with this Regulation as a percentage of their operational costs;
+(af)
+the costs for crypto-asset service providers to comply with this Regulation as a percentage of their operational costs;
+(ag)
+the number and amount of administrative fines and criminal penalties imposed for infringements of this Regulation by competent authorities and EBA.
+3.   Where applicable, the reports referred to in paragraph 1 of this Article shall also follow up on the topics addressed in the reports referred to in Articles 141 and 142.

@@ -1,0 +1,15 @@
+Article 21
+Responsibilities for the ICT applications supporting the gateway
+1.   The Commission shall be responsible for the development, availability, monitoring, updating, maintenance, security and hosting of the following ICT applications and webpages:
+(a)
+the Your Europe portal, referred to in Article 2(1);
+(b)
+the common user interface, referred to in Article 18(1), including the search engine or any other ICT tool that enables searchability of web information and services;
+(c)
+the repository for links, referred to in Article 19(1);
+(d)
+the common assistance service finder, referred to in Article 20(1);
+(e)
+the user feedback tools, referred to in Article 25(1) and point (a) of Article 26(1).
+The Commission shall work in close cooperation with the Member States to develop the ICT applications.
+2.   The Member States shall be responsible for the development, availability, monitoring, updating, maintenance and security of ICT applications related to the national websites and webpages that they manage and that are linked to the common user interface.

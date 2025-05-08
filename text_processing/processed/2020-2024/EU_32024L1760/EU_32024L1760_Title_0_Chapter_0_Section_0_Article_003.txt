@@ -1,0 +1,118 @@
+Article 3
+Definitions
+1.   For the purpose of this Directive, the following definitions shall apply:
+(a)
+‘company’ means any of the following:
+(i)
+a legal person constituted as one of the legal forms listed in Annexes I and II to Directive 2013/34/EU;
+(ii)
+a legal person constituted in accordance with the law of a third country in a form comparable to those listed in Annexes I and II to Directive 2013/34/EU;
+(iii)
+a regulated financial undertaking, regardless of its legal form, which is:
+—
+a credit institution, as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 the European Parliament and of the Council (33);
+—
+an investment firm, as defined in Article 4(1), point (1), of Directive 2014/65/EU the European Parliament and of the Council (34);
+—
+an alternative investment fund manager (AIFM), as defined in Article 4(1), point (b), of Directive 2011/61/EU, including a manager of European venture capital funds (EuVECA), as referred to in Regulation (EU) No 345/2013 of the European Parliament and of the Council (35), a manager of European social entrepreneurship funds (EuSEF), as referred to in Regulation (EU) No 346/2013 of the European Parliament and of the Council (36), and a manager of European long-term investment funds (ELTIF), as referred to in Regulation (EU) 2015/760 of the European Parliament and of the Council (37);
+—
+a management company, as defined in Article 2(1), point (b), of Directive 2009/65/EC;
+—
+an insurance undertaking, as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (38);
+—
+a reinsurance undertaking, as defined in Article 13, point (4), of Directive 2009/138/EC;
+—
+an institution for occupational retirement provision within the scope of Directive (EU) 2016/2341 in accordance with Article 2 thereof, unless a Member State has chosen not to apply that Directive in whole or in part to those institutions for occupational retirement provision in accordance with Article 5 of that Directive;
+—
+a central counterparty, as defined in Article 2, point (1), of Regulation (EU) No 648/2012 of the European Parliament and of the Council (39);
+—
+a central securities depository, as defined in Article 2(1), point (1), of Regulation (EU) No 909/2014 of the European Parliament and of the Council (40);
+—
+an insurance or reinsurance special purpose vehicle authorised in accordance with Article 211 of Directive 2009/138/EC;
+—
+a securitisation special purpose entity, as defined in Article 2, point (2), of Regulation (EU) 2017/2402 of the European Parliament and of the Council (41);
+—
+a financial holding company, as defined in Article 4(1), point (20), of Regulation (EU) No 575/2013, an insurance holding company, as defined in Article 212(1), point (f), of Directive 2009/138/EC, or a mixed financial holding company, as defined in Article 212(1), point (h), of Directive 2009/138/EC, which is part of an insurance group that is subject to supervision at the level of the group pursuant to Article 213 of that Directive and which is not exempted from group supervision pursuant to Article 214(2) of Directive 2009/138/EC;
+—
+a payment institution, as referred to in Article 1(1), point (d), of Directive (EU) 2015/2366 of the European Parliament and of the Council (42);
+—
+an electronic money institution, as defined in Article 2, point (1), of Directive 2009/110/EC of the European Parliament and of the Council (43);
+—
+a crowdfunding service provider, as defined in Article 2(1), point (e), of Regulation (EU) 2020/1503 of the European Parliament and of the Council (44);
+—
+a crypto-asset service provider, as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (45), where performing one or more crypto-asset services, as defined in Article 3(1), point (16), of that Regulation;
+(b)
+‘adverse environmental impact’ means an adverse impact on the environment resulting from the breach of the prohibitions and obligations listed in Part I, Section 1, points 15 and 16, and Part II of the Annex to this Directive, taking into account national legislation linked to the provisions of the instruments listed therein;
+(c)
+‘adverse human rights impact’ means an impact on persons resulting from:
+(i)
+an abuse of one of the human rights listed in Part I, Section 1, of the Annex to this Directive, as those human rights are enshrined in the international instruments listed in Part I, Section 2, of the Annex to this Directive;
+(ii)
+an abuse of a human right not listed in Part I, Section 1, of the Annex to this Directive, but enshrined in the human rights instruments listed in Part I, Section 2, of the Annex to this Directive, provided that:
+—
+the human right can be abused by a company or legal entity;
+—
+the human right abuse directly impairs a legal interest protected in the human rights instruments listed in Part I, Section 2, of the Annex to this Directive; and
+—
+the company could have reasonably foreseen the risk that such human right may be affected, taking into account the circumstances of the specific case, including the nature and extent of the company’s business operations and its chain of activities, the characteristics of the economic sector and the geographical and operational context;
+(d)
+‘adverse impact’ means an adverse environmental impact or adverse human rights impact;
+(e)
+‘subsidiary’ means a legal person, as defined in Article 2, point (10), of Directive 2013/34/EU, and a legal person through which the activity of a controlled undertaking, as defined in Article 2(1), point (f), of Directive 2004/109/EC of the European Parliament and of the Council (46), is exercised;
+(f)
+‘business partner’ means an entity:
+(i)
+with which the company has a commercial agreement related to the operations, products or services of the company or to which the company provides services pursuant to point (g) (‘direct business partner’); or
+(ii)
+which is not a direct business partner but which performs business operations related to the operations, products or services of the company (‘indirect business partner’);
+(g)
+‘chain of activities’ means:
+(i)
+activities of a company’s upstream business partners related to the production of goods or the provision of services by that company, including the design, extraction, sourcing, manufacture, transport, storage and supply of raw materials, products or parts of products and the development of the product or the service; and
+(ii)
+activities of a company’s downstream business partners related to the distribution, transport and storage of a product of that company, where the business partners carry out those activities for the company or on behalf of the company, and excluding the distribution, transport and storage of a product that is subject to export controls under Regulation (EU) 2021/821 or to the export controls relating to weapons, munitions or war materials, once the export of the product is authorised;
+(h)
+‘independent third-party verification’ means verification of the compliance by a company, or parts of its chain of activities, with human rights and environmental requirements resulting from this Directive by an expert that is objective, completely independent from the company, free from any conflicts of interest and from external influence, has experience and competence in environmental or human rights matters, according to the nature of the adverse impact, and is accountable for the quality and reliability of the verification;
+(i)
+‘SME’ means a micro, small or a medium-sized undertaking, irrespective of its legal form, that is not part of a large group, as those terms are defined according to Article 3(1), (2), (3) and (7) of Directive 2013/34/EU;
+(j)
+‘industry or multi-stakeholder initiative’ means a combination of voluntary due diligence procedures, tools and mechanisms, developed and overseen by governments, industry associations, interested organisations, including civil society organisations, or groupings or combinations thereof, that companies may participate in in order to support the implementation of due diligence obligations;
+(k)
+‘authorised representative’ means a natural or legal person resident or established in the Union that has a mandate from a company within the meaning of point (a)(ii) to act on its behalf in relation to compliance with that company’s obligations pursuant to this Directive;
+(l)
+‘severe adverse impact’ means an adverse impact that is especially significant on account of its nature, such as an impact that entails harm to human life, health or liberty, or on account of its scale, scope or irremediable character, taking into account its gravity, including the number of individuals that are or may be affected, the extent to which the environment is or may be damaged or otherwise affected, its irreversibility and the limits on the ability to restore affected individuals or the environment to a situation equivalent to their situation prior to the impact within a reasonable period of time;
+(m)
+‘net turnover’ means:
+(i)
+the ‘net turnover’, as defined in Article 2, point (5), of Directive 2013/34/EU; or
+(ii)
+where the company applies international accounting standards adopted on the basis of Regulation (EC) No 1606/2002 of the European Parliament and of the Council (47) or is a company within the meaning of point (a)(ii), the revenue as defined by or within the meaning of the financial reporting framework on the basis of which the financial statements of the company are prepared;
+(n)
+‘stakeholders’ means the company’s employees, the employees of its subsidiaries, trade unions and workers’ representatives, consumers and other individuals, groupings, communities or entities whose rights or interests are or could be affected by the products, services and operations of the company, its subsidiaries and its business partners, including the employees of the company’s business partners and their trade unions and workers’ representatives, national human rights and environmental institutions, civil society organisations whose purposes include the protection of the environment, and the legitimate representatives of those individuals, groupings, communities or entities;
+(o)
+‘appropriate measures’ means measures that are capable of achieving the objectives of due diligence by effectively addressing adverse impacts in a manner commensurate to the degree of severity and the likelihood of the adverse impact, and reasonably available to the company, taking into account the circumstances of the specific case, including the nature and extent of the adverse impact and relevant risk factors;
+(p)
+‘business relationship’ means the relationship of a company with a business partner;
+(q)
+‘parent company’ means a company that controls one or more subsidiaries;
+(r)
+‘ultimate parent company’ means a parent company that controls, either directly or indirectly in accordance with the criteria set out in Article 22(1) to (5) of Directive 2013/34/EU, one or more subsidiaries and is not controlled by another company;
+(s)
+‘group of companies’ or ‘group’ means a parent company and all its subsidiaries;
+(t)
+‘remediation’ means restoration of the affected person or persons, communities or environment to a situation equivalent or as close as possible to the situation they would have been in had an actual adverse impact not occurred, in proportion to the company’s implication in the adverse impact, including by financial or non-financial compensation provided by the company to a person or persons affected by the actual adverse impact and, where applicable, reimbursement of the costs incurred by public authorities for any necessary remedial measures;
+(u)
+‘risk factors’ means facts, situations or circumstances that relate to the severity and likelihood of an adverse impact, including company-level, business operations, geographic and contextual, product and service, and sectoral facts, situations or circumstances;
+(v)
+‘severity of an adverse impact’ means the scale, scope or irremediable character of the adverse impact, taking into account the gravity of an adverse impact, including the number of individuals that are or may be affected, the extent to which the environment is or may be damaged or otherwise affected, its irreversibility and the limits on the ability to restore affected individuals or the environment to a situation equivalent to their situation prior to the impact within a reasonable period of time.
+2.   The Commission is empowered to adopt delegated acts in accordance with Article 34 in order to amend the Annex to this Directive by:
+(a)
+adding references to articles of international instruments ratified by all Member States and falling within the scope of a specific right, prohibition or obligation related to the protection of human rights, fundamental freedoms and of the environment listed in the Annex to this Directive;
+(b)
+modifying, where appropriate, the references to international instruments referred to in the Annex to this Directive, in view of the modification, supersession or abrogation of such instruments;
+(c)
+in accordance with developments within the relevant international fora concerning the instruments listed in Part 1, Section 2, of the Annex to this Directive:
+(i)
+replacing the references to the listed instruments with references to new instruments covering the same subject matter and ratified by all Member States; or
+(ii)
+adding references to new instruments covering the same subject matter as the listed instruments and ratified by all Member States.

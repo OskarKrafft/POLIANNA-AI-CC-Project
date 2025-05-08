@@ -1,0 +1,93 @@
+Article 2
+Amendments to Regulation (EU) No 648/2012
+Regulation (EU) No 648/2012 is amended as follows:
+(1)
+in Article 50a, paragraph 2 is replaced by the following:
+‘2.   A CCP shall calculate the hypothetical capital as follows:
+
+
+
+
+
+where:
+KCCP
+
+=
+the hypothetical capital;
+i
+=
+the index denoting the clearing member;
+EADi
+
+=
+the exposure amount of the CCP to clearing member i, including the clearing member's own transactions with the CCP, the client transactions guaranteed by the clearing member, and all values of collateral held by the CCP, including the clearing member's pre-funded default fund contribution, against those transactions, relating to the valuation at the end of the regulatory reporting date before the margin called on the final margin call of that day is exchanged;
+RW
+=
+a risk weight of 20 %; and
+capital ratio
+=
+8 %.’;
+(2)
+Article 50b is replaced by the following:
+‘Article 50b
+General rules for the calculation of KCCP
+
+For the purpose of calculating KCCP referred to in Article 50a(2), the following provisions shall apply:
+(a)
+CCPs shall calculate the value of the exposures they have to their clearing members as follows:
+(i)
+for exposures arising from contracts and transactions listed in points (a) and (c) of Article 301(1) of Regulation (EU) No 575/2013, CCPs shall calculate the value in accordance with the method set out in Section 3 of Chapter 6 of Title II of Part Three of that Regulation by using a margin period of risk of 10 business days;
+(ii)
+for exposures arising from contracts and transactions listed in point (b) of Article 301(1) of Regulation (EU) No 575/2013, CCPs shall calculate the value (EADi) in accordance with the following formula:
+EADi = max{EBRMi – IMi – DFi; 0}
+where:
+EADi
+
+=
+the exposure value;
+i
+=
+the index denoting the clearing member;
+EBRMi
+
+=
+the exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;
+IMi
+
+=
+the initial margin posted with the CCP by clearing member i;
+DFi
+
+=
+the pre-funded default fund contribution of clearing member i.
+All values in this formula shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged;
+(iii)
+for situations referred to in the third sentence of the second subparagraph of Article 301(1) of Regulation (EU) No 575/2013, CCPs shall calculate the value of the transactions referred to in the first sentence of that subparagraph in accordance with the formula set out in point (a)(ii) of this Article, and shall determine EBRMi in accordance with Title V of Part Three of that Regulation;
+(b)
+for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in point (4) of Article 272 of that Regulation;
+(c)
+a CCP that has exposures to one or more CCPs shall treat those exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of KCCP;
+(d)
+a CCP that has in place a binding contractual arrangement with its clearing members that allows that CCP to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions shall consider that initial margin as pre-funded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;
+(e)
+where collateral is held against an account containing more than one of the types of contracts and transactions referred to in Article 301(1) of Regulation (EU) No 575/2013, CCPs shall allocate the initial margin provided by their clearing members or clients, as applicable, in proportion to the EADs of the respective types of contracts and transactions calculated in accordance with point (a) of this paragraph, without taking into account initial margin in the calculation;
+(f)
+CCPs that have more than one default fund shall carry out the calculation for each default fund separately;
+(g)
+where a clearing member provides client clearing services, and the transactions and collateral of the clearing member's clients are held in sub-accounts which are separate from those of the clearing member's proprietary business, CCPs shall carry out the calculation of EADi for each sub-account separately and shall calculate the clearing member's total EADi as the sum of the EADs of the clients' sub-accounts and the EAD of the clearing member's proprietary business sub-account;
+(h)
+for the purposes of point (f), where DFi is not split between the clients' sub-accounts and the clearing member's proprietary business sub-accounts, CCPs shall allocate DFi per sub-account according to the respective fraction the initial margin of that sub-account has in relation to the total initial margin posted by the clearing member or for the account of the clearing member;
+(i)
+CCPs shall not carry out the calculation in accordance with Article 50a(2) where the default fund covers cash transactions only.
+For the purposes of point (a)(ii) of this Article, the CCP shall use the method specified in Article 223 of Regulation (EU) No 575/2013 with supervisory volatility adjustments set out in Article 224 of that Regulation to calculate the exposure value.’;
+(3)
+in Article 50c(1), points (d) and (e) are deleted;
+(4)
+in Article 50d, point (c) is deleted;
+(5)
+in Article 89, paragraph 5a is replaced by the following:
+‘5a.   During the transitional period set out in Article 497 of Regulation (EU) No 575/2013, a CCP referred to in that Article shall include in the information it shall report in accordance with Article 50c(1) of this Regulation the total amount of initial margin, as defined in point (140) of Article 4(1) of Regulation (EU) No 575/2013, it has received from its clearing members where both of the following conditions are met:
+(a)
+the CCP does not have a default fund;
+(b)
+the CCP does not have in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from those clearing members as if they were pre-funded contributions.’.

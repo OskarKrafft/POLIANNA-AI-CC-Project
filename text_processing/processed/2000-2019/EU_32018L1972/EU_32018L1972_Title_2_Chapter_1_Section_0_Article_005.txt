@@ -1,0 +1,26 @@
+Article 5
+National regulatory and other competent authorities
+1.   Member States shall ensure that each of the tasks laid down in this Directive is undertaken by a competent authority.
+Within the scope of this Directive, the national regulatory authorities shall be responsible at least for the following tasks:
+(a)
+implementing ex ante market regulation, including the imposition of access and interconnection obligations;
+(b)
+ensuring the resolution of disputes between undertakings;
+(c)
+carrying out radio spectrum management and decisions or, where those tasks are assigned to other competent authorities, providing advice regarding the market-shaping and competition elements of national processes related to the rights of use for radio spectrum for electronic communications networks and services;
+(d)
+contributing to the protection of end-user rights in the electronic communications sector, in coordination, where relevant, with other competent authorities;
+(e)
+assessing and monitoring closely market-shaping and competition issues regarding open internet access;
+(f)
+assessing the unfair burden and calculating the net cost of the provision of universal service;
+(g)
+ensuring number portability between providers;
+(h)
+performing any other task that this Directive reserves to national regulatory authorities.
+Member States may assign other tasks provided for in this Directive and other Union law to national regulatory authorities, in particular, those related to market competition or market entry, such as general authorisation, and those related to any role conferred on BEREC. Where those tasks related to market competition or market entry are assigned to other competent authorities, they shall seek to consult the national regulatory authority before taking a decision. For the purposes of contributing to BEREC's tasks, national regulatory authorities shall be entitled to collect necessary data and other information from market participants.
+Member States may also assign to national regulatory authorities other tasks on the basis of national law, including national law implementing Union law.
+Member States shall, in particular, promote stability of competences of the national regulatory authorities when transposing this Directive with regard to the attribution of tasks resulting from the Union electronic communications regulatory framework as amended in 2009.
+2.   National regulatory and other competent authorities of the same Member State or of different Member States shall, where necessary, enter into cooperative arrangements with each other to foster regulatory cooperation.
+3.   Member States shall publish the tasks to be undertaken by national regulatory and other competent authorities in an easily accessible form, in particular where those tasks are assigned to more than one body. Member States shall ensure, where appropriate, consultation and cooperation between those authorities, and between those authorities and national authorities entrusted with the implementation of competition law or consumer law, on matters of common interest. Where more than one authority has competence to address such matters, Member States shall ensure that the respective tasks of each authority are published in an easily accessible form.
+4.   Member States shall notify to the Commission all national regulatory and other competent authorities that are assigned tasks under this Directive, and their respective responsibilities, as well as any change thereof.

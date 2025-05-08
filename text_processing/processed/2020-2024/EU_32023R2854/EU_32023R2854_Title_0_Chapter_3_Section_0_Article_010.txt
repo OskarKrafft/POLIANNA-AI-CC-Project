@@ -1,0 +1,29 @@
+Article 10
+Dispute settlement
+1.   Users, data holders and data recipients shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes pursuant to Article 4(3) and (9) and Article 5(12) as well as disputes relating to the fair, reasonable and non-discriminatory terms and conditions for, and transparent manner of, making data available in accordance with this Chapter and Chapter IV.
+2.   Dispute settlement bodies shall make the fees, or the mechanisms used to determine the fees, known to the parties concerned before those parties request a decision.
+3.   For disputes referred to a dispute settlement body pursuant to Article 4(3) and (9) and Article 5(12), where the dispute settlement body decides a dispute in favour of the user or of the data recipient, the data holder shall bear all the fees charged by the dispute settlement body and shall reimburse that user or that data recipient for any other reasonable expenses that it has incurred in relation to the dispute settlement. If the dispute settlement body decides a dispute in favour of the data holder, the user or the data recipient shall not be required to reimburse any fees or other expenses that the data holder paid or is to pay in relation to the dispute settlement, unless the dispute settlement body finds that the user or the data recipient manifestly acted in bad faith.
+4.   Customers and providers of data processing services shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes relating to breaches of the rights of customers and the obligations of providers of data processing services, in accordance with Articles 23 to 31.
+5.   The Member State where the dispute settlement body is established shall, at the request of that body, certify that body where it has demonstrated that it meets all of the following conditions:
+(a)
+it is impartial and independent, and it is to issue its decisions in accordance with clear, non-discriminatory and fair rules of procedure;
+(b)
+it has the necessary expertise, in particular in relation to fair, reasonable and non-discriminatory terms and conditions, including compensation, and on making data available in a transparent manner, allowing the body to effectively determine those terms and conditions;
+(c)
+it is easily accessible through electronic communication technology;
+(d)
+it is capable of adopting its decisions in a swift, efficient and cost-effective manner in at least one official language of the Union.
+6.   Member States shall notify to the Commission the dispute settlement bodies certified in accordance with paragraph 5. The Commission shall publish a list of those bodies on a dedicated website and keep it updated.
+7.   A dispute settlement body shall refuse to deal with a request to resolve a dispute that has already been brought before another dispute settlement body or before a court or tribunal of a Member State.
+8.   A dispute settlement body shall grant parties the possibility, within a reasonable period of time, to express their points of view on the matters those parties have brought before that body. In that context, each party to a dispute shall be provided with the submissions of the other party to their dispute and any statements made by experts. The parties shall be given the possibility to comment on those submissions and statements.
+9.   A dispute settlement body shall adopt its decision on a matter referred to it within 90 days of receipt of a request pursuant to paragraphs 1 and 4. That decision shall be in writing or on a durable medium and shall be supported by a statement of reasons.
+10.   Dispute settlement bodies shall draw up and make publicly available annual activity reports. Such annual reports shall include, in particular, the following general information:
+(a)
+an aggregation of the outcomes of disputes;
+(b)
+the average time taken to resolve disputes;
+(c)
+the most common reasons for disputes.
+11.   In order to facilitate the exchange of information and best practices, a dispute settlement body may decide to include recommendations in the report referred to in paragraph 10 as to how problems can be avoided or resolved.
+12.   The decision of a dispute settlement body shall be binding on the parties only if the parties have explicitly consented to its binding nature prior to the start of the dispute settlement proceedings.
+13.   This Article does not affect the right of parties to seek an effective remedy before a court or tribunal of a Member State.

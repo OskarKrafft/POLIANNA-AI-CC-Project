@@ -1,0 +1,54 @@
+Article 15
+Interoperable Europe Board
+1.   The Interoperable Europe Board (the ‘Board’) is hereby established. It shall facilitate strategic cooperation and provide advice on the application of this Regulation.
+2.   The Board shall be composed of one representative from each Member State and from the Commission.
+3.   The Committee of the Regions, the EU Cybersecurity Agency (ENISA) and the European Cybersecurity Competence Centre shall each designate one expert, who shall be invited to participate as observers.
+4.   The Board shall be chaired by the Commission. The Chair may grant observer status in the Board to experts designated by Union entities, regions, organisations and candidate countries. The Chair may invite to participate, on an ad hoc basis, experts with specific competence in a subject on the agenda. The Commission shall provide the secretariat of the Board.
+The members of the Board shall make every effort to adopt decisions by consensus. In the event of a vote, the outcome of the vote shall be decided by simple majority of the component members. The members who have voted against a proposal or abstained shall have the right to have a document summarising the reasons for their position annexed to the opinions, recommendations or reports.
+5.   The Board shall have the following tasks:
+(a)
+to adopt guidelines with regard to the interoperability assessment pursuant to Article 3(5) and the common checklist set out in the Annex to this Regulation, and, if necessary, update those guidelines;
+(b)
+to analyse the information collected pursuant to Article 3(2) and to provide, on that basis, suggestions to improve the cross-border interoperability of trans-European digital public services;
+(c)
+to adopt guidelines on sharing the interoperability solutions referred to in Article 4;
+(d)
+to propose measures to foster the share and reuse of interoperability solutions;
+(e)
+to develop the EIF, to update it if necessary and to propose it to the Commission;
+(f)
+to support the implementation of the interoperability frameworks of the Member States and of the Union entities and other relevant Union and national policies, strategies or guidelines, including the digital-by-default principle and the interoperability-by-design approach;
+(g)
+to assess the alignment of the specialised interoperability frameworks with the EIF and to answer requests for consultation from the Commission on those frameworks;
+(h)
+to adopt the Interoperable Europe Agenda referred to in Article 19;
+(i)
+to recommend Interoperable Europe solutions and to withdraw such recommendations on the basis of agreed criteria;
+(j)
+to monitor the overall coherence of the recommended interoperability solutions, at national, regional and local level, including the information on their metadata and categorisation;
+(k)
+to propose to the Commission measures to ensure, where appropriate, the compatibility of interoperability solutions with other interoperability solutions that share a common purpose, while supporting, where relevant, the complementarity with or transition to new technologies;
+(l)
+to propose that the Commission publish the interoperability solutions referred to in Article 8(2) or have those interoperability solutions referred to on the Interoperable Europe portal;
+(m)
+to propose to the Commission the setting up of policy implementation support projects, innovation measures and other relevant measures, including funding support;
+(n)
+to identify best practices for integrating interoperability solutions in public procurement and tenders;
+(o)
+to review reports from innovation measures on the use of the interoperability regulatory sandboxes and on peer review and to propose follow-up measures if necessary;
+(p)
+to propose measures to enhance the interoperability capabilities of public sector bodies, such as training;
+(q)
+to propose measures to relevant standardisation organisations and bodies to contribute to European standardisation activities, in particular by means of the procedures set out in Regulation (EU) No 1025/2012;
+(r)
+to propose measures by which to collaborate with international bodies and research and educational institutions that could contribute to the development on interoperability, especially international communities on open source solutions, open standards or technical specifications and other platforms;
+(s)
+to coordinate with the European Data Innovation Board referred to in Regulation (EU) 2022/868 on interoperability solutions for the common European Data Spaces, as well as with any other Union entity working on interoperability solutions relevant for the public sector;
+(t)
+to inform regularly and coordinate with the interoperability coordinators referred to in Article 18 and, where relevant, with the Interoperable Europe Community, on matters concerning trans-European digital public services, including relevant Union-funded projects and networks;
+(u)
+to provide advice to the Commission on the monitoring of and reporting on the application of this Regulation;
+(v)
+to provide to the Commission in a timely manner the necessary input and data required for the effective delivery of the reports in accordance with Article 20.
+6.   The Board may set up working groups to examine specific points related to the tasks of the Board. Working groups shall involve members of the Interoperable Europe Community.
+7.   The Board shall adopt its own rules of procedure.

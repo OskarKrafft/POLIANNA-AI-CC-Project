@@ -1,0 +1,43 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+"project of common interest" means a project identified in Regulation (EU) No 1315/2013 or Regulation (EU) No 347/2013 or in a Regulation on guidelines for trans-European networks in the area of telecommunications infrastructure;
+(2)
+'cross-border section' means, in the transport sector, the section which ensures the continuity of a project of common interest between the nearest urban nodes on both sides of the border of two Member States or between a Member State and a neighbouring country;
+(3)
+'neighbouring country' means a country falling within the scope of the European Neighbourhood Policy including the Strategic Partnership, the Enlargement Policy, and the European Economic Area or the European Free Trade Association;
+(4)
+'third country' means any neighbouring country or any other country with which the Union may cooperate to achieve the objectives pursued by this Regulation;
+(5)
+"works" means the purchase, supply and deployment of components, systems and services including software, the carrying-out of development and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;
+(6)
+"studies" means activities needed to prepare project implementation, such as preparatory, mapping, feasibility, evaluation, testing and validation studies, including in the form of software, and any other technical support measure, including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;
+(7)
+'programme support actions' means, at the level of the CEF, all accompanying measures necessary for its implementation and the implementation of the individual sector-specific guidelines, such as services, in particular the provision of technical assistance, including for the use of financial instruments, as well as preparatory, feasibility, coordination, monitoring, stakeholder consultation, control, audit and evaluation activities which are required directly for the management of the CEF and the achievement of its objectives. Programme support actions include, in particular, studies, meetings, infrastructure mapping, information, dissemination, communication and awareness raising actions, expenditure linked to IT tools and networks focusing on exchanges of information about the CEF, together with all other technical and administrative assistance expenditure incurred by the Commission that may be required for the management of the CEF or implementation of the individual sector-specific guidelines. Programme support actions also include activities required in order to facilitate the preparation of projects of common interest, in particular in the Member States, eligible for financing from the Cohesion Fund, with a view to obtaining financing under this Regulation or on the financial market. Programme support actions shall also include, where appropriate, meeting the costs of the Executive Agency entrusted by the Commission with the implementation of specific parts of the CEF ("Executive Agency");
+(8)
+"action" means any activity which has been identified as financially and technically independent, has a set time-frame and is necessary for the implementation of a project of common interest;
+(9)
+"eligible costs" has the same meaning as in Regulation (EU, Euratom) No 966/2012;
+(10)
+"beneficiary" means a Member State, an international organisation, or a public or private undertaking or body that has been selected to receive Union financial assistance under this Regulation and in accordance with the arrangements established in the relevant work programme referred to in Article 17;
+(11)
+"implementing body" means a public or private undertaking or body designated by a beneficiary, where the beneficiary is a Member State or an international organisation, to implement the action concerned. Such designation shall be decided upon by the beneficiary under its own responsibility and, if it requires the award of a procurement contract, in compliance with the applicable Union and national public procurement rules;
+(12)
+"comprehensive network" means the transport infrastructure identified in accordance with Chapter II of Regulation (EU) No 1315/2013;
+(13)
+"core network" means the transport infrastructure identified in accordance with Chapter III of Regulation (EU) No 1315/2013;
+(14)
+"core network corridors" means an instrument to facilitate the coordinated implementation of the core network as provided for in Chapter IV of Regulation (EU) No 1315/2013 and listed in Part I of Annex I to this Regulation;
+(15)
+"bottleneck" in the transport sector means a physical, technical or functional barrier which leads to a system break affecting the continuity of long-distance or cross-border flows and which can be surmounted by creating new infrastructure, or substantially upgrading existing infrastructure, that could bring significant improvements which will solve the bottleneck constraints;
+(16)
+"priority" means any priority electricity corridors, priority gas corridors or priority thematic areas designated in Regulation (EU) No 347/2013;
+(17)
+"telematic applications" means the applications as defined in Regulation (EU) No 1315/2013;
+(18)
+"energy infrastructure" means the infrastructure as defined in Regulation (EU) No 347/2013;
+(19)
+"synergies between sectors" means the existence, across at least two of the transport, telecommunications and energy sectors, of similar or complementary actions that may enable costs or results to be optimised through the pooling of financial, technical or human resources;
+(20)
+'isolated network' means the rail network of a Member State, or a part thereof, as defined in Regulation (EU) No 1315/2013.

@@ -1,0 +1,63 @@
+Article 133
+Requirement to maintain a systemic risk buffer
+1.   Each Member State may introduce a systemic risk buffer of Common Equity Tier 1 capital for the financial sector or one or more subsets of that sector, in order to prevent and mitigate long term non-cyclical systemic or macroprudential risks not covered by Regulation (EU) No 575/2013, in the meaning of a risk of disruption in the financial system with the potential to have serious negative consequences to the financial system and the real economy in a specific Member State.
+2.   For the purpose of paragraph 1, the Member State shall designate the authority in charge of setting the systemic risk buffer and of identifying the sets of institutions to which it applies. This authority shall be the competent authority or the designated authority.
+3.   For the purpose of paragraph 1, institutions may be required to maintain, in addition to the Common Equity Tier 1 capital maintained to meet the own funds requirement imposed by Article 92 of Regulation (EU) No 575/2013, a systemic risk buffer of Common Equity Tier 1 capital of at least 1 % based on the exposures to which the systemic risk buffer applies in accordance with paragraph 8 of this Article, on an individual, consolidated, or sub-consolidated basis, as applicable in accordance with Part One, Title II of that Regulation. The relevant competent or designated authority may require institutions to maintain the systemic risk buffer on an individual and on a consolidated level.
+4.   Institutions shall not use Common Equity Tier 1 capital that is maintained to meet the requirement under paragraph 3 to meet any requirements imposed under Article 92 of Regulation (EU) No 575/2013 and Articles 129 and 130 of this Directive and any requirements imposed under Articles 102 and 104 of this Directive. Where a group which has been identified as a systemically important institution which is subject to a G-SII buffer or an O-SII buffer on a consolidated basis in accordance with Article 131 is also subject to a systemic risk buffer on a consolidated basis in accordance with this Article, the higher of the buffers shall apply. Where an institution, on an individual or sub-consolidated basis, is subject to an O-SII buffer in accordance with Article 131 and a systemic risk buffer in accordance with this Article, the higher of the two shall apply.
+5.   Notwithstanding paragraph 4, where the systemic risk buffer applies to all exposures located in the Member State that sets that buffer to address the macroprudential risk of that Member State, but does not apply to exposures outside the Member State, that systemic risk buffer shall be cumulative with the O-SII or G-SII buffer that is applied in accordance with Article 131.
+6.   Where paragraph 4 applies and an institution is part of a group or a sub-group to which a G-SII or an O-SII belongs, this shall never imply that that institution is, on an individual basis, subject to a combined buffer requirement that is lower than the sum of the capital conservation buffer, the countercyclical capital buffer, and the higher of the O-SII buffer and systemic risk buffer applicable to it on an individual basis.
+7.   Where paragraph 5 applies and an institution is part of a group or a sub-group to which a G-SII or an O-SII belongs, this shall never imply that that institution is, on an individual basis, subject to a combined buffer requirement that is lower than the sum of the capital conservation buffer, the countercyclical capital buffer and the sum of the O-SII buffer and systemic risk buffer applicable to it on an individual basis.
+8.   The systemic risk buffer may apply to exposures located in the Member State that sets that buffer and may also apply to exposures in third countries. The systemic risk buffer may also apply to exposures located in other Member States, subject to paragraphs 15 and 18.
+9.   The systemic risk buffer shall apply to all institutions, or one or more subsets of those institutions, for which the authorities of the Member State concerned are competent in accordance with this Directive and shall be set in gradual or accelerated steps of adjustment of 0,5 percentage point. Different requirements may be introduced for different subsets of the sector.
+10.   When requiring a systemic risk buffer to be maintained the competent authority or the designated authority shall comply with the following:
+(a)
+the systemic risk buffer must not entail disproportionate adverse effects on the whole or parts of the financial system of other Member States or of the Union as a whole forming or creating an obstacle to the functioning of the internal market;
+(b)
+the systemic risk buffer must be reviewed by the competent authority or the designated authority at least every second year.
+11.   Before setting or resetting a systemic risk buffer rate of up to 3 %, the competent authority or the designated authority shall notify the Commission, the ESRB, EBA and the competent and designated authorities of the Member States concerned one month before the publication of the decision referred to in paragraph 16. If the buffer applies to exposures located in third countries the competent authority or the designated authority shall also notify the supervisory authorities of those third-countries. That notification shall describe in detail:
+(a)
+the systemic or macroprudential risk in the Member State;
+(b)
+the reasons why the dimension of the systemic or macroprudential risks threatens the stability of the financial system at national level justifying the systemic risk buffer rate;
+(c)
+the justification for why the systemic risk buffer is considered likely to be effective and proportionate to mitigate the risk;
+(d)
+an assessment of the likely positive or negative impact of the systemic risk buffer on the internal market, based on information which is available to the Member State;
+(e)
+the justification for why none of the existing measures in this Directive or in Regulation (EU) No 575/2013, excluding Articles 458 and 459 of that Regulation, alone or in combination, will be sufficient to address the identified macroprudential or systemic risk taking into account the relative effectiveness of those measures;
+(f)
+the systemic risk buffer rate that the Member State wishes to require.
+12.   Before setting or resetting a systemic risk buffer rate of above 3 %, the competent authority or the designated authority shall notify the Commission, the ESRB, EBA and the competent and designated authorities of the Member States concerned. If the buffer applies to exposures located in third-countries the competent authority or the designated authority shall also notify the supervisory authorities of those third-countries. That notification shall describe in detail:
+(a)
+the systemic or macroprudential risk in the Member State;
+(b)
+the reasons why the dimension of the systemic or macroprudential risks threatens the stability of the financial system at national level justifying the systemic risk buffer rate;
+(c)
+the justification for why the systemic risk buffer is considered likely to be effective and proportionate to mitigate the risk;
+(d)
+an assessment of the likely positive or negative impact of the systemic risk buffer on the internal market, based on information which is available to the Member State;
+(e)
+the justification for why none of the existing measures in this Directive or in Regulation (EU) No 575/2013, excluding Articles 458 and 459 of that Regulation, alone or in combination, will be sufficient to address the identified macroprudential or systemic risk taking into account the relative effectiveness of those measures;
+(f)
+the systemic risk buffer rate that the Member State wishes to require.
+13.   The competent authority or the designated authority may from 1 January 2015 set or reset a systemic risk buffer rate that applies to exposures located in that Member State and may also apply to exposures in third countries of up to 5 % and follow the procedures set out in paragraph 11. When setting or resetting a systemic risk buffer rate above 5 % the procedures set out in paragraph 12 shall be complied with.
+14.   Where the systemic risk buffer rate is to be set between 3 % and 5 % in accordance with paragraph 13, the competent authority or the designated authority of the Member State that sets that buffer shall always notify the Commission thereof and shall await the opinion of the Commission before adopting the measures in question.
+Where the opinion of the Commission is negative, the competent authority or the designated authority of the Member State that sets that buffer shall comply with that opinion or give reasons for not so doing.
+Where one subset of the financial sector is a subsidiary whose parent is established in another Member State, the competent authority or the designated authority shall notify the authorities of that Member State, the Commission and the ESRB. Within one month of the notification, the Commission and the ESRB shall issue a recommendation on the measures taken in accordance with this paragraph. Where the authorities disagree and in the case of a negative recommendation of both the Commission and the ESRB, the competent authority or the designated authority may refer the matter to EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. The decision to set the buffer for those exposures shall be suspended until EBA has taken a decision.
+15.   Within one month of the notification referred to in paragraph 12, the ESRB shall provide the Commission with an opinion as to whether the systemic risk buffer is deemed appropriate. EBA may also provide the Commission with its opinion on the buffer in accordance with Article 34(1) of Regulation (EU) No 1093/2010.
+Within two months of notification, the Commission, taking into account the assessment of the ESRB and EBA, if relevant, and if it is satisfied that the systemic risk buffer does not entail disproportionate adverse effects on the whole or parts of the financial system of other Member States or of the Union as a whole forming or creating an obstacle to the proper functioning of the internal market, shall adopt an implementing act authorising the competent authority or the designated authority to adopt the proposed measure.
+16.   Each competent authority or designated authority shall announce the setting of the systemic risk buffer by publication on an appropriate website. The announcement shall include at least the following information:
+(a)
+the systemic risk buffer rate;
+(b)
+the institutions to which the systemic risk buffer applies;
+(c)
+a justification for the systemic risk buffer;
+(d)
+the date from which the institutions must apply the setting or resetting of the systemic risk buffer; and
+(e)
+the names of the countries where exposures located in those countries are recognised in the systemic risk buffer.
+If the publication referred to in point (c) could jeopardise the stability of the financial system, the information under point (c) shall not be included in the announcement.
+17.   Where an institution fails to meet fully the requirement under paragraph 1 of this Article, it shall be subject to the restrictions on distributions set out in Article 141(2) and (3).
+Where the application of those restrictions on distributions leads to an unsatisfactory improvement of the Common Equity Tier 1 capital of the institution in the light of the relevant systemic risk, the competent authorities may take additional measures in accordance with Article 64.
+18.   Following notification as referred to in paragraph 11, Member States may apply the buffer to all exposures. Where the competent authority or the designated authority decides to set the buffer up to 3 % on the basis of exposures in other Member States, the buffer shall be set equally on all exposures located within the Union.

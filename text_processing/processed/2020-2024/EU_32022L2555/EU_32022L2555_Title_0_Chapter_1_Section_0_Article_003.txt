@@ -1,0 +1,37 @@
+Article 3
+Essential and important entities
+1.   For the purposes of this Directive, the following entities shall be considered to be essential entities:
+(a)
+entities of a type referred to in Annex I which exceed the ceilings for medium-sized enterprises provided for in Article 2(1) of the Annex to Recommendation 2003/361/EC;
+(b)
+qualified trust service providers and top-level domain name registries as well as DNS service providers, regardless of their size;
+(c)
+providers of public electronic communications networks or of publicly available electronic communications services which qualify as medium-sized enterprises under Article 2 of the Annex to Recommendation 2003/361/EC;
+(d)
+public administration entities referred to in Article 2(2), point (f)(i);
+(e)
+any other entities of a type referred to in Annex I or II that are identified by a Member State as essential entities pursuant to Article 2(2), points (b) to (e);
+(f)
+entities identified as critical entities under Directive (EU) 2022/2557, referred to in Article 2(3) of this Directive;
+(g)
+if the Member State so provides, entities which that Member State identified before 16 January 2023 as operators of essential services in accordance with Directive (EU) 2016/1148 or national law.
+2.   For the purposes of this Directive, entities of a type referred to in Annex I or II which do not qualify as essential entities pursuant to paragraph 1 of this Article shall be considered to be important entities. This includes entities identified by Member States as important entities pursuant to Article 2(2), points (b) to (e).
+3.   By 17 April 2025, Member States shall establish a list of essential and important entities as well as entities providing domain name registration services. Member States shall review and, where appropriate, update that list on a regular basis and at least every two years thereafter.
+4.   For the purpose of establishing the list referred to in paragraph 3, Member States shall require the entities referred to in that paragraph to submit at least the following information to the competent authorities:
+(a)
+the name of the entity;
+(b)
+the address and up-to-date contact details, including email addresses, IP ranges and telephone numbers;
+(c)
+where applicable, the relevant sector and subsector referred to in Annex I or II; and
+(d)
+where applicable, a list of the Member States where they provide services falling within the scope of this Directive.
+The entities referred to in paragraph 3 shall notify any changes to the details submitted pursuant to the first subparagraph of this paragraph without delay, and, in any event, within two weeks of the date of the change.
+The Commission, with the assistance of the European Union Agency for Cybersecurity (ENISA), shall without undue delay provide guidelines and templates regarding the obligations laid down in this paragraph.
+Member States may establish national mechanisms for entities to register themselves.
+5.   By 17 April 2025 and every two years thereafter, the competent authorities shall notify:
+(a)
+the Commission and the Cooperation Group of the number of essential and important entities listed pursuant to paragraph 3 for each sector and subsector referred to in Annex I or II; and
+(b)
+the Commission of relevant information about the number of essential and important entities identified pursuant to Article 2(2), points (b) to (e), the sector and subsector referred to in Annex I or II to which they belong, the type of service that they provide, and the provision, from among those laid down in Article 2(2), points (b) to (e), pursuant to which they were identified.
+6.   Until 17 April 2025 and upon request of the Commission, Member States may notify the Commission of the names of the essential and important entities referred to in paragraph 5, point (b).

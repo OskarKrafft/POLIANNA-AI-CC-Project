@@ -1,0 +1,6 @@
+Article 2
+Scope
+1. This Directive shall apply to electrical and electronic equipment falling under the categories set out in Annex IA provided that the equipment concerned is not part of another type of equipment that does not fall within the scope of this Directive. Annex IB contains a list of products which fall under the categories set out in Annex IA.
+2. This Directive shall apply without prejudice to Community legislation on safety and health requirements and specific Community waste management legislation.
+3. Equipment which is connected with the protection of the essential interests of the security of Member States, arms, munitions and war material shall be excluded from this Directive. This does not, however, apply to products which are not intended for specifically military purposes.
+

@@ -1,0 +1,38 @@
+Article 8
+Monitoring plan
+1.   By 31 August 2024, companies shall submit to the verifiers a monitoring plan for each of their ships indicating the method chosen from among methods set out in Annex I for monitoring and reporting the amount, type and emission factor of energy used on board by ships and other relevant information.
+2.   For ships falling under the scope of this Regulation for the first time after 31 August 2024, companies shall submit a monitoring plan to the verifier without undue delay and no later than two months after each ship’s first call at a port under the jurisdiction of a Member State.
+3.   The monitoring plan shall consist of a complete and transparent documentation and shall contain at least the following elements:
+(a)
+the identification and type of the ship, including its name, its International Maritime Organization (IMO) identification number, its port of registry or home port, and the name of the shipowner;
+(b)
+the name of the company and the address, telephone and e-mail details of a contact person;
+(c)
+a description of the energy conversion systems installed on board, and the related power capacity expressed in megawatt (MW);
+(d)
+for ships referred to in Article 6(4), point (b), a description of the standards and characteristics of the equipment to allow connection to OPS, or a zero-emission technology;
+(e)
+the value of the established total electrical power demand of the ship at berth, as provided in its electrical load balance or electrical load study used to demonstrate compliance with Regulations 40 and 41 of Chapter II-1 of the International Convention for the Safety of Life at Sea (SOLAS), as approved by its flag administration or a recognised organisation as defined in the IMO Code for Recognized Organizations adopted by resolutions MEPC.237(65) and MSC.349(92). If a ship is not able to provide that reference, the value considered is 25 % of the total of the maximum continuous ratings of the main engines of the ship as specified in their EIAPP certificate delivered in application of the International Convention for the Prevention of Pollution from Ships (MARPOL) or, if the engines are not required to have an EIAPP certificate, on the nameplate of the engines;
+(f)
+a description of the intended sources of energy to be used on board while in navigation and at berth to comply with the requirements set out in Articles 4 and 6;
+(g)
+a description of the procedures for monitoring the fuel consumption of the ship as well as the energy provided by substitute sources of energy or a zero-emission technology;
+(h)
+a description of the procedures for monitoring and reporting the well-to-tank and tank-to-wake emission factors of energy to be used on board, in accordance with the methods specified in Article 10 and Annexes I and II;
+(i)
+a description of the procedures used to monitor the completeness of the list of voyages;
+(j)
+a description of the procedures used for determining activity data per voyage, including the procedures, responsibilities, formulas and data sources for determining and recording the time spent at sea between the port of departure and the port of arrival and the time spent at berth;
+(k)
+a description of the procedures, systems and responsibilities used to update any of the data contained in the monitoring plan over the reporting period;
+(l)
+a description of the method to be used to determine surrogate data that can be used for closing data gaps or for identifying and correcting data errors;
+(m)
+a revision record sheet to record all details of the revision history;
+(n)
+where the company requests to exclude the additional energy used due to the ship’s ice class from the calculation of the compliance balance set out in Annex IV, information on the ice class of the ship;
+(o)
+where the company requests to exclude the additional energy used due to sailing in ice conditions from the calculation of the compliance balance set out in Annex IV, information on the ice class of the ship and a description of a verifiable procedure for monitoring the distance travelled for the whole voyage as well as the distance travelled when sailing in ice conditions, the date, time and position when entering and leaving the ice conditions and the fuel consumption when sailing in ice conditions;
+(p)
+for a ship equipped with wind-assisted propulsion, a description of the installed wind propulsion equipment on board and the values of PWind and PProp as defined in Annex I.
+4.   Companies shall use standardised monitoring plans based on templates. The Commission shall adopt implementing acts determining those templates, including the technical rules for their uniform application. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).

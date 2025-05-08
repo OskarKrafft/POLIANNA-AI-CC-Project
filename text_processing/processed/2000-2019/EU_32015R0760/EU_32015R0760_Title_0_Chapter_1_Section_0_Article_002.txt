@@ -1,0 +1,55 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘capital’ means aggregate capital contributions and uncalled committed capital, calculated on the basis of amounts investible after deduction of all fees, charges and expenses that are directly or indirectly borne by investors;
+(2)
+‘professional investor’ means an investor which is considered to be a professional client, or may, on request, be treated as a professional client in accordance with Annex II to Directive 2014/65/EU;
+(3)
+‘retail investor’ means an investor who is not a professional investor;
+(4)
+‘equity’ means ownership interest in a qualifying portfolio undertaking, represented by the shares or other forms of participation in the capital of the qualifying portfolio undertaking issued to its investors;
+(5)
+‘quasi-equity’ means any type of financing instrument where the return on the instrument is linked to the profit or loss of the qualifying portfolio undertaking and where the repayment of the instrument in the event of default is not fully secured;
+(6)
+‘real asset’ means an asset that has value due to its substance and properties and may provide returns, including infrastructure and other assets that give rise to economic or social benefit, such as education, counselling, research and development, and including commercial property or housing only where they are integral to, or an ancillary element of, a long-term investment project that contributes to the Union objective of smart, sustainable and inclusive growth;
+(7)
+‘financial undertaking’ means any of the following:
+(a)
+a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (17);
+(b)
+an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
+(c)
+an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the Council (18);
+(d)
+a financial holding company as defined in point (20) of Article 4(1) of Regulation (EU) No 575/2013;
+(e)
+a mixed-activity holding company as defined in point (22) of Article 4(1) of Regulation (EU) No 575/2013;
+(f)
+a management company as defined in point (b) of Article 2(1) of Directive 2009/65/EC;
+(g)
+an AIFM as defined in point (b) of Article 4(1) of Directive 2011/61/EU.
+(8)
+‘EU AIF’ means EU AIF as defined in point (k) of Article 4(1) of Directive 2011/61/EU;
+(9)
+‘EU AIFM’ means EU AIFM as defined in point (l) of Article 4(1) of Directive 2011/61/EU;
+(10)
+‘competent authority of the ELTIF’ means the competent authority of the EU AIF within the meaning of point (h) of Article 4(1) of Directive 2011/61/EU;
+(11)
+‘home Member State of the ELTIF’ means the Member State where the ELTIF is authorised;
+(12)
+‘manager of the ELTIF’ means the authorised EU AIFM approved to manage an ELTIF, or the internally managed ELTIF where the legal form of the ELTIF permits internal management and where no external AIFM has been appointed;
+(13)
+‘competent authority of the manager of the ELTIF’ means the competent authority of the home Member State of the AIFM within the meaning of point (q) of Article 4(1) of Directive 2011/61/EU;
+(14)
+‘securities lending’ and ‘securities borrowing’ mean any transaction in which a counterparty transfers securities subject to a commitment that the borrower will return equivalent securities at some future date or when requested to do so by the transferor, that transaction being considered as securities lending for the counterparty transferring the securities and being considered as securities borrowing for the counterparty to which they are transferred;
+(15)
+‘repurchase transaction’ means a repurchase transaction as defined in point (83) of Article 4(1) of Regulation (EU) No 575/2013;
+(16)
+‘financial instrument’ means a financial instrument as specified in Section C of Annex I to Directive 2014/65/EU;
+(17)
+‘short selling’ means an activity as defined in point (b) of Article 2(1) of Regulation (EU) No 236/2012 of the European Parliament and of the Council (19);
+(18)
+‘regulated market’ means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
+(19)
+‘multilateral trading facility’ means a multilateral trading facility as defined in point (22) of Article 4(1) of Directive 2014/65/EU.

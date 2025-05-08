@@ -1,0 +1,9 @@
+Article 34
+Operational obligations of notified bodies, user inspectorates and recognised third party organisations
+1.   Notified bodies, user inspectorates and recognised third-party organisations shall carry out conformity assessments in accordance with the conformity assessment tasks provided for in Article 14, Article 15, Article 16, or in points 3.1.2 and 3.1.3 of Annex I.
+2.   Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators.
+Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the pressure equipment or assembly technology in question and the mass or serial nature of the production process.
+In so doing they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the pressure equipment with the requirements of this Directive.
+3.   Where a conformity assessment body finds that essential safety requirements set out in Annex I or corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
+4.   Where, in the course of the monitoring of conformity following the issue of a certificate, a conformity assessment body finds that pressure equipment no longer complies, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary.
+5.   Where corrective measures are not taken or do not have the required effect, the conformity assessment body shall restrict, suspend or withdraw any certificates, as appropriate.

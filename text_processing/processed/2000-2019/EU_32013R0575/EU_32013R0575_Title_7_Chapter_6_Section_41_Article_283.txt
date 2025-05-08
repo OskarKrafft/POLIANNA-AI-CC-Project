@@ -1,0 +1,21 @@
+Article 283
+Permission to use the Internal Model Method
+1.   Provided that the competent authorities are satisfied that the requirement in paragraph 2 have been met by an institution, they shall permit that institution to use the Internal Model Method (IMM) to calculate the exposure value for any of the following transactions:
+(a)
+transactions in Article 273(2)(a);
+(b)
+transactions in Article 273(2)(b), (c) and (d);
+(c)
+transactions in Article 273(2)(a) to (d),
+Where an institution is permitted to use the IMM to calculate exposure value for any of the transactions mentioned in points (a) to (c) of the first subparagraph, it may also use the IMM for the transactions in Article 273(2)(e).
+Notwithstanding the third subparagraph of Article 273(1), an institution may choose not to apply this method to exposures that are immaterial in size and risk. In such case, an institution shall apply one of the methods set out in Sections 3 to 5 to these exposures where the relevant requirements for each approach are met.
+2.   Competent authorities shall permit institutions to use IMM for the calculations referred to in paragraph 1 only if the institution has demonstrated that it complies with the requirements set out in this Section, and the competent authorities verified that the systems for the management of CCR maintained by the institution are sound and properly implemented.
+3.   The competent authorities may permit institutions for a limited period to implement the IMM sequentially across different transaction types. During this period of sequential implementation institutions may use the methods set out in Section 3 or Section 5 for transaction type for which they do not use the IMM.
+4.   For all OTC derivative transactions and for long settlement transactions for which an institution has not received permission under paragraph 1 to use the IMM, the institution shall use the methods set out in Section 3 or Section 5.
+Those methods may be used in combination on a permanent basis within a group. Within an institution those methods may be used in combination only where one of the methods is used for the cases set out in Article 282(6)
+5.   An institution which is permitted in accordance with paragraph 1 to use the IMM shall not revert to the use of the methods set out in Section 3 or Section 5 unless it is permitted by the competent authority to do so. Competent authorities shall give such permission if the institution demonstrates good cause.
+6.   If an institution ceases to comply with the requirements laid down in this Section, it shall notify the competent authority and do one of the following:
+(a)
+present to the competent authority a plan for a timely return to compliance;
+(b)
+demonstrate to the satisfaction of the competent authority that the effect of non-compliance is immaterial.

@@ -1,0 +1,32 @@
+Article 4
+On-board diagnostic systems
+1.   From 1 October 2005 for new type-approvals of vehicles and from 1 October 2006 for all type-approvals, a compression-ignition engine type-approved by reference to the emission limit values set out in row B1 or row C of the tables in Section 6.2.1 of Annex I or a vehicle propelled by such an engine shall be fitted with an on-board diagnostic (OBD) system that signals the presence of a fault to the driver if the OBD threshold limits set out in row B1 or row C of the table in paragraph 3 are exceeded.
+In the case of exhaust after-treatment systems, the OBD system may monitor for major functional failure any of the following:
+(a)
+a catalyst, where fitted as a separate unit, whether or not it is part of a deNOx system or a diesel particulate filter;
+(b)
+a deNOx system, where fitted;
+(c)
+a diesel particulate filter, where fitted;
+(d)
+a combined deNOx-diesel particulate filter system.
+2.   From 1 October 2008 for new type-approvals and from 1 October 2009 for all type-approvals, a compression-ignition or a gas engine type-approved by reference to the emission limit values set out in row B2 or row C of the tables in Section 6.2.1 of Annex I, or a vehicle propelled by such an engine shall be fitted with an OBD system that signals the presence of a fault to the driver if the OBD threshold limits set out in row B2 or row C of the table in paragraph 3 are exceeded.
+The OBD system shall also include an interface between the engine electronic control unit (EECU) and any other engine or vehicle electrical or electronic systems that provide an input to or receive an output from the EECU and which affect the correct functioning of the emission control system, such as the interface between the EECU and a transmission electronic control unit.
+3.   The OBD threshold limits shall be as follows:
+Row
+Compression-ignition engines
+Mass of oxides of nitrogen
+(NOx) g/kWh
+Mass of particulate
+(PT) g/kWh
+B1 (2005)
+7,0
+0,1
+B2 (2008)
+7,0
+0,1
+C (EEV)
+7,0
+0,1
+4.   Full and uniform access to OBD information must be provided for the purposes of testing, diagnosis, servicing and repair in keeping with the relevant provisions of Directive 70/220/EEC and provisions regarding replacement components ensuring compatibility with OBD systems.
+5.   The measures for the implementation of paragraphs 1, 2 and 3 shall be adopted by 28 December 2005 at the latest.

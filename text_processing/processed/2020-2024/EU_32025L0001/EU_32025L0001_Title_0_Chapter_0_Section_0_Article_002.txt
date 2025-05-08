@@ -1,0 +1,189 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘resolution’ means the application of a resolution tool or of a tool referred to in Article 26(7) in order to achieve one or more of the resolution objectives referred to in Article 18(2);
+(2)
+‘insurance undertaking’ means an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC;
+(3)
+‘reinsurance undertaking’ means a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC;
+(4)
+‘insurance holding company’ means an insurance holding company as defined in Article 212(1), point (f), of Directive 2009/138/EC;
+(5)
+‘mixed financial holding company’ means a mixed financial holding company as defined in Article 2, point (15), of Directive 2002/87/EC;
+(6)
+‘parent insurance holding company in a Member State’ means an insurance holding company which is established in a Member State and which is not a subsidiary undertaking of an insurance or reinsurance undertaking, insurance holding company or mixed financial holding company authorised or set up in the same Member State;
+(7)
+‘Union parent insurance holding company’ means a parent insurance holding company in a Member State which is not a subsidiary undertaking of an insurance or reinsurance undertaking, another insurance holding company or mixed financial holding company authorised or set up in any Member State;
+(8)
+‘parent mixed financial holding company in a Member State’ means a mixed financial holding company which is established in a Member State, and which is not itself a subsidiary undertaking of an insurance or reinsurance undertaking, an insurance holding company or mixed financial holding company authorised or set up in that same Member State;
+(9)
+‘Union parent mixed financial holding company’ means a parent mixed financial holding company in a Member State which is not a subsidiary undertaking of an undertaking authorised in any Member State or of another insurance holding company or mixed financial holding company set up in any Member State;
+(10)
+‘group’ means a group as defined in Article 212(1), point (c), of Directive 2009/138/EC;
+(11)
+‘resolution objectives’ means the resolution objectives referred to in Article 18(2);
+(12)
+‘resolution authority’ means an authority designated by a Member State in accordance with Article 3;
+(13)
+‘supervisory authority’ means a supervisory authority as defined in Article 13, point (10), of Directive 2009/138/EC;
+(14)
+‘resolution tool’ means a resolution tool referred to in Article 26(3);
+(15)
+‘resolution power’ means a power referred to in Articles 42 to 54;
+(16)
+‘competent ministries’ means finance ministries or other ministries of the Member States which are responsible for economic, financial and budgetary decisions at the national level according to national competencies and which have been designated in accordance with Article 3(7);
+(17)
+‘senior management’ means the person or persons who effectively run the undertaking and who are responsible, and accountable to the administrative, management or supervisory body, for the day-to-day management of the undertaking;
+(18)
+‘cross-border group’ means a group having group entities established in more than one Member State;
+(19)
+‘extraordinary public financial support’ means State aid within the meaning of Article 107(1) TFEU, or any other public financial support at supra-national level, which, if provided for at national level, would constitute State aid that is provided to preserve or restore the viability, liquidity or solvency of an entity referred to in Article 1(1), points (a) to (e), or of a group of which such an entity forms part;
+(20)
+‘group entity’ means a legal person that is part of a group;
+(21)
+‘group supervisor’ means a group supervisor as defined in Article 212(1), point (d), of Directive 2009/138/EC;
+(22)
+‘pre-emptive recovery plan’ means a pre-emptive recovery plan drawn up and maintained in accordance with Article 5;
+(23)
+‘group pre-emptive recovery plan’ means a group pre-emptive recovery plan drawn up and maintained in accordance with Article 7;
+(24)
+‘significant cross-border activities’ means significant cross-border activities as defined in Article 152aa(1) of Directive 2009/138/EC;
+(25)
+‘critical functions’ means activities, services or operations performed by an insurance or reinsurance undertaking for third parties that cannot be substituted within a reasonable time or at a reasonable cost, and where the inability of the insurance or reinsurance undertaking to perform the activities, services or operations would be likely to have a significant impact on the financial system or the real economy in one or more Member States including, in particular, the impact resulting from effects on the social welfare of a large number of policy holders, beneficiaries or injured parties or from a systemic disruption or a loss of general confidence in the provision of insurance services;
+(26)
+‘core business lines’ means business lines and associated services which represent material sources of revenue, profit or franchise value for an insurance or reinsurance undertaking or for a group of which an insurance or reinsurance undertaking forms part;
+(27)
+‘financing arrangement’ means an arrangement established by a Member State in accordance with Article 81 to ensure the effective application by the resolution authority of the resolution tools and the effective exercise of the resolution powers;
+(28)
+‘own funds’ means own funds as provided for by Article 87 of Directive 2009/138/EC;
+(29)
+‘resolution action’ means a decision to place any entity as referred to in Article 1(1), points (a) to (e), under resolution pursuant to Article 19 or 20, the application of a resolution tool or the exercise of one or more resolution powers;
+(30)
+‘resolution plan’ means a resolution plan for an insurance or reinsurance undertaking drawn up in accordance with Article 9;
+(31)
+‘group resolution’ means either of the following:
+(a)
+the taking of resolution action at the level of a parent undertaking or of an insurance or reinsurance undertaking subject to group supervision, or
+(b)
+the coordination of the application of the resolution tools and the exercise of the resolution powers by resolution authorities in relation to group entities;
+(32)
+‘group resolution plan’ means a plan for group resolution drawn up in accordance with Articles 10 and 11;
+(33)
+‘group-level resolution authority’ means the resolution authority in the Member State in which the group supervisor is situated;
+(34)
+‘group resolution scheme’ means a plan drawn up for the purposes of group resolution in accordance with Article 73;
+(35)
+‘resolution college’ means a college established in accordance with Article 70;
+(36)
+‘European resolution college’ means a college established in accordance with Article 71;
+(37)
+‘mixed-activity insurance holding company’ means a mixed-activity insurance holding company as defined in Article 212(1), point (g), of Directive 2009/138/EC;
+(38)
+‘normal insolvency proceedings’ means collective insolvency proceedings which entail the partial or total divestment of a debtor and the appointment of a liquidator or an administrator normally applicable to insurance and reinsurance undertakings under national law and either specific to those undertakings or generally applicable to any natural or legal person;
+(39)
+‘debt instruments’ means bonds and other forms of transferrable debt, instruments creating or acknowledging a debt, and instruments giving rights to acquire debt instruments;
+(40)
+‘insurance claim’ means an insurance claim as defined in Article 268(1), point (g), of Directive 2009/138/EC;
+(41)
+‘parent undertaking’ means a parent undertaking as defined in Article 13, point (15), of Directive 2009/138/EC;
+(42)
+‘Union State aid framework’ means the framework established by Articles 107, 108 and 109 TFEU and regulations and all Union acts, including guidelines, communications and notices, made or adopted pursuant to Article 108(4) or Article 109 TFEU;
+(43)
+‘winding-up’ means the realisation of assets of an entity referred to in Article 1(1), points (a) to (e);
+(44)
+‘asset and liability separation tool’ means the mechanism for effecting a transfer by a resolution authority of assets, rights or liabilities of an undertaking under resolution to an asset and liability management vehicle in accordance with Article 30;
+(45)
+‘asset and liability management vehicle’ means a legal person that meets the requirements laid down in Article 30(2);
+(46)
+‘write-down or conversion tool’ means the mechanism for effecting the exercise by a resolution authority of the write-down or conversion powers in relation to liabilities of an undertaking under resolution in accordance with Article 35;
+(47)
+‘sale-of-business tool’ means the mechanism for effecting a transfer by a resolution authority of shares or other instruments of ownership issued by an undertaking under resolution, or assets, rights or liabilities, of an undertaking under resolution to a purchaser that is not a bridge undertaking, in accordance with Article 31;
+(48)
+‘bridge undertaking’ means a legal person that meets the requirements laid down in Article 32(2);
+(49)
+‘bridge undertaking tool’ means the mechanism for transferring shares or other instruments of ownership issued by an undertaking under resolution or assets, rights or liabilities of an undertaking under resolution to a bridge undertaking, in accordance with Article 32;
+(50)
+‘solvent run-off tool’ means the mechanism for prohibiting an undertaking under resolution to conclude new insurance or reinsurance contracts and for limiting its activity to the exclusive administration of its existing portfolio until termination of its activities and winding-up under normal insolvency proceedings in accordance with Article 27;
+(51)
+‘instruments of ownership’ means shares, other instruments that confer ownership, instruments that are convertible into or give the right to acquire shares or other instruments of ownership, and instruments representing interests in shares or other instruments of ownership;
+(52)
+‘shareholder’ means a holder of instruments of ownership;
+(53)
+‘transfer powers’ means the powers specified in Article 42(1), point (e) or (f), to transfer shares, other instruments of ownership, debt instruments, assets, rights or liabilities, or any combination of those items from an undertaking under resolution to a recipient;
+(54)
+‘central counterparty’ (CCP) means a CCP as defined in Article 2, point (1), of Regulation (EU) No 648/2012 of the European Parliament and of the Council (14);
+(55)
+‘derivative’ means a derivative as defined in Article 2, point (5), of Regulation (EU) No 648/2012;
+(56)
+‘write-down or conversion powers’ means the powers referred to in Article 35(2) and in Article 42(1), points (g) to (k);
+(57)
+‘secured liability’ means a liability where the right of the creditor to payment or other form of performance is secured by a charge, pledge or lien, or collateral arrangements including liabilities arising from repurchase transactions and other title transfer collateral arrangements;
+(58)
+‘Tier 1 instruments’ means basic own-fund items that meet the conditions laid down in Article 94(1) of Directive 2009/138/EC;
+(59)
+‘Tier 2 instruments’ means basic and ancillary own-fund items that meet the conditions laid down in Article 94(2) of Directive 2009/138/EC;
+(60)
+‘Tier 3 instruments’ means basic and ancillary own-fund items that meet the conditions laid down in Article 94(3) of Directive 2009/138/EC;
+(61)
+‘eligible liabilities’ means the liabilities and capital instruments that do not qualify as Tier 1, Tier 2 or Tier 3 instruments of an entity referred to in Article 1(1), points (a) to (e), and that are not excluded from the scope of the write-down or conversion tool pursuant to Article 35(5) to (8);
+(62)
+‘insurance guarantee scheme’ means a scheme officially recognised by a Member State and financed through contributions from insurance or reinsurance undertakings or policy holders guaranteeing the payment of eligible insurance claims, in part or in full, to eligible policy holders, insured parties and beneficiaries, or ensuring the continuation of insurance policies where an insurance undertaking is unable or likely to become unable to fulfil its obligations and commitments resulting from its insurance contracts;
+(63)
+‘relevant capital instruments’ means Tier 1, Tier 2 or Tier 3 instruments;
+(64)
+‘conversion rate’ means the factor that determines the number of shares or other instruments of ownership into which a liability of a specific class will be converted, by reference either to a single instrument of the class in question or to a specified unit of value of a debt claim;
+(65)
+‘affected creditor’ means a creditor whose claim relates to a liability that is reduced or converted to shares or other instruments of ownership by the exercise of the write-down or conversion power pursuant to the use of the write-down or conversion tool;
+(66)
+‘recipient’ means the entity to which shares, other instruments of ownership, debt instruments, assets, rights or liabilities, or any combination of those items are transferred from an undertaking under resolution;
+(67)
+‘business day’ means a day other than a Saturday, a Sunday or a public holiday in the Member State concerned;
+(68)
+‘termination right’ means a right to terminate a contract, a right to accelerate, close out, set-off or net obligations or any similar provision that suspends, modifies or extinguishes an obligation of a party to the contract or a provision that prevents an obligation under the contract from arising that would otherwise arise;
+(69)
+‘undertaking under resolution’ means any of the entities referred to in Article 1(1), points (a) to (e), in respect of which a resolution action is taken;
+(70)
+‘ultimate parent undertaking’ means a parent undertaking in a Member State, of a group which is subject to group supervision in accordance with Article 213(2), point (a) or (b), of Directive 2009/138/EC, which is not a subsidiary undertaking of another insurance or reinsurance undertaking, an insurance holding company or a mixed financial holding company that is authorised and set up in any Member State;
+(71)
+‘third-country insurance or reinsurance undertaking’ means a third-country insurance undertaking or a third-country reinsurance undertaking as defined in Article 13, points (3) and (6), of Directive 2009/138/EC;
+(72)
+‘third-country resolution proceedings’ means an action under the law of a third country to manage the failure of a third-country insurance or reinsurance undertaking or a third-country parent undertaking that is comparable, in terms of objectives and anticipated results, to resolution actions under this Directive;
+(73)
+‘Union branch of a third-country undertaking’ means a branch located in a Member State of a third-country insurance or reinsurance undertaking;
+(74)
+‘relevant third-country authority’ means a third-country authority responsible for carrying out functions comparable to those of resolution authorities or supervisory authorities pursuant to this Directive;
+(75)
+‘title transfer financial collateral arrangement’ means a title transfer financial collateral arrangement as defined in Article 2(1), point (b), of Directive 2002/47/EC of the European Parliament and of the Council (15);
+(76)
+‘netting arrangement’ means an arrangement under which a number of claims or obligations can be converted into a single net claim, including closeout netting arrangements under which, on the occurrence of an enforcement event (however or wherever defined) the obligations of the parties are accelerated so as to become immediately due or are terminated, and in either case are converted into or replaced by a single net claim, including ‘close-out netting provisions’ as defined in Article 2(1), point (n)(i), of Directive 2002/47/EC and ‘netting’ as defined in Article 2, point (k), of Directive 98/26/EC;
+(77)
+‘set-off arrangement’ means an arrangement under which two or more claims or obligations owed between the undertaking under resolution and a counterparty can be set off against each other;
+(78)
+‘financial contracts’ means financial contracts as defined in Article 2(1), point (100), of Directive 2014/59/EU;
+(79)
+‘crisis prevention measure’ means the exercise of powers to direct an undertaking to address the deficiencies or impediments to recoverability under Article 6(5) of this Directive, the exercise of powers to address or remove impediments to resolvability under Article 15 or 16 of this Directive, the application of any measures under Article 137, Article 138(3) and (5), Article 139(3) and Article 140 of Directive 2009/138/EC and the application of a preventive measure under Article 141 of Directive 2009/138/EC;
+(80)
+‘crisis management measure’ means a resolution action, the appointment of a special manager under Article 44 or the appointment of a person under Article 54(1);
+(81)
+‘designated national macroprudential authority’ means the authority entrusted with the conduct of macroprudential policy referred to in Recommendation B1 of the Recommendation of the European Systemic Risk Board of 22 December 2011 on the macroprudential mandate of national authorities (ESRB/2011/3);
+(82)
+‘regulated market’ means a regulated market as defined in Article 4(1), point (21), of Directive 2014/65/EU of the European Parliament and of the Council (16).
+(83)
+‘credit institution’ means a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the Council (17);
+(84)
+‘investment firm’ means an investment firm as defined in Article 4(1), point (2), of Regulation (EU) No 575/2013;
+(85)
+‘small and non-complex undertaking’ means a small and non-complex undertaking as defined in Article 13, point (10a), of Directive 2009/138/EC;
+(86)
+‘essential service provider’ means an entity that provides goods or services, such as IT services, utilities and the rental, servicing and upkeep of premises, that are needed to maintain the continuous functioning of the operations of an insurance or reinsurance undertaking, or are needed for ensuring the continuity of insurance coverage, and that is part of the same group as that undertaking;
+(87)
+‘subsidiary undertaking’ means a subsidiary undertaking as defined in Article 13, point (16), of Directive 2009/138/EC;
+(88)
+‘Union subsidiary undertaking’ means an insurance or reinsurance undertaking which has its head office in a Member State and which is a subsidiary undertaking of a third-country insurance or reinsurance undertaking or a third-country parent undertaking;
+(89)
+‘branch’ means a branch as defined in Article 13, point (11), of Directive 2009/138/EC;
+(90)
+‘administrative, management or supervisory body’ means an administrative, management or supervisory body as defined in Article 1, point (43), of Commission Delegated Regulation (EU) 2015/35 (18);
+(91)
+‘financial conglomerate’ means a financial conglomerate as defined in Article 2, point (14), of Directive 2002/87/EC.

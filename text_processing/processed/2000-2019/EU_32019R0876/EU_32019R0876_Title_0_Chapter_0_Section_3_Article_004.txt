@@ -1,0 +1,36 @@
+Article 274
+Exposure value
+1.   An institution may calculate a single exposure value at netting set level for all the transactions covered by a contractual netting agreement where all the following conditions are met:
+(a)
+the netting agreement belongs to one of the types of contractual netting agreements referred to in Article 295;
+(b)
+the netting agreement has been recognised by competent authorities in accordance with Article 296;
+(c)
+the institution has fulfilled the obligations laid down in Article 297 in respect of the netting agreement.
+Where any of the conditions set out in the first subparagraph are not met, the institution shall treat each transaction as if it was its own netting set.
+2.   Institutions shall calculate the exposure value of a netting set under the standardised approach for counterparty credit risk as follows:
+ 
+Exposure value = α · (RC + PFE)
+where:
+RC
+=
+the replacement cost calculated in accordance with Article 275; and
+PFE
+=
+the potential future exposure calculated in accordance with Article 278;
+α
+=
+1,4.
+3.   The exposure value of a netting set that is subject to a contractual margin agreement shall be capped at the exposure value of the same netting set not subject to any form of margin agreement.
+4.   Where multiple margin agreements apply to the same netting set, institutions shall allocate each margin agreement to the group of transactions in the netting set to which that margin agreement contractually applies to and calculate an exposure value separately for each of those grouped transactions.
+5.   Institutions may set to zero the exposure value of a netting set that satisfies all the following conditions:
+(a)
+the netting set is solely composed of sold options;
+(b)
+the current market value of the netting set is at all times negative;
+(c)
+the premium of all the options included in the netting set has been received upfront by the institution to guarantee the performance of the contracts;
+(d)
+the netting set is not subject to any margin agreement.
+6.   In a netting set, institutions shall replace a transaction which is a finite linear combination of bought or sold call or put options with all the single options that form that linear combination, taken as an individual transaction, for the purpose of calculating the exposure value of the netting set in accordance with this Section. Each such combination of options shall be treated as an individual transaction in the netting set in which the combination is included for the purpose of calculating the exposure value.
+7.   The exposure value of a credit derivative transaction representing a long position in the underlying may be capped to the amount of outstanding unpaid premium provided it is treated as its own netting set that is not subject to a margin agreement.

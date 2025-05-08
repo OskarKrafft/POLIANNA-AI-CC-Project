@@ -1,0 +1,8 @@
+Article 65
+GOVSATCOM users
+1.   The following entities may be GOVSATCOM users provided that they are entrusted with tasks relating to the supervision and management of emergency and security-critical missions, operations and infrastructures:
+(a)
+a Union or Member State public authority or a body entrusted with the exercise of such public authority;
+(b)
+a natural or legal person acting on behalf of and under the control of an entity referred to under point (a) of this paragraph.
+2.   GOVSATCOM users referred to in paragraph 1 of this Article shall be duly authorised by a GOVSATCOM participant referred to in Article 68 to use GOVSATCOM capacities and services and shall comply with the general security requirements referred to in Article 34(2), defined for GOVSATCOM.

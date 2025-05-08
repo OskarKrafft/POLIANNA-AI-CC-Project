@@ -1,0 +1,4 @@
+Article 62
+Obligations with regard to holders of several type-approvals
+1.   The manufacturer responsible for the respective type-approval of a system, component or separate technical unit or for a particular stage of a vehicle shall be responsible, in the event of a mixed type-approval, a step-by-step type-approval or a multi-stage type-approval, for communicating to both the final manufacturer and the independent operators the repair and maintenance information relating to the particular system, component or separate technical unit or to the particular stage.
+2.   In the case of multi-stage type-approval, the final manufacturer shall be responsible for providing access to vehicle OBD information and vehicle repair and maintenance information regarding its own manufacturing stage or stages and the link to the previous stage or stages.

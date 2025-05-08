@@ -1,0 +1,42 @@
+Article 3
+Definitions
+For the purpose of this Directive
+(a) "Relevant international instruments" means the following instruments:
+- MARPOL means the International Convention for the Prevention of Pollution from Ships, 1973 and the 1978 Protocol thereto;
+- SOLAS means the International Convention for the Safety of Life at Sea, together with the protocols and amendments thereto;
+- the International Convention on Tonnage Measurement of Ships, 1969;
+- the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969 and its 1973 Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil;
+- SAR Convention means the International Convention on Maritime Search and Rescue, 1979;
+- ISM Code means the International Safety Management Code;
+- IMDG Code means the International Maritime Dangerous Goods Code;
+- IBC Code means the IMO International Code for the construction and equipment of ships carrying dangerous chemicals in bulk;
+- IGC Code means the IMO International Code for the construction and equipment of ships carrying liquefied gases in bulk;
+- BC Code means the IMO Code of Safe Practice for Solid Bulk Cargoes;
+- INF Code means the IMO Code for the Safe Carriage of Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes in Flasks on board Ships;
+- IMO Resolution A.851(20) means International Maritime Organisation Resolution 851(20) entitled "General principles for ship reporting systems and ship reporting requirements, including guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants";
+(b) "operator" means the owner or manager of a ship;
+(c) "agent" means any person mandated or authorised to supply information on behalf of the operator of the ship;
+(d) "shipper" means any person by whom or in whose name or on whose behalf a contract of carriage of goods has been concluded with a carrier;
+(e) "company" means a company within the meaning of Regulation 1(2) of Chapter IX of the SOLAS Convention;
+(f) "ship" means any sea-going vessel or craft;
+(g) "dangerous goods" means:
+- goods classified in the IMDG Code,
+- dangerous liquid substances listed in Chapter 17 of the IBC Code,
+- liquefied gases listed in Chapter 19 of the IGC Code,
+- solids referred to in Appendix B of the BC Code.
+Also included are goods for the carriage of which appropriate preconditions have been laid down in accordance with paragraph 1.1.3 of the IBC Code or paragraph 1.1.6 of the IGC Code;
+(h) "polluting goods" means:
+- oils as defined in Annex I to the MARPOL Convention,
+- noxious liquid substances as defined in Annex II to the MARPOL Convention,
+- harmful substances as defined in Annex III to the MARPOL Convention;
+(i) "cargo transport unit" means a road freight vehicle, a railway freight wagon, a freight container, a road tank vehicle, a railway wagon, or portable tank;
+(j) "address" means the name and the communication links whereby contact may, where necessary, be made with the operator, agent, port authority, competent authority or any other authorised person or body in possession of detailed information regarding the ship's cargo;
+(k) "competent authorities" means the authorities and organisations designated by Member States to receive and pass on information reported pursuant to this Directive;
+(l) "port authority" means the competent authority or body designated by Member States for each port to receive and pass on information reported pursuant to this Directive;
+(m) "place of refuge" means a port, the part of a port or another protective berth or anchorage or any other sheltered area identified by a Member State for accommodating ships in distress;
+(n) "coastal station" means any of the following, designated by Member States pursuant to this Directive: a vessel traffic service; a shore-based installation responsible for a mandatory reporting system approved by the IMO; or a body responsible for coordinating search and rescue operations or operations to tackle pollution at sea;
+(o) "vessel traffic service (VTS)" means a service designed to improve the safety and efficiency of vessel traffic and to protect the environment, which has the capability to interact with the traffic and to respond to traffic situations developing in the VTS area;
+(p) "ship's routing system" means any system of one or more routes or routing measures aimed at reducing the risk of casualties; it includes traffic separation schemes, two-way routes, recommended tracks, areas to be avoided, inshore traffic zones, roundabouts, precautionary areas and deep-water routes;
+(q) "traditional ships" means all kinds of historical ships and their replicas including those designed to encourage and promote traditional skills and seamanship, that together serve as living cultural monuments, operated according to traditional principles of seamanship and technique;
+(r) "casualty" means a casualty within the meaning of the IMO Code for the investigation of marine casualties and incidents.
+

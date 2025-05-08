@@ -1,0 +1,33 @@
+Article 28
+Establishment and tasks of the European Semiconductor Board
+1.   The European Semiconductor Board is established.
+2.   The European Semiconductor Board shall provide the Commission with advice, assistance and recommendations pursuant to this Regulation and, in particular, by:
+(a)
+providing advice on the Initiative to the Public Authorities Board of the Chips Joint Undertaking;
+(b)
+providing advice to the Commission in the assessment of the applications for integrated production facilities and open EU foundries;
+(c)
+exchanging views with the Commission on the best ways to ensure, in accordance with Union and national law, effective protection and enforcement of IP rights, confidential information and trade secrets, with due involvement of stakeholders, in relation to the semiconductor sector;
+(d)
+discussing and preparing the identification of specific sectors and technologies with potential high social or environmental impact, or security significance, and therefore in need of certification as green, trusted and secure products;
+(e)
+addressing issues relating to strategic mapping, monitoring, alerting and preventive action and crisis response;
+(f)
+advising on the crisis stage tools under Articles 24 to 27;
+(g)
+providing advice and recommendations regarding the consistent implementation of this Regulation, facilitating cooperation among Member States and exchange of information on issues relating to this Regulation.
+3.   The European Semiconductor Board shall advise the Commission on matters concerning international cooperation related to semiconductors. To that end, it may consider stakeholders’ views, including those of the Industrial Alliance on Processors and Semiconductor Technologies. The European Semiconductor Board shall periodically discuss the following, and shall inform the Commission of the outcome of such discussions:
+(a)
+how to enhance cooperation along the global semiconductor value chain between the Union and third countries, taking into account existing international cooperation agreements with third countries;
+(b)
+which third countries could be prioritised for enhanced international cooperation related to semiconductors, considering:
+(i)
+complementarities and interdependencies along the semiconductor supply chain;
+(ii)
+the effect on semiconductor supply of trade policies, tariffs, export restrictions, trade barriers, as well as the effect of business closures, offshoring or acquisitions of Union key market actors by entities established in third countries on the basis of publicly available information;
+(iii)
+the potential contribution to security of supply, taking into account their production capacity of semiconductors, intermediate products and raw materials required to produce semiconductors or intermediate products;
+(iv)
+existing cooperation agreements between that third country and the Union.
+This paragraph shall be without prejudice to the prerogatives of the European Parliament and of the Council pursuant to the Treaties.
+4.   The European Semiconductor Board shall ensure coordination, cooperation and information exchange, where appropriate, with the relevant crisis response and crisis preparedness structures established under Union law.

@@ -1,0 +1,87 @@
+Article 52
+Additional Tier 1 instruments
+1.   Capital instruments shall qualify as Additional Tier 1 instruments only if the following conditions are met:
+(a)
+the instruments are issued and paid up;
+(b)
+the instruments are not purchased by any of the following:
+(i)
+the institution or its subsidiaries;
+(ii)
+an undertaking in which the institution has a participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+(c)
+the purchase of the instruments is not funded directly or indirectly by the institution;
+(d)
+the instruments rank below Tier 2 instruments in the event of the insolvency of the institution;
+(e)
+the instruments are not secured, or subject to a guarantee that enhances the seniority of the claims by any of the following:
+(i)
+the institution or its subsidiaries;
+(ii)
+the parent undertaking of the institution or its subsidiaries;
+(iii)
+the parent financial holding company or its subsidiaries;
+(iv)
+the mixed activity holding company or its subsidiaries;
+(v)
+the mixed financial holding company or its subsidiaries;
+(vi)
+any undertaking that has close links with entities referred to in points (i) to (v);
+(f)
+the instruments are not subject to any arrangement, contractual or otherwise, that enhances the seniority of the claim under the instruments in insolvency or liquidation;
+(g)
+the instruments are perpetual and the provisions governing them include no incentive for the institution to redeem them;
+(h)
+where the provisions governing the instruments include one or more call options, the option to call may be exercised at the sole discretion of the issuer;
+(i)
+the instruments may be called, redeemed or repurchased only where the conditions laid down in Article 77 are met, and not before five years after the date of issuance except where the conditions laid down in Article 78(4) are met;
+(j)
+the provisions governing the instruments do not indicate explicitly or implicitly that the instruments would or might be called, redeemed or repurchased and the institution does not otherwise provide such an indication, except in the following cases:
+(i)
+the liquidation of the institution;
+(ii)
+discretionary repurchases of the instruments or other discretionary means of reducing the amount of Additional Tier 1 capital, where the institution has received the prior permission of the competent authority in accordance with Article 77;
+(k)
+the institution does not indicate explicitly or implicitly that the competent authority would consent to a request to call, redeem or repurchase the instruments;
+(l)
+distributions under the instruments meet the following conditions:
+(i)
+they are paid out of distributable items;
+(ii)
+the level of distributions made on the instruments will not be amended on the basis of the credit standing of the institution or its parent undertaking;
+(iii)
+the provisions governing the instruments give the institution full discretion at all times to cancel the distributions on the instruments for an unlimited period and on a non-cumulative basis, and the institution may use such cancelled payments without restriction to meet its obligations as they fall due;
+(iv)
+cancellation of distributions does not constitute an event of default of the institution;
+(v)
+the cancellation of distributions imposes no restrictions on the institution;
+(m)
+the instruments do not contribute to a determination that the liabilities of an institution exceed its assets, where such a determination constitutes a test of insolvency under applicable national law;
+(n)
+the provisions governing the instruments require that, upon the occurrence of a trigger event, the principal amount of the instruments be written down on a permanent or temporary basis or the instruments be converted to Common Equity Tier 1 instruments;
+(o)
+the provisions governing the instruments include no feature that could hinder the recapitalisation of the institution;
+(p)
+where the instruments are not issued directly by an institution, both the following conditions shall be met:
+(i)
+the instruments are issued through an entity within the consolidation pursuant to Chapter 2 of Title II of Part One;
+(ii)
+the proceeds are immediately available to the institution without limitation and in a form that satisfies the conditions laid down in this paragraph.
+The condition set out in point (d) of the first subparagraph shall be deemed to be met notwithstanding the instruments are included in Additional Tier 1 or Tier 2 by virtue of Article 484(3), provided that they rank pari passu.
+2.   EBA shall develop draft regulatory technical standards to specify all the following:
+(a)
+the form and nature of incentives to redeem;
+(b)
+the nature of any write up of the principal amount of an Additional Tier 1 instrument following a write down of its principal amount on a temporary basis;
+(c)
+the procedures and timing for the following:
+(i)
+determining that a trigger event has occurred;
+(ii)
+writing up the principal amount of an Additional Tier 1 instrument following a write down of its principal amount on a temporary basis;
+(d)
+features of instruments that could hinder the recapitalisation of the institution;
+(e)
+the use of special purposes entities for indirect issuance of own funds instruments.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

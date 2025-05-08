@@ -1,0 +1,12 @@
+Article 62
+Partial transfers: protection of trading, clearing and settlement systems
+1.   Member States shall ensure that the application of a resolution tool does not affect the operation of systems and rules of systems covered by Directive 98/26/EC, where the resolution authority does either of the following:
+(a)
+transfers some, but not all of the assets, rights or liabilities of an undertaking under resolution to another entity;
+(b)
+uses the ancillary powers referred to in Article 43 to cancel or amend the terms of a contract to which the undertaking under resolution is a party or to substitute a recipient as a party.
+2.   A transfer, cancellation or amendment as referred to in paragraph 1 of this Article shall not:
+(a)
+revoke a transfer order in contravention of Article 5 of Directive 98/26/EC;
+(b)
+modify or negate the enforceability of transfer orders and netting as required by Articles 3 and 5 of Directive 98/26/EC, the use of funds, securities or credit facilities as required by Article 4 of that Directive or the protection of collateral security as required by Article 9 of that Directive.

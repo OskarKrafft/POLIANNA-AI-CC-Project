@@ -1,0 +1,8 @@
+Article 14
+Computerised exchange of data between Member States
+Member States shall cooperate to ensure the interconnection and interoperability of the national systems used to manage the information indicated in Annex I.
+Communication systems set up pursuant to the first subparagraph must display the following features:
+(a) data exchange must be electronic and enable messages notified in accordance with Article 13 to be received and processed;
+(b) the system must allow information to be transmitted 24 hours a day;
+(c) each Member State must be able, upon request, to send information on the ship and the dangerous or polluting goods on board without delay to the competent authority of another Member State.
+

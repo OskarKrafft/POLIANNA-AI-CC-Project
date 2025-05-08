@@ -1,0 +1,29 @@
+Article 2
+Definitions
+For the purpose of this Regulation, in addition to the definitions provided for in Directives 2009/28/EC, 2009/72/EC and 2009/73/EC, Regulations (EC) No 713/2009, (EC) No 714/2009, and (EC) No 715/2009, the following definitions shall apply:
+(1)
+‘energy infrastructure’ means any physical equipment or facility falling under the energy infrastructure categories which is located within the Union or linking the Union and one or more third countries;
+(2)
+‘comprehensive decision’ means the decision or set of decisions taken by a Member State authority or authorities not including courts or tribunals, that determines whether or not a project promoter is to be granted authorisation to build the energy infrastructure to realise a project without prejudice to any decision taken in the context of an administrative appeal procedure;
+(3)
+‘project’ means one or several lines, pipelines, facilities, equipments or installations falling under the energy infrastructure categories;
+(4)
+‘project of common interest’ means a project necessary to implement the energy infrastructure priority corridors and areas set out in Annex I and which is part of the Union list of projects of common interest referred to in Article 3;
+(5)
+‘energy infrastructure bottleneck’ means limitation of physical flows in an energy system due to insufficient transmission capacity, which includes inter alia the absence of infrastructure;
+(6)
+‘project promoter’ means one of the following:
+(a)
+a TSO, distribution system operator or other operator or investor developing a project of common interest;
+(b)
+where there are several TSOs, distribution system operators, other operators, investors, or any group thereof, the entity with legal personality under the applicable national law, which has been designated by contractual arrangement between them and which has the capacity to undertake legal obligations and assume financial liability on behalf of the parties to the contractual arrangement;
+(7)
+‘smart grid’ means an electricity network that can integrate in a cost efficient manner the behaviour and actions of all users connected to it, including generators, consumers and those that both generate and consume, in order to ensure an economically efficient and sustainable power system with low losses and high levels of quality, security of supply and safety;
+(8)
+‘works’ means the purchase, supply and deployment of components, systems and services including software, the carrying out of development and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;
+(9)
+‘studies’ means activities needed to prepare project implementation, such as preparatory, feasibility, evaluation, testing and validation studies, including software, and any other technical support measure including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;
+(10)
+‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 35(1) of Directive 2009/72/EC or Article 39(1) of Directive 2009/73/EC;
+(11)
+‘commissioning’ means the process of bringing a project into operation once it has been constructed.

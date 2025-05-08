@@ -1,0 +1,15 @@
+Article 6
+Identification of critical entities
+1.   By 17 July 2026, each Member State shall identify the critical entities for the sectors and subsectors set out in the Annex.
+2.   When a Member State identifies critical entities pursuant to paragraph 1, it shall take into account the outcomes of its Member State risk assessment and its strategy and shall apply all of the following criteria:
+(a)
+the entity provides one or more essential services;
+(b)
+the entity operates, and its critical infrastructure is located, on the territory of that Member State; and
+(c)
+an incident would have significant disruptive effects, as determined in accordance with Article 7(1), on the provision by the entity of one or more essential services or on the provision of other essential services in the sectors set out in the Annex that depend on that or those essential services.
+3.   Each Member State shall establish a list of the critical entities identified pursuant to paragraph 2 and ensure that those critical entities are notified that they have been identified as critical entities within one month of that identification. Member States shall inform those critical entities of their obligations under Chapters III and IV and the date from which those obligations apply to them, without prejudice to Article 8. Member States shall inform critical entities in the sectors set out in points 3, 4 and 8 of the table in the Annex that they have no obligations under Chapters III and IV, unless national measures provide otherwise.
+For the critical entities concerned, Chapter III shall apply from 10 months after the date of the notification referred to in the first subparagraph of this paragraph.
+4.   Member States shall ensure that their competent authorities under this Directive notify the competent authorities under Directive (EU) 2022/2555 of the identity of the critical entities that they have identified under this Article within one month of that identification. That notification shall specify, where applicable, that the critical entities concerned are entities in the sectors set out in points 3, 4 and 8 of the table in the Annex to this Directive and have no obligations under Chapters III and IV thereof.
+5.   Member States shall, where necessary and in any event at least every four years, review and, where appropriate, update the list of identified critical entities referred to in paragraph 3. Where those updates lead to the identification of additional critical entities, paragraphs 3 and 4 shall apply to those additional critical entities. In addition, Member States shall ensure that entities that are no longer identified as critical entities following any such update are notified in due time of that fact and the fact that they are no longer subject to the obligations under Chapter III from the date of receipt of that notification.
+6.   The Commission shall, in cooperation with the Member States, develop recommendations and non-binding guidelines to support Member States in identifying critical entities.

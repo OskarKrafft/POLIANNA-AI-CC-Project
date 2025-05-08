@@ -1,0 +1,138 @@
+Article 78
+Duties and powers of the regulatory authority
+1.   The regulatory authority shall have the following duties:
+(a)
+fixing or approving, in accordance with transparent criteria, transmission, or distribution tariffs or their methodologies, or both;
+(b)
+approving the joint scenarios for the ten-year network development plans in accordance with Article 55(2), point (f), where such approval is provided for by the Member State;
+(c)
+fixing or approving, in accordance with transparent criteria, tariffs for hydrogen network access or their methodologies, or both, without prejudice to Member States’ decisions pursuant to Article 35(4);
+(d)
+fixing or approving, in accordance with transparent criteria:
+(i)
+the size and duration of the dedicated charge and financial transfer or their methodologies, or both;
+(ii)
+the value of transferred assets and the destination of any profits and losses that may occur as a result; and
+(iii)
+the allocation of contributions to the dedicated charge;
+(e)
+ensuring compliance of transmission system operators and distribution system operators and, where relevant, system owners, as well as hydrogen network operators, any natural gas and hydrogen undertaking and other market participants with their obligations under this Directive and Regulation (EU) 2024/1789, the network codes and guidelines adopted pursuant to Articles 70, 71 and 72 of Regulation (EU) 2024/1789, Regulation (EU) 2017/1938 and other relevant Union law, including as regards cross-border issues, as well as ACER’s decisions;
+(f)
+in close coordination with the other regulatory authorities, ensuring the compliance of the ENTSO for Gas, the European entity for distribution system operators (the ‘EU DSO entity’) set up in accordance with Articles 52 to 57 of Regulation (EU) 2019/943 and the European Network of Network Operators for Hydrogen (the ‘ENNOH’) set out in accordance with Article 57 of Regulation (EU) 2024/1789 with their obligations under this Directive and Regulation (EU) 2024/1789, the network codes and guidelines adopted pursuant to Articles 70 to 74 of Regulation (EU) 2024/1789, and other relevant Union law, including as regards cross-border issues, as well as with ACER’s decisions, and jointly identifying non-compliance of the ENTSO for Gas, the EU DSO entity and the ENNOH with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, referring the matter to ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942;
+(g)
+monitoring the development of gas qualities and gas quality management by transmission system operators and where relevant by distribution system operators, including monitoring the development of costs related to the management of gas quality by system operators and the developments related to the blending and deblending of hydrogen into the natural gas system, by natural gas storage system operators and by LNG facility operators and, where a Member State has mandated another competent authority to collect information, that competent authority shall share the information with the regulatory authority;
+(h)
+monitoring the development of hydrogen quality and hydrogen quality management by hydrogen network operators where relevant as referred to in Article 50, including monitoring the development of costs related to the management of hydrogen quality;
+(i)
+taking into account the examination and assessment of the plans of the development of the hydrogen transport infrastructure submitted by hydrogen network operators pursuant to Articles 55 and 56 of this Directive when it approves the dedicated charges within the meaning of Article 5 of Regulation (EU) 2024/1789;
+(j)
+cooperating with regard to cross-border issues with the regulatory authority or authorities of the Member States concerned and with ACER, in particular through participation in the work of ACER’s Board of Regulators pursuant to Article 21 of Regulation (EU) 2019/942. In respect of infrastructure to and from a third country, the regulatory authority of the Member State where the first interconnection point with the Member States’ network is located may cooperate with the relevant authorities of the third country, including those of the Energy Community Contracting Parties, after consulting the regulatory authorities of other Member States concerned, with the aim of, as regards that infrastructure, consistent application of this Directive in the territory of the Member States;
+(k)
+complying with, and implementing, any relevant legally binding decisions of ACER and of the Commission;
+(l)
+reporting annually on its activity and the fulfilment of its duties to the relevant authorities of the Member States, ACER and the Commission, covering the steps taken and the results obtained as regards each of the tasks listed in this Article;
+(m)
+ensuring that there are no cross-subsidies between transmission, distribution, hydrogen transport, natural gas and hydrogen storage, LNG and hydrogen terminals and natural gas and hydrogen supply activities, without prejudice to Article 5(2) of Regulation (EU) 2024/1789;
+(n)
+monitoring investment plans of the transmission system operators and hydrogen transmission network operators, providing in its annual report an assessment of the investment plans of the transmission system operators and hydrogen transmission network operators as regards their consistency with the Union-wide network development plans referred to in Articles 32 and 60 of Regulation (EU) 2024/1789, and including in those assessments recommendations to amend those investment plans;
+(o)
+monitoring compliance with and reviewing the past performance of network security and reliability rules and setting or approving standards and requirements for quality of service and supply or contributing thereto together with other competent authorities;
+(p)
+monitoring the level of transparency, including of wholesale prices, and ensuring compliance of natural gas and hydrogen undertakings with transparency obligations;
+(q)
+monitoring the level and effectiveness of market opening and competition at wholesale and retail levels, including on natural gas and hydrogen exchanges, prices for household customers including prepayment systems, transparency of offers, price spikes and their impact on wholesale and consumer prices, the relationship between household prices and wholesale prices, switching rates, disconnection rates, charges for and the execution of maintenance services, complaints by household customers, and any distortion or restriction of competition, including providing any relevant information, and bringing any relevant cases to the attention of the relevant competition authorities, in particular with regard to vulnerable customers and customers who are affected by energy poverty;
+(r)
+monitoring the occurrence of restrictive contractual practices, including exclusivity clauses, which may prevent large non-household customers from contracting simultaneously with more than one supplier or restrict their choice to do so, and, where appropriate, informing the national competition authorities of such practices;
+(s)
+respecting contractual freedom with regard to long-term contracts provided that they comply with Union law, are consistent with Union policies and contribute to decarbonisation objectives, provided that no long-term contracts for supply of unabated fossil gas are concluded with a duration beyond 31 December 2049;
+(t)
+monitoring the time taken by natural gas transmission and distribution system operators or hydrogen network operators to make connections and repairs, including network connection requests by biomethane production facilities;
+(u)
+monitoring and reviewing the access conditions to natural gas storage, linepack and other ancillary services as provided for in Article 33 or 37, excluding, in the event that the access regime to natural gas storage is established pursuant to Article 33(3), the reviewing of tariffs;
+(v)
+helping to ensure, together with other relevant authorities, that the consumer protection measures, including those set out in Annex I, are effective and enforced, and, in particular, assessing the existence of barriers for customers to exercise their rights such as switching, termination of contract, and access to out-of-court dispute settlement mechanisms;
+(w)
+publishing recommendations, at least annually, in relation to compliance of supply prices with Article 7, and providing those to the competition authorities, where appropriate;
+(x)
+ensuring non-discriminatory access to customer consumption data, the provision for optional use of an easily understandable harmonised format at national level for consumption data and prompt access for all customers to such data pursuant to Articles 23 and 24;
+(y)
+monitoring the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, hydrogen network operators, suppliers and customers and other market participants pursuant to Regulation (EU) 2024/1789;
+(z)
+monitoring the correct application of the criteria that determine whether a natural gas storage facility falls under Article 33(3) or (4);
+(aa)
+monitoring the implementation of safeguards measures as referred to in Article 83;
+(bb)
+contributing to the compatibility of data exchange processes for the most important market processes at regional level;
+(cc)
+implementing the network codes and guidelines adopted pursuant to Articles 70 to 74 of Regulation (EU) 2024/1789 through national measures or, where so required, coordinated regional or Union-wide measures;
+(dd)
+ensuring an open, transparent, efficient and inclusive process for the setting up of the national ten-year network development plan in line with the requirements set out in Article 55, of the hydrogen distribution network development plan in line with the requirements set out in Article 56 and, where relevant, of the network decommissioning plan in line with the requirements set out in Article 57;
+(ee)
+approving and amending the network development plans referred to in Article 55 and, where relevant, in Article 57;
+(ff)
+examining and, where applicable, requiring amendments to the hydrogen distribution network development plan referred to in Article 56(4), where such a task is provided for by the Member State pursuant to paragraph 6 of that Article;;
+(gg)
+setting up guidelines as referred to in Article 57(6) providing criteria and methodologies for a structural approach to the decommissioning of parts of the natural gas distribution network taking into account costs of decommissioning and the specific case of those assets that might require decommissioning before their originally projected life cycle and providing guidance as regards tariff setting in such cases;
+(hh)
+monitoring the availability of comparison websites, including comparison tools that fulfil the criteria in Article 14;
+(ii)
+monitoring the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated renewable natural gas;
+(jj)
+carrying out any other duties conferred on the regulatory authority pursuant to this Directive and Regulation (EU) 2024/1789.
+2.   Where a Member State has so provided, the monitoring duties set out in paragraph 1 may be carried out by other authorities than the regulatory authority. In such a case, the information resulting from such monitoring shall be made available to the regulatory authority as soon as possible.
+While preserving their independence, without prejudice to their own specific competencies and consistent with the principles of better regulation, the regulatory authority shall, as appropriate, consult natural gas transmission system and hydrogen network operators and, as appropriate, closely cooperate with other relevant national authorities when carrying out the duties set out in paragraph 1.
+Any approvals given by a regulatory authority or ACER under this Directive are without prejudice to any duly justified future use of its powers by the regulatory authority under this Article or to any penalties imposed by other relevant authorities or the Commission.
+3.   In addition to the duties conferred on it pursuant to paragraph 1 of this Article, where an independent system operator or an independent hydrogen transmission network operator has been designated pursuant to Article 61 or 68, the regulatory authority shall:
+(a)
+monitor the compliance of the transmission system owner, the independent system operator or of the hydrogen transmission network owner and independent hydrogen transmission network operator, with their obligations under this Directive, and impose penalties for non-compliance with their obligations, pursuant to paragraph 4, point (d);
+(b)
+monitor the relations and communications between the independent system operator and the transmission system owner, or between the hydrogen transmission network owner and the independent hydrogen transmission network operator, so as to ensure compliance of the independent system operator or the independent hydrogen transmission network operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner, or between the hydrogen transmission network owner and the independent hydrogen transmission network operator, in respect of any complaint submitted by either party pursuant to paragraph 11;
+(c)
+without prejudice to the procedure laid down in Article 61(2), point (c), for the first ten-year network development plan, approve the investments planning and the multi-annual network development plan presented annually by the independent system operator or the independent hydrogen transmission network operator;
+(d)
+ensure that network access tariffs collected by the independent system operator or the independent hydrogen network operator include remuneration for the network owner or network owners which provides for adequate remuneration of the network assets and of any new investments made therein, provided they are economically and efficiently incurred;
+(e)
+have the powers to carry out inspections, including unannounced inspections, at the premises of the transmission system owner and the independent system operator, or of the hydrogen transmission network owner and the independent hydrogen transmission network operator.
+4.   Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in paragraphs 1, 3 and 6 in an efficient and expeditious manner. For this purpose, the regulatory authority shall have at least the following powers:
+(a)
+to issue binding decisions on natural gas and hydrogen undertakings;
+(b)
+to carry out investigations into the functioning of the markets for natural gas and hydrogen, and to decide upon and impose any necessary and proportionate measures to promote effective competition and ensure the proper functioning of the markets for natural gas and hydrogen and, where appropriate, to cooperate with the national competition authority and the financial market regulators or the Commission in conducting an investigation relating to competition law;
+(c)
+to require any information from natural gas and hydrogen undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network;
+(d)
+to impose effective, proportionate and dissuasive penalties on natural gas and hydrogen undertakings not complying with their obligations under this Directive or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose to a competent court to impose such penalties, including the power to impose or propose the imposition of penalties of up to 10 % of the annual turnover of the transmission system operator or hydrogen network operator or of up to 10 % of the annual turnover of the vertically integrated undertaking on the transmission system operator or hydrogen network operator or on the vertically integrated undertaking, as the case may be, for non-compliance with their respective obligations pursuant to this Directive;
+(e)
+appropriate rights of investigations and relevant powers of instructions for dispute settlement pursuant to paragraphs 11 and 12.
+5.   The regulatory authority located in the Member State in which the ENTSO for Gas, the ENNOH or the EU DSO entity has its seat shall have the power to impose effective, proportionate and dissuasive penalties on those entities where they do not comply with their obligations under this Directive, Regulation (EU) 2024/1789 or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose that a competent court impose such penalties.
+6.   In addition to the duties and powers conferred on it pursuant to paragraphs 1 and 4 of this Article, where an independent transmission operator or an integrated hydrogen transmission network operator has been designated in accordance with Section 3 of Chapter IX, the regulatory authority shall be granted at least the following duties and powers:
+(a)
+to impose penalties pursuant to paragraph 4, point (d), for discriminatory behaviour in favour of the vertically integrated undertaking;
+(b)
+to monitor communications between the transmission system operator or the integrated hydrogen transmission network operator and the vertically integrated undertaking so as to ensure compliance of the transmission system operator or the integrated hydrogen transmission network operator with its obligations;
+(c)
+to act as a dispute settlement authority between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator in respect of any complaint submitted pursuant to paragraph 11;
+(d)
+to monitor commercial and financial relations including loans between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator;
+(e)
+to approve all commercial and financial agreements between the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator, on the condition that they comply with market conditions;
+(f)
+to request justification from the vertically integrated undertaking when notified by the compliance officer in accordance with Article 67(4), in particular including evidence to the effect that no discriminatory behaviour to the advantage of the vertically integrated undertaking has occurred;
+(g)
+to carry out inspections, including unannounced inspections, at the premises of the vertically integrated undertaking and the transmission system operator or the integrated hydrogen transmission network operator;
+(h)
+to assign all or specific tasks of the transmission system operator or the integrated hydrogen transmission network operator to an independent system operator or an independent hydrogen transmission network operator appointed in accordance with Article 68 in the case of a persistent breach by the transmission system operator or the integrated hydrogen network operator of its obligations under this Directive, in particular in the case of repeated discriminatory behaviour to the benefit of the vertically integrated undertaking.
+7.   The regulatory authorities shall be responsible for fixing or approving sufficiently in advance of their entry into force at least the methodologies used to calculate or establish the terms and conditions for:
+(a)
+connection and access to national natural gas networks, including transmission and distribution tariffs, and terms, conditions and tariffs for access to LNG facilities, whereby tariffs or methodologies allow the necessary investments in the networks and LNG facilities to be carried out in a manner allowing those investments to ensure the viability of the networks and LNG facilities;
+(b)
+connection and access to national hydrogen networks, including hydrogen network tariffs, where applicable, and terms and conditions and tariffs for access to hydrogen storage and hydrogen terminals;
+(c)
+the provision of balancing services to be performed in the most economic manner, to provide appropriate incentives for network users to balance their input and off-takes in a fair and non-discriminatory manner and to be based on objective criteria;
+(d)
+approving and monitoring dedicated charges in accordance with Article 5 of Regulation (EU) 2024/1789;
+(e)
+access to cross-border infrastructures, including the procedures for the allocation of capacity and congestion management.
+8.   The methodologies or the terms and conditions referred to in paragraph 7 shall be published.
+9.   In fixing or approving the tariffs or methodologies and the balancing services referred to in paragraph 7, the regulatory authorities shall ensure that transmission and distribution system operators and, without prejudice to a Member State’s decision pursuant to Article 35(4), hydrogen network operators are granted appropriate incentives, over both the short and long term, to increase efficiencies, foster market integration and security of supply and support the related research activities.
+10.   The regulatory authorities shall monitor congestion management of national transmission networks and hydrogen transmission networks including interconnectors and hydrogen interconnectors, and the implementation of congestion management rules. To that end, transmission system operators, hydrogen transmission network operators or market operators shall submit their congestion management rules, including capacity allocation, to the regulatory authorities. Regulatory authorities may request amendments to those rules.

@@ -1,0 +1,17 @@
+Article 8
+Conditions for deregistration of a PEPP
+1.   The competent authorities shall issue a decision for deregistration of the PEPP when:
+(a)
+the PEPP provider expressly renounces the registration;
+(b)
+the PEPP provider has obtained the registration by making false statements or by any other irregular means;
+(c)
+the PEPP provider has seriously or systematically infringed this Regulation; or
+(d)
+the PEPP provider or the PEPP no longer meets the conditions under which registration was granted.
+2.   Within five working days after taking a decision for deregistration of the PEPP, the competent authorities shall communicate it to EIOPA and shall inform the PEPP provider accordingly.
+3.   Within five working days after receiving the notification of the decision for deregistration referred to in paragraph 2, EIOPA shall deregister the PEPP and shall notify the competent authorities accordingly.
+4.   Within five working days after receiving the notification for the deregistration of the PEPP referred to in paragraph 3, including the date of the deregistration, competent authorities shall notify the PEPP provider accordingly.
+5.   The PEPP provider shall no longer provide the PEPP and the PEPP distributor shall no longer distribute the PEPP as from the date of the deregistration of the PEPP in the central public register referred to in Article 13.
+6.   Where EIOPA has received information regarding the existence of one of the circumstances referred to in point (b) or (c) of paragraph 1 of this Article, in accordance with the duty of cooperation between competent authorities and EIOPA referred to in Article 66, EIOPA shall request the competent authorities of the PEPP provider to verify the existence of such circumstances and the competent authorities shall submit to EIOPA their findings and the corresponding information.
+7.   Before taking a decision for deregistration of the PEPP, the competent authorities and EIOPA shall give their best efforts to ensure that the PEPP savers interests are safeguarded.

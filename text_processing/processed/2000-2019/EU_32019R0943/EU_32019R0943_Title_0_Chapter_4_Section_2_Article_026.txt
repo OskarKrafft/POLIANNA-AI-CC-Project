@@ -1,0 +1,41 @@
+Article 26
+Cross-border participation in capacity mechanisms
+1.   Capacity mechanisms other than strategic reserves and where technically feasible, strategic reserves shall be open to direct cross-border participation of capacity providers located in another Member State, subject to the conditions laid down in this Article.
+2.   Member States shall ensure that foreign capacity capable of providing equivalent technical performance to domestic capacities has the opportunity to participate in the same competitive process as domestic capacity. In the case of capacity mechanisms in operation on 4 July 2019, Member States may allow interconnectors to participate directly in the same competitive process as foreign capacity for a maximum of four years from 4 July 2019 or two years after the date of approval of the methodologies referred to in paragraph 11, whichever is earlier.
+Member States may require foreign capacity to be located in a Member State that has a direct network connection with the Member State applying the mechanism.
+3.   Member States shall not prevent capacity which is located in their territory from participating in capacity mechanisms of other Member States.
+4.   Cross-border participation in capacity mechanisms shall not change, alter or otherwise affect cross-zonal schedules or physical flows between Member States. Those schedules and flows shall be determined solely by the outcome of capacity allocation pursuant to Article 16.
+5.   Capacity providers shall be able to participate in more than one capacity mechanism.
+Where capacity providers participate in more than one capacity mechanism for the same delivery period, they shall participate up to the expected availability of interconnection and the likely concurrence of system stress between the system where the mechanism is applied and the system in which the foreign capacity is located, in accordance with the methodology referred to in point (a) of paragraph 11.
+6.   Capacity providers shall be required to make non-availability payments where their capacity is not available.
+Where capacity providers participate in more than one capacity mechanism for the same delivery period, they shall be required to make multiple non-availability payments where they are unable to fulfil multiple commitments.
+7.   For the purposes of providing a recommendation to transmission system operators, regional coordination centres established pursuant to Article 35 shall calculate on an annual basis the maximum entry capacity available for the participation of foreign capacity. That calculation shall take into account the expected availability of interconnection and the likely concurrence of system stress in the system where the mechanism is applied and the system in which the foreign capacity is located. Such a calculation shall be required for each bidding zone border.
+Transmission system operators shall set the maximum entry capacity available for the participation of foreign capacity based on the recommendation of the regional coordination centre on an annual basis.
+8.   Member States shall ensure that the entry capacity referred to in paragraph 7 is allocated to eligible capacity providers in a transparent, non-discriminatory and market-based manner.
+9.   Where capacity mechanisms allow for cross-border participation in two neighbouring Member States, any revenues arising through the allocation referred to in paragraph 8 shall accrue to the transmission system operators concerned and shall be shared between them in accordance with the methodology referred in point (b) of paragraph 11 of this Article or in accordance with a common methodology approved by both relevant regulatory authorities. If the neighbouring Member State does not apply a capacity mechanism or applies a capacity mechanism which is not open to cross-border participation, the share of revenues shall be approved by the competent national authority of the Member State in which the capacity mechanism is implemented after having sought the opinion of the regulatory authorities of the neighbouring Member States. Transmission system operators shall use such revenues for the purposes set out in Article 19(2).
+10.   The transmission system operator where the foreign capacity is located shall:
+(a)
+establish whether interested capacity providers can provide the technical performance as required by the capacity mechanism in which the capacity provider intends to participate, and register that capacity provider as an eligible capacity provider in a registry set up for that purpose;
+(b)
+carry out availability checks;
+(c)
+notify the transmission system operator in the Member State applying the capacity mechanism of the information it acquires under points (a) and (b) of this subparagraph and the second subparagraph.
+The relevant capacity provider shall notify the transmission system operator of its participation in a foreign capacity mechanism without delay.
+11.   By 5 July 2020 the ENTSO for Electricity shall submit to ACER:
+(a)
+a methodology for calculating the maximum entry capacity for cross-border participation as referred to in paragraph 7;
+(b)
+a methodology for sharing the revenues referred to in paragraph 9;
+(c)
+common rules for the carrying out of availability checks referred to in point (b) of paragraph 10;
+(d)
+common rules for determining when a non-availability payment is due;
+(e)
+terms of the operation of the registry as referred to in point (a) of paragraph 10;
+(f)
+common rules for identifying capacity eligible to participate in the capacity mechanism as referred to in point (a) of paragraph 10.
+The proposal shall be subject to prior consultation and approval by ACER in accordance with Article 27.
+12.   The regulatory authorities concerned shall verify whether the capacities have been calculated in accordance with the methodology referred to in point (a) of paragraph 11.
+13.   Regulatory authorities shall ensure that cross-border participation in capacity mechanisms is organised in an effective and non-discriminatory manner. They shall in particular provide for adequate administrative arrangements for the enforcement of non-availability payments across borders.
+14.   The capacities allocated in accordance with paragraph 8 shall be transferable between eligible capacity providers. Eligible capacity providers shall notify the registry as referred to in point (a) of paragraph 10 of any such transfer.
+15.   By 5 July 2021 the ENTSO for Electricity shall set up and operate the registry referred to in point (a) of paragraph 10. The registry shall be open to all eligible capacity providers, the systems implementing capacity mechanisms and their transmission system operators.

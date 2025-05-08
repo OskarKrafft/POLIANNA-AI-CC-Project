@@ -1,0 +1,31 @@
+Article 120
+Non-binding opinions of the colleges for issuers of significant asset-referenced tokens and significant e-money tokens
+1.   A college referred to in Article 119(1) may issue a non-binding opinion on the following:
+(a)
+the supervisory reassessment as referred to in Article 117(3);
+(b)
+any decision to require an issuer of a significant asset-referenced token or a significant e-money token to hold a higher amount of own funds in accordance with Article 35(2), (3) and (5), Article 45(5) and Article 58(1), as applicable;
+(c)
+any update of the recovery plan or redemption plan of an issuer of a significant asset-referenced token or an issuer of a significant e-money token pursuant to Articles 46, 47 and 55, as applicable;
+(d)
+any change of the business model of an issuer of a significant asset-referenced token pursuant to Article 25(1);
+(e)
+a draft modified crypto-asset white paper drawn up in accordance with Article 25(2);
+(f)
+any envisaged appropriate corrective measures pursuant to Article 25(4);
+(g)
+any envisaged supervisory measures pursuant to Article 130;
+(h)
+any envisaged administrative agreement on the exchange of information with a supervisory authority of a third-country in accordance with Article 126;
+(i)
+any delegation of supervisory tasks from EBA to a competent authority pursuant to Article 138;
+(j)
+any envisaged change in the authorisation of, or any envisaged supervisory measure on, the members of the college referred to in Article 119(2), points (d) to (h);
+(k)
+a draft modified crypto-asset white paper drawn up in accordance with Article 51(12).
+2.   Where the college issues an opinion in accordance with paragraph 1, at the request of any member of the college and upon adoption by a majority of the college in accordance with paragraph 3, the opinion may include any recommendations aimed at addressing shortcomings of the measure envisaged by EBA or the competent authorities.
+3.   An opinion of the college shall be adopted based on a simple majority of its members.
+Where there are several members of the college per Member State, only one of those members shall have a vote.
+Where the ECB is a member of the college in several capacities, including supervisory capacities, it shall have only one vote.
+Supervisory authorities of third countries referred to in Article 119(2), point (m), shall have no voting right in respect of an opinion of the college.
+4.   EBA or the competent authorities, as applicable, shall duly consider the non-binding opinion of the college reached in accordance with paragraph 3, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged in respect of an issuer of a significant asset-referenced token, an issuer of a significant e-money token, an entity or a crypto-asset service provider as referred to in Article 119(2), points (d) to (h). Where EBA or a competent authority does not agree with an opinion of the college, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged, its decision shall contain its reasons and an explanation for any significant deviation from that opinion or recommendations.

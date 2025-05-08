@@ -1,0 +1,14 @@
+Article 59
+Authorisation
+1.   A person shall not provide crypto-asset services, within the Union, unless that person is:
+(a)
+a legal person or other undertaking that has been authorised as crypto-asset service provider in accordance with Article 63; or
+(b)
+a credit institution, central securities depository, investment firm, market operator, electronic money institution, UCITS management company, or an alternative investment fund manager that is allowed to provide crypto-asset services pursuant to Article 60.
+2.   Crypto-asset service providers authorised in accordance with Article 63 shall have a registered office in a Member State where they carry out at least part of their crypto-asset services. They shall have their place of effective management in the Union and at least one of the directors shall be resident in the Union.
+3.   For the purposes of paragraph 1, point (a), other undertakings that are not legal persons shall only provide crypto-asset services if their legal form ensures a level of protection for third parties’ interests equivalent to that afforded by legal persons and if they are subject to equivalent prudential supervision appropriate to their legal form.
+4.   Crypto-asset service providers authorised in accordance with Article 63 shall at all times meet the conditions for their authorisation.
+5.   A person who is not a crypto-asset service provider shall not use a name, or a corporate name, or issue marketing communications or undertake any other process suggesting that it is a crypto-asset service provider or that is likely to create confusion in that respect.
+6.   Competent authorities that grant authorisations in accordance with Article 63 shall ensure that such authorisations specify the crypto-asset services that crypto-asset service providers are authorised to provide.
+7.   Crypto-asset service providers shall be allowed to provide crypto-asset services throughout the Union, either through the right of establishment, including through a branch, or through the freedom to provide services. Crypto-asset service providers that provide crypto-asset services on a cross-border basis shall not be required to have a physical presence in the territory of a host Member State.
+8.   Crypto-asset service providers seeking to add crypto-asset services to their authorisation as referred to in Article 63 shall request the competent authorities that granted their initial authorisation for an extension of their authorisation by complementing and updating the information referred to in Article 62. The request for extension shall be processed in accordance with Article 63.

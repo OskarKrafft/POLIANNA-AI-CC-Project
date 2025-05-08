@@ -1,0 +1,38 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(a)
+‘electromagnetic fields’ means static electric, static magnetic and time-varying electric, magnetic and electromagnetic fields with frequencies up to 300 GHz;
+(b)
+‘direct biophysical effects’ means effects in the human body directly caused by its presence in an electromagnetic field, including:
+(i)
+thermal effects, such as tissue heating through energy absorption from electromagnetic fields in the tissue;
+(ii)
+non-thermal effects, such as the stimulation of muscles, nerves or sensory organs. These effects might have a detrimental effect on the mental and physical health of exposed workers. Moreover, the stimulation of sensory organs may lead to transient symptoms, such as vertigo or phosphenes. These effects might create temporary annoyance or affect cognition or other brain or muscle functions, and may thereby affect the ability of a worker to work safely (i.e. safety risks); and
+(iii)
+limb currents;
+(c)
+‘indirect effects’ means effects, caused by the presence of an object in an electromagnetic field, which may become the cause of a safety or health hazard, such as:
+(i)
+interference with medical electronic equipment and devices, including cardiac pacemakers and other implants or medical devices worn on the body;
+(ii)
+the projectile risk from ferromagnetic objects in static magnetic fields;
+(iii)
+the initiation of electro-explosive devices (detonators);
+(iv)
+fires and explosions resulting from the ignition of flammable materials by sparks caused by induced fields, contact currents or spark discharges; and
+(v)
+contact currents;
+(d)
+‘exposure limit values (ELVs)’ means values established on the basis of biophysical and biological considerations, in particular on the basis of scientifically well-established short-term and acute direct effects, i.e. thermal effects and electrical stimulation of tissues;
+(e)
+‘health effects ELVs’ means those ELVs above which workers might be subject to adverse health effects, such as thermal heating or stimulation of nerve and muscle tissue;
+(f)
+‘sensory effects ELVs’ means those ELVs above which workers might be subject to transient disturbed sensory perceptions and minor changes in brain functions;
+(g)
+‘action levels (ALs)’ means operational levels established for the purpose of simplifying the process of demonstrating the compliance with relevant ELVs or, where appropriate, to take relevant protection or prevention measures specified in this Directive.
+The AL terminology used in Annex II is as follows:
+(i)
+for electric fields, ‘low ALs’ and ‘high ALs’ means levels which relate to the specific protection or prevention measures specified in this Directive; and
+(ii)
+for magnetic fields, ‘low ALs’ means levels which relate to the sensory effects ELVs and ‘high ALs’ to the health effects ELVs.

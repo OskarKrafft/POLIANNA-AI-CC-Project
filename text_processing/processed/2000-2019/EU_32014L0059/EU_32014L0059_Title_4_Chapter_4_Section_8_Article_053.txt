@@ -1,0 +1,18 @@
+Article 53
+Effect of bail-in
+1.   Member States shall ensure that where a resolution authority exercises a power referred to in Article 59(2) and in points (e) to (i) of Article 63(1), the reduction of principal or outstanding amount due, conversion or cancellation takes effect and is immediately binding on the institution under resolution and affected creditors and shareholders.
+2.   Member States shall ensure that the resolution authority shall have the power to complete or require the completion of all the administrative and procedural tasks necessary to give effect to the exercise of a power referred to in Article 59(2) and in points (e) to (i) of Article 63(1), including:
+(a)
+the amendment of all relevant registers;
+(b)
+the delisting or removal from trading of shares or other instruments of ownership or debt instruments;
+(c)
+the listing or admission to trading of new shares or other instruments of ownership;
+(d)
+the relisting or readmission of any debt instruments which have been written down, without the requirement for the issuing of a prospectus pursuant to Directive 2003/71/EC of the European Parliament and of the Council (32).
+3.   Where a resolution authority reduces to zero the principal amount of, or outstanding amount payable in respect of, a liability by means of the power referred to in point (e) of Article 63(1), that liability and any obligations or claims arising in relation to it that are not accrued at the time when the power is exercised shall be treated as discharged for all purposes, and shall not be provable in any subsequent proceedings in relation to the institution under resolution or any successor entity in any subsequent winding up.
+4.   Where a resolution authority reduces in part, but not in full, the principal amount of, or outstanding amount payable in respect of, a liability by means of the power referred to in point (e) of Article 63(1):
+(a)
+the liability shall be discharged to the extent of the amount reduced;
+(b)
+the relevant instrument or agreement that created the original liability shall continue to apply in relation to the residual principal amount of, or outstanding amount payable in respect of the liability, subject to any modification of the amount of interest payable to reflect the reduction of the principal amount, and any further modification of the terms that the resolution authority might make by means of the power referred to in point (j) of Article 63(1).

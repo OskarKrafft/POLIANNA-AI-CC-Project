@@ -1,0 +1,20 @@
+Article 4
+Data sources
+1.   Member States may base the statistics on different data sources, in particular on:
+(a)
+conventional censuses;
+(b)
+register-based censuses;
+(c)
+a combination of conventional censuses and sample surveys;
+(d)
+a combination of register-based censuses and sample surveys;
+(e)
+a combination of register-based censuses and conventional censuses;
+(f)
+a combination of register-based censuses, sample surveys and conventional censuses; and
+(g)
+appropriate surveys with rotating samples (rolling censuses).
+2.   Member States shall take all measures necessary to meet the requirements of data protection. The Member States' own data protection provisions shall not be affected by this Regulation.
+3.   Member States shall inform the Commission (Eurostat) of any revision or correction of the statistics supplied under this Regulation, as well as of any changes in the chosen data sources and methodology, no later than one month before the release of the revised data.
+4.   Member States shall ensure that the data sources and the methodology used to satisfy the requirements of this Regulation meet, to the highest possible extent, the essential features of population and housing censuses, as defined in Article 2(i). They shall make continuous efforts to enhance compliance with those essential features.

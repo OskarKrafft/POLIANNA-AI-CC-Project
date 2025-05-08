@@ -1,0 +1,28 @@
+Article 3
+Essential requirements
+1.   Radio equipment shall be constructed so as to ensure:
+(a)
+the protection of health and safety of persons and of domestic animals and the protection of property, including the objectives with respect to safety requirements set out in Directive 2014/35/EU, but with no voltage limit applying;
+(b)
+an adequate level of electromagnetic compatibility as set out in Directive 2014/30/EU.
+2.   Radio equipment shall be so constructed that it both effectively uses and supports the efficient use of radio spectrum in order to avoid harmful interference.
+3.   Radio equipment within certain categories or classes shall be so constructed that it complies with the following essential requirements:
+(a)
+radio equipment interworks with accessories, in particular with common chargers;
+(b)
+radio equipment interworks via networks with other radio equipment;
+(c)
+radio equipment can be connected to interfaces of the appropriate type throughout the Union;
+(d)
+radio equipment does not harm the network or its functioning nor misuse network resources, thereby causing an unacceptable degradation of service;
+(e)
+radio equipment incorporates safeguards to ensure that the personal data and privacy of the user and of the subscriber are protected;
+(f)
+radio equipment supports certain features ensuring protection from fraud;
+(g)
+radio equipment supports certain features ensuring access to emergency services;
+(h)
+radio equipment supports certain features in order to facilitate its use by users with a disability;
+(i)
+radio equipment supports certain features in order to ensure that software can only be loaded into the radio equipment where the compliance of the combination of the radio equipment and software has been demonstrated.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 44 specifying which categories or classes of radio equipment are concerned by each of the requirements set out in points (a) to (i) of the first subparagraph of this paragraph.

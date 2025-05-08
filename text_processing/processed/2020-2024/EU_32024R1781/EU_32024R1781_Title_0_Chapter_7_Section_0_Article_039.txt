@@ -1,0 +1,9 @@
+Article 39
+Test, measurement and calculation methods
+1.   For the purposes of compliance and verification of compliance with ecodesign requirements, tests, measurements and calculations shall be carried out using harmonised standards or other reliable, accurate and reproducible methods that take into account the generally recognised state-of-the art methods. Such methods shall fulfil the requirements for test, measurement and calculation methods set out in the relevant delegated acts adopted pursuant to Article 4.
+2.   When setting the requirement to use digital tools pursuant to Article 4(6), point (c)(iii), the Commission shall take into account the following criteria:
+(a)
+the need to ensure the harmonised application of calculation methods; and
+(b)
+the need to minimise the administrative burden imposed on economic operators.
+Digital tools shall be freely accessible for economic operators.

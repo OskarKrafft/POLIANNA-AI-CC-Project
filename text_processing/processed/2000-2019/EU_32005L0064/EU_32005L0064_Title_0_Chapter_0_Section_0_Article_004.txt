@@ -1,0 +1,43 @@
+Article 4
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+1.
+‘vehicle’ means a motor vehicle;
+2.
+‘component part’ means any part or any assembly of parts which is included in a vehicle at the time of its production. It also covers components and separate technical units as defined in Article 2 of Directive 70/156/EEC;
+3.
+‘vehicle type’ means the type of a vehicle as defined in part B, points 1 and 3, of Annex II to Directive 70/156/EEC;
+4.
+‘end-of-life vehicle’ means a vehicle as defined in point 2 of Article 2 of Directive 2000/53/EC;
+5.
+‘reference vehicle’ means the version within a type of vehicle, which is identified by the approval authority, in consultation with the manufacturer and in accordance with the criteria laid down in Annex I, as being the most problematic in terms of reusability, recyclability and recoverability;
+6.
+‘multi-stage built vehicle’ means a vehicle resulting from a multi-stage construction process;
+7.
+‘base vehicle’ means a vehicle as defined in Article 2, fourth indent of Directive 70/156/CEE, which is used at the starting stage of a multi-stage construction;
+8.
+‘multi-stage construction’ means the process by which a vehicle is produced in several stages by adding component parts to a base vehicle or by modifying those component parts;
+9.
+‘reuse’ means reuse as defined in point 6 of Article 2 of Directive 2000/53/EC;
+10.
+‘recycling’ means recycling as defined in the first sentence of point 7 of Article 2 of Directive 2000/53/EC;
+11.
+‘energy recovery’ means energy recovery as defined in the second sentence of point 7 of Article 2 of Directive 2000/53/EC;
+12.
+‘recovery’ means recovery as defined in point 8 of Article 2 of Directive 2000/53/EC;
+13.
+‘reusability’ means the potential for reuse of component parts diverted from an end-of-life vehicle;
+14.
+‘recyclability’ means the potential for recycling of component parts or materials diverted from an end-of-life vehicle;
+15.
+‘recoverability’ means the potential for recovery of component parts or materials diverted from an end-of-life vehicle;
+16.
+‘recyclability rate of a vehicle (Rcyc)’ means the percentage by mass of a new vehicle, potentially able to be reused and recycled;
+17.
+‘recoverability rate of a vehicle (Rcov)’ means the percentage by mass of a new vehicle, potentially able to be reused and recovered;
+18.
+‘strategy’ means a large-scale plan consisting of coordinated actions and technical measures to be taken as regards dismantling, shredding or similar processes, recycling and recovery of materials to ensure that the targeted recyclability and recoverability rates are attainable at the time a vehicle is in its development phase;
+19.
+‘mass’ means the mass of the vehicle in running order as defined in point 2.6 of Annex I to Directive 70/156/EEC, but excluding the driver, whose mass is assessed at 75 kg;
+20.
+‘competent body’ means an entity, e.g. a technical service or another existing body, notified by a Member State to carry out preliminary assessment of the manufacturer and to issue a certificate of compliance, in accordance with the prescriptions of this Directive. The competent body may be the type-approval authority, provided its competence in this field is properly documented.

@@ -1,0 +1,16 @@
+Article 312
+Permission and notification
+1.   To qualify for use of the Standardised Approach, institutions shall meet the criteria set out in Article 320, in addition to meeting the general risk management standards set out in Articles 74 and 85 of Directive 2013/36/EU. Institutions shall notify the competent authorities prior to using the Standardised Approach.
+Competent authorities shall permit institutions to use an alternative relevant indicator for the business lines of retail banking and commercial banking where the conditions set out in Articles 319(2) and 320 are met.
+2.   Competent authorities shall permit institutions to use Advanced Measurement Approaches based on their own operational risk measurement systems, where all the qualitative and quantitative standards set out in Articles 321 and 322 respectively are met and where institutions meet the general risk management standards set out in Articles 74 and 85 of Directive 2013/36/EU and Section II, Chapter 3, Title VII of that Directive.
+Institutions shall also apply for permission from their competent authorities where they want to implement material extensions and changes to those Advanced Measurement Approaches. Competent authorities shall grant the permission only where institutions would continue to meet the standards specified in the first subparagraph following those material extensions and changes.
+3.   Institutions shall notify the competent authorities of all changes to their Advanced Measurement Approaches models.
+4.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the assessment methodology under which the competent authorities permit institutions to use Advanced Measurement Approaches;
+(b)
+the conditions for assessing the materiality of extensions and changes to the Advanced Measurement Approaches;
+(c)
+the modalities of the notification required in paragraph 3.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

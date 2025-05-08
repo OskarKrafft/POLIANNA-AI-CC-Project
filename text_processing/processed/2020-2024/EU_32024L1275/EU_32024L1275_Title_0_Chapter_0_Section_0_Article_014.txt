@@ -1,0 +1,50 @@
+Article 14
+Infrastructure for sustainable mobility
+1.   With regard to new non-residential buildings with more than five car parking spaces and non-residential buildings undergoing major renovation, with more than five car parking spaces, Member States shall ensure:
+(a)
+the installation of at least one recharging point for every five car parking spaces;
+(b)
+the installation of pre-cabling for at least 50 % of car parking spaces and ducting, namely conduits for electric cables, for the remaining car parking spaces, to enable the installation at a later stage of recharging points for electric vehicles, electrically power-assisted cycles and other L-category vehicle types; and
+(c)
+the provision of bicycle parking spaces representing at least 15 % of average or 10 % of total user capacity of non-residential buildings, taking into account the space required also for bicycles with larger dimensions than standard bicycles.
+The first subparagraph shall apply where:
+(a)
+the car park is located inside the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the building; or
+(b)
+the car park is physically adjacent to the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the car park.
+Member States shall ensure that the pre-cabling and ducting referred to in point (b) of the first subparagraph are dimensioned so as to enable the simultaneous and efficient use of the required number of recharging points and support, where appropriate, the installation of a load or recharging management system, to the extent that this is technically and economically feasible and justifiable.
+By way of derogation from point (a) of the first subparagraph, for new office buildings and office buildings undergoing major renovation, with more than five parking spaces, Member States shall ensure the installation of at least one recharging point for every two parking spaces.
+2.   With regard to all non-residential buildings with more than 20 car parking spaces, Member States shall, by 1 January 2027, ensure:
+(a)
+the installation of at least one recharging point for every 10 car parking spaces, or of ducting, namely conduits for electric cables, for at least 50 % of the car parking spaces to enable the installation at a later stage of recharging points for electric vehicles; and
+(b)
+the provision of bicycle parking spaces representing at least 15 % of average or 10 % of total user capacity of the building and with space required also for bicycles with larger dimensions than standard bicycles.
+For buildings owned or occupied by public bodies, Member States shall ensure the installation of pre-cabling for at least 50 % of car parking spaces by 1 January 2033.
+Member States may postpone the implementation of this requirement until 1 January 2029 for all non-residential buildings that have been renovated in the two years prior to 28 May 2024 in order to comply with the national requirements established in accordance with Article 8(3) of Directive 2010/31/EU.
+3.   Member States may adjust requirements for the number of bicycle parking spaces in accordance with paragraphs 1 and 2 for specific categories of non-residential buildings that are not typically accessed by bicycles.
+4.   With regard to new residential buildings with more than three car parking spaces and residential buildings undergoing major renovation, with more than three car parking spaces, Member States shall ensure:
+(a)
+the installation of pre-cabling for at least 50 % of car parking spaces and ducting, namely conduits for electric cables, for the remaining car parking spaces to enable the installation, at a later stage, of recharging points for electric vehicles, electrically power-assisted cycles and other L-category vehicle types; and
+(b)
+the provision of at least two bicycle parking spaces for every residential building unit.
+With regard to new residential buildings with more than three car parking spaces, Member States shall also ensure the installation of at least one recharging point.
+The first and second subparagraphs shall apply where:
+(a)
+the car park is located inside the building, and, for major renovations, renovation measures include the car park or the electric infrastructure of the building; or
+(b)
+the car park is physically adjacent to the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the car park.
+By way of derogation from the first subparagraph, Member States may, subject to an assessment by local authorities and taking into account local characteristics, including demographical, geographical and climate conditions, adjust requirements for the number of bicycle parking spaces.
+Member States shall ensure that the pre-cabling referred to in point (a) of the first subparagraph is dimensioned to enable the simultaneous use of recharging points on all parking spaces. Where, in the case of major renovation, ensuring two bicycle parking spaces for every residential building unit is not feasible, Member States shall ensure as many bicycle parking spaces as appropriate.
+5.   Member States may decide not to apply paragraphs 1, 2 and 4 of this Article to specific categories of building where:
+(a)
+the recharging infrastructure required would rely on micro-isolated systems or the buildings are situated in the outermost regions within the meaning of Article 349 TFEU where this would lead to substantial problems for the operation of the local energy system and would endanger the stability of the local grid; or
+(b)
+the cost of the recharging and ducting installations exceeds at least 10 % of the total cost of the major renovation of the building.
+6.   Member States shall ensure that the recharging points referred to in paragraphs 1, 2 and 4 of this Article are capable of smart recharging and, where appropriate, bi-directional recharging and that they are operated on the basis of non-proprietary and non-discriminatory communication protocols and standards, in an interoperable manner, and in compliance with any European standards and delegated acts adopted pursuant to Article 21(2) and (3) of Regulation (EU) 2023/1804.
+7.   Member States shall encourage that operators of non-publicly accessible recharging points operate them in accordance with Article 5(4) of Regulation (EU) 2023/1804, where applicable.
+8.   Member States shall provide for measures in order to simplify, streamline and accelerate the procedure for the installation of recharging points in new and existing, residential and non-residential buildings, especially of co-owners’ associations, and remove regulatory barriers, including permitting and approval procedures from public authorities without prejudice to the property and tenancy law of the Member States. Member States shall remove barriers to the installation of recharging points in residential buildings with parking spaces, in particular the need to obtain consent from the landlord or co-owners for a private recharging point for own use. A request by tenants or co-owners to be allowed to install recharging infrastructure in a parking space may be refused only if there are serious and legitimate grounds for doing so.
+Without prejudice to their property and tenancy law, Member States shall assess administrative barriers regarding the application for the installation of a recharging point in a building with multiple residential building units at a tenants’ or a co-owners’ association.
+Member States shall ensure the availability of technical assistance for building owners and tenants wishing to install recharging points and bicycle parking spaces.
+With regard to residential buildings, Member States shall consider whether to introduce support schemes for the installation of recharging points, pre-cabling or ducting of parking spaces in line with the number of battery electric light-duty vehicles registered in their territory.
+9.   Member States shall ensure the coherence of policies for buildings, active and green mobility, climate, energy, biodiversity and urban planning.
+10.   By 31 December 2025, the Commission shall publish guidance for fire safety in car parks.

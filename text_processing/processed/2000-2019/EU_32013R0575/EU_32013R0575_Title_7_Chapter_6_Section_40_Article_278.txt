@@ -1,0 +1,5 @@
+Article 278
+Transactions with a non-linear risk profile
+1.   Institutions shall determine the size of the risk positions for transactions with a non-linear risk profile in accordance with the following paragraphs.
+2.   The size of a risk position from an OTC derivative with a non-linear risk profile, including options and swaptions, of which the underlying is not a debt instrument or a payment leg shall be equal to the delta equivalent effective notional value of the financial instrument that underlies the transaction in accordance with Article 280(1).
+3.   The size of a risk position from an OTC derivative with a non-linear risk profile, including options and swaptions, of which the underlying is a debt instrument or a payment leg, shall be equal to the delta equivalent effective notional value of the financial instrument or payment leg multiplied by the modified duration of the debt instrument or payment leg, as the case may be.

@@ -1,0 +1,21 @@
+Article 78
+Technical design and operation of the digital product passport
+The technical design and operation of the digital product passport shall comply with the following essential requirements:
+(a)
+digital product passports shall be fully interoperable with other digital product passports as regards the technical, semantic and organisational aspects of end-to-end communication and data transfer;
+(b)
+a recipient of the digital product passport shall have easy access, free of charge, to it based on the recipient’s respective access rights in the construction digital product passport system;
+(c)
+the data included in the digital product passport shall be stored as specified in the construction digital product passport system referred to in Article 75;
+(d)
+if the data included in the digital product passport is stored or otherwise processed by authorised operators or digital product passport service providers, they shall not be allowed to sell, reuse or process such data, in whole or in part, beyond what is necessary for the provision of the relevant storing or processing services, unless this is specifically agreed with the economic operator placing the product on the market;
+(e)
+the digital product passport shall remain available for the period specified in Article 76(2), point (h), including after an insolvency, a liquidation or a cessation of activity in the Union of the economic operator that created the digital product passport, and shall fulfil the conditions established in accordance with Article 75(2), point (f), as regards the obligation to establish a back-up system;
+(f)
+the right to access and to introduce, modify or update information in the digital product passport shall be restricted to the access rights specified in the construction digital product passport system;
+(g)
+protection of information that constitutes trade secrets within the meaning of Article 2(1) Directive (EU) 2016/943 of the European Parliament and of the Council (31) or intellectual property rights shall be ensured;
+(h)
+data authentication, reliability and integrity shall be ensured;
+(i)
+digital product passports shall be designed and operated so that a high level of security and privacy is ensured and fraud is avoided.

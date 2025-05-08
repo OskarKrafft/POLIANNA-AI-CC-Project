@@ -1,0 +1,13 @@
+Article 10
+Service portfolio for governmental services
+1.   The service portfolio for governmental services shall be established in accordance with paragraph 4 of this Article. It shall comprise at least the following categories of service and shall complement the portfolio of GOVSATCOM services referred to in Article 63(3) of Regulation (EU) 2021/696:
+(a)
+services restricted to government-authorised users based on governmental infrastructure, which require a high level of security and which are not suitable for services referred to in paragraph 2 of this Article, such as robust worldwide low-latency service or robust space data relay;
+(b)
+quantum communication services, such as QKD services.
+2.   The service portfolio for governmental services shall also comprise services to government-authorised users based on the commercial infrastructure, such as assured worldwide low latency service or worldwide narrowband service.
+3.   The service portfolio for the governmental services shall also comprise the technical specifications for each category of service, such as geographical coverage, frequency, bandwidth, user equipment and security features.
+4.   The Commission shall adopt, by means of implementing acts, the service portfolio for governmental services. Those implementing acts shall be based on the operational requirements referred to in paragraph 5 of this Article, on input from the Member States and on the general security requirements referred to in Article 30(3).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(3).
+5.   The Commission shall adopt, by means of implementing acts, the operational requirements for governmental services, in the form of technical specifications and implementation plans, relating in particular to crisis management, situational awareness, key infrastructure management, including diplomatic and defence communication networks, and other government-authorised users’ needs. Those operational requirements shall be based on the requirements of the Programme users, tailored to cover the confirmed demand, and shall take into account requirements stemming from existing user equipment and networks and operational requirements for GOVSATCOM services adopted in accordance with Article 63(2) of Regulation (EU) 2021/696. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(3) of this Regulation.
+6.   The terms and conditions for the provision of services, and related risks, provided through the commercial infrastructure shall be determined in the contracts referred to in Article 19.

@@ -1,0 +1,63 @@
+Article 277
+Mapping of transactions to risk categories
+1.   Institutions shall map each transaction of a netting set to one of the following risk categories to determine the potential future exposure of the netting set referred to in Article 278:
+(a)
+interest rate risk;
+(b)
+foreign exchange risk;
+(c)
+credit risk;
+(d)
+equity risk;
+(e)
+commodity risk;
+(f)
+other risks.
+2.   Institutions shall conduct the mapping referred to in paragraph 1 on the basis of the primary risk driver of a derivative transaction. The primary risk driver shall be the only material risk driver of a derivative transaction.
+3.   By way of derogation from paragraph 2, institutions shall map derivative transactions that have more than one material risk driver to more than one risk category. Where all the material risk drivers of one of those transactions belong to the same risk category, institutions shall only be required to map that transaction once to that risk category on the basis of the most material of those risk drivers. Where the material risk drivers of one of those transactions belong to different risk categories, institutions shall map that transaction once to each risk category for which the transaction has at least one material risk driver, on the basis of the most material of the risk drivers in that risk category.
+4.   Notwithstanding paragraphs 1, 2 and 3, when mapping transactions to the risk categories listed in paragraph 1, institutions shall apply the following requirements:
+(a)
+where the primary risk driver of a transaction, or the most material risk driver in a given risk category for transactions referred to in paragraph 3, is an inflation variable, institutions shall map the transaction to the interest rate risk category;
+(b)
+where the primary risk driver of a transaction, or the most material risk driver in a given risk category for transactions referred to in paragraph 3, is a climatic conditions variable, institutions shall map the transaction to the commodity risk category.
+5.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the method for identifying transactions with only one material risk driver;
+(b)
+the method for identifying transactions with more than one material risk driver and for identifying the most material of those risk drivers for the purposes of paragraph 3.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 277a
+Hedging sets
+1.   Institutions shall establish the relevant hedging sets for each risk category of a netting set and assign each transaction to those hedging sets as follows:
+(a)
+transactions mapped to the interest rate risk category shall be assigned to the same hedging set only where their primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is denominated in the same currency;
+(b)
+transactions mapped to the foreign exchange risk category shall be assigned to the same hedging set only where their primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is based on the same currency pair;
+(c)
+all the transactions mapped to the credit risk category shall be assigned to the same hedging set;
+(d)
+all the transactions mapped to the equity risk category shall be assigned to the same hedging set;
+(e)
+transactions mapped to the commodity risk category shall be assigned to one of the following hedging sets on the basis of the nature of their primary risk driver or the most material risk driver in the given risk category for transactions referred to in Article 277(3):
+(i)
+energy;
+(ii)
+metals;
+(iii)
+agricultural goods;
+(iv)
+other commodities;
+(v)
+climatic conditions;
+(f)
+transactions mapped to the other risks category shall be assigned to the same hedging set only where their primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is identical.
+For the purposes of point (a) of the first subparagraph of this paragraph, transactions mapped to the interest rate risk category that have an inflation variable as the primary risk driver shall be assigned to separate hedging sets, other than the hedging sets established for transactions mapped to the interest rate risk category that do not have an inflation variable as the primary risk driver. Those transactions shall be assigned to the same hedging set only where their primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is denominated in the same currency.
+2.   By way of derogation from paragraph 1 of this Article, institutions shall establish separate individual hedging sets in each risk category for the following transactions:
+(a)
+transactions for which the primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is either the market implied volatility or the realised volatility of a risk driver or the correlation between two risk drivers;
+(b)
+transactions for which the primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is the difference between two risk drivers mapped to the same risk category or transactions that consist of two payment legs denominated in the same currency and for which a risk driver from the same risk category of the primary risk driver is contained in the other payment leg than the one containing the primary risk driver.
+For the purposes of point (a) of the first subparagraph of this paragraph, institutions shall assign transactions to the same hedging set of the relevant risk category only where their primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), is identical.
+For the purposes of point (b) of the first subparagraph, institutions shall assign transactions to the same hedging set of the relevant risk category only where the pair of risk drivers in those transactions as referred to therein is identical and the two risk drivers contained in this pair are positively correlated. Otherwise, institutions shall assign transactions referred to in point (b) of the first subparagraph to one of the hedging sets established in accordance with paragraph 1, on the basis of only one of the two risk drivers referred to in point (b) of the first subparagraph.
+3.   Institutions shall make available upon request by the competent authorities the number of hedging sets established in accordance with paragraph 2 of this Article for each risk category, with the primary risk driver, or the most material risk driver in the given risk category for transactions referred to in Article 277(3), or the pair of risk drivers of each of those hedging sets and with the number of transactions in each of those hedging sets.

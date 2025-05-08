@@ -1,0 +1,43 @@
+Article 79
+1.   Each exposure shall be assigned to one of the following exposure classes:
+(a)
+claims or contingent claims on central governments or central banks;
+(b)
+claims or contingent claims on regional governments or local authorities;
+(c)
+claims or contingent claims on administrative bodies and non-commercial undertakings;
+(d)
+claims or contingent claims on multilateral development banks;
+(e)
+claims or contingent claims on international organisations;
+(f)
+claims or contingent claims on institutions;
+(g)
+claims or contingent claims on corporates;
+(h)
+retail claims or contingent retail claims;
+(i)
+claims or contingent claims secured on real estate property;
+(j)
+past due items;
+(k)
+items belonging to regulatory high-risk categories;
+(l)
+claims in the form of covered bonds;
+(m)
+securitisation positions;
+(n)
+short-term claims on institutions and corporate;
+(o)
+claims in the form of collective investment undertakings (‘CIU’); or
+(p)
+other items.
+2.   To be eligible for the retail exposure class referred to in point (h) of paragraph 1, an exposure shall meet the following conditions:
+(a)
+the exposure shall be either to an individual person or persons, or to a small or medium sized entity;
+(b)
+the exposure shall be one of a significant number of exposures with similar characteristics such that the risks associated with such lending are substantially reduced; and
+(c)
+the total amount owed to the credit institution and parent undertakings and its subsidiaries, including any past due exposure, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential real estate collateral, shall not, to the knowledge of the credit institution, exceed EUR 1 million. The credit institution shall take reasonable steps to acquire this knowledge.
+Securities shall not be eligible for the retail exposure class.
+(3)   The present value of retail minimum lease payments is eligible for the retail exposure class.

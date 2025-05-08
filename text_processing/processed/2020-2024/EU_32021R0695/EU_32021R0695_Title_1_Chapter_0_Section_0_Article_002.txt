@@ -1,0 +1,99 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+'research infrastructures' means facilities that provide resources and services for the research communities to conduct research and foster innovation in their fields, including the associated human resources, major equipment or sets of instruments; knowledge-related facilities such as collections, archives or scientific data infrastructures; computing systems, communication networks and any other infrastructure of a unique nature and open to external users, essential to achieve excellence in R&I; they may, where relevant, be used beyond research, for example for education or public services and they may be 'single sited', 'virtual' or 'distributed';
+(2)
+'smart specialisation strategy' means the national or regional innovation strategies which set priorities in order to build competitive advantage by developing and matching R&I own strengths to business needs in order to address emerging opportunities and market developments in a coherent manner, while avoiding duplication and fragmentation of efforts, including those that take the form of, or are included in, a national or regional R&I strategic policy framework, and fulfilling the enabling condition set out in the relevant provisions of the Common Provisions Regulation for 2021-2027;
+(3)
+'European Partnership' means an initiative, prepared with the early involvement of Member States and associated countries, where the Union together with private and/or public partners (such as industry, universities, research organisations, bodies with a public service mission at local, regional, national or international level or civil society organisations including foundations and NGOs) commit to jointly supporting the development and implementation of a programme of R&I activities, including those related to market, regulatory or policy uptake;
+(4)
+'open access' means online access, provided free of charge to the end user, to research outputs resulting from actions under the Programme in accordance with Article 14 and Article 39(3);
+(5)
+'open science' means an approach to the scientific process based on open cooperative work, tools and diffusing knowledge, and includes the elements listed in Article 14;
+(6)
+'mission' means a portfolio of excellence-based and impact-driven R&I activities across disciplines and sectors, intended to: (i) achieve, within a set timeframe, a measurable goal that could not be achieved through individual actions; (ii) have an impact on society and policy-making through science and technology; and (iii) be relevant for a significant part of the European population and a wide range of European citizens;
+(7)
+'pre-commercial procurement' means the procurement of research and development services involving risk-benefit sharing under market conditions, and competitive development in phases, where there is a clear separation of the research and development services procured from the deployment of commercial volumes of end-products;
+(8)
+'public procurement of innovative solutions' means procurement where contracting authorities act as a launch customer for innovative goods or services which are not yet available on a large-scale commercial basis, and may include conformity testing;
+(9)
+'access rights' means rights to use results or background under terms and conditions laid down in accordance with this Regulation;
+(10)
+'background' means any data, know how or information whatever its form or nature, tangible or intangible, including any rights such as intellectual property rights, that is: (i) held by beneficiaries prior to their accession to a given action; and (ii) identified by the beneficiaries in a written agreement as needed for implementing the action or for exploiting its results;
+(11)
+'dissemination' means the public disclosure of the results by appropriate means, other than resulting from protecting or exploiting the results, including by scientific publications in any medium;
+(12)
+'exploitation' means the use of results in further R&I activities other than those covered by the action concerned, including among other things, commercial exploitation such as developing, creating, manufacturing and marketing a product or process, creating and providing a service, or in standardisation activities;
+(13)
+'fair and reasonable conditions' means appropriate conditions, including possible financial terms or royalty-free conditions, taking into account the specific circumstances of the request for access, for example the actual or potential value of the results or background to which access is requested and/or the scope, duration or other characteristics of the exploitation envisaged;
+(14)
+'funding body' means a body or organisation, as referred to in point (c) of Article 62(1) of the Financial Regulation, to which the Commission has entrusted budget implementation tasks under the Programme;
+(15)
+'international European research organisation' means an international organisation, the majority of whose members are Member States or associated countries, whose principal objective is to promote scientific and technological cooperation in Europe;
+(16)
+'legal entity' means a natural person, or a legal person created and recognised as such under Union, national or international law, which has legal personality and the capacity to act in its own name, exercise rights and be subject to obligations, or an entity which does not have legal personality as referred to in point (c) of Article 197(2) of the Financial Regulation;
+(17)
+'widening countries' or 'low R&I performing countries' means countries where legal entities need to be established in order to be eligible as coordinators under the 'widening participation and spreading excellence' component of the 'Widening Participation and Strengthening ERA' part of the Programme; from the Member States, those countries are Bulgaria, Croatia, Cyprus, Czechia, Estonia, Greece, Hungary, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia and Slovenia, for the whole duration of the Programme; for associated countries, it means the list of eligible countries as defined based on an indicator and published in the work programme. Legal entities from outermost regions as defined in Article 349 TFUE shall be also fully eligible as coordinators under this component;
+(18)
+'non-profit legal entity' means a legal entity which by its legal form is non-profit-making or which has a legal or statutory obligation not to distribute profits to its shareholders or individual members;
+(19)
+'small or medium-sized enterprise' or 'SME' means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Recommendation 2003/361/EC (27);
+(20)
+'small mid-cap' means an entity that is not an SME and that has up to 499 employees where the staff headcount is calculated in accordance with Articles 3 to 6 of Annex to Recommendation 2003/361/EC;
+(21)
+'results' means any tangible or intangible effect of a given action, such as data, knowhow or information, whatever its form or nature and whether or not it can be protected, as well as any rights attached to it, including intellectual property rights;
+(22)
+'research output' means the results generated by a given action to which access can be given in the form of scientific publications, data or other engineered results and processes such as software, algorithms, protocols and electronic notebooks;
+(23)
+'Seal of Excellence' means a quality label which shows that a proposal submitted to a call for proposals exceeded all of the evaluation thresholds set out in the work programme, but could not be funded due to lack of budget available for that call for proposals in the work programme and might receive support from other Union or national sources of funding;
+(24)
+'strategic R&I plan' means an implementing act laying out a strategy for realising content in the work programme covering a maximum period of four years, follows a broad mandatory multi-stakeholder consultation process and specifies the priorities, suitable types of action and forms of implementation to be used;
+(25)
+'work programme' means a document adopted by the Commission for the implementation of the specific programme in accordance with Article 14 of Decision (EU) 2021/764 or a document equivalent in content and structure adopted by a funding body;
+(26)
+'contract' means an agreement concluded between the Commission or the relevant funding body with a legal entity implementing an innovation and market deployment action and supported by Horizon Europe blended finance or EIC blended finance;
+(27)
+'reimbursable advance' means the part of the Horizon Europe blended finance or EIC blended finance that corresponds to a loan under Title X of the Financial Regulation, but that is directly awarded by the Union on a non-profit basis to cover the costs of activities corresponding to an innovation action, and which is to be reimbursed by the beneficiary to the Union under the conditions provided for in the contract;
+(28)
+'classified information' means European Union classified information as defined in Article 3 of Decision (EU, Euratom) 2015/444 as well as classified information of Member States, classified information of third countries with which the Union has a security agreement and classified information of international organisation with which the Union has a security agreement;
+(29)
+'blending operation' means an action supported by the Union budget, including within a blending facility or platform as defined in point (6) of Article 2 of the Financial Regulation, that combines non-repayable forms of support and/or financial instruments from the Union budget with repayable forms of support from development or other public finance institutions, as well as from commercial finance institutions and investors;
+(30)
+'Horizon Europe blended finance' means financial support to a programme implementing innovation and market deployment action, consisting of a specific combination of a grant or reimbursable advance and an investment in equity or any other repayable form of support;
+(31)
+'EIC blended finance' means direct financial support provided under the EIC to an innovation and market deployment action consisting of a specific combination of a grant or reimbursable advance and an investment in equity or any other repayable form of support;
+(32)
+'research and innovation action' means an action primarily consisting of activities aiming to establish new knowledge or to explore the feasibility of a new or improved technology, product, process, service or solution. This may include basic and applied research, technology development and integration, testing, demonstration and validation on a small-scale prototype in a laboratory or simulated environment;
+(33)
+'innovation action' means an action primarily consisting of activities directly aiming to produce plans and arrangements or designs for new, altered or improved products, processes or services, possibly including prototyping, testing, demonstrating, piloting, large-scale product validation and market replication;
+(34)
+'ERC frontier research action' means a principal investigator-led research action, including ERC Proof of Concept, hosted by single or multiple beneficiaries receiving funding from the European Research Council (ERC);
+(35)
+'training and mobility action' means an action geared towards the improvement of the skills, knowledge and career prospects of researchers, based on mobility between countries and, if relevant, between sectors or disciplines;
+(36)
+'programme co-fund action' means an action to provide multi-annual co-funding to a programme of activities established or implemented by legal entities managing or funding R&I programmes, other than Union funding bodies; such a programme of activities may support networking and coordination, research, innovation, pilot actions, and innovation and market deployment actions, training and mobility actions, awareness raising and communication, dissemination and exploitation, and provide any relevant financial support, such as grants, prizes and procurement, as well as Horizon Europe blended finance or a combination thereof. The programme co-fund action may be implemented by those legal entities directly or by third parties on their behalf;
+(37)
+'pre-commercial procurement action' means an action the primary aim of which is to realise the pre-commercial procurement implemented by beneficiaries that are contracting authorities or contracting entities;
+(38)
+'public procurement of innovative solutions action' means an action the primary aim of which is to realise the joint or coordinated public procurement of innovative solutions implemented by beneficiaries that are contracting authorities or contracting entities;
+(39)
+'coordination and support action' means an action contributing to the objectives of the Programme, excluding R&I activities, except when undertaken under the component 'widening participation and spreading excellence' of the part 'Widening participation and strengthening the ERA'; and bottom-up coordination without co-funding of research activities from the Union that allows for cooperation between legal entities from Member States and associated countries in order to strengthen the ERA;
+(40)
+'inducement prize' means a prize to spur investment in a given direction by specifying a target prior to the performance of the work;
+(41)
+'recognition prize' means a prize to reward past achievements and outstanding work after it has been performed;
+(42)
+'innovation and market deployment action' means an action which embeds an innovation action and other activities necessary to deploy an innovation in the market, including the scaling-up of companies, Horizon Europe blended finance or EIC blended finance;
+(43)
+'indirect actions' means R&I activities to which the Union provides financial support and which are undertaken by participants;
+(44)
+'direct actions' means R&I activities undertaken by the Commission through its JRC;
+(45)
+'procurement' means procurement as defined in point (49) of Article 2 of the Financial Regulation;
+(46)
+'affiliated entity' means an entity as defined in Article 187(1) of the Financial Regulation;
+(47)
+'innovation ecosystem' means an ecosystem that brings together at Union level actors or entities whose functional goal is to enable technology development and innovation; it encompasses relations between material resources (such as funds, equipment, and facilities), institutional entities (such as higher education institutions and support services, research and technology organisations, companies, venture capitalists and financial intermediaries) and national, regional and local policy-making and funding entities;
+(48)
+'project-based remuneration' means remuneration that is linked to the participation of a person in projects, is part of the beneficiary's usual remuneration practices and is paid in a consistent manner.

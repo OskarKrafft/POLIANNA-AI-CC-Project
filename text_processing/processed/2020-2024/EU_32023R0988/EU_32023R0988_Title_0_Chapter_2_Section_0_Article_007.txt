@@ -1,0 +1,9 @@
+Article 7
+Presumption of conformity with the general safety requirement
+1.   For the purpose of this Regulation, a product shall be presumed to be in conformity with the general safety requirement laid down in Article 5 of this Regulation in the following cases:
+(a)
+it conforms to relevant European standards or parts thereof as far as the risks and risk categories covered by those standards are concerned, the references of which have been published in the Official Journal of the European Union in accordance with Article 10(7) of Regulation (EU) No 1025/2012; or
+(b)
+in the absence of any relevant European standards as referred to in point (a) of this paragraph, the product conforms to national requirements, as regards the risks and risk categories covered by health and safety requirements laid down in the national law of the Member State in which it is made available on the market, provided that such law is in compliance with Union law.
+2.   The Commission shall adopt implementing acts determining the specific safety requirements to be covered by European standards in order to ensure that products which conform to those European standards satisfy the general safety requirement laid down in Article 5. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(3).
+3.   However, the presumption of conformity with the general safety requirement under paragraph 1 shall not prevent market surveillance authorities from taking all appropriate measures under this Regulation where there is evidence that, despite such presumption, the product is dangerous.

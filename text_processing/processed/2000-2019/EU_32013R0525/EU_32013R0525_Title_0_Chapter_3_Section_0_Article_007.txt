@@ -1,0 +1,53 @@
+Article 7
+Greenhouse gas inventories
+1.   By 15 January each year (year X), Member States shall determine and report the following to the Commission:
+(a)
+their anthropogenic emissions of greenhouse gases listed in Annex I to this Regulation and the anthropogenic emissions of greenhouse gases referred to in Article 2(1) of Decision No 406/2009/EC for the year X-2, in accordance with UNFCCC reporting requirements. Without prejudice to the reporting of the greenhouse gases listed in Annex I to this Regulation, the CO2 emissions from IPCC source category ‘1.A.3.A civil aviation’ shall be considered equal to zero for the purposes of Article 3 and Article 7(1) of Decision No 406/2009/EC;
+(b)
+data in accordance with UNFCCC reporting requirements on their anthropogenic emissions of carbon monoxide (CO), sulphur dioxide (SO2), nitrogen oxides (NOx) and volatile organic compounds, consistent with data already reported pursuant to Article 7 of Directive 2001/81/EC and the UNECE Convention on Long-Range Transboundary Pollution, for the year X-2;
+(c)
+their anthropogenic greenhouse gas emissions by sources and removals of CO2 by sinks resulting from LULUCF, for the year X-2, in accordance with UNFCCC reporting requirements;
+(d)
+their anthropogenic greenhouse gas emissions by sources and removals of CO2 by sinks resulting from LULUCF activities pursuant to Decision No 529/2013/EU and the Kyoto Protocol and information on the accounting of these greenhouse gas emissions and removals from LULUCF activities, in accordance with Decision No 529/2013/EU and with Article 3(3) and (4) of the Kyoto Protocol, and relevant decisions thereunder, for the years between 2008 or other applicable years and the year X-2. Where Member States account for cropland management, grazing land management, revegetation or wetland drainage and rewetting, they shall in addition report greenhouse gas emissions by sources and removals by sinks for each such activity for the relevant base year or period specified in Annex VI to Decision No 529/2013/EU and in the Annex to Decision 13/CMP.1. In complying with their reporting obligations pursuant to this point, and in particular when submitting information on emissions and removals relating to their accounting obligations set out in Decision No 529/2013/EU, Member States shall submit information taking fully into account applicable IPCC good practice guidance for LULUCF;
+(e)
+any changes to the information referred to in points (a) to (d) for the years between the relevant base year or period and the year X-3, indicating the reasons for these changes;
+(f)
+information on indicators, as set out in Annex III, for the year X-2;
+(g)
+information from their national registry on the issue, acquisition, holding, transfer, cancellation, retirement and carry-over of AAUs, RMUs, ERUs, CERs, tCERs and lCERs for the year X-1;
+(h)
+summary information on concluded transfers pursuant to Article 3(4) and (5) of Decision No 406/2009/EC, for the year X-1;
+(i)
+information on the use of joint implementation, of the CDM and of international emissions trading, pursuant to Articles 6, 12 and 17 of the Kyoto Protocol, or any other flexible mechanism provided for in other instruments adopted by the Conference of the Parties to the UNFCCC or the Conference of the Parties to the UNFCCC serving as the meeting of the Parties to the Kyoto Protocol, to meet their quantified emission limitation or reduction commitments pursuant to Article 2 of Decision 2002/358/EC and the Kyoto Protocol or any future commitments under the UNFCCC or the Kyoto Protocol, for the year X-2;
+(j)
+information on the steps taken to improve inventory estimates, in particular in areas of the inventory that have been subject to adjustments or recommendations following expert reviews;
+(k)
+the actual or estimated allocation of the verified emissions reported by installations and operators under Directive 2003/87/EC to the source categories of the national greenhouse gas inventory, where possible, and the ratio of those verified emissions to the total reported greenhouse gas emissions in those source categories, for the year X-2;
+(l)
+where relevant, the results of the checks performed on the consistency of the emissions reported in the greenhouse gas inventories, for the year X-2, with the verified emissions reported under Directive 2003/87/EC;
+(m)
+where relevant, the results of the checks performed on the consistency of the data used to estimate emissions in preparation of the greenhouse gas inventories, for the year X-2, with:
+(i)
+the data used to prepare inventories of air pollutants under Directive 2001/81/EC;
+(ii)
+the data reported pursuant to Article 6(1) of Regulation (EC) No 842/2006;
+(iii)
+the energy data reported pursuant to Article 4 of, and Annex B to, Regulation (EC) No 1099/2008;
+(n)
+a description of changes to their national inventory system;
+(o)
+a description of changes to the national registry;
+(p)
+information on their quality assurance and quality control plans, a general uncertainty assessment, a general assessment of completeness and, where available, other elements of the national greenhouse gas inventory report needed to prepare the Union greenhouse gas inventory report.
+In the first reporting year under this Regulation, Member States shall inform the Commission of any intention to make use of Article 3(4) and (5) of Decision No 406/2009/EC.
+2.   Member States shall report to the Commission preliminary data by 15 January and final data by 15 March of the second year after the end of each accounting period specified in Annex I to Decision No 529/2013/EU, as prepared for their LULUCF accounts for that accounting period in accordance with Article 4(6) of that Decision.
+3.   By 15 March each year, Member States shall communicate to the Commission a complete and up-to-date national inventory report. Such report shall contain all the information listed in paragraph 1 and any subsequent updates to that information.
+4.   By 15 April each year, Member States shall submit to the UNFCCC Secretariat national inventories containing information submitted to the Commission in accordance with paragraph 3.
+5.   The Commission shall, in cooperation with the Member States, annually compile a Union greenhouse gas inventory and prepare a Union greenhouse gas inventory report and shall submit them, by 15 April each year, to the UNFCCC Secretariat.
+6.   The Commission shall be empowered to adopt delegated acts in accordance with Article 25 to:
+(a)
+add or delete substances to or from the list of greenhouse gases in Annex I to this Regulation or add, delete or amend indicators in Annex III to this Regulation in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them;
+(b)
+take account of changes in the GWPs and internationally agreed inventory guidelines in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them.
+7.   The Commission shall adopt implementing acts to set out the structure, format and process for the Member States’ submission of greenhouse gas inventories pursuant to paragraph 1 in accordance with relevant decisions adopted by the bodies of the UNFCCC or the Kyoto Protocol or of agreements deriving from them or succeeding them. Those implementing acts shall also specify the timescales for cooperation and coordination between the Commission and the Member States in preparing the Union greenhouse gas inventory report. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).
+8.   The Commission shall adopt implementing acts to set out the structure, format and process for Member States’ submission of greenhouse gas emissions and removals in accordance with Article 4 of Decision No 529/2013/EU. In adopting those implementing acts, the Commission shall ensure compatibility of Union and UNFCCC timetables for the monitoring and reporting of that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 26(2).

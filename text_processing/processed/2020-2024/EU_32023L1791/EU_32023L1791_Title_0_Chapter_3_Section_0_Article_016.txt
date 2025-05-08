@@ -1,0 +1,4 @@
+Article 16
+Remote reading requirement
+1.   For the purposes of Articles 14 and 15, newly installed meters and heat cost allocators shall be remotely readable devices. The conditions of technical feasibility and cost effectiveness set out in Article 15(1) shall apply.
+2.   Meters and heat cost allocators which are not remotely readable but which have already been installed shall be rendered remotely readable or replaced with remotely readable devices by 1 January 2027, save where the Member State in question shows that this is not cost-efficient.

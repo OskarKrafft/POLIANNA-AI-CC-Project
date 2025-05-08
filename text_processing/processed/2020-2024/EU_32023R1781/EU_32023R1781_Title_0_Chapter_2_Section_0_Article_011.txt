@@ -1,0 +1,19 @@
+Article 11
+European network of competence centres in semiconductors
+1.   For the purposes of the Initiative’s operational objective 4, a European network of competence centres in semiconductors, system integration and design (the ‘network’) shall be established. The network shall be composed of the competence centres selected by the Chips Joint Undertaking in accordance with paragraph 3.
+2.   Competence centres shall perform all or some of the following activities to the benefit of and in close cooperation with the Union industry, in particular SMEs and mid-caps, as well as research and technology organisations, universities, and the public sector and other relevant stakeholders across the semiconductor value chain:
+(a)
+providing access to design services and design tools under the Initiative’s operational objective 1, as well as to the pilot lines supported under the Initiative’s operational objective 2;
+(b)
+raising awareness and providing the necessary know-how, expertise and skills to the stakeholders for helping them accelerate the development of new semiconductor technologies, semiconductor manufacturing, equipment, design options and system concepts as well as the integration of new semiconductor technologies, by using effectively the infrastructure and other available resources of the network;
+(c)
+raising awareness and providing or ensuring access to expertise, know-how and services, including system design readiness, new and existing pilot lines and supporting actions necessary to build skills and competences supported by the Initiative;
+(d)
+facilitating the transfer of expertise and know-how between Member States and regions encouraging exchanges of skills, knowledge and good practices and encouraging joint programmes;
+(e)
+developing and managing specific training actions on semiconductor technologies and their applications to support the development of the talent pool, by skilling and reskilling, and to increase the number of students as well as the quality of education in relevant fields of studies up to PhD level at schools and universities located in the Union by facilitating connections between students and semiconductor companies across the Union, while paying particular attention to women’s participation.
+3.   Member States shall designate candidate competence centres in accordance with their national procedures, administrative and institutional structures through an open and competitive process.
+The work programme of the Chips Joint Undertaking shall set the procedure for establishing competence centres, including the selection criteria as well as further details on the implementation of the tasks and functions referred to in this Article.
+The Chips Joint Undertaking shall select the competence centres forming the network.
+Member States and the Commission shall maximise synergies with existing competence centres established under other Union initiatives such as the European Digital Innovation Hubs.
+4.   The competence centres shall have substantial overall autonomy to lay down their organisation, composition and working methods. The organisation, composition and working methods of the competence centres shall comply with and contribute to the objectives of this Regulation and the Initiative.

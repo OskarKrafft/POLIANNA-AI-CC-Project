@@ -1,0 +1,17 @@
+Article 9
+Risk assessment
+1.   By 3 December 2011, each Competent Authority shall make a full assessment, on the basis of the following common elements, of the risks affecting the security of gas supply in its Member State by:
+(a)
+using the standards specified in Articles 6 and 8, showing the calculation of the N – 1 formula, the assumptions used, including those for the calculation of the N – 1 formula at regional level, and the data necessary for such calculation;
+(b)
+taking into account all relevant national and regional circumstances, in particular market size, network configuration, actual flows, including outflows from the Member State concerned, the possibility of physical gas flows in both directions including the potential need for consequent reinforcement of the transmission system, the presence of production and storage and the role of gas in the energy mix, in particular with respect to district heating and electricity generation and for the operation of industries, and safety and gas quality considerations;
+(c)
+running various scenarios of exceptionally high gas demand and supply disruption, such as failure of the main transmission infrastructures, storages or LNG terminals, and disruption of supplies from third country suppliers, taking into account the history, probability, season, frequency and duration of their occurrence as well as, where appropriate, geopolitical risks, and assessing the likely consequences of these scenarios;
+(d)
+identifying the interaction and correlation of risks with other Member States, including, inter alia, as regards interconnections, cross-border supplies, cross-border access to storage facilities and bi-directional capacity;
+(e)
+taking into account the maximal interconnection capacity of each border entry and exit point.
+2.   Where Article 4(3) applies, the Competent Authorities concerned shall also perform a joint risk assessment at regional level.
+3.   Natural gas undertakings, industrial gas customers, the relevant organisations representing the interests of household and industrial gas customers as well as Member States and the national regulatory authority, where it is not the Competent Authority, shall cooperate with the Competent Authority and provide it upon request with all necessary information for the risk assessment.
+4.   The risk assessment shall be updated for the first time at the latest 18 months after adoption of the Preventive Action and Emergency Plans referred to in Article 4, and thereafter every 2 years before 30 September of the relevant year unless circumstances warrant more frequent updates. The risk assessment shall take account of progress made in investments needed to cope with the infrastructure standard defined in Article 6 and of country-specific difficulties encountered in the implementation of new alternative solutions.
+5.   The risk assessment, including updated versions, shall be made available to the Commission without delay.

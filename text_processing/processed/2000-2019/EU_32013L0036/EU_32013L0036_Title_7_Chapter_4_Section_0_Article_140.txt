@@ -1,0 +1,45 @@
+Article 140
+Calculation of institution-specific countercyclical capital buffer rates
+1.   The institution-specific countercyclical capital buffer rate shall consist of the weighted average of the countercyclical buffer rates that apply in the jurisdictions where the relevant credit exposures of the institution are located or are applied for the purposes of this Article by virtue of Article 139(2) or (3).
+Member States shall require institutions, in order to calculate the weighted average referred to in the first subparagraph, to apply to each applicable countercyclical buffer rate its total own funds requirements for credit risk, determined in accordance with Part Three, Titles II and IV of Regulation (EU) No 575/2013, that relates to the relevant credit exposures in the territory in question, divided by its total own funds requirements for credit risk that relates to all of its relevant credit exposures.
+2.   If, in accordance with Article 136(4), a designated authority sets a countercyclical buffer rate in excess of 2,5 % of total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, Member States shall ensure that the following buffer rates apply to relevant credit exposures located in the Member State of that designated authority (‧Member State A‧) for the purposes of the calculation required under paragraph 1 including, where relevant, for the purposes of the calculation of the element of consolidated capital that relates to the institution in question:
+(a)
+domestically authorised institutions shall apply that buffer rate in excess of 2,5 % of total risk exposure amount;
+(b)
+institutions that are authorised in another Member State shall apply a countercyclical buffer rate of 2,5 % of total risk exposure amount if the designated authority in the Member State in which they have been authorised has not recognised the buffer rate in excess of 2,5 % in accordance with Article 137(1);
+(c)
+institutions that are authorised in another Member State shall apply the countercyclical buffer rate set by the designated authority of Member State A if the designated authority in the Member State in which they have been authorised has recognised the buffer rate in accordance with Article 137.
+3.   If the countercyclical buffer rate set by the relevant third-country authority for a third country exceeds 2,5 % of total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013, Member States shall ensure that the following buffer rates apply to relevant credit exposures located in that third country for the purposes of the calculation required under paragraph 1 including, where relevant, for the purposes of the calculation of the element of consolidated capital that relates to the institution in question:
+(a)
+institutions shall apply a countercyclical buffer rate of 2,5 % of total risk exposure amount if the designated authority in the Member State in which they have been authorised has not recognised the buffer rate in excess of 2,5 % in accordance with Article 137(1);
+(b)
+institutions shall apply the countercyclical buffer rate set by the relevant third-country authority if the designated authority in the Member State in which they have been authorised has recognised the buffer rate in accordance with Article 137.
+4.   Relevant credit exposures shall include all those exposure classes, other than those referred to in points (a) to (f) of Article 112 of Regulation (EU) No 575/2013, that are subject to:
+(a)
+the own funds requirements for credit risk under Part Three, Title II of that Regulation;
+(b)
+where the exposure is held in the trading book, own funds requirements for specific risk under Part Three, Title IV, Chapter 2 of that Regulation or incremental default and migration risk under Part Three, Title IV, Chapter 5 of that Regulation;
+(c)
+where the exposure is a securitisation, the own funds requirements under Part Three, Title II, Chapter 5 of that Regulation.
+5.   Institutions shall identify the geographical location of a relevant credit exposure in accordance with regulatory technical standards adopted in accordance with paragraph 7.
+6.   For the purposes of the calculation required under paragraph 1:
+(a)
+a countercyclical buffer rate for a Member State shall apply from the date specified in the information published in accordance with Article 136(7)(e) or Article 137(2)(c) if the effect of that decision is to increase the buffer rate;
+(b)
+subject to point (c), a countercyclical buffer rate for a third country shall apply 12 months after the date on which a change in the buffer rate was announced by the relevant third-country authority, irrespective of whether that authority requires institutions incorporated in that third country to apply the change within a shorter period, if the effect of that decision is to increase the buffer rate;
+(c)
+where the designated authority of the home Member State of the institution sets the countercyclical buffer rate for a third country pursuant to Article 139(2) or (3), or recognises the countercyclical buffer rate for a third country pursuant to Article 137, that buffer rate shall apply from the date specified in the information published in accordance with Article 139(5)(c) or Article 137(2)(c), if the effect of that decision is to increase the buffer rate;
+(d)
+a countercyclical buffer rate shall apply immediately if the effect of that decision is to reduce the buffer rate.
+For the purposes of point (b), a change in the countercyclical buffer rate for a third country shall be considered to be announced on the date that it is published by the relevant third-country authority in accordance with the applicable national rules.
+7.   EBA shall develop draft regulatory technical standards to specify the method for the identification of the geographical location of the relevant credit exposures referred to in paragraph 5.
+EBA shall submit those draft regulatory standards to the Commission by 1 January 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Section III
+
+
+
+Capital conservation measures
+
+

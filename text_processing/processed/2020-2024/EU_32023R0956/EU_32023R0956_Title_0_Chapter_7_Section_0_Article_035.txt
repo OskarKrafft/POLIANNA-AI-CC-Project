@@ -1,0 +1,42 @@
+Article 35
+Reporting obligation
+1.   Each importer or, in the situations covered by Article 32, the indirect customs representative, having imported goods during a given quarter of a calendar year shall, for that quarter, submit a report (‘CBAM report’) containing information on the goods imported during that quarter, to the Commission, no later than one month after the end of that quarter.
+2.   The CBAM report shall include the following information:
+(a)
+the total quantity of each type of goods, expressed in megawatt-hours for electricity and in tonnes for other goods, specified for each installation producing the goods in the country of origin;
+(b)
+the actual total embedded emissions, expressed in tonnes of CO2e emissions per megawatt-hour of electricity or for other goods in tonnes of CO2e emissions per tonne of each type of goods, calculated in accordance with the method set out in Annex IV;
+(c)
+the total indirect emissions calculated in accordance with the implementing act referred to in paragraph 7;
+(d)
+the carbon price due in a country of origin for the embedded emissions in the imported goods, taking into account any rebate or other form of compensation available.
+3.   The Commission shall periodically communicate to the relevant competent authorities a list of those importers or indirect customs representatives established in the Member State, including the corresponding justifications, which it has reasons to believe have failed to comply with the obligation to submit a CBAM report in accordance with paragraph 1.
+4.   Where the Commission considers that a CBAM report is incomplete or incorrect, it shall communicate to the competent authority of the Member State where the importer is established or, in the situations covered by Article 32, the indirect customs representative is established, the additional information it considers necessary to complete or correct that report. Such information shall be provided for indicative purposes and without prejudice to the definitive appreciation by that competent authority. That competent authority shall initiate the correction procedure and notify the importer or, in the situations covered by Article 32, the indirect customs representative of the additional information necessary to correct that report. Where appropriate, that importer or that indirect customs representative shall submit a corrected report to the competent authority concerned and to the Commission.
+5.   Where the competent authority of the Member State referred to in paragraph 4 of this Article initiates a correction procedure, including in consideration of information received in accordance with paragraph 4 of this Article, and determines that the importer or, where applicable in accordance with Article 32, the indirect customs representative has not taken the necessary steps to correct the CBAM report, or where the competent authority concerned determines, including in consideration of information received in accordance with paragraph 3 of this Article, that the importer or, where applicable in accordance with Article 32, the indirect customs representative has failed to comply with the obligation to submit a CBAM report in accordance with paragraph 1 of this Article, that competent authority shall impose an effective, proportionate and dissuasive penalty on the importer or, where applicable in accordance with Article 32, the indirect customs representative. To that end, the competent authority shall notify the importer or, where applicable in accordance with Article 32, the indirect customs representative and inform the Commission, of the following:
+(a)
+the conclusion, and reasons for that conclusion, that the importer or, where applicable in accordance with Article 32, the indirect customs representative has failed to comply with the obligation of submitting a report for a given quarter or to take the necessary steps to correct the report;
+(b)
+the amount of the penalty imposed on the importer or, where applicable in accordance with Article 32, the indirect customs representative;
+(c)
+the date from which the penalty is due;
+(d)
+the action that the importer or, where applicable in accordance with Article 32, the indirect customs representative is to take to pay the penalty; and
+(e)
+the right of the importer or, where applicable in accordance with Article 32, the indirect customs representative to appeal.
+6.   Where the competent authority, after receiving the information from the Commission under this Article, decides not to take any action, the competent authority shall inform the Commission accordingly.
+7.   The Commission is empowered to adopt implementing acts concerning:
+(a)
+the information to be reported, the means and format for that reporting, including detailed information per country of origin and type of goods to support the totals referred to in paragraph 2, points (a), (b) and (c), and examples of any relevant rebate or other form of compensation available as referred to in paragraph 2, point (d);
+(b)
+the indicative range of penalties to be imposed pursuant to paragraph 5 and the criteria to take into account for determining the actual amount, including the gravity and duration of the failure to report;
+(c)
+detailed rules on the conversion of the yearly average carbon price due referred to in paragraph 2, point (d), expressed in foreign currency into euro at the yearly average exchange rate;
+(d)
+detailed rules on the elements of the calculation methods set out in Annex IV, including determining system boundaries of production processes, emission factors, installation-specific values of actual emissions and their respective application to individual goods as well as laying down methods to ensure the reliability of data, including the level of detail; and
+(e)
+the means and format for the reporting requirements for indirect emissions in imported goods; that format shall include the quantity of electricity used for the production of the goods listed in Annex I, as well as the country of origin, generation source and emission factors related to that electricity.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2) of this Regulation. They shall apply for goods imported during the transitional period referred to in Article 32 of this Regulation and shall build upon existing legislation for installations that fall within the scope of Directive 2003/87/EC.
+CHAPTER XI
+
+FINAL PROVISIONS
+

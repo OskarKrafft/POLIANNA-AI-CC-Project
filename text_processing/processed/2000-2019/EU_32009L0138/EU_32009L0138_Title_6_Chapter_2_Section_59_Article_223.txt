@@ -1,0 +1,11 @@
+Article 223
+Elimination of the intra-group creation of capital
+1.   When calculating group solvency, no account shall be taken of any own funds eligible for the Solvency Capital Requirement arising out of reciprocal financing between the participating insurance or reinsurance undertaking and any of the following:
+(a)
+a related undertaking;
+(b)
+a participating undertaking;
+(c)
+another related undertaking of any of its participating undertakings.
+2.   When calculating group solvency, no account shall be taken of any own funds eligible for the Solvency Capital Requirement of a related insurance or reinsurance undertaking of the participating insurance or reinsurance undertaking for which the group solvency is calculated where the own funds concerned arise out of reciprocal financing with any other related undertaking of that participating insurance or reinsurance undertaking.
+3.   Reciprocal financing shall be deemed to exist at least where an insurance or reinsurance undertaking, or any of its related undertakings, holds shares in, or makes loans to, another undertaking which, directly or indirectly, holds own funds eligible for the Solvency Capital Requirement of the first undertaking.

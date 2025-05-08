@@ -1,0 +1,11 @@
+Article 113
+Specific provisions for the approval of partial internal models
+1.   In the case of a partial internal model, supervisory approval shall be given only where that model fulfils the requirements set out in Article 112 and the following additional conditions:
+(a)
+the reason for the limited scope of application of the model is properly justified by the undertaking;
+(b)
+the resulting Solvency Capital Requirement reflects more appropriately the risk profile of the undertaking and in particular complies with the principles set out in Subsection 1;
+(c)
+its design is consistent with the principles set out in Subsection 1 so as to allow the partial internal model to be fully integrated into the Solvency Capital Requirement standard formula.
+2.   When assessing an application for the use of a partial internal model which only covers certain sub-modules of a specific risk module, or some of the business units of an insurance or reinsurance undertaking with respect to a specific risk module, or parts of both, supervisory authorities may require the insurance and reinsurance undertakings concerned to submit a realistic transitional plan to extend the scope of the model.
+The transitional plan shall set out the manner in which insurance and reinsurance undertakings plan to extend the scope of the model to other sub-modules or business units, in order to ensure that the model covers a predominant part of their insurance operations with respect to that specific risk module.

@@ -1,0 +1,5 @@
+Article 9
+In addition to the requirements set out in Articles 8 and 10(1), an application for authorization to market a radionuclide generator shall also contain the following information and particulars:
+- a general description of the system together with a detailed description of the components of the system which may affect the composition or quality of the daughter nucleid preparation,
+- qualitative and quantitative particulars of the eluate or the sublimate.
+

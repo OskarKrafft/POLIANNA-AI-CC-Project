@@ -1,0 +1,4 @@
+Article 144
+Functioning of the database for the early-detection and exclusion system
+1.   Information requested from the entities referred to in point (d) of Article 142(2) shall be transmitted only through the automated information system established by the Commission currently in use for reporting of fraud and irregularities (‘the Irregularity Management System’), in accordance with sector-specific rules.
+2.   The use of the data received through the Irregularity Management System shall take into consideration the status of the national procedure that existed at the time when the information was submitted. Such use shall be preceded by a consultation of the Member State that has submitted the relevant data through the Irregularity Management System.

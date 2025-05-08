@@ -1,0 +1,25 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘farm’ or ‘agricultural holding’ means a single unit, both technically and economically, that has a single management and that undertakes economic activities in agriculture in accordance with Regulation (EC) No 1893/2006 belonging to groups A.01.1, A.01.2, A.01.3, A.01.4, A.01.5 or to the ‘maintenance of agricultural land in good agricultural and environmental condition’ of group A.01.6 within the economic territory of the Union, either as its primary or secondary activity. Regarding activities of class A.01.49, only the activities ‘Raising and breeding of semi-domesticated or other live animals’ (with the exception of raising of insects) and ‘Bee-keeping and production of honey and beeswax’ are included;
+(b)
+‘common land agricultural unit’ means an entity of land on which common rights apply and which is used by two or more agricultural holdings for agricultural production, but is not allocated amongst them;
+(c)
+‘region’ means the territorial unit of the Nomenclature of Territorial Units for Statistics (NUTS), defined in accordance with Regulation (EC) No 1059/2003;
+(d)
+‘livestock unit’ means a standard measurement unit that allows for the aggregation of the various categories of livestock in order for them to be compared; the coefficients for establishing the livestock units for individual livestock categories are listed in Annex I;
+(e)
+‘utilised agricultural area’ or ‘UAA’ means the land area used for farming, including arable land, permanent grassland, permanent crops, and other utilised agricultural land;
+(f)
+‘reference year’ means a calendar year to which the reference periods refer;
+(g)
+‘kitchen garden’ means areas used for food production intended for one's own consumption;
+(h)
+‘module’ means one or more data sets organised in order to cover topics;
+(i)
+‘topic’ means the content of the information to be collected about the statistical units, each topic covering a number of detailed topics;
+(j)
+‘detailed topic’ means the detailed content of the information to be collected about the statistical units related to a specific topic, each detailed topic covering a number of variables;
+(k)
+‘variable’ means a characteristic of a unit being observed that may assume more than one of a set of values.

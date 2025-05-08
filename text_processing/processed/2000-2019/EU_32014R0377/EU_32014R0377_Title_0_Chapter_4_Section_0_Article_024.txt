@@ -1,0 +1,15 @@
+Article 24
+Conditions and limitations of Copernicus data and Copernicus information access and use
+1.   The Commission, respecting third party data and information policies and without prejudice to rules and procedures applicable to space and in situ infrastructure under national control or under control of international organisations, may adopt delegated acts in accordance with Article 31, concerning:
+(a)
+the conditions and procedures as regards access to, registration and use of Copernicus data and Copernicus information, including the dissemination means;
+(b)
+the specific technical criteria necessary to prevent the disruption of Copernicus data and Copernicus information, including priority of access;
+(c)
+the criteria and procedures for the restriction of acquisition or dissemination of Copernicus data and Copernicus information due to conflicting rights.
+2.   The Commission, respecting third party data and information policies and without prejudice to rules and procedures applicable to space and in situ infrastructure under national control or under control of international organisations, may adopt measures in accordance with the examination procedure referred to in Article 30(4), concerning:
+(a)
+the technical specifications for the transmission and use of dedicated mission data transmitted to receiving stations or via dedicated high bandwidth connections to stations not part of Copernicus;
+(b)
+the technical specifications for the archiving of Copernicus data and Copernicus information.
+3.   The Commission shall establish the relevant licensing conditions and procedures for dedicated missions data and Copernicus information, and the transmission of satellite data to receiving stations or via dedicated high bandwidth connections to stations not part of Copernicus in compliance with this Regulation and applicable third-party rights.

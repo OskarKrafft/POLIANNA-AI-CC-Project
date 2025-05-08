@@ -1,0 +1,67 @@
+Article 9
+Minimum energy performance standards for non-residential buildings and trajectories for progressive renovation of the residential building stock
+1.   Member States shall establish minimum energy performance standards for non-residential buildings which ensure that those buildings do not exceed the specified maximum energy performance threshold, as referred to in the third subparagraph, expressed by a numeric indicator of primary or final energy use in kWh/(m2.y), by the dates specified in the fifth subparagraph.
+The maximum energy performance thresholds shall be established on the basis of the non-residential building stock on 1 January 2020, based on available information and, where appropriate, on statistical sampling. Member States shall exclude from the baseline non-residential buildings that they exempt pursuant to paragraph 6.
+Each Member State shall set a maximum energy performance threshold to the effect that 16 % of its national non-residential building stock is above that threshold (the ‘16 % threshold’). Each Member State shall also set a maximum energy performance threshold to the effect that 26 % of its national non-residential building stock is above that threshold (the ‘26 % threshold’). Member States may set the maximum energy performance thresholds with reference to the national non-residential building stock as a whole or per building type or category of building.
+Member States may set the thresholds at a level corresponding to a specific energy performance class, provided that they comply with the third subparagraph.
+The minimum energy performance standards shall ensure, at least, that all non-residential buildings are below:
+(a)
+the 16 % threshold from 2030; and
+(b)
+the 26 % threshold from 2033.
+Compliance of individual non-residential buildings with the thresholds shall be checked on the basis of energy performance certificates or, where appropriate, other available means.
+In their roadmaps as referred to in Article 3(1), point (b), Member States shall establish specific timelines for non-residential buildings to comply with lower maximum energy performance thresholds by 2040 and 2050, in line with the pathway for transforming the national building stock into zero-emission buildings.
+Member States may establish and publish criteria to exempt individual non-residential buildings, in light of the expected future use of those buildings, in light of serious hardship or in the case of an unfavourable cost-benefit assessment, from requirements in this paragraph. Any such criteria shall be clear, precise and stringent and shall ensure equal treatment between non-residential buildings. When establishing those criteria Member States shall enable the ex ante assessment of the potential share of non-residential buildings covered and shall avoid a disproportionate number of non-residential buildings from being exempted. Member States shall also report on the criteria as part of their national building renovation plans submitted to the Commission pursuant to Article 3.
+Where Member States establish criteria for exemptions pursuant to the eighth subparagraph, they shall achieve equivalent energy performance improvements in other parts of the non-residential building stock.
+Where the overall renovation necessary to achieve the energy performance thresholds specified in this paragraph has an unfavourable cost-benefit assessment for a given non-residential building, Member States shall require that, for that given non-residential building, at least those individual renovation measures with a favourable cost-benefit assessment are implemented.
+To the extent that the national non-residential building stock, or part of it, is seriously damaged by a natural disaster, a Member State may temporarily adjust the maximum energy performance threshold so that the energy renovation of damaged non-residential buildings replaces the energy renovation of other worst-performing non-residential buildings, whilst ensuring that a similar percentage of the non-residential building stock undergoes energy renovation. In that case, the Member State shall report the adjustment and its projected length in its national building renovation plan.
+2.   By 29 May 2026, each Member State shall establish a national trajectory for the progressive renovation of the residential building stock in line with the national roadmap and the 2030, 2040 and 2050 targets contained in the Member State’s national building renovation plan and with the aim of transforming the national building stock into a zero-emission building stock by 2050. The national trajectory for the progressive renovation of the residential building stock shall be expressed as a decrease in the average primary energy use in kWh/(m2.y) of the entire residential building stock over the period from 2020 to 2050, and shall identify the number of residential buildings and residential building units or floor area to be renovated annually, including the number or floor area of the 43 % worst-performing residential buildings and residential building units.
+Member States shall ensure that the average primary energy use in kWh/(m2.y) of the entire residential building stock:
+(a)
+decreases by at least 16 % compared to 2020 by 2030;
+(b)
+decreases by at least 20-22 % compared to 2020 by 2035;
+(c)
+by 2040, and every 5 years thereafter, is equivalent to, or lower than the nationally determined value derived from a progressive decrease in the average primary energy use from 2030 to 2050, in line with the transformation of the residential building stock into a zero-emission building stock.
+Member States shall ensure that at least 55 % of the decrease in the average primary energy use referred to in the third subparagraph is achieved through the renovation of the 43 % worst-performing residential buildings. Member States may count the decrease in the average primary energy use achieved by the renovation of residential buildings affected by natural disasters such as earthquakes and floods towards the share achieved by means of the renovation of the 43 % worst-performing residential buildings.
+In their renovation efforts to achieve the required decrease in the average primary energy use of the entire residential building stock, Member States shall put in place measures such as minimum energy performance standards, technical assistance and financial support measures.
+In their renovation efforts, Member States shall not disproportionately exempt rental residential buildings or building units.
+Member States shall report in the national building renovation plans the methodology used and data gathered for estimating the values referred to in the second and third subparagraphs. As part of the assessment of national building renovation plans, the Commission shall monitor the achievement of the values referred to in the second and third subparagraphs, including the number of buildings and building units or floor area of the 43 % worst-performing residential buildings, and make recommendations where necessary. Those recommendations may include a more extensive use of minimum energy performance standards.
+The national trajectory for the progressive renovation of the residential building stock shall refer to data on the national residential building stock, based, as appropriate, on statistical sampling and energy performance certificates.
+If the average fossil share of energy use in residential buildings is lower than 15 %, Member States may adjust the levels laid down in the points (a) and (b) of the third subparagraph, to ensure that the average primary energy use in kWh/(m2.y) of the entire residential building stock by 2030, and every five years thereafter, is equivalent to, or lower than a nationally determined value derived from a linear decrease in the average primary energy use from 2020 to 2050, in line with the transformation of the residential building stock into a zero-emission building stock.
+3.   In addition to primary energy use referred to in paragraphs 1 and 2 of this Article, Member States may establish additional indicators of non-renewable and renewable primary energy use, and of operational greenhouse gas emissions produced in kgCO2eq/(m2.y). In order to ensure reduction of operational greenhouse gas emissions, minimum energy performance standards shall take into account Article 15a(1) of Directive (EU) 2018/2001.
+4.   In accordance with Article 17, Member States shall support compliance with minimum energy performance standards by all of the following measures:
+(a)
+providing appropriate financial measures, in particular those targeting vulnerable households, people affected by energy poverty or, where applicable, living in social housing, in accordance with Article 24 of Directive (EU) 2023/1791;
+(b)
+providing technical assistance, including through one-stop shops with a particular focus on vulnerable households and, where applicable, people living in social housing, in accordance with Article 24 of Directive (EU) 2023/1791;
+(c)
+designing integrated financing schemes which provide incentives for deep renovations and staged deep renovations, pursuant to Article 17;
+(d)
+removing non-economic barriers, including split incentives; and
+(e)
+monitoring social impacts, in particular on the most vulnerable households.
+5.   Where a building is renovated in order to comply with a minimum energy performance standard, Member States shall ensure compliance with the minimum energy performance requirements for building elements pursuant to Article 5 and, in the case of major renovation, with the minimum energy performance requirements for existing buildings pursuant to Article 8.
+6.   Member States may decide not to apply the minimum energy performance standards referred to in paragraphs 1 and 2 to the following categories of building:
+(a)
+buildings officially protected as part of a designated environment or because of their special architectural or historical merit, or other heritage buildings, in so far as compliance with the standards would unacceptably alter their character or appearance, or if their renovation is not technically or economically feasible;
+(b)
+buildings used as places of worship and for religious activities;
+(c)
+temporary buildings with a time of use of two years or less, industrial sites, workshops and non-residential agricultural buildings with low energy demand and non-residential agricultural buildings which are used by a sector covered by a national sectoral agreement on energy performance;
+(d)
+residential buildings which are used or intended to be used for either less than four months of the year or, alternatively, for a limited annual time of use and with an expected energy consumption of less than 25 % of what would be the result of all-year use;
+(e)
+stand-alone buildings with a total useful floor area of less than 50 m2;
+(f)
+buildings owned by the armed forces or central government and serving national defence purposes, apart from single living quarters or office buildings for the armed forces and other staff employed by national defence authorities.
+7.   Member States shall take the measures necessary to ensure the implementation of minimum energy performance standards referred to in paragraphs 1 and 2 of this Article, including appropriate monitoring mechanisms and penalties in accordance with Article 34.
+When laying down the rules on penalties, Member States shall take into account the financial situation and access to adequate financial support of homeowners, in particular for vulnerable households.
+8.   By 31 March 2025, the Commission shall, in support of the implementation of this Directive and taking due account of the principle of subsidiarity, present an analysis with particular regard to:
+(a)
+the effectiveness of, the appropriateness of the level of, the actual amount used from, and the types of instrument used with regard to structural funds and Union framework programmes, including funding from the European Investment Bank, for improving the energy performance of buildings, especially in housing;
+(b)
+the effectiveness of, the appropriateness of the level of, and the types of instrument and types of measure used with regard to funds from public finance institutions;
+(c)
+the coordination of Union and national funding and other types of measure that can act as leverage for stimulating investments in the energy performance of buildings, and the adequacy of such funding for achieving Union objectives.
+On the basis of that analysis, the Commission shall submit a report to the European Parliament and to the Council on the effectiveness and appropriateness of financing instruments towards the improvement of the energy performance of buildings, in particular the worst-performing ones.

@@ -1,0 +1,42 @@
+Article 73
+Group resolution involving a subsidiary undertaking of the group
+1.   A resolution authority shall notify the information listed in paragraph 2 without delay to the group-level resolution authority, if different, to the group supervisor, and to the members of the resolution college concerned where:
+(a)
+the resolution authority decides that an insurance or reinsurance undertaking that is a subsidiary undertaking of a group, is failing or likely to fail; or
+(b)
+the resolution authority has been informed by the supervisory authority that a decision has been made that an insurance or reinsurance undertaking that is a subsidiary undertaking of a group, is failing or likely to fail; or
+(c)
+a resolution authority decides that an entity as referred to in Article 1(1), points (a) to (e), that is a subsidiary undertaking of a group, meets the conditions for resolution laid down in Article 19(1) or Article 20(3).
+2.   The information to be notified pursuant to paragraph 1 shall be the following:
+(a)
+the decision determining that the insurance or reinsurance undertaking is failing or likely to fail;
+(b)
+the decision that the entity referred to in Article 1(1), points (a) to (e), meets the conditions for resolution laid down in Article 19(1) or Article 20(3);
+(c)
+the resolution actions or insolvency measures that the resolution authority considers to be appropriate for the entity referred to in Article 1(1), points (a) to (e).
+3.   On receiving the notification referred to in paragraph 1, the group-level resolution authority, after having consulted the other members of the resolution college concerned, shall assess the likely impact of the resolution actions or other measures notified pursuant to paragraph 2, point (c), on the group and on group entities in other Member States, and whether the resolution actions or other measures would make it likely that the conditions for resolution referred to in Article 19(1) or Article 20(3) would be satisfied in relation to a group entity in another Member State.
+4.   Where the group-level resolution authority assesses that the resolution actions or other measures notified pursuant to paragraph 2, point (c), would not make it likely that the conditions laid down in Article 19(1) or Article 20(3) would be satisfied in relation to a group entity in another Member State, the resolution authority responsible for the entity referred to in Article 1(1), points (a) to (e), may take the resolution actions or other measures that it notified.
+5.   Where the group-level resolution authority assesses that the resolution actions or other measures notified pursuant to paragraph 2, point (c), would make it likely that the conditions laid down in Article 19(1) or Article 20(3) would be satisfied in relation to a group entity in another Member State, the group-level resolution authority shall, after receiving the notification referred to in paragraph 1, propose a group resolution scheme within five days and submit that scheme to the resolution college. That five-day period may be extended with the consent of the resolution authority which made the notification.
+6.   In the absence of an assessment by the group-level resolution authority within five days, or a longer period that has been agreed, after having received the notification referred to in paragraph 1, the resolution authority which made the notification may take the resolution actions or other measures that it notified.
+7.   The group resolution scheme referred to in paragraph 5 shall:
+(a)
+outline the resolution actions that the resolution authorities concerned should take in relation to the ultimate parent undertaking or particular group entities to meet the resolution objectives and to comply with the general principles governing resolution laid down in Article 22;
+(b)
+specify how the resolution actions referred to in point (a) should be coordinated;
+(c)
+establish a financing plan which takes into account the group resolution plan and the principles for sharing responsibility set out in that group resolution plan in accordance with Article 10(2), point (e).
+8.   Subject to paragraph 9, the group resolution scheme shall take the form of a joint decision of the group-level resolution authority and the resolution authorities responsible for the subsidiary undertakings that are covered by the group resolution scheme.
+EIOPA may, at the request of a resolution authority, assist the resolution authorities in reaching a joint decision in accordance with Article 31(2), point (c), of Regulation (EU) No 1094/2010.
+9.   A resolution authority that disagrees with the group resolution scheme proposed by the group-level resolution authority or that considers that, for reasons of protection of the collective interest of policy holders, the real economy and financial stability, it needs to take independent resolution actions or measures other than those proposed in the group resolution scheme in relation to an entity referred to in of Article 1(1), points (a) to (e), shall:
+(a)
+set out in detail the reasons for the disagreement or the reasons to depart from the group resolution scheme;
+(b)
+notify the group-level resolution authority and the other resolution authorities that are covered by the group resolution scheme of the reasons referred to in point (a);
+(c)
+inform the group-level resolution authority and the other resolution authorities that are concerned by the group resolution scheme about the resolution actions or measures it will take.
+When setting out the reasons for its disagreement, the resolution authority shall take into consideration the group resolution plans, the potential impact of the resolution actions or measures it will take on policy holders, the real economy and financial stability in the Member States concerned, and the potential effect of those resolution actions or measures on other parts of the group.
+10.   Resolution authorities that agree with the group resolution scheme proposed by the group-level resolution authority may reach a joint decision on a group resolution scheme covering group entities in those resolution authorities’ Member States without the participation of the disagreeing resolution authorities.
+11.   The joint decisions referred to in paragraphs 8 and 10 and the resolution actions or measures taken in accordance with paragraph 9 shall be recognised as conclusive and applied by the resolution authorities in the Member States concerned.
+12.   Resolution authorities shall take all resolution actions and measures referred to in this Article without delay, and with due regard to the urgency of the situation.
+13.   Where a group resolution scheme is not implemented, resolution authorities shall, when taking resolution actions in relation to any group entity, cooperate closely within the resolution college to achieve a coordinated resolution strategy for all the group entities that are failing or likely to fail.
+14.   Resolution authorities that take any resolution action in relation to any group entity shall inform the members of the resolution college regularly and fully about those actions or measures and their on-going progress.

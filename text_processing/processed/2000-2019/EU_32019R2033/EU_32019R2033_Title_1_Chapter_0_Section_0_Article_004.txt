@@ -1,0 +1,130 @@
+Article 4
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(1)
+‘ancillary services undertaking’ means an undertaking, the principal activity of which consists of owning or managing property, managing data‐processing services, or a similar activity which is ancillary to the principal activity of one or more investment firms;
+(2)
+‘asset management company’ means an asset management company as defined in point (19) of Article 4(1) of Regulation (EU) No 575/2013;
+(3)
+‘clearing member’ means an undertaking established in a Member State which fulfils the definition in point (14) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (17);
+(4)
+‘client’ means a client as defined in point (9) of Article 4(1) of Directive 2014/65/EU except that, for the purposes of Part Four of this Regulation, ‘client’ means any counterparty of the investment firm;
+(5)
+‘commodity and emission allowance dealer’ means a commodity and emission allowance dealer as defined in point (150) of Article 4(1) of Regulation (EU) No 575/2013;
+(6)
+‘commodity derivatives’ means commodity derivatives as defined in point (30) of Article 2(1) of Regulation (EU) No 600/2014;
+(7)
+‘competent authority’ means a competent authority as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034;
+(8)
+‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013;
+(9)
+‘dealing on own account’ means dealing on own account as defined in point (6) of Article 4(1) of Directive 2014/65/EU;
+(10)
+‘derivatives’ means derivatives as defined in point (29) of Article 2(1) of Regulation (EU) No 600/2014;
+(11)
+‘consolidated situation’ means the situation that results from applying the requirements of this Regulation in accordance with Article 7 to a Union parent investment firm, Union parent investment holding company or Union parent mixed financial holding company as if that undertaking formed, together with all the investment firms, financial institutions, ancillary services undertakings and tied agents in the investment firm group, a single investment firm; for the purpose of this definition, the terms ‘investment firm’, ‘financial institution’, ‘ancillary services undertaking’ and ‘tied agent’ shall also apply to undertakings established in third countries, which, were they established in the Union, would fulfil the definitions of those terms;
+(12)
+‘consolidated basis’ means on the basis of the consolidated situation;
+(13)
+‘execution of orders on behalf of clients’ means execution of orders on behalf of clients as defined in point (5) of Article 4(1) of Directive 2014/65/EU;
+(14)
+‘financial institution’ means an undertaking other than a credit institution or investment firm, and other than a pure industrial holding company, the principal activity of which is to acquire holdings or to pursue one or more of the activities listed in points (2) to (12) and point (15) of Annex I to Directive 2013/36/EU, including a financial holding company, a mixed financial holding company, an investment holding company, a payment institution within the meaning of Directive (EU) 2015/2366 of the European Parliament and of the Council (18), and an asset management company, but excluding insurance holding companies and mixed‐activity insurance holding companies as defined in point (g) of Article 212(1) of Directive 2009/138/EC of the European Parliament and of the Council (19);
+(15)
+‘financial instrument’ means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
+(16)
+‘financial holding company’ means a financial holding company as defined in point (20) of Article 4(1) of Regulation (EU) No 575/2013;
+(17)
+‘financial sector entity’ means a financial sector entity as defined in point (27) of Article 4(1) of Regulation (EU) No 575/2013;
+(18)
+‘initial capital’ means initial capital as defined in point (18) of Article 3(1) of Directive (EU) 2019/2034;
+(19)
+‘group of connected clients’ means a group of connected clients as defined in point (39) of Article 4(1) of Regulation (EU) No 575/2013;
+(20)
+‘investment advice’ means investment advice as defined in point (4) of Article 4(1) of Directive 2014/65/EU;
+(21)
+‘investment advice of an ongoing nature’ means the recurring provision of investment advice as well as the continuous or periodic assessment and monitoring or review of a client portfolio of financial instruments, including of the investments undertaken by the client on the basis of a contractual arrangement;
+(22)
+‘investment firm’ means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
+(23)
+‘investment holding company’ means a financial institution, the subsidiaries of which are exclusively or mainly investment firms or financial institutions, at least one of such subsidiaries being an investment firm, and which is not a financial holding company as defined in point (20) of Article 4(1) of Regulation (EU) No 575/2013;
+(24)
+‘investment services and activities’ means investment services and activities as defined in point (2) of Article 4(1) of Directive 2014/65/EU;
+(25)
+‘investment firm group’ means a group of undertakings which consists of a parent undertaking and its subsidiaries or of undertakings which meet the conditions set out in Article 22 of Directive 2013/34/EU of the European Parliament and of the Council (20), of which at least one is an investment firm and which does not include a credit institution;
+(26)
+‘K‐factors’ means own funds requirements set out in Title II of Part Three for risks that an investment firm poses to clients, markets and to itself;
+(27)
+‘assets under management’ or ‘AUM’ means the value of assets that an investment firm manages for its clients under both discretionary portfolio management and nondiscretionary arrangements constituting investment advice of an ongoing nature;
+(28)
+‘client money held’ or ‘CMH’ means the amount of client money that an investment firm holds, taking into account the legal arrangements in relation to asset segregation and irrespective of the national accounting regime applicable to client money held by the investment firm;
+(29)
+‘assets safeguarded and administered’ or ‘ASA’ means the value of assets that an investment firm safeguards and administers for clients, irrespective of whether assets appear on the investment firm’s own balance sheet or are in third‐party accounts;
+(30)
+‘client orders handled’ or ‘COH’ means the value of orders that an investment firm handles for clients, through the reception and transmission of client orders and through the execution of orders on behalf of clients;
+(31)
+‘concentration risk’ or ‘CON’ means the exposures in the trading book of an investment firm to a client or a group of connected clients the value of which exceeds the limits in Article 37(1);
+(32)
+‘clearing margin given’ or ‘CMG’ means the amount of total margin required by a clearing member or qualifying central counterparty, where the execution and settlement of transactions of an investment firm dealing on own account take place under the responsibility of a clearing member or qualifying central counterparty;
+(33)
+‘daily trading flow’ or ‘DTF’ means the daily value of transactions that an investment firm enters through dealing on own account or the execution of orders on behalf of clients in its own name, excluding the value of orders that an investment firm handles for clients through the reception and transmission of client orders and through the execution of orders on behalf of clients which are already taken into account in the scope of client orders handled;
+(34)
+‘net position risk’ or ‘NPR’ means the value of transactions recorded in the trading book of an investment firm;
+(35)
+‘trading counterparty default’ or ‘TCD’ means the exposures in the trading book of an investment firm in instruments and transactions referred to in Article 25 giving rise to the risk of trading counterparty default;
+(36)
+‘current market value’ or ‘CMV’ means the net market value of the portfolio of transactions or securities legs subject to netting in accordance with Article 31, where both positive and negative market values are used in computing CMV;
+(37)
+‘long settlement transactions’ means long settlement transactions as defined in point (2) of Article 272 of Regulation (EU) No 575/2013;
+(38)
+‘margin lending transaction’ means margin lending transactions as defined in point (10) of Article 3 of Regulation (EU) 2015/2365 of the European Parliament and of the Council (21);
+(39)
+‘management body’ means a management body as defined in point (36) of Article 4(1) of Directive 2014/65/EU;
+(40)
+‘mixed financial holding company’ means a mixed financial holding company as defined in point (15) of Article 2 of Directive 2002/87/EC of the European Parliament and of the Council (22);
+(41)
+‘off‐balance‐sheet item’ means any of the items referred to in Annex I to Regulation (EU) No 575/2013;
+(42)
+‘parent undertaking’ means a parent undertaking within the meaning of point (9) of Article 2 and Article 22 of Directive 2013/34/EU;
+(43)
+‘participation’ means participation as defined in point (35) of Article 4(1) of Regulation (EU) No 575/2013;
+(44)
+‘profit’ means profit as defined in point (121) of Article 4(1) of Regulation (EU) No 575/2013;
+(45)
+‘qualifying central counterparty’ or ‘QCCP’ means a qualifying central counterparty as defined in point (88) of Article 4(1) of Regulation (EU) No 575/2013;
+(46)
+‘portfolio management’ means portfolio management as defined in point (8) of Article 4(1) of Directive 2014/65/EU;
+(47)
+‘qualifying holding’ means a qualifying holding as defined in point (36) of Article 4(1) of Regulation (EU) No 575/2013;
+(48)
+‘securities financing transaction’ or ‘SFT’ means SFT as defined in point (11) of Article 3 of Regulation (EU) 2015/2365;
+(49)
+‘segregated accounts’, for the purposes of Table 1 in Article 15(2), means accounts with entities where client money held by an investment firm is deposited in accordance with Article 4 of Commission Delegated Directive (EU) 2017/593 (23) and, where applicable, where national law provides that, in the event of insolvency or entry into resolution or administration of the investment firm, the client money cannot be used to satisfy claims in relation to the investment firm other than claims by the client;
+(50)
+‘repurchase transaction’ means a repurchase transaction as defined in point (9) of Article 3 of Regulation (EU) 2015/2365;
+(51)
+‘subsidiary’ means a subsidiary undertaking as defined in point (10) of Article 2 and within the meaning of Article 22 of Directive 2013/34/EU, including any subsidiary of a subsidiary undertaking of an ultimate parent undertaking;
+(52)
+‘tied agent’ means a tied agent as defined in point (29) of Article 4(1) of Directive 2014/65/EU;
+(53)
+‘total gross revenue’ means the annual operating income of an investment firm, in connection with the investment firm’s investment services and activities it is authorised to perform, including income stemming from interest receivable, from shares and other securities whether fixed yield or variable, from commission and fees, any gain and losses that the investment firm incurs on its trading assets, on assets held at fair value, or from hedging activities, but excluding any income which is not linked to the investment services and activities performed;
+(54)
+‘trading book’ means all positions in financial instruments and commodities held by an investment firm, either with trading intent or in order to hedge positions held with trading intent;
+(55)
+‘positions held with trading intent’ means any of the following:
+(a)
+proprietary positions and positions arising from client servicing and market making;
+(b)
+positions intended to be resold in the short term;
+(c)
+positions intended to benefit from actual or expected short‐term price differences between buying and selling prices or from other price or interest rate variations;
+(56)
+‘Union parent investment firm’ means an investment firm in a Member State which is part of an investment firm group and which has an investment firm or a financial institution as a subsidiary or which holds a participation in such an investment firm or financial institution, and which is not itself a subsidiary of another investment firm authorised in any Member State, or of an investment holding company or mixed financial holding company set up in any Member State;
+(57)
+‘Union parent investment holding company’ means an investment holding company in a Member State which is part of an investment firm group and which is not itself a subsidiary of an investment firm authorised in any Member State or of another investment holding company in any Member State;
+(58)
+‘Union parent mixed financial holding company’ means a parent undertaking of an investment firm group which is a mixed financial holding company as defined in point (15) of Article 2 of Directive 2002/87/EC.
+2.   The Commission is empowered to adopt delegated acts in accordance with Article 56 to supplement this Regulation by clarifying the definitions set out in paragraph 1 to:
+(a)
+ensure uniform application of this Regulation;
+(b)
+take account, in the application of this Regulation, of developments on financial markets.

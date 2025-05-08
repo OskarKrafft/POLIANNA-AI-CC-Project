@@ -1,0 +1,15 @@
+Article 12
+CO2 stream acceptance criteria and procedure
+1.   A CO2 stream shall consist overwhelmingly of carbon dioxide. To this end, no waste or other matter may be added for the purpose of disposing of that waste or other matter. However, a CO2 stream may contain incidental associated substances from the source, capture or injection process and trace substances added to assist in monitoring and verifying CO2 migration. Concentrations of all incidental and added substances shall be below levels that would:
+(a)
+adversely affect the integrity of the storage site or the relevant transport infrastructure;
+(b)
+pose a significant risk to the environment or human health; or
+(c)
+breach the requirements of applicable Community legislation.
+2.   The Commission shall, if appropriate, adopt guidelines to help identify the conditions applicable on a case by case basis for respecting the criteria laid down in paragraph 1.
+3.   Member States shall ensure that the operator:
+(a)
+accepts and injects CO2 streams only if an analysis of the composition, including corrosive substances, of the streams and a risk assessment have been carried out, and if the risk assessment has shown that the contamination levels are in line with the conditions referred to in paragraph 1;
+(b)
+keeps a register of the quantities and properties of the CO2 streams delivered and injected, including the composition of those streams.

@@ -1,0 +1,22 @@
+Article 19
+Harmonised implementation of ERTMS in the Union
+1.   In the case of trackside control-command and signalling subsystems involving ETCS and/or GSM-R equipment, the Agency shall ensure the harmonised implementation of ERTMS in the Union.
+2.   In order to ensure the harmonised implementation of ERTMS and interoperability at Union level, before any call for tenders relating to ERTMS track-side equipment, the Agency shall check that the technical solutions envisaged are fully compliant with the relevant TSIs and are therefore fully interoperable.
+3.   The applicant shall submit a request for the Agency's approval. The application relating to individual ERTMS projects or for a combination of projects, a line, a group of lines or a network, shall be accompanied by a file which includes:
+(a)
+the draft tender specifications or the description of the envisaged technical solutions;
+(b)
+documentary evidence of the conditions necessary for technical and operational compatibility of the subsystem with the vehicles intended to operate on the relevant network;
+(c)
+documentary evidence of the compliance of technical solutions envisaged with the relevant TSIs;
+(d)
+any other relevant documents, such as national safety authority opinions, declarations of verification or conformity certificates.
+That application and information about all applications, the stages of the relevant procedures and their outcome, and, where applicable, the requests and decisions of the Board of Appeal, shall be submitted through the one-stop shop referred to in Article 12 of Regulation (EU) 2016/796.
+The national safety authorities may issue an opinion on the request for approval either to the applicant before the submission of the request or to the Agency after such a submission.
+4.   Within one month of receipt of the applicant's request, the Agency shall inform the applicant that the file is complete or ask for relevant supplementary information, setting a reasonable deadline for the provision thereof.
+The Agency shall issue a positive decision, or inform the applicant of possible deficiencies, within a predetermined, reasonable time period, and in any case, within two months of receipt of all relevant information. The Agency shall base its opinion on the file of the applicant and on possible opinions from the national safety authorities.
+If the applicant agrees with the deficiencies identified by the Agency, the applicant shall rectify the project design and introduce a new request for approval to the Agency.
+If the applicant does not agree with the deficiencies identified by the Agency, the procedure referred to in paragraph 5 shall apply.
+In the case referred to in point (a) of Article 7(1), the applicant shall not request a new assessment.
+5.   If the decision of the Agency is not positive, it shall be duly substantiated by the Agency. The applicant may, within one month of receipt of such a decision, submit a reasoned request that the Agency review its decision. The Agency shall confirm or reverse its decision within two months of the date of receipt of the request. If the Agency confirms its initial decision, the applicant is entitled to bring an appeal before the Board of Appeal established under Article 55 of Regulation (EU) 2016/796.
+6.   In the case of a change to the draft tender specifications or to the description of the envisaged technical solutions that occurred after the positive decision, the applicant shall inform, without undue delay, the Agency and the national safety authority through the one-stop shop referred to in Article 12 of Regulation (EU) 2016/796. In that case, Article 30(2) of that Regulation shall apply.

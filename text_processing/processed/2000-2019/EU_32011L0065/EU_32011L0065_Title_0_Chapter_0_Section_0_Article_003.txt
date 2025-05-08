@@ -1,0 +1,59 @@
+Article 3
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘electrical and electronic equipment’ or ‘EEE’ means equipment which is dependent on electric currents or electromagnetic fields in order to work properly and equipment for the generation, transfer and measurement of such currents and fields and designed for use with a voltage rating not exceeding 1 000 volts for alternating current and 1 500 volts for direct current;
+(2)
+for the purposes of point 1, ‘dependent ‘ means, with regard to EEE, needing electric currents or electromagnetic fields to fulfil at least one intended function;
+(3)
+‘large-scale stationary industrial tools’ means a large-scale assembly of machines, equipment, and/or components, functioning together for a specific application, permanently installed and de-installed by professionals at a given place, and used and maintained by professionals in an industrial manufacturing facility or research and development facility;
+(4)
+‘large-scale fixed installation’ means a large-scale combination of several types of apparatus and, where applicable, other devices, which are assembled and installed by professionals, intended to be used permanently in a pre-defined and dedicated location, and de-installed by professionals;
+(5)
+‘cables’ means all cables with a rated voltage of less than 250 volts that serve as a connection or an extension to connect EEE to the electrical outlet or to connect two or more EEE to each other;
+(6)
+‘manufacturer’ means any natural or legal person who manufactures an EEE or who has an EEE designed or manufactured and markets it under his name or trademark;
+(7)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+(8)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes an EEE available on the market;
+(9)
+‘importer’ means any natural or legal person established within the Union, who places an EEE from a third country on the Union market;
+(10)
+‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+(11)
+‘making available on the market’ means any supply of an EEE for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(12)
+‘placing on the market’ means making available an EEE on the Union market for the first time;
+(13)
+‘harmonised standard’ means a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (19) on the basis of a request made by the Commission in accordance with Article 6 of Directive 98/34/EC;
+(14)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, process or service;
+(15)
+‘CE marking’ means a marking by which the manufacturer indicates that the product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+(16)
+‘conformity assessment’ means the process demonstrating whether the requirements of this Directive relating to an EEE, are met;
+(17)
+‘market surveillance’ means the activities carried out and measures taken by public authorities to ensure that EEE complies with the requirements set out in this Directive and does not endanger health, safety or other issues of public interest protection;
+(18)
+‘recall’ means any measure aimed at achieving the return of a product that has already been made available to the end user;
+(19)
+‘withdrawal’ means any measure aimed at preventing a product in the supply chain from being made available on the market;
+(20)
+‘homogeneous material’ means one material of uniform composition throughout or a material, consisting of a combination of materials, that cannot be disjointed or separated into different materials by mechanical actions such as unscrewing, cutting, crushing, grinding and abrasive processes;
+(21)
+‘medical device’ means a medical device within the meaning of point (a) of Article 1(2) of Directive 93/42/EEC and which is also EEE;
+(22)
+‘in vitro diagnostic medical device’ means an in vitro diagnostic medical device within the meaning of point (b) of Article 1(2) of Directive 98/79/EC;
+(23)
+‘active implantable medical device’ means any active implantable medical device within the meaning of point (c) of Article 1(2) of Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices (20);
+(24)
+‘industrial monitoring and control instruments’ means monitoring and control instruments designed for exclusively industrial or professional use;
+(25)
+‘availability of a substitute’ means the ability of a substitute to be manufactured and delivered within a reasonable period of time as compared with the time required for manufacturing and delivering the substances listed in Annex II;
+(26)
+‘reliability of a substitute’ means the probability that an EEE using a substitute will perform a required function without failure under stated conditions for a stated period of time;
+(27)
+‘spare part’ means a separate part of an EEE that can replace a part of an EEE. The EEE cannot function as intended without that part of the EEE. The functionality of EEE is restored or is upgraded when the part is replaced by a spare part;
+(28)
+‘non-road mobile machinery made available exclusively for professional use’ means machinery, with an on-board power source, the operation of which requires either mobility or continuous or semi-continuous movement between a succession of fixed working locations while working, and is made available exclusively for professional use.

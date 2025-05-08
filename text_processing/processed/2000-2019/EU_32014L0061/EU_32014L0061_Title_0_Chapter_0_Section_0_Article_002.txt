@@ -1,0 +1,44 @@
+Article 2
+Definitions
+For the purposes of this Directive, the definitions set out in Directive 2002/21/EC apply.
+The following definitions also apply:
+(1)
+‘network operator’ means an undertaking providing or authorised to provide public communications networks as well as an undertaking providing a physical infrastructure intended to provide:
+(a)
+a service of production, transport or distribution of:
+(i)
+gas;
+(ii)
+electricity, including public lighting;
+(iii)
+heating;
+(iv)
+water, including disposal or treatment of waste water and sewage, and drainage systems;
+(b)
+transport services, including railways, roads, ports and airports;
+(2)
+‘physical infrastructure’ means any element of a network which is intended to host other elements of a network without becoming itself an active element of the network, such as pipes, masts, ducts, inspection chambers, manholes, cabinets, buildings or entries to buildings, antenna installations, towers and poles; cables, including dark fibre, as well as elements of networks used for the provision of water intended for human consumption, as defined in point 1 of Article 2 of Council Directive 98/83/EC (13) are not physical infrastructure within the meaning of this Directive;
+(3)
+‘high-speed electronic communications network’ means an electronic communication network which is capable of delivering broadband access services at speeds of at least 30 Mbps;
+(4)
+‘civil works’ means every outcome of building or civil engineering works taken as a whole which is sufficient of itself to fulfil an economic or technical function and entails one or more elements of a physical infrastructure;
+(5)
+‘public sector body’ means a state, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law;
+(6)
+‘bodies governed by public law’ means bodies that have all of the following characteristics:
+(a)
+they are established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character;
+(b)
+they have legal personality; and
+(c)
+they are financed, in full or for the most part, by the State, or regional or local authorities, or by other bodies governed by public law; or are subject to management supervision by those authorities or bodies; or have an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities or by other bodies governed by public law;
+(7)
+‘in-building physical infrastructure’ means physical infrastructure or installations at the end-user's location, including elements under joint ownership, intended to host wired and/or wireless access networks, where such access networks are capable of delivering electronic communications services and connecting the building access point with the network termination point;
+(8)
+‘high-speed-ready in-building physical infrastructure’ means in-building physical infrastructure intended to host elements or enable delivery of high-speed electronic communications networks;
+(9)
+‘major renovation works’ means building or civil engineering works at the end user's location encompassing structural modifications of the entire in-building physical infrastructure or a significant part thereof, and requiring a building permit;
+(10)
+‘permit’ means an explicit or implicit decision of a competent authority following any procedure under which an undertaking is required to take steps in order to legally carry out building or civil engineering works;
+(11)
+‘access point’ means a physical point, located inside or outside the building, accessible to undertakings providing or authorised to provide public communications networks, where connection to the high-speed-ready in-building physical infrastructure is made available.

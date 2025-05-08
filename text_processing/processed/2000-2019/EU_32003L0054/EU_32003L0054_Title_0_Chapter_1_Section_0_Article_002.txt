@@ -1,0 +1,35 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+1. "generation" means the production of electricity;
+2. "producer" means a natural or legal person generating electricity;
+3. "transmission" means the transport of electricity on the extra high-voltage and high-voltage interconnected system with a view to its delivery to final customers or to distributors, but not including supply;
+4. "transmission system operator" means a natural or legal person responsible for operating, ensuring the maintenance of and, if necessary, developing the transmission system in a given area and, where applicable, its interconnections with other systems, and for ensuring the long term ability of the system to meet reasonable demands for the transmission of electricity;
+5. "distribution" means the transport of electricity on high-voltage, medium voltage and low voltage distribution systems with a view to its delivery to customers, but not including supply;
+6. "distribution system operator" means a natural or legal person responsible for operating, ensuring the maintenance of and, if necessary, developing the distribution system in a given area and, where applicable, its interconnections with other systems and for ensuring the long term ability of the system to meet reasonable demands for the distribution of electricity;
+7. "customers" means wholesale and final customers of electricity;
+8. "wholesale customers" means any natural or legal persons who purchase electricity for the purpose of resale inside or outside the system where they are established;
+9. "final customers" means customers purchasing electricity for their own use;
+10. "household customers" means customers purchasing electricity for their own household consumption, excluding commercial or professional activities;
+11. "non-household customers" means any natural or legal persons purchasing electricity which is not for their own household use and shall include producers and wholesale customers;
+12. "eligible customers" means customers who are free to purchase electricity from the supplier of their choice within the meaning of Article 21 of this Directive;
+13. "interconnectors" means equipment used to link electricity systems;
+14. "interconnected system" means a number of transmission and distribution systems linked together by means of one or more interconnectors;
+15. "direct line" means either an electricity line linking an isolated production site with an isolated customer or an electricity line linking an electricity producer and an electricity supply undertaking to supply directly their own premises, subsidiaries and eligible customers;
+16. "economic precedence" means the ranking of sources of electricity supply in accordance with economic criteria;
+17. "ancillary services" means all services necessary for the operation of a transmission or distribution system;
+18. "system users" means any natural or legal persons supplying to, or being supplied by, a transmission or distribution system;
+19. "supply" means the sale, including resale, of electricity to customers;
+20. "integrated electricity undertaking" means a vertically or horizontally integrated undertaking;
+21. "vertically integrated undertaking" means an undertaking or a group of undertakings whose mutual relationships are defined in Article 3(3) of Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations between undertakings(8) and where the undertaking/group concerned is performing at least one of the functions of transmission or distribution and at least one of the functions of generation or supply of electricity;
+22. "related undertaking" means affiliated undertakings, within the meaning of Article 41 of the Seventh Council Directive 83/349/EEC of 13 June 1983 based on Article 44(2)(g)(9) of the Treaty on consolidated accounts(10), and/or associated undertakings, within the meaning of Article 33(1) thereof, and/or undertakings which belong to the same shareholders;
+23. "horizontally integrated undertaking" means an undertaking performing at least one of the functions of generation for sale, or transmission, or distribution, or supply of electricity, and another non electricity activity;
+24. "tendering procedure" means the procedure through which planned additional requirements and replacement capacity are covered by supplies from new or existing generating capacity;
+25. "long-term planning" means the planning of the need for investment in generation and transmission and distribution capacity on a long term basis, with a view to meeting the demand of the system for electricity and securing supplies to customers;
+26. "small isolated system" means any system with consumption of less than 3000 GWh in the year 1996, where less than 5 % of annual consumption is obtained through interconnection with other systems;
+27. "micro isolated system" means any system with consumption less than 500 GWh in the year 1996, where there is no connection with other systems;
+28. "security" means both security of supply and provision of electricity, and technical safety;
+29. "energy efficiency/demand-side management" means a global or integrated approach aimed at influencing the amount and timing of electricity consumption in order to reduce primary energy consumption and peak loads by giving precedence to investments in energy efficiency measures, or other measures, such as interruptible supply contracts, over investments to increase generation capacity, if the former are the most effective and economical option, taking into account the positive environmental impact of reduced energy consumption and the security of supply and distribution cost aspects related to it;
+30. "renewable energy sources" means renewable non-fossil energy sources (wind, solar, geothermal, wave, tidal, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases);
+31. "distributed generation" means generation plants connected to the distribution system.
+

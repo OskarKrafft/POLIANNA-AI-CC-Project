@@ -1,0 +1,8 @@
+Article 9
+Computer security incident response teams (CSIRTs)
+1.   Each Member State shall designate one or more CSIRTs which shall comply with the requirements set out in point (1) of Annex I, covering at least the sectors referred to in Annex II and the services referred to in Annex III, responsible for risk and incident handling in accordance with a well-defined process. A CSIRT may be established within a competent authority.
+2.   Member States shall ensure that the CSIRTs have adequate resources to effectively carry out their tasks as set out in point (2) of Annex I.
+Member States shall ensure the effective, efficient and secure cooperation of their CSIRTs in the CSIRTs network referred to in Article 12.
+3.   Member States shall ensure that their CSIRTs have access to an appropriate, secure, and resilient communication and information infrastructure at national level.
+4.   Member States shall inform the Commission about the remit, as well as the main elements of the incident-handling process, of their CSIRTs.
+5.   Member States may request the assistance of ENISA in developing national CSIRTs.

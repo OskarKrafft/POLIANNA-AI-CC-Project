@@ -1,0 +1,9 @@
+Article 16
+Safeguard procedure
+1.   Where a Member State has reason to believe that interoperability constituents bearing a CE marking and placed on the market are unlikely, when used as intended, to meet the relevant requirements, it shall take all necessary steps to restrict their field of application, prohibit their use or withdraw them from the market. The Member State shall immediately inform the Commission of the measures taken and give the reasons for its decision, stating in particular whether failure to conform is due to:
+(a)
+incorrect application of technical specifications; or
+(b)
+inadequacy of technical specifications.
+2.   The Commission shall consult the concerned Member State, manufacturer, EETS provider or their authorised representatives established within the Union as quickly as possible. Where, following that consultation, the Commission establishes that the measure is justified, it shall immediately inform the Member State concerned as well as the other Member States. However, where, following that consultation, the Commission establishes that the measure is unjustified, it shall immediately inform the Member State concerned, as well as the manufacturer or its authorised representative established within the Union and the other Member States.
+3.   Where interoperability constituents bearing the CE marking fail to comply with interoperability requirements, the competent Member State shall require the manufacturer or its authorised representative established in the Union to restore the interoperability constituent to a state of conformity to specifications or suitability for use, or both, under the conditions laid down by that Member State and shall inform the Commission and the other Member States thereof.

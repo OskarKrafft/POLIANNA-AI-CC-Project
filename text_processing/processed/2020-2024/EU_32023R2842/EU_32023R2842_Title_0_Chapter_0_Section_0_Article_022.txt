@@ -1,0 +1,134 @@
+Article 111
+Exchange of data
+1.   Each flag Member State shall ensure the direct electronic exchange of relevant information with other Member States concerned, in particular:
+(a)
+vessel position data, when its fishing vessels are present in another Member State’s waters;
+(b)
+fishing logbook information, when its fishing vessels are fishing in another Member State’s waters, or landing or transhipping in another Member State’s ports;
+(c)
+landing declarations and transhipment declarations, when landing or transhipment takes place in another Member State’s ports;
+(d)
+prior notification, when the intended port is located in another Member State;
+(e)
+sales notes, transport documents and take-over declarations, when the sale, transport or take-over takes place in another Member State;
+(f)
+inspection and surveillance reports and risk analysis for its fishing vessels being inspected in the waters or ports of another Member State.
+2.   Each coastal Member State shall ensure the direct electronic exchange of relevant information with other Member States concerned and the Commission or the body designated by it, in particular by sending:
+(a)
+sales note information to the flag Member State, when a first sale originates from a fishing vessel flying the flag of another Member State;
+(b)
+take-over declaration information, when the fish is placed in storage in a Member State other than the flag Member State or the Member State of landing;
+(c)
+sales note and take-over declaration information to the Member State where the landing took place;
+(d)
+transport documents to the flag Member State, Member State of destination and transit of the transport;
+(e)
+inspection and surveillance reports.
+3.   Each flag Member State shall ensure the direct electronic exchange of relevant information concerning vessels flying its flag to the Commission or the body designated by it, in particular:
+(a)
+vessel position data;
+(b)
+fishing logbook information;
+(c)
+landing declarations and transhipment declarations;
+(d)
+prior notification;
+(e)
+sales notes, transport documents and take-over declarations;
+(f)
+inspection and surveillance reports.
+
+(*16)  Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164).’."
+                        
+(87)
+The following article is inserted:
+‘Article 111a
+Uniform conditions for the implementation of provisions on data
+For the purpose of implementing provisions of this Chapter, the Commission may, by means of implementing acts, lay down detailed rules on:
+(a)
+data quality, compliance with deadlines for submission of data by operators, validation of the data, including cross-checks, analysis and verification;
+(b)
+exchange of data between Member States and between the Member States and the Commission or the body designated by it;
+(c)
+access to data by the Commission or the body designated by it;
+(d)
+access to data by scientific bodies of the Union and Eurostat;
+(e)
+interoperability and standardisation of databases;
+(f)
+data listed in Article 110(1) and (2), including additional specific safeguards for processing of personal data and security rules applicable to the databases.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(88)
+Article 112 is replaced by the following:
+‘Article 112
+Protection of personal data
+1.   Regulations (EU) 2016/679 (*17) and (EU) 2018/1725 (*18) of the European Parliament and of the Council as well as the national provisions transposing Directive (EU) 2016/680 of the European Parliament and of the Council (*19), apply to the processing of personal data carried out pursuant to this Regulation by Member States, the Commission and the body designated by it.
+2.   Personal data collected under this Regulation may only be processed for the following purposes, provided that those purposes cannot be fulfilled with data that do not permit identification of data subjects:
+(a)
+monitoring of fishing opportunities, including quota uptake;
+(b)
+validation of data;
+(c)
+monitoring of fishing activities carried out by Union fishing vessels, or fishing activities of fishing vessels within Union waters;
+(d)
+monitoring of Member State control of fishing activities and in the supply chain;
+(e)
+inspections, verifications, audits and enquiries;
+(f)
+preparation of, and compliance with, international agreements and conservation measures;
+(g)
+risk management, policy evaluations and impact assessments;
+(h)
+scientific research and scientific advice, and statistical production;
+(i)
+enquiries pertaining to complaints and infringements and judicial or administrative proceedings;
+(j)
+establishing or providing evidence of fishing rights of individual vessels, Member States or the Union.
+3.   Personal data collected under this Regulation shall not be stored for a period longer than necessary for the purposes listed in paragraph 2, and in any event for no longer than five years from the date on which the Member State or the Commission obtains the relevant data.
+4.   By way of derogation from paragraph 3:
+(a)
+personal data collected under this Regulation shall not be stored for a period longer than necessary for the purposes listed in paragraph 2, points (e) and (i), and in any event for no longer than until the end of the concerned administrative or judicial proceedings or the time needed for the application of sanctions under this Regulation, such as the point system;
+(b)
+personal data contained in the information listed in Article 109(2a), point (a) (i) to (v), shall not be stored for a period longer than necessary for the purposes listed in paragraph 2, points (f) and (j), of this Article, and in any event for no longer than 10 years from the date on which the Member State, the Commission or the body designated by it obtains the relevant data;
+(c)
+personal data contained in the information listed in Article 109(2a), point (a) (i) to (iv), shall not be stored for a period longer than necessary for the purposes listed in paragraph 2, points (g) and (h), of this Article, and in any event for no longer than 25 years from the date on which the Member State, the Commission or the body designated by it obtains the relevant data. If that information is retained for a longer period of time, where it is necessary for the purposes listed in paragraph 2, points (g) and (h), of this Article, the personal data shall be anonymised or pseudonymised.
+5.   The authorities of the Member States shall be regarded as a controller as defined in Article 4, point (7), of Regulation (EU) 2016/679 in relation to the processing of personal data which they collect pursuant to this Regulation.
+6.   The Commission shall be regarded as a controller as defined in Article 3, point (8), of Regulation (EU) 2018/1725 in relation to the processing of personal data which it collects pursuant to this Regulation.
+7.   The Commission or the body designated by it and the authorities of the Member States shall ensure the security of the processing of personal data that takes place for the application of this Regulation. The Commission or the body designated by it and the authorities of the Member States shall cooperate on security-related tasks.
+8.   In particular, the Commission shall adopt the necessary measures, including a security plan, a business continuity plan and a disaster recovery plan, in order to:
+(a)
+physically protect data, including by making contingency plans for the protection of critical infrastructure;
+(b)
+prevent the unauthorised reading, copying, modification or removal of data media;
+(c)
+prevent the unauthorised input of data and the unauthorised inspection, modification or deletion of recorded personal data;
+(d)
+prevent the unauthorised processing of data and any unauthorised copying, modification or deletion of data;
+(e)
+ensure that persons authorised to access the relevant fisheries databases have access only to the data covered by their access authorisation, by means of individual user identities and confidential access modes only;
+(f)
+ensure that it is possible to verify and establish to which bodies personal data may be transmitted and what data has been processed in the relevant fisheries databases, when, by whom and for what purpose;
+(g)
+prevent the unauthorised reading, copying, modification or deletion of personal data during the transmission of personal data to or from the relevant fisheries databases or during the transport of data media, in particular by means of appropriate encryption techniques;
+(h)
+monitor the effectiveness of the security measures referred to in this paragraph and take the necessary organisational measures related to internal monitoring to ensure compliance with this Regulation.
+9.   The authorities of the Member States shall take measures equivalent to those referred to in paragraph 8 as regards security in respect of the processing of personal data by the authorities having a right to access any of the relevant fisheries databases.
+
+(*17)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1)."
+                        
+
+(*18)  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)."
+                        
+
+(*19)  Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).’."
+                        
+(89)
+In Article 113, paragraphs 1, 2 and 3 are replaced by the following:
+‘1.   Member States and the Commission shall take all necessary steps to ensure that data covered by professional and commercial secrecy that are collected, received and transmitted within the framework of this Regulation are treated in accordance with applicable rules on professional and commercial secrecy.
+2.   Data referred to in paragraph 1 exchanged between Member States and the Commission may be transmitted to persons, other than those in Member States or the Commission or the body designated by it, whose functions require them to have access to such data, only with the consent of the Member State or the Commission or the body designated by it which has provided those data. In the case of a refusal, the Member State, the Commission or the body designated by it shall provide the reasons for refusal to transmit the data. The absence of a reply to a request for consent within a period of one month shall be regarded as consent.
+3.   The data referred to in paragraph 1 shall not be used for any purpose other than that provided for in this Regulation, except with the consent of the Member State, the Commission or the body designated by it which has provided those data and on condition that the provisions in force in the Member State of the authority receiving the data do not prohibit such use. In the case of a refusal, the Member State, the Commission or the body designated by it shall provide the reasons for refusal.’
+(90)
+Articles 114 and 115 are replaced by the following:
+‘Article 114
+Official websites
+For the purposes of this Regulation, Member States shall set up and keep up to date official websites for operators and the general public, containing as a minimum the information listed in Article 115.

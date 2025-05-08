@@ -1,0 +1,13 @@
+Article 23
+Removing obstacles to effective switching
+Providers of data processing services shall take the measures provided for in Articles 25, 26, 27, 29 and 30 to enable customers to switch to a data processing service, covering the same service type, which is provided by a different provider of data processing services, or to on-premises ICT infrastructure, or, where relevant, to use several providers of data processing services at the same time. In particular, providers of data processing services shall not impose and shall remove pre-commercial, commercial, technical, contractual and organisational obstacles, which inhibit customers from:
+(a)
+terminating, after the maximum notice period and the successful completion of the switching process, in accordance with Article 25, the contract of the data processing service;
+(b)
+concluding new contracts with a different provider of data processing services covering the same service type;
+(c)
+porting the customer’s exportable data and digital assets, to a different provider of data processing services or to an on-premises ICT infrastructure, including after having benefited from a free-tier offering;
+(d)
+in accordance with Article 24, achieving functional equivalence in the use of the new data processing service in the ICT environment of a different provider of data processing services covering the same service type;
+(e)
+unbundling, where technically feasible, data processing services referred to in Article 30(1) from other data processing services provided by the provider of data processing services.

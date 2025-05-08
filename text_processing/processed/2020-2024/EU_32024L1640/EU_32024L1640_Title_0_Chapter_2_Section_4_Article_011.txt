@@ -1,0 +1,23 @@
+Article 11
+General rules regarding access to beneficial ownership registers by competent authorities, self-regulatory bodies and obliged entities
+1.   Member States shall ensure that competent authorities have immediate, unfiltered, direct and free access to the information held in the interconnected central registers referred to in Article 10, without alerting the legal entity or legal arrangement concerned.
+2.   Access as referred to in paragraph 1 shall be granted to:
+(a)
+competent authorities;
+(b)
+self-regulatory bodies in the performance of supervisory functions pursuant to Article 37;
+(c)
+tax authorities;
+(d)
+national authorities with designated responsibilities for the implementation of Union restrictive measures identified under the relevant Council Regulations adopted on the basis of Article 215 TFEU;
+(e)
+AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620;
+(f)
+EPPO;
+(g)
+OLAF;
+(h)
+Europol and Eurojust when providing operational support to the competent authorities of Member States.
+3.   Member States shall ensure that, when taking customer due diligence measures in accordance with Chapter III of Regulation (EU) 2024/1624, obliged entities have timely access to the information held in the interconnected central registers referred to in Article 10 of this Directive.
+4.   Member States may choose to make beneficial ownership information held in their central registers available to obliged entities upon payment of a fee, which shall be limited to what is strictly necessary to cover the costs of ensuring the quality of the information held in the central registers and of making the information available. Those fees shall be established in such a way as not to undermine effective access to the information held in the central registers.
+5.   By 10 October 2026, Member States shall notify to the Commission the list of competent authorities and self-regulatory bodies and the categories of obliged entities that were granted access to the central registers and the type of information available to obliged entities. Member States shall update that notification when there are any changes to the list of competent authorities or categories of obliged entities or to the extent of access granted to obliged entities. The Commission shall make the information on the access by competent authorities and obliged entities, including any change to it, available to the other Member States.

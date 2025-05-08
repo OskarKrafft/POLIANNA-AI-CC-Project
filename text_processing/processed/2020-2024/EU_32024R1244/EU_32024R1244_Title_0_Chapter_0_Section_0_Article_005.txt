@@ -1,0 +1,24 @@
+Article 5
+Design and structure of the Portal
+1.   The Commission shall make the Portal publicly accessible, presenting the data in a standardised format, in both aggregated and non-aggregated forms with a view to enabling at least searches, data extraction and query-based downloads of datasets by:
+(a)
+facility, including the facility’s parent company where applicable, and its geographical location, including the river basin;
+(b)
+installation;
+(c)
+activity;
+(d)
+occurrence at Member State or Union level;
+(e)
+pollutant, waste or resource, as appropriate;
+(f)
+the environmental medium, namely air, water or land, into which the pollutant is released;
+(g)
+off-site transfers of waste and, as appropriate, their destination;
+(h)
+off-site transfers of pollutants in waste water;
+(i)
+diffuse sources; and
+(j)
+installation owner or operator.
+2.   The Portal shall be designed so as to make it as easy as possible for the public to access the data and to allow the data, under normal operating conditions, to be continuously and readily accessible on the internet. The Portal shall include all data reported for at least the previous 10 reporting years. The design of the Portal shall take into account the possibility of its future expansion.

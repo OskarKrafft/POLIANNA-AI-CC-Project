@@ -1,0 +1,33 @@
+Article 15
+Restrictions on venting and flaring
+1.   Venting shall be prohibited except in the circumstances provided for in this Article. Routine flaring shall be prohibited.
+2.   Venting or flaring shall be allowed only in case of an emergency or malfunction.
+3.   Notwithstanding paragraph 2, venting or flaring shall be allowed where unavoidable and strictly necessary and subject to the reporting obligations set out in Article 16.
+Venting and flaring shall be deemed to be unavoidable and strictly necessary in the following specific situations where venting or flaring, as applicable, cannot be completely eliminated or is necessary for safety reasons:
+(a)
+during normal operations of pneumatic devices, compressors, atmospheric pressure storage tanks, sampling and measuring devices and dry gas seals, or other components designed to vent, provided that such equipment meets the standards or technical prescriptions established under Article 32 and is properly maintained to minimise methane losses;
+(b)
+to unload or clean-up liquid holdup in a well to atmospheric pressure;
+(c)
+during gauging or sampling a storage tank or other low-pressure vessel, provided that the tank or vessel meets the standards or technical prescriptions established under Article 32;
+(d)
+during transferring liquids from a storage tank or other low-pressure vessel to a transport vehicle provided that the tank or vessel meets the standards or technical prescriptions established under Article 32;
+(e)
+during repair, maintenance, test procedures and decommissioning, including blowing down and depressurising equipment to carry out repair and maintenance;
+(f)
+during a bradenhead test;
+(g)
+during a packer leakage test;
+(h)
+during a production test lasting less than 24 hours;
+(i)
+where methane does not meet the gathering pipeline specifications, provided that the operator analyses methane samples twice per week to determine whether the specifications have been achieved and routes the methane into a gathering pipeline as soon as the pipeline specifications are met;
+(j)
+during commissioning of pipelines, equipment or facilities, only for as long as necessary to purge introduced impurities from the pipeline or equipment;
+(k)
+during pigging, blow-down to repair, decommissioning or purging a pipeline for repair or maintenance, and only where the gas cannot be contained or redirected into an unaffected portion of the pipeline.
+4.   Where venting is allowed pursuant to paragraphs 2 and 3, operators shall vent only where flaring is not technically feasible due to lack of flammability or inability to sustain a flame, risks endangering safety of operations or personnel or where it would have a worse environmental impact in terms of emissions. In such a situation, as part of the reporting obligations set out in Article 16, operators shall notify and provide evidence to the competent authorities of the necessity to use venting instead of flaring.
+5.   Equipment that vents shall be replaced by non-emitting alternatives where those are commercially available and if they meet the standards or technical prescriptions for components designed to vent established under Article 32.
+6.   In addition to the conditions set out in paragraphs 2 and 3, flaring shall be allowed only where either re-injection, utilisation on-site, storage for later use or dispatch of methane to a market are not feasible for reasons other than economic considerations. In such a situation, as part of the reporting obligations set out in Article 16, operators shall demonstrate to the competent authorities the necessity to use flaring instead of either re-injection, utilisation on-site, storage for later use or dispatch of methane to a market.
+7.   Where a site is built, replaced or refurbished in whole, operators shall install and use only commercially available zero-emitting pneumatic devices, compressors, atmospheric pressure storage tanks, sampling and measuring devices and dry gas seals. Where a site is replaced or refurbished in part, operators shall install and use in that part only commercially available zero-emitting pneumatic devices, compressors, atmospheric pressure storage tanks, sampling and measuring devices and dry gas seals.
+8.   Operators shall comply with this Article without delay and, in any case, not later than 5 February 2026 for existing sites and not later than 12 months from the date of start of operations for new sites. Where operators are unable to comply with this Article due to exceptional delay caused by the need to obtain a permit or any other administrative authorisation from the relevant authorities or the unavailability of venting or flaring equipment, they shall provide the competent authorities with a detailed implementation schedule. That schedule shall include sufficient evidence of the fulfilment of the conditions laid down in this paragraph. The competent authorities may require modifications to that schedule.

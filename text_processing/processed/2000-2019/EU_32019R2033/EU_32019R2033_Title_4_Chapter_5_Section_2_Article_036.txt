@@ -1,0 +1,11 @@
+Article 36
+Calculation of the exposure value
+1.   Investment firms that do not meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) shall calculate the exposure value with regard to a client or group of connected clients for the purposes of this Part by adding together the following items:
+(a)
+the positive excess of the investment firm’s long positions over its short positions in all the trading book financial instruments issued by the client in question, the net position for each instrument calculated in accordance with the provisions referred to in points (a), (b) and (c) of Article 22;
+(b)
+the exposure value of contracts and transactions referred to in Article 25(1) with the client in question, calculated in the manner laid down in Article 27.
+For the purposes of point (a) of the first subparagraph, an investment firm that, for the purposes of the RtM K‐factor requirement, calculates own funds requirements for the trading book positions in accordance with the approach specified in Article 23 shall calculate the net position for the purposes of the concentration risk of those positions in accordance with the provisions referred to in point (a) of Article 22.
+For the purposes of point (b) of the first subparagraph of this paragraph, an investment firm that, for the purposes of K‐TCD, calculates own funds requirements by applying the methods referred to in Article 25(4) of this Regulation shall calculate the exposure value of the contracts and transactions referred to in Article 25(1) of this Regulation by applying the methods set out in Section 3, 4 or 5 of Chapter 6 of Title II of Part Three of Regulation (EU) No 575/2013.
+2.   The exposure value with regard to a group of connected clients shall be calculated by adding together the exposures to the individual clients within the group, which shall be treated as a single exposure.
+3.   In calculating the exposure value with regard to a client or a group of connected clients, an investment firm shall take all reasonable steps to identify underlying assets in relevant transactions and the counterparty of the underlying exposures.

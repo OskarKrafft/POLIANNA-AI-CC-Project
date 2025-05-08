@@ -1,0 +1,12 @@
+Article 60
+Protection for security arrangements
+1.   Member States shall ensure that there is appropriate protection for liabilities secured under a security arrangement to prevent one or more of the following:
+(a)
+the transfer of assets against which the liability is secured, unless that liability and benefit of the security are also transferred;
+(b)
+the transfer of a secured liability, unless the benefit of the security are also transferred;
+(c)
+the transfer of the benefit of the security, unless the secured liability is also transferred;
+(d)
+the modification or termination of a security arrangement through the use of ancillary powers, where the effect of that modification or termination would be that the liability ceases to be secured.
+2.   Notwithstanding paragraph 1, where necessary to better protect policy holders by ensuring that insurance policies that are transferred continue to meet the relevant legal requirements with respect to compulsory minimum levels of coverage under applicable national law, resolution authorities may transfer those portfolios of contracts which are part of arrangements mentioned in paragraph 1 without transferring other assets, rights and liabilities that are part of the same arrangements, and may transfer, modify or terminate those assets, rights and other liabilities without transferring the portfolios of contracts.

@@ -1,0 +1,6 @@
+Article 23
+Telematics applications
+1.   The Agency shall act as the system authority to ensure the coordinated development of telematics applications in the Union, in accordance with relevant TSIs. To that end, the Agency shall maintain, monitor and manage the corresponding subsystems requirements.
+2.   The Agency shall define, publish and apply the procedure for managing requests for changes to specifications for telematics applications. To that end, the Agency shall set up, maintain and update a register of requests for changes to such specifications and their status, accompanied by the relevant justifications.
+3.   The Agency shall develop and maintain the technical tools for managing the different versions of specifications for telematics applications and endeavour to ensure backward compatibility.
+4.   The Agency shall assist the Commission in the monitoring of deployment of specifications for telematics applications in accordance with relevant TSIs.

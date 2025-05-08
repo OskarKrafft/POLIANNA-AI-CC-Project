@@ -1,0 +1,17 @@
+Article 10
+Sampling points
+1.   The siting of sampling points for the measurement of ozone shall be determined using the criteria set out in Annex VIII.
+2.   The sampling points for fixed measurements of ozone in each zone or agglomeration within which measurement is the sole source of information for assessing air quality shall not be less than the minimum number of sampling points specified in Section A of Annex IX.
+3.   For zones and agglomerations within which information from sampling points for fixed measurements is supplemented by information from modelling and/or indicative measurements, the number of sampling points specified in Section A of Annex IX may be reduced provided that the following conditions are met:
+(a)
+the supplementary methods provide sufficient information for the assessment of air quality with regard to target values, long-term objectives, information and alert thresholds;
+(b)
+the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of ozone to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I;
+(c)
+the number of sampling points in each zone or agglomeration amounts to at least one sampling point per two million inhabitants or one sampling point per 50 000 km2, whichever produces the greater number of sampling points, but must not be less than one sampling point in each zone or agglomeration;
+(d)
+nitrogen dioxide is measured at all remaining sampling points except at rural background stations as referred to in Section A of Annex VIII.
+The results of modelling and/or indicative measurement shall be taken into account for the assessment of air quality with respect to the target values.
+4.   Nitrogen dioxide shall be measured at a minimum of 50 % of the ozone sampling points required under Section A of Annex IX. That measurement shall be continuous except at rural background stations, as referred to in Section A of Annex VIII, where other measurement methods may be used.
+5.   In zones and agglomerations where, during each of the previous five years of measurement, concentrations are below the long-term objectives, the number of sampling points for fixed measurements shall be determined in accordance with Section B of Annex IX.
+6.   Each Member State shall ensure that at least one sampling point is installed and operated in its territory to supply data on concentrations of the ozone precursor substances listed in Annex X. Each Member State shall choose the number and siting of the stations at which ozone precursor substances are to be measured, taking into account the objectives and methods laid down in Annex X.

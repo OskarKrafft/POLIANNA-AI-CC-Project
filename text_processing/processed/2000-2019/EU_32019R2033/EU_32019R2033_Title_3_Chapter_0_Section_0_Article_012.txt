@@ -1,0 +1,35 @@
+Article 12
+Small and non‐interconnected investment firms
+1.   Investment firms shall be deemed to be small and non‐interconnected investment firms for the purposes of this Regulation where they meet all of the following conditions:
+(a)
+AUM measured in accordance with Article 17 is less than EUR 1,2 billion;
+(b)
+COH measured in accordance with Article 20 is less than either:
+(i)
+EUR 100 million/day for cash trades; or
+(ii)
+EUR 1 billion/day for derivatives;
+(c)
+ASA measured in accordance with Article 19 is zero;
+(d)
+CMH measured in accordance with Article 18 is zero;
+(e)
+DTF measured in accordance with Article 33 is zero;
+(f)
+NPR or CMG measured in accordance with Articles 22 and 23 is zero;
+(g)
+TCD measured in accordance with Article 26 is zero;
+(h)
+the on‐ and off‐balance‐sheet total of the investment firm is less than EUR 100 million;
+(i)
+the total annual gross revenue from investment services and activities of the investment firm is less than EUR 30 million, calculated as an average on the basis of the annual figures from the two‐year period immediately preceding the given financial year.
+By way of derogation from the provisions of Title II, for the purposes of points (a), (b), (c), (e), (f), insofar as that point relates to NPR, and (g) of the first subparagraph, end‐of‐day values shall apply.
+For the purposes of point (f) of the first subparagraph, insofar as that point relates to CMG, intraday values shall apply.
+For the purposes of point (d) of the first subparagraph of this paragraph, and without prejudice to Article 16(9) of Directive 2014/65/EU and Articles 2 and 4 of Delegated Directive (EU) 2017/593, intraday values shall apply, except where there has been an error in recordkeeping or in the reconciliation of accounts that incorrectly indicated that an investment firm breached the zero threshold referred to in point (d) of the first subparagraph of this paragraph and which is resolved before the end of the business day. The investment firm shall notify the competent authority without delay of the error, the reasons for its occurrence and its correction.
+For the purposes of points (h) and (i) of the first subparagraph, the levels at the end of the last financial year for which accounts have been finalised and approved by the management body shall apply. Where accounts have not been finalised and approved after six months from the end of the last financial year, an investment firm shall use provisional accounts.
+Investment firms may measure the values under points (a) and (b) of the first subparagraph by using the methods specified under Title II, with the exception that the measurement shall be done over 12 months, without the exclusion of the three most recent monthly values. Investment firms that choose this measurement method shall notify the competent authority accordingly and shall apply the chosen method for a continuous period of no less than 12 consecutive months.
+2.   The conditions set out in points (a), (b), (h) and (i) of paragraph 1 shall apply on a combined basis for all investment firms that are part of a group. For the purpose of measuring the total annual gross revenue referred to in point (i) of paragraph 1, those investment firms may exclude any double counting that may arise in respect of gross revenues generated within the group.
+The conditions set out in points (c) to (g) of paragraph 1 shall apply to each investment firm on an individual basis.
+3.   Where an investment firm no longer meets all the conditions set out in paragraph 1, it shall cease to be considered to be a small and non‐interconnected investment firm, with immediate effect.
+By way of derogation from the first subparagraph, where an investment firm no longer meets the conditions set out in points (a), (b), (h) or (i) of paragraph 1 but continues to meet the conditions set out in points (c) to (g) of that paragraph, it shall cease to be considered to be a small and non‐interconnected investment firm after a period of three months, calculated from the date on which the threshold was exceeded. The investment firm shall notify the competent authority without undue delay of any breach of a threshold.
+4.   Where an investment firm which has not met all of the conditions set out in paragraph 1 subsequently meets them, it shall be considered to be a small and non‐interconnected investment firm only after a period of six months from the date on which those conditions are met, provided that no breach of a threshold has occurred during that period and the investment firm has notified the competent authority accordingly without delay.

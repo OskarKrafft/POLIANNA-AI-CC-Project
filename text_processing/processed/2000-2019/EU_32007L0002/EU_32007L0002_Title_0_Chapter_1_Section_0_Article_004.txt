@@ -1,0 +1,20 @@
+Article 4
+1.   This Directive shall cover spatial data sets which fulfil the following conditions:
+(a)
+they relate to an area where a Member State has and/or exercises jurisdictional rights;
+(b)
+they are in electronic format;
+(c)
+they are held by or on behalf of any of the following:
+(i)
+a public authority, having been produced or received by a public authority, or being managed or updated by that authority and falling within the scope of its public tasks;
+(ii)
+a third party to whom the network has been made available in accordance with Article 12;
+(d)
+they relate to one or more of the themes listed in Annex I, II or III.
+2.   In cases where multiple identical copies of the same spatial data set are held by or on behalf of various public authorities, this Directive shall apply only to the reference version from which the various copies are derived.
+3.   This Directive shall also cover the spatial data services relating to the data contained in the spatial data sets referred to in paragraph 1.
+4.   This Directive does not require collection of new spatial data.
+5.   In the case of spatial data sets which comply with the condition set out in paragraph 1(c), but in respect of which a third party holds intellectual property rights, the public authority may take action under this Directive only with the consent of that third party.
+6.   By way of derogation from paragraph 1, this Directive shall cover spatial data sets held by or on behalf of a public authority operating at the lowest level of government within a Member State only if the Member State has laws or regulations requiring their collection or dissemination.
+7.   The description of the existing data themes referred to in Annexes I, II and III may be adapted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3), in order to take into account the evolving needs for spatial data in support of Community policies that affect the environment.

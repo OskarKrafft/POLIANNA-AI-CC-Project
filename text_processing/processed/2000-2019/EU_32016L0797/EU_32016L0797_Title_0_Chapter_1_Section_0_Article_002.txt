@@ -1,0 +1,99 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+(1)
+‘Union rail system’ means the elements listed in Annex I;
+(2)
+‘interoperability’ means the ability of a rail system to allow the safe and uninterrupted movement of trains which accomplish the required levels of performance;
+(3)
+‘vehicle’ means a railway vehicle suitable for circulation on wheels on railway lines, with or without traction; a vehicle is composed of one or more structural and functional subsystems;
+(4)
+‘network’ means the lines, stations, terminals, and all kinds of fixed equipment needed to ensure safe and continuous operation of the Union rail system;
+(5)
+‘subsystems’ means the structural or functional parts of the Union rail system, as set out in Annex II;
+(6)
+‘mobile subsystem’ means the rolling stock subsystem and the on-board control-command and signalling subsystem;
+(7)
+‘interoperability constituents’ means any elementary component, group of components, subassembly or complete assembly of equipment incorporated or intended to be incorporated into a subsystem, upon which the interoperability of the rail system depends directly or indirectly, including both tangible objects and intangible objects;
+(8)
+‘product’ means a product obtained through a manufacturing process, including interoperability constituents and subsystems;
+(9)
+‘essential requirements’ means all the conditions set out in Annex III which must be met by the Union rail system, the subsystems, and the interoperability constituents, including interfaces;
+(10)
+‘European specification’ means a specification which falls into one of the following categories:
+—
+a common technical specification as defined in Annex VIII of Directive 2014/25/EU,
+—
+a European technical approval as referred to in Article 60 of Directive 2014/25/EU, or
+—
+a European standard as defined in point (b) of Article 2(1) of Regulation (EU) No 1025/2012;
+(11)
+‘technical specification for interoperability’ (TSI) means a specification adopted in accordance with this Directive by which each subsystem or part of a subsystem is covered in order to meet the essential requirements and ensure the interoperability of the Union rail system;
+(12)
+‘basic parameter’ means any regulatory, technical or operational condition which is critical to interoperability and is specified in the relevant TSIs;
+(13)
+‘specific case’ means any part of the rail system which needs special provisions in the TSIs, either temporary or permanent, because of geographical, topographical or urban environment constraints or those affecting compatibility with the existing system, in particular railway lines and networks isolated from the rest of the Union, the loading gauge, the track gauge or space between the tracks and vehicles strictly intended for local, regional or historical use, as well as vehicles originating from or destined for third countries;
+(14)
+‘upgrading’ means any major modification work on a subsystem or part of it which results in a change in the technical file accompanying the ‘EC’ declaration of verification, if that technical file exists, and which improves the overall performance of the subsystem;
+(15)
+‘renewal’ means any major substitution work on a subsystem or part of it which does not change the overall performance of the subsystem;
+(16)
+‘existing rail system’ means the infrastructure composed of lines and fixed installations of the existing rail network as well as the vehicles of all categories and origins travelling on that infrastructure;
+(17)
+‘substitution in the framework of maintenance’ means any replacement of components by parts of identical function and performance in the framework of preventive or corrective maintenance;
+(18)
+‘tram-train’ means a vehicle designed for combined use on both a light-rail infrastructure and a heavy-rail infrastructure;
+(19)
+‘placing in service’ means all the operations by which a subsystem is put into its operational service;
+(20)
+‘contracting entity’ means a public or private entity which orders the design and/or construction or the renewal or upgrading of a subsystem;
+(21)
+‘keeper’ means the natural or legal person that, being the owner of a vehicle or having the right to use it, exploits the vehicle as a means of transport and is registered as such in a vehicle register referred to in Article 47;
+(22)
+‘applicant’ means a natural or legal person requesting an authorisation, be it a railway undertaking, an infrastructure manager or any other person or legal entity, such as a manufacturer, an owner or a keeper; for the purpose of Article 15, the ‘applicant’ means a contracting entity or a manufacturer, or its authorised representatives; for the purpose of Article 19, the ‘applicant’ means a natural or legal person requesting the Agency's decision for the approval of the technical solutions envisaged for the ERTMS track-side equipment projects;
+(23)
+‘project at an advanced stage of development’ means any project the planning or construction stage of which has reached a point where a change in the technical specifications may compromise the viability of the project as planned;
+(24)
+‘harmonised standard’ means a European standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012;
+(25)
+‘national safety authority’ means a safety authority as defined in point (7) of Article 3 of Directive (EU) 2016/798;
+(26)
+‘type’ means a vehicle type defining the basic design characteristics of the vehicle as covered by a type or design examination certificate described in the relevant verification module;
+(27)
+‘series’ means a number of identical vehicles of a design type;
+(28)
+‘entity in charge of maintenance’ (‘ECM’) means an entity in charge of maintenance as defined in point (20) of Article 3 of Directive (EU) 2016/798;
+(29)
+‘light rail’ means an urban and/or suburban rail transport system with a crashworthiness of C-III or C-IV (in accordance with EN 15227:2011) and a maximum strength of vehicle of 800 kN (longitudinal compressive force in coupling area); light rail systems may have their own right of way or share it with road traffic and usually do not exchange vehicles with long-distance passenger or freight traffic;
+(30)
+‘national rules’ means all binding rules adopted in a Member State, irrespective of the body issuing them, which contain railway safety or technical requirements, other than those laid down by Union or international rules which are applicable within that Member State to railway undertakings, infrastructure managers or third parties;
+(31)
+‘design operating state’ means the normal operating mode and the foreseeable degraded conditions (including wear) within the range and the conditions of use specified in the technical and maintenance files;
+(32)
+‘area of use of a vehicle’ means a network or networks within a Member State or a group of Member States in which a vehicle is intended to be used;
+(33)
+‘acceptable means of compliance’ means non-binding opinions issued by the Agency to define ways of establishing compliance with the essential requirements;
+(34)
+‘acceptable national means of compliance’ means non-binding opinions issued by Member States to define ways of establishing compliance with national rules;
+(35)
+‘placing on the market’ means the first making available on the Union's market of an interoperability constituent, subsystem or vehicle ready to function in its design operating state;
+(36)
+‘manufacturer’ means any natural or legal person who manufactures a product in the form of interoperability constituents, subsystems or vehicles, or has it designed or manufactured, and markets it under his name or trademark;
+(37)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer or a contracting entity to act on behalf of that manufacturer or contracting entity in relation to specified tasks;
+(38)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, subsystem, process or service;
+(39)
+‘accreditation’ means accreditation as defined in point (10) of Article 2 of Regulation (EC) No 765/2008;
+(40)
+‘national accreditation body’ means a national accreditation body as defined in point (11) of Article 2 of Regulation (EC) No 765/2008;
+(41)
+‘conformity assessment’ means the process demonstrating whether specified requirements relating to a product, process, service, subsystem, person or body have been fulfilled;
+(42)
+‘conformity assessment body’ means a body that has been notified or designated to be responsible for conformity assessment activities, including calibration, testing, certification and inspection; a conformity assessment body is classified as a ‘notified body’ following notification by a Member State; a conformity assessment body is classified as a ‘designated body’ following designation by a Member State;
+(43)
+‘person with disabilities’ and ‘person with reduced mobility’ shall include any person who has a permanent or temporary physical, mental, intellectual or sensory impairment which, in interaction with various barriers, may hinder the full and effective use by that person of transport on an equal basis with other passengers or whose mobility when using transport is reduced due to age;
+(44)
+‘infrastructure manager’ means an infrastructure manager as defined in point (2) of Article 3 of Directive 2012/34/EU of the European Parliament and of the Council (11);
+(45)
+‘railway undertaking’ means a railway undertaking as defined in point (1) of Article 3 of Directive 2012/34/EU, and any other public or private undertaking, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking is to ensure traction; this also includes undertakings which provide traction only.

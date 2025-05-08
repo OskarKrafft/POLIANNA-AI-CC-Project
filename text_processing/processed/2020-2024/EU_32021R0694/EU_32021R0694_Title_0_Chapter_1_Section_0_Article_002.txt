@@ -1,0 +1,27 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘blending operation’ means an action supported by the Union budget, including within a blending facility or platform as defined in point (6) of Article 2 of the Financial Regulation, that combines non-repayable forms of support or financial instruments from the Union budget with repayable forms of support from development or other public finance institutions, as well as from commercial finance institutions and investors;
+(2)
+‘legal entity’ means a natural person, or a legal person created and recognised as such under Union, national, or international law, which has legal personality and the capacity to act in its own name, exercise rights and be subject to obligations, or an entity which does not have legal personality as referred to in point (c) of Article 197(2) of the Financial Regulation;
+(3)
+‘associated country’ means a third country which is party to an agreement with the Union allowing for its participation in the Programme pursuant to Article 10;
+(4)
+‘international organisation of European interest’ means an international organisation, the majority of whose members are Member States or whose headquarters are in a Member State;
+(5)
+‘European Digital Innovation Hub’ means a legal entity selected in accordance with Article 16 in order to fulfil the tasks under the Programme, in particular by directly providing, or ensuring access to, technological expertise and experimentation facilities, such as equipment and software tools to enable the digital transformation of industry, as well as by facilitating access to finance and it is open to businesses of all forms and sizes, in particular to SMEs, mid-caps and scale-up companies, and to public administrations across the Union;
+(6)
+‘advanced digital skills’ means the skills and professional competencies requiring the knowledge and experience necessary to understand, design, develop, manage, test, deploy, use and maintain the technologies, products and services supported by the Programme as referred to in Article 7;
+(7)
+‘European Partnership’ means a European Partnership as defined in point (3) of Article 2 of Regulation (EU) 2021/695;
+(8)
+‘small or medium-sized enterprise’ or ‘SME’ means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (24);
+(9)
+‘cybersecurity’ means the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber threats;
+(10)
+‘digital service infrastructures’ means infrastructures which enable networked services to be delivered electronically, typically over the internet;
+(11)
+‘Seal of Excellence’ means a quality label which shows that a proposal submitted to a call for proposals under the Programme has passed all of the evaluation thresholds set out in the work programme, but could not be funded due to a lack of budget available for that call for proposals in the work programme, and might receive support from other Union or national sources of funding;
+(12)
+‘exascale’ means, in the context of computing systems, being capable of executing 1018 (ten to the power of 18) floating operations per second.

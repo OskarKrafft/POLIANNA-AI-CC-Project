@@ -1,0 +1,21 @@
+Article 49
+Scope of Copernicus
+1.   Copernicus shall be implemented building on prior investments, including by stakeholders such as ESA and EUMETSAT and, where appropriate and cost-effective, drawing on the national or regional capacities of Member States and taking into account the capacities of commercial suppliers of comparable data and information and the need to foster competition and market development, while maximising opportunities for European users.
+2.   Copernicus shall deliver data and information building on the needs of the Copernicus users and based on a free, full and open data policy.
+3.   Copernicus shall support the formulation, implementation and monitoring of the Union’s and its Member States’ policies in particular in the fields of the environment, climate change, marine, maritime, atmosphere, agriculture and rural development, preservation of cultural heritage, civil protection, infrastructure monitoring, safety and security, as well as the digital economy with the aim to further reduce the administrative burden.
+4.   Copernicus shall comprise the following elements:
+(a)
+data acquisition, which shall include:
+(i)
+development and operations of the Copernicus Sentinels;
+(ii)
+access to third party space-based Earth observation data;
+(iii)
+access to in-situ and other ancillary data;
+(b)
+data and information processing through Copernicus Services, which shall include activities for the generation of value-added information to support environmental monitoring, reporting and compliance assurance, civil protection and security services;
+(c)
+data access and distribution, which shall include infrastructure and services to ensure the discovery, viewing, access to, distribution and exploitation and long-term preservation of Copernicus data and Copernicus information, in a user-friendly manner;
+(d)
+user uptake, market development and capacity building in accordance with Article 28(6), which shall include relevant activities, resources and services to promote Copernicus, Copernicus data and Copernicus Services, as well as related downstream applications and their development at all levels to maximise socio-economic benefits, as referred to in Article 4(1), as well as the collection and analysis of Copernicus users’ needs.
+5.   Copernicus shall promote the international coordination of observation systems and related exchanges of data in order to strengthen its global dimension and complementarity taking account of international agreements and coordination processes.

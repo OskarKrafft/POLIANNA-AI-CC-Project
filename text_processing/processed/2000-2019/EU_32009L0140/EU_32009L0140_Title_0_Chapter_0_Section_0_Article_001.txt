@@ -1,0 +1,89 @@
+Article 1
+Amendments to Directive 2002/21/EC (Framework Directive)
+Directive 2002/21/EC is hereby amended as follows:
+1)
+Article 1 shall be amended as follows:
+(a)
+paragraph 1 shall be replaced by the following:
+‘1.   This Directive establishes a harmonised framework for the regulation of electronic communications services, electronic communications networks, associated facilities and associated services, and certain aspects of terminal equipment to facilitate access for disabled users. It lays down tasks of national regulatory authorities and establishes a set of procedures to ensure the harmonised application of the regulatory framework throughout the Community.’;
+(b)
+the following paragraph shall be inserted:
+‘3a.   Measures taken by Member States regarding end-users access' to, or use of, services and applications through electronic communications networks shall respect the fundamental rights and freedoms of natural persons, as guaranteed by the European Convention for the Protection of Human Rights and Fundamental Freedoms and general principles of Community law.
+Any of these measures regarding end-users’ access to, or use of, services and applications through electronic communications networks liable to restrict those fundamental rights or freedoms may only be imposed if they are appropriate, proportionate and necessary within a democratic society, and their implementation shall be subject to adequate procedural safeguards in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms and with general principles of Community law, including effective judicial protection and due process. Accordingly, these measures may only be taken with due respect for the principle of the presumption of innocence and the right to privacy. A prior, fair and impartial procedure shall be guaranteed, including the right to be heard of the person or persons concerned, subject to the need for appropriate conditions and procedural arrangements in duly substantiated cases of urgency in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms. The right to effective and timely judicial review shall be guaranteed.’;
+2)
+Article 2 shall be amended as follows:
+(a)
+point (a) shall be replaced by the following:
+‘(a)
+“electronic communications network” means transmission systems and, where applicable, switching or routing equipment and other resources, including network elements which are not active, which permit the conveyance of signals by wire, radio, optical or other electromagnetic means, including satellite networks, fixed (circuit- and packet-switched, including Internet) and mobile terrestrial networks, electricity cable systems, to the extent that they are used for the purpose of transmitting signals, networks used for radio and television broadcasting, and cable television networks, irrespective of the type of information conveyed;’;
+(b)
+point (b) shall be replaced by the following:
+‘(b)
+“transnational markets” means markets identified in accordance with Article 15(4) covering the Community or a substantial part thereof located in more than one Member State;’;
+(c)
+point (d) shall be replaced by the following:
+‘(d)
+“public communications network” means an electronic communications network used wholly or mainly for the provision of electronic communications services available to the public which support the transfer of information between network termination points;’;
+(d)
+the following point shall be inserted:
+‘(da)
+“network termination point” (NTP) means the physical point at which a subscriber is provided with access to a public communications network; in the case of networks involving switching or routing, the NTP is identified by means of a specific network address, which may be linked to a subscriber number or name;’;
+(e)
+point (e) shall be replaced by the following:
+‘(e)
+“associated facilities” means those associated services, physical infrastructures and other facilities or elements associated with an electronic communications network and/or an electronic communications service which enable and/or support the provision of services via that network and/or service or have the potential to do so, and include, inter alia, buildings or entries to buildings, building wiring, antennae, towers and other supporting constructions, ducts, conduits, masts, manholes, and cabinets;’;
+(f)
+the following point shall be inserted:
+‘(ea)
+“associated services” means those services associated with an electronic communications network and/or an electronic communications service which enable and/or support the provision of services via that network and/or service or have the potential to do so and include, inter alia, number translation or systems offering equivalent functionality, conditional access systems and electronic programme guides, as well as other services such as identity, location and presence service;’;
+(g)
+point (l) shall be replaced by the following:
+‘(l)
+“Specific Directives” means Directive 2002/20/EC (Authorisation Directive), Directive 2002/19/EC (Access Directive), Directive 2002/22/EC (Universal Service Directive) and Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (*1);
+
+(*1)  
+                                                         OJ L 201, 31.7.2002, p. 37.’;"
+                        
+(h)
+the following points shall be added:
+‘(q)
+“spectrum allocation” means the designation of a given frequency band for use by one or more types of radio communications services, where appropriate, under specified conditions;
+(r)
+“harmful interference” means interference which endangers the functioning of a radio navigation service or of other safety services or which otherwise seriously degrades, obstructs or repeatedly interrupts a radio communications service operating in accordance with the applicable international, Community or national regulations;
+(s)
+“call” means a connection established by means of a publicly available electronic communications service allowing two-way voice communication.’;
+3)
+Article 3 shall be amended as follows:
+(a)
+paragraph 3 shall be replaced by the following:
+‘3.   Member States shall ensure that national regulatory authorities exercise their powers impartially, transparently and in a timely manner. Member States shall ensure that national regulatory authorities have adequate financial and human resources to carry out the task assigned to them.’;
+(b)
+the following paragraphs shall be inserted:
+‘3a.   Without prejudice to the provisions of paragraphs 4 and 5, national regulatory authorities responsible for ex-ante market regulation or for the resolution of disputes between undertakings in accordance with Article 20 or 21 of this Directive shall act independently and shall not seek or take instructions from any other body in relation to the exercise of these tasks assigned to them under national law implementing Community law. This shall not prevent supervision in accordance with national constitutional law. Only appeal bodies set up in accordance with Article 4 shall have the power to suspend or overturn decisions by the national regulatory authorities. Member States shall ensure that the head of a national regulatory authority, or where applicable, members of the collegiate body fulfilling that function within a national regulatory authority referred to in the first subparagraph or their replacements may be dismissed only if they no longer fulfil the conditions required for the performance of their duties which are laid down in advance in national law. The decision to dismiss the head of the national regulatory authority concerned, or where applicable members of the collegiate body fulfilling that function shall be made public at the time of dismissal. The dismissed head of the national regulatory authority, or where applicable, members of the collegiate body fulfilling that function shall receive a statement of reasons and shall have the right to request its publication, where this would not otherwise take place, in which case it shall be published.
+Member States shall ensure that national regulatory authorities referred to in the first subparagraph have separate annual budgets. The budgets shall be made public. Member States shall also ensure that national regulatory authorities have adequate financial and human resources to enable them to actively participate in and contribute to the Body of European Regulators for Electronic Communications (BEREC) (*2).
+3b.   Member States shall ensure that the goals of BEREC of promoting greater regulatory coordination and coherence are actively supported by the respective national regulatory authorities.
+3c.   Member States shall ensure that national regulatory authorities take utmost account of opinions and common positions adopted by BEREC when adopting their own decisions for their national markets.
+
+(*2)  Regulation (EC) No 1211/2009 of the European Parliament and of the Council of 25 November 2009 establishing the Body of European Regulators for Electronic Communications (BEREC) and the Office.’;"
+                        
+4)
+Article 4 shall be amended as follows:
+(a)
+paragraph 1 shall be replaced by the following:
+‘1.   Member States shall ensure that effective mechanisms exist at national level under which any user or undertaking providing electronic communications networks and/or services who is affected by a decision of a national regulatory authority has the right of appeal against the decision to an appeal body that is independent of the parties involved. This body, which may be a court, shall have the appropriate expertise to enable it to carry out its functions effectively. Member States shall ensure that the merits of the case are duly taken into account and that there is an effective appeal mechanism.
+Pending the outcome of the appeal, the decision of the national regulatory authority shall stand, unless interim measures are granted in accordance with national law.’;
+(b)
+the following paragraph shall be added:
+‘3.   Member States shall collect information on the general subject matter of appeals, the number of requests for appeal, the duration of the appeal proceedings and the number of decisions to grant interim measures. Member States shall provide such information to the Commission and BEREC after a reasoned request from either.’;
+5)
+Article 5(1) shall be replaced by the following:
+‘1.   Member States shall ensure that undertakings providing electronic communications networks and services provide all the information, including financial information, necessary for national regulatory authorities to ensure conformity with the provisions of, or decisions made in accordance with, this Directive and the Specific Directives. In particular, national regulatory authorities shall have the power to require those undertakings to submit information concerning future network or service developments that could have an impact on the wholesale services that they make available to competitors. Undertakings with significant market power on wholesale markets may also be required to submit accounting data on the retail markets that are associated with those wholesale markets.
+Undertakings shall provide such information promptly upon request and in conformity with the timescales and level of detail required by the national regulatory authority. The information requested by the national regulatory authority shall be proportionate to the performance of that task. The national regulatory authority shall give the reasons justifying its request for information and shall treat the information in accordance with paragraph 3.’;
+6)
+Articles 6 and 7 shall be replaced by the following:
+‘Article 6
+Consultation and transparency mechanism
+Except in cases falling within Articles 7(9), 20, or 21, Member States shall ensure that, where national regulatory authorities intend to take measures in accordance with this Directive or the Specific Directives, or where they intend to provide for restrictions in accordance with Article 9(3) and 9(4), which have a significant impact on the relevant market, they give interested parties the opportunity to comment on the draft measure within a reasonable period.
+National regulatory authorities shall publish their national consultation procedures.
+Member States shall ensure the establishment of a single information point through which all current consultations can be accessed.
+The results of the consultation procedure shall be made publicly available by the national regulatory authority, except in the case of confidential information in accordance with Community and national law on business confidentiality.

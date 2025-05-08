@@ -1,0 +1,30 @@
+Article 12
+Unique identifiers
+1.   The unique operator identifiers referred to in Annex III, first paragraph, points (g) and (h), and the unique facility identifiers referred to in Annex III, first paragraph, point (i), shall comply with the standards referred to in Annex III, first paragraph, point (c), and second paragraph, or equivalent European or international standards, until the references of harmonised standards are published in the Official Journal of the European Union.
+2.   Where a unique operator identifier referred to in Annex III, first paragraph, point (h), is not yet available, the economic operator that creates or updates the digital product passport shall request a unique operator identifier on behalf of the relevant actor and shall provide that actor with full details of the unique operator identifier once issued.
+Before issuing a request as referred to in the first subparagraph, the economic operator that creates or updates the digital product passport shall seek confirmation from that relevant actor that no unique operator identifier exists.
+3.   Where a unique facility identifier referred to in Annex III, first paragraph, point (i), is not yet available, the economic operator that creates or updates the digital product passport shall request a unique facility identifier on behalf of the actor responsible for the relevant location or building and shall provide that actor with full details of the unique facility identifier once issued.
+Before issuing a request as referred to in the first subparagraph, the economic operator that creates or updates the digital product passport shall seek confirmation from the relevant actor that no unique facility identifier exists.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 72 to supplement this Regulation by establishing rules and procedures related to the life cycle management of unique identifiers and of data carriers. In particular, those delegated acts shall:
+(a)
+establish rules for organisations wishing to become an issuing agency for unique identifiers and data carriers; and
+(b)
+establish rules for economic operators wishing to create their own unique identifiers and data carriers without relying on an issuing agency for unique identifiers and data carriers.
+5.   The delegated acts adopted pursuant to paragraph 4 shall set out:
+(a)
+the criteria to become an issuing agency for unique identifiers and data carriers;
+(b)
+the role of an issuing agency for unique identifiers and data carriers;
+(c)
+the rules to ensure that unique identifiers and data carriers are reliable, verifiable and unique globally;
+(d)
+the rules on creating, maintaining, updating, and withdrawing unique identifiers and data carriers;
+(e)
+the rules related to data management.
+6.   When establishing the rules and procedures as referred to in paragraph 4, the Commission shall:
+(a)
+seek to ensure interoperability between different approaches;
+(b)
+take into account relevant existing technical solutions and standards;
+(c)
+ensure that the rules and procedures established remain, to the largest extent possible, technologically neutral.

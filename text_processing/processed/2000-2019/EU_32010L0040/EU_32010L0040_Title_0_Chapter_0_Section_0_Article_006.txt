@@ -1,0 +1,20 @@
+Article 6
+Specifications
+1.   The Commission shall first adopt the specifications necessary to ensure the compatibility, interoperability and continuity for the deployment and operational use of ITS for the priority actions.
+2.   The Commission shall aim at adopting specifications for one or more of the priority actions by 27 February 2013.
+At the latest 12 months after the adoption of the necessary specifications for a priority action, the Commission shall, where appropriate, after conducting an impact assessment including a cost-benefit analysis, present a proposal to the European Parliament and the Council in accordance with Article 294 of the TFEU on the deployment of that priority action.
+3.   Once the necessary specifications for the priority actions have been adopted, the Commission shall adopt specifications ensuring compatibility, interoperability and continuity for the deployment and operational use of ITS for other actions in the priority areas.
+4.   Where relevant, and depending on the area covered by the specification, the specification shall include one or more of the following types of provisions:
+(a)
+functional provisions that describe the roles of the various stakeholders and the information flow between them;
+(b)
+technical provisions that provide for the technical means to fulfil the functional provisions;
+(c)
+organisational provisions that describe the procedural obligations of the various stakeholders;
+(d)
+service provisions that describe the various levels of services and their content for ITS applications and services.
+5.   Without prejudice to the procedures under Directive 98/34/EC the specifications shall, where appropriate, stipulate the conditions in which Member States may, after notification to the Commission, establish additional rules for the provision of ITS services on all or part of their territory, provided that those rules do not hinder interoperability.
+6.   The specifications shall, where appropriate, be based on any standards referred to in Article 8.
+The specifications shall, as appropriate, provide for conformity assessment in accordance with Decision No 768/2008/EC.
+The specifications shall comply with the principles set out in Annex II.
+7.   The Commission shall conduct an impact assessment including a cost-benefit analysis prior to the adoption of the specifications.

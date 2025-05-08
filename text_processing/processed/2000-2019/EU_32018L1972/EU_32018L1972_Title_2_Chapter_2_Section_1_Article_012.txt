@@ -1,0 +1,25 @@
+Article 12
+General authorisation of electronic communications networks and services
+1.   Member States shall ensure the freedom to provide electronic communications networks and services, subject to the conditions set out in this Directive. To this end, Member States shall not prevent an undertaking from providing electronic communications networks or services, except where this is necessary for the reasons set out in Article 52(1) TFEU. Any such limitation to the freedom to provide electronic communications networks and services shall be duly reasoned and shall be notified to the Commission.
+2.   The provision of electronic communications networks or services, other than number-independent interpersonal communications services, may, without prejudice to the specific obligations referred to in Article 13(2) or rights of use referred to in Articles 46 and 94, be subject only to a general authorisation.
+3.   Where a Member State considers that a notification requirement is justified for undertakings subject to a general authorisation, that Member State may require such undertakings only to submit a notification to the national regulatory or other competent authority. The Member State shall not require such undertakings to obtain an explicit decision or any other administrative act by such authority or by any other authority before exercising the rights derived from the general authorisation.
+Upon notification, when required, an undertaking may start the activity, where necessary subject to the provisions on the rights of use under this Directive.
+4.   The notification referred to in paragraph 3 shall not entail more than a declaration by a natural or legal person to the national regulatory or other competent authority of the intention to start the provision of electronic communications networks or services and the submission of the minimal information which is required to allow BEREC and that authority to keep a register or list of providers of electronic communications networks and services. That information shall be limited to:
+(a)
+the name of the provider;
+(b)
+the provider’s legal status, form and registration number, where the provider is registered in a trade or other similar public register in the Union;
+(c)
+the geographical address of the provider’s main establishment in the Union, if any, and, where applicable, any secondary branch in a Member State;
+(d)
+the provider’s website address, where applicable, associated with the provision of electronic communications networks or services;
+(e)
+a contact person and contact details;
+(f)
+a short description of the networks or services intended to be provided;
+(g)
+the Member States concerned; and
+(h)
+an estimated date for starting the activity.
+Member States shall not impose any additional or separate notification requirements.
+In order to approximate notification requirements, BEREC shall publish guidelines for the notification template and maintain a Union database of the notifications transmitted to the competent authorities. To that end, the competent authorities shall, by electronic means, forward each notification received to BEREC without undue delay. Notifications made to the competent authorities before 21 December 2020 shall be forwarded to BEREC by 21 December 2021.

@@ -1,0 +1,18 @@
+Article 10
+Certification of fuels and emission factors
+1.   Where biofuels, biogas, RFNBO and recycled carbon fuels, as defined in Directive (EU) 2018/2001, are to be taken into account for the purposes referred to in Article 4(1) of this Regulation, the following rules apply:
+(a)
+biofuels and biogas that do not comply with the sustainability and GHG emissions saving criteria set out in Article 29 of Directive (EU) 2018/2001 or that are produced from food and feed crops shall be considered to have the same emission factors as the least favourable fossil fuel pathway for that type of fuel;
+(b)
+RFNBO and recycled carbon fuels that do not comply with the GHG emissions savings threshold set out in Article 25(2) of Directive (EU) 2018/2001 shall be considered to have the same emission factors as the least favourable fossil fuel pathway for that type of fuel.
+2.   Fuels not covered in paragraph 1 shall be considered to have the same emission factors as the least favourable fossil fuel pathway for the type of fuel in question, unless they have been certified in accordance with Union legal acts concerning the internal markets in renewable and natural gases and in hydrogen, establishing a GHG emissions savings threshold and an associated methodology to calculate GHG emissions from production of such fuels.
+3.   On the basis of the fuel bunker delivery notes complemented in accordance with Annex I to this Regulation, companies shall provide accurate, complete and reliable data on the GHG emission intensity and the sustainability characteristics of fuels to be taken into account for the purposes referred to in Article 4(1) of this Regulation that have been certified under a scheme that is recognised by the Commission in accordance with Article 30(5) and (6) of Directive (EU) 2018/2001 or, where applicable, the relevant provisions of Union legal acts concerning the internal markets in renewable and natural gases and in hydrogen.
+4.   Companies shall not diverge from the default values for the well-to-tank emission factors set out in Annex II to this Regulation for fossil fuels. Without prejudice to paragraph 1, companies shall be entitled to diverge from the default values for the well-to-tank emission factors set out in Annex II to this Regulation provided that actual values are certified under a scheme that is recognised by the Commission. That certification shall be done, for biofuels, biogas, RFNBO and recycled carbon fuels, in accordance with Article 30(5) and (6) of Directive (EU) 2018/2001 or, where applicable, in accordance with the relevant provisions of Union legal acts concerning the internal markets in renewable and natural gases and in hydrogen.
+5.   Companies shall be entitled to diverge from the default values for the tank-to-wake emission factors set out in Annex II, with the exception of tank-to-wake CO2 emission factors for fossil fuels, provided that actual values are certified by means of laboratory testing or direct emissions measurements.
+6.   The Commission shall adopt implementing acts in order to specify which international standards and certification references are accepted for demonstration of actual tank-to-wake emission factors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).
+
+Chapter IV
+
+
+Verification and accreditation
+

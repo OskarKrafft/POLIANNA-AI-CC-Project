@@ -1,0 +1,50 @@
+Article 11
+Harmonised zone and national measures
+1.   This Regulation, and the harmonised technical specifications adopted in accordance with it, together, establish a ‘harmonised zone’.
+The harmonised zone covers all products subject to harmonised technical specifications.
+Harmonised technical specifications shall be presumed to be comprehensive, in the following respects:
+(a)
+laying down all essential characteristics and their assessment methods;
+(b)
+specifying all product requirements other than those covered by other Union law; and
+(c)
+determining the applicable assessment and verification systems.
+Harmonised technical specifications for new products shall apply to used products from third countries unless the harmonised technical specification explicitly provides rules for used products.
+2.   Member States shall respect the harmonised zone in their national laws, regulations and administrative measures, and shall neither prohibit nor impede the making available on the market of products covered by it when those products are in compliance with this Regulation. Member States shall not lay down essential characteristics and their assessment methods or product requirements other than those set out in the harmonised technical specifications.
+The harmonised zone does not affect the right of Member States to specify national requirements for the use of products that are subject to harmonised technical specifications. Any assessment methods and systems for assessment and verification set out in such national requirements shall be in accordance with the applicable harmonised technical specifications.
+Member States shall ensure that the making available on the market of products within the harmonised zone which are in compliance with this Regulation shall not be impeded by rules or conditions imposed by public bodies or by private bodies acting as a public undertaking or private bodies acting as a public body on the basis of a monopoly position or under a public mandate.
+3.   When complying with the obligations provided for in paragraph 2, Member States shall in particular apply the following rules:
+(a)
+no requirements for information or registration related to the placing on the market of the product other than those laid down in the harmonised zone shall be established;
+(b)
+no assessments of the product other than those set out in the harmonised zone shall be made mandatory;
+(c)
+no markings attesting to conformity with requirements or declared performances in relation to essential characteristics covered by the harmonised zone shall be required other than the CE marking, and any existing provisions in national measures requiring such markings shall be withdrawn;
+(d)
+national laws, regulations and administrative measures shall respect the threshold levels established in accordance with Article 5(5);
+(e)
+national laws, regulations and administrative measures shall not be based on classes, sub-classes or additional classes other than those established in accordance with Article 5;
+(f)
+national laws, regulations and administrative measures shall not require more assessments and verifications than those established in accordance with Article 10(1).
+4.   Member States shall register in the Single Digital Gateway established by Regulation (EU) 2018/1724 of the European Parliament and of the Council (25) all their national laws, regulations and administrative measures related to construction products on their territory covered by the harmonised zone.
+5.   Where a Member State deems it necessary on imperative grounds of health and safety of persons or protection of the environment and in order to address immediate regulatory needs, to take measures applicable to products within the harmonised zone in relation to characteristics not laid down in harmonised technical specifications, it shall notify the Commission thereof, justifying the need for the measures taken and explaining the regulatory need it aims to address.
+To that end, Member States shall use the procedure set up by Directive (EU) 2015/1535 of the European Parliament and of the Council (26). When doing so, Member States shall make reference to this paragraph and specify which elements are part of the measure.
+The Commission shall reply to the notification within the time limits established in the procedure set up by Directive (EU) 2015/1535. The Commission shall within six months of the notification either put forward a proposal for authorisation in accordance with paragraph 6 of this Article or communicate its grounds for rejecting the national measure.
+Upon receipt of a notification as referred to in the first subparagraph, the Commission shall, irrespective of whether it intends to authorise the measure, without delay submit the matter to the CPR Acquis Expert Group for consultations on whether updates to existing performance harmonised standards need to be requested as a priority.
+6.   The Commission shall adopt an implementing act, authorising the national measure notified under paragraph 5 where:
+(a)
+the notified measure appears duly justified in the light of imperative grounds of health and safety of persons or protection of the environment, including the climate;
+(b)
+the regulatory need is not covered by harmonised technical specifications or by other Union law;
+(c)
+the notified measure does not discriminate against economic operators of other Member States;
+(d)
+the notified measure is able to cover the respective regulatory need;
+(e)
+the notified measure does not constitute a serious obstacle to the functioning of the internal market; and
+(f)
+the notified measure is not expected to be covered by a harmonised standard which is to be delivered within one year from the date of the notification referred to in paragraph 5 of this Article, following a standardisation request issued pursuant to Article 5(2), or, at the moment of that notification, no implementing act referred to in Article 6(1) has been presented to the committee referred to in Article 90(1).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3). They shall be withdrawn once the regulatory need is covered by harmonised technical specifications or by other Union law.
+On duly justified imperative grounds of urgency relating to health and safety of persons or the protection of the environment, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 90(4).
+7.   This Regulation does not affect the possibility for Member States to introduce mandatory deposit-refund systems or to oblige manufacturers to accept to regain, directly or via their importers and distributors, ownership of their new, surplus or unsold non-custom-made products that are in a state equivalent to that in which they were placed on the market, provided that the measure does not directly or indirectly discriminate against economic operators in other Member States.
+8.   This Regulation does not affect the possibility for Member States to ban the destruction of surplus or unsold products, or to make their destruction conditional upon their previously having been made available on a national brokering platform for non-commercial use of products.

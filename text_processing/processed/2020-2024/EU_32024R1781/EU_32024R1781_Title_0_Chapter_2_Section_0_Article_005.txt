@@ -1,0 +1,106 @@
+Article 5
+Ecodesign requirements
+1.   In order to address environmental impacts and based on the product parameters referred to in Annex I, the ecodesign requirements in the delegated acts adopted pursuant to Article 4 shall be such as to improve the following product aspects (‘product aspects’) where those product aspects are relevant to the product group concerned:
+(a)
+durability;
+(b)
+reliability;
+(c)
+reusability;
+(d)
+upgradability;
+(e)
+repairability;
+(f)
+the possibility of maintenance and refurbishment;
+(g)
+the presence of substances of concern;
+(h)
+energy use and energy efficiency;
+(i)
+water use and water efficiency;
+(j)
+resource use and resource efficiency;
+(k)
+recycled content;
+(l)
+the possibility of remanufacturing;
+(m)
+recyclability;
+(n)
+the possibility of the recovery of materials;
+(o)
+environmental impacts, including carbon footprint and environmental footprint;
+(p)
+expected generation of waste.
+2.   Ecodesign requirements shall, where relevant, ensure based on the product parameters referred to in Annex I that products do not become prematurely obsolete, for reasons that include design choices by manufacturers, the use of components which are significantly less robust than other components, the impeded disassembly of key components, unavailable repair information or spare parts, software that no longer works once an operating system is updated or software updates that are not provided.
+3.   The Commission shall select or develop tools or methodologies, as necessary, for the setting of ecodesign requirements.
+4.   Ecodesign requirements shall be set for a specific product group. They may be differentiated for any specific product that belongs to that specific product group.
+5.   Products whose sole purpose is to serve defence or national security shall be excluded from product groups.
+6.   The Commission may set ecodesign requirements also for those product groups or product aspects that have not been included in the working plan referred to in Article 18.
+7.   Where two or more product groups display one or more similarities allowing a product aspect to be effectively improved based on common information requirements or performance requirements, horizontal ecodesign requirements may be set for those product groups (‘horizontal ecodesign requirements’). When considering whether to set horizontal ecodesign requirements, the Commission shall also take into account the positive effects of those requirements towards reaching the objectives of this Regulation, in particular the ability to cover a wide range of product groups in the same delegated act. The Commission may supplement the horizontal ecodesign requirements through the setting of ecodesign requirements for a specific product group.
+8.   An ecodesign requirement may cover products falling within the scope of a self-regulation measure included in the list contained in the implementing act adopted pursuant to Article 21(3), in the event that the self-regulation measure does not address the product aspects covered by that ecodesign requirement.
+9.   Ecodesign requirements shall include, as appropriate to improve the specific product aspects, either or both of the following:
+(a)
+performance requirements as set out in Article 6;
+(b)
+information requirements as set out in Article 7.
+10.   When preparing ecodesign requirements, the Commission shall ensure consistency with other Union law and shall:
+(a)
+take into account:
+(i)
+Union priorities for the climate, the environment, energy efficiency, resource efficiency and security, including a non-toxic circular economy, and other related Union priorities and targets;
+(ii)
+relevant Union law, including the extent to which it addresses the relevant product aspects;
+(iii)
+relevant international agreements;
+(iv)
+self-regulation measures;
+(v)
+relevant national environmental law;
+(vi)
+relevant European and international standards;
+(b)
+carry out an impact assessment based on best available evidence and analyses, and where appropriate on additional studies and research results produced under Union funding programmes. The setting of ecodesign requirements concerning certain of the product aspects shall not be unduly delayed by uncertainties regarding the possibility of setting ecodesign requirements to improve other product aspects of that product. In the impact assessment, the Commission shall:
+(i)
+indicate the methodology used;
+(ii)
+ensure that all product aspects are analysed and that the depth of analysis of the product aspects is proportionate to their significance for the product concerned;
+(iii)
+ensure that interdependencies between the different product aspects are analysed;
+(iv)
+set out the changes expected in terms of environmental impacts, including quantified as a carbon footprint and an environmental footprint whenever possible;
+(v)
+analyse the availability of feedstock for the refurbishment sector, where appropriate;
+(vi)
+analyse any relevant impacts on human health;
+(vii)
+consider the minimum level of performance of a product or a product group needed to achieve in the future the Union’s priorities as listed in point (a)(i);
+(c)
+take into consideration relevant technical information used as a basis for or derived from Union law or instruments, including Regulation (EC) No 66/2010, Directive 2010/75/EU, technical screening criteria adopted pursuant to Regulation (EU) 2020/852 and EU green public procurement criteria;
+(d)
+take into consideration the protection of confidential business information;
+(e)
+take into account the views expressed by the Ecodesign Forum referred to in Article 19 and the Member States Expert Group referred to in Article 20.
+11.   Ecodesign requirements shall meet the following criteria:
+(a)
+there shall be no significant negative impact on the functionality of the product, from the perspective of the user;
+(b)
+there shall be no adverse effect on the health and safety of persons;
+(c)
+there shall be no significant negative impact on consumers in terms of the affordability of relevant products, also taking into account access to second-hand products, durability and the life cycle cost of products;
+(d)
+there shall be no disproportionate negative impact on the competitiveness of economic operators and other actors in the value chain, including SMEs, in particular microenterprises;
+(e)
+there shall be no proprietary technology imposed on manufacturers or other actors in the value chain;
+(f)
+there shall be no disproportionate administrative burden on manufacturers or other actors in the value chain, including SMEs, in particular microenterprises.
+12.   Ecodesign requirements shall be verifiable. The Commission shall identify appropriate means of verification for specific ecodesign requirements, including direct checks of the product or on the basis of the technical documentation.
+13.   The Commission shall publish relevant studies and analyses, including the impact assessments referred to in paragraph 10, point (b), used in the setting of ecodesign requirements.
+14.   For each product group concerned by ecodesign requirements, the Commission shall determine, where relevant, which substances fall under the definition in Article 2(27), point (d), taking into account, at least, whether:
+(a)
+based on standard technologies, the substances make the reuse, or recycling process more complicated, costly, environmentally impactful, or energy- or resource-demanding;
+(b)
+the substances impair the technical properties or functionalities, the usefulness or the value of the recycled material coming from the product or products manufactured from that recycled material;
+(c)
+the substances negatively impact aesthetic or olfactory properties of the recycled material.

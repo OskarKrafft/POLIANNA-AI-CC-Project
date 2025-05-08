@@ -1,0 +1,48 @@
+Article 6
+Additional zero-emission requirements for energy used at berth
+1.   From 1 January 2030, a ship moored at the quayside in a port of call which is covered by Article 9 of Regulation (EU) 2023/1804 and which is under the jurisdiction of a Member State shall connect to OPS and use it for all its electrical power demand at berth.
+2.   From 1 January 2035, a ship moored at the quayside in a port of call which is not covered by Article 9 of Regulation (EU) 2023/1804, which is under the jurisdiction of a Member State and where the quay is equipped with available OPS shall connect to that OPS and use it for all its electrical power demand at berth.
+3.   From 1 January 2030 and until 31 December 2034, and after consulting relevant stakeholders, including, where appropriate, the managing body of the port, a Member State may decide that a ship moored at the quayside in a port of call under its jurisdiction which is not covered by Article 9 of Regulation (EU) 2023/1804, or in certain parts of such port, shall connect to OPS and use it for all its electrical power demand at berth. The Member State shall notify its decision imposing such requirement to the Commission a year prior to the application thereof. Such decision must apply from the beginning of a reporting period. The Commission shall publish the information in the Official Journal of the European Union and make publicly available an updated list of the ports concerned. Such list shall be easily accessible.
+4.   Paragraphs 1, 2 and 3 shall apply to:
+(a)
+containerships;
+(b)
+passenger ships.
+5.   Paragraphs 1, 2 and 3 shall not apply to ships that:
+(a)
+are moored at the quayside for less than two hours, calculated on the basis of time of arrival and time of departure monitored and recorded in accordance with Article 15;
+(b)
+use zero-emission technologies which comply with the general requirements for such technologies provided for in Annex III and are listed and specified in the delegated and implementing acts adopted in accordance with paragraphs 6 and 7 of this Article, for all their electrical power demand at berth, while moored at the quayside;
+(c)
+due to unforeseen circumstances beyond the control of the ship, have to make an unscheduled port call, which is not made on a systematic basis, for reasons of safety or saving life at sea, other than those already excluded under Article 3, point (10);
+(d)
+are unable to connect to OPS due to the unavailability of OPS connection points in a port;
+(e)
+are unable to connect to OPS because exceptionally the electrical grid stability is at risk, due to insufficient available shore-power to satisfy the ship’s required electrical power demand at berth;
+(f)
+are unable to connect to OPS because the shore installation at the port is not compatible with the onboard on-shore power equipment, provided that the installation for shore-connection on board the ship is certified in accordance with the technical specifications set out in Annex II to Regulation (EU) 2023/1804 for the shore-connection systems of seagoing ships;
+(g)
+for a limited period of time, require the use of onboard energy generation, under emergency situations representing immediate risk to life, the ship or the environment or for other reasons of force majeure;
+(h)
+while remaining connected to OPS, for a period of time limited to what is strictly necessary, require the use of onboard energy generation for maintenance tests or for functional tests carried out at the request of an officer of a competent authority or the representative of a recognised organisation undertaking a survey or inspection.
+6.   The Commission is empowered to adopt and regularly update delegated acts in accordance with Article 28 in order to amend the non-exhaustive table set out in Annex III by adding other zero-emission technologies, within the meaning of Article 3, point (7).
+7.   The Commission may adopt implementing acts to establish the detailed criteria for acceptance, including the definition of system boundaries and certification requirements, to be considered as fulfilling the general requirements for zero-emission technologies provided for in Annex III, including its future updates.
+For the list of existing technologies provided for in Annex III, those implementing acts shall be adopted by 30 June 2024, where applicable. For any new technologies, those implementing acts shall be adopted, where other technologies as referred to in Annex III become available, without undue delay.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).
+8.   Ships shall inform in advance the competent authority of the Member State of the port of call or any duly authorised entity prior to entry into ports about their intention to connect to OPS or their intention to use a zero-emission technology in application of paragraph 5, point (b). Ships that intend to connect to OPS shall also indicate the amount of power they expect to require during that port call.
+Upon receipt of the information from a ship regarding the connection to OPS referred to in the first subparagraph, the competent authority of the Member State of the port of call or any duly authorised entity shall confirm to the ship whether connection to OPS is available.
+The Commission shall adopt implementing acts specifying the information to be provided in accordance with the first and second subparagraphs, as well as the procedure for providing that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).
+9.   The competent authority of the Member State of the port of call or any duly authorised entity, after consulting the managing body of the port where appropriate, shall determine and record in the FuelEU database, without delay, the following information:
+(a)
+the application of an exception set out in paragraph 5;
+(b)
+the non-compliance of a ship with the requirements set out in paragraphs 1, 2 and 3 where none of the exceptions set out in paragraph 5 apply.
+10.   From 1 January 2035, in ports falling under the requirements of Article 9 of Regulation (EU) 2023/1804, it shall only be possible to apply the exceptions provided for in paragraph 5, points (d), (e) and (f) to a maximum number of port calls corresponding to 10 % of a ship’s total number of port calls that took place during a reporting period, rounded up to the nearest whole number, where relevant, or to a maximum of 10 port calls during the relevant reporting period, whichever is lower.
+A port call shall not be counted for the purposes of compliance with this provision where the company demonstrates, on the basis of the exchange of information provided for in paragraph 8, that it could not have reasonably known that the ship would be unable to connect to OPS for any of the reasons referred to in paragraph 5, points (d), (e) or (f).
+11.   A Member State may decide that, in a port or in certain parts of a port under its jurisdiction, containerships or passenger ships at anchorage are covered by the same obligations set out in this Regulation applicable to ships moored at the quayside. The Member State shall notify its decision imposing such requirement to the Commission a year prior to the application thereof. Such decision must apply from the beginning of a reporting period. The Commission shall publish the information in the Official Journal of the European Union and make publicly available an updated list of the ports concerned. Such list shall be easily accessible.
+
+Chapter III
+
+
+Common principles and certification
+

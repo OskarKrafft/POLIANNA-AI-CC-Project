@@ -1,0 +1,97 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘non-road mobile machinery’ means self-propelled mobile machinery with a propulsion system, falling within the scope of Directive 2006/42/EC, that is designed and constructed for the purpose of performing work;
+(2)
+‘new non-road mobile machinery’ means non-road mobile machinery which has never been placed on the market in the Union;
+(3)
+‘system’ means an assembly of devices combined to perform one or more specific functions in non-road mobile machinery and that is subject to the technical requirements;
+(4)
+‘fully automated driving system’ means a driving system of non-road mobile machinery that has been designed and constructed to move autonomously without any driver supervision;
+(5)
+‘component’ means a device that is intended to be part of non-road mobile machinery that can be type-approved independently of that machinery;
+(6)
+‘separate technical unit’ means a device that is intended to be part of non-road mobile machinery that can be type-approved separately;
+(7)
+‘EU type-approval’ means the certification from an approval authority that a type of non-road mobile machinery satisfies the relevant provisions of this Regulation;
+(8)
+‘EU individual approval’ means the certification from an approval authority that particular non-road mobile machinery, whether unique or not, satisfies the relevant provisions of this Regulation;
+(9)
+‘market surveillance authority’ means the authority of a Member State responsible for carrying out market surveillance in the territory of that Member State;
+(10)
+‘approval authority’ means the authority of a Member State, notified to the Commission by that Member State, with competence for all aspects of the type-approval of non-road mobile machinery, for issuing and, if appropriate, for withdrawing or refusing approval certificates, for acting as the contact point for the approval authorities of the other Member States, for designating the technical services and for ensuring that the manufacturer meets its obligations regarding the conformity of production;
+(11)
+‘national authority’ means an approval authority or any other authority involved in and responsible for market surveillance, border control or registration in a Member State in respect of non-road mobile machinery;
+(12)
+‘technical service’ means an independent organisation or body designated by an approval authority as a testing laboratory to carry out tests or as a conformity assessment body to carry out the initial assessment and other tests or inspections, on behalf of the approval authority, although it is possible for the approval authority itself to carry out those functions;
+(13)
+‘manufacturer’ means any natural or legal person who manufactures non-road mobile machinery or has non-road mobile machinery designed or manufactured, and markets that machinery under that person’s name or trade mark;
+(14)
+‘manufacturer’s representative for market surveillance’ means any natural or legal person established in the Union who is duly appointed by the manufacturer to carry out the tasks specified in Article 9;
+(15)
+‘manufacturer’s representative for EU type-approval’ means any natural or legal person established in the Union who is duly appointed by the manufacturer, on the basis of an agreement, to carry out all of the manufacturer’s obligations related to the EU type-approval and the relevant procedures, including the tasks specified in Articles 18, 19 and 22; this agreement must be presented at the request of the approval authority;
+(16)
+‘importer’ means a natural or legal person established in the Union who places on the market non-road mobile machinery that has been manufactured in a third country;
+(17)
+‘distributor’ means a dealer or any other natural or legal person in the supply chain, other than the manufacturer or the importer, who makes available on the market non-road mobile machinery;
+(18)
+‘economic operator’ means the manufacturer, the manufacturer’s representative for market surveillance, the importer or the distributor;
+(19)
+‘placing on the market’ means making available non-road mobile machinery for the first time in the Union;
+(20)
+‘making available on the market’ means any supply of non-road mobile machinery for distribution or use on the market in the course of a commercial activity, whether in return for payment or free of charge;
+(21)
+‘entry into service’ means the first use, for its intended purpose, in the Union, of non-road mobile machinery;
+(22)
+‘registration’ means the administrative authorisation for the entry into service, in the Union, for circulation on public roads of non-road mobile machinery, involving the identification of the latter and the issuance of a permanent or temporary serial number to be known as the registration number;
+(23)
+‘EU type-approval certificate’ means the document issued by the approval authority which certifies that a type of non-road mobile machinery is type-approved in accordance with this Regulation;
+(24)
+‘EU individual approval certificate’ means the document issued by the approval authority which certifies that particular non-road mobile machinery is individually approved in accordance with this Regulation;
+(25)
+‘certificate of conformity’ means the document issued by the manufacturer, as provided for in this Regulation, which certifies that produced non-road mobile machinery conforms to the approved type of non-road mobile machinery;
+(26)
+‘non-road mobile machinery type’ means a particular non-road mobile machinery group, including variants and versions of variants of that machinery, that shares at least the following essential aspects:
+(a)
+manufacturer,
+(b)
+type designation given by the manufacturer,
+(c)
+essential design and construction characteristics,
+(d)
+backbone chassis, chassis with side members or articulated chassis (obvious and fundamental differences);
+(27)
+‘variant’ means non-road mobile machinery of the same type which does not differ in at least the following aspects, where applicable:
+(a)
+body structural concept or type of body work,
+(b)
+stage of completion,
+(c)
+propulsion system (internal combustion engine, hybrid, electric, hybrid-electric or other),
+(d)
+operating principle,
+(e)
+powered axles (number, position, interconnection),
+(f)
+transmission (type),
+(g)
+protective structures,
+(h)
+braked axles (number);
+(28)
+‘version of a variant’ means vehicles which consist of a combination of characteristics shown in the information package;
+(29)
+‘technical requirements’ means the technical requirements listed in Article 16;
+(30)
+‘information package’ means the information package referred to in Article 20(4);
+(31)
+‘holder of EU type-approval’ means the natural or legal person who applied for EU type-approval and to whom an EU type-approval certificate has been issued;
+(32)
+‘non-road mobile machinery presenting a serious risk’ means non-road mobile machinery that, based on an appropriate risk assessment that takes into account the nature of the hazard and the likelihood of its occurrence, presents a serious risk in relation to its safe circulation on public roads and other aspects covered by this Regulation;
+(33)
+‘recall’ means any measure aiming to achieve the return of non-road mobile machinery that has already been made available to a user;
+(34)
+‘virtual testing method’ means computer simulations, including calculations, to demonstrate that non-road mobile machinery fulfils the technical requirements without requiring the use of a physical vehicle, system, component or separate technical unit;
+(35)
+‘seating position’ means any location on non-road mobile machinery capable of accommodating one person seated.

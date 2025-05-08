@@ -1,0 +1,6 @@
+Article 102
+Requirements for the Trading Book
+1.   Positions in the trading book shall be either free of restrictions on their tradability or able to be hedged.
+2.   Trading intent shall be evidenced on the basis of the strategies, policies and procedures set up by the institution to manage the position or portfolio in accordance with Article 103.
+3.   Institutions shall establish and maintain systems and controls to manage their trading book in accordance with Articles 104 and 105.
+4.   Institutions may include internal hedges in the calculation of capital requirements for position risk provided that they are held with trading intent and that the requirements of Articles 103 to 106 are met.

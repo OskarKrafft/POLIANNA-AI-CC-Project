@@ -1,0 +1,9 @@
+Article 37
+Links between alerts
+1.   A Member State may create a link between alerts it enters in SIS II. The effect of such a link shall be to establish a relationship between two or more alerts.
+2.   The creation of a link shall not affect the specific action to be taken on the basis of each linked alert or the retention period of each of the linked alerts.
+3.   The creation of a link shall not affect the rights of access provided for in this Regulation. Authorities with no right of access to certain categories of alert shall not be able to see the link to an alert to which they do not have access.
+4.   A Member State shall create a link between alerts only when there is a clear operational need.
+5.   Links may be created by a Member State in accordance with its national legislation provided that the principles outlined in the present Article are respected.
+6.   Where a Member State considers that the creation by another Member State of a link between alerts is incompatible with its national law or international obligations, it may take the necessary measures to ensure that there can be no access to the link from its national territory or by its authorities located outside its territory.
+7.   The technical rules for linking alerts shall be adopted in accordance with the procedure referred to in Article 51(2), without prejudice to the provisions of the instrument setting up the Management Authority.

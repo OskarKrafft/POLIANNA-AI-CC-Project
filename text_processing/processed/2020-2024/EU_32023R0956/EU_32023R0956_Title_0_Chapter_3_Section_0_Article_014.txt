@@ -1,0 +1,16 @@
+Article 14
+CBAM registry
+1.   The Commission shall establish a CBAM registry of authorised CBAM declarants in the form of a standardised electronic database containing the data regarding the CBAM certificates of those authorised CBAM declarants. The Commission shall make the information in the CBAM registry available automatically and in real time to customs authorities and competent authorities.
+2.   The CBAM registry referred to in paragraph 1 shall contain accounts with information about each authorised CBAM declarant, in particular:
+(a)
+the name, address and contact information of the authorised CBAM declarant;
+(b)
+the EORI number of the authorised CBAM declarant;
+(c)
+the CBAM account number;
+(d)
+the identification number, the sale price, the date of sale, and the date of surrender, repurchase or cancellation of CBAM certificates for each authorised CBAM declarant.
+3.   The CBAM registry shall contain, in a separate section of the registry, the information about the operators and installations in third countries registered in accordance with Article 10(2).
+4.   The information in the CBAM registry referred to in paragraphs 2 and 3 shall be confidential, with the exception of the names, addresses and contact information of the operators and the location of installations in third countries. An operator may choose not to have its name, address and contact information made accessible to the public. The public information in the CBAM registry shall be made accessible by the Commission in an interoperable format.
+5.   The Commission shall publish, on a yearly basis, for each of the goods listed in Annex I, the aggregated emissions embedded in the imported goods.
+6.   The Commission shall adopt implementing acts concerning the infrastructure and specific processes and procedures of the CBAM registry, including the risk analysis referred to in Article 15, the electronic databases containing the information referred to in paragraphs 2 and 3 of this Article, the data of the accounts in the CBAM registry referred to in Article 16, the transmission to the CBAM registry of the information on the sale, repurchase and cancellation of CBAM certificates referred to in Article 20, and the cross-check of information referred to in Article 25(3). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).

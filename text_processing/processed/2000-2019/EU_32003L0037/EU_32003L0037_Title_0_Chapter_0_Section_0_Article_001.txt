@@ -1,0 +1,11 @@
+Article 1
+Scope
+1. This Directive applies to the type-approval of vehicles, whether built in one or more stages. It applies to vehicles defined in Article 2(d) having a maximum design speed of not less than 6 km/h.
+This Directive also applies to the EC type-approval of the systems, components and separate technical units intended for use on such vehicles.
+2. This Directive does not apply to:
+(a) approval of single vehicles;
+However, this procedure may apply to certain categories of vehicles which fall within the scope of this Directive and for which EC type-approval is obligatory;
+(b) machinery that has been specially designed for forestry use, such as skidders and forwarders as defined in standard ISO 6814:2000;
+(c) forestry machinery based on chassis for earthmoving equipment as defined in standard ISO 6165:2001;
+(d) interchangeable machinery that is fully raised from the ground when the vehicle to which it is attached is in use on a road.
+

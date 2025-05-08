@@ -1,0 +1,6 @@
+Article 7
+N.SIS II Office and SIRENE Bureau
+1.   Each Member State shall designate an authority (the ‘N.SIS II Office’), which shall have central responsibility for its N.SIS II. That authority shall be responsible for the smooth operation and security of the N.SIS II, shall ensure the access of the competent authorities to SIS II and shall take the necessary measures to ensure compliance with the provisions of this Regulation. Each Member State shall transmit its alerts via its N.SIS II Office.
+2.   Each Member State shall designate the authority which shall ensure the exchange of all supplementary information (the ‘SIRENE Bureau’) in accordance with the provisions of the SIRENE Manual, as referred to in Article 8.
+Those Bureaux shall also coordinate the verification of the quality of the information entered in the SIS II. For those purposes, they shall have access to the data processed in SIS II.
+3.   The Member States shall inform the management authority of their N.SIS II Office and of their SIRENE Bureau. The management authority shall publish the list of them together with the list referred to in Article 31(8).

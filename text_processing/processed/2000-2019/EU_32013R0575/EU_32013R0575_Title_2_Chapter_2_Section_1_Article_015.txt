@@ -1,0 +1,19 @@
+Article 15
+Derogation to the application of own funds requirements on a consolidated basis for groups of investment firms
+1.   The consolidating supervisor may waive, on a case-by-case basis, the application of Part Three of this Regulation and Title VII, Chapter 4 of Directive 2013/36/EU on a consolidated basis provided that the following conditions exist:
+(a)
+each EU investment firm in the group uses the alternative calculation of total risk exposure amount referred to in Article 95(2);
+(b)
+all investment firms in the group fall within the categories in Articles 95(1) and 96(1);
+(c)
+each EU investment firm in the group meets the requirements imposed in Article 95 on an individual basis and at the same time deducts from its Common Equity Tier 1 items any contingent liability in favour of investment firms, financial institutions, asset management companies and ancillary services undertakings, which would otherwise be consolidated;
+(d)
+any financial holding company which is the parent financial holding company in a Member State of any investment firm in the group holds at least as much capital, defined here as the sum of the items referred to in Articles 26(1), 51(1) and 62(1), as to cover the sum of the following:
+(i)
+the sum of the full book value of any holdings, subordinated claims and instruments referred to in Article 36(1)(h) and (i), Article 56(1)(c) and (d), and Article 66(1)(c) and (d) in investment firms, financial institutions, asset management companies and ancillary services undertakings which would otherwise be consolidated; and
+(ii)
+the total amount of any contingent liability in favour of investment firms, financial institutions, asset management companies and ancillary services undertakings which would otherwise be consolidated;
+(e)
+the group does not include credit institutions.
+Where the criteria in the first subparagraph are met, each EU investment firm shall have in place systems to monitor and control the sources of capital and funding of all financial holding companies, investment firms, financial institutions, asset management companies and ancillary services undertakings within the group.
+2.   The competent authorities may also apply the waiver if the financial holding companies holds a lower amount of own funds than the amount calculated under paragraph 1(d), but no lower than the sum of the own funds requirements imposed on an individual basis to investment firms, financial institutions, asset management companies and ancillary services undertakings which would otherwise be consolidated and the total amount of any contingent liability in favour of investment firms, financial institutions, asset management companies and ancillary services undertakings which would otherwise be consolidated. For the purposes of this paragraph, the own funds requirement for investment undertakings of third countries, financial institutions, asset management companies and ancillary services undertakings is a notional own funds requirement.

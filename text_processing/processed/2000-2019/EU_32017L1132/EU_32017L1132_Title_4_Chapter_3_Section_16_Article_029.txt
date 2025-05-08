@@ -1,0 +1,6 @@
+Article 29
+Disclosure of documents and particulars relating to a branch
+1.   Documents and particulars relating to a branch opened in a Member State by a company of a type listed in Annex II, which is governed by the law of another Member State, shall be disclosed pursuant to the law of the Member State of the branch, in accordance with Article 16.
+2.   Where disclosure requirements in respect of the branch differ from those in respect of the company, the branch's disclosure requirements shall take precedence with regard to transactions carried out with the branch.
+3.   The documents and particulars referred to in Article 30(1) shall be made publicly available through the system of interconnection of registers. Article 18 and Article 19(1) shall apply mutatis mutandis.
+4.   Member States shall ensure that branches have a unique identifier allowing them to be unequivocally identified in communications between registers through the system of interconnection of registers. That unique identifier shall comprise, at least, elements making it possible to identify the Member State of the register, the domestic register of origin and the branch number in that register, and, where appropriate, features to avoid identification errors.

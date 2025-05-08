@@ -1,0 +1,23 @@
+Article 78
+Post-market surveillance system of the manufacturer
+1.   For each device manufacturers shall plan, establish, document, implement, maintain and update a post-market surveillance system in a manner that is proportionate to the risk class and appropriate for the type of device. That system shall be an integral part of the manufacturer's quality management system referred to in Article 10(8).
+2.   The post-market surveillance system shall be suited to actively and systematically gathering, recording and analysing relevant data on the quality, performance and safety of a device throughout its entire lifetime, and to drawing the necessary conclusions and to determining, implementing and monitoring any preventive and corrective actions.
+3.   Data gathered by the manufacturer's post-market surveillance system shall in particular be used:
+(a)
+to update the benefit-risk determination and to improve the risk management as referred to in Chapter I of Annex I;
+(b)
+to update the design and manufacturing information, the instructions for use and the labelling;
+(c)
+to update the performance evaluation;
+(d)
+to update the summary of safety and performance referred to in Article 29;
+(e)
+for the identification of needs for preventive, corrective or field safety corrective action;
+(f)
+for the identification of options to improve the usability, performance and safety of the device;
+(g)
+when relevant, to contribute to the post-market surveillance of other devices; and
+(h)
+to detect and report trends in accordance with Article 83.
+The technical documentation shall be updated accordingly.
+4.   If, in the course of the post-market surveillance, a need for preventive or corrective action or both is identified, the manufacturer shall implement the appropriate measures and inform the competent authorities concerned and, where applicable, the notified body. Where a serious incident is identified or a field safety corrective action is implemented, it shall be reported in accordance with Article 82.

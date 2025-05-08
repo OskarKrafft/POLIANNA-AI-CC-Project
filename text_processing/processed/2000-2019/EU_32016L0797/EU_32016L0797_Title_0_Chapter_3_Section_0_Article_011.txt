@@ -1,0 +1,18 @@
+Article 11
+Non-compliance of interoperability constituents with essential requirements
+1.   Where a Member State finds that an interoperability constituent covered by the ‘EC’ declaration of conformity or suitability for use and placed on the market is, when used as intended, unlikely to meet the essential requirements, that Member State shall take all necessary steps to restrict its field of application, prohibit its use, withdraw it from the market or recall it. The Member State shall forthwith inform the Commission, the Agency and the other Member States of the measures taken and give reasons for its decision, stating in particular whether the failure to conform is due to:
+(a)
+failure to meet the essential requirements;
+(b)
+incorrect application of European specifications where application of such specifications is relied upon;
+(c)
+inadequacy of European specifications.
+2.   The Agency, on a mandate from the Commission, shall start the consultation process with the parties concerned without delay and in any case within 20 days of the date of receipt of that mandate. Where, following that consultation, the Agency establishes that the measure is unjustified, it shall forthwith inform the Commission, the Member State that has taken the initiative as well as other Member States, and the manufacturer or his authorised representative. Where the Agency establishes that the measure is justified, it shall forthwith inform the Member States.
+3.   Where the decision referred to in paragraph 1 results from an inadequacy of European specifications, the Member States, the Commission or the Agency, as appropriate, shall apply one or more of the following measures:
+(a)
+partial or total withdrawal of the specification concerned from the publications containing them;
+(b)
+if the relevant specification is a harmonised standard, restriction or withdrawal of that standard in accordance with Article 11 of Regulation (EU) No 1025/2012;
+(c)
+review of the TSI in accordance with Article 6.
+4.   Where an interoperability constituent bearing the ‘EC’ declaration of conformity fails to comply with the essential requirements, the competent Member State shall take appropriate measures against any entity which has drawn up the declaration and shall inform the Commission and the other Member States thereof.

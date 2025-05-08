@@ -1,0 +1,17 @@
+Article 20
+General provisions on the conduct of EU type-approval procedures
+1.   Approval authorities shall grant only one EU type-approval for each type of non-road mobile machinery.
+2.   Approval authorities shall verify the following:
+(a)
+the conformity of production arrangements referred to in Article 23; and
+(b)
+the compliance of the type of non-road mobile machinery with the applicable technical requirements.
+If an approval authority finds that a type of non-road mobile machinery, though conforming to the relevant technical requirements, presents a serious risk, it may refuse to grant EU type-approval. In that case, it shall immediately send a detailed file to the approval authorities of the other Member States and the Commission explaining the reasons for its decision and setting out the evidence for its findings.
+3.   The approval authority shall, without delay, inform the approval authorities of the other Member States of its refusal or withdrawal of any EU type-approval, together with the reasons for its decision, by means of a common secure electronic exchange system.
+4.   The approval authority shall put together an information package consisting of the following:
+(a)
+an information folder accompanied by the test reports and all other documents added by the technical service or by the approval authority to that information folder in the course of carrying out their functions;
+(b)
+an index listing the contents of the information package, suitably numbered and presenting a record of the successive steps in the management of the EU type-approval, in particular the dates of revisions and updates.
+The approval authority shall keep the information contained in the information package referred to in the first subparagraph available for a period of 10 years after the end of validity of the EU type-approval concerned.
+5.   The Commission may have access to the common secure electronic exchange system, referred to in paragraph 3 and Articles 21(3), 26(3) and 27(5). The Commission may adopt implementing acts laying down the format of the electronic documents that are to be made available through that system, the exchange mechanism, the procedures to inform authorities on the granting of EU type-approvals, on amendments, refusals and withdrawals thereof and on the relevant security measures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 49(2).

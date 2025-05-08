@@ -1,0 +1,9 @@
+Article 3
+Inter transmission system operator compensation mechanism
+1.   Transmission system operators shall receive compensation for costs incurred as a result of hosting cross-border flows of electricity on their networks.
+2.   The compensation referred to in paragraph 1 shall be paid by the operators of national transmission systems from which cross-border flows originate and the systems where those flows end.
+3.   Compensation payments shall be made on a regular basis with regard to a given period of time in the past. Ex-post adjustments of compensation paid shall be made where necessary to reflect costs actually incurred.
+The first period of time for which compensation payments shall be made shall be determined in the guidelines referred to in Article 8.
+4.   Acting in accordance with the procedure referred to in Article 13(2), the Commission shall decide on the amounts of compensation payments payable.
+5.   The magnitude of cross-border flows hosted and the magnitude of cross-border flows designated as originating and/or ending in national transmission systems shall be determined on the basis of the physical flows of electricity actually measured in a given period of time.
+6.   The costs incurred as a result of hosting cross-border flows shall be established on the basis of the forward looking long-run average incremental costs, taking into account losses, investment in new infrastructure, and an appropriate proportion of the cost of existing infrastructure, as far as infrastructure is used for the transmission of cross-border flows, in particular taking into account the need to guarantee security of supply. When establishing the costs incurred, recognised standard-costing methodologies shall be used. Benefits that a network incurs as a result of hosting cross-border flows shall be taken into account to reduce the compensation received.

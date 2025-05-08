@@ -1,0 +1,30 @@
+Article 11
+Endorsement of ESG ratings provided by ESG rating providers established outside the Union
+1.   An ESG rating provider established in the Union and authorised in accordance with Article 8 may endorse ESG ratings provided by an ESG rating provider established outside the Union and belonging to the same group provided that all of the following conditions are met:
+(a)
+the ESG rating provider established in the Union has applied to ESMA for authorisation of such endorsement;
+(b)
+the ESG rating provider established in the Union fulfils the following indicators of minimum substance:
+(i)
+it has its own premises or premises for its exclusive use in a Member State;
+(ii)
+it has at least one active bank account of its own in the Union; and
+(iii)
+it has an appropriate analytical and decision-making presence in the Union having regard to the nature, scale or complexity of its activities in the Union;
+(c)
+the endorsement of the ESG rating does not impair the quality of the assessment of the rated item, or the issuer of a rated item, or the arrangement of on-site reviews or visits, where provided for in the ESG rating methodology used by the ESG rating provider established outside the Union;
+(d)
+the ESG rating provider established in the Union has verified and is able to demonstrate on an ongoing basis to ESMA that the issuance and distribution of endorsed ESG ratings fulfils requirements which are at least as stringent as the requirements of this Regulation; the ESG rating provider established in the Union shall be permitted to demonstrate compliance with those requirements without being required to refer to the specific process followed for each individual rating;
+(e)
+the ESG rating provider established in the Union has the necessary expertise to effectively monitor the ESG ratings provided by the ESG rating provider established outside the Union, in order to manage any associated risks;
+(f)
+there is an objective reason why the ESG ratings need to be endorsed for their use in the Union, which can include factors such as the specificities of the ESG ratings, the need for proximity of the production of the ESG ratings to the issuer or to a specific economic reality, a particular industry, centres of excellence for sub-components of environmental, social and human rights, or governance factors, the availability of specific skills required for the production of the ESG ratings, the material availability of input data and the development of ESG ratings through the collaboration of global teams;
+(g)
+the ESG rating provider established in the Union provides ESMA at its request with all information necessary to enable ESMA to supervise compliance by the ESG rating provider established outside the Union, where relevant to the endorsed rating, with this Regulation on an ongoing basis;
+(h)
+where an ESG rating provider established outside the Union is subject to supervision, an appropriate cooperation arrangement is in place between ESMA and the competent authority of the third country where the ESG rating provider is established, to ensure an efficient exchange of information.
+2.   An ESG rating provider established in the Union that applies for authorisation of an endorsement as referred to in paragraph 1, point (a), shall provide ESMA with all information necessary to satisfy ESMA that, at the time of application, the conditions referred to in that paragraph are fulfilled.
+3.   Within 45 working days of receipt of a complete application for authorisation of an endorsement as referred to in paragraph 1, point (a), but no later than 85 working days after receipt of the initial application, ESMA shall examine the application and decide either to authorise the endorsement or to refuse it. ESMA shall notify the applicant of that decision within five working days.
+4.   An endorsed ESG rating shall be considered to be an ESG rating provided by the endorsing ESG rating provider. The endorsing ESG rating provider shall not use the endorsement to avoid or circumvent the requirements of this Regulation.
+5.   An endorsing ESG rating provider shall remain fully responsible for the endorsed ESG ratings and for compliance with the requirements of this Regulation.
+6.   Where ESMA has well-founded reasons to consider that the conditions laid down in this Article are no longer fulfilled, it shall have the power to require the endorsing ESG rating provider to cease the endorsement, without prejudice to the imposition of any applicable supervisory measures, fines and periodic penalty payments in accordance with Articles 35, 36 and 37.

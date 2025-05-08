@@ -1,0 +1,14 @@
+Article 4
+Programme activities
+1.   The provision of the governmental services referred to in Article 10(1) shall be ensured through the following phased activities, which shall complement and integrate the GOVSATCOM component into the secure connectivity system:
+(a)
+the definition, design, development, validation and related deployment activities for the construction of the space and ground infrastructure required for the provision of the first governmental services by 2024;
+(b)
+gradual deployment activities to complete the space and ground infrastructure required for the provision of advanced governmental services, in order to meet the needs of government-authorised users as soon as possible, aiming to achieve full operational capability by 2027;
+(c)
+the development and deployment of EuroQCI for the purpose of its gradual integration into the secure connectivity system;
+(d)
+exploitation activities providing governmental services, comprising the operation, maintenance, continuous improvement and protection of the space and ground infrastructure, including replenishment and obsolescence management;
+(e)
+the development of future generations of space and ground infrastructure and the evolution of governmental services.
+2.   The provision of commercial services shall be ensured by the contractors referred to in Article 19.

@@ -1,0 +1,29 @@
+Article 17
+Accessibility of information on the European single access point
+1.   From 1 January 2029, Member States shall ensure that, when making public the annual statement referred to in Article 16(1) of this Directive, companies submit that statement at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP), as established by Regulation (EU) 2023/2859.
+Member States shall ensure that the information contained in the annual statement referred to in the first subparagraph complies with the following requirements:
+(a)
+it is submitted in a data extractable format, as defined in Article 2, point (3), of Regulation (EU) 2023/2859, or, where required by Union or national law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+(b)
+it is accompanied by the following metadata:
+(i)
+all the names of the company to which the information relates;
+(ii)
+the legal entity identifier of the company, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+(iii)
+the size of the company by category, as specified pursuant to Article 7(4), point (d), of Regulation (EU) 2023/2859;
+(iv)
+the industry sector(s) of the economic activities of the company, as specified pursuant to Article 7(4), point (e), of Regulation (EU) 2023/2859;
+(v)
+the type of information, as specified pursuant to Article 7(4), point (c), of Regulation (EU) 2023/2859;
+(vi)
+an indication of whether the information includes personal data.
+2.   For the purposes of paragraph 1, point (b)(ii), Member States shall ensure that companies obtain a legal entity identifier.
+3.   By 31 December 2028, for the purposes of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body, as defined in Article 2, point (2), of Regulation (EU) 2023/2859, and notify the European Securities and Markets Authority thereof.
+4.   For the purposes of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, the Commission shall be empowered to adopt implementing measures to specify:
+(a)
+any other metadata required to accompany the information;
+(b)
+the structuring of data in the information; and
+(c)
+for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.

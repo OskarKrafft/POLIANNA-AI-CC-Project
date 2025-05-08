@@ -1,0 +1,17 @@
+Article 6
+Durability requirements for vehicles, systems, components and separate technical units
+1.   Manufacturers shall ensure that the vehicles that they manufacture, which are sold, registered or enter into service in the Union, comply with the emission limits set out in Annex I when those vehicles are driven under test conditions as set out in Annex III, for the lifetime of the vehicle, as set out in table 1 of Annex IV, and comply with the minimum performance requirements on battery durability as set out in Annex II.
+2.   Manufacturers shall ensure that the vehicles referred to in paragraph 1 comply with the values regarding CO2 emissions, fuel and electric energy consumption and energy efficiency declared under this Regulation for the lifetime of the vehicle, as set out in Annex IV.
+3.   Manufacturers shall ensure that the design and functionality of OBFCM devices and OBD and OBM systems and anti-tampering measures installed in the vehicles referred to in paragraph 1 comply with this Regulation and that those devices, systems and measures cannot be deactivated as long as those vehicles are in use.
+4.   The requirements referred to in paragraphs 1, 2 and 3 shall apply irrespective of the type of fuel or energy source by which the vehicles are powered. Those requirements shall also apply to all separate technical units and components intended for such vehicles.
+5.   In order to verify compliance with the requirements referred to in the paragraph 1 during the additional lifetime of a vehicle, the gaseous pollutants limits set out in Annex I shall be adjusted by using the durability multipliers set out in Table 2 of Annex IV.
+6.   The OBM systems installed by the manufacturer in the vehicles shall be capable of:
+(a)
+monitoring and registering all exhaust emissions of NOx, NH3 and PM from vehicles of categories M2, M3, N2 and N3 and of NOx and PM from vehicles of categories M1 and N1 and detecting exceedances of at least 2,5 times the relevant exhaust emission limit values set out in Annex I;
+(b)
+communicating data on exhaust emission performance and battery durability data of the vehicle via the OBD port, including for the purpose of roadworthiness tests in accordance with Directive 2014/45/EU and technical roadside inspections in accordance with Directive 2014/47/EU, and anonymously over the air for the purpose of monitoring compliance of vehicle types;
+(c)
+triggering the driver warning system when exhaust emissions are significantly exceeded, using harmonised methods to induce timely repairs, without preventing vehicles from completing an ongoing trip to avoid road safety issues.
+7.   The OBFCM devices installed by the manufacturers in the vehicles referred to in paragraph 1 shall be capable of communicating all legally required relevant vehicle data they record, via the OBD port and over the air.
+8.   Where a vehicle, system, component or separate technical unit presents a serious risk or non-compliance with the requirements of this Regulation, manufacturers, from the moment they are aware of it, shall immediately take the necessary corrective measures, including repairs or modifications of that vehicle, system, component or separate technical unit, as appropriate, to eliminate the serious risk or to ensure compliance with this Regulation. Manufacturers and any other economic operators shall apply Regulation (EU) 2018/858 accordingly.
+Manufacturers shall immediately inform the approval authority that granted the type-approval of the non-conformity, and provide appropriate details.

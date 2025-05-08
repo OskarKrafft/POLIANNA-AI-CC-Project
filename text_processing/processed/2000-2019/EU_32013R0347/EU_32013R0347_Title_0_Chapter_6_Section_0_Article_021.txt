@@ -1,0 +1,43 @@
+Article 21
+Amendments to Regulation (EC) No 714/2009
+Regulation (EC) No 714/2009 is hereby amended as follows:
+(1)
+Article 8 is amended as follows:
+(a)
+in paragraph 3, point (a) is replaced by the following:
+‘(a)
+common network operation tools to ensure coordination of network operation in normal and emergency conditions, including a common incident classification scale, and research plans. These tools shall specify inter alia:
+(i)
+the information, including appropriate day ahead, intra-day and real-time information, useful for improving operational coordination, as well as the optimal frequency for the collection and sharing of such information;
+(ii)
+the technological platform for the exchange of information in real time and where appropriate, the technological platforms for the collection, processing and transmission of the other information referred to in point (i), as well as for the implementation of the procedures capable of increasing operational coordination between transmission system operators with a view to such coordination becoming Union-wide;
+(iii)
+how transmission system operators make available the operational information to other transmission system operators or any entity duly mandated to support them to achieve operational coordination, and to the Agency; and
+(iv)
+that transmission system operators designate a contact point in charge of answering inquiries from other transmission system operators or from any entity duly mandated as referred to in point (iii), or from the Agency concerning such information.
+The ENTSO for Electricity shall submit the adopted specifications on points (i) to (iv) above to the Agency and to the Commission by 16 May 2015.
+Within 12 months of the adoption of the specifications, the Agency shall issue an opinion in which it considers whether they sufficiently contribute to the promotion of cross-border trade and to ensuring the optimal management, coordinated operation, efficient use and sound technical evolution of the European electricity transmission network.’;
+(b)
+in paragraph 10 point (a) is replaced by the following:
+‘(a)
+build on national investment plans, taking into account regional investment plans as referred to in Article 12(1), and, if appropriate, Union aspects of network planning as set out in Regulation (EU) No 347/2013 of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure (*2); it shall be subject to a cost-benefit analysis using the methodology established as set out in Article 11 of that Regulation;
+
+(*2)  
+                                                            OJ L 115, 25.4.2013, p. 39.’;"
+                        
+(2)
+Article 11 is replaced by the following:
+‘Article 11
+Costs
+The costs related to the activities of the ENTSO for Electricity referred to in Articles 4 to 12 of this Regulation, and in Article 11 of Regulation (EU) No 347/2013 shall be borne by the transmission system operators and shall be taken into account in the calculation of tariffs. Regulatory authorities shall approve those costs only if they are reasonable and appropriate.’;
+(3)
+in Article 18, the following paragraph is inserted:
+‘4a.   The Commission may adopt guidelines on the implementation of operational coordination between transmission system operators at Union level. Those guidelines shall be consistent with and build upon the network codes referred to in Article 6 of this Regulation and build upon the adopted specifications and the Agency opinion referred to in Article 8(3)(a) of this Regulation. When adopting those guidelines, the Commission shall take into account differing regional and national operational requirements.
+Those guidelines shall be adopted in accordance with the examination procedure referred to in Article 23(3).’;
+(4)
+in Article 23 the following paragraph is inserted:
+‘3.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (*3) shall apply.
+
+(*3)  
+                                          OJ L 55, 28.2.2011, p. 13.’."
+                        

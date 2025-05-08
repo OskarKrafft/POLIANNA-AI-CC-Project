@@ -1,0 +1,65 @@
+Article 7
+Information requirements
+1.   Products shall comply with information requirements related to the product aspects, as laid down in the delegated acts adopted pursuant to Article 4.
+2.   The information requirements shall:
+(a)
+include, as a minimum, requirements related to the digital product passport set out in Chapter III and requirements related to substances of concern set out in paragraph 5;
+(b)
+as appropriate, also require products to be accompanied by:
+(i)
+information on the performance of the product in relation to one or more of the product parameters referred to in Annex I, including a repairability score, a durability score, a carbon footprint or an environmental footprint;
+(ii)
+information for customers and other actors on how to install, use, maintain and repair the product, in order to minimise its impact on the environment and to ensure optimum durability, on how to install third-party operating systems where relevant, as well as on collection for refurbishment or remanufacture, and on how to return or handle the product at end-of-life;
+(iii)
+information for treatment facilities on disassembly, reuse, refurbishment, recycling, or disposal at end-of-life;
+(iv)
+other information that could influence sustainable product choices for customers and the way the product is handled by parties other than the manufacturer in order to facilitate appropriate use, value-retaining operations and correct treatment at end-of-life;
+(c)
+be clear, easily understandable and tailored to the particular characteristics of the product groups concerned and the intended recipients of the information.
+An information requirement may be set for a specific product parameter irrespective of whether a performance requirement is set for that specific product parameter.
+Where a delegated act contains horizontal ecodesign requirements, point (a) of this paragraph shall not apply.
+3.   Information requirements based on the product parameter set out in Annex I, point (f), shall not concern the labelling of substances or mixtures for reasons relating primarily to their hazards to health or the environment.
+4.   When setting the information requirements referred to in paragraph 2, point (b)(i), the Commission shall, where appropriate in view of the specificity of the product group, determine classes of performance.
+The Commission may base the classes of performance on single parameters or on aggregated scores. Such classes of performance may be expressed in absolute terms or in any other form that enables potential customers to choose the best performing products.
+Those classes of performance shall correspond to significant improvements in performance levels.
+Where classes of performance are based on parameters in relation to which performance requirements are set, the lowest class shall correspond to the minimum performance required at the time when the classes of performance start to apply.
+5.   Unless otherwise provided for under paragraph 6, point (b), the information requirements shall make it possible to track the substances of concern, throughout the life cycle of the products concerned, unless such tracking is already possible pursuant to information requirements laid down in another delegated act adopted pursuant to Article 4 covering the products concerned, and shall include at least the following:
+(a)
+the name or numerical code of the substances of concern present in the product, as follows:
+(i)
+name in the International Union of Pure and Applied Chemistry (IUPAC) nomenclature, or another international name when IUPAC name is not available;
+(ii)
+other names, including usual name, trade name, abbreviation;
+(iii)
+European Community (EC) number, as indicated in the European Inventory of Existing Commercial Chemical Substances (EINECS), the European List of Notified Chemical Substances (ELINCS) or the No Longer Polymer (NLP) list or the number assigned by the European Chemicals Agency (ECHA), if available and appropriate;
+(iv)
+the Chemical Abstract Service (CAS) name and number, if available;
+(b)
+the location of the substances of concern within the product;
+(c)
+the concentration, maximum concentration or concentration range of the substances of concern, at the level of the product, its relevant components, or spare parts;
+(d)
+relevant instructions for the safe use of the product;
+(e)
+information relevant for disassembly, preparation for reuse, reuse, recycling and the environmentally sound management of the product at end-of-life.
+The Commission may, where appropriate for the product group concerned, set thresholds for when the information requirement regarding substances of concern is to apply.
+6.   Where the Commission sets out information requirements in a delegated act adopted pursuant to Article 4, it shall, where relevant:
+(a)
+lay down dates of application of such information requirements referred to in the first subparagraph of paragraph 5, differentiating between substances of concern where necessary;
+(b)
+provide duly justified exemptions for substances of concern or information elements from such information requirements referred to in the first subparagraph of paragraph 5, based on the technical feasibility or relevance of tracking substances of concern, the existence of analytical methods to detect and quantify them, the need to protect confidential business information or in other duly justified cases; substances of concern within the meaning of Article 2(27), point (a), shall not be exempted if they are present in products, their relevant components or spare parts in a concentration above 0,1 % weight by weight; and
+(c)
+ensure consistency with existing information requirements under Union law and minimise the administrative burden, including through appropriate technical solutions.
+7.   Information requirements shall indicate the manner in which the required information is to be made available. Where a digital product passport is available, the required information shall be provided therein and shall, where necessary, also be provided in one or more of the following forms:
+(a)
+on the product itself;
+(b)
+on the product’s packaging;
+(c)
+on a label referred to in Article 16;
+(d)
+in a user manual or other documentation accompanying the product;
+(e)
+on a free access website or application.
+Information that makes it possible to track substances of concern pursuant to paragraph 5 shall be given either on the product or be accessible through a data carrier included on the product.
+8.   The information to be supplied pursuant to information requirements shall be provided in a language which can be easily understood by customers, as determined by the Member State on whose market the product is to be made available or in which it is to be put into service.

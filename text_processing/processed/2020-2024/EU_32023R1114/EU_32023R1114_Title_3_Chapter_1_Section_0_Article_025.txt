@@ -1,0 +1,39 @@
+Article 25
+Modification of published crypto-asset white papers for asset-referenced tokens
+1.   Issuers of asset-referenced tokens shall notify the competent authority of their home Member State of any intended change of their business model likely to have a significant influence on the purchase decision of any holders or prospective holders of asset-referenced tokens, which occurs after the authorisation pursuant to Article 21 or after the approval of the crypto-asset white paper pursuant to Article 17, as well as in the context of Article 23. Such changes include, amongst others, any material modifications to:
+(a)
+the governance arrangements, including reporting lines to the management body and risk management framework;
+(b)
+the reserve assets and the custody of the reserve assets;
+(c)
+the rights granted to the holders of asset-referenced tokens;
+(d)
+the mechanism through which an asset-referenced token is issued and redeemed;
+(e)
+the protocols for validating the transactions in asset-referenced tokens;
+(f)
+the functioning of issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such a distributed ledger technology;
+(g)
+the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;
+(h)
+the arrangements with third-party entities, including for managing the reserve assets and the investment of the reserve, the custody of reserve assets, and, where applicable, the distribution of the asset-referenced tokens to the public;
+(i)
+the complaints-handling procedures;
+(j)
+the money laundering and terrorist financing risk assessment and general policies and procedures related thereto.
+Issuers of asset-referenced tokens shall notify the competent authority of their home Member State at least 30 working days before the intended changes take effect.
+2.   Where any intended change as referred to in paragraph 1 has been notified to the competent authority, the issuer of an asset-referenced token shall draw up a draft modified crypto-asset white paper and shall ensure that the order of the information appearing therein is consistent with that of the original crypto-asset white paper.
+The issuer of the asset-referenced token shall notify the draft modified crypto-asset white paper to the competent authority of the home Member State.
+The competent authority shall electronically acknowledge receipt of the draft modified crypto-asset white paper as soon as possible, and at the latest five working days from receipt thereof.
+The competent authority shall grant approval of, or refuse to approve, the draft modified crypto-asset white paper within 30 working days of acknowledgement of receipt thereof. During the examination of the draft modified crypto-asset white paper, the competent authority may request any additional information, explanations or justifications concerning the draft modified crypto-asset white paper. When the competent authority makes such request, the time limit of 30 working days shall commence only when the competent authority has received the additional information requested.
+3.   Where the competent authority considers that the modifications to a crypto-asset white paper are potentially relevant for the smooth operation of payment systems, monetary policy transmission and monetary sovereignty, it shall consult the ECB and, where applicable, the central bank referred to in Article 20(4). The competent authority may also consult EBA and ESMA in such cases.
+The ECB or the relevant central bank and, where applicable, EBA and ESMA, shall provide an opinion within 20 working days of receipt of the consultation referred to in the first subparagraph.
+4.   Where the competent authority approves the modified crypto-asset white paper, it may require the issuer of the asset-referenced token:
+(a)
+to put in place mechanisms to ensure the protection of holders of the asset-referenced token, when a potential modification of the issuer’s operations can have a material effect on the value, stability, or risks of the asset-referenced token or the reserve assets;
+(b)
+to take any appropriate corrective measures to address concerns related to market integrity, financial stability or the smooth operation of payment systems.
+The competent authority shall require the issuer of the asset-referenced token to take any appropriate corrective measures to address concerns related to the smooth operation of payment systems, monetary policy transmission, or monetary sovereignty, if such corrective measures are proposed by the ECB or, where applicable, the central bank referred to in Article 20(4) in the consultations referred to in paragraph 3 of this Article.
+Where the ECB or the central bank referred to in Article 20(4) has proposed different measures than the ones required by the competent authority, the measures proposed shall be combined or, if not possible, the more stringent measure shall be required.
+5.   The competent authority shall communicate the modified crypto-asset white paper to ESMA, the single points of contact of the host Member States, EBA, the ECB and, where applicable, the central bank of the Member State concerned within two working days of granting approval.
+ESMA shall make the modified crypto-asset white paper available in the register referred to in Article 109 without undue delay.

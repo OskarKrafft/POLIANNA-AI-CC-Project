@@ -1,0 +1,22 @@
+Article 33
+Cash flow hedges and changes in the value of own liabilities
+1.   Institutions shall not include the following items in any element of own funds:
+(a)
+the fair value reserves related to gains or losses on cash flow hedges of financial instruments that are not valued at fair value, including projected cash flows;
+(b)
+gains or losses on liabilities of the institution that are valued at fair value that result from changes in the own credit standing of the institution;
+(c)
+all fair value gains and losses arising from the institution's own credit risk related to derivative liabilities.
+2.   For the purposes of point (c) of paragraph 1, institutions shall not offset the fair value gains and losses arising from the institution's own credit risk with those arising from its counterparty credit risk.
+3.   Without prejudice to point (b) of paragraph 1, institutions may include the amount of gains and losses on their liabilities in own funds where all the following conditions are met:
+(a)
+the liabilities are in the form of bonds as referred to in Article 52(4) of Directive 2009/65/EC;
+(b)
+the changes in the value of the institution's assets and liabilities are due to the same changes in the institution's own credit standing;
+(c)
+there is a close correspondence between the value of the bonds referred to in point (a) and the value of the institution's assets;
+(d)
+it is possible to redeem the mortgage loans by buying back the bonds financing the mortgage loans at market or nominal value.
+4.   EBA shall develop draft regulatory technical standards to specify what constitutes close correspondence between the value of the bonds and the value of the assets, as referred to in point (c) of paragraph 3.
+EBA shall submit those draft regulatory technical standards to the Commission by 30 September 2013.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

@@ -1,0 +1,59 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+1.
+‘ambient air’ shall mean outdoor air in the troposphere, excluding workplaces as defined by Directive 89/654/EEC (20) where provisions concerning health and safety at work apply and to which members of the public do not have regular access;
+2.
+‘pollutant’ shall mean any substance present in ambient air and likely to have harmful effects on human health and/or the environment as a whole;
+3.
+‘level’ shall mean the concentration of a pollutant in ambient air or the deposition thereof on surfaces in a given time;
+4.
+‘assessment’ shall mean any method used to measure, calculate, predict or estimate levels;
+5.
+‘limit value’ shall mean a level fixed on the basis of scientific knowledge, with the aim of avoiding, preventing or reducing harmful effects on human health and/or the environment as a whole, to be attained within a given period and not to be exceeded once attained;
+6.
+‘critical level’ shall mean a level fixed on the basis of scientific knowledge, above which direct adverse effects may occur on some receptors, such as trees, other plants or natural ecosystems but not on humans;
+7.
+‘margin of tolerance’ shall mean the percentage of the limit value by which that value may be exceeded subject to the conditions laid down in this Directive;
+8.
+‘air quality plans’ shall mean plans that set out measures in order to attain the limit values or target values;
+9.
+‘target value’ shall mean a level fixed with the aim of avoiding, preventing or reducing harmful effects on human health and/or the environment as a whole, to be attained where possible over a given period;
+10.
+‘alert threshold’ shall mean a level beyond which there is a risk to human health from brief exposure for the population as a whole and at which immediate steps are to be taken by the Member States;
+11.
+‘information threshold’ shall mean a level beyond which there is a risk to human health from brief exposure for particularly sensitive sections of the population and for which immediate and appropriate information is necessary;
+12.
+‘upper assessment threshold’ shall mean a level below which a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess ambient air quality;
+13.
+‘lower assessment threshold’ shall mean a level below which modelling or objective-estimation techniques alone may be used to assess ambient air quality;
+14.
+‘long-term objective’ shall mean a level to be attained in the long term, save where not achievable through proportionate measures, with the aim of providing effective protection of human health and the environment;
+15.
+‘contributions from natural sources’ shall mean emissions of pollutants not caused directly or indirectly by human activities, including natural events such as volcanic eruptions, seismic activities, geothermal activities, wild-land fires, high-wind events, sea sprays or the atmospheric re-suspension or transport of natural particles from dry regions;
+16.
+‘zone’ shall mean part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management;
+17.
+‘agglomeration’ shall mean a zone that is a conurbation with a population in excess of 250 000 inhabitants or, where the population is 250 000 inhabitants or less, with a given population density per km2 to be established by the Member States;
+18.
+‘PM10’ shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM10, EN 12341, with a 50 % efficiency cut-off at 10 µm aerodynamic diameter;
+19.
+‘PM2,5’ shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM2,5, EN 14907, with a 50 % efficiency cut-off at 2,5 µm aerodynamic diameter;
+20.
+‘average exposure indicator’ shall mean an average level determined on the basis of measurements at urban background locations throughout the territory of a Member State and which reflects population exposure. It is used to calculate the national exposure reduction target and the exposure concentration obligation;
+21.
+‘exposure concentration obligation’ shall mean a level fixed on the basis of the average exposure indicator with the aim of reducing harmful effects on human health, to be attained over a given period;
+22.
+‘national exposure reduction target’ shall mean a percentage reduction of the average exposure of the population of a Member State set for the reference year with the aim of reducing harmful effects on human health, to be attained where possible over a given period;
+23.
+‘urban background locations’ shall mean places in urban areas where levels are representative of the exposure of the general urban population;
+24.
+‘oxides of nitrogen’ shall mean the sum of the volume mixing ratio (ppbv) of nitrogen monoxide (nitric oxide) and nitrogen dioxide expressed in units of mass concentration of nitrogen dioxide (µg/m3);
+25.
+‘fixed measurements’ shall mean measurements taken at fixed sites, either continuously or by random sampling, to determine the levels in accordance with the relevant data quality objectives;
+26.
+‘indicative measurements’ shall mean measurements which meet data quality objectives that are less strict than those required for fixed measurements;
+27.
+‘volatile organic compounds’ (VOC) shall mean organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
+28.
+‘ozone precursor substances’ means substances which contribute to the formation of ground-level ozone, some of which are listed in Annex X.

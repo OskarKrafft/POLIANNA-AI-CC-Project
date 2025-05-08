@@ -1,0 +1,5 @@
+Article 27
+Use of train paths
+1. In particular for congested infrastructure the infrastructure manager shall require the surrender of a train path which, over a period of at least one month, has been used less than a threshold quota to be laid down in the network statement, unless this was due to non-economic reasons beyond the operator's control.
+2. An infrastructure manager may specify in the network statement conditions whereby it will take account of previous levels of utilisation of train paths in determining priorities for the allocation process.
+

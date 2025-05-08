@@ -1,0 +1,27 @@
+Article 78
+Supervisory permission for reducing own funds
+1.   The competent authority shall grant permission for an institution to reduce, repurchase, call or redeem Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments where any of the following conditions is met:
+(a)
+earlier than or at the same time as the action referred to in Article 77, the institution replaces the instruments referred to in Article 77 with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+(b)
+the institution has demonstrated to the satisfaction of the competent authority that the own funds of the institution would, following the action in question, exceed the requirements laid down in Article 92(1) of this Regulation and the combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU by a margin that the competent authority may consider necessary on the basis of Article 104(3) of Directive 2013/36/EU.
+2.   When assessing under point (a) of paragraph 1 the sustainability of the replacement instruments for the income capacity of the institution, competent authorities shall consider the extent to which those replacement capital instruments would be more costly for the institution than those they would replace.
+3.   Where an institution takes an action referred to in point (a) of Article 77 and the refusal of redemption of Common Equity Tier 1 instruments referred to in Article 27 is prohibited by applicable national law, the competent authority may waive the conditions laid down in paragraph 1 of this Article provided the competent authority requires the institution to limit the redemption of such instruments on an appropriate basis.
+4.   The competent authorities may permit institutions to redeem Additional Tier 1 or Tier 2 instruments before five years of the date of issue only where the conditions laid down in paragraph 1 and point (a) or (b) of this paragraph are met:
+(a)
+there is a change in the regulatory classification of those instruments that would be likely to result in their exclusion from own funds or reclassification as a lower quality form of own funds, and both the following conditions are met:
+(i)
+the competent authority considers such a change to be sufficiently certain;
+(ii)
+the institution demonstrates to the satisfaction of the competent authorities that the regulatory reclassification of those instruments was not reasonably foreseeable at the time of their issuance;
+(b)
+there is a change in the applicable tax treatment of those instruments which the institution demonstrates to the satisfaction of the competent authorities is material and was not reasonably foreseeable at the time of their issuance.
+5.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the meaning of sustainable for the income capacity of the institution;
+(b)
+the appropriate bases of limitation of redemption referred to in paragraph 3;
+(c)
+the process and data requirements for an application by an institution for the permission of the competent authority to carry out an action listed in Article 77, including the process to be applied in the case of redemption of shares issued to members of cooperative societies, and the time period for processing such an application.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

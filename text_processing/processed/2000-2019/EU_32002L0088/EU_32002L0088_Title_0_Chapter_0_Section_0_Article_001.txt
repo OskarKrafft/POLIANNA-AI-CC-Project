@@ -1,0 +1,93 @@
+Article 1
+Directive 97/68/EC is hereby amended as follows:
+1. In Article 2:
+(a) the eighth indent shall be replaced by the following:
+"- 'placing on the market' shall mean the action of making an engine available for the first time on the market, for payment or free of charge, with a view to distribution and/or use in the Community,";
+(b) the following indents shall be added:
+"- 'replacement engines' shall mean a newly built engine to replace an engine in a machine, and which has been supplied for this purpose only,
+- 'hand-held engine' shall mean an engine that meets at least one of the following requirements:
+(a) the engine must be used in a piece of equipment that is carried by the operator throughout the performance of its intended function(s);
+(b) the engine must be used in a piece of equipment that must operate multipositionally, such as upside down or sideways, to complete its intended function(s);
+(c) the engine must be used in a piece of equipment for which the combined engine and equipment dry weight is under 20 kilograms and at least one of the following attributes is also present:
+(i) the operator must alternatively provide support or carry the equipment throughout the performance of its intended function(s);
+(ii) the operator must provide support or attitudinal control for the equipment throughout the performance of its intended function(s);
+(iii) the engine must be used in a generator or a pump;
+- 'non-hand-held engine' shall mean an engine which does not fall under the definition of a hand-held engine,
+- 'professional use multipositional hand-held engine' shall mean a hand-held engine which meets the requirements of both (a) and (b) of the hand-held engine definition and in relation to which the engine manufacturer has satisfied an approval authority that a Category 3 Emissions Durability Period (according to section 2.1 of Appendix 4 to Annex IV) would be applicable to the engine,
+- 'emission durability period' shall mean the number of hours indicated in Annex IV, Appendix 4, used to determine the deterioration factors,
+- 'small volume engine family' shall mean a spark-ignition (SI) engine family with a total yearly production of fewer than 5000 units,
+- 'small volume engine manufacturer of SI engines' shall mean a manufacturer with a total yearly production of fewer than 25000 units."
+2. Article 4 is hereby amended as follows:
+(a) paragraph 2 shall be amended as follows:
+(i) in the first sentence "Annex VI" shall be replaced by "Annex VII";
+(ii) in the second sentence "Annex VII" shall be replaced by "Annex VIII";
+(b) paragraph 4 shall be amended as follows:
+(i) in point (a) "Annex VIII" shall be replaced by "Annex IX";
+(ii) in point (b) "Annex IX" shall be replaced by "Annex X";
+(c) in paragraph 5, "Annex X" shall be replaced by "Annex XI".
+3. Article 7(2) shall be replaced by the following:
+"2. Member States shall accept type-approvals and, where applicable, the pertaining approval marks listed in Annex XII as being in conformity with this Directive."
+4. Article 9 is hereby amended as follows:
+(a) the heading "Timetable" shall be replaced by the heading "Timetable-compression ignition engines";
+(b) in paragraph 1, "Annex VI" shall be replaced by "Annex VII";
+(c) paragraph 2 shall be amended as follows:
+(i) "Annex VI" shall be replaced by "Annex VII";
+(ii) "section 4.2.1 of Annex I" shall be replaced by "section 4.1.2.1 of Annex I";
+(d) paragraph 3 shall be amended as follows:
+(i) "Annex VI" shall be replaced by "Annex VII";
+(ii) "section 4.2.3 of Annex I" shall be replaced by "section 4.1.2.3 of Annex I";
+(e) in the first subparagraph of paragraph 4, the phrase "placing on the market of new engines" shall be replaced by "placing on the market of engines".
+5. The following Article shall be inserted:
+"Article 9a
+Timetable - Spark ignition engines
+1. DIVIDING INTO CLASSES
+For the purpose of this Directive, spark-ignition engines shall be divided into the following classes.
+Main class S: small engines with a net power &lt;= 19 kW
+The main class S shall be divided into two categories:
+H: engines for hand-held machinery
+N: engines for non-hand-held machinery
+>TABLE>
+2. GRANT OF TYPE APPROVALS
+After 11 August 2004, Member States may not refuse to grant type-approval for an SI engine type or engine family or to issue the document as described in Annex VII, and may not impose any other type-approval requirements with regard to air-polluting emissions for non-road mobile machinery in which an engine is installed, if the engine meets the requirements specified in this Directive as regards the emissions of gaseous pollutants.
+3. TYPE-APPROVALS STAGE 1
+Member States shall refuse to grant type-approval for an engine type or engine family and to issue the documents as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine is installed after 11 August 2004 if the engine fails to meet the requirements specified in this Directive and where the emissions of gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.2.2.1 of Annex I.
+4. TYPE-APPROVALS STAGE II
+Member States shall refuse to grant type-approval for an engine type or engine family and to issue the documents as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine is installed:
+after 1 August 2004 for engine classes SN:1 and SN:2
+after 1 August 2006 for engine class SN:4
+after 1 August 2007 for engine classes SH:1, SH:2 and SN:3
+after 1 August 2008 for engine class SH:3,
+if the engine fails to meet the requirements specified in this Directive and where the emissions of gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.2.2.2 of Annex I.
+5. PLACING ON THE MARKET: ENGINE PRODUCTION DATES
+Six months after the dates for the relevant category of engine in paragraphs 3 and 4, with the exception of machinery and engines intended for export to third countries, Member States shall permit placing on the market of engines, whether or not already installed in machinery, only if they meet the requirements of this Directive.
+6. LABELLING OF EARLY COMPLIANCE WITH STAGE II
+For engine types or engine families meeting the limit values set out in the table in section 4.2.2.2 of Annex I, before the dates laid down in point 4 of this Article, Member States shall allow special labelling and marking to show that the equipment concerned meets the required limit values before the dates laid down.
+7. EXEMPTIONS
+The following machinery shall be exempted from the implementation dates of stage II emission limit requirements for a period of three years after the entry into force of those emission limit requirements. For those three years, the stage I emission limit requirements shall continue to apply:
+- hand-held chainsaw: a hand-held device designed to cut wood with a saw chain, designed to be supported with two hands and having an engine capacity in excess of 45 cm3, according to EN ISO 11681-1,
+- top handle machine (i.e., hand-held drills and tree service chainsaws): a hand-held device with the handle on top of the machine designed to drill holes or to cut wood with a saw chain (according to ISO 11681-2),
+- hand-held brush cutter with an internal combustion engine: a hand-held device with a rotating blade made of metal or plastic intended to cut weeds, brush, small trees and similar vegetation. It must be designed according to EN ISO 11806 to operate multi-positionally, such as horizontally or upside down, and have an engine capacity in excess of 40 cm3;
+- hand-held hedge trimmer: a hand-held device designed for trimming hedges and bushes by means of one or more reciprocating cutter blades, according to EN 774,
+- hand-held power cutter with an internal combustion engine: a hand-held device intended for cutting hard materials such as stone, asphalt, concrete or steel by means of a rotating metal blade with a displacement in excess of 50 cm3, according to EN 1454, and
+- non-hand-held, horizontal shaft class SN:3 engine: only those class SN:3 non-hand-held engines with a horizontal shaft that produce power equal to or less than 2,5 kW and are used mainly for select, industrial purposes, including tillers, reel cutters, lawn aerators and generators.
+8. OPTIONAL IMPLEMENTATION DELAY
+Nevertheless, for each category, Member States may postpone the dates in paragraphs 3, 4 and 5 for two years in respect of engines with a production date prior to those dates."
+6. Article 10 is hereby amended as follows:
+(a) paragraph 1 shall be replaced by the following:
+"1. The requirements of Article 8(1) and (2), Article 9(4) and Article 9a (5) shall not apply to:
+- engines for use by the armed services,
+- engines exempted in accordance with paragraphs 1a and 2.";
+(b) the following paragraph shall be inserted:
+"1a. A replacement engine shall comply with the limit values that the engine to be replaced had to meet when originally placed on the market. The text 'REPLACEMENT ENGINE' shall be attached to a label on the engine or inserted into the owner's manual.";
+(c) the following paragraphs shall be added:
+"3. The requirements of Article 9a(4) and (5) shall be postponed by three years for small volume engine manufacturers.
+4. The requirements of Article 9a(4) and (5) shall be replaced by the corresponding stage I requirements for a small volume engine family to a maximum of 25000 units providing that the various engine families involved all have different cylinder displacements."
+7. Articles 14 and 15 shall be replaced by the following Articles:
+"Article 14
+Adaptation to technical progress
+Any amendments which are necessary in order to adapt the Annexes to this Directive, with the exception of the requirements specified in section 1, sections 2.1 to 2.8 and section 4 of Annex I, to take account of technical progress shall be adopted by the Commission in accordance with the procedure referred to in Article 15(2).
+
+Article 14a
+Procedure for derogations
+The Commission shall study possible technical difficulties in complying with the stage II requirements for certain uses of the engines, in particular mobile machinery in which engines of classes SH:2 and SH:3 are installed. If the Commission studies conclude that for technical reasons certain mobile machinery, in particular, professional use, multi-positional, hand-held engines, cannot meet these deadlines, it shall submit, by 31 December 2003, a report accompanied by appropriate proposals for extensions of the period referred to in Article 9a(7) and/or further derogations, not exceeding five years, unless in exceptional circumstances, for such machinery, under the procedure laid down in Article 15(2).
+

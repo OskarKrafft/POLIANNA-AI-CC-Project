@@ -1,0 +1,7 @@
+Article 66
+Sharing and prioritisation
+1.   Pooled satellite communication capacities, services and user equipment shall be shared and prioritised between GOVSATCOM participants referred to in Article 68 on the basis of an analysis of safety and security risks of the users. Such analysis shall take into account existing communication infrastructure and availability of existing capabilities as well as their geographical coverage, at Union and national level. That sharing and prioritisation shall prioritise GOVSATCOM users according to their relevance and criticality.
+2.   The Commission shall adopt, by means of implementing acts, the detailed rules on the sharing and prioritisation of satellite communication capacities, services, and user equipment, taking into account expected demand for the different GOVSATCOM use-cases, the analysis of security risks for those use-cases and, where appropriate, cost-efficiency.
+By defining a pricing policy in those rules, the Commission shall ensure that the provision of GOVSATCOM capacities and services does not distort the market and that there is no shortage of GOVSATCOM capacities.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).
+3.   The sharing and prioritisation of satellite communication capacities and services between GOVSATCOM users which are authorised by the same GOVSATCOM participant shall be determined and implemented by that GOVSATCOM participant.

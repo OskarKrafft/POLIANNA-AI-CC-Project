@@ -1,0 +1,423 @@
+Article 48
+Prohibition of discrimination
+Member States shall not apply to third-country branches, when those are commencing or continuing to carry out their business, provisions which result in a more favourable treatment than that accorded to branches of institutions having their head office in another Member State.
+Article 48a
+Classification of third-country branches
+1.   Member States shall classify third-country branches as class 1 where those branches meet any of the following conditions:
+(a)
+the total value of the assets booked or originated by the third-country branch in the Member State is equal to or greater than EUR 5 billion, as reported for the immediately preceding annual reporting period in accordance with Section II, Sub-Section 4;
+(b)
+the third-country branch’s authorised activities include taking deposits or other repayable funds from retail customers, provided that the amount of such deposits and other repayable funds is equal to or greater than 5 % of the total liabilities of the third-country branch or the amount of such deposits and other repayable funds exceeds EUR 50 million;
+(c)
+the third-country branch is not a qualifying third-country branch within the meaning of Article 48b.
+2.   Member States shall classify third-country branches that do not meet any of the conditions set out in paragraph 1 as class 2.
+3.   Competent authorities shall update the classification of third-country branches as follows:
+(a)
+where a class 1 third-country branch ceases to meet the conditions set out in paragraph 1, it shall immediately be considered as class 2;
+(b)
+where a class 2 third-country branch starts to meet one of the conditions set out in paragraph 1, it shall be considered as class 1 only after a period of four months from the date on which it started to meet those conditions.
+4.   Member States may apply to third-country branches authorised in their territory, or to certain categories thereof, the same requirements that apply to credit institutions authorised under this Directive, instead of the requirements set out in this Title. Where the treatment laid down in this paragraph only applies to certain categories of third-country branches, Member States shall set out the relevant classification criteria for the purposes of that treatment. Paragraphs 1, 2 and 3 of this Article shall not apply to those third-country branches, except for the purposes of Article 48p.
+Article 48b
+Conditions for qualifying third-country branches
+1.   Where the following conditions are met in relation to a third-country branch, that branch shall be regarded as a qualifying third-country branch for the purposes of this Title:
+(a)
+the head undertaking is established in a country that applies prudential standards and a supervisory oversight in accordance with the third country’s banking regulatory framework that are at least equivalent to this Directive and to Regulation (EU) No 575/2013;
+(b)
+the supervisory authorities of the head undertaking are subject to confidentiality requirements that are at least equivalent to the requirements laid down in Title VII, Chapter 1, Section II, of this Directive;
+(c)
+the head undertaking is established in a country that is not listed as a high-risk third country that has strategic deficiencies in its anti-money laundering and counter-terrorist financing regime, in accordance with Article 9 of Directive (EU) 2015/849.
+2.   The Commission may adopt, by means of implementing acts, decisions as to whether the conditions set out in paragraph 1, points (a) and (b), of this Article are met in relation to a third country’s banking regulatory framework. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 147(2).
+3.   Before adopting the decision referred to in paragraph 2 of this Article, the Commission may request EBA’s assistance in accordance with Article 33 of Regulation (EU) No 1093/2010 to conduct an assessment of the relevant third country’s banking regulatory framework and confidentiality requirements and to issue a report on the compliance of that framework and of those requirements with the conditions set out in paragraph 1, points (a) and (b), of this Article. EBA shall publish the outcome of its assessment on its website.
+4.   EBA shall keep a public register of the third countries and third-country authorities that meet the conditions set out in paragraph 1.
+5.   Upon receiving an application for authorisation in accordance with Article 48c, the competent authority shall assess the conditions laid down in paragraph 1 of this Article and in Article 48a to classify the third-country branch as class 1 or class 2. Where the relevant third country is not recorded in the public register referred to in paragraph 4 of this Article, the competent authority shall request the Commission to assess the third country’s banking regulatory framework and confidentiality requirements for the purposes of paragraph 2 of this Article, provided that the condition referred to in paragraph 1, point (c), of this Article is met. The competent authority shall classify the third-country branch as class 1 pending the Commission’s adoption of a decision in accordance with paragraph 2 of this Article.
+
+SECTION II
+
+
+
+Authorisation and regulatory requirements
+
+
+
+Sub-Section 1
+
+
+
+Authorisation requirements
+
+
+Article 48c
+Minimum conditions for the authorisation of third-country branches
+1.   Member States shall require, in accordance with Article 21c, that third-country undertakings establish a branch in their territory before commencing or continuing the activities referred to in Article 47(1). The establishment of a third-country branch shall be subject to prior authorisation in accordance with this Chapter.
+2.   Competent authorities shall endeavour to conclude administrative agreements or other arrangements with relevant third-country competent authorities before a third-country branch commences its activities in the relevant Member State. Such agreements shall be based on the model administrative arrangements developed by EBA in accordance with Article 33(5) of Regulation (EU) No 1093/2010. That requirement shall not apply where third-country branches are subject to stricter national requirements. Competent authorities shall submit information about any administrative agreements or other arrangements concluded with third-country competent authorities to EBA without delay.
+3.   Member States shall require that the applications for authorisation of third-country branches be accompanied by a programme of operations setting out the envisaged business, the activities to be carried out among those referred to in Article 47(1) and the organisational structure and risk management of the branch in the relevant Member State in accordance with Article 48g.
+4.   Third-country branches shall only be authorised where, at a minimum, all of the following conditions are fulfilled:
+(a)
+the third-country branch meets the minimum regulatory requirements laid down in Sub-Section 2;
+(b)
+the activities that the head undertaking seeks authorisation for in the Member State are covered by the authorisation that such head undertaking holds in the third country where it is established and are subject to supervision in that third country;
+(c)
+the supervisory authority of the head undertaking in the third country has been notified of and provided with the application to establish a branch in the Member State and the accompanying documents referred to in paragraph 3;
+(d)
+the authorisation provides that the third-country branch may only conduct the authorised activities within the Member State where it is established and expressly prohibits the third-country branch from offering or conducting those activities in other Member States on a cross-border basis, except for intragroup funding transactions concluded with other third-country branches of the same head undertaking and for transactions entered into on the basis of reverse solicitation of services in accordance with Article 21c;
+(e)
+for the purpose of exercising its supervisory functions, the competent authority is able to access all the necessary information on the head undertaking from the supervisory authorities of that head undertaking and to effectively coordinate its supervisory activities with those of the third-country’s supervisory authorities, in particular in periods of crisis or financial distress affecting the head undertaking, its group or the third country’s financial system;
+(f)
+there are no reasonable grounds to suspect that the third-country branch would be used to commit or facilitate the commission of money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849.
+5.   For the purposes of assessing whether the condition set out in paragraph 4, point (f), of this Article is met, the competent authority shall consult the authority responsible for the supervision of anti-money laundering or counter-terrorist financing in the Member State in accordance with Directive (EU) 2015/849 and obtain written confirmation that the condition is fulfilled before proceeding to authorising the third-country branch.
+6.   Competent authorities may decide that the authorisations of third-country branches granted by 10 January 2027 shall remain valid, provided that the third-country branches that were granted those authorisations comply with the minimum requirements laid down in this Title.
+7.   EBA shall monitor operations between the third-country branches of the same head undertaking authorised in different Member States and shall submit a report to the Commission setting out its findings 10 July 2028.
+8.   By 10 July 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to further specify:
+(a)
+the information to be provided to the competent authorities upon application for authorisation of a third-country branch, including the programme of operations and the organisational structure and the risk management referred to in paragraph 3;
+(b)
+the procedure for authorisation of the third-country branch, as well as the standard forms and templates for the provision of the information referred to in point (a) of this paragraph;
+(c)
+the conditions for authorisation referred to in paragraph 4;
+(d)
+the conditions under which competent authorities may rely on information that has already been provided in the process of any prior third-country branch authorisation.
+Article 48d
+Conditions for the refusal or withdrawal of a third-country branch’s authorisation
+1.   Member States shall, at a minimum, provide for the following conditions for refusing or withdrawing the authorisation of a third-country branch:
+(a)
+the third-country branch does not meet the requirements for authorisation laid down in Article 48c or in national law;
+(b)
+the head undertaking or its group does not meet the prudential requirements that apply to it under the third-country law or there are reasonable grounds to suspect that it does not meet or that it will breach those requirements within the following 12 months.
+For the purposes of the first subparagraph, point (b), third-country branches shall promptly notify their competent authorities where the circumstances referred to in that point occur.
+2.   Competent authorities may also withdraw the authorisation granted to a third-country branch where any of the following conditions is met:
+(a)
+the third-country branch does not make use of the authorisation within 12 months, expressly renounces the authorisation or has ceased to engage in business for more than six months, unless the Member State concerned has made provision for the authorisation to lapse in such cases;
+(b)
+the third-country branch has obtained the authorisation through false statements or any other irregular means;
+(c)
+the third-country branch no longer fulfils one or more of the additional conditions or requirements under which the authorisation was granted;
+(d)
+the third-country branch can no longer be relied on to fulfil its obligations towards its creditors and, in particular, no longer provides security for the assets entrusted to it by its depositors;
+(e)
+the third-country branch falls within one of the other cases where national law provides for withdrawal of authorisation;
+(f)
+the third-country branch commits one of the breaches referred to in Article 67(1);
+(g)
+there are reasonable grounds to suspect that money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted in connection with the third-country branch, its head undertaking or its group, or that there is an increased risk of money laundering or terrorist financing being committed or attempted in relation to the third-country branch, its head undertaking or its group.
+3.   For the purpose of assessing whether the condition set out in paragraph 2, point (g), of this Article is met, the competent authority shall consult the authority responsible for the supervision of anti-money laundering or counter-terrorist financing in the Member State in accordance with Directive (EU) 2015/849.
+4.   Member States shall provide for clear procedures for the refusal or the withdrawal of a third-country branch’s authorisation in accordance with paragraphs 1, 2 and 3.
+
+Sub-Section 2
+
+
+
+Minimum regulatory requirements
+
+
+Article 48e
+Capital endowment requirement
+1.   Without prejudice to other applicable capital requirements in accordance with national law, Member States shall require third-country branches to maintain at all times a minimum capital endowment that is at least equal to:
+(a)
+for class 1 third-country branches, 2,5 % of the branch’s average liabilities for the three immediately preceding annual reporting periods or, for newly authorised third-country branches, of the branch’s liabilities at the time of authorisation, as reported in accordance with Sub-Section 4, subject to a minimum of EUR 10 million;
+(b)
+for class 2 third-country branches, 0,5 % of the branch’s average liabilities for the three immediately preceding annual reporting periods or, for newly authorised third-country branches, of the branch’s liabilities at the time of authorisation, as reported in accordance with Sub-Section 4, subject to a minimum of EUR 5 million.
+2.   Third-country branches shall fulfil the minimum capital endowment requirement referred to in paragraph 1 with assets in the form of any of the following:
+(a)
+cash, or cash assimilated instruments as defined in Article 4(1), point (60), of Regulation (EU) No 575/2013;
+(b)
+debt securities issued by central governments or central banks of Member States; or
+(c)
+any other instrument that is available to the third-country branch for unrestricted and immediate use to cover risks or losses as soon as those risks or losses occur.
+3.   Member States shall require third-country branches to deposit the capital endowment instruments referred to in paragraph 2 of this Article in an escrow account held in the Member State where the branch is authorised with a credit institution that is not part of its head undertaking’s group or, where permitted under national law, with the central bank of the Member State. The capital endowment instruments deposited in the escrow account shall be available for use for the purposes of Article 96 of Directive 2014/59/EU in the case of resolution of the third-country branch and for the purposes of the winding-up of the third-country branch in accordance with national law.
+4.   By 10 July 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify the requirement laid down in paragraph 2, point (c), of this Article in relation to instruments that are available for unrestricted and immediate use to cover risks or losses as soon as those risks or losses occur.
+Article 48f
+Liquidity requirements
+1.   Without prejudice to other applicable liquidity requirements in accordance with national law, Member States shall at a minimum require third-country branches to maintain at all times a volume of unencumbered and liquid assets sufficient to cover liquidity outflows over a minimum period of 30 days.
+2.   For the purposes of paragraph 1 of this Article, Member States shall require class 1 third-country branches to comply with the liquidity coverage requirement laid down in Part Six, Title I, of Regulation (EU) No 575/2013 and in Commission Delegated Regulation (EU) 2015/61 (*11).
+3.   Member States shall require third-country branches to deposit the liquid assets held to comply with this Article in an account held in the Member State where the branch is authorised with a credit institution that is not part of its head undertaking’s group or, where permitted under national law, with the central bank of the Member State. Where there are liquid assets remaining in the account after they have been applied to cover liquidity outflows in accordance with paragraph 1 of this Article, those remaining liquid assets shall be available for use for the purposes of Article 96 of Directive 2014/59/EU in the case of resolution of the third-country branch and for the purposes of the winding-up of the third-country branch in accordance with national law.
+4.   Competent authorities may waive the liquidity requirement laid down in this Article for qualifying third-country branches.
+Article 48g
+Internal governance and risk management
+1.   Member States shall require third-country branches to have at least two persons in the relevant Member State effectively directing their business subject to prior approval by the competent authorities. Those persons shall be of good repute and possess sufficient knowledge, skills and experience and commit sufficient time to the performance of their duties.
+2.   Member States shall require class 1 third-country branches to comply with Articles 74 and 75, Article 76(5) and (6), and Articles 92, 94 and 95. Competent authorities may require third-country branches to establish a local management committee to ensure an adequate governance of the branch.
+3.   Member States shall require class 2 third-country branches to comply with Articles 74, 75, 92, 94 and 95 and to have internal control functions as provided for under Article 76(5) and Article 76(6), first, second and fourth subparagraphs.
+Depending on their size, internal organisation and the nature, scope and complexity of their activities, competent authorities may require class 2 third-country branches to appoint heads of internal control functions as provided for in Article 76(6), third and fifth subparagraphs.
+4.   Member States shall require third-country branches to establish reporting lines to the management body of the head undertaking that cover all material risks and risk management policies and changes thereof and to have in place adequate information and communication technology (ICT) systems and controls to ensure that policies are duly complied with.
+5.   Member States shall require third-country branches to monitor and manage their outsourcing arrangements, and to ensure that their competent authorities have full access to all information they need to exercise their supervisory function.
+6.   Member States shall require third-country branches that engage in back-to-back or intragroup operations to have adequate resources to identify and properly manage their counterparty credit risk where material risks associated with assets booked by the third-country branch are transferred to the counterparty.
+7.   Where critical or important functions of the third-country branch are carried out by its head undertaking, those functions shall be carried out in accordance with internal arrangements or intragroup agreements. Competent authorities in charge of the supervision of third-country branches shall have access to all information they need to exercise their supervisory function.
+8.   Competent authorities shall require that an independent third party assess on a regular basis the implementation of and ongoing compliance by the third-country branch with the requirements laid down in this Article and submit a report to the competent authority with its findings and conclusions.
+9.   By 10 January 2027, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, on the application to third-country branches of the arrangements, processes and mechanisms referred to in Article 74(1) of this Directive, taking into account Article 74(2), and on the application to third-country branches of Article 75 and Article 76(5) and (6) of this Directive.
+Article 48h
+Booking requirements
+1.   Member States shall require third-country branches to maintain a registry book enabling those third-country branches to track and keep a comprehensive and precise record of all the assets and liabilities booked or originated by the third-country branch in the Member State and to manage those assets and liabilities autonomously within the third-country branch. The registry book shall provide all necessary and sufficient information on the risks generated by the third-country branch and on how they are managed.
+2.   Member States shall require third-country branches to develop and regularly review and update a policy on booking arrangements for the management of the registry book referred to in paragraph 1. Such a policy shall be documented and approved by the relevant governing body of the head undertaking. The policy shall provide a clear rationale for the booking arrangements and set out how those arrangements align with the third-country branch’s business strategy.
+3.   Member States shall require third-country branches to ensure that an independent written and reasoned opinion on the implementation of and ongoing compliance with the requirements laid down in this Article be regularly prepared and addressed to the competent authority with the findings and conclusions.
+4.   EBA shall develop draft regulatory technical standards to specify the booking arrangements that third-country branches are to apply for the purposes of this Article, in particular as regards:
+(a)
+the methodology to identify and keep a comprehensive and precise track record of the assets and liabilities booked by the third-country branch in the Member State; and
+(b)
+the methodology to identify and keep a record of off-balance-sheet items and of the assets and liabilities originated by the third-country branch and booked or held remotely in other branches or subsidiaries of the same group on behalf of or for the benefit of the originating third-country branch.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Sub-Section 3
+
+
+
+Power to require authorisation under Title III and requirements on third-country branches which have systemic importance
+
+
+Article 48i
+Power to require the establishment of a subsidiary
+1.   Member States shall ensure that competent authorities have the power to require third-country branches to apply for authorisation under Title III, Chapter 1, at least where:
+(a)
+the third-country branch has carried out in the past or is currently carrying out activities referred to in Article 47(1), without prejudice to the exemptions referred to in Article 48c(4), point (d), with clients or counterparties in other Member States;
+(b)
+the third-country branch meets the indicators of systemic importance referred to in Article 131(3) or is assessed as having systemic importance in accordance with Article 48j and poses significant financial stability risks in the Union or the Member State where it is established; or
+(c)
+the aggregate amount of the assets of all third-country branches in the Union which belong to the same third-country group is equal to or greater than EUR 40 billion or the amount of the third-country branch’s assets on its book in the Member State where it is established is equal to or greater than EUR 10 billion.
+The power referred to in the first subparagraph of this paragraph may be used after applying the measures in Article 48j or 48o, as appropriate, or where the competent authority can justify, on grounds other than those listed under the first subparagraph of this paragraph, that those measures would be insufficient to address the material supervisory concerns.
+2.   Before exercising the power referred to in paragraph 1, competent authorities shall consult EBA and the competent authorities of the Member States where the relevant third-country group has established other third-country branches or subsidiary institutions.
+For the purposes of paragraph 1, points (b) and (c), of this Article and when carrying out the assessment referred to in Article 48j, the competent authorities or, where appropriate, designated authorities shall take into account appropriate indicators for assessing the systemic importance of third-country branches, which shall include in particular:
+(a)
+the size of the third-country branch;
+(b)
+the complexity of the third-country branch’s structure, organisation and business model;
+(c)
+the degree of interconnectedness of the third-country branch with the financial system of the Union and of the Member State where it is established;
+(d)
+the substitutability of the activities, services or operations conducted or the financial infrastructure provided by the third-country branch;
+(e)
+the market share of the third-country branch in the Union and in the Member State where it is established as regards total banking assets and in relation to the activities and services it provides and the operations that it conducts;
+(f)
+the likely impact of a suspension or closure of the third-country branch’s operations or business on the liquidity of the financial system of the Member State where it is established or on the payment, clearing and settlement systems in the Union and in that Member State;
+(g)
+the role and importance of the third-country branch for the activities, services and operations of the third-country group in the Union and in the Member State where it is established;
+(h)
+the role and importance of the third-country branch in the context of resolution or winding-up based on information from the resolution authority;
+(i)
+the volume of the third-country group’s business being conducted through third-country branches, relative to the business of that group conducted through subsidiary institutions authorised in the Union and in the Member States where the third-country branches are established.
+Article 48j
+Assessment of systemic importance and requirements on third-country branches which have systemic importance
+1.   The third-country branch shall be subject to the assessment laid down in paragraph 2 of this Article where all third-country branches in the Union that belong to the same third-country group have an aggregate amount of assets in the Union as reported in accordance with Sub-Section 4 equal to or greater than EUR 40 billion, either:
+(a)
+on average for the immediately preceding three annual reporting periods; or
+(b)
+in absolute terms for at least three annual reporting periods during the immediately preceding five annual reporting periods.
+The asset threshold referred to in the first subparagraph shall not include the assets held by the third-country branches in connection with central bank market operations entered into with ESCB central banks.
+2.   The competent authority responsible for the supervision of a third-country branch which belongs to a third-country group where all third-country branches in the Union have an aggregate amount of assets in the Union equal to or greater than EUR 40 billion shall assess whether the third-country branch under its supervision has systemic importance and poses significant risks for the financial stability of the Union or for the Member State where it is established. For those purposes, competent authorities shall, in particular, have regard to the indicators of systemic importance referred to in Article 48i(2) and Article 131(3).
+3.   As part of the assessment referred to in paragraph 2, the competent authority or, where appropriate, the designated authority shall consult EBA and competent authorities of the Member States where the relevant third-country group has established other third-country branches or subsidiary institutions, in order to assess the financial stability risks that the relevant third-country branch poses for the Member States other than the Member State where it is established.
+The competent authority or, where appropriate, the designated authority shall provide its reasoned assessment of the systemic importance of the third-country branch for the Union or the Member State where it is established to EBA and to the competent authorities of the Member States where the relevant third-country group has established other third-country branches or subsidiary institutions.
+Where the competent authorities which are consulted disagree with the assessment of the systemic importance of the third-country branch, they shall inform the competent authority which has conducted the assessment referred to in paragraph 2 within 10 working days from receiving the assessment. The competent authorities, with the assistance of EBA, shall use their best endeavours to reach a consensus on the assessment and, where applicable, on the targeted requirements referred to in paragraph 4 no later than three months from the date on which the competent authority or, where appropriate, the designated authority raised its objection. After that period has expired, the competent authority responsible for the supervision of the third-country branch under assessment shall decide on the assessment of the systemic importance of the third-country branch and on the targeted requirements referred to in paragraph 4.
+4.   Where appropriate to address the risks identified, the competent authority or, where appropriate, the designated authority may subject the third-country branch to targeted requirements that may include:
+(a)
+requiring that the relevant third-country branch restructure its assets or activities in such a manner that it ceases to qualify as having systemic importance in accordance with paragraph 2 or that it ceases to pose an undue risk to the financial stability of the Union or the Member States where it is established; or
+(b)
+imposing additional prudential requirements on the relevant third-country branch.
+Where the competent authority or, where appropriate, the designated authority, considers that a third-country branch has systemic importance, but it decides not to exercise any of the powers referred to in in the first subparagraph, point (a), of this paragraph or in Article 48i, it shall provide a reasoned notification to EBA and to the competent authorities of the Member States where the relevant third-country group has established other third-country branches or subsidiary institutions as to why it has decided not to exercise those powers.
+5.   By 31 December 2028, EBA shall report to the European Parliament, to the Council and to the Commission, on:
+(a)
+the assessment referred to in paragraph 3 of this Article, in particular as regards the identification of third-country branches of the same head undertaking and the functioning of the consultation process laid down in that paragraph;
+(b)
+the use of the supervisory powers laid down in paragraph 4 of this Article and in Article 48i.
+
+Sub-Section 4
+
+
+
+Reporting requirements
+
+
+Article 48k
+Regulatory and financial information on third-country branches and on the head undertaking
+1.   Member States shall require third-country branches to periodically report to their competent authorities information on:
+(a)
+the assets and liabilities held on their books in accordance with Article 48h and the assets and liabilities originated by the third-country branches, with a breakdown that singles out:
+(i)
+the largest recorded assets and liabilities classified by sector and counterparty type, including, in particular, financial sector exposures;
+(ii)
+significant exposure and funding source concentrations to specified types of counterparties;
+(iii)
+significant internal transactions with the head undertaking and with members of the head undertaking’s group;
+(b)
+the third-country branches’ compliance with the requirements that apply to them under this Directive;
+(c)
+on an ad hoc basis, the deposit protection arrangements available to depositors in the third-country branches in accordance with Article 15(2) and (3) of Directive 2014/49/EU of the European Parliament and of the Council (*12);
+(d)
+additional regulatory requirements imposed on the third-country branches by Member States under national law.
+For the purposes of reporting the information on the assets and liabilities held on their books in accordance with the first subparagraph, point (a), third-country branches shall apply the international accounting standards as applied in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (*13) or the applicable generally accepted accounting principles in the Member State.
+2.   Member States shall require third-country branches to report to their competent authorities the following information on their head undertaking:
+(a)
+on a periodic basis, aggregated information on the assets and liabilities held or booked, respectively, by the subsidiaries and other third-country branches of that head undertaking’s group in the Union;
+(b)
+on a periodic basis, the head undertaking’s compliance with the applicable prudential requirements on an individual and consolidated basis;
+(c)
+on an ad hoc basis, significant supervisory reviews and assessments, when those are conducted on the head undertaking, and the consequent supervisory decisions;
+(d)
+the recovery plans of the head undertaking and the specific measures that could be taken on the third-country branches in accordance with those plans, and any subsequent updates and amendments to those plans;
+(e)
+the head undertaking’s business strategy in relation to the third-country branches and any subsequent changes to that strategy;
+(f)
+the services provided by the head undertaking to clients established or situated in the Union on the basis of reverse solicitation of services in accordance with Article 21c.
+3.   The reporting obligations laid down in this Article shall not prevent a competent authority from imposing additional reporting requirements on third-country branches where it deems additional information is necessary to gain a comprehensive view of the third-country branches’ or their head undertaking’s business, activities or financial soundness, to verify the third-country branches’ and their head undertaking’s compliance with applicable law and to ensure the third-country branches’ compliance with that law.
+Article 48l
+Standard forms and templates and frequency of reporting
+1.   EBA shall develop draft implementing technical standards to specify uniform formats and definitions for, and the frequency of, reporting, and shall develop the IT solutions to be applied for the purposes of Article 48k.
+The reporting requirements referred to in Article 48k shall be proportionate to the classification of third-country branches as either class 1 or class 2.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2026.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+2.   The regulatory and financial information referred to in Article 48k shall be reported at least twice a year by class 1 third-country branches and at least annually by class 2 third-country branches.
+3.   A competent authority may waive all or part of the requirements to report information on the head undertaking laid down in Article 48k(2) for qualifying third-country branches, provided that that competent authority is able to obtain the relevant information directly from the supervisory authorities of the relevant third country.
+
+SECTION III
+
+
+
+Supervision
+
+
+Article 48m
+Supervision of third-country branches and supervisory examination programme
+1.   Member States shall require competent authorities to comply with this Section and, mutatis mutandis, with Title VII for the purpose of supervising third-country branches.
+2.   Competent authorities shall include third-country branches in the supervisory examination programme referred to in Article 99.
+Article 48n
+Supervisory review and evaluation process
+1.   Member States shall require competent authorities to review the arrangements, strategies, processes and mechanisms implemented by third-country branches to comply with the provisions that apply to them under this Directive and, where applicable, with any additional regulatory requirements under national law.
+2.   On the basis of the review referred to in paragraph 1, competent authorities shall evaluate whether the arrangements, strategies, processes and mechanisms implemented by third-country branches and the capital endowment and liquidity held by them ensure a sound management and coverage of their material risks and the viability of the third-country branches.
+3.   Competent authorities shall conduct the review and evaluation referred to in paragraphs 1 and 2 of this Article in accordance with the criteria for applying the principle of proportionality published in accordance with Article 143(1), point (c). In particular, competent authorities shall establish a level of frequency and intensity for the review referred to in paragraph 1 of this Article that is proportionate to classification as class 1 and class 2 third-country branches and that takes into account other relevant criteria, such as the nature, scale and complexity of the third-country branches’ activities.
+4.   Where a review, in particular of the governance arrangements, the business model, or the activities of the third-country branch, gives competent authorities reasonable grounds to suspect that, in connection with that third-country branch, money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that there is increased risk thereof, the competent authority shall immediately notify EBA and the authority that is responsible for supervising the third-country branch in accordance with Directive (EU) 2015/849. Where there is an increased risk of money laundering or terrorist financing, the competent authority and the authority that is responsible for supervising the third-country branch in accordance with Directive (EU) 2015/849 shall liaise and notify their common assessment immediately to EBA. The competent authority shall take, as appropriate, measures in accordance with this Directive, which may include withdrawing the third-country branch’s authorisation under Article 48d(2), point (g), of this Directive.
+5.   The competent authority, the financial intelligence unit and the authority that is responsible for supervising the third-country branch in accordance with Directive (EU) 2015/849 shall cooperate closely with each other within their respective competences and shall exchange information relevant to this Directive, provided that such cooperation and information exchange do not impinge on any ongoing inquiry, investigation or proceedings pursuant to the criminal or administrative law of the Member State where the competent authority, financial intelligence unit or the authority that is responsible for supervising the third-country branch in accordance with Directive (EU) 2015/849 is located. EBA may assist the competent authorities and the authorities responsible for supervising the third-country branch in accordance with Directive (EU) 2015/849 in the event of a disagreement concerning the coordination of supervisory activities under this Article on its own initiative. In such an event, EBA shall act in accordance with Article 19 of Regulation (EU) No 1093/2010.
+6.   By 10 July 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to further specify:
+(a)
+the common procedures and methodologies for the supervisory review and evaluation process referred to in this Article and for the assessment of the treatment of material risks;
+(b)
+the mechanisms for cooperation and information exchange between the authorities referred to in paragraph 5 of this Article, in particular in the context of identifying serious breaches of anti-money laundering or counter-terrorist financing rules;
+(c)
+the authority responsible for the supervision of anti-money laundering or counter-terrorist financing in the Member State in accordance with Directive (EU) 2015/849 in the context of the application of Article 27b(2), Article 48c(5) and Article 48d(3) of this Directive.
+For the purposes of the first subparagraph, point (a), the procedures and methodologies referred to therein shall be laid down in a manner that is proportionate to the classification of the third-country branches as class 1 or class 2, and to other appropriate criteria such as the nature, scale and complexity of their activities.
+Article 48o
+Supervisory measures and powers
+1.   Competent authorities shall require third-country branches to take the necessary measures at an early stage in order to:
+(a)
+ensure that the third-country branches comply with the requirements that apply to them under this Directive and under national law or to restore compliance with those requirements; and
+(b)
+ensure that the material risks that the third-country branches are exposed to are covered and managed in a sound and sufficient manner and that those branches remain viable.
+2.   For the purposes of paragraph 1, competent authorities’ powers shall include, at least, the power to require third-country branches to:
+(a)
+hold an amount of capital endowment in excess of the minimum requirements laid down in Article 48e or to comply with other additional capital requirements; any additional capital endowment amount to be held by the third-country branch in accordance with this point shall comply with the requirements laid down in Article 48e;
+(b)
+meet other specific liquidity requirements in addition to the requirements laid down in Article 48f; any additional liquid assets to be held by the third-country branch in accordance with this point shall comply with the requirements laid down in Article 48f;
+(c)
+reinforce their governance, risk management or booking arrangements;
+(d)
+restrict or limit the scope of their business or of the activities they conduct, as well as the counterparties to those activities;
+(e)
+reduce the risk inherent in their activities, products and systems, including outsourced activities, and stop engaging in such activities or offering such products;
+(f)
+comply with additional reporting requirements in accordance with Article 48k(3) or increase the frequency of the regular reporting;
+(g)
+make public disclosures.
+Article 48p
+Cooperation between competent authorities and colleges of supervisors
+1.   Competent authorities supervising third-country branches and subsidiary institutions of the same third-country group shall cooperate closely and share information with each other. The competent authorities shall have written coordination and cooperation arrangements in place in accordance with Article 115.
+2.   For the purposes of paragraph 1 of this Article, class 1 third-country branches shall be subject to the comprehensive supervision of a college of supervisors in accordance with Article 116. For those purposes the following requirements shall apply:
+(a)
+where a college of supervisors has been established in relation to the subsidiary institutions of a third-country group, the class 1 third-country branches of the same group shall be included within the scope of that college of supervisors;
+(b)
+where the third-country group has class 1 third-country branches in more than one Member State but no subsidiary institutions in the Union subject to Article 116, a college of supervisors shall be established in relation to those class 1 third-country branches;
+(c)
+where the third-country group has class 1 third-country branches in more than one Member State or at least one class 1 third-country branch, and one or more subsidiary institutions in the Union that are not subject to Article 116, a college of supervisors shall be established in relation to those third-country branches and subsidiary institutions.
+3.   For the purposes of paragraph 2, points (b) and (c), of this Article, Member States shall ensure that there is a lead competent authority that performs the same role as the consolidating supervisor in accordance with Article 116. The lead competent authority shall be that of the Member State with the largest third-country branch in terms of total value of booked assets.
+4.   In addition to the tasks set out in Article 116, the college of supervisors shall:
+(a)
+prepare a report on the structure and activities of the third-country group in the Union and update that report on an annual basis;
+(b)
+exchange information on the results of the supervisory review and evaluation process referred to in Article 48n;
+(c)
+endeavour to align the application of the supervisory measures and powers referred to in Article 48o.
+5.   The college of supervisors shall ensure appropriate coordination and cooperation with relevant third-country supervisory authorities, where appropriate.
+6.   EBA shall contribute to promoting and monitoring the efficient, effective and consistent functioning of the colleges of supervisors referred to in this Article in accordance with Article 21 of Regulation (EU) No 1093/2010.
+7.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the mechanisms of cooperation and the draft model arrangements between competent authorities for the purposes of paragraph 1; and
+(b)
+the conditions for the functioning of colleges of supervisors for the purposes of paragraphs 2 to 6.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 48q
+Notification to EBA
+Competent authorities shall notify EBA of the following:
+(a)
+all authorisations granted to third-country branches and any subsequent changes to such authorisations;
+(b)
+the total assets and liabilities booked by the authorised third-country branches, as periodically reported;
+(c)
+the name of the third-country group to which an authorised third-country branch belongs.
+EBA shall publish on its website a list of all third-country branches authorised to operate in the Union in accordance with this Title, indicating the Member States in which they are authorised to operate.
+Article 48r
+Cooperation with supervisory authorities of third countries regarding supervision on a consolidated basis
+1.   The Union may conclude agreements with one or more third countries regarding the means of exercising supervision on a consolidated basis over the following:
+(a)
+institutions the parent undertakings of which have their head offices in a third country;
+(b)
+institutions situated in third countries the parent undertakings of which, whether institutions, financial holding companies or mixed financial holding companies, have their head offices in the Union.
+2.   The agreements referred to in paragraph 1 shall, in particular, seek to ensure that:
+(a)
+the competent authorities of Member States are able to obtain the information necessary for the supervision, on the basis of their consolidated financial situations, of institutions, financial holding companies and mixed financial holding companies situated in the Union which have as subsidiaries institutions or financial institutions situated in a third country, or holding participation therein;
+(b)
+the supervisory authorities of third countries are able to obtain the information necessary for the supervision of parent undertakings the head offices of which are situated within their territories and which have as subsidiaries institutions or financial institutions situated in one or more Member States or holding participation therein; and
+(c)
+EBA is able to obtain from the competent authorities of the Member States the information received from national authorities of third countries in accordance with Article 35 of Regulation (EU) No 1093/2010.
+3.   Without prejudice to Article 218 TFEU, the Commission shall, with the assistance of the European Banking Committee, examine the outcome of the negotiations referred to in paragraph 1 of this Article and the resulting situation.
+4.   EBA shall assist the Commission for the purposes of this Article in accordance with Article 33 of Regulation (EU) No 1093/2010.
+
+(*11)  Commission Delegated Regulation (EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the Council with regard to liquidity coverage requirement for Credit Institutions (OJ L 11, 17.1.2015, p. 1)."
+                        
+
+(*12)  Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)."
+                        
+
+(*13)  Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).’;"
+                        
+(14)
+in Article 53(1), the second subparagraph is replaced by the following:
+
+                              ‘Confidential information which such persons, auditors or experts receive in the course of their duties may be disclosed only in summary or aggregate form, such that individual credit institutions cannot be identified, without prejudice to cases covered by criminal or tax law.’
+                           
+(15)
+in Article 56, the following paragraph is added:
+
+                              ‘Article 53(1) and Article 54 shall not preclude the exchange of information between competent authorities and tax authorities in the same Member State, in accordance with national law. Where the information originates in another Member State, it shall only be exchanged as referred to in the first sentence of this paragraph with the express agreement of the competent authorities which have disclosed it.’
+                           
+(16)
+Articles 65 and 66 are replaced by the following:
+‘Article 65
+Administrative penalties, periodic penalty payments and other administrative measures
+1.   Without prejudice to the supervisory powers of competent authorities referred to in Article 64 of this Directive and the right of Member States to provide for and impose criminal penalties, Member States shall lay down rules on administrative penalties, periodic penalty payments and other administrative measures in respect of breaches of national provisions transposing this Directive, of Regulation (EU) No 575/2013 and of decisions taken by a competent authority on the basis of those provisions or that Regulation, and shall take all measures necessary to ensure that they are implemented. The administrative penalties, periodic penalty payments and other administrative measures shall be effective, proportionate and dissuasive.
+2.   Member States shall ensure that where the obligations referred to in paragraph 1 of this Article apply to institutions, financial holding companies and mixed financial holding companies, competent authorities may, in the event of a breach of national provisions transposing this Directive, of Regulation (EU) No 575/2013 or of decisions taken by a competent authority on the basis of those provisions or that Regulation, apply administrative penalties, periodic penalty payments and other administrative measures to members of the management body, senior management, key function holders, other members of staff whose professional activities have a material impact on the institution’s risk profile as referred to in Article 92(3) of this Directive and to other natural persons, provided they are responsible for the breach under national law.
+3.   The application of periodic penalty payments shall not prevent competent authorities from imposing administrative penalties or other administrative measures for the same breach.
+4.   Competent authorities shall have all the information gathering and investigatory powers necessary for the exercise of their functions. Those powers shall include:
+(a)
+the power to require the following natural or legal persons to provide all the information that is necessary in order for competent authorities to carry out their tasks, including the information required to be provided at recurring intervals and in specified formats for supervisory and related statistical purposes:
+(i)
+institutions established in the Member State concerned;
+(ii)
+financial holding companies established in the Member State concerned;
+(iii)
+mixed financial holding companies established in the Member State concerned;
+(iv)
+mixed-activity holding companies established in the Member State concerned;
+(v)
+persons belonging to the entities referred to in points (i) to (iv);
+(vi)
+third parties to whom the entities referred to in points (i) to (iv) of this point have outsourced functions or activities, including ICT third-party service providers referred to in Chapter V of Regulation (EU) 2022/2554 of the European Parliament and of the Council (*14);
+(b)
+the power to conduct all necessary investigations of any person referred to in points (a)(i) to (vi) established or located in the Member State concerned where necessary to carry out the tasks of the competent authorities, including the power to:
+(i)
+require the submission of documents;
+(ii)
+examine the books and records of the persons referred to in points (a)(i) to (vi) and take copies or extracts from such books and records;
+(iii)
+obtain written or oral explanations from any person referred to in points (a)(i) to (vi) or their representatives or staff;
+(iv)
+interview any other person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation; and
+(v)
+conduct, subject to other conditions set out in Union law, all necessary inspections at the business premises of the legal persons referred to in points (a)(i) to (vi) and any other undertaking included in consolidated supervision where a competent authority is the consolidating supervisor, subject to the prior notification of the competent authorities concerned; if an inspection requires authorisation by a judicial authority under national law, such authorisation shall be applied for.
+5.   By way of derogation from paragraph 1, where the legal system of a Member State does not provide for administrative penalties, this Article may be applied in such a manner that the penalty is initiated by the competent authority and imposed by a judicial authority, while ensuring that those legal remedies are effective and have an equivalent effect to the administrative penalties imposed by competent authorities. In any event, the penalties imposed shall be effective, proportionate and dissuasive.
+The Member States referred to in the first subparagraph shall communicate to the Commission the measures of national law which they adopt pursuant to this paragraph by 10 January 2026 and, without delay, any subsequent amendments thereto.

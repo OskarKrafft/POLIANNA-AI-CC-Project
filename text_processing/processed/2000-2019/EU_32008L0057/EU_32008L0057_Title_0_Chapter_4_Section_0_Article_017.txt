@@ -1,0 +1,23 @@
+Article 17
+Conformity with TSIs and national rules
+1.   Member States shall consider as being interoperable and meeting the essential requirements concerning them, those structural subsystems constituting the rail system which are covered by the ‘EC’ declaration of verification.
+2.   Verification of the interoperability, in accordance with the essential requirements, of a structural subsystem constituting the rail system shall be established by reference to TSIs, where they exist.
+3.   Member States shall draw up, for each subsystem, a list of the technical rules in use for implementing the essential requirements and notify this list to the Commission when:
+—
+no relevant TSI exists, or
+—
+a derogation has been notified under Article 9, or
+—
+a specific case requires the application of technical rules not included in the relevant TSI.
+This list shall be notified either:
+—
+each time the list of technical rules that, pursuant to Article 16(3) of Directive 96/48/EC and Article 16(3) of Directive 2001/16/EC, was required to be notified by 30 April 2005 is changed, or
+—
+after the derogation has been notified, or
+—
+after publication of the TSI concerned.
+On that occasion, Member States shall also designate the bodies responsible for carrying out, in the case of these technical regulations, the verification procedure referred to in Article 18.
+The Commission shall communicate this information to the Agency, which shall publish it.
+Member States shall make available the full text of the notified rules at the request of the Commission. In order to prevent further barriers from being created, and with a view to taking forward the classification of national rules in accordance with Article 27, the Commission shall monitor the introduction of new rules by the Member States. If the Commission considers that the new rule constitutes a means of arbitrary discrimination or a disguised restriction on rail transport operations between Member States, a decision, addressed to the Member State concerned, shall be adopted in accordance with the regulatory procedure referred to in Article 29(3).
+Member States may choose not to notify rules and restrictions of a strictly local nature. In such cases, Member States shall mention such rules and restrictions in the infrastructure registers referred to in Article 35.
+Member States shall ensure that binding technical rules are published and made available to all infrastructure managers, railway undertakings and applicants for authorisations for placing in service in clear language that can be understood by the parties concerned.

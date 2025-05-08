@@ -1,0 +1,5 @@
+Article 52
+Confidentiality and data protection
+1.   Data collected and exchanged in the framework of this Regulation shall be treated in accordance with the applicable rules on confidentiality pursuant to Articles 112 and 113 of Regulation (EC) No 1224/2009.
+2.   The collection, transfer, storage or other processing of any data pursuant to this Regulation shall be in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725.
+3.   Personal data processed under this Regulation shall not be stored for a period longer than 10 years, except if the personal data are necessary to enable the follow-up of an infringement, an inspection, or judicial or administrative procedures. In those cases, the personal data may be stored for 20 years. If personal data are retained for a longer period, those data shall be anonymised.

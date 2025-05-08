@@ -1,0 +1,9 @@
+Article 50
+Power to restrict the enforcement of security interests
+1.   Member States shall ensure that resolution authorities have the power to restrict secured creditors of an undertaking under resolution from enforcing security interests in relation to any assets of that undertaking from the publication of a notice of the restriction in accordance with Article 65(3) until midnight in the Member State of the resolution authority of the undertaking under resolution at the end of the business day following that publication.
+2.   Any restriction under paragraph 1 shall not apply to:
+(a)
+security interest of systems or operators of systems designated for the purposes of Directive 98/26/EC;
+(b)
+CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation.
+3.   Where Article 62 applies, resolution authorities shall ensure that any restrictions imposed pursuant to the power referred to in paragraph 1 of this Article are consistent for all group entities in relation to which a resolution action is taken.

@@ -1,0 +1,5 @@
+Article 1
+Subject matter and scope
+1.   This Directive establishes a framework in support of the coordinated and coherent deployment and use of Intelligent Transport Systems (ITS) within the Union, in particular across the borders between the Member States, and sets out the general conditions necessary for that purpose.
+2.   This Directive provides for the development of specifications for actions within the priority areas referred to in Article 2, as well as for the development, where appropriate, of necessary standards.
+3.   This Directive shall apply to ITS applications and services in the field of road transport and to their interfaces with other modes of transport without prejudice to matters concerning national security or necessary in the interest of defence.

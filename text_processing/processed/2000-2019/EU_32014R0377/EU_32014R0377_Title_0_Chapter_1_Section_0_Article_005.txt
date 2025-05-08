@@ -1,0 +1,26 @@
+Article 5
+Copernicus service component
+1.   The Copernicus service component shall consist of the following services:
+(a)
+the atmosphere monitoring service, which is to provide information on air quality on a European scale, and the chemical composition of the atmosphere on a global scale. It shall in particular provide information for air quality monitoring systems run at the local to national scales, and contribute to the monitoring of atmospheric composition climate variables, including, where feasible, the interaction with forest canopies;
+(b)
+the marine environment monitoring service, which is to provide information on the state and dynamics of physical ocean and marine ecosystems for the global ocean and the European regional marine areas, in support of marine safety, contribution to monitoring of waste flows, marine environmental, coastal and polar regions, and of marine resources as well as meteorological forecasting and climate monitoring;
+(c)
+the land monitoring service, which is to provide information on land use and land cover, cryosphere, climate change and biogeophysical variables, including their dynamics, in support of the global-to-local environmental monitoring of biodiversity, soil, inland and coastal waters, forests and vegetation, and natural resources, as well as implementation in general of environment, agriculture, development, energy, urban planning, infrastructure and transport policies;
+(d)
+the climate change service, which is to provide information to increase the knowledge base to support adaptation and mitigation policies. It shall in particular contribute to the provision of Essential Climate Variables, climate analyses, projections and indicators at temporal and spatial scales relevant to adaptation and mitigation strategies for the various Union's sectoral and societal benefit areas;
+(e)
+the emergency management service, which is to provide information for emergency response in relation to different types of disasters, including meteorological hazards, geophysical hazards, deliberate and accidental man-made disasters and other humanitarian disasters, as well as the prevention, preparedness, response and recovery activities;
+(f)
+the security service, which is to provide information in support of the civil security challenges of Europe improving crisis prevention, preparedness and response capacities, in particular for border and maritime surveillance, but also support for the Union's external action, without prejudice to cooperation arrangements which may be concluded between the Commission and various Common Foreign and Security Policy bodies, in particular the European Union Satellite Centre.
+2.   The provision of the services referred to in paragraph 1 shall take into account the principles of subsidiarity and proportionality, be cost-effective and decentralised where appropriate, integrating at European level existing space, in situ and reference data and capacities in Member States, thereby avoiding duplication. Procurement of new data that duplicate existing sources shall be avoided, unless the use of existing or upgradable data sets is not technically feasible, cost-effective or possible in a timely manner.
+The services shall implement rigorous quality control systems and shall provide information about service levels, including availability, reliability, quality and timeliness.
+3.   In order to ensure the evolution of the services referred to in paragraph 1 and their public sector uptake, the following activities shall also be undertaken:
+(a)
+development activities aimed at improving the quality and performance of services, including their evolution and adaptation, avoiding or mitigating the operational risks as well as exploiting synergies with related activities, such as under Horizon 2020;
+(b)
+support activities consisting in measures to promote the use and uptake of Copernicus data and Copernicus information by:
+(i)
+public authorities entrusted with the definition, implementation, enforcement or monitoring of a public service or policy in areas referred to in paragraph 1. This shall include capacity building and development of standard procedures and tools to integrate Copernicus data and Copernicus information into users' workflow;
+(ii)
+other users and downstream applications. That shall include outreach, training and dissemination activities.

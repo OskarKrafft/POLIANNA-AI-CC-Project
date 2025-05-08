@@ -1,0 +1,8 @@
+Article 37
+Integrity of the issue
+1.   A CSD shall take appropriate reconciliation measures to verify that the number of securities making up a securities issue or part of a securities issue submitted to the CSD is equal to the sum of securities recorded on the securities accounts of the participants of the securities settlement system operated by the CSD and, where relevant, on owner accounts maintained by the CSD. Such reconciliation measures shall be conducted at least daily.
+2.   Where appropriate and if other entities are involved in the reconciliation process for a certain securities issue, such as the issuer, registrars, issuance agents, transfer agents, common depositories, other CSDs or other entities, the CSD and any such entities shall organise adequate cooperation and information exchange measures with each other so that the integrity of the issue is maintained.
+3.   Securities overdrafts, debit balances or securities creation shall not be allowed in a securities settlement system operated by a CSD.
+4.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the reconciliation measures a CSD is to take under paragraphs 1, 2 and 3.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

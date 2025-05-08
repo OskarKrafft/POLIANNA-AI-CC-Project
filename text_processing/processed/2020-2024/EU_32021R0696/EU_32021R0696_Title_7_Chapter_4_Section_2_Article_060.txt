@@ -1,0 +1,14 @@
+Article 60
+SWE activities
+1.   The SWE sub-component may support the following activities:
+(a)
+the assessment and identification of the needs of the users in the sectors identified in point (b) of paragraph 2, with the aim of setting out SWE services to be provided;
+(b)
+the provision of SWE services to the SWE services’ users, according to the identified users needs and technical requirements.
+2.   SWE services shall be available at any time without interruption. The Commission shall select those services, by means of implementing acts, in accordance with the following rules:
+(a)
+the Commission shall prioritise the SWE services to be provided at Union level according to the needs of SWE users, the technological readiness of the services and the result of a risk assessment;
+(b)
+SWE services may contribute to civil protection activities and to the protection of a wide range of sectors such as space, transport, GNSSs, electric power grids and communications.
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 107(2).
+3.   The selection of public or private entities to provide SWE services shall be performed through a call for tenders.

@@ -1,0 +1,17 @@
+Article 8
+Notification of the crypto-asset white paper and of the marketing communications
+1.   Offerors, persons seeking admission to trading, or operators of trading platforms for crypto-assets other than asset-referenced tokens or e-money tokens shall notify their crypto-asset white paper to the competent authority of their home Member State.
+2.   Marketing communications shall, upon request, be notified to the competent authority of the home Member State and to the competent authority of the host Member State, when addressing prospective holders of crypto-assets other than asset-referenced tokens or e-money tokens in those Member States.
+3.   Competent authorities shall not require prior approval of crypto-asset white papers, nor of any marketing communications relating thereto, before their respective publication.
+4.   The notification of the crypto-asset white paper referred to in paragraph 1 shall be accompanied by an explanation of why the crypto-asset described in the crypto-asset white paper should not be considered to be:
+(a)
+a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4);
+(b)
+an e-money token; or
+(c)
+an asset-referenced token.
+5.   The elements referred in paragraphs 1 and 4 shall be notified to the competent authority of the home Member State at least 20 working days before the date of publication of the crypto-asset white paper.
+6.   Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall, together with the notification referred to in paragraph 1, provide the competent authority of their home Member State with a list of the host Member States, if any, where they intend to offer their crypto-assets to the public or intend to seek admission to trading. They shall also inform the competent authority of their home Member State of the starting date of the intended offer to the public or intended admission to trading and of any change to that date.
+The competent authority of the home Member State shall notify the single point of contact of the host Member States of the intended offer to the public or the intended admission to trading and communicate to that single point of contact the corresponding crypto-asset white paper within five working days of receipt of the list of host Member States referred to in the first subparagraph.
+7.   The competent authority of the home Member State shall communicate to ESMA the information referred to in paragraphs 1, 2 and 4 as well as the starting date of the intended offer to the public or intended admission to trading and of any change to that date. It shall communicate such information within five working days of receipt thereof from the offeror or the person seeking admission to trading.
+ESMA shall make the crypto-asset white paper available in the register, under Article 109(2), by the starting date of the offer to the public or admission to trading.

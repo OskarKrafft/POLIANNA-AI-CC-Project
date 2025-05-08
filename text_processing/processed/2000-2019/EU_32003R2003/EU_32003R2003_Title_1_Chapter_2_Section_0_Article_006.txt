@@ -1,0 +1,33 @@
+Article 6
+Compulsory statements
+1. In order to satisfy the requirements of Article 9, Member States may prescribe that the indication of the nitrogen, phosphorus and potassium contents of fertilisers placed on their market is to be expressed in the following way:
+(a) nitrogen solely in the elemental form (N); and either
+(b) phosphorus and potassium solely in the elemental form (P, K); or
+(c) phosphorus and potassium solely in the oxide form (P2O5, K2O); or
+(d) phosphorus and potassium in both elemental and oxide forms simultaneously.
+Where the option is chosen to prescribe that the phosphorus and potassium contents be expressed in the form of elements, all references in the Annexes to the oxide form shall be read as being in elemental form and the numerical values shall be converted using the following factors:
+(a) phosphorus (P) = phosphorus pentoxide (P2O5) × 0,436;
+(b) potassium (K) = potassium oxide (K2O) × 0,830.
+2. Member States may prescribe that the calcium, magnesium, sodium and sulphur contents of secondary nutrient fertilisers and, where the conditions of Article 17 are fulfilled, of primary nutrient fertilisers placed on their markets are to be expressed:
+(a) in the oxide form (CaO, MgO, Na2O, SO3); or
+(b) in the elemental form (Ca, Mg, Na, S); or
+(c) in both of these forms.
+To convert the calcium oxide, magnesium oxide, sodium oxide and sulphur trioxide contents into calcium, magnesium, sodium and sulphur contents, the following factors shall be used:
+(a) calcium (Ca) = calcium oxide (CaO) × 0,715;
+(b) magnesium (Mg) = magnesium oxide (MgO) × 0,603;
+(c) sodium (Na) = sodium oxide (Na2O) × 0,742;
+(d) sulphur (S) = sulphur trioxide (SO3) × 0,400.
+For the calculated oxide or elemental content, the figure declared shall be rounded to the nearest decimal place.
+3. Member States shall not prevent the placing on the market of an "EC fertiliser" labelled in both of the forms mentioned in paragraphs 1 and 2.
+4. The content of one or more of the micro-nutrients boron, cobalt, copper, iron, manganese, molybdenum, or zinc in the EC fertilisers belonging to the types of fertilisers listed in sections A, B, C and D of Annex I shall be declared where the following conditions are fulfilled:
+(a) the micro-nutrients are added at least in the minimum quantities specified in section E.2.2 and E.2.3 of Annex I;
+(b) the EC fertiliser continues to satisfy the requirements of sections A, B, C and D of Annex I.
+5. Where the micro-nutrients are the normal ingredients of the raw materials intended to supply primary (N, P, K) and secondary (Ca, Mg, Na, S) nutrients, they may be declared, provided that these micro-nutrients are present at least in the minimum quantities specified in sections E.2.2 and E.2.3 of Annex I.
+6. The micro-nutrient content shall be declared in the following manner:
+(a) for fertilisers belonging to the types of fertilisers listed in section E.1 of Annex I, in accordance with the requirements set out in column 6 of that section;
+(b) for mixtures of fertilisers referred to in (a) containing at least two different micro-nutrients and meeting the requirements of section E.2.1 of Annex I and for fertilisers belonging to the types of fertilisers listed in sections A, B, C and D of Annex I, by indicating:
+(i) the total content, expressed as a percentage of the fertiliser by mass,
+(ii) the water-soluble content, expressed as a percentage of the fertiliser by mass, where the soluble content is at least half of the total content.
+Where a micro-nutrient is totally water-soluble, only the water-soluble content shall be declared.
+Where a micro-nutrient is chemically linked with an organic molecule, the content of the micro-nutrient present in the fertiliser shall be declared immediately following the water-soluble content as a percentage by mass of the product, followed by one of the terms "chelated by", or "complexed by", with the name of the organic molecule as set out in section E.3 of Annex I. The name of the organic molecule may be replaced by its initials.
+

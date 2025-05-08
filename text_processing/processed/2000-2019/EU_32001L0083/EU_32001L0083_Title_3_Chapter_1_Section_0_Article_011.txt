@@ -1,0 +1,27 @@
+Article 11
+The summary of the product characteristics shall contain the following information:
+1. Name of the medicinal product.
+2. Qualitative and quantitative composition in terms of the active substances and constituents of the excipient, knowledge of which is essential for proper administration of the medicinal product. The usual common name or chemical description shall be used.
+3. Pharmaceutical form.
+4. Pharmacological properties and, in so far as this information is useful for therapeutic purposes, pharmacokinetic particulars.
+5. Clinical particulars:
+5.1. therapeutic indications,
+5.2. contra-indications,
+5.3. adverse reactions (frequency and seriousness),
+5.4. special precautions for use and, in the case of immunological medicinal products, any special precautions to be taken by persons handling such products and administering them to patients, together with any precautions to be taken by the patient,
+5.5. use during pregnancy and lactation,
+5.6. interaction with other medicaments and other forms of interaction,
+5.7. posology and method of administration for adults and, where necessary, for children,
+5.8. overdose (symptoms, emergency procedures, antidotes),
+5.9. special warnings,
+5.10. effects on ability to drive and to use machines.
+6. Pharmaceutical particulars:
+6.1. major incompatibilities,
+6.2. shelf life, when necessary after reconstitution of the medicinal product or when the immediate packaging is opened for the first time,
+6.3. special precautions for storage,
+6.4. nature and contents of the immediate packaging,
+6.5. special precautions for disposal of unused medicinal products or waste materials derived from such medicinal products, if appropriate.
+7. Name or corporate name and permanent address of the marketing authorization holder.
+8. For radiopharmaceuticals, full details of internal radiation dosimetry.
+9. For radiopharmaceuticals, additional detailed instructions for extemporaneous preparation and quality control of such preparation and, where appropriate, maximum storage time during which any intermediate preparation such as an eluate or the ready-to-use pharmaceutical will conform with its specifications.
+

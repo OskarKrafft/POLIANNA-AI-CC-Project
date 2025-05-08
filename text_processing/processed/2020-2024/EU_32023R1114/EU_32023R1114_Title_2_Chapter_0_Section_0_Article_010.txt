@@ -1,0 +1,10 @@
+Article 10
+Result of the offer to the public and safeguarding arrangements
+1.   Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of those crypto-assets shall publish on their website the result of the offer to the public within 20 working days of the end of the subscription period.
+2.   Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that do not set a time limit on their offer to the public of those crypto-assets shall publish on their website on an ongoing basis, at least monthly, the number of units of the crypto-assets in circulation.
+3.   Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of crypto-assets shall have effective arrangements in place to monitor and safeguard the funds or other crypto-assets raised during the offer to the public. For that purpose, those offerors shall ensure that the funds or crypto-assets collected during the offer to the public are kept in custody by one or both of the following:
+(a)
+a credit institution, where funds are raised during the offer to the public;
+(b)
+a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients.
+4.   When the offer to the public has no time limit, the offeror shall comply with paragraph 3 of this Article until the right of withdrawal of the retail holder pursuant to Article 13 has expired.

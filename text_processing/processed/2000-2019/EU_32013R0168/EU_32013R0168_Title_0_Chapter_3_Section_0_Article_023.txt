@@ -1,0 +1,33 @@
+Article 23
+Requirements for environmental performance
+1.   Manufacturers shall ensure that vehicles are designed, constructed and assembled so as to minimise the impact on the environment. Manufacturers shall ensure that type-approved vehicles meet the environmental performance requirements as set out in Annexes II, V and VI and within the durability mileage as set out in Annex VII.
+2.   Manufacturers shall ensure that vehicles, systems, components and separate technical units comply with the test procedures and test requirements as set out in Annex V within the application dates set out in Annex IV to be laid down in a delegated act adopted pursuant to paragraph 12 of this Article.
+3.   Manufacturers shall ensure that type-approval requirements for verifying durability requirements are met. At the choice of the manufacturer one of the following durability test procedures shall be used to provide evidence to the approval authority that the environmental performance of a type-approved vehicle is durable:
+(a)
+actual durability testing with full mileage accumulation:
+The test vehicles shall physically accumulate the full distance set out in Annex VII (A) and shall be tested in accordance with the procedure laid down in test type V as set out in the delegated act adopted pursuant to paragraph 12 of this Article. The emission test results up to and including the full distance set out in Annex VII (A) shall be lower than the environmental limits set out in Annex VI (A);
+(b)
+actual durability testing with partial mileage accumulation:
+The test vehicles shall physically accumulate a minimum of 50 % of the full distance set out in Annex VII (A) and shall be tested in accordance with the procedure laid down in test type V as set out in the delegated act adopted pursuant to paragraph 12 of this Article. As specified in that act, the test results shall be extrapolated up to the full distance set out in Annex VII (A). Both the test results and the extrapolated results shall be lower than the environmental limits set out in Annex VI (A);
+(c)
+mathematical durability procedure:
+For each emission constituent, the product of the multiplication of the deterioration factor set out in Annex VII (B) and the environmental test result of a vehicle which has accumulated more than 100 km after it was first started at the end of the production line shall be lower than the environmental limit set out in Annex VI (A).
+4.   By 1 January 2016, the Commission shall carry out a comprehensive environmental effect study. The study shall evaluate the air quality and the share of pollutants contributed by L-category vehicles and shall cover the requirements of test types I, IV, V, VII and VIII listed in Annex V.
+It shall collate and evaluate the latest scientific data, scientific research findings, modelling and cost efficiency with a view to establishing definitive policy measures by confirmation and final establishment of the Euro 5 enforcement laid down in Annex IV and the Euro 5 environmental requirements laid down in Annexe V, in Annex VI (A2), (B2) and (C2) and in Annex VII concerning Euro 5 durability mileages and deterioration factors.
+5.   Based on the findings referred to in paragraph 4, the Commission shall by 31 December 2016 present to the European Parliament and the Council a report on the following:
+(a)
+the enforcement dates of the Euro 5 level referred to in Annex IV;
+(b)
+the Euro 5 emission limits referred to in Annex VI (A2) and the OBD thresholds in Annex VI (B2);
+(c)
+that all new types of vehicles in (sub-)categories L3e, L5e, L6e-A and L7e-A shall, in addition to OBD stage I, also be equipped with OBD stage II at the Euro 5 level;
+(d)
+the durability mileages for the Euro 5 level referred to in Annex VII (A) and the deterioration factors for the Euro 5 level referred to in Annex VII (B).
+The Commission shall make any appropriate legislative proposals in the light of that report.
+6.   Basing itself on the results of the environmental effect study, the Commission shall adopt a delegated act in accordance with Article 75 determining which of the (sub-)categories L1e-A, L1e-B, L2e, L5e-B, L6e-B, L7e-B and L7e-C for the Euro 5 level are to be subject to SHED testing or to fuel tank and tubing permeation testing, with the test limits listed in Annex VI (C2).
+7.   Manufacturers shall ensure that L- category vehicles comply with the applicable test requirements regarding environmental performance for approval and extensions as laid down in Annex V (A).
+8.   With regards to test type I, the relevant emission limit for L3e-AxE (Enduro, x = 1, 2 or 3) and L3e-AxT (Trial, x = 1, 2 or 3) motorcycles shall be the sum of L2 (THC) and L3 (NOx) of Annex VI (A). The emission test results (NOx + THC) shall be smaller than or equal to this limit (L2 + L3).
+9.   Vehicles of category L4e shall meet the environmental requirements laid down in Annex V for vehicles of category L3e, whereby for test types I, IV, VII and VIII of Annex V either the complete assembly of the base powered vehicle is tested with the sidecar being fitted or only the base powered vehicle without the side car being fitted as appropriate.
+10.   Manufacturers shall ensure that all replacement pollution control devices placed on the market or at the entry into service in the Union, are type-approved in accordance with this Regulation.
+11.   The requirements referred to in paragraphs 1 to 10 shall apply to vehicles, systems, components and separate technical units in accordance with Annex II.
+12.   In order to ensure a high level of environmental protection, the Commission shall be empowered to adopt delegated acts in accordance with Article 75 concerning the detailed technical specifications on environmental requirements for the subjects referred to in paragraphs 1, 2, 3, 6 and 7 of this Article including test procedures.

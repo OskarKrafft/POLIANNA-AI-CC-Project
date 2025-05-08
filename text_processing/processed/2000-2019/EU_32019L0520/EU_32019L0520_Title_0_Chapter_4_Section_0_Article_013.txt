@@ -1,0 +1,8 @@
+Article 13
+Single continuous service
+Member States shall take the measures necessary to ensure that EETS is provided to EETS users as a single continuous service.
+This means that:
+(a)
+once the vehicle classification parameters, including the variable ones, have been stored or declared, or both, no further in-vehicle human intervention is required during a journey unless there is a modification to the vehicle's characteristics; and
+(b)
+human interaction with a particular piece of OBE stays the same whatever the EETS domain.

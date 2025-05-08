@@ -1,0 +1,73 @@
+Article 2
+Amendments to Regulation (EU) 2021/1060
+Regulation (EU) 2021/1060 is amended as follows:
+(1)
+in Article 90(2), the following subparagraph is added:
+
+                              ‘An additional 0,5 % pre-financing shall be paid in 2022 immediately following the entry into force of this Regulation and an additional 0,5 % pre-financing shall be paid in 2023 for programmes supported by the ERDF, ESF+ or the Cohesion Fund under the Investment for jobs and growth goal. Where a programme is adopted after 31 December 2022, the 2022 instalment shall be paid in the year of adoption.’;
+(2)
+in Article 90(5), the first subparagraph is replaced with the following:
+‘5.   The amount paid as pre-financing for the years 2021 and 2022, with the exception of the additional pre-financing referred to in the third subparagraph of paragraph 2 of this Article, shall be cleared from the Commission accounts each year. All other amounts paid as pre-financing shall be cleared from the Commission accounts no later than with the final accounting year in accordance with Article 100.’;
+(3)
+in Article 112, the following paragraph is added:
+‘7.   Where a separate priority is established within a programme to support operations promoting the socioeconomic integration of third country nationals, a co-financing rate of up to 100 % shall be applied to expenditure declared in payment applications until the end of the accounting year ending on 30 June 2024. After that date, the co-financing rate set out in the programme in accordance with the maximum co-financing rates listed under paragraphs 3 and 4 shall apply.
+The total amount programmed under such priorities in a Member State shall not exceed 5 % of the initial national allocation from the ERDF and the ESF+ combined.
+The Commission shall review the co-financing rate by 30 June 2024.
+At least 30 % of the financial allocation of such a separate priority shall be attributed to operations which have beneficiaries that are local authorities or civil society organisations operating in local communities. Member States shall report on the fulfilment of that condition in the final performance report required under Article 43. Where that condition is not fulfilled, reimbursement by the Commission under the priority concerned shall be reduced proportionately to ensure that that condition is respected when calculating the final balance to be paid to the programme.’;
+(4)
+the following article is inserted:
+‘Article 118a
+Conditions for operations subject to phased implementation that were selected for support before 29 June 2022 under Regulation (EU) No 1303/2013
+1.   Notwithstanding Article 118, where an operation with a total cost exceeding EUR 1 000 000 was selected for support and started before 29 June 2022 under Regulation (EU) No 1303/2013 and Fund-specific Regulations (EU) No 1301/2013 (*3), (EU) No 1304/2013 (*4), (EU) No 1300/2013 (*5), (EU) No 1299/2013 (*6) and (EU) No 508/2014 (*7) of the European Parliament and of the Council, that operation shall be deemed eligible for support under this Regulation and the corresponding Fund-specific Regulations in the 2021–2027 programming period.
+By way of derogation from Article 73(1) and (2), the managing authority may decide to grant support to such an operation under this Regulation directly, provided that the following conditions are met:
+(a)
+the operation has two phases that are identifiable from a financial point of view with separate audit trails;
+(b)
+the operation falls within actions programmed under a relevant specific objective and is attributed to a type of intervention in accordance with Annex I;
+(c)
+expenditure included in a payment application in relation to the first phase is not included under any payment applications in relation to the second phase;
+(d)
+the Member State commits to complete during the programming period and render operational the second and final phase in the final implementation report, or in the context of the European Maritime and Fisheries Fund in the last annual implementation report, submitted in accordance with Article 141 of Regulation (EU) No 1303/2013.
+2.   This Article shall not apply to operations addressing migratory challenges resulting from the military aggression by the Russian Federation that are supported by making use of the possibility provided under the first and second subparagraphs of Article 98(4) of Regulation (EU) No 1303/2013.
+
+(*3)  Regulation (EU) No 1301/2013 of the European Parliament and of the Council of 17 December 2013 on the European Regional Development Fund and on specific provisions concerning the Investment for growth and jobs goal and repealing Regulation (EC) No 1080/2006 (OJ L 347, 20.12.2013, p. 289)."
+                        
+
+(*4)  Regulation (EU) No 1304/2013 of the European Parliament and of the Council of 17 December 2013 on the European Social Fund and repealing Council Regulation (EC) No 1081/2006 (OJ L 347, 20.12.2013, p. 470)."
+                        
+
+(*5)  Regulation (EU) No 1300/2013 of the European Parliament and of the Council of 17 December 2013 on the Cohesion Fund and repealing Council Regulation (EC) No 1084/2006 (OJ L 347, 20.12.2013, p. 281)."
+                        
+
+(*6)  Regulation (EU) No 1299/2013 of the European Parliament and of the Council of 17 December 2013 on specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal (OJ L 347, 20.12.2013, p. 259)."
+                        
+
+(*7)  Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).’;"
+                        
+(5)
+in Annex I, the following lines are added at the end of Table 1:
+INTERVENTION FIELD 3
+
+Coefficient for the calculation of support to climate change objectives
+Coefficient for the calculation of support to environmental objectives
+‘Other codes related to operations subject to phased implementation pursuant to Article 118a
+183
+Household waste management: landfill
+0  %
+100  %
+184
+Electricity storage and transmission
+100  %
+40  %
+185
+Natural gas: storage, transmission and distribution
+0  %
+0  %
+186
+Airports
+0  %
+0  %
+187
+Productive investment in large enterprises linked to the low-carbon economy
+40  %
+0  %’

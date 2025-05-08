@@ -1,0 +1,42 @@
+Article 21
+Monitoring
+1.   Member States shall ensure that competent authorities or appropriate bodies monitor:
+(a)
+discharges from urban wastewater treatment plants in order to verify compliance with the requirements of Part B of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I; that monitoring shall include loads and concentrations of the parameters listed in Part B of Annex I;
+(b)
+the amounts, composition and destination of sludge, taking into account the requirements of Directive 86/278/EEC for sludge intended to be used in agriculture;
+(c)
+the quantities per year and per month of urban wastewater reused for agricultural irrigation that is subject to a derogation referred to in Article 15(1); the nutrient content of the fraction of reused urban wastewater for agricultural irrigation and the period during which that fraction is reused compared to the monthly water and nutrient demand of the crops targeted by that reused urban wastewater;
+(d)
+the GHGs, including at least CO2, N2O, CH4, emitted from urban wastewater treatment plants of 10 000 p.e. and above by means of analysis, calculations or modelling where appropriate;
+(e)
+the energy used and produced by the owners of urban wastewater treatment plants treating a load of 10 000 p.e. and above, or by the operators of such plants, regardless of whether it is used or generated on-site or off-site, in line with the requirements referred to in Article 11(2), as well as the energy purchased under the derogations referred to in Article 11(3) and (4).
+2.   For all agglomerations referred to in Article 5(1) and (3), Member States shall ensure that competent authorities, appropriate bodies or operators of the collecting system carry out representative monitoring, at relevant points, of storm water overflows into water bodies and of discharges of urban runoff from separate systems, in order to estimate the concentration and loads of the parameters listed in Table 1 of Annex I, and, where relevant, in Table 2, as well as the content of microplastics and relevant pollutants. Member States may use the results of that monitoring for the purposes of modelling where appropriate.
+3.   For all agglomerations of 10 000 p.e. and above, Member States shall ensure that competent authorities or appropriate bodies monitor, at the inlets and outlets of urban wastewater treatment plants, the concentration and loads in the urban wastewater of the following elements:
+(a)
+pollutants that are likely to be found in urban wastewater listed in:
+(i)
+Annexes VIII and X to Directive 2000/60/EC, Annex I to Directive 2008/105/EC, Annex I to Directive 2006/118/EC and Part B of Annex II to Directive 2006/118/EC;
+(ii)
+the Annex to Decision 2455/2001/EC of the European Parliament and of the Council (42);
+(iii)
+Annex II to Regulation (EC) No 166/2006;
+(iv)
+Annexes I and II to Directive 86/278/EEC;
+(b)
+parameters listed in Part B of Annex III to Directive (EU) 2020/2184, where urban wastewater is discharged into a catchment area referred to in Article 8 of that Directive, under which, for per- and polyfluoroalkyl substances (PFAS), Member States can choose to use one or both of the parameters ‘PFAS Total’ and ‘Sum of PFAS’ when a methodology is available in accordance with the implementing act referred to in paragraph 5;
+(c)
+parameters listed in Annex I to Directive 2006/7/EC where there are direct discharges from urban wastewater treatment plants into bathing water during the bathing season which might prevent compliance with Directive 2006/7/EC;
+(d)
+the presence of microplastics.
+The pollutants and parameters referred to in points (a) and (b) may be excluded from the monitoring referred to in this paragraph as long as it can be demonstrated, inter alia on the basis of monitoring results, that they are absent in urban wastewater.
+For all agglomerations of above 10 000 p.e., Member States shall ensure that competent authorities or appropriate bodies monitor the presence of microplastics in the sludge when relevant and, in particular, when it is reused in agriculture.
+The monitoring referred to in this paragraph shall be carried out at the following frequencies:
+(a)
+at least two samples per year, with a maximum of 6 months between the samples, for agglomerations of 150 000 p.e. and above;
+(b)
+at least one sample every two years for agglomerations of between 10 000 p.e. and 150 000 p.e.
+Those monitoring frequencies may be halved in subsequent years if the monitoring results for the pollutants referred to in this paragraph are below applicable environmental quality standards under Directive 2008/105/EC in three successive samples. The monitoring frequencies should be reviewed at least every year.
+4.   The Commission is empowered to adopt implementing acts in order to establish methodologies for measuring, estimating and modelling direct and indirect GHG emissions from urban wastewater treatment plants, and microplastics in urban wastewater and sludge. Those implementing acts shall be adopted by 2 July 2027 in accordance with the examination procedure referred to in Article 28(2).
+5.   The Commission shall adopt implementing acts in order to establish a methodology for measuring ‘PFAS Total’ and ‘Sum of PFAS’ in urban wastewater. Those implementing acts shall be adopted by 2 January 2027 in accordance with the examination procedure referred to in Article 28(2).
+6.   On the basis of the report of the Member States, the Commission may adopt implementing acts in order to specify a minimum list of relevant pollutants likely to be found in urban wastewater and to develop a methodology for identifying relevant pollutants likely to be found in urban wastewater, taking into account the local conditions and the risk assessment carried out under relevant Union law as well as criteria and frequency for revising the exclusion of some pollutants as set out in paragraph 3, second subparagraph, of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).

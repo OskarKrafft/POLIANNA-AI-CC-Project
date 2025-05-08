@@ -1,0 +1,16 @@
+Article 10
+Ship risk profile
+1.   All ships calling at a port or anchorage of a Member State shall, in the inspection database, be attributed a ship risk profile which determines their respective priority for inspection, the intervals between the inspections and the scope of inspections.
+2.   The risk profile of a ship shall be determined by a combination of generic and historical risk parameters as follows:
+(a)
+Generic parameters
+Generic parameters shall be based on the type, age, flag, recognised organisations involved and company performance in accordance with Annex I, Part I.1 and Annex II.
+(b)
+Historical parameters
+Historical parameters shall be based on the number of deficiencies and detentions during a given period in accordance with Annex I, Part I.2 and Annex II.
+3.   The measures designed to amend non-essential elements of this Directive, by supplementing it, relating to the rules for the implementation of this Article, in particular:
+(a)
+the flag State criteria;
+(b)
+the company performance criteria;
+shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 31(3) and building upon the expertise of the Paris MOU.

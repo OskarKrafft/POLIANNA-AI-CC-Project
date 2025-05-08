@@ -1,0 +1,34 @@
+Article 34
+Governance of security
+1.   The Commission shall, in its field of competence and with the support of the Agency, ensure a high degree of security with regard, in particular, to:
+(a)
+the protection of infrastructure, both ground and space, and of the provision of services, particularly against physical or cyber-attacks, including interference with data streams;
+(b)
+the control and management of technology transfers;
+(c)
+the development and preservation within the Union of the competences and know-how acquired;
+(d)
+the protection of sensitive non-classified information and classified information.
+2.   For the purpose of paragraph 1 of this Article, the Commission shall ensure that a risk and threat analysis is performed for each of the Programme’s components. Based on that analysis, it shall determine by the end of 2023, by means of implementing acts, for each of the Programme’s components, the general security requirements. In doing so, the Commission shall take account of the impact of those requirements on the smooth functioning of that component, in particular in terms of cost, risk management and schedule, and shall ensure that the general level of security is not reduced and that the functioning of the existing equipment based on that component is not undermined and shall take into account cybersecurity risks. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).
+After the entry into force of this Regulation, the Commission shall communicate an indicative list of implementing acts to be submitted to and discussed by the Programme committee in security configuration. That list shall be accompanied by an indicative timetable for submission of those implementing acts.
+3.   The entity responsible for the management of a component of the Programme shall be responsible for the operational security of that component and shall, to that end, carry out risk and threat analysis and all the necessary activities to ensure and monitor the security of that component, in particular setting of technical specifications and operational procedures, and monitor their compliance with the general security requirements referred to in paragraph 2 of this Article. Pursuant to Article 29, for Galileo and EGNOS that entity shall be the Agency.
+4.   Based on the risk and threat analysis, the Commission shall, where appropriate, identify a structure to monitor security and to follow the instructions developed under the scope of Decision (CFSP) 2021/698. The structure shall operate in accordance with the security requirements referred to in paragraph 2. For Galileo, that structure shall be the Galileo Security Monitoring Centre.
+5.   The Agency shall:
+(a)
+ensure the security accreditation of all the Programme’s components in accordance with Chapter II of this Title and without prejudice to the competences of the Member States;
+(b)
+ensure the operation of the Galileo Security Monitoring Centre in accordance with the requirements referred to in paragraph 2 of this Article and the instructions developed under the scope of Decision (CFSP) 2021/698;
+(c)
+perform the tasks assigned to it under Decision No 1104/2011/EU;
+(d)
+provide the Commission with its technical expertise and supply any information necessary for the performance of its tasks under this Regulation.
+6.   To ensure the protection of the ground infrastructures which form an integral part of the Programme and which are located on their territory the Member States shall:
+(a)
+take measures which are at least equivalent to those necessary for:
+(i)
+the protection of European critical infrastructures within the meaning of Council Directive 2008/114/EC (44); and
+(ii)
+the protection of their own national critical infrastructures;
+(b)
+perform the security accreditation tasks referred to in Article 42 of this Regulation.
+7.   The entities involved in the Programme shall take all the necessary measures, including in light of the issues identified in the risk analysis, to ensure the security of the Programme.

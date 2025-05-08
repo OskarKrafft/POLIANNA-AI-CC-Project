@@ -1,0 +1,15 @@
+Article 3
+Definitions
+For the purposes of this Directive:
+(a) "AOT 40" means the sum of the difference between hourly concentrations of ground-level ozone greater than 80 μg/m3 (= 40 ppb) and 80 μg/m3 during daylight hours accumulated from May to July each year;
+(b) "AOT 60" means the sum of the difference between hourly concentrations of ground-level ozone greater than 120 μg/m3 (=60 ppb) and 120 μg/m3 accumulated throughout the year;
+(c) "critical load" means a quantitative estimate of an exposure to one or more pollutants below which significant adverse effects on specified sensitive elements of the environment do not occur, according to present knowledge;
+(d) "critical level" means the concentration of pollutants in the atmosphere above which direct adverse effects on receptors, such as human beings, plants, ecosystems or materials, may occur, according to present knowledge;
+(e) "emission" means the release of a substance from a point or diffuse source into the atmosphere;
+(f) "grid cell" means a square 150 km x 150 km, which is the resolution used when mapping critical loads on a European scale, and also when monitoring emissions and depositions of air pollutants under the Cooperative Programme for Monitoring and Evaluation of the long-range Transmission of Air Pollutants in Europe (EMEP);
+(g) "landing and take-off cycle" means a cycle represented by the following time in each operating mode: approach 4,0 minutes; taxi/ground idle 26,0 minutes, take-off 0,7 minutes; climb 2,2 minutes;
+(h) "national emission ceiling" means the maximum amount of a substance expressed in kilotonnes, which may be emitted from a Member State in a calendar year;
+(i) "nitrogen oxides" and "NOx" mean nitric oxide and nitrogen dioxide, expressed as nitrogen dioxide;
+(j) "ground-level ozone" means ozone in the lowermost part of the troposphere;
+(k) "volatile organic compounds" and "VOC" mean all organic compounds arising from human activities, other than methane, which are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight.
+

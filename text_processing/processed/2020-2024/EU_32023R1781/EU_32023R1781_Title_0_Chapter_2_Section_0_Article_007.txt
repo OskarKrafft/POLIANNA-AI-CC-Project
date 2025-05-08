@@ -1,0 +1,75 @@
+Article 7
+European chips infrastructure consortiums
+1.   For the purpose of implementing actions funded under the Initiative, a legal entity may be established in the form of a European chips infrastructure consortium (ECIC) in accordance with this Article. More than one ECIC may be established.
+2.   An ECIC shall:
+(a)
+have legal personality from the date of entry into force of the Commission implementing act referred to in paragraph 5;
+(b)
+have, in each Member State concerned, the most extensive legal capacity accorded to legal entities under the national law of that Member State and, in particular, the capacity to acquire, own and dispose of movable property, immovable property and IP, conclude contracts and be a party to legal proceedings;
+(c)
+have a single statutory seat, which shall be located on the territory of a Member State;
+(d)
+be established by at least three members (founding members), namely Member States, or public or private legal entities from at least three Member States, or a combination thereof, with a view to achieving broad representation across the Union;
+(e)
+ensure that, following the adoption of the implementing act referred to in paragraph 5 establishing the ECIC, other Member States may join it as members at any time, that other public or private legal entities may join it as members at any time on fair and reasonable terms specified in the statutes of the ECIC and that Member States that do not provide a financial or a non-financial contribution may join it as observers without voting rights, by notifying the ECIC;
+(f)
+appoint a coordinator.
+3.   The coordinator of a potential ECIC shall, on behalf of all of the founding members, submit an application to the Commission in writing. That application shall contain the following:
+(a)
+a request to the Commission to establish an ECIC, including a list of founding members that are forming the consortium;
+(b)
+a description of the principal tasks, activities and necessary resources needed to complete the actions set out in the application;
+(c)
+the draft statutes of the ECIC, which shall include at least the following elements:
+(i)
+the duration of and procedure for winding-up in accordance with Article 10;
+(ii)
+the liability regime in accordance with Article 8;
+(iii)
+the statutory seat and name of the ECIC;
+(iv)
+the scope of the ECIC’s tasks and activities;
+(v)
+the membership, including the conditions of and procedure for changes in membership;
+(vi)
+the budget, including the arrangements for financial and in-kind contributions from its members;
+(vii)
+ownership of the results;
+(viii)
+governance, including the decision-making process and specific roles;
+(ix)
+if applicable, voting rights;
+(d)
+a declaration by the host Member State on whether it recognises the ECIC as an international body within the meaning of Article 143(1), point (g), and Article 151(1), point (b), of Directive 2006/112/EC, and as an international organisation within the meaning of Article 11(1), point (b), of Directive (EU) 2020/262, from its date of establishment, subject to limits and conditions of the exemptions provided for in those provisions, which shall be laid down in an agreement between the members of the ECIC;
+(e)
+a description detailing how the actions taken by the ECIC are to contribute to the relevant objectives set out in Article 4, including an overview of the expected impact of potential public funding;
+(f)
+a statement to the effect that the ECIC is to carry out its activities in accordance with sound budgetary principles for the exercise of its financial responsibility.
+4.   The Commission shall assess the applications on the basis of all of the following criteria:
+(a)
+the appropriate competences, know-how and capabilities of the proposed founding members of the ECIC on semiconductors;
+(b)
+the appropriate management capacity, staff and resources necessary to carry out its statutory purpose;
+(c)
+the operational and legal means to apply the administrative, contractual and financial management rules laid down at Union level;
+(d)
+the appropriate financial viability corresponding to the level of Union funds it will be called upon to manage and demonstrated, where appropriate, through accounting documents and bank statements;
+(e)
+the contributions of the members of the ECIC that would be made available to the ECIC, and related arrangements;
+(f)
+the openness of the ECIC to new members;
+(g)
+the ability of the ECIC to ensure coverage of the needs of the Union’s semiconductor value chain, including start-ups and SMEs;
+(h)
+the contribution to the relevant objectives set out in Article 4 of the action proposed to be implemented, in particular its contribution to ensuring the long-term competitiveness of the Union’s semiconductor sector.
+5.   The Commission shall adopt an implementing act on the basis of the criteria set out in paragraph 4 either recognising an applicant as an ECIC or rejecting the application. The Commission shall notify the founding members accordingly. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 38(2).
+6.   The implementing act establishing the ECIC shall be published in the Official Journal of the European Union.
+7.   Amendments to the statutes of the ECIC shall comply with and contribute to the objectives of this Regulation. The ECIC shall notify such amendments to the Commission within 10 days of adoption. The notifications shall contain the following:
+(a)
+the text of the amendments proposed or, where appropriate, adopted, including the date on which they enter into force; and
+(b)
+the amended consolidated version of the statutes of the ECIC.
+The Commission may object to such amendments within 60 days of receipt of such notification, giving reasons why the amendments do not meet the requirements of this Regulation.
+The amendments shall take effect after expiry of the period referred to in the second subparagraph, after the Commission has waived its right to object or after the Commission has revoked its objection.
+8.   An ECIC shall produce an annual activity report, containing a technical description of its activities and a financial statement. The annual activity report shall include an assessment of the environmental and social impact of the actions funded and shall be transmitted to the Commission and made publicly available. The Commission may provide recommendations regarding the matters covered in the annual activity report. The Commission shall send the ECICs’ annual activity reports to the European Parliament and to the European Semiconductor Board without undue delay.
+9.   Where a Member State considers that the ECIC has refused to accept a new member to the consortium without providing sufficient reasons for such a refusal on the basis of the fair and reasonable terms specified in its statutes, that Member State may bring the matter to the attention of the Public Authorities Board of the Chips Joint Undertaking. The Public Authorities Board of the Chips Joint Undertaking shall, if necessary, recommend that the ECIC take remedial action, such as an amendment to its statutes, in accordance with Article 137, point (f), of Regulation (EU) 2021/2085.

@@ -1,0 +1,16 @@
+Article 56
+SST users
+1.   Union SST users shall comprise:
+(a)
+SST core users: Member States, the EEAS, the Commission, the Council, the Agency as well as public and private spacecraft owners and operators established in the Union;
+(b)
+SST non-core users: other public and private entities established in the Union.
+SST core users shall have access to all SST services referred to in Article 55(1).
+SST non-core users may have access to SST services referred to in points (b), (c) and (d) of Article 55(1).
+2.   International SST users shall comprise third countries, international organisations which do not have their headquarters in the Union and private entities which are not established in the Union. They shall have access to SST services referred to in point (d) of Article 55(1) under the following conditions:
+(a)
+third countries and international organisations which do not have their headquarters in the Union may have access to SST services pursuant to Article 8(2);
+(b)
+private entities which are not established in the Union may have access to SST services subject to an international agreement concluded by the Union, in accordance with Article 8(2), with the third country in which they are established granting them that access.
+No international agreement shall be required to access publicly available SST services referred to in points (a), (b) and (c) of Article 55(1).
+3.   The Commission may adopt, by means of implementing acts, detailed provisions concerning the access to SST services and relevant procedures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).

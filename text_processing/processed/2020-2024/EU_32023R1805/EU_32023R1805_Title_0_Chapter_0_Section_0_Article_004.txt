@@ -1,0 +1,18 @@
+Article 4
+GHG intensity limit on energy used on board by a ship
+1.   The yearly average GHG intensity of the energy used on board by a ship during a reporting period shall not exceed the limit set out in paragraph 2.
+2.   The limit referred to in paragraph 1 shall be calculated by reducing the reference value of 91,16 grams of CO2 equivalent per MJ by the following percentage:
+—
+2 % from 1 January 2025;
+—
+6 % from 1 January 2030;
+—
+14,5 % from 1 January 2035;
+—
+31 % from 1 January 2040;
+—
+62 % from 1 January 2045;
+—
+80 % from 1 January 2050.
+3.   The GHG intensity of the energy used on board by a ship shall be calculated as the amount of GHG emissions per unit of energy in accordance with the methodology set out in Annex I.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 28 to amend Annex II in order to include the well-to-wake emission factors related to any new sources of energy or to adapt the existing emission factors to ensure consistency with future international standards or Union legal acts in the field of energy, in accordance with the best available scientific and technical knowledge.

@@ -1,0 +1,11 @@
+Article 21
+Obligations of the TAB receiving a request for a European Technical Assessment
+1.   The TAB receiving a request for a European Technical Assessment shall inform the manufacturer if the construction product is covered, fully or partially, by a harmonised technical specification as follows:
+(a)
+where the product is fully covered by a harmonised standard, the TAB shall inform the manufacturer that, in accordance with Article 19(1), a European Technical Assessment cannot be issued;
+(b)
+where the product is fully covered by a European Assessment Document, the TAB shall inform the manufacturer that such a document will be used as the basis for the European Technical Assessment to be issued;
+(c)
+where the product is not covered, or not fully covered, by any harmonised technical specification, the TAB shall apply the procedures set out in Annex II or those established in accordance with Article 19(3).
+2.   In the cases referred to in points (b) and (c) of paragraph 1, the TAB shall inform the organisation of TABs and the Commission of the content of the request and of the reference to a relevant Commission decision for assessment and verification of constancy of performance, which the TAB intends to apply for that product, or of the lack of such a Commission decision.
+3.   If the Commission considers that an appropriate decision for assessment and verification of constancy of performance does not exist for the construction product, Article 28 shall apply.

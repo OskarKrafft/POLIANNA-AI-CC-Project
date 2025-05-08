@@ -1,0 +1,18 @@
+Article 20
+Entitlement to a smart meter for natural gas
+1.   Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in Article 17(2) and where smart metering systems are not systematically deployed, Member States shall ensure that customers are entitled, on request, while bearing the associated costs, to have installed or, where applicable, to have upgraded, under fair, reasonable and cost-effective conditions, a smart meter that:
+(a)
+is equipped, where technically feasible, with the functionalities referred to in Article 19, or with a minimum set of functionalities to be established and published by Member States at national level in accordance with Annex II;
+(b)
+is interoperable and able to deliver the desired connectivity of the metering infrastructure with consumer energy management systems.
+2.   Where a customer requests the installation of a smart meter pursuant to paragraph 1, Member States or, where Member States have so provided, the designated competent authorities shall:
+(a)
+ensure that the offer to the customer requesting the installation of a smart meter explicitly states and clearly describes:
+(i)
+the functions and interoperability that can be supported by the smart meter and the services that can be provided as well as the benefits that can be realistically attained by having that smart meter at that moment in time;
+(ii)
+any associated costs to be borne by the customer;
+(b)
+ensure that the smart meter is installed within a reasonable time, and in any event no later than four months after the customer’s request;
+(c)
+regularly, and in any event at least every two years, review and make public the associated costs, and trace the evolution of those costs as a result of technology developments and potential metering system upgrades.

@@ -1,0 +1,11 @@
+Article 23
+Restrictions on the issuance of asset-referenced tokens used widely as a means of exchange
+1.   Where, for an asset-referenced token, the estimated quarterly average number and average aggregate value of transactions per day associated to its uses as a means of exchange within a single currency area is higher than 1 million transactions and EUR 200 000 000, respectively, the issuer shall:
+(a)
+stop issuing that asset-referenced token; and
+(b)
+within 40 working days of reaching that threshold, submit a plan to the competent authority to ensure that the estimated quarterly average number and average aggregate value of those transactions per day is kept below 1 million transactions and EUR 200 000 000 respectively.
+2.   The competent authority shall use the information provided by the issuer, its own estimates, or the estimates provided by the ECB or, where applicable, by the central bank referred to in Article 20(4), whichever is higher, in order to assess whether the threshold referred to in paragraph 1 is reached.
+3.   Where several issuers issue the same asset-referenced token, the criteria referred in paragraph 1 shall be assessed by the competent authority after aggregating the data from all issuers.
+4.   The issuer shall submit the plan referred to in paragraph 1, point (b), for approval to the competent authority. Where necessary, the competent authority shall require modifications, such as imposing a minimum denomination amount, in order to ensure a timely decrease of the use as a means of exchange of the asset-referenced token.
+5.   The competent authority shall only allow the issuer to issue the asset-referenced token again when it has evidence that the estimated quarterly average number and average aggregated value of transactions per day associated to its uses as a means of exchange within a single currency area is lower than 1 million transactions and EUR 200 000 000 respectively.

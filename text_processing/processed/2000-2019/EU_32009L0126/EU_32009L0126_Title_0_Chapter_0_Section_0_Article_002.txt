@@ -1,0 +1,21 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+1.
+‘petrol’ means petrol as defined in Article 2(a) of Directive 94/63/EC;
+2.
+‘petrol vapour’ means any gaseous compound which evaporates from petrol;
+3.
+‘service station’ means a service station as defined in Article 2(f) of Directive 94/63/EC;
+4.
+‘existing service station’ means a service station which is built or for which an individual planning permission, construction licence or operating licence is granted before 1 January 2012;
+5.
+‘new service station’ means a service station which is built or for which an individual planning permission, construction licence or operating licence is granted on or after 1 January 2012;
+6.
+‘Stage II petrol vapour recovery system’ means equipment aimed at recovering the petrol vapour displaced from the fuel tank of a motor vehicle during refuelling at a service station and which transfers that petrol vapour to a storage tank at the service station or back to the petrol dispenser for resale;
+7.
+‘petrol vapour capture efficiency’ means the amount of petrol vapour captured by the Stage II petrol vapour recovery system compared to the amount of petrol vapour that would otherwise be emitted to the atmosphere in the absence of such a system and expressed as a percentage;
+8.
+‘vapour/petrol ratio’ means the ratio between the volume at atmospheric pressure of petrol vapour passing through the Stage II petrol vapour recovery system and the volume of petrol dispensed;
+9.
+‘throughput’ means the total annual quantity of petrol unloaded from mobile containers into a service station.

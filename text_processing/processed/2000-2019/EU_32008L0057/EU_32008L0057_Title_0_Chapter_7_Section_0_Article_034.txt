@@ -1,0 +1,18 @@
+Article 34
+European register of authorised types of vehicles
+1.   The Agency shall set up and keep a register of types of vehicles authorised by the Member States for placing in service on the Community rail network. This register shall meet the following criteria:
+(a)
+it shall be public and electronically accessible;
+(b)
+it shall comply with the common specifications referred to in paragraph 4;
+(c)
+it shall be linked with all national vehicle registers.
+2.   This register shall include the following details for each type of vehicle:
+(a)
+the technical characteristics of the type of vehicle, as defined in the relevant TSIs;
+(b)
+the manufacturer's name;
+(c)
+the dates, references and Member States granting the successive authorisations for this type of vehicle, including any restrictions or withdrawals.
+3.   When an authorisation of type is granted, modified, suspended or withdrawn in a Member State, the national safety authority of this Member State shall inform the Agency, so that the latter may update the register.
+4.   Common specifications for the register shall be adopted in accordance with the regulatory procedure referred to in Article 29(3) and on the basis of draft specifications prepared by the Agency. Those draft specifications shall include content, data format, functional and technical architecture, operating mode and rules for data input and consultation.

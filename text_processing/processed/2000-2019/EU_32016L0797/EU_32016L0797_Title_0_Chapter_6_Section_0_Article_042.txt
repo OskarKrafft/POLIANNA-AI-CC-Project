@@ -1,0 +1,14 @@
+Article 42
+Obligation of notified bodies to provide information
+1.   Notified bodies shall inform the notifying authority of the following:
+(a)
+any refusal, restriction, suspension or withdrawal of a certificate;
+(b)
+any circumstances affecting the scope of, and conditions for, notification;
+(c)
+any request for information which they have received from market surveillance authorities regarding conformity assessment activities;
+(d)
+on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+The competent national safety authorities shall also be informed of any refusal, restriction, suspension or withdrawal of a certificate under point (a).
+2.   Notified bodies shall provide the other bodies notified under this Directive carrying out similar conformity assessment activities covering the same products with relevant information on issues relating to negative and, on request, positive conformity assessment results.
+3.   Notified bodies shall provide the Agency with ‘EC’ certificates of verification of subsystems, ‘EC’ certificates of conformity of interoperability constituents and ‘EC’ certificates of suitability of use of interoperability constituents.

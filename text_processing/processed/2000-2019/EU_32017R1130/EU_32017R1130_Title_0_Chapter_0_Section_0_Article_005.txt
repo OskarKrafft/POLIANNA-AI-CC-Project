@@ -1,0 +1,7 @@
+Article 5
+Engine power
+1.   The engine power shall be the total of the maximum continuous power which can be obtained at the flywheel of each engine and which can, by mechanical, electrical, hydraulic or other means, be applied to vessel propulsion. However, where a gearbox is incorporated into the engine, the power shall be measured at the gearbox output flange.
+No deduction shall be made in respect of auxiliary machines driven by the engine.
+The unit in which engine power is expressed shall be the kilowatt (kW).
+2.   The continuous engine power shall be determined in accordance with the requirements adopted by the International Organisation for Standardisation in its recommended International Standard ISO 3046/1, second edition, October 1981.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 7 concerning the amendment of paragraph 2 of this Article in order to adapt the reference to the relevant ISO International Standard to technical progress.

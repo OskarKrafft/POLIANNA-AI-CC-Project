@@ -1,0 +1,20 @@
+Article 9
+Assessment of concentrations of ozone and precursor substances in ambient air
+1. In zones and agglomerations where, during any of the previous five years of measurement, concentrations of ozone have exceeded a long-term objective, fixed continuous measurement is mandatory.
+Where fewer than five years' data are available, Member States may, to determine exceedances, combine measurement campaigns of short duration at times and locations likely to be typical of the highest pollution levels with results obtained from emission inventories and modelling.
+Annex IV sets out criteria for determining the location of sampling points for the measurement of ozone.
+Section I of Annex V sets out the minimum number of fixed sampling points for continuous measurement of ozone in each zone or agglomeration within which measurement is the sole source of information for assessing air quality.
+Measurements of nitrogen dioxide shall also be made at a minimum of 50 % of the ozone sampling points required by Section I of Annex V. Measurement of nitrogen dioxide shall be continuous, except at rural background stations, as defined in section I of Annex IV, where other measurement methods may be used.
+For zones and agglomerations within which information from sampling points for fixed measurement is supplemented by information from modelling and/or indicative measurement, the total number of sampling points specified in Section I of Annex V may be reduced, provided that:
+(a) the supplementary methods provide an adequate level of information for the assessment of air quality with regard to target values, information and alert thresholds;
+(b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of ozone to be established in accordance with the data quality objectives specified in Section I of Annex VII and lead to assessment results as specified in Section II of Annex VII;
+(c) the number of sampling points in each zone or agglomeration amounts to at least one sampling point per two million inhabitants or one sampling point per 50000 km², whichever produces the greater number of sampling points;
+(d) each zone or agglomeration contains at least one sampling point, and
+(e) nitrogen dioxide is measured at all remaining sampling points except at rural background stations.
+In this case, the results of modelling and/or indicative measurement shall be taken into account for the assessment of air quality with respect to the target values.
+2. In zones and agglomerations where, during each of the previous five years of measurement, concentrations are below the long-term objectives, the number of continuous measurement stations shall be determined in accordance with Section II of Annex V.
+3. Each Member State shall ensure that at least one measuring station to supply data on concentrations of the ozone precursor substances listed in Annex VI is installed and operated in its territory. Each Member State shall choose the number and siting of the stations at which ozone precursor substances are to be measured, taking into account the objectives, methods and recommendations laid down in the said Annex.
+As part of the guidance developed under Article 12, guidelines for an appropriate strategy to measure ozone precursor substances shall be laid down, taking into account existing requirements in Community legislation and the cooperative programme for monitoring and evaluation of the long-range transmission of air pollutants in Europe (EMEP).
+4. Reference methods for analysis of ozone are set out in Section I of Annex VIII. Section II of Annex VIII provides for reference modelling techniques for ozone.
+5. Any amendments necessary to adapt this Article and Annexes IV to VIII to scientific and technical progress shall be adopted in accordance with the procedure laid down in Article 13(2).
+

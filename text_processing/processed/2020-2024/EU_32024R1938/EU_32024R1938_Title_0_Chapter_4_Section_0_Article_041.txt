@@ -1,0 +1,20 @@
+Article 41
+Activity data collection and reporting
+1.   SoHO entities shall collect and report data relating to any of the following SoHO activities:
+(a)
+SoHO donor registration;
+(b)
+collection;
+(c)
+distribution;
+(d)
+import;
+(e)
+export;
+(f)
+human application.
+2.   The data collected pursuant to paragraph 1 shall comprise the data set indicated on the EU SoHO Platform.
+3.   The Commission shall adopt implementing acts laying down technical procedures for setting and updating the list of data sets to be reported to ensure uniformity and compatibility and comparability of the annual activity data reports, and for extraction, submission and publication of activity data.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+4.   SoHO entities shall submit to the EU SoHO Platform an annual report of the data collected pursuant to this Article before 30 June of the subsequent year.
+5.   By way of derogation from paragraph 4 of this Article, where Member States require SoHO entities to report activity data as referred to in Article 31(2), the SoHO entities shall submit their annual report of activity data to the indicated registries before 30 June of the subsequent year.

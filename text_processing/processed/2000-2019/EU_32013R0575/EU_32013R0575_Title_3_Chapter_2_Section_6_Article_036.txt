@@ -1,0 +1,50 @@
+Article 36
+Deductions from Common Equity Tier 1 items
+1.   Institutions shall deduct the following from Common Equity Tier 1 items:
+(a)
+losses for the current financial year;
+(b)
+intangible assets;
+(c)
+deferred tax assets that rely on future profitability;
+(d)
+for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), negative amounts resulting from the calculation of expected loss amounts laid down in Articles 158 and 159;
+(e)
+defined benefit pension fund assets on the balance sheet of the institution;
+(f)
+direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
+(g)
+direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
+(h)
+the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
+(i)
+the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 instruments of financial sector entities where the institution has a significant investment in those entities;
+(j)
+the amount of items required to be deducted from Additional Tier 1 items pursuant to Article 56 that exceeds the Additional Tier 1 capital of the institution;
+(k)
+the exposure amount of the following items which qualify for a risk weight of 1 250 %, where the institution deducts that exposure amount from the amount of Common Equity Tier 1 items as an alternative to applying a risk weight of 1 250 %:
+(i)
+qualifying holdings outside the financial sector;
+(ii)
+securitisation positions, in accordance with Article 243(1)(b), Article 244(1)(b) and Article 258;
+(iii)
+free deliveries, in accordance with Article 379(3);
+(iv)
+positions in a basket for which an institution cannot determine the risk weight under the IRB Approach, in accordance with Article 153(8);
+(v)
+equity exposures under an internal models approach, in accordance with Article 155(4).
+(l)
+any tax charge relating to Common Equity Tier 1 items foreseeable at the moment of its calculation, except where the institution suitably adjusts the amount of Common Equity Tier 1 items insofar as such tax charges reduce the amount up to which those items may be used to cover risks or losses.
+2.   EBA shall develop draft regulatory technical standards to specify the application of the deductions referred to in points (a), (c), (e), (f), (h), (i) and (l) of paragraph 1 of this Article and related deductions referred to in points (a), (c), (d) and (f) of Article 56 and points (a), (c) and (d) of Article 66.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+3.   EBA shall develop draft regulatory technical standards to specify the types of capital instruments of financial institutions and, in consultation with the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010
+                                  (26), of third country insurance and reinsurance undertakings, and of undertakings excluded from the scope of Directive 2009/138/EC in accordance with Article 4 of that Directive that shall be deducted from the following elements of own funds:
+(a)
+Common Equity Tier 1 items;
+(b)
+Additional Tier 1 items;
+(c)
+Tier 2 items.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

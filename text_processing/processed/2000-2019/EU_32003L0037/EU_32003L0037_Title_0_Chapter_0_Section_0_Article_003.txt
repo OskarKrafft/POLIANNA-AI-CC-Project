@@ -1,0 +1,10 @@
+Article 3
+Application for EC type-approval
+1. The manufacturer shall submit an application for vehicle EC type-approval to the approval authority of a Member State. It shall be accompanied by an information folder containing the information required by Annex I.
+With regard to the EC type-approval of systems, components and separate technical units, the information folder shall also be made available to the EC type-approval authority until EC type-approval is granted or refused.
+2. In the case of multi-stage EC type-approval, the information to be supplied shall consist of:
+(a) at stage one: those parts of the information folder and the EC type-approval certificates required for a complete vehicle which correspond to the state of completion of the base vehicle;
+(b) at the second and subsequent stages: those parts of the information folder and the EC type-approval certificates which are relevant to the current stage of construction and a copy of the EC type-approval certificate for the incomplete vehicle issued at the previous stage; in addition, the manufacturer shall supply a detailed list of the changes and additions which he has made to the incomplete vehicle.
+3. The manufacturer shall submit an application for EC type-approval of a system, component or separate technical unit to the EC type-approval authority in a Member State. It shall be accompanied by an information folder as required by the separate directive.
+4. Applications for EC type-approval of a type of vehicle, system, component or separate technical unit may be submitted to only a single Member State. A separate application shall be submitted for each type to be approved.
+

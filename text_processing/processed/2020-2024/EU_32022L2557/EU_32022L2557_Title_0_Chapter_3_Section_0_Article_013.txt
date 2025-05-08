@@ -1,0 +1,21 @@
+Article 13
+Resilience measures of critical entities
+1.   Member States shall ensure that critical entities take appropriate and proportionate technical, security and organisational measures to ensure their resilience, based on the relevant information provided by Member States on the Member State risk assessment and on the outcomes of the critical entity risk assessment, including measures necessary to:
+(a)
+prevent incidents from occurring, duly considering disaster risk reduction and climate adaptation measures;
+(b)
+ensure adequate physical protection of their premises and critical infrastructure, duly considering, for example, fencing, barriers, perimeter monitoring tools and routines, detection equipment and access controls;
+(c)
+respond to, resist and mitigate the consequences of incidents, duly considering the implementation of risk and crisis management procedures and protocols and alert routines;
+(d)
+recover from incidents, duly considering business continuity measures and the identification of alternative supply chains, in order to resume the provision of the essential service;
+(e)
+ensure adequate employee security management, duly considering measures such as setting out categories of personnel who exercise critical functions, establishing access rights to premises, critical infrastructure and sensitive information, setting up procedures for background checks in accordance with Article 14 and designating the categories of persons who are required to undergo such background checks, and laying down appropriate training requirements and qualifications;
+(f)
+raise awareness about the measures referred to in points (a) to (e) among relevant personnel, duly considering training courses, information materials and exercises.
+For the purposes of the first subparagraph, point (e), Member States shall ensure that critical entities take into account the personnel of external service providers when setting out categories of personnel who exercise critical functions.
+2.   Member States shall ensure that critical entities have in place and apply a resilience plan or equivalent document or documents which describe the measures taken pursuant to paragraph 1. Where critical entities have drawn up documents or taken measures pursuant to obligations laid down in other legal acts that are relevant for the measures referred to in paragraph 1, they may use those documents and measures to meet the requirements set out in this Article. When exercising its supervisory functions, the competent authority may declare existing resilience-enhancing measures taken by a critical entity that address, in an appropriate and proportionate manner, the technical, security and organisational measures referred to in paragraph 1 as compliant, in whole or in part, with the obligations under this Article.
+3.   Member States shall ensure that each critical entity designates a liaison officer or equivalent as the point of contact with the competent authorities.
+4.   At the request of the Member State that has identified the critical entity and with the agreement of the critical entity concerned, the Commission shall organise advisory missions, in accordance with the arrangements set out in Article 18(6), (8) and (9), to provide advice to the critical entity concerned in meeting its obligations under Chapter III. The advisory mission shall report its findings to the Commission, that Member State and the critical entity concerned.
+5.   The Commission shall, after consulting the Critical Entities Resilience Group referred to in Article 19, adopt non-binding guidelines to further specify the technical, security and organisational measures that may be taken pursuant to paragraph 1 of this Article.
+6.   The Commission shall adopt implementing acts in order to set out the necessary technical and methodological specifications relating to the application of the measures referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).

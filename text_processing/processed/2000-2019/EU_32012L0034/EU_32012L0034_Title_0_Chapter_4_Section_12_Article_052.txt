@@ -1,0 +1,4 @@
+Article 52
+Use of train paths
+1.   In the network statement, the infrastructure manager shall specify conditions whereby it will take account of previous levels of utilisation of train paths in determining priorities for the allocation process.
+2.   For congested infrastructure in particular, the infrastructure manager shall require the surrender of a train path which, over a period of at least one month, has been used less than a threshold quota to be laid down in the network statement, unless this was due to non-economic reasons beyond the applicant's control.

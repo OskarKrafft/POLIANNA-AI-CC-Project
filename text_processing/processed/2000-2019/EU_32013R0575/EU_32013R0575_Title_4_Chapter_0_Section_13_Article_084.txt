@@ -1,0 +1,28 @@
+Article 84
+Minority interests included in consolidated Common Equity Tier 1 capital
+1.   Institutions shall determine the amount of minority interests of a subsidiary that is included in consolidated Common Equity Tier 1 capital by subtracting from the minority interests of that undertaking the result of multiplying the amount referred to in point (a) by the percentage referred to in point (b):
+(a)
+the Common Equity Tier 1 capital of the subsidiary minus the lower of the following:
+(i)
+the amount of Common Equity Tier 1 capital of that subsidiary required to meet the sum of the requirement laid down in point (a) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory regulations in third countries insofar as those requirements are to be met by Common Equity Tier 1 capital;
+(ii)
+the amount of consolidated Common Equity Tier 1 capital that relates to that subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in point (a) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory regulations in third countries insofar as those requirements are to be met by Common Equity Tier 1 capital.
+(b)
+the minority interests of the subsidiary expressed as a percentage of all Common Equity Tier 1 instruments of that undertaking plus the related share premium accounts, retained earnings and other reserves.
+2.   The calculation referred to in paragraph 1 shall be undertaken on a sub-consolidated basis for each subsidiary referred to in Article 81(1).
+An institution may choose not to undertake this calculation for a subsidiary referred to in Article 81(1). Where an institution takes such a decision, the minority interest of that subsidiary may not be included in consolidated Common Equity Tier 1 capital.
+3.   Where a competent authority derogates from the application of prudential requirements on an individual basis, as laid down in Article 7, minority interest within the subsidiaries to which the waiver is applied shall not be recognised in own funds at the sub-consolidated or at the consolidated level, as applicable.
+4.   EBA shall develop draft regulatory technical standards to specify the sub-consolidation calculation required in accordance with paragraph 2 of this Article, Articles 85 and 87.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+5.   Competent authorities may grant a waiver from the application of this Article to a parent financial holding company that satisfies all the following conditions:
+(a)
+its principal activity is to acquire holdings;
+(b)
+it is subject to prudential supervision on a consolidated basis;
+(c)
+it consolidates a subsidiary institution in which it has only a minority holding by virtue of the control relationship defined in Article 1 of Directive 83/349/EEC;
+(d)
+more than 90 % of the consolidated required Common Equity Tier 1 capital arises from the subsidiary institution referred to in point c) calculated on a sub-consolidated basis.
+Where, after 31 December 2014, a parent financial holding company that meets the conditions laid down in the first subparagraph becomes a parent mixed financial holding company, competent authorities may grant the waiver referred to in the first subparagraph to that parent mixed financial holding company provided that it meets the conditions laid down in that subparagraph.
+6.   Where credit institutions permanently affiliated in a network to a central body and institutions established within an institutional protection scheme subject to the conditions laid down in Article 113(7) have set up a cross-guarantee scheme that provides that there is no current or foreseen material, practical or legal impediment to the transfer of the amount of own funds above the regulatory requirements from the counterparty to the credit institution, these institutions are exempted from the provisions of this Article regarding deductions and may recognise any minority interest arising within the cross-guarantee scheme in full.

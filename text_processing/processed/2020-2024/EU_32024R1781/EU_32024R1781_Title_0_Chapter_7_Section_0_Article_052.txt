@@ -1,0 +1,42 @@
+Article 52
+Requirements relating to notified bodies
+1.   For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 12.
+2.   A conformity assessment body shall be established under the national law of a Member State and have legal personality.
+3.   A conformity assessment body shall be a third-party body independent of the organisation or the product it assesses. It shall not have any business ties with organisations that have an interest in the products it assesses, in particular manufacturers, their trade partners and their shareholding investors. This shall not preclude the conformity assessment body from carrying out conformity assessment activities for competing manufacturers.
+4.   A conformity assessment body, its top-level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, importer, distributor, installer, purchaser, owner, user or maintainer of the products which they assess, or the representative of any of those parties. This shall not preclude the use of assessed products that are necessary for the operations of the conformity assessment body or the use of such products for personal purposes.
+A conformity assessment body, its top-level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, or the marketing, installation, use or maintenance of those products, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall apply in particular to consultancy services.
+Conformity assessment bodies shall ensure that the activities of their parent or sister companies, subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+A conformity assessment body shall not delegate to a subcontractor or a subsidiary the establishment and the supervision of internal procedures, general policies, codes of conduct or other internal rules, the assignment of its personnel to specific tasks or the conformity assessment decisions.
+5.   Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field. They shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+6.   A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it under the relevant delegated act adopted pursuant to Article 4 and in relation to which it has been notified, irrespective of whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+At all times and for each conformity assessment procedure, and for each kind or category of products in relation to which it has been notified, a conformity assessment body shall have at its disposal:
+(a)
+the necessary personnel with technical knowledge, and sufficient and appropriate experience to perform the conformity assessment tasks;
+(b)
+the necessary descriptions of the procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures including a description of how relevant personnel, their status and tasks correspond to the conformity assessment tasks in relation to which the body intends to be notified;
+(c)
+appropriate policies and procedures to distinguish between the tasks it carries out as a notified body and its other activities;
+(d)
+procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
+It shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+7.   The personnel responsible for carrying out conformity assessment activities shall have the following:
+(a)
+sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;
+(b)
+satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments, including appropriate knowledge and understanding of the relevant legislation, test, measurement and calculation requirements, of the applicable harmonised standards or common specifications, and of the relevant provisions of this Regulation and of the delegated acts adopted pursuant to Article 4;
+(c)
+the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.
+8.   Personnel responsible for taking assessment decisions shall:
+(a)
+be employed by the conformity assessment body under the national law of the notifying Member State;
+(b)
+not have any potential conflict of interest;
+(c)
+be competent to verify the assessments made by other staff, external experts or subcontractors;
+(d)
+be sufficient in number to ensure business continuity and a consistent approach to conformity assessments.
+9.   The impartiality of the conformity assessment bodies and their top-level management and of the assessment personnel shall be guaranteed.
+The remuneration of the top-level management and assessment personnel of a conformity assessment body shall not depend on the number of assessments carried out or their results.
+10.   Conformity assessment bodies shall take out liability insurance, unless liability is assumed by the State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
+11.   The personnel of a conformity assessment body shall observe professional secrecy regarding all information obtained in carrying out the conformity assessment tasks under the relevant delegated acts adopted pursuant to Article 4, except in relation to the notifying authorities and other national authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+12.   Conformity assessment bodies shall participate in, or ensure that their assessment personnel are informed about, the relevant standardisation activities and take into account the relevant guidance and recommendations issued by the competent technical committees of the European standardisation bodies.

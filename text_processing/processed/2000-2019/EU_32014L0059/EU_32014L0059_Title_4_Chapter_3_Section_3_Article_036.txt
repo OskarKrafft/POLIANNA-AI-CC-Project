@@ -1,0 +1,60 @@
+Article 36
+Valuation for the purposes of resolution
+1.   Before taking resolution action or exercising the power to write down or convert relevant capital instruments resolution authorities shall ensure that a fair, prudent and realistic valuation of the assets and liabilities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) is carried out by a person independent from any public authority, including the resolution authority, and the institution or entity referred to in point (b), (c) or (d) of Article 1(1). Subject to paragraph 13 of this Article and to Article 85, where all the requirements laid down in this Article are met, the valuation shall be considered to be definitive.
+2.   Where an independent valuation according to paragraph 1 is not possible, resolution authorities may carry out a provisional valuation of the assets and liabilities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1), in accordance with paragraph 9 of this Article.
+3.   The objective of the valuation shall be to assess the value of the assets and liabilities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) that meets the conditions for resolution of Articles 32 and 33.
+4.   The purposes of the valuation shall be:
+(a)
+to inform the determination of whether the conditions for resolution or the conditions for the write down or conversion of capital instruments are met;
+(b)
+if the conditions for resolution are met, to inform the decision on the appropriate resolution action to be taken in respect of the institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(c)
+when the power to write down or convert relevant capital instruments is applied, to inform the decision on the extent of the cancellation or dilution of shares or other instruments of ownership, and the extent of the write down or conversion of relevant capital instruments;
+(d)
+when the bail-in tool is applied, to inform the decision on the extent of the write down or conversion of eligible liabilities;
+(e)
+when the bridge institution tool or asset separation tool is applied, to inform the decision on the assets, rights, liabilities or shares or other instruments of ownership to be transferred and the decision on the value of any consideration to be paid to the institution under resolution or, as the case may be, to the owners of the shares or other instruments of ownership;
+(f)
+when the sale of business tool is applied, to inform the decision on the assets, rights, liabilities or shares or other instruments of ownership to be transferred and to inform the resolution authority’s understanding of what constitutes commercial terms for the purposes of Article 38;
+(g)
+in all cases, to ensure that any losses on the assets of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) are fully recognised at the moment the resolution tools are applied or the power to write down or convert relevant capital instruments is exercised.
+5.   Without prejudice to the Union State aid framework, where applicable, the valuation shall be based on prudent assumptions, including as to rates of default and severity of losses. The valuation shall not assume any potential future provision of extraordinary public financial support or central bank emergency liquidity assistance or any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms to the institution or entity referred to in point (b), (c) or (d) of Article 1(1) from the point at which resolution action is taken or the power to write down or convert relevant capital instruments is exercised. Furthermore, the valuation shall take account of the fact that, if any resolution tool is applied:
+(a)
+the resolution authority and any financing arrangement acting pursuant to Article 101 may recover any reasonable expenses properly incurred from the institution under resolution, in accordance with Article 37(7);
+(b)
+the resolution financing arrangement may charge interest or fees in respect of any loans or guarantees provided to the institution under resolution, in accordance with Article 101.
+6.   The valuation shall be supplemented by the following information as appearing in the accounting books and records of the institution or entity referred to in point (b), (c) or (d) of Article 1(1):
+(a)
+an updated balance sheet and a report on the financial position of the institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(b)
+an analysis and an estimate of the accounting value of the assets;
+(c)
+the list of outstanding on balance sheet and off balance sheet liabilities shown in the books and records of the institution or entity referred to in point (b), (c) or (d) of Article 1(1), with an indication of the respective credits and priority levels under the applicable insolvency law.
+7.   Where appropriate, to inform the decisions referred to in points (e) and (f) of paragraph 4, the information in point (b) of paragraph 6 may be complemented by an analysis and estimate of the value of the assets and liabilities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) on a market value basis.
+8.   The valuation shall indicate the subdivision of the creditors in classes in accordance with their priority levels under the applicable insolvency law and an estimate of the treatment that each class of shareholders and creditors would have been expected to receive, if the institution or entity referred to in point (b), (c) or (d) of Article 1(1) were wound up under normal insolvency proceedings.
+That estimate shall not affect the application of the ‘no creditor worse off’ principle to be carried out under Article 74.
+9.   Where due to the urgency in the circumstances of the case it is not possible to comply with the requirements in paragraphs 6 and 8 or paragraph 2 applies, a provisional valuation shall be carried out. The provisional valuation shall comply with the requirements in paragraph 3 and in so far as reasonably practicable in the circumstances with the requirements of paragraphs 1, 6 and 8.
+The provisional valuation referred to in this paragraph shall include a buffer for additional losses, with appropriate justification.
+10.   A valuation that does not comply with all the requirements laid down in this Article shall be considered to be provisional until an independent person has carried out a valuation that is fully compliant with all the requirements laid down in this Article. That ex-post definitive valuation shall be carried out as soon as practicable. It may be carried out either separately from the valuation referred to in Article 74, or simultaneously with and by the same independent person as that valuation, but shall be distinct from it.
+The purposes of the ex-post definitive valuation shall be:
+(a)
+to ensure that any losses on the assets of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) are fully recognised in the books of accounts of the institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(b)
+to inform a decision to write back creditors’ claims or to increase the value of the consideration paid, in accordance with paragraph 11.
+11.   In the event that the ex-post definitive valuation’s estimate of the net asset value of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) is higher than the provisional valuation’s estimate of the net asset value of the institution or entity referred to in point (b), (c) or (d) of Article 1(1), the resolution authority may:
+(a)
+exercise its power to increase the value of the claims of creditors or owners of relevant capital instruments which have been written down under the bail-in tool;
+(b)
+instruct a bridge institution or asset management vehicle to make a further payment of consideration in respect of the assets, rights, liabilities to the institution under resolution, or as the case may be, in respect of the shares or instruments of ownership to the owners of the shares or other instruments of ownership.
+12.   Notwithstanding paragraph 1, a provisional valuation conducted in accordance with paragraphs 9 and 10 shall be a valid basis for resolution authorities take resolution actions, including taking control of a failing institution or entity referred to in point (b), (c) or (d) of Article 1(1), or to exercise the write down or conversion power of capital instruments.
+13.   The valuation shall be an integral part of the decision to apply a resolution tool or exercise a resolution power, or the decision to exercise the write down or conversion power of capital instruments. The valuation itself shall not be subject to a separate right of appeal but may be subject to an appeal together with the decision in accordance with Article 85.
+14.   EBA shall develop draft regulatory technical standards to specify the circumstances in which a person is independent from both the resolution authority and the institution or entity referred to in point (b), (c) or (d) of Article 1(1) for the purposes of paragraph 1of this Article, and for the purposes of Article 74.
+15.   EBA may develop draft regulatory technical standards to specify the following criteria for the purposes of paragraphs 1, 3 and 9 of this Article, and for the purposes of Article 74:
+(a)
+the methodology for assessing the value of the assets and liabilities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(b)
+the separation of the valuations under Articles 36 and 74;
+(c)
+the methodology for calculating and including a buffer for additional losses in the provisional valuation.
+16.   EBA shall submit the draft regulatory technical standards referred to in paragraph 14 to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in paragraphs 14 and 15 in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

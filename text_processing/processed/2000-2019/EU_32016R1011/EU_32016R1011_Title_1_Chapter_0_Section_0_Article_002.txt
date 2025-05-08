@@ -1,0 +1,24 @@
+Article 2
+Scope
+1.   This Regulation applies to the provision of benchmarks, the contribution of input data to a benchmark and the use of a benchmark within the Union.
+2.   This Regulation shall not apply to:
+(a)
+a central bank;
+(b)
+a public authority, where it contributes data to, provides, or has control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation;
+(c)
+a central counterparty (CCP), where it provides reference prices or settlement prices used for CCP risk-management purposes and settlement;
+(d)
+the provision of a single reference price for any financial instrument listed in Section C of Annex I to Directive 2014/65/EU;
+(e)
+the press, other media and journalists where they merely publish or refer to a benchmark as part of their journalistic activities with no control over the provision of that benchmark;
+(f)
+a natural or legal person that grants or promises to grant credit in the course of that person's trade, business or profession, only insofar as that person publishes or makes available to the public that person's own variable or fixed borrowing rates set by internal decisions and applicable only to financial contracts entered into by that person or by a company within the same group with their respective clients;
+(g)
+a commodity benchmark based on submissions from contributors the majority of which are non-supervised entities and in respect of which both of the following conditions apply:
+(i)
+the benchmark is referenced by financial instruments for which a request for admission to trading has been made on only one trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, or which are traded on only one such trading venue;
+(ii)
+the total notional value of financial instruments referencing the benchmark does not exceed EUR 100 million;
+(h)
+an index provider in respect of an index provided by said provider where that index provider is unaware and could not reasonably have been aware that that index is used for the purposes referred to in point (3) of Article 3(1).

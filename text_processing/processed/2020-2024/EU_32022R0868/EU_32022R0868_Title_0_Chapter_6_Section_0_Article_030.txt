@@ -1,0 +1,39 @@
+Article 30
+Tasks of the European Data Innovation Board
+The European Data Innovation Board shall have the following tasks:
+(a)
+to advise and assist the Commission with regard to developing a consistent practice of public sector bodies and competent bodies referred to in Article 7(1) in handling requests for the re-use of the categories of data referred to in Article 3(1);
+(b)
+to advise and assist the Commission with regard to developing a consistent practice for data altruism across the Union;
+(c)
+to advise and assist the Commission with regard to developing a consistent practice of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations in the application of requirements applicable to data intermediation services providers and recognised data altruism organisations;
+(d)
+to advise and assist the Commission with regard to developing consistent guidelines on how to best protect, in the context of this Regulation, commercially sensitive non-personal data, in particular trade secrets, but also non-personal data representing content protected by intellectual property rights from unlawful access that risks intellectual property theft or industrial espionage;
+(e)
+to advise and assist the Commission with regard to developing consistent guidelines for cybersecurity requirements for the exchange and storage of data;
+(f)
+to advise the Commission, in particular taking into account the input from standardisation organisations, on the prioritisation of cross-sector standards to be used and developed for data use and cross-sector data sharing between emerging common European data spaces, cross-sectoral comparison and exchange of best practices with regard to sectoral requirements for security and access procedures, taking into account sector-specific standardisation activities, in particular clarifying and distinguishing which standards and practices are cross-sectoral and which are sectoral;
+(g)
+to assist the Commission, in particular taking into account the input from standardisation organisations, in addressing fragmentation of the internal market and the data economy in the internal market by enhancing cross-border, cross-sector interoperability of data as well as data sharing services between different sectors and domains, building on existing European, international or national standards, inter alia with the aim of encouraging the creation of common European data spaces;
+(h)
+to propose guidelines for common European data spaces, namely purpose- or sector-specific or cross-sectoral interoperable frameworks of common standards and practices to share or jointly process data for, inter alia, the development of new products and services, scientific research or civil society initiatives, such common standards and practices taking into account existing standards, complying with the competition rules and ensuring non-discriminatory access to all participants, for the purpose of facilitating data sharing in the Union and reaping the potential of existing and future data spaces, addressing, inter alia:
+(i)
+cross-sectoral standards to be used and developed for data use and cross-sector data sharing, cross-sectoral comparison and exchange of best practices with regard to sectoral requirements for security and access procedures, taking into account sector-specific standardisation activities, in particular clarifying and distinguishing which standards and practices are cross-sectoral and which are sectoral;
+(ii)
+requirements to counter barriers to market entry and to avoid lock-in effects, for the purpose of ensuring fair competition and interoperability;
+(iii)
+adequate protection for lawful data transfers to third countries, including safeguards against any transfers prohibited by Union law;
+(iv)
+adequate and non-discriminatory representation of relevant stakeholders in the governance of common European data spaces;
+(v)
+adherence to cybersecurity requirements in accordance with Union law;
+(i)
+to facilitate cooperation between Member States with regard to setting harmonised conditions allowing for the re-use of the categories of data referred to in Article 3(1) held by public sector bodies across the internal market;
+(j)
+to facilitate cooperation between competent authorities for data intermediation services and competent authorities for the registration of data altruism organisations through capacity-building and the exchange of information, in particular by establishing methods for the efficient exchange of information relating to the notification procedure for data intermediation services providers and the registration and monitoring of recognised data altruism organisations, including coordination with regard to the setting of fees or penalties, as well as facilitate cooperation between competent authorities for data intermediation services and competent authorities for the registration of data altruism organisations with regard to international access and transfer of data;
+(k)
+to advise and assist the Commission with regard to evaluating whether the implementing acts referred to in Article 5(11) and (12) are to be adopted;
+(l)
+to advise and assist the Commission with regard to developing the European data altruism consent form in accordance with Article 25(1);
+(m)
+to advise the Commission on improving the international regulatory environment for non-personal data, including standardisation.

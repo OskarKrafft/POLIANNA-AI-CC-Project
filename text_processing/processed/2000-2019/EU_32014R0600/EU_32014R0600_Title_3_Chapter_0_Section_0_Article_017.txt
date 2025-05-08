@@ -1,0 +1,21 @@
+Article 17
+Access to quotes
+1.   Systematic internalisers shall be allowed to decide, on the basis of their commercial policy and in an objective non-discriminatory way, the clients to whom they give access to their quotes. To that end there shall be clear standards for governing access to their quotes. Systematic internalisers may refuse to enter into or discontinue business relationships with clients on the basis of commercial considerations such as the client credit status, the counterparty risk and the final settlement of the transaction.
+2.   In order to limit the risk of exposure to multiple transactions from the same client, systematic internalisers shall be allowed to limit in a non-discriminatory way the number of transactions from the same client which they undertake to enter at the published conditions. They may, in a non-discriminatory way and in accordance with Article 28 of Directive 2014/65//EU, limit the total number of transactions from different clients at the same time provided that this is allowable only where the number and/or volume of orders sought by clients considerably exceeds the norm.
+3.   In order to ensure the efficient valuation of shares, depositary receipts, ETFs, certificates and other similar financial instruments and maximise the possibility for investment firms to obtain the best deal for their clients, the Commission shall adopt delegated acts in accordance with Article 50 specifying:
+(a)
+the criteria specifying when a quote is published on a regular and continuous basis and is easily accessible as referred to in Article 15(1) as well as the means by which investment firms may comply with their obligation to make public their quotes, which shall include the following possibilities:
+(i)
+through the facilities of any regulated market which has admitted the financial instrument in question to trading;
+(ii)
+through an APA;
+(iii)
+through proprietary arrangements;
+(b)
+the criteria specifying those transactions where execution in several securities is part of one transaction or those orders that are subject to conditions other than current market price as referred to in Article 15(3);
+(c)
+the criteria specifying what can be considered as exceptional market conditions that allow for the withdrawal of quotes as well as the conditions for updating quotes as referred to in Article 15(1);
+(d)
+the criteria specifying when the number and/or volume of orders sought by clients considerably exceeds the norm as referred to in paragraph 2.
+(e)
+the criteria specifying when prices fall within a public range close to market conditions as referred to in Article 15(2).

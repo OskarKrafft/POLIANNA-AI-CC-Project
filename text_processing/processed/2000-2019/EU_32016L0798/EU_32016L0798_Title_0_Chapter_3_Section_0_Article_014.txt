@@ -1,0 +1,45 @@
+Article 14
+Maintenance of vehicles
+1.   Each vehicle, before it is being used on the network, shall have an entity in charge of maintenance assigned to it and this entity shall be registered in the vehicle register in accordance with Article 47 of Directive (EU) 2016/797.
+2.   Without prejudice to the responsibility of the railway undertakings and infrastructure managers for the safe operation of a train as provided for in Article 4, the entity in charge of maintenance shall ensure that the vehicles for the maintenance of which it is in charge are in a safe state of running. To that end, the entity in charge of maintenance shall establish a maintenance system for those vehicles and shall by means of that system:
+(a)
+ensure that vehicles are maintained in accordance with the maintenance file of each vehicle and the requirements in force, including maintenance rules and relevant TSI provisions;
+(b)
+implement the necessary risk evaluation and assessment methods established in the CSMs as referred to in point (a) of Article 6(1), where appropriate in cooperation with other actors;
+(c)
+ensure that its contractors implement risk control measures through the application of the CSM on monitoring referred to in point (c) of Article 6(1) and that this is stipulated in contractual arrangements to be disclosed on request of the Agency or the national safety authority; and
+(d)
+ensure the traceability of the maintenance activities.
+3.   The maintenance system shall be composed of the following functions:
+(a)
+a management function to supervise and coordinate the maintenance functions referred to in points (b) to (d) and to ensure the safe state of the vehicle in the railway system;
+(b)
+a maintenance development function responsible to manage the maintenance documentation, including the configuration management, based on design and operational data as well as on performance and return on experience;
+(c)
+a fleet-maintenance management function to manage the vehicle's removal for maintenance and its return to operation after maintenance;
+(d)
+a maintenance delivery function to deliver the required technical maintenance of a vehicle or parts of it, including the release to service documentation.
+The entity in charge of maintenance shall carry out the management function itself, but may outsource the maintenance functions referred to in points (b) to (d), or parts thereof, to other contracting parties such as maintenance workshops.
+The entity in charge of maintenance shall ensure that all the functions set out in points (a) to (d) comply with the requirements and assessment criteria set out in Annex III.
+Maintenance workshops shall apply relevant sections of Annex III as identified in the implementing acts adopted pursuant to point (a) of paragraph 8, which correspond to the functions and activities to be certified.
+4.   In the case of freight wagons, and after the adoption of the implementing acts referred to in point (b) of paragraph 8 in the case of other vehicles, each entity in charge of maintenance shall be certified and be awarded an entity in charge of maintenance certificate (ECM certificate) by an accredited or recognised body or by a national safety authority in accordance with the following conditions:
+(a)
+the accreditation and recognition processes of certification processes shall be based on criteria of independence, competence and impartiality;
+(b)
+the system of certification shall provide evidence that an entity in charge of maintenance has established the maintenance system to ensure the safe state of running of any vehicle for which it is in charge of maintenance;
+(c)
+the ECM certification shall be based on an assessment of the ability of the entity in charge of maintenance to meet the relevant requirements and assessment criteria set out in Annex III and to apply them consistently. It shall include a system of surveillance to ensure continuing compliance with those requirements and assessment criteria after award of the ECM certificate;
+(d)
+the certification of maintenance workshops shall be based on the compliance with the relevant sections in Annex III applied to the corresponding functions and activities to be certified.
+Where the entity in charge of maintenance is a railway undertaking or an infrastructure manager, compliance with the conditions set out in the first subparagraph may be checked by the national safety authority pursuant to the procedures referred to in Article 10 or 12 and may be confirmed on the certificates issued in accordance with those procedures.
+5.   The certificates issued in accordance with paragraph 4 shall be valid throughout the Union.
+6.   On the basis of the recommendation of the Agency, the Commission shall, by means of implementing acts, adopt detailed provisions on the certification conditions referred to in the first subparagraph of paragraph 4 for the entity in charge of maintenance of freight wagons, including the requirements set out in Annex III in compliance with the relevant CSM and TSIs, and, when necessary, shall amend those provisions.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(3).
+The certification system applicable to freight wagons adopted by Commission Regulation (EU) No 445/2011 (16) shall continue to apply until the implementing acts referred to in this paragraph apply.
+7.   By 16 June 2018, the Agency shall evaluate the system of certification of the entity in charge of maintenance for freight wagons, consider the expediency of extending that system to all vehicles and the mandatory certification of maintenance workshops and submit its report to the Commission.
+8.   On the basis of the evaluation carried out by the Agency pursuant to paragraph 7, the Commission shall, by means of implementing acts, adopt, if appropriate, and, when necessary, subsequently amend detailed provisions identifying which of the requirements set out in Annex III shall apply for the purpose of:
+(a)
+maintenance functions carried out by maintenance workshops, including detailed provisions to ensure the uniform implementation of the certification of maintenance workshops, in compliance with the relevant CSM and TSIs;
+(b)
+the certification of entities in charge of maintenance of vehicles other than freight wagons, on the basis of the technical characteristics of such vehicles, including detailed provisions to ensure the uniform implementation of the certification conditions by the entity in charge of maintenance for vehicles other than freight wagons, in compliance with the relevant CSM and TSIs.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(3).

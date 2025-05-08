@@ -1,0 +1,13 @@
+Article 29
+Clearing obligation for derivatives traded on regulated markets and timing of acceptance for clearing
+1.   The operator of a regulated market shall ensure that all transactions in derivatives that are concluded on that regulated market are cleared by a CCP.
+2.   CCPs, trading venues and investment firms which act as clearing members in accordance with Article 2(14) of Regulation (EU) No 648/2012 shall have in place effective systems, procedures and arrangements in relation to cleared derivatives to ensure that transactions in cleared derivatives are submitted and accepted for clearing as quickly as technologically practicable using automated systems.
+In this paragraph, ‘cleared derivatives’ means
+(a)
+all derivatives which are to be cleared pursuant to the clearing obligation under paragraph 1 of this Article or pursuant to the clearing obligation under Article 4 of Regulation (EU) No 648/2012;
+(b)
+all derivatives which are otherwise agreed by the relevant parties to be cleared.
+3.   ESMA shall develop draft regulatory technical standards to specify the minimum requirements for systems, procedures and arrangements, including the acceptance timeframes, under this Article taking into account the need to ensure proper management of operational or other risks.
+ESMA shall have ongoing authority to develop further regulatory technical standards to update those in force if it considers that that is required as industry standards evolve.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first and second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

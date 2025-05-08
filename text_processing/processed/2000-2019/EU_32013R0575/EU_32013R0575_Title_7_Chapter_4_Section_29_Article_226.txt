@@ -1,0 +1,24 @@
+Article 226
+Scaling up of volatility adjustment under the Financial Collateral Comprehensive method
+The volatility adjustments set out in Article 224 are the volatility adjustments an institution shall apply where there is daily revaluation. Similarly, where an institution uses its own estimates of the volatility adjustments in accordance with Article 225, it shall calculate them in the first instance on the basis of daily revaluation. Where the frequency of revaluation is less than daily, institutions shall apply larger volatility adjustments. Institutions shall calculate them by scaling up the daily revaluation volatility adjustments, using the following square-root-of-time formula:
+
+
+
+
+
+where:
+H
+=
+the volatility adjustment to be applied;
+HM
+
+=
+the volatility adjustment where there is daily revaluation;
+NR
+
+=
+the actual number of business days between revaluations;
+TM
+
+=
+the liquidation period for the type of transaction in question.

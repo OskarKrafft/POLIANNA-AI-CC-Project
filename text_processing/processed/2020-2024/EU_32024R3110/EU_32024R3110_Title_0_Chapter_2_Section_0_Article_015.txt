@@ -1,0 +1,17 @@
+Article 15
+Content of the declaration of performance and conformity
+1.   The declaration of performance and conformity shall be drawn up using the model set out in Annex V. The declaration of performance and conformity shall express the performance of products in relation to the essential characteristics of those products in accordance with the relevant harmonised technical specifications or European assessment document.
+Where product requirements specified in accordance with Article 7 are applicable, the declaration of performance and conformity shall state that the fulfilment of those requirements has been demonstrated.
+2.   The declaration of performance and conformity shall include the product’s environmental sustainability performance over its life cycle in respect of the predetermined environmental essential characteristics listed in Annex II for those characteristics that are declared. The performance shall include the packaging used or most likely to be used and shall be calculated using the latest version of software made available free of charge on the website of the Commission.
+Updates of the software referred to in the first subparagraph shall become mandatory for the purposes of this Regulation one year after their publication. Such software updates may be voluntarily applied from their date of publication.
+3.   The declaration of performance and conformity shall cover at least a product’s performance over its life cycle with regard to the following essential characteristics:
+(a)
+essential characteristics listed in points (a) to (d) of Annex II, from 8 January 2026;
+(b)
+essential characteristics listed in points (e) to (m), of Annex II, from 9 January 2030;
+(c)
+essential characteristics listed in points (n) to (s), of Annex II, from 9 January 2032.
+The declaration of performance and conformity shall also cover those essential characteristics which always have to be declared, as determined in delegated acts adopted in accordance with Article 5(5).
+4.   No marking other than the CE marking may be placed on the declaration of performance and conformity.
+5.   The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the model set out in Annex V to adapt it to reflect technical progress as regards new information needs, to facilitate the fulfilment of digital product passport requirements set out in Articles 76 and 77, and to ensure interoperability and correct integration with the construction digital product passport system in accordance with Article 75.
+6.   The information referred to in Article 31 or, as the case may be, in Article 33 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council (27) shall be provided together with the declaration of performance and conformity.

@@ -1,0 +1,43 @@
+Article 18
+Insider lists
+1.   Issuers or any person acting on their behalf or on their account, shall:
+(a)
+draw up a list of all persons who have access to inside information and who are working for them under a contract of employment, or otherwise performing tasks through which they have access to inside information, such as advisers, accountants or credit rating agencies (insider list);
+(b)
+promptly update the insider list in accordance with paragraph 4; and
+(c)
+provide the insider list to the competent authority as soon as possible upon its request.
+2.   Issuers or any person acting on their behalf or on their account, shall take all reasonable steps to ensure that any person on the insider list acknowledges in writing the legal and regulatory duties entailed and is aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information.
+Where another person acting on behalf or on the account of the issuer assumes the task of drawing up and updating the insider list, the issuer remains fully responsible for complying with this Article. The issuer shall always retain a right of access to the insider list.
+3.   The insider list shall include at least:
+(a)
+the identity of any person having access to inside information;
+(b)
+the reason for including that person in the insider list;
+(c)
+the date and time at which that person obtained access to inside information; and
+(d)
+the date on which the insider list was drawn up.
+4.   Issuers or any person acting on their behalf or on their account shall update the insider list promptly, including the date of the update, in the following circumstances:
+(a)
+where there is a change in the reason for including a person already on the insider list;
+(b)
+where there is a new person who has access to inside information and needs, therefore, to be added to the insider list; and
+(c)
+where a person ceases to have access to inside information.
+Each update shall specify the date and time when the change triggering the update occurred.
+5.   Issuers or any person acting on their behalf or on their account shall retain the insider list for a period of at least five years after it is drawn up or updated.
+6.   Issuers whose financial instruments are admitted to trading on an SME growth market shall be exempt from drawing up an insider list, provided that the following conditions are met:
+(a)
+the issuer takes all reasonable steps to ensure that any person with access to inside information acknowledges the legal and regulatory duties entailed and is aware of the sanctions applicable to insider dealing and unlawful disclosure of inside information; and
+(b)
+the issuer is able to provide the competent authority, upon request, with an insider list.
+7.   This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
+8.   Paragraphs 1 to 5 of this Article shall also apply to:
+(a)
+emission allowance market participants in relation to inside information concerning emission allowances that arises in relation to the physical operations of that emission allowance market participant;
+(b)
+any auction platform, auctioneer and auction monitor in relation to auctions of emission allowances or other auctioned products based thereon that are held pursuant to Regulation (EU) No 1031/2010.
+9.   In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the precise format of insider lists and the format for updating insider lists referred to in this Article.
+ESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

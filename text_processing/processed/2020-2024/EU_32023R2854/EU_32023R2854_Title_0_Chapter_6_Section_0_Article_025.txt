@@ -1,0 +1,43 @@
+Article 25
+Contractual terms concerning switching
+1.   The rights of the customer and the obligations of the provider of data processing services in relation to switching between providers of such services or, where applicable, to an on-premises ICT infrastructure shall be clearly set out in a written contract. The provider of data processing services shall make that contract available to the customer prior to signing the contract in a way that allows the customer to store and reproduce the contract.
+2.   Without prejudice to Directive (EU) 2019/770, the contract referred to in paragraph 1 of this Article shall include at least the following:
+(a)
+clauses allowing the customer, upon request, to switch to a data processing service offered by a different provider of data processing services or to port all exportable data and digital assets to an on-premises ICT infrastructure, without undue delay and in any event not after the mandatory maximum transitional period of 30 calendar days, to be initiated after the maximum notice period referred to in point (d), during which the service contract remains applicable and during which the provider of data processing services shall:
+(i)
+provide reasonable assistance to the customer and third parties authorised by the customer in the switching process;
+(ii)
+act with due care to maintain business continuity, and continue the provision of the functions or services under the contract;
+(iii)
+provide clear information concerning known risks to continuity in the provision of the functions or services on the part of the source provider of data processing services;
+(iv)
+ensure that a high level of security is maintained throughout the switching process, in particular the security of the data during their transfer and the continued security of the data during the retrieval period specified in point (g), in accordance with applicable Union or national law;
+(b)
+an obligation of the provider of data processing services to support the customer’s exit strategy relevant to the contracted services, including by providing all relevant information;
+(c)
+a clause specifying that the contract shall be considered to be terminated and the customer shall be notified of the termination, in one of the following cases:
+(i)
+where applicable, upon the successful completion of the switching process;
+(ii)
+at the end of the maximum notice period referred to in paragraph (d), where the customer does not wish to switch but to erase its exportable data and digital assets upon service termination;
+(d)
+a maximum notice period for initiation of the switching process, which shall not exceed two months;
+(e)
+an exhaustive specification of all categories of data and digital assets that can be ported during the switching process, including, at a minimum, all exportable data;
+(f)
+an exhaustive specification of categories of data specific to the internal functioning of the provider’s data processing service that are to be exempted from the exportable data under point (e) of this paragraph where a risk of breach of trade secrets of the provider exists, provided that such exemptions do not impede or delay the switching process provided for in Article 23;
+(g)
+a minimum period for data retrieval of at least 30 calendar days, starting after the termination of the transitional period that was agreed between the customer and the provider of data processing services, in accordance with point (a) of this paragraph and paragraph 4;
+(h)
+a clause guaranteeing full erasure of all exportable data and digital assets generated directly by the customer, or relating to the customer directly, after the expiry of the retrieval period referred to in point (g) or after the expiry of an alternative agreed period at a date later than the date of expiry of the retrieval period referred to in point (g), provided that the switching process has been completed successfully;
+(i)
+switching charges, that may be imposed by providers of data processing services in accordance with Article 29.
+3.   The contract referred to in paragraph 1 shall include clauses providing that the customer may notify the provider of data processing services of its decision to perform one or more of the following actions upon termination of the maximum notice period referred to in paragraph 2, point (d):
+(a)
+switch to a different provider of data processing services, in which case the customer shall provide the necessary details of that provider;
+(b)
+switch to an on-premises ICT infrastructure;
+(c)
+erase its exportable data and digital assets.
+4.   Where the mandatory maximum transitional period as provided for in paragraph 2, point (a) is technically unfeasible, the provider of data processing services shall notify the customer within 14 working days of the making of the switching request, and shall duly justify the technical unfeasibility and indicate an alternative transitional period, which shall not exceed seven months. In accordance with paragraph 1, service continuity shall be ensured throughout the alternative transitional period.
+5.   Without prejudice to paragraph 4, the contract referred to in paragraph 1 shall include clauses providing the customer with the right to extend the transitional period once for a period that the customer considers more appropriate for its own purposes.

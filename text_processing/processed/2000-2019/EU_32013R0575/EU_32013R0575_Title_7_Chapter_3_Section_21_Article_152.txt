@@ -1,0 +1,33 @@
+Article 152
+Treatment of exposures in the form of units or shares in CIUs
+1.   Where exposures in the form of units or shares in CIUs meet the criteria set out in Article 132(3) and the institution is aware of all or parts of the underlying exposures of the CIU, the institution shall look through to those underlying exposures in order to calculate risk-weighted exposure amounts and expected loss amounts in accordance with the methods set out in this Chapter.
+Where an underlying exposure of the CIU is itself another exposure in the form of units or shares in another CIU, the first institution shall also look through to the underlying exposures of the other CIU.
+2.   Where the institution does not meet the conditions for using the methods set out in this Chapter for all or parts of the underlying exposures of the CIU, risk weighted exposure amounts and expected loss amounts shall be calculated in accordance with the following approaches:
+(a)
+for exposures belonging to the ‧equity‧ exposure class referred to in Article 147(2)(e), institutions shall apply the simple risk-weight approach set out in Article 155(2);
+(b)
+for all other underlying exposures referred to in paragraph 1, institutions shall apply the Standardised Approach laid down in Chapter 2, subject to the following:
+(i)
+for exposures subject to a specific risk weight for unrated exposures or subject to the credit quality step yielding the highest risk weight for a given exposure class, the risk weight shall be multiplied by a factor of two but shall not be higher than 1 250 %;
+(ii)
+for all other exposures, the risk weight shall be multiplied by a factor of 1,1 and shall be subject to a minimum of 5 %.
+Where, for the purposes of point (a), the institution is unable to differentiate between private equity, exchange-traded and other equity exposures, it shall treat the exposures concerned as other equity exposures. Where those exposures, taken together with the institution's direct exposures in that exposure class, are not material within the meaning of Article 150(2), Article 150(1) may be applied subject to the permission of the competent authorities.
+3.   Where exposures in the form of units or shares in a CIU do not meet the criteria set out in Article 132(3), or the institution is not aware of all of the underlying exposures of the CIU or of its underlying exposures which is itself an exposure in the form of units or shares in a CIU, the institution shall look through to those underlying exposures and calculate risk-weighted exposure amounts and expected loss amounts in accordance with the simple risk-weight approach set out in Article 155(2).
+Where the institution is unable to differentiate between private equity, exchange-traded and other equity exposures, it shall treat the exposures concerned as other equity exposures. It shall assign non equity exposures to the other equity class.
+4.   Alternatively to the method described in paragraph 3, institutions may calculate themselves or may rely on the following third parties to calculate and report the average risk weighted exposure amounts based on the CIU's underlying exposures in accordance with the approaches referred to in points (a) and (b) of paragraph 2 for the following:
+(a)
+the depository institution or financial institution of the CIU provided that the CIU exclusively invests in securities and deposits all securities at this depository institution or financial institution;
+(b)
+for other CIUs, the CIU management company, provided that the CIU management company meets the criteria set out in Article 132(3)(a).
+The correctness of the calculation shall be confirmed by an external auditor.
+5.   EBA shall develop draft regulatory technical standards to specify the conditions according to which competent authorities may permit institutions to use the Standardised Approach referred to in Article 150(1) under point (b) of paragraph 2 of this Article.
+EBA shall submit those draft regulatory technical standards to the Commission by 30 June 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Sub-Section 2
+
+
+
+Calculation of risk weighted exposure amounts for credit risk
+
+

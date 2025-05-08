@@ -1,0 +1,19 @@
+Article 4
+Operational network security
+1.
+(a)
+Member States or the competent authorities shall ensure that transmission system operators set the minimum operational rules and obligations on network security.
+Before setting such rules and obligations, they shall consult with the relevant actors in the countries with which interconnection exists;
+(b)
+notwithstanding the first subparagraph of point (a), Member States may require transmission system operators to submit such rules and obligations to the competent authority for approval;
+(c)
+Member States shall ensure that transmission and, where appropriate, distribution system operators comply with the minimum operational rules and obligations on network security;
+(d)
+Member States shall require transmission system operators to maintain an appropriate level of operational network security.
+To that effect, transmission system operators shall maintain an appropriate level of technical transmission reserve capacity for operational network security and cooperate with the transmission system operators concerned to which they are interconnected.
+The level of foreseeable circumstances in which security shall be maintained is defined in the operational network security rules;
+(e)
+Member States shall, in particular, ensure that interconnected transmission and, where appropriate, distribution system operators exchange information relating to the operation of networks in a timely and effective fashion in line with the minimum operational requirements. The same requirements shall, where appropriate, apply to transmission and distribution system operators that are interconnected with system operators outside the Community.
+2.   Member States or the competent authorities shall ensure that transmission and, where appropriate, distribution system operators set and meet quality of supply and network security performance objectives. These objectives shall be subject to approval by the Member States or competent authorities and their implementation shall be monitored by them. They shall be objective, transparent and non-discriminatory and shall be published.
+3.   In taking the measures referred to in Article 24 of Directive 2003/54/EC and in Article 6 of Regulation (EC) No 1228/2003, Member States shall not discriminate between cross-border contracts and national contracts.
+4.   Member States shall ensure that curtailment of supply in emergency situations shall be based on predefined criteria relating to the management of imbalances by transmission system operators. Any safeguard measures shall be taken in close consultation with other relevant transmission system operators, respecting relevant bilateral agreements, including agreements on the exchange of information.

@@ -1,0 +1,73 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘toll service’ means the service that enables users to use a vehicle in one or more EETS domains under a single contract and, where necessary, with one piece of on-board equipment (OBE), and which includes:
+(a)
+where necessary, providing a customised OBE to users and maintaining its functionality;
+(b)
+guaranteeing that the toll charger is paid the toll due by the user;
+(c)
+providing to the user the means by which the payment is to be made or accepting an existing one;
+(d)
+collecting the toll from the user;
+(e)
+managing customer relations with the user; and
+(f)
+implementing and adhering to the security and privacy policies for the road toll systems;
+(2)
+‘toll service provider’ means a legal entity providing toll services on one or more EETS domains for one or more classes of vehicles;
+(3)
+‘toll charger’ means a public or private entity which levies tolls for the circulation of vehicles in an EETS domain;
+(4)
+‘designated toll charger’ means a public or private entity which has been appointed as the toll charger in a future EETS domain;
+(5)
+‘European Electronic Toll Service (EETS)’ means the toll service provided under a contract on one or more EETS domains by an EETS provider to an EETS user;
+(6)
+‘EETS provider’ means an entity which, under a separate contract, grants access to EETS to an EETS user, transfers the tolls to the relevant toll charger, and which is registered by its Member State of establishment;
+(7)
+‘EETS user’ means a natural or legal person who has a contract with an EETS provider in order to have access to the EETS;
+(8)
+‘EETS domain’ means a road, a road network, a structure, such as a bridge or a tunnel, or a ferry, where tolls are collected using an electronic road toll system;
+(9)
+‘EETS compliant system’ means the set of elements of an electronic road toll system which are specifically needed for the integration of EETS providers in the system and for the operation of EETS;
+(10)
+‘electronic road toll system’ means a toll collection system in which the obligation, for the user, to pay the toll is exclusively triggered by and linked to the automatic detection of the presence of the vehicle in a certain location through remote communication with OBE in the vehicle or automatic number plate recognition;
+(11)
+‘on-board equipment (OBE)’, means the complete set of hardware and software components to be used as part of the toll service which is installed or carried on board a vehicle in order to collect, store, process and remotely receive/transmit data, either as a separate device or embedded in the vehicle;
+(12)
+‘main service provider’ means a toll service provider with specific obligations, such as the obligation to sign contracts with all interested users, or specific rights, such as specific remuneration or a guaranteed long term contract, different from the rights and obligations of other service providers;
+(13)
+‘interoperability constituent’ means any elementary component, group of components, subassembly or complete assembly of equipment incorporated or intended to be incorporated into EETS upon which the interoperability of the service depends directly or indirectly, including both tangible objects and intangible objects such as software;
+(14)
+‘suitability for use’ means the ability of an interoperability constituent to achieve and maintain a specified performance when in service, integrated representatively into EETS in relation with a toll charger's system;
+(15)
+‘toll context data’ means the information defined by the responsible toll charger as necessary to establish the toll due for circulating a vehicle on a particular toll domain and conclude the toll transaction;
+(16)
+‘toll declaration’ means a statement to a toll charger that confirms the presence of a vehicle in an EETS domain in a format agreed between the toll service provider and the toll charger;
+(17)
+‘vehicle classification parameters’ means the vehicle related information in accordance with which tolls are calculated based on the toll context data;
+(18)
+‘back office’ means the central electronic system used by the toll charger, a group of toll chargers who have created an interoperability hub, or by the EETS provider to collect, process and send information in the framework of an electronic road toll system;
+(19)
+‘substantially modified system’ means an existing electronic road toll system that has undergone or undergoes a change which requires EETS providers to make modifications to the interoperability constituents that are in operation, such as reprogramming or adapting the interfaces of their back office, to such an extent that re-accreditation is required;
+(20)
+‘accreditation’ means the process defined and managed by the toll charger, which an EETS provider must undergo before it is authorised to provide the EETS in an EETS domain;
+(21)
+‘toll’ or ‘road fee’ means the fee which must be paid by the road user for circulating on a given road, a road network, a structure, such as a bridge or a tunnel, or a ferry;
+(22)
+‘failure to pay a road fee’ means the offence consisting of the failure by a road user to pay a road fee in a Member State, defined by the relevant national provisions of that Member State;
+(23)
+‘Member State of registration’ means the Member State where the vehicle which is subject to the payment of the road fee is registered;
+(24)
+‘national contact point’ means a designated competent authority of a Member State for the cross-border exchange of vehicle registration data;
+(25)
+‘automated search’ means an online access procedure for consulting the databases of one, more than one, or all of the Member States;
+(26)
+‘vehicle’ means a motor vehicle, or articulated vehicle combination intended or used for the carriage by road of passengers or goods;
+(27)
+‘holder of the vehicle’ means the person in whose name the vehicle is registered, as defined in the law of the Member State of registration;
+(28)
+‘heavy-duty vehicle’ means a vehicle having a maximum permissible mass exceeding 3,5 tonnes;
+(29)
+‘light-duty vehicle’ means a vehicle having a maximum permissible mass not exceeding 3,5 tonnes.

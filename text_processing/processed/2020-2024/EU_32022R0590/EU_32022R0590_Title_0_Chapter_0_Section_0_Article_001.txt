@@ -1,0 +1,40 @@
+Article 1
+Regulation (EC) No 138/2004 is amended as follows:
+(1)
+In Article 3, paragraph 2 is replaced by the following:
+‘2.   The first transmission of data shall take place in November 2003.
+However, the first transmission of data for the regional economic accounts for agriculture (“REAA”) at NUTS 2 level within the meaning of Regulation (EC) No 1059/2003 of the European Parliament and of the Council (*1) shall take place by 30 September 2023.
+
+(*1)  Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 154, 21.6.2003, p. 1).’;"
+                        
+(2)
+The following Articles are inserted:
+‘Article 3a
+Dissemination of statistics
+Without prejudice to Regulation (EC) No 1367/2006 of the European Parliament and of the Council (*2)and Regulation (EC) No 223/2009, the Commission (Eurostat) shall disseminate the data transmitted to it in accordance with Article 3 of this Regulation online, free of charge.
+Article 3b
+Quality assessment
+1.   Member States shall take the measures necessary to ensure the quality of the data and metadata transmitted.
+2.   For the purpose of this Regulation, the quality criteria set out in Article 12(1) of Regulation (EC) No 223/2009 shall apply to the data to be transmitted in accordance with Article 3 of this Regulation.
+3.   The Commission (Eurostat) shall assess the quality of the data transmitted. For that purpose, Member States shall transmit a quality report to the Commission (Eurostat), for the first time by 31 December 2025, and every 5 years thereafter, for the data sets transmitted during the reporting period.
+4.   In applying the quality criteria set out in Article 12(1) of Regulation (EC) No 223/2009 to the data to be transmitted in accordance with Article 3 of this Regulation, the Commission shall, by means of implementing acts, define the modalities, structure and assessment indicators for the quality reports referred to in paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 4a(2) of this Regulation. They shall not impose a significant additional burden or cost on the Member States.
+5.   Member States shall provide the Commission (Eurostat) without delay with any relevant information or change with regard to the implementation of this Regulation that would, in any substantial way, influence the quality of the data transmitted.
+6.   Upon a duly justified request from the Commission (Eurostat), Member States shall, without delay, provide any additional clarification necessary to assess the quality of the statistical data.
+
+(*2)  Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Union institutions and bodies (OJ L 264, 25.9.2006, p. 13).’;"
+                        
+(3)
+The following Articles are inserted:
+‘Article 4a
+Committee procedure
+1.   The Commission shall be assisted by the European Statistical System Committee established by Regulation (EC) No 223/2009. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Article 4b
+Derogations
+1.   Where the application of this Regulation would necessitate major adaptations in a national statistical system of a Member State as regards the implementation of Chapter VII of Annex I, and of the transmission programme of data for REAA as referred to in Annex II, the Commission may adopt implementing acts granting derogations to that Member State for a maximum duration of 2 years. The first date for transmission of the data for REAA shall, however, not in any event be later than 30 September 2025. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 4a(2).
+2.   The Member State that decides to apply for a derogation referred to in paragraph 1 shall submit a duly reasoned request for such a derogation to the Commission by 21 August 2022.
+3.   The Union may provide financial contributions from the general budget of the Union to the national statistical institutes and other national authorities referred to in Article 5(2) of Regulation (EC) No 223/2009 in order to cover the implementation costs of this Regulation when the setting up of REAA necessitates major adaptations in the national statistical system of a Member State.’;
+(4)
+Annex I is amended in accordance with Annex I to this Regulation;
+(5)
+Annex II is replaced by the text set out in Annex II to this Regulation.

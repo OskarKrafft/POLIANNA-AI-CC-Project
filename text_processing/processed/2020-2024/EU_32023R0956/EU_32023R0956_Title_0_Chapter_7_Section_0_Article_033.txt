@@ -1,0 +1,5 @@
+Article 33
+Importation of goods
+1.   The customs authorities shall inform the importer or, in the situations covered by Article 32, the indirect customs representative of the reporting obligation referred to in Article 35 no later than at the moment of the release of goods for free circulation.
+2.   The customs authorities shall periodically and automatically, in particular by means of the surveillance mechanism established pursuant to Article 56(5) of Regulation (EU) No 952/2013 or by electronic means of data transmission, communicate to the Commission information on imported goods, including processed products resulting from the outward processing procedure. Such information shall include the EORI number of the customs declarant and of the importer, the eight-digit CN code, the quantity, the country of origin, the date of the customs declaration and the customs procedure.
+3.   The Commission shall communicate the information referred to in paragraph 2 to the competent authorities of the Member States where the customs declarant and, where applicable, the importer are established.

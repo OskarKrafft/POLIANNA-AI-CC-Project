@@ -1,0 +1,43 @@
+Article 3
+Targets for recharging infrastructure dedicated to light-duty electric vehicles
+1.   Member States shall ensure that, in their territory, publicly accessible recharging stations dedicated to light-duty electric vehicles are deployed in a way that is commensurate with the uptake of light-duty electric vehicles and that they provide sufficient power output for those vehicles.
+To that end, Member States shall ensure that, at the end of each year, starting from 2024, the following power output targets are met cumulatively:
+(a)
+for each light-duty battery electric vehicle registered in their territory, a total power output of at least 1,3 kW is provided through publicly accessible recharging stations; and
+(b)
+for each light-duty plug-in hybrid vehicle registered in their territory, a total power output of at least 0,80 kW is provided through publicly accessible recharging stations.
+2.   When the share of light-duty battery electric vehicles compared to the total fleet of light-duty vehicles registered in the territory of a Member State reaches at least 15 % and the Member State demonstrates that the implementation of the requirements set out in paragraph 1, second subparagraph, has adverse effects in that Member State, in that it is discouraging private investments, and is no longer justified, that Member State may submit to the Commission a reasoned request for authorisation to apply lower requirements in terms of level of total power output or to cease to apply such requirements.
+3.   The Commission shall, within six months of receipt of a reasoned request submitted pursuant to paragraph 2, adopt a decision as justified in each case.
+4.   Member States shall ensure a minimum coverage of publicly accessible recharging points dedicated to light-duty electric vehicles on the road network in their territory.
+To that end, Member States shall ensure that:
+(a)
+along the TEN-T core road network, publicly accessible recharging pools dedicated to light-duty electric vehicles and meeting the following requirements are deployed in each direction of travel with a maximum distance of 60 km between them:
+(i)
+by 31 December 2025, each recharging pool offers a power output of at least 400 kW and includes at least one recharging point with an individual power output of at least 150 kW;
+(ii)
+by 31 December 2027, each recharging pool offers a power output of at least 600 kW and includes at least two recharging points with an individual power output of at least 150 kW;
+(b)
+along the TEN-T comprehensive road network, publicly accessible recharging pools dedicated to light-duty electric vehicles and meeting the following requirements are deployed in each direction of travel with a maximum distance of 60 km between them:
+(i)
+by 31 December 2027, along at least 50 % of the length of the TEN-T comprehensive road network, each recharging pool offers a power output of at least 300 kW and includes at least one recharging point with an individual power output of at least 150 kW;
+(ii)
+by 31 December 2030, each recharging pool offers a power output of at least 300 kW and includes at least one recharging point with an individual power output of at least 150 kW;
+(iii)
+by 31 December 2035, each recharging pool offers a power output of at least 600 kW and includes at least two recharging points with an individual power output of at least 150 kW.
+5.   The calculation of the percentage of the length of TEN-T comprehensive road network referred to in paragraph 4, point (b)(i), shall be based on the following elements:
+(a)
+for the calculation of the denominator: the total length of the TEN-T comprehensive road network within the territory of the Member State;
+(b)
+for the calculation of the numerator: the cumulated length of the sections of the TEN-T comprehensive road network between two publicly accessible recharging pools dedicated to light-duty electric vehicles meeting the requirements set out in paragraph 4, point (b)(i), excluding any sections of the TEN-T comprehensive road network between two of those recharging pools that are more than 60 km apart.
+6.   A single publicly accessible recharging pool dedicated to light-duty electric vehicles may be deployed along the TEN-T road network for both directions of travel provided that:
+(a)
+that recharging pool is easily accessible from both directions of travel;
+(b)
+that recharging pool is adequately signposted; and
+(c)
+the requirements set out in paragraph 4 in terms of the maximum distance between recharging pools, total power output of the recharging pool, number of recharging points and power output of single recharging points applicable for a single direction of travel are complied with for both directions of travel.
+7.   By way of derogation from paragraph 4 of this Article, along roads of the TEN-T network with total annual average daily traffic of fewer than 8 500 light-duty vehicles and where the deployment of infrastructure cannot be justified in socio-economic cost-benefit terms, Member States may provide that a publicly accessible recharging pool dedicated to light-duty electric vehicles serves both directions of travel provided that the requirements set out in paragraph 4 of this Article, in terms of the maximum distance between recharging pools, the total power output of the recharging pool, the number of recharging points and the power output of single recharging points applicable for a single direction of travel, are complied with, and that the recharging pool is easily accessible from both directions of travel and adequately signposted. Member States shall notify the Commission of any cases in which they have made use of the derogation referred to in this paragraph. Member States shall review those cases every two years as part of the national progress reporting referred to in Article 15.
+8.   By way of derogation from paragraph 4 of this Article, along roads of the TEN-T network with a total annual average daily traffic of fewer than 8 500 light-duty vehicles and where the deployment of infrastructure cannot be justified in socio-economic cost-benefit terms, Member States may reduce, by up to 50 %, the total power output of a publicly accessible recharging pool dedicated to light-duty vehicles required pursuant to paragraph 4 of this Article, provided that that recharging pool serves only one direction of travel and that the other requirements set out in paragraph 4 of this Article, in terms of the maximum distance between recharging pools, the number of recharging points and the power output of single recharging points, are complied with. Member States shall notify the Commission of any cases in which they have made use of the derogation referred to in this paragraph. Member States shall review those cases every two years as part of the national progress reporting referred to in Article 15.
+9.   By way of derogation from the requirement relating to the maximum distance of 60 km between the publicly accessible recharging pools dedicated to light-duty vehicles set out in paragraph 4, points (a) and (b), of this Article, Member States may allow a longer distance, of up to 100 km, for such recharging pools along roads of the TEN-T network with a total annual average daily traffic of fewer than 3 000 light-duty vehicles, provided that the distance between recharging pools is adequately signposted. Member States shall notify the Commission of any cases in which they have made use of the derogation referred to in this paragraph. Member States shall review those cases every two years as part of the national progress reporting referred to in Article 15.
+10.   Where a Member State has notified the Commission of a case in which it has made use of a derogation referred to in paragraph 7, the requirements set out in paragraph 4, points (a) and (b), in terms of the maximum distance between recharging pools shall be deemed to have been complied with.
+11.   Neighbouring Member States shall ensure that the maximum distances referred to in paragraph 4, points (a) and (b), are not exceeded for cross-border sections of the TEN-T core road network and TEN-T comprehensive road network.

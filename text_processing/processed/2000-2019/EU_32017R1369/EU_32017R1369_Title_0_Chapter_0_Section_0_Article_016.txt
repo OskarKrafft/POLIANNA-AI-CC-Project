@@ -1,0 +1,49 @@
+Article 16
+Delegated Acts
+1.   The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to supplement this Regulation by establishing detailed requirements relating to labels for specific product groups.
+2.   The delegated acts referred to in paragraph 1 shall specify product groups which satisfy the following criteria:
+(a)
+according to the most recently available figures and considering the quantities placed on the Union market, the product group shall have significant potential for saving energy and where relevant, other resources;
+(b)
+within the product group, models with equivalent functionality shall differ significantly in the relevant performance levels;
+(c)
+there shall be no significant negative impact as regards the affordability and the life cycle cost of the product group;
+(d)
+the introduction of energy labelling requirements for a product group shall not have a significant negative impact on the functionality of the product during use;
+3.   Delegated acts relating to specific product groups shall specify, in particular:
+(a)
+the definition of the specific product group falling under the definition of ‘energy-related product’ set out in point 1 of Article 2 which is to be covered by the detailed labelling requirements;
+(b)
+the design and content of the label, including a scale showing consumption of energy consisting of A to G, which as far as possible shall have uniform design characteristics across product groups and shall in all cases be clear and legible. The A to G steps of the classification shall correspond to significant energy and cost savings and appropriate product differentiation from the customer's perspective. It shall also specify how the A to G steps of the classification, and where applicable energy consumption is displayed in a prominent position on the label;
+(c)
+where appropriate, the use of other resources and supplementary information concerning the product, in which case the label shall emphasise the energy efficiency of the product. Supplementary information shall be unambiguous and with no negative impact on the clear intelligibility and effectiveness of the label as a whole towards customers. It shall be based on data relating to physical product characteristics that are measurable and verifiable by market surveillance authorities;
+(d)
+where appropriate, the inclusion of a reference in the label allowing customers to identify products that are energy smart, that is to say, capable of automatically changing and optimising their consumption patterns in response to external stimuli (such as signals from or via a central home energy managing system, price signals, direct control signals, local measurement) or capable of delivering other services which increase energy efficiency and the up-take of renewable energy, with the aim to improve the environmental impact of energy use over the whole energy system;
+(e)
+the locations where the label shall be displayed, such as attached to the product unit where no damage is caused to it, printed on the packaging, provided in electronic format or displayed online, taking into account the requirements of Article 3(1), and the implications for customers, suppliers and dealers;
+(f)
+where appropriate, electronic means for labelling products;
+(g)
+the manner in which the label and product information sheet are to be provided in the case of distance selling;
+(h)
+the required contents and, where appropriate, the format and other details concerning the product information sheet and the technical documentation, including the possibility to enter the parameters of the product information sheet into the database in accordance with Article 3(1);
+(i)
+the verification tolerances to be used by Member States when verifying compliance with the requirements;
+(j)
+how the energy class and the range of the efficiency classes available on the label shall be included in visual advertisements and technical promotional material, including legibility and visibility;
+(k)
+the measurement and calculation methods referred to in Article 13, to be used to determine label and product information sheet information, including the definition of the energy efficiency index (EEI), or equivalent parameter;
+(l)
+whether for larger appliances a higher level of energy efficiency is required to reach a given energy class;
+(m)
+the format of any additional references on the label allowing customers to access through electronic means more detailed information on the product performance included in the product information sheet. The format of those references may take the form of a website address, a dynamic quickresponse code (QR code), a link on online labels or any other appropriate consumer-oriented means;
+(n)
+how, where appropriate energy classes describing the product's energy consumption during use should be shown on the product's interactive display;
+(o)
+the date for the evaluation and possible consequent revision of the delegated act;
+(p)
+where appropriate, differences in energy performances in different climatic regions;
+(q)
+as regards the requirement of keeping information in the compliance part of the database in Article 4(6), a retention period of less than 15 years, where appropriate in relation to the average lifespan of the product.
+4.   The Commission shall adopt a separate delegated act for each specific product group. When the Commission decides on the timing for the adoption of the delegated act for a specific product group, it shall not delay the adoption on grounds related to the adoption of a delegated act concerning another specific product group, unless exceptional circumstances warrant otherwise.
+5.   The Commission shall keep an updated inventory of all relevant delegated acts, as well as of the measures developing Directive 2009/125/EC, including complete references to all relevant harmonised standards.

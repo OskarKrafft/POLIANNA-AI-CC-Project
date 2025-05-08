@@ -1,0 +1,12 @@
+Article 27
+Transparency with regard to persons and entities receiving funding for the implementation of the Ukraine Plan
+1.   Ukraine shall publish up-to-date data on persons and entities, including contractors, receiving amounts of funding exceeding the equivalent of EUR 100 000 cumulatively over the period of four years for the implementation of reforms and investments specified in the Ukraine Plan.
+2.   For persons and entities referred to in paragraph 1, the following information shall be published in a machine-readable format on a webpage, in order of total funds received, having due regard to the requirements of confidentiality and security, in particular the protection of personal data:
+(a)
+in the case of a legal person, the recipient’s full legal name and VAT identification number or tax identification number, where available, or another unique identifier established at the national level;
+(b)
+in the case of a natural person, the first and last name or names of the recipient;
+(c)
+the amount received by the recipient and the reforms and investments under the Ukraine Plan that this amount contributes to implementing.
+3.   The information referred to in paragraph 2 shall not be published where disclosure risks threatening the rights and freedoms of the persons or entities concerned or seriously harming the commercial interests of the recipients. Such information shall be made available to the Commission and to the Audit Board.
+4.   Ukraine shall transmit electronically to the Commission at least once a year the data on the persons and entities referred to in paragraph 1 of this Article, in a machine-readable format to be defined in the Framework Agreement, as referred to in Article 9(4), point (i).

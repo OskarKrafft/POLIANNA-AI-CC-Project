@@ -1,0 +1,36 @@
+Article 58
+Transitional provisions
+1.   Without prejudice to Chapters II and III, this Regulation shall not invalidate, before the dates for placing on the market of engines set out in Annex III, any EU type-approval or exemption.
+2.   Approval authorities may, in accordance with the relevant legislation applicable on 5 October 2016, continue to grant EU type-approvals until the mandatory dates for the EU type-approval of engines set out in Annex III and continue to grant exemptions in accordance with that legislation until the mandatory dates for the placing on the market of engines set out in Annex III.
+Member States may, in accordance with the relevant legislation applicable on 5 October 2016 continue to permit the placing on the market of engines until the mandatory dates for the placing on the market of engines set out in Annex III.
+3.   By way of derogation from this Regulation, engines which have received an EU type-approval pursuant to the relevant legislation applicable on 5 October 2016, or which meet the requirements set out by the Central Commission for the Navigation of the Rhine (CCNR) and adopted as CCNR Stage II, in the framework of the Revised Convention for Rhine Navigation, may continue to be placed on the market until the dates for the placing on the market of engines set out in Annex III.
+In such cases, national authorities shall not prohibit, restrict or impede the placing on the market of engines complying with the approved type.
+4.   Engines which on 5 October 2016 did not fall within the scope of Directive 97/68/EC may continue to be placed on the market on the basis of the national rules in force, if any, until the dates for the placing on the market of engines set out in Annex III.
+5.   Without prejudice to Article 5(3), Article 18(2) and, where applicable, Directive 2008/57/EC and Commission Regulation (EU) No 1302/2014 (22), transition engines and, where applicable, the non-road mobile machinery in which those transition engines are installed may continue to be placed on the market during the transition period provided that the machinery in which the transition engine is installed has a production date not later than 18 months following the start of the transition period.
+For engines of category NRE, Member States shall authorise the extension of the transition period and of the 18-month period referred to in the first subparagraph by an additional 12 months for OEMs with a total yearly production of less than 100 units of non-road mobile machinery equipped with internal combustion engines. For the purposes of the calculation of that total yearly production, all OEMs under the control of the same natural or legal person shall be considered to be a single OEM.
+For engines of category NRE used in mobile cranes, the transition period and the 18-month period referred to in the first subparagraph shall be extended by 12 months.
+For engines of category NRS with an engine power of less than 19 kW used in snow throwers, the transition period and the 18-month period referred to in the first subparagraph shall be extended by 24 months.
+6.   Subject to paragraph 5 of this Article, transition engines shall meet at least one of the following requirements:
+(a)
+be in conformity with engine types or engine families the EU type-approval of which is no longer valid pursuant to point (a) of Article 30(2), and are, on the engines' production dates, covered by a valid EU type-approval that is in compliance with the latest applicable emission limits defined in the relevant legislation applicable on 5 October 2016.
+(b)
+belong to a power range that was not subject to pollutant emission type-approval at Union level on 5 October 2016; or
+(c)
+be used or intended to be used in an application that was not subject to pollutant emission related type-approval at Union level on 5 October 2016.
+7.   The period for placing transition engines on the market shall be limited to:
+(a)
+24 months from the applicable date for the placing on the market of engines set out in Annex III, in the case set out in the first subparagraph of paragraph 5;
+(b)
+36 months from the applicable date for the placing on the market of engines set out in Annex III, in the case set out in the second and third subparagraphs of paragraph 5;
+(c)
+48 months from the applicable date for the placing on the market of engines set out in Annex III, in the case set out in the fourth subparagraph of paragraph 5.
+8.   Manufacturers shall ensure that transition engines placed on the market during the transition period comply with the marking referred to in point (d) of Article 32(2).
+9.   Notwithstanding Article 5(3), Article 18(2) and Article 22, Member States may, for a period that ends no later than 17 September 2026 authorise the placing on the market of engines of category RLL with a maximum net power greater than 2 000 kW that do not comply with the emission limits set out in Annex II to be installed in locomotives which only run on a technically isolated 1 520 mm railway network. During that period, the engines placed on the market shall, as a minimum, comply with the emission limits that engines had to meet to be placed on the market on 31 December 2011. The approval authorities of the Member States shall grant EU type-approval and shall authorise the placing on the market of such engines.
+10.   Notwithstanding Articles 5(3) and 18(2), Member States shall authorise the placing on the market of replacement engines, for a period not longer than 15 years, starting from the applicable dates for the placing on the market of Stage V engines set out in Annex III, provided that the engines belong to a category equivalent to NRS with a reference power no less than 19 kW, or belong to a category equivalent to NRG, where the replacement engine and the original engine belong to an engine category or power range that was not subject to type-approval at Union level on 31 December 2016.
+11.   Notwithstanding Articles 5(3) and 18(2), Member States shall authorise the placing on the market of replacement engines, for a period not longer than 20 years, starting from the applicable dates for the placing on the market of Stage V engines set out in Annex III, provided that the engines:
+(a)
+belong to category NRE with a reference power no less than 19 kW and no greater than 560 kW, and comply with an emission stage that expired not more than 20 years before the placing on the market of those engines and that is at least as stringent as the emission limits that the engine to be replaced had to meet when it was placed on the market originally;
+(b)
+belong to a category equivalent to NRE and with a reference power greater than 560 kW, where the replacement engine and the original engine belong to an engine category or power range that was not subject to type-approval at Union level on 31 December 2016.
+12.   Member States may decide not to apply this Regulation, for a period ending no later than 17 September 2026 to engines installed in cotton harvesting machinery.
+13.   Manufacturers shall ensure that replacement engines comply with the marking referred to in point (e) of Article 32(2).

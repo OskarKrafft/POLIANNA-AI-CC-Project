@@ -1,0 +1,12 @@
+Article 23
+Disclosure to the public of the methodologies, models and key rating assumptions used in ESG rating activities
+1.   ESG rating providers shall disclose on their website, as a minimum, the methodologies, models and key rating assumptions that they use in their ESG rating activities, including the information referred to in point (d) of Annex I and point 1 of Annex III. Such disclosure shall be made in a clear and transparent manner and identified in a separate section of the ESG rating provider’s website.
+The ESG rating provider shall disclose the information referred to in point 1 of Annex III at the latest when it starts issuing ESG ratings.
+2.   Separate E, S and G ratings shall be provided rather than a single ESG rating that aggregates E, S and G factors. ESG rating providers shall provide the disclosures referred to in this Article and in Article 24 separately for each factor.
+3.   By way of derogation from paragraph 2 of this Article, ESG rating providers may provide a single ESG rating that aggregates E, S and G factors if they provide, without prejudice to further disclosure obligations under this Regulation, the information referred to in point (h) of point 1 of Annex III.
+4.   ESMA shall develop draft regulatory technical standards to specify further the elements to be disclosed in accordance with paragraph 1, first subparagraph. Those elements shall not include any additional disclosure requirements other than those listed in point 1 of Annex III.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph of this paragraph to the Commission by 2 October 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+5.   ESMA may develop draft implementing technical standards to specify the data standards, formats and templates that ESG rating providers are to use to present the information referred to in paragraph 1.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph of this paragraph to the Commission.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1095/2010.

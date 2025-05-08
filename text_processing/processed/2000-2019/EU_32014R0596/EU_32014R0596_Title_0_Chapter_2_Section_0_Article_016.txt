@@ -1,0 +1,14 @@
+Article 16
+Prevention and detection of market abuse
+1.   Market operators and investment firms that operate a trading venue shall establish and maintain effective arrangements, systems and procedures aimed at preventing and detecting insider dealing, market manipulation and attempted insider dealing and market manipulation, in accordance with Articles 31 and 54 of Directive 2014/65/EU.
+A person referred to in the first subparagraph shall report orders and transactions, including any cancellation or modification thereof, that could constitute insider dealing, market manipulation or attempted insider dealing or market manipulation to the competent authority of the trading venue without delay.
+2.   Any person professionally arranging or executing transactions shall establish and maintain effective arrangements, systems and procedures to detect and report suspicious orders and transactions. Where such a person has a reasonable suspicion that an order or transaction in any financial instrument, whether placed or executed on or outside a trading venue, could constitute insider dealing, market manipulation or attempted insider dealing or market manipulation, the person shall notify the competent authority as referred to in paragraph 3 without delay.
+3.   Without prejudice to Article 22, persons professionally arranging or executing transactions shall be subject to the rules of notification of the Member State in which they are registered or have their head office, or, in the case of a branch, the Member State where the branch is situated. The notification shall be addressed to the competent authority of that Member State.
+4.   The competent authorities as referred to in paragraph 3 receiving the notification of suspicious orders and transactions shall transmit such information immediately to the competent authorities of the trading venues concerned.
+5.   In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards to determine:
+(a)
+appropriate arrangements, systems and procedures for persons to comply with the requirements established in paragraphs 1 and 2; and
+(b)
+the notification templates to be used by persons to comply with the requirements established in paragraphs 1 and 2.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2016.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

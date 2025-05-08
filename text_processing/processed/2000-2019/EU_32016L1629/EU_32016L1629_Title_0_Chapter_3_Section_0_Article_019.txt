@@ -1,0 +1,35 @@
+Article 19
+European Hull Data Base
+1.   The Commission shall keep the EHDB in order to support administrative measures for maintaining safety and ease of navigation and to ensure application of this Directive.
+Any processing of personal data by the Member States shall be carried out in accordance with Union law on the protection of personal data, in particular Regulation (EU) 2016/679 of the European Parliament and of the Council (9).
+Any processing of personal data by the Commission shall be carried out in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council (10).
+2.   Member States shall ensure that, for each craft, the competent authorities enter, without delay, in the EHDB:
+(a)
+the data identifying and describing the craft in accordance with this Directive;
+(b)
+the data relating to the certificates issued, renewed, replaced and withdrawn, as well as the competent authority which issued the certificate, in accordance with this Directive;
+(c)
+a digital copy of all certificates issued by competent authorities in accordance with this Directive;
+(d)
+the data on any rejected or pending applications for certificates in accordance with this Directive; and
+(e)
+any changes to the data referred to in points (a) to (d).
+3.   The data referred to in paragraph 2 may be processed by competent authorities of Member States, contracting parties to the Revised Convention for Rhine Navigation and third countries that are entrusted with tasks related to the application of this Directive and of Directive 2005/44/EC of the European Parliament and of the Council (11), for the following purposes:
+(a)
+applying this Directive and of Directive 2005/44/EC;
+(b)
+ensuring waterway traffic and infrastructure management;
+(c)
+maintaining or enforcing safety of navigation;
+(d)
+collecting statistical data.
+4.   The competent authority of a Member State may transfer personal data to a third country or international organisation provided that it does so only on a case-by-case basis and that the requirements of Regulation (EU) 2016/679, and in particular those set out in Chapter V thereof, are fulfilled. Member States shall ensure that the transfer is necessary for the purposes referred to in paragraph 3 of this Article. Member States shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation unless it is given express written authorisation to do so and complies with the conditions specified by the competent authority of the Member State.
+5.   The Commission may, on a case-by-case basis, transfer personal data or grant access to the EHDB to an authority of a third country or international organisation provided that the transfer or access is necessary for the purposes referred to in paragraph 3 of this Article, and provided the requirements of Article 9 of Regulation (EC) No 45/2001 are fulfilled. The Commission shall ensure that the transfer or access is necessary for the purposes referred to in paragraph 3 of this Article. The Commission shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation unless it is given express written authorisation and complies with the conditions specified by the Commission.
+6.   The competent authority shall ensure that the data related to a craft is deleted from the database referred to in paragraph 1 when this craft is scrapped.
+7.   The Commission is empowered to adopt delegated acts in accordance with Article 32 further specifying:
+(a)
+the data to be entered in the database by Member States;
+(b)
+the types of access permitted, taking into account the categories of the recipients of data and the purposes for which such data are processed referred to in paragraph 3 of this Article;
+(c)
+the instructions regarding the use and operation of the database, in particular with respect to data security measures, encoding and processing of data and interconnection of the database with the registers referred to in Article 17.

@@ -1,0 +1,28 @@
+Article 6
+Requirements and exemptions regarding DLT TSSs
+1.   An investment firm or market operator operating a DLT TSS shall be subject to:
+(a)
+the requirements that apply to a multilateral trading facility under Regulation (EU) No 600/2014 and Directive 2014/65/EU; and
+(b)
+
+mutatis mutandis, the requirements that apply to a CSD under Regulation (EU) No 909/2014, with the exception of Articles 9, 16, 17, 18, 20, 26, 27, 28, 31, 42, 43, 44, 46 and 47 of that Regulation.
+The first subparagraph does not apply in respect of those requirements from which the investment firm or market operator operating the DLT TSS has been exempted under Article 4(2) and (3) and Article 5(2) to (9), provided that that investment firm or market operator complies with:
+(a)
+Article 7;
+(b)
+Article 4(2), (3) and (4) and Article 5(2) to (10); and
+(c)
+any compensatory measures that the competent authority deems appropriate in order to meet the objectives of the provisions in respect of which an exemption has been requested, or in order to ensure investor protection, market integrity or financial stability.
+2.   A CSD operating a DLT TSS shall be subject to:
+(a)
+the requirements that apply to a CSD under Regulation (EU) No 909/2014; and
+(b)
+
+mutatis mutandis, the requirements that apply to a multilateral trading facility under Regulation (EU) No 600/2014 and Directive 2014/65/EU, with the exception of Articles 5 to 13 of that Directive.
+The first subparagraph does not apply in respect of those requirements from which the CSD operating the DLT TSS has been exempted under Article 4(2) and (3) and Article 5(2) to (9), provided that that CSD complies with:
+(a)
+Article 7;
+(b)
+Article 4(2), (3) and (4) and Article 5(2) to (10); and
+(c)
+any compensatory measures that the competent authority deems appropriate in order to meet the objectives of the provisions in respect of which an exemption has been requested or in order to ensure investor protection, market integrity or financial stability.

@@ -1,0 +1,95 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions apply:
+(1)
+‘fluorinated greenhouse gases’ means the hydrofluorocarbons, perfluorocarbons, sulphur hexafluoride and other greenhouse gases that contain fluorine, listed in Annex I, or mixtures containing any of those substances;
+(2)
+‘hydrofluorocarbons’ or ‘HFCs’ means the substances listed in section 1 of Annex I, or mixtures containing any of those substances;
+(3)
+‘perfluorocarbons’ or ‘PFCs’ means the substances listed in section 2 of Annex I, or mixtures containing any of those substances;
+(4)
+‘sulphur hexafluoride’ or ‘SF6’ means the substance listed in section 3 of Annex I, or mixtures containing that substance;
+(5)
+‘mixture’ means a fluid composed of two or more substances, at least one of which is a substance listed in Annex I or in Annex II;
+(6)
+‘global warming potential’ or ‘GWP’ means the climatic warming potential of a greenhouse gas relative to that of carbon dioxide (‘CO2’), calculated in terms of the 100-year warming potential of one kilogram of a greenhouse gas relative to one kilogram of CO2, as set out in Annexes I, II and IV or in the case of mixtures, calculated in accordance with Annex IV;
+(7)
+‘tonne(s) of CO2 equivalent’ means a quantity of greenhouse gases„ expressed as the product of the weight of the greenhouse gases in metric tonnes and of their global warming potential;
+(8)
+‘operator’ means the natural or legal person exercising actual power over the technical functioning of products and equipment covered by this Regulation; a Member State may, in defined, specific situations, designate the owner as being responsible for the operator’s obligations;
+(9)
+‘use’ means the utilisation of fluorinated greenhouse gases in the production, maintenance or servicing, including the refilling, of products and equipment, or in other processes referred to in this Regulation;
+(10)
+‘placing on the market’ means supplying or making available to another party in the Union for the first time, for payment or free of charge, or using for its own account in the case of a producer, and includes customs release for free circulation in the Union;
+(11)
+‘hermetically sealed equipment’ means equipment in which all fluorinated greenhouse gas containing parts are made tight by welding, brazing or a similar permanent connection, which may include capped valves or capped service ports that allow proper repair or disposal, and which have a tested leakage rate of less than 3 grams per year under a pressure of at least a quarter of the maximum allowable pressure;
+(12)
+‘container’ means a product which is designed primarily for transporting or storing fluorinated greenhouse gases;
+(13)
+‘a non-refillable container’ means a container which cannot be refilled without being adapted for that purpose or is placed on the market without provision having been made for its return for refilling;
+(14)
+‘recovery’ means the collection and storage of fluorinated greenhouse gases from products, including containers, and equipment during maintenance or servicing or prior to the disposal of the products or equipment;
+(15)
+‘recycling’ means the reuse of a recovered fluorinated greenhouse gas following a basic cleaning process;
+(16)
+‘reclamation’ means the reprocessing of a recovered fluorinated greenhouse gas in order to match the equivalent performance of a virgin substance, taking into account its intended use;
+(17)
+‘destruction’ means the process of permanently transforming or decomposing all or most of a fluorinated greenhouse gas into one or more stable substances that are not fluorinated greenhouse gases;
+(18)
+‘decommissioning’ means the final shut-down and removal from operation or usage of a product or piece of equipment containing fluorinated greenhouse gases;
+(19)
+‘repair’ means the restoration of damaged or leaking products or equipment that contain, or whose functioning relies upon, fluorinated greenhouse gases, involving a part containing or designed to contain such gases;
+(20)
+‘installation’ means joining two or more pieces of equipment or circuits containing or designed to contain fluorinated greenhouse gases, with a view to assembling a system in the location where it will be operated, that entails joining together gas carrying conductors of a system to complete a circuit irrespective of the need to charge the system after assembly;
+(21)
+‘maintenance or servicing’ means all activities, excluding recovery in accordance with Article 8 and leak checks in accordance with Article 4 and point (b) of Article 10(1) of this Regulation, that entail breaking into the circuits containing or designed to contain fluorinated greenhouse gases, in particular supplying the system with fluorinated greenhouse gases, removing one or more pieces of circuit or equipment, reassembling two or more pieces of circuit or equipment, as well as repairing leaks;
+(22)
+‘virgin substance’ means a substance which has not previously been used;
+(23)
+‘stationary’ means not normally in transit during operation and includes moveable room air-conditioning appliances;
+(24)
+‘mobile’ means normally in transit during operation;
+(25)
+‘one-component foam’ means a foam composition contained in a single aerosol dispenser in unreacted or partly reacted liquid state and that expands and hardens when it leaves the dispenser;
+(26)
+‘refrigerated truck’ means a motor vehicle with a mass of more than 3,5 tonnes that is designed and constructed primarily to carry goods and that is equipped with a refrigeration unit;
+(27)
+‘refrigerated trailer’ means a vehicle that is designed and constructed to be towed by a truck or a tractor, primarily to carry goods and that is equipped with a refrigeration unit;
+(28)
+‘technical aerosol’ means an aerosol dispenser used in maintaining, repairing, cleaning, testing, disinsecting and manufacturing products and equipment, installing equipment, and in other applications;
+(29)
+‘leakage detection system’ means a calibrated mechanical, electrical or electronic device for detecting leakage of fluorinated greenhouse gases which, on detection, alerts the operator;
+(30)
+‘undertaking’ means any natural or legal person who:
+(a)
+produces, uses, recovers, collects, recycles, reclaims, or destroys fluorinated greenhouse gases;
+(b)
+imports or exports fluorinated greenhouse gases or products and equipment that contain such gases;
+(c)
+places on the market fluorinated greenhouse gases or products and equipment that contain, or whose functioning relies upon, such gases;
+(d)
+installs, services, maintains, repairs, checks for leaks or decommissions equipment that contains, or whose functioning relies upon, fluorinated greenhouse gases;
+(e)
+is the operator of equipment that contains, or whose functioning relies upon, fluorinated greenhouse gases;
+(f)
+produces, imports, exports, places on the market or destroys gases listed in Annex II;
+(g)
+places on the market products or equipment containing gases listed in Annex II;
+(31)
+‘feedstock’ means any fluorinated greenhouse gas, or substance listed in Annex II, that undergoes chemical transformation in a process in which it is entirely converted from its original composition and its emissions are insignificant;
+(32)
+‘commercial use’ means used for the storage, display or dispensing of products, for sale to end users, in retail and food services;
+(33)
+‘fire protection equipment’ means the equipment and systems utilised in fire prevention or suppression applications and includes fire extinguishers;
+(34)
+‘organic Rankine cycle’ means a cycle containing condensable fluorinated greenhouse gas converting heat from a heat source into power for the generation of electric or mechanical energy;
+(35)
+‘military equipment’ mean arms, munitions and war material intended specifically for military purposes which are necessary for the protection of the essential interests of the security of Member States;
+(36)
+‘electrical switchgear’ means switching devices and their combination with associated control, measuring, protective and regulating equipment, and assemblies of such devices and equipment with associated interconnections, accessories, enclosures and supporting structures, intended for usage in connection with the generation, transmission, distribution and conversion of electric energy;
+(37)
+‘multipack centralised refrigeration systems’ means systems with two or more compressors operated in parallel, which are connected to one or more common condensers and to a number of cooling devices such as display cases, cabinets, freezers or to chilled store rooms;
+(38)
+‘primary refrigerant circuit of cascade systems’ means the primary circuit in indirect medium temperature systems where a combination of two or more separate refrigeration circuits are connected in series such that the primary circuit absorbs the condenser heat from a secondary circuit for the medium temperature;
+(39)
+‘single split air conditioning systems’ means systems for room air conditioning that consist of one outdoor unit and one indoor unit linked by refrigerant piping, needing installation at the site of usage.

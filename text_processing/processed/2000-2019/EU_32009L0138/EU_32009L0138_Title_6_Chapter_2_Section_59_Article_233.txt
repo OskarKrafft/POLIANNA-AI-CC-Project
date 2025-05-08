@@ -1,0 +1,22 @@
+Article 233
+Method 2 (Alternative method): Deduction and aggregation method
+1.   The group solvency of the participating insurance or reinsurance undertaking shall be the difference between the following:
+(a)
+the aggregated group eligible own funds, as provided for in paragraph 2;
+(b)
+the value in the participating insurance or reinsurance undertaking of the related insurance or reinsurance undertakings and the aggregated group Solvency Capital Requirement, as provided for in paragraph 3.
+2.   The aggregated group eligible own funds are the sum of the following:
+(a)
+the own funds eligible for the Solvency Capital Requirement of the participating insurance or reinsurance undertaking;
+(b)
+the proportional share of the participating insurance or reinsurance undertaking in the own funds eligible for the Solvency Capital Requirement of the related insurance or reinsurance undertakings.
+3.   The aggregated group Solvency Capital Requirement is the sum of the following:
+(a)
+the Solvency Capital Requirement of the participating insurance or reinsurance undertaking;
+(b)
+the proportional share of the Solvency Capital Requirement of the related insurance or reinsurance undertakings.
+4.   Where the participation in the related insurance or reinsurance undertakings consists, wholly or in part, of an indirect ownership, the value in the participating insurance or reinsurance undertaking of the related insurance or reinsurance undertakings shall incorporate the value of such indirect ownership, taking into account the relevant successive interests, and the items referred to in paragraph 2(b) and paragraph 3(b) shall include the corresponding proportional shares, respectively, of the own funds eligible for the Solvency Capital Requirement of the related insurance or reinsurance undertakings and of the Solvency Capital Requirement of the related insurance or reinsurance undertakings.
+5.   In the case of an application for permission to calculate the Solvency Capital Requirement of insurance and reinsurance undertakings in the group on the basis of an internal model, submitted by an insurance or reinsurance undertaking and its related undertakings, or jointly by the related undertakings of an insurance holding company, Article 231 shall apply mutatis mutandis.
+6.   In determining whether the aggregated group Solvency Capital Requirement, calculated as set out in paragraph 3, appropriately reflects the risk profile of the group, the supervisory authorities concerned shall pay particular attention to any specific risks existing at group level which would not be sufficiently covered, because they are difficult to quantify.
+Where the risk profile of the group deviates significantly from the assumptions underlying the aggregated group Solvency Capital Requirement, a capital add-on to the aggregated group Solvency Capital Requirement may be imposed.
+Article 37(1) to (5), together with implementing measures taken in accordance with Article 37(6), shall apply mutatis mutandis.

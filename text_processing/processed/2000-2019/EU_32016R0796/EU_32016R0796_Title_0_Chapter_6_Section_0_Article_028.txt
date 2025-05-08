@@ -1,0 +1,8 @@
+Article 28
+System authority for the ERTMS
+1.   The Agency shall act as the system authority to ensure the coordinated development of the ERTMS within the Union, in accordance with relevant TSIs. To that end, the Agency shall maintain, monitor and manage the corresponding subsystem requirements, including the technical specifications for ETCS and GSM-R.
+2.   The Agency shall define, publish and apply the procedure for managing requests for changes to the ERTMS specifications. To that end, the Agency shall set up, maintain and update a register of requests for changes to ERTMS specifications and their status, accompanied by the relevant justifications.
+3.   The development of new versions of ERTMS technical specifications shall not be detrimental to the rate of deployment of the ERTMS, the stability of the specifications which is needed to optimise the production of ERTMS equipment, the return on investment for railway undertakings, infrastructure managers and keepers, and efficient planning of the deployment of the ERTMS.
+4.   The Agency shall develop and maintain the technical tools for managing the different versions of the ERTMS, with the aim of ensuring technical and operational compatibility between networks and vehicles fitted with different versions and of providing incentives for the swift and coordinated implementation of the versions in force.
+5.   In accordance with Article 5(10) of Directive (EU) 2016/797, the Agency shall ensure that successive versions of ERTMS equipment are technically compatible with earlier versions.
+6.   The Agency shall draw up and disseminate relevant application guidelines for stakeholders and explanatory documentation relating to the technical specifications for the ERTMS.

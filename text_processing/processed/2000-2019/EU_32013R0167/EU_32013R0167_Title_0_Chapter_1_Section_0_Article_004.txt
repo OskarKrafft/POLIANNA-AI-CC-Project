@@ -1,0 +1,50 @@
+Article 4
+Vehicle categories
+For the purposes of this Regulation the following vehicle categories shall apply:
+(1)
+‘category T’ comprises all wheeled tractors; each wheeled tractor category described in points 2 to 8 is supplemented at the end by an ‘a’ or ‘b’ index according to its design speed:
+(a)
+‘a’ for wheeled tractors with a maximum design speed below or equal to 40 km/h;
+(b)
+‘b’ for wheeled tractors with a maximum design speed above 40 km/h;
+(2)
+‘category T1’ comprises wheeled tractors, with the closest axle to the driver having a minimum track width of not less than 1 150 mm, with an unladen mass, in running order, of more than 600 kg, and with a ground clearance of not more than 1 000 mm;
+(3)
+‘category T2’ comprises wheeled tractors with a minimum track width of less than 1 150 mm, with an unladen mass, in running order, of more than 600 kg, with a ground clearance of not more than 600 mm; if the height of the centre of gravity of the tractor (measured in relation to the ground) divided by the average minimum track for each axle exceeds 0,90, the maximum design speed shall be restricted to 30 km/h;
+(4)
+‘category T3’ comprises wheeled tractors with an unladen mass, in running order, of not more than 600 kg;
+(5)
+‘category T4’ comprises special purpose wheeled tractors;
+(6)
+‘category T4.1’ (high-clearance tractors) comprises tractors designed for working with high-growing crops, such as vines. They feature a raised chassis or section of chassis, enabling them to advance in parallel with the crop with left and right wheels on either side of one or more rows of the crop. They are intended for carrying or operating tools which may be fitted at the front, between the axles, at the rear or on a platform. When the tractor is in working position the ground clearance perpendicular to the crop rows exceeds 1 000 mm. Where the height of the centre of gravity of the tractor, measured in relation to the ground, using the tyres normally fitted, divided by the average minimum track of all of the axles exceeds 0,90, the maximum design speed shall not exceed 30 km/h;
+(7)
+‘category T4.2’ (extra-wide tractors) comprises tractors characterised by their large dimensions, primarily intended for working large areas of farmland;
+(8)
+‘category T4.3’ (low-clearance tractors) comprises four-wheel drive tractors whose interchangeable equipment is intended for agricultural or forestry use and which are characterised by a supporting frame, equipped with one or more power take-offs, having a technically permissible mass no greater than 10 tonnes, for which the ratio of this mass to the maximum unladen mass in running order is less than 2,5 and having the centre of gravity, measured in relation to the ground using the tyres normally fitted, of less than 850 mm;
+(9)
+‘category C’ comprises track-laying tractors propelled by endless tracks or by a combination of wheels and endless tracks, with subcategories defined by analogy with category T;
+(10)
+‘category R’ comprises trailers; each trailer category described in points 11 to 14 is supplemented at the end by an ‘a’ or ‘b’ index, according to its design speed:
+(a)
+‘a’ for trailers with a maximum design speed below or equal to 40 km/h;
+(b)
+‘b’ for trailers with a maximum design speed above 40 km/h;
+(11)
+‘category R1’ comprises trailers, the sum of the technically permissible masses per axle of which does not exceed 1 500 kg;
+(12)
+‘category R2’ comprises trailers, the sum of the technically permissible masses per axle of which exceeds 1 500 kg but does not exceed 3 500 kg;
+(13)
+‘category R3’ comprises trailers, the sum of the technically permissible masses per axle of which exceeds 3 500 kg but does not exceed 21 000 kg;
+(14)
+‘category R4’ comprises trailers, the sum of the technically permissible masses per axle of which exceeds 21 000 kg;
+(15)
+‘category S’ comprises interchangeable towed equipment.
+Each category of interchangeable towed equipment is supplemented at the end by an ‘a’ or ‘b’ index, according to its design speed:
+(a)
+‘a’ for interchangeable towed equipment with a maximum design speed below or equal to 40 km/h;
+(b)
+‘b’ for interchangeable towed equipment with a maximum design speed above 40 km/h;
+(16)
+‘category S1’ comprises interchangeable towed equipment, the sum of the technically permissible masses per axle of which does not exceed 3 500 kg;
+(17)
+‘category S2’ comprises interchangeable towed equipment, the sum of the technically permissible masses per axle of which exceeds 3 500 kg.

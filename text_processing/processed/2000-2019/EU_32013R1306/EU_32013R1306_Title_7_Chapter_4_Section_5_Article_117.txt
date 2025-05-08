@@ -1,0 +1,7 @@
+Article 117
+Processing and protection of personal data
+1.   Member States and the Commission shall collect personal data for the purpose of carrying out their respective management, control, audit as well as monitoring and evaluation obligations under this Regulation and, in particular, those laid down in Chapter II of Title II, Title III, Chapters III and IV of Title IV, Titles V and VI and Chapter III of Title VII, as well as for statistical purposes, and shall not process this data in a way that is incompatible with that purpose.
+2.   Where personal data are processed for monitoring and evaluation purposes under Chapter III of Title VII, as well as for statistical purposes, they shall be made anonymous and processed in aggregated form only.
+3.   Personal data shall be processed in accordance with the rules of Directive 95/46/EC and Regulation (EC) No 45/2001. In particular, such data shall not be stored in a form which enables data subjects to be identified for longer than is necessary for the purposes for which those data were collected or for which they are further processed, taking into account the minimum retention periods laid down in the applicable national and Union law.
+4.   Member States shall inform the data subjects that their personal data may be processed by national and Union bodies in accordance with paragraph 1 and that in this respect they enjoy the rights set out in the respective data protection rules of Directive 95/46/EC and Regulation (EC) No 45/2001.
+5.   This Article shall be subject to Articles 111 to 114.

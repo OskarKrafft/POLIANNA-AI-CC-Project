@@ -1,0 +1,18 @@
+Article 6
+Methodology for the calculation of operational lifetime costs
+1.   For the purposes of Article 5(3)(b), second indent, operational lifetime costs for energy consumption, as well as for CO2 emissions and pollutant emissions as set out in Table 2 of the Annex, which are linked to the operation of the vehicles under purchase, shall be monetised and calculated using the methodology set out in the following points:
+(a)
+The operational lifetime cost of the energy consumption of a vehicle shall be calculated using the following methodology:
+—
+the fuel consumption per kilometre of a vehicle according to paragraph 2 shall be counted in units of energy consumption per kilometre whether this is given directly, which is the case for instance for electrical cars, or not. Where the fuel consumption is given in different units, it shall be converted into energy consumption per kilometre, using the conversion factors as set out in Table 1 of the Annex for the energy content of the different fuels,
+—
+a single monetary value per unit of energy shall be used. This single value shall be the lower of the cost per unit of energy of petrol or diesel before tax when used as a transport fuel,
+—
+operational lifetime cost of the energy consumption of a vehicle shall be calculated by multiplying the lifetime mileage, where needed, taking into account the mileage already performed, according to paragraph 3, by the energy consumption per kilometre according to the first indent of this point, and by the cost per unit of energy according to the second indent of this point.
+(b)
+The operational lifetime cost for the CO2 emissions of a vehicle shall be calculated by multiplying the lifetime mileage, where needed, taking into account the mileage already performed, according to paragraph 3, by the CO2 emissions in kilograms per kilometre according to paragraph 2, and by the cost per kilogram taken from the range as set out in Table 2 of the Annex.
+(c)
+The operational lifetime cost for the pollutant emissions, as listed in Table 2 of the Annex, of a vehicle shall be calculated by adding up the operational lifetime costs for emissions of NOx, NMHC and particulate matter. The operational lifetime cost for each pollutant shall be calculated by multiplying the lifetime mileage, where needed, taking into account the mileage already performed, according to paragraph 3, by the emissions in grams per kilometre according to paragraph 2, and by the respective cost per gram. The cost shall be taken from the Community-averaged values set out in Table 2 of the Annex.
+Contracting authorities, contracting entities and operators referred to in Article 3 may apply higher costs provided these costs do not exceed the relevant values set out in Table 2 of the Annex multiplied by a factor of 2.
+2.   Fuel consumption, as well as CO2 emissions and pollutant emissions as set out in Table 2 of the Annex per kilometre for vehicle operation, shall be based on standardised Community test procedures for the vehicles for which such test procedures are defined in Community type approval legislation. For vehicles not covered by standardised Community test procedures, comparability between different offers shall be ensured by using widely recognised test procedures, or the results of tests for the authority, or information supplied by the manufacturer.
+3.   Lifetime mileage of a vehicle, if not otherwise specified, shall be taken from Table 3 of the Annex.

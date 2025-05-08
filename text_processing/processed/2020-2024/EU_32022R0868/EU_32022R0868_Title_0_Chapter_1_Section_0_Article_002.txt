@@ -1,0 +1,65 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘data’ means any digital representation of acts, facts or information and any compilation of such acts, facts or information, including in the form of sound, visual or audiovisual recording;
+(2)
+‘re-use’ means the use by natural or legal persons of data held by public sector bodies, for commercial or non-commercial purposes other than the initial purpose within the public task for which the data were produced, except for the exchange of data between public sector bodies purely in pursuit of their public tasks;
+(3)
+‘personal data’ means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+(4)
+‘non-personal data’ means data other than personal data;
+(5)
+‘consent’ means consent as defined in Article 4, point (11), of Regulation (EU) 2016/679;
+(6)
+‘permission’ means giving data users the right to the processing of non-personal data;
+(7)
+‘data subject’ means data subject as referred to in Article 4, point (1), of Regulation (EU) 2016/679;
+(8)
+‘data holder’ means a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data;
+(9)
+‘data user’ means a natural or legal person who has lawful access to certain personal or non-personal data and has the right, including under Regulation (EU) 2016/679 in the case of personal data, to use that data for commercial or non-commercial purposes;
+(10)
+‘data sharing’ means the provision of data by a data subject or a data holder to a data user for the purpose of the joint or individual use of such data, based on voluntary agreements or Union or national law, directly or through an intermediary, for example under open or commercial licences subject to a fee or free of charge;
+(11)
+‘data intermediation service’ means a service which aims to establish commercial relationships for the purposes of data sharing between an undetermined number of data subjects and data holders on the one hand and data users on the other, through technical, legal or other means, including for the purpose of exercising the rights of data subjects in relation to personal data, excluding at least the following:
+(a)
+services that obtain data from data holders and aggregate, enrich or transform the data for the purpose of adding substantial value to it and license the use of the resulting data to data users, without establishing a commercial relationship between data holders and data users;
+(b)
+services that focus on the intermediation of copyright-protected content;
+(c)
+services that are exclusively used by one data holder in order to enable the use of the data held by that data holder, or that are used by multiple legal persons in a closed group, including supplier or customer relationships or collaborations established by contract, in particular those that have as a main objective to ensure the functionalities of objects and devices connected to the Internet of Things;
+(d)
+data sharing services offered by public sector bodies that do not aim to establish commercial relationships;
+(12)
+‘processing’ means processing as defined in Article 4, point (2), of Regulation (EU) 2016/679 with regard to personal data or Article 3, point (2), of Regulation (EU) 2018/1807 with regard to non-personal data;
+(13)
+‘access’ means data use, in accordance with specific technical, legal or organisational requirements, without necessarily implying the transmission or downloading of data;
+(14)
+‘main establishment’ of a legal person means the place of its central administration in the Union;
+(15)
+‘services of data cooperatives’ means data intermediation services offered by an organisational structure constituted by data subjects, one-person undertakings or SMEs who are members of that structure, having as its main objectives to support its members in the exercise of their rights with respect to certain data, including with regard to making informed choices before they consent to data processing, to exchange views on data processing purposes and conditions that would best represent the interests of its members in relation to their data, and to negotiate terms and conditions for data processing on behalf of its members before giving permission to the processing of non-personal data or before they consent to the processing of personal data;
+(16)
+‘data altruism’ means the voluntary sharing of data on the basis of the consent of data subjects to process personal data pertaining to them, or permissions of data holders to allow the use of their non-personal data without seeking or receiving a reward that goes beyond compensation related to the costs that they incur where they make their data available for objectives of general interest as provided for in national law, where applicable, such as healthcare, combating climate change, improving mobility, facilitating the development, production and dissemination of official statistics, improving the provision of public services, public policy making or scientific research purposes in the general interest;
+(17)
+‘public sector body’ means the State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities, or one or more such bodies governed by public law;
+(18)
+‘bodies governed by public law’ means bodies that have the following characteristics:
+(a)
+they are established for the specific purpose of meeting needs in the general interest, and do not have an industrial or commercial character;
+(b)
+they have legal personality;
+(c)
+they are financed, for the most part, by the State, regional or local authorities, or other bodies governed by public law, are subject to management supervision by those authorities or bodies, or have an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law;
+(19)
+‘public undertaking’ means any undertaking over which the public sector bodies may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it; for the purposes of this definition, a dominant influence on the part of the public sector bodies shall be presumed in any of the following cases in which those bodies, directly or indirectly:
+(a)
+hold the majority of the undertaking’s subscribed capital;
+(b)
+control the majority of the votes attaching to shares issued by the undertaking;
+(c)
+can appoint more than half of the undertaking’s administrative, management or supervisory body;
+(20)
+‘secure processing environment’ means the physical or virtual environment and organisational means to ensure compliance with Union law, such as Regulation (EU) 2016/679, in particular with regard to data subjects’ rights, intellectual property rights, and commercial and statistical confidentiality, integrity and accessibility, as well as with applicable national law, and to allow the entity providing the secure processing environment to determine and supervise all data processing actions, including the display, storage, download and export of data and the calculation of derivative data through computational algorithms;
+(21)
+‘legal representative’ means a natural or legal person established in the Union explicitly designated to act on behalf of a data intermediation services provider or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations in addition to or instead of the data intermediation services provider or entity with regard to the obligations under this Regulation, including with regard to initiating enforcement proceedings against a non-compliant data intermediation services provider or entity not established in the Union.

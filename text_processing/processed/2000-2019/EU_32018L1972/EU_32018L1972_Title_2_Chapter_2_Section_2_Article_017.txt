@@ -1,0 +1,10 @@
+Article 17
+Accounting separation and financial reports
+1.   Member States shall require undertakings providing public electronic communications networks or publicly available electronic communications services which have special or exclusive rights for the provision of services in other sectors in the same or another Member State to:
+(a)
+keep separate accounts for the activities associated with the provision of electronic communications networks or services, to the extent that would be required if those activities were carried out by legally independent entities, in order to identify all elements of cost and revenue, with the basis of their calculation and the detailed attribution methods used, related to such activities, including an itemised breakdown of fixed assets and structural costs; or
+(b)
+have structural separation for the activities associated with the provision of electronic communications networks or services.
+Member States may choose not to apply the requirements referred to in the first subparagraph to undertakings which have an annual turnover of less than EUR 50 million in activities associated with electronic communications networks or services in the Union.
+2.   Where undertakings providing public electronic communications networks or publicly available electronic communications services are not subject to the requirements of company law and do not satisfy the small and medium-sized enterprise criteria of Union law accounting rules, their financial reports shall be drawn up and submitted to independent audit and published. The audit shall be carried out in accordance with the relevant Union and national rules.
+The first subparagraph of this paragraph shall also apply to the separate accounts required under point (a) of the first subparagraph of paragraph 1.

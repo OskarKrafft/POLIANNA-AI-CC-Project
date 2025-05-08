@@ -1,0 +1,60 @@
+Article 111
+Administrative penalties and other administrative measures
+1.   Without prejudice to any criminal penalties and without prejudice to the supervisory and investigative powers of competent authorities listed in Article 94, Member States shall, in accordance with national law, provide for competent authorities to have the power to take appropriate administrative penalties and other administrative measures in relation to at least the following infringements:
+(a)
+infringements of Articles 4 to 14;
+(b)
+infringements of Articles 16, 17, 19, 22, 23, 25, Articles 27 to 41, Articles 46 and 47;
+(c)
+infringements of Articles 48 to 51, Articles 53, 54 and 55;
+(d)
+infringements of Articles 59, 60, 64 and Articles 65 to 83;
+(e)
+infringements of Articles 88 to 92;
+(f)
+failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 94(3).
+Member States may decide not to lay down rules for administrative penalties where the infringements referred to in the first subparagraph, point (a), (b), (c), (d) or (e), are already subject to criminal penalties in their national law by 30 June 2024. Where they so decide, Member States shall notify to the Commission, ESMA and to EBA, in detail, the relevant parts of their criminal law.
+By 30 June 2024, Member States shall notify to the Commission, EBA and ESMA, in detail, the rules referred to in the first and second subparagraphs. They shall also notify the Commission, ESMA and EBA without delay of any subsequent amendment thereto.
+2.   Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose at least the following administrative penalties and other administrative measures in relation to the infringements referred to in paragraph 1, first subparagraph, points (a) to (d):
+(a)
+a public statement indicating the natural or legal person responsible and the nature of the infringement;
+(b)
+an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;
+(c)
+maximum administrative fines of at least twice the amount of the profits gained or losses avoided because of the infringement where those can be determined, even if it exceeds the maximum amounts set out in point (d) of this paragraph, as regards natural persons, or in paragraph 3 as regards legal persons;
+(d)
+in the case of a natural person, maximum administrative fines of at least EUR 700 000, or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
+3.   Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose, in relation to infringements committed by legal persons, maximum administrative fines of at least:
+(a)
+EUR 5 000 000, or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023, for the infringements referred to in paragraph 1, first subparagraph, points (a) to (d);
+(b)
+3 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (a);
+(c)
+5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (d);
+(d)
+12,5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, points (b) and (c).
+Where the legal person referred to in the first subparagraph, points (a) to (d), is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial statements in accordance with Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with applicable Union law in the field of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
+4.   In addition to the administrative penalties and other administrative measures as well as administrative fines referred to in paragraphs 2 and 3, Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose, in the event of infringements referred to in paragraph 1, first subparagraph, point (d), a temporary ban preventing any member of the management body of the crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in a crypto-asset service provider.
+5.   Member States shall, in accordance with their national law, ensure that, in the event of the infringements referred to in paragraph 1, first subparagraph, point (e), competent authorities have the power to impose at least the following administrative penalties and to take at least the following administrative measures:
+(a)
+a public statement indicating the natural or legal person responsible and the nature of the infringement;
+(b)
+an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;
+(c)
+the disgorgement of the profits gained or losses avoided due to the infringement insofar as they can be determined;
+(d)
+withdrawal or suspension of the authorisation of a crypto-asset service provider;
+(e)
+a temporary ban of any member of the management body of the crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in crypto-asset service providers;
+(f)
+in the event of a repeated infringement of Article 89, 90, 91 or 92, a ban of at least 10 years for any member of the management body of a crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in a crypto-asset service provider;
+(g)
+a temporary ban of any member of the management body of a crypto-asset service provider or any other natural person who is held responsible for the infringement, from dealing on own account;
+(h)
+maximum administrative fines of at least three times the amount of the profits gained or losses avoided because of the infringement, where those can be determined, even if it exceeds the maximum amounts set out in point (i) or (j), as applicable;
+(i)
+in respect of a natural person, maximum administrative fines of at least EUR 1 000 000 for infringements of Article 88 and EUR 5 000 000 for infringements of Articles 89 to 92 or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023;
+(j)
+in respect of legal persons, maximum administrative fines of at least EUR 2 500 000 for infringements of Article 88 and EUR 15 000 000 for infringements of Articles 89 to 92, or 2 % for infringements of Article 88 and 15 % for infringements of Articles 89 to 92 of the total annual turnover of the legal person according to the last available accounts approved by the management body, or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
+For the purpose of point (j) of the first subparagraph, where the legal person is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial statements in accordance with Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with applicable Union law in the field of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
+6.   Member States may provide that competent authorities have powers in addition to those referred to in paragraphs 2 to 5 and may provide for higher levels of penalties than those established in those paragraphs, in respect of both natural and legal persons responsible for the infringement.

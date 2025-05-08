@@ -1,0 +1,5 @@
+Article 29
+Aggregation rules
+1.   Where the waste gases of two or more separate combustion plants are discharged through a common stack, the combination formed by such plants shall be considered as a single combustion plant and their capacities added for the purpose of calculating the total rated thermal input.
+2.   Where two or more separate combustion plants which have been granted a permit for the first time on or after 1 July 1987, or the operators of which have submitted a complete application for a permit on or after that date, are installed in such a way that, taking technical and economic factors into account, their waste gases could in the judgement of the competent authority, be discharged through a common stack, the combination formed by such plants shall be considered as a single combustion plant and their capacities added for the purpose of calculating the total rated thermal input.
+3.   For the purpose of calculating the total rated thermal input of a combination of combustion plants referred to in paragraphs 1 and 2, individual combustion plants with a rated thermal input below 15 MW shall not be considered.

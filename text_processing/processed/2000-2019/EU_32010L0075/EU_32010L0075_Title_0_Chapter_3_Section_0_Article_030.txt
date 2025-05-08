@@ -1,0 +1,28 @@
+Article 30
+Emission limit values
+1.   Waste gases from combustion plants shall be discharged in a controlled way by means of a stack, containing one or more flues, the height of which is calculated in such a way as to safeguard human health and the environment.
+2.   All permits for installations containing combustion plants which have been granted a permit before 7 January 2013, or the operators of which have submitted a complete application for a permit before that date, provided that such plants are put into operation no later than 7 January 2014, shall include conditions ensuring that emissions into air from these plants do not exceed the emission limit values set out in Part 1 of Annex V.
+All permits for installations containing combustion plants which had been granted an exemption as referred to in Article 4(4) of Directive 2001/80/EC and which are in operation after 1 January 2016, shall include conditions ensuring that emissions into the air from these plants do not exceed the emission limit values set out in Part 2 of Annex V.
+3.   All permits for installations containing combustion plants not covered by paragraph 2 shall include conditions ensuring that emissions into the air from these plants do not exceed the emission limit values set out in Part 2 of Annex V.
+4.   The emission limit values set out in Parts 1 and 2 of Annex V as well as the minimum rates of desulphurisation set out in Part 5 of that Annex shall apply to the emissions of each common stack in relation to the total rated thermal input of the entire combustion plant. Where Annex V provides that emission limit values may be applied for a part of a combustion plant with a limited number of operating hours, those limit values shall apply to the emissions of that part of the plant, but shall be set in relation to the total rated thermal input of the entire combustion plant.
+5.   The competent authority may grant a derogation for a maximum of 6 months from the obligation to comply with the emission limit values provided for in paragraphs 2 and 3 for sulphur dioxide in respect of a combustion plant which to this end normally uses low-sulphur fuel, in cases where the operator is unable to comply with those limit values because of an interruption in the supply of low-sulphur fuel resulting from a serious shortage.
+Member States shall immediately inform the Commission of any derogation granted under the first subparagraph.
+6.   The competent authority may grant a derogation from the obligation to comply with the emission limit values provided for in paragraphs 2 and 3 in cases where a combustion plant using only gaseous fuel has to resort exceptionally to the use of other fuels because of a sudden interruption in the supply of gas and for this reason would need to be equipped with a waste gas purification facility. The period for which such a derogation is granted shall not exceed 10 days except where there is an overriding need to maintain energy supplies.
+The operator shall immediately inform the competent authority of each specific case referred to in the first subparagraph.
+Member States shall inform the Commission immediately of any derogation granted under the first subparagraph.
+7.   Where a combustion plant is extended, the emission limit values set out in Part 2 of Annex V shall apply to the extended part of the plant affected by the change and shall be set in relation to the total rated thermal input of the entire combustion plant. In the case of a change to a combustion plant, which may have consequences for the environment and which affects a part of the plant with a rated thermal input of 50 MW or more, the emission limit values as set out in Part 2 of Annex V shall apply to the part of the plant which has changed in relation to the total rated thermal input of the entire combustion plant.
+8.   The emission limit values set out in Parts 1 and 2 of Annex V shall not apply to the following combustion plants:
+(a)
+diesel engines;
+(b)
+recovery boilers within installations for the production of pulp.
+9.   For the following combustion plants, on the basis of the best available techniques, the Commission shall review the need to establish Union-wide emission limit values and to amend the emission limit values set out in Annex V:
+(a)
+the combustion plants referred to in paragraph 8;
+(b)
+combustion plants within refineries firing the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, taking into account the specificity of the energy systems of refineries;
+(c)
+combustion plants firing gases other than natural gas;
+(d)
+combustion plants in chemical installations using liquid production residues as non-commercial fuel for own consumption.
+The Commission shall, by 31 December 2013, report the results of this review to the European Parliament and to the Council accompanied, if appropriate, by a legislative proposal.

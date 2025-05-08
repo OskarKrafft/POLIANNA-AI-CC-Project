@@ -1,0 +1,56 @@
+Article 2
+Definitions
+1.   For the purposes of this Directive, the following definitions apply:
+(1)
+‘radio equipment’ means an electrical or electronic product, which intentionally emits and/or receives radio waves for the purpose of radio communication and/or radiodetermination, or an electrical or electronic product which must be completed with an accessory, such as antenna, so as to intentionally emit and/or receive radio waves for the purpose of radio communication and/or radiodetermination;
+(2)
+‘radio communication’ means communication by means of radio waves;
+(3)
+‘radiodetermination’ means the determination of the position, velocity and/or other characteristics of an object, or the obtaining of information relating to those parameters, by means of the propagation properties of radio waves;
+(4)
+‘radio waves’ means electromagnetic waves of frequencies lower than 3 000 GHz, propagated in space without artificial guide;
+(5)
+‘radio interface’ means the specification of the regulated use of radio spectrum;
+(6)
+‘radio equipment class’ means a class identifying particular categories of radio equipment which, under this Directive, are considered similar and those radio interfaces for which the radio equipment is designed;
+(7)
+‘harmful interference’ means harmful interference as defined in point (r) of Article 2 of Directive 2002/21/EC of the European Parliament and of the Council (15);
+(8)
+‘electromagnetic disturbance’ means electromagnetic disturbance as defined in point 5 of Article 3(1) of Directive 2014/30/EU;
+(9)
+‘making available on the market’ means any supply of radio equipment for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(10)
+‘placing on the market’ means the first making available of radio equipment on the Union market;
+(11)
+‘putting into service’ means the first use of radio equipment in the Union by its end-user;
+(12)
+‘manufacturer’ means any natural or legal person who manufactures radio equipment or has radio equipment designed or manufactured, and markets that equipment under his name or trade mark;
+(13)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+(14)
+‘importer’ means any natural or legal person established within the Union who places radio equipment from a third country on the Union market;
+(15)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes radio equipment available on the market;
+(16)
+‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+(17)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by radio equipment;
+(18)
+‘harmonised standard’ means harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;
+(19)
+‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
+(20)
+‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
+(21)
+‘conformity assessment’ means the process demonstrating whether the essential requirements of this Directive relating to radio equipment have been fulfilled;
+(22)
+‘conformity assessment body’ means a body that performs conformity assessment activities;
+(23)
+‘recall’ means any measure aimed at achieving the return of radio equipment that has already been made available to the end-user;
+(24)
+‘withdrawal’ means any measure aimed at preventing radio equipment in the supply chain from being made available on the market;
+(25)
+‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+(26)
+‘CE marking’ means a marking by which the manufacturer indicates that the radio equipment is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.
+2.   The Commission may adopt implementing acts to determine whether certain categories of electrical or electronic products meet the definition set out in point 1 of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 45(3).

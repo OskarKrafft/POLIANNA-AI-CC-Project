@@ -1,0 +1,341 @@
+Whereas:
+(1)
+Directive 97/68/EC (4) implements two stages of emission limit values for compression ignition engines and calls on the Commission to propose a further reduction in emission limits, taking into account the global availability of techniques for controlling air polluting emissions from compression ignition engines and the air quality situation.
+(2)
+The Auto-Oil programme concluded that further measures are needed to improve the future air quality of the Community, especially as regards ozone formation and emissions of particulate matter.
+(3)
+Advanced technology to reduce emissions from compression ignition engines on on-road vehicles is already available to a large extent and such technology should, to a large extent, be applicable to the non-road sector.
+(4)
+There are still some uncertainties regarding the cost effectiveness of using after-treatment equipment to reduce emissions of particulate matter (PM) and of oxides of nitrogen (NOx). A technical review should be carried out before 31 December 2007 and, where appropriate, exemptions or delayed dates of entry into force should be considered.
+(5)
+A transient test procedure is needed to cover the operational conditions used by this kind of machinery under real working conditions. The test should therefore include, in an appropriate proportion, emissions from an engine that is not warmed up.
+(6)
+Under randomly selected load conditions and within a defined operating range, the limit values should not be exceeded by more than an appropriate percentage.
+(7)
+Moreover, the use of defeat devices and irrational emission control strategies should be prevented
+(8)
+The proposed package of limit values should be aligned as far as possible on developments in the United States so as to offer manufacturers a global market for their engine concepts.
+(9)
+Emission standards should also be applied for railway and inland waterway applications to help promote them as environmentally friendly modes of transport.
+(10)
+Where non-road mobile machinery complies with future limit values ahead of the deadline, it should be possible to indicate that it does so.
+(11)
+Because of the technology needed to meet the Stage III B and IV limits for PM and NOx emissions, the sulphur content of the fuel must be reduced from today's levels in many Member States. A reference fuel that reflects the fuel market situation should be defined.
+(12)
+Emission performance during the full useful life of the engines is of importance. Durability requirements should be introduced to avoid deterioration of emission performance.
+(13)
+It is necessary to introduce special arrangements for equipment manufacturers to give them time to design their products and to handle small series production.
+(14)
+Since the objective of this Directive, namely improvement of the future air quality situation, cannot be sufficiently achieved by the Member States since the necessary emission limitations concerning products have to be regulated at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+(15)
+Directive 97/68/EC should therefore be amended accordingly,
+HAVE ADOPTED THIS DIRECTIVE:
+
+Article 1
+
+Directive 97/68/EC is amended as follows:
+1)
+the following indents shall be added to Article 2:
+"—
+"inland waterway vessel" shall mean a vessel intended for use on inland waterways having a length of 20 metres or more and having a volume of 100 m3 or more according to the formula defined in Annex I, Section 2, point 2.8a, or tugs or pusher craft having been built to tow or to push or to move alongside vessels of 20 metres or more,
+This definition does not include:
+—
+vessels intended for passenger transport carrying no more that 12 people in addition to the crew,
+—
+recreational craft with a length of less than 24 metres (as defined in Article 1(2) of Directive 94/25/EC of the European Parliament and of the Council of 16 June 1994 on the approximation of the laws, regulations and administrative provisions of the Member States relating to recreational craft (5)),
+—
+service craft belonging to supervisory authorities,
+—
+fire-service vessels,
+—
+naval vessels,
+—
+fishing vessels on the fishing vessels register of the Community,
+—
+sea-going vessels, including sea-going tugs and pusher craft operating or based on tidal waters or temporarily on inland waterways, provided that they carry a valid navigation or safety certificate as defined in Annex I, Section 2, point 2.8b.
+—
+"Original equipment manufacturer (OEM)" shall mean a manufacturer of a type of non-road mobile machine,
+—
+"Flexibility scheme" shall mean the procedure allowing an engine manufacturer to place on the market, during the period between two successive stages of limit values, a limited number of engines, to be installed in non-road mobile machinery, that only comply with the previous stage of emission limit values.
+
+(5)  OJ L 164, 30.6.1994, p. 15. Directive as last amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).""
+						
+2)
+Article 4 shall be amended as follows:
+(a)
+The following text shall be added at the end of paragraph 2:
+"Annex VIII shall be amended in accordance with the procedure referred to in Article 15 ".
+(b)
+The following paragraph shall be added:
+"6.
+Compression ignition engines for use other than in propulsion of locomotives, railcars and inland waterway vessels may be placed on the market under a flexible scheme in accordance with the procedure referred to in Annex XIII in addition to paragraphs 1 to 5".
+3)
+In Article 6 the following paragraph shall be added:
+"5.
+Compression ignition engines placed on the market under a "flexible scheme" shall be labelled in accordance with Annex XIII."
+4)
+The following Article shall be inserted after Article 7:
+"Article 7a
+Inland waterway vessels
+1.   The following provisions shall apply to engines to be installed in inland waterway vessels. Paragraphs 2 and 3 shall not apply until the equivalence between the requirements established by this Directive and those established in the framework of the Mannheim Convention for the Navigation of the Rhine is recognised by the Central Commission of Navigation on Rhine (hereinafter: CCNR) and the Commission is informed thereof.
+2.   Until 30 June 2007, Member States may not refuse the placing on the market of engines which meet the requirements established by CCNR stage I, the emission limit values for which are set out in Annex XIV.
+3.   As from 1 July 2007 and until the entry into force of a further set of limit values which would result from further amendments to this Directive, Member States may not refuse the placing on the market of engines which meet the requirements established by CCNR stage II, the emission limit values for which are set out in Annex XV.
+4.   In accordance with the procedure referred to in Article 15, Annex VII shall be adapted to integrate the additional and specific information which may be required as regards the type approval certificate for engines to be installed in inland waterway vessels.
+5.   For the purposes of this Directive, as far as inland waterway vessels are concerned, any auxiliary engine with a power of more than 560 kW shall be subject to the same requirements as propulsion engines."
+(5)
+Article 8 shall be amended as follows:
+(a)
+The title shall be replaced by "Placing on the market":
+(b)
+Paragraph 1 shall be replaced by the following:
+"1.
+Member States may not refuse the placing on the market of engines, whether or not already installed in machinery, which meet the requirements of this Directive."
+(c)
+The following paragraph shall be inserted after paragraph 2:
+"2a.
+Member States shall not issue the Community Inland Water Navigation certificate established by Council Directive 82/714/EC of 4 October 1982 laying down technical requirements for inland waterway vessels (6) to any vessels whose engines do not meet the requirements of this Directive.
+
+(6)  OJ L 301, 28.10.1982, p. 1. Directive as amended by the 2003 Act of Accession.""
+						
+6)
+Article 9 shall be amended as follows:
+(a)
+The introductory phrase of paragraph 3 shall be replaced by the following:
+"Member States shall refuse to grant type-approval for an engine type or engine family and to issue the document as described in Annex VII and shall refuse to grant any other type-approval for non-road mobile machinery, in which an engine, not already placed on the market, is installed".
+(b)
+The following paragraphs shall be inserted after paragraph 3:
+"3a.
+TYPE-APPROVAL OF STAGE IIIA ENGINES (ENGINE CATEGORIES H, I, J and K)
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine, not already placed on the market, is installed:
+—
+H: after 30 June 2005 for engines - other than constant speed engines - of a power output: 130 kW ≤ P ≤ 560 kW,
+—
+I: after 31 December 2005 for engines — other than constant speed engines — of a power output: 75 kW≤ P < 130 kW,
+—
+J: after 31 December 2006 for engines — other than constant speed engines — of a power output: 37 kW ≤ P < 75kW,
+—
+K: after 31 December 2005 for engines — other than constant speed engines — of a power output: 19 kW ≤ P < 37 kW,
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.4. of Annex I.
+3b.
+TYPE-APPROVAL OF STAGE IIIA CONSTANT SPEED ENGINES (ENGINE CATEGORIES H, I, J and K)
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine, not already placed on the market, is installed:
+—
+Constant speed H engines: after 31 December 2009 for engines of a power output: 130 kW ≤ P < 560 kW,
+—
+Constant speed I engines: after 31 December 2009 for engines of a power output: 75 kW ≤ P < 130 kW,
+—
+Constant speed J engines: after 31 December 2010 for engines of a power output: 37 kW ≤ P < 75 kW,
+—
+Constant speed K engines: after 31 December 2009 for engines of a power output: 19 kW ≤ P < 37 kW,
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values set out in the table in Section 4.1.2.4. of Annex I.
+3c.
+TYPE-APPROVAL OF STAGE III B ENGINES (ENGINE CATEGORIES L, M, N and P)
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine, not already placed on the market, is installed:
+—
+L: after 31 December 2009 for engines — other than constant speed engines — of a power output: 130 kW ≤ P < 560 kW,
+—
+M: after 31 December 2010 for engines — other than constant speed engines — of a power output: 75 kW ≤ P < 130 kW,
+—
+N: after 31 December 2010 for engines — other than constant speed engines — of a power output: 56 kW ≤ P < 75 kW,
+—
+P: after 31 December 2011 for engines — other than constant speed engines — of a power output: 37 kW ≤ P < 56 kW,
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values set out in the table in Section 4.1.2.5. of Annex I.
+3d.
+TYPE-APPROVAL OF STAGE IV ENGINES (ENGINE CATEGORIES Q and R)
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII, and shall refuse to grant any other type-approval for non-road mobile machinery in which an engine, not already placed on the market, is installed:
+—
+Q: after 31 December 2012 for engines — other than constant speed engines — of a power output: 130 kW ≤ P ≤ 560 kW,
+—
+R: after 30 September 2013 for engines — other than constant speed engines — of a power output: 56 kW ≤ P < 130 kW,
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values set out in the table in Section 4.1.2.6. of Annex I.
+3e.
+TYPE-APPROVAL OF STAGE III A PROPULSION ENGINES USED IN INLAND WATERWAY VESSELS (ENGINE CATEGORIES V)
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII:
+Vl:1: after 31 December 2005 for engines of power output at or above 37 kW and swept volume below 0.9 litres per cylinder,
+Vl:2: after 30 June 2005 for engines with swept volume at or above 0.9 but below 1.2 litres per cylinder,
+Vl:3: after 30 June 2005 for engines with swept volume at or above 1.2 but below 2.5 litres per cylinder and an engine power output of: 37 kW ≤ P < 75 kW,
+VI:4: after 31 December 2006 for engines with swept volume at or above 2.5 but below 5 litres per cylinder,
+V2: after 31 December 2007 for engines with swept volume at or above 5 litres per cylinder,
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.4 of Annex I.
+3f.
+TYPE-APPROVAL OF STAGE III A PROPULSION ENGINES USED IN RAILCARS
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII:
+—
+RC A: after 30 June 2005 for engines of power output above 130 kW
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.4 of Annex I.
+3g.
+TYPE-APPROVAL OF STAGE III B PROPULSION ENGINES USED IN RAILCARS
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII:
+—
+RC B: after 31 December 2010 for engines of power output above 130 kW
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.5 of Annex I.
+3h.
+TYPE-APPROVAL OF STAGE III A PROPULSION ENGINES USED IN LOCOMOTIVES
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII:
+—
+RL A: after 31 December 2005 for engines of power output: 130 kW≤ P ≤ 560 kW
+—
+RH A: after 31 December 2007 for engines of power output: 560 kW < P
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.4 of Annex I. The provisions of this paragraph shall not apply to the engine types and families referred to where a contract has been entered into to purchase the engine before ... (7) and provided that the engine is placed on the market no later than two years after the applicable date for the relevant category of locomotive.
+3i.
+TYPE-APPROVAL OF STAGE III B PROPULSION ENGINES USED IN LOCOMOTIVES
+Member States shall refuse to grant type-approval for the following engine types or families and to issue the document as described in Annex VII:
+—
+R B: after 31 December 2010 for engines of power output above 130 kW
+where the engine fails to meet the requirements specified in this Directive and where the emissions of particulate and gaseous pollutants from the engine do not comply with the limit values as set out in the table in section 4.1.2.5 of Annex I. The provisions of this paragraph shall not apply to the engine types and families referred to where a contract has been entered into to purchase the engine before ... (7) and provided that the engine is placed on the market no later than two years after the applicable date for the relevant category of locomotives.
+
+(7)  Date of entry into force of this Directive""
+						
+
+(7)  Date of entry into force of this Directive""
+						
+(c)
+The title of paragraph 4 shall be replaced by the following:
+"PLACING ON THE MARKET: ENGINE PRODUCTION DATES"
+(d)
+The following paragraph shall be inserted:
+"4a.
+Without prejudice to Article 7a and to Article 9 (3g) and (3h), after the dates referred to hereafter, with the exception of machinery and engines intended for export to third countries, Member States shall permit the placing on the market of engines, whether or not already installed in machinery, only if they meet the requirements of this Directive, and only if the engine is approved in compliance with one of the categories as defined in paragraphs 2 and 3.
+Stage III A other than constant speed engines
+—
+category H: 31 December 2005
+—
+category I: 31 December 2006
+—
+category J: 31 December 2007
+—
+category K: 31 December 2006
+Stage III A inland waterway vessel engines
+—
+category V 1: 1: 31 December 2006
+—
+category V 1:2: 31 December 2006
+—
+category V 1:3: 31 December 2006
+—
+category V1:4: 31 December 2008
+—
+categories V2: 31 December 2008.
+Stage III A constant speed engines
+—
+category H: 31 December 2010
+—
+category I: 31 December 2010
+—
+category J: 31 December 2011
+—
+category K: 31 December 2010
+Stage III A railcar engines
+—
+category RC A: 31 December 2005
+Stage III A locomotive engines
+—
+category RL A:31 December 2006
+—
+category RH A:31 December 2008
+Stage III B other than constant speed engines
+—
+category L: 31 December 2010
+—
+category M: 31 December 2011
+—
+category N: 31 December 2011
+—
+category P: 31 December 2012
+Stage III B railcar engines
+—
+category RC B: 31 December 2011
+Stage III B locomotive engines
+—
+category R B: 31 December 2011
+Stage IV other than constant speed engines
+—
+category Q: 31 December 2013
+—
+category R: 30 September 2014
+For each category, the above requirements shall be postponed by two years in respect of engines with a production date prior to the said date.
+The permission granted for one stage of emission limit values shall be terminated with effect from the mandatory implementation of the next stage of limit values."
+(e)
+The following paragraph shall be added:
+"4b.
+Labelling to indicate early compliance with the standards of stages IIIA, IIIB and IV
+For engine types or engine families meeting the limit values set out in the table in section 4.1.2.4, 4.1.2.5 and 4.1.2.6 of Annex I before the dates laid down in paragraph 4 of this Article, Member States shall allow special labelling and marking to show that the equipment concerned meets the required limit values before the dates laid down."
+(7)
+Article 10 shall be amended as follows:
+(a)
+Paragraphs 1 and 1 a shall be replaced by the following:
+"1.
+The requirements of Article 8(1) and (2), Article 9(4) and Article 9a (5) shall not apply to:
+—
+engines for use by the armed services,
+—
+engines exempted in accordance with paragraphs la and 2,
+—
+engines for use in machines intended primarily for the launch and recovery of lifeboats,
+—
+engines for use in machines intended primarily for the launch and recovery of beach launched vessels.
+1a.
+Without prejudice to Article 7a and to Article 9(3g) and (3h), replacement engines, except for railcar, locomotive and inland waterway vessel propulsion engines, shall comply with the limit values that the engine to be replaced had to meet when originally placed on the market.
+The text "REPLACEMENT ENGINE" shall be attached to a label on the engine or inserted into the owner's manual."
+(b)
+The following paragraphs shall be added:
+"5.
+Engines may be placed on the market under a "flexible scheme" in accordance with the provisions in Annex XIII.
+6.
+Paragraph 2 shall not apply to propulsion engines to be installed in inland waterway vessels.
+7.
+Member States shall permit the placing on the market of engines, as defined under A(i) and A(ii) of Annex I, under the "flexibility scheme" in accordance with the provisions in Annex XIII."
+8)
+The Annexes shall be amended as follows:
+(a)
+Annexes I, III, V, VII and XII shall be amended in accordance with Annex I to this Directive;
+(b)
+Annex VI shall be replaced by the text in Annex II to this Directive;
+(c)
+A new Annex XIII as set out in Annex III to this Directive shall be added;
+(d)
+A new Annex XIV as set out in Annex IV to this Directive shall be added;
+(e)
+A new Annex XV as set out in Annex IV to this Directive shall be added;
+and the list of the existing Annexes shall be amended acordingly.
+
+Article 2
+
+The Commission shall, not later than 31 December 2007:
+(a)
+re-assess its non-road emission inventory estimates and specifically examine potential cross-checks and correction factors;
+(b)
+consider the available technology, including the cost/benefits, with a view to confirming Stage III B and IV limit values and evaluating the possible need for additional flexibilities, exemptions or later introduction dates for certain types of equipment or engines and taking into account engines installed in non-road mobile machinery used in seasonal applications;
+(c)
+evaluate the application of test cycles for engines in railcars and locomotives and, in the case of engines in locomotives, the cost and benefits of a further reduction of emission limit values in view of the application of NOx after-treatment technology;
+(d)
+consider the need to introduce a further set of limit values for engines to be used in inland waterway vessels taking into account in particular the technical and economic feasibility of secondary abatement options in this application;
+(e)
+consider the need to introduce emission limit values for engines below 19 kW and above 560 kW;
+(f)
+consider the availability of fuels required by the technologies used to meet the Stage IIIB and IV standards levels;
+(g)
+consider the engine operating conditions under which the maximum permissible percentages by which the emission limit values laid down in Section 4.1.2.5 and 4.1.2.6 of Annex I may be exceeded and present proposals as appropriate to technically adapt the Directive in accordance with the procedure referred to in Article 15 of Directive 97/68/EC;
+(h)
+assess the need for a system for "in-use compliance" and examine possible options for its implementation;
+(i)
+consider detailed rules to prevent "cycle beating" and cycle by-pass;
+and submit, where appropriate, proposals to the European Parliament and the Council.
+
+Article 3
+
+1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by ... (8). They shall forthwith inform the Commission thereof.
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+2.   Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+Article 4
+
+Member States shall determine the sanctions applicable to breaches of the national provisions adopted pursuant to this Directive and shall take all necessary measures for their implementation. The sanctions determined must be effective, proportionate and dissuasive. Member States shall notify these provisions to the Commission by ... (9), and shall notify any subsequent modifications thereof as soon as possible.
+
+Article 5
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 6
+
+This Directive is addressed to the Member States.

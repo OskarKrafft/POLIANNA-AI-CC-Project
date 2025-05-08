@@ -1,0 +1,31 @@
+Article 23
+Technical specifications
+1.   The technical specifications as defined in point 1 of Annex VI shall be set out in the contract documentation, such as contract notices, contract documents or additional documents. Whenever possible these technical specifications should be defined so as to take into account accessibility criteria for people with disabilities or design for all users.
+2.   Technical specifications shall afford equal access for tenderers and not have the effect of creating unjustified obstacles to the opening up of public procurement to competition.
+3.   Without prejudice to mandatory national technical rules, to the extent that they are compatible with Community law, the technical specifications shall be formulated:
+(a)
+either by reference to technical specifications defined in Annex VI and, in order of preference, to national standards transposing European standards, European technical approvals, common technical specifications, international standards, other technical reference systems established by the European standardisation bodies or — when these do not exist — to national standards, national technical approvals or national technical specifications relating to the design, calculation and execution of the works and use of the products. Each reference shall be accompanied by the words ‘or equivalent’;
+(b)
+or in terms of performance or functional requirements; the latter may include environmental characteristics. However, such parameters must be sufficiently precise to allow tenderers to determine the subject-matter of the contract and to allow contracting authorities to award the contract;
+(c)
+or in terms of performance or functional requirements as mentioned in subparagraph (b), with reference to the specifications mentioned in subparagraph (a) as a means of presuming conformity with such performance or functional requirements;
+(d)
+or by referring to the specifications mentioned in subparagraph (a) for certain characteristics, and by referring to the performance or functional requirements mentioned in subparagraph (b) for other characteristics.
+4.   Where a contracting authority makes use of the option of referring to the specifications mentioned in paragraph 3(a), it cannot reject a tender on the grounds that the products and services tendered for do not comply with the specifications to which it has referred, once the tenderer proves in his tender to the satisfaction of the contracting authority, by whatever appropriate means, that the solutions which he proposes satisfy in an equivalent manner the requirements defined by the technical specifications.
+An appropriate means might be constituted by a technical dossier of the manufacturer or a test report from a recognised body.
+5.   Where a contracting authority uses the option laid down in paragraph 3 to prescribe in terms of performance or functional requirements, it may not reject a tender for works, products or services which comply with a national standard transposing a European standard, with a European technical approval, a common technical specification, an international standard or a technical reference system established by a European standardisation body, if these specifications address the performance or functional requirements which it has laid down.
+In his tender, the tenderer must prove to the satisfaction of the contracting authority and by any appropriate means that the work, product or service in compliance with the standard meets the performance or functional requirements of the contracting authority.
+An appropriate means might be constituted by a technical dossier of the manufacturer or a test report from a recognised body.
+6.   Where contracting authorities lay down environmental characteristics in terms of performance or functional requirements as referred to in paragraph 3(b) they may use the detailed specifications, or, if necessary, parts thereof, as defined by European or (multi-) national eco-labels, or by and any other eco-label, provided that:
+—
+those specifications are appropriate to define the characteristics of the supplies or services that are the object of the contract,
+—
+the requirements for the label are drawn up on the basis of scientific information,
+—
+the eco-labels are adopted using a procedure in which all stakeholders, such as government bodies, consumers, manufacturers, distributors and environmental organisations can participate, and
+—
+they are accessible to all interested parties.
+Contracting authorities may indicate that the products and services bearing the eco-label are presumed to comply with the technical specifications laid down in the contract documents; they must accept any other appropriate means of proof, such as a technical dossier of the manufacturer or a test report from a recognised body.
+7.   ‘Recognised bodies’, within the meaning of this Article, are test and calibration laboratories and certification and inspection bodies which comply with applicable European standards.
+Contracting authorities shall accept certificates from recognised bodies established in other Member States.
+8.   Unless justified by the subject-matter of the contract, technical specifications shall not refer to a specific make or source, or a particular process, or to trade marks, patents, types or a specific origin or production with the effect of favouring or eliminating certain undertakings or certain products. Such reference shall be permitted on an exceptional basis, where a sufficiently precise and intelligible description of the subject-matter of the contract pursuant to paragraphs 3 and 4 is not possible; such reference shall be accompanied by the words ‘or equivalent’.

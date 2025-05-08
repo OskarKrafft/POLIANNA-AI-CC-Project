@@ -1,0 +1,31 @@
+Article 16
+Separation of business and activities
+1.   ESG rating providers shall not provide any of the following activities:
+(a)
+consulting activities to investors or undertakings;
+(b)
+the issuance and distribution of credit ratings as defined in Article 3(1), point (a), of Regulation (EC) No 1060/2009;
+(c)
+the provision of benchmarks as defined in Article 3(1), point (5), of Regulation (EU) 2016/1011;
+(d)
+investment services and activities as defined in Article 4(1), point (2), of Directive 2014/65/EU;
+(e)
+statutory auditing on financial statements and assurance engagements on sustainability reporting within the meaning of Directive 2013/34/EU;
+(f)
+activities of credit institutions within the meaning of the Regulation (EU) No 575/2013, and insurance or reinsurance activities within the meaning of Directive 2009/138/EC.
+2.   By way of derogation from paragraph 1, an ESG rating provider may provide the activities referred to in paragraph 1, point (d) or (f), provided that it puts in place, in addition to the measures referred to in Articles 25 and 26, specific measures:
+(a)
+to ensure that each activity is exercised autonomously;
+(b)
+to avoid the creation of potential risks of conflicts of interest in decision-making within its ESG rating activities;
+(c)
+to ensure that its employees who are directly involved in the assessment process of a rated item do not provide any of the activities referred to in paragraph 1, point (d) or (f).
+In implementing such measures, the ESG rating provider shall also take into account the activities of the group to which it belongs, if applicable.
+3.   By way of derogation from paragraph 1, point (c), an ESG rating provider may lodge a request with ESMA to be authorised to provide benchmarks provided that it puts in place specific measures, including those referred to in paragraph 2. ESMA shall decide whether the measures proposed by the ESG rating provider are appropriate and sufficient regarding the potential risks of conflicts of interest. If ESMA considers that the measures are not appropriate or sufficient regarding the potential risks of conflicts of interest, paragraph 1, point (c), shall apply.
+Any substantial change in the measures taken by the ESG rating provider or in their implementation shall be notified to ESMA by the ESG rating provider before such change is implemented. ESMA shall decide whether the measures remain appropriate and sufficient regarding the potential risks of conflicts of interest. If ESMA considers that the measures are no longer appropriate or sufficient regarding the potential risks of conflicts of interest, paragraph 1, point (c), shall apply.
+ESMA shall take a decision as referred to in the first and second subparagraphs of this paragraph within 30 working days of receipt of complete information about the measures proposed by the ESG rating provider or any substantial changes thereto, or within the deadlines laid down in Article 7 where ESMA’s assessment forms part of its evaluation of the ESG rating provider’s application for authorisation.
+4.   An ESG rating provider shall ensure that its employees who are directly involved in the assessment process of a rated item do not provide any of the activities referred to in paragraph 1, points (a), (b) and (e).
+5.   ESMA shall develop draft regulatory technical standards to specify the details of the measures and safeguards to be implemented pursuant to paragraphs 2, 3 and 4.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 2 October 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulations (EU) No 1095/2010.
+6.   ESG rating providers shall ensure that the provision of services other than those referred to in paragraph 1 does not create risks of conflicts of interest within its ESG rating activities. Where there are risks of conflicts of interest, ESG rating providers shall refrain from offering such other services.

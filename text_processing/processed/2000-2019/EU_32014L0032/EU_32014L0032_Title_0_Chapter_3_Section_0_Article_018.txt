@@ -1,0 +1,37 @@
+Article 18
+Technical documentation
+1.   The technical documentation shall render the design, manufacture and operation of the measuring instrument intelligible and shall permit an assessment of its conformity with the applicable requirements of this Directive.
+2.   The technical documentation shall be sufficiently detailed to ensure compliance with the following requirements:
+(a)
+the definition of the metrological characteristics;
+(b)
+the reproducibility of the metrological performances of produced measuring instruments when properly adjusted using appropriate intended means;
+(c)
+the integrity of the measuring instrument.
+3.   The technical documentation shall insofar as relevant for assessment and identification of the type and/or the measuring instrument include the following information:
+(a)
+a general description of the measuring instrument;
+(b)
+conceptual design and manufacturing drawings and plans of components, sub-assemblies, circuits, etc.;
+(c)
+manufacturing procedures to ensure consistent production;
+(d)
+if applicable, a description of the electronic devices with drawings, diagrams, flow diagrams of the logic and general software information explaining their characteristics and operation;
+(e)
+descriptions and explanations necessary for the understanding of the information referred to in points (b), (c) and (d), including the operation of the measuring instrument;
+(f)
+a list of the harmonised standards and/or normative documents referred to in Article 14, applied in full or in part, the references of which have been published in the Official Journal of the European Union;
+(g)
+descriptions of the solutions adopted to meet the essential requirements where the harmonised standards and/or normative documents referred to in Article 14 have not been applied, including a list of other relevant technical specifications applied;
+(h)
+results of design calculations, examinations, etc.;
+(i)
+the appropriate test results, where necessary, to demonstrate that the type and/or the measuring instruments comply with the following:
+—
+the requirements of this Directive under declared rated operating conditions and under specified environmental disturbances,
+—
+the durability specifications for gas-, water-, thermal energy-meters as well as for liquids other than water;
+(j)
+the EU-type examination certificates or EU design examination certificates in respect of measuring instruments containing parts identical to those in the design.
+4.   The manufacturer shall specify where seals and markings have been applied.
+5.   The manufacturer shall indicate the conditions for compatibility with interfaces and sub-assemblies, where relevant.

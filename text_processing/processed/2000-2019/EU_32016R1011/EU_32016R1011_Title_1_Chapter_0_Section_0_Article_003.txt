@@ -1,0 +1,141 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(1)
+‘index’ means any figure:
+(a)
+that is published or made available to the public;
+(b)
+that is regularly determined:
+(i)
+entirely or partially by the application of a formula or any other method of calculation, or by an assessment; and
+(ii)
+on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates, quotes and committed quotes, or other values or surveys;
+(2)
+‘index provider’ means a natural or legal person that has control over the provision of an index;
+(3)
+‘benchmark’ means any index by reference to which the amount payable under a financial instrument or a financial contract, or the value of a financial instrument, is determined, or an index that is used to measure the performance of an investment fund with the purpose of tracking the return of such index or of defining the asset allocation of a portfolio or of computing the performance fees;
+(4)
+‘family of benchmarks’ means a group of benchmarks provided by the same administrator and determined from input data of the same nature which provides specific measures of the same or similar market or economic reality;
+(5)
+‘provision of a benchmark’ means:
+(a)
+administering the arrangements for determining a benchmark;
+(b)
+collecting, analysing or processing input data for the purpose of determining a benchmark; and
+(c)
+determining a benchmark through the application of a formula or other method of calculation or by an assessment of input data provided for that purpose;
+(6)
+‘administrator’ means a natural or legal person that has control over the provision of a benchmark;
+(7)
+‘use of a benchmark’ means:
+(a)
+issuance of a financial instrument which references an index or a combination of indices;
+(b)
+determination of the amount payable under a financial instrument or a financial contract by referencing an index or a combination of indices;
+(c)
+being a party to a financial contract which references an index or a combination of indices;
+(d)
+providing a borrowing rate as defined in point (j) of Article 3 of Directive 2008/48/EC calculated as a spread or mark-up over an index or a combination of indices and that is solely used as a reference in a financial contract to which the creditor is a party;
+(e)
+measuring the performance of an investment fund through an index or a combination of indices for the purpose of tracking the return of such index or combination of indices, of defining the asset allocation of a portfolio, or of computing the performance fees;
+(8)
+‘contribution of input data’ means providing any input data not readily available to an administrator, or to another person for the purposes of passing to an administrator, that is required in connection with the determination of a benchmark, and is provided for that purpose;
+(9)
+‘contributor’ means a natural or legal person contributing input data;
+(10)
+‘supervised contributor’ means a supervised entity that contributes input data to an administrator located in the Union;
+(11)
+‘submitter’ means a natural person employed by the contributor for the purpose of contributing input data;
+(12)
+‘assessor’ means an employee of an administrator of a commodity benchmark, or any other natural person whose services are placed at the administrator's disposal or under the control of the administrator, and who is responsible for applying a methodology or judgement to input data and other information to reach a conclusive assessment about the price of a certain commodity;
+(13)
+‘expert judgement’ means the exercise of discretion by an administrator or a contributor with respect to the use of data in determining a benchmark, including extrapolating values from prior or related transactions, adjusting values for factors that might influence the quality of data such as market events or impairment of a buyer or seller's credit quality, and weighting firm bids or offers greater than a particular concluded transaction;
+(14)
+‘input data’ means the data in respect of the value of one or more underlying assets, or prices, including estimated prices, quotes, committed quotes or other values, used by an administrator to determine a benchmark;
+(15)
+‘transaction data’ means observable prices, rates, indices or values representing transactions between unaffiliated counterparties in an active market subject to competitive supply and demand forces;
+(16)
+‘financial instrument’ means any of the instruments listed in Section C of Annex I to Directive 2014/65/EU for which a request for admission to trading on a trading venue, as defined in point (24) of Article 4(1) of Directive 2014/65/EU, has been made or which is traded on a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or via a systematic internaliser as defined in point (20) of Article 4(1) of that Directive;
+(17)
+‘supervised entity’ means any of the following:
+(a)
+a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (16);
+(b)
+an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
+(c)
+an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the Council (17);
+(d)
+a reinsurance undertaking as defined in point (4) of Article 13 of Directive 2009/138/EC;
+(e)
+a UCITS as defined in Article 1(2) of Directive 2009/65/EC or, where applicable, a UCITS management company as defined in point (b) of Article 2(1) of that Directive;
+(f)
+an alternative investment fund manager (AIFM) as defined in point (b) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council (18);
+(g)
+an institution for occupational retirement provision as defined in point (a) of Article 6 of Directive 2003/41/EC of the European Parliament and of the Council (19);
+(h)
+a creditor as defined in point (b) of Article 3 of Directive 2008/48/EC for the purposes of credit agreements as defined in point (c) of Article 3 of that Directive;
+(i)
+a non-credit institution as defined in point (10) of Article 4 of Directive 2014/17/EU for the purposes of credit agreements as defined in point (3) of Article 4 of that Directive;
+(j)
+a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
+(k)
+a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (20);
+(l)
+a trade repository as defined in point (2) of Article 2 of Regulation (EU) No 648/2012;
+(m)
+an administrator;
+(18)
+‘financial contract’ means:
+(a)
+any credit agreement as defined in point (c) of Article 3 of Directive 2008/48/EC;
+(b)
+any credit agreement as defined in point (3) of Article 4 of Directive 2014/17/EU;
+(19)
+‘investment fund’ means an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU, or a UCITS as defined in Article 1(2) of Directive 2009/65/EC;
+(20)
+‘management body’ means the body or bodies of an administrator or another supervised entity which are appointed in accordance with national law, which are empowered to set the strategy, objectives and overall direction of the administrator or other supervised entity, and which oversee and monitor management decision-making and include persons who effectively direct the business of the administrator or other supervised entity;
+(21)
+‘consumer’ means a natural person who, in financial contracts covered by this Regulation, is acting for purposes which are outside his or her trade, business or profession;
+(22)
+‘interest rate benchmark’ means a benchmark which for the purposes of point (1)(b)(ii) of this paragraph is determined on the basis of the rate at which banks may lend to, or borrow from, other banks, or agents other than banks, in the money market;
+(23)
+‘commodity benchmark’ means a benchmark where the underlying asset for the purposes of point (1)(b)(ii) of this paragraph is a commodity within the meaning of point (1) of Article 2 of Commission Regulation (EC) No 1287/2006 (21), excluding emission allowances as referred to in point (11) of Section C of Annex I to Directive 2014/65/EU;
+(24)
+‘regulated-data benchmark’ means a benchmark determined by the application of a formula from:
+(a)
+input data contributed entirely and directly from:
+(i)
+a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU or a trading venue in a third country for which the Commission has adopted an implementing decision that the legal and supervisory framework of that country is considered to have equivalent effect within the meaning of Article 28(4) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (22), or a regulated market considered to be equivalent under Article 2a of Regulation (EU) No 648/2012, but in each case only with reference to transaction data concerning financial instruments;
+(ii)
+an approved publication arrangement as defined in point (52) of Article 4(1) of Directive 2014/65/EU or a consolidated tape provider as defined in point (53) of Article 4(1) of Directive 2014/65/EU, in accordance with mandatory post-trade transparency requirements, but only with reference to transaction data concerning financial instruments that are traded on a trading venue;
+(iii)
+an approved reporting mechanism as defined in point (54) of Article 4(1) of Directive 2014/65/EU, but only with reference to transaction data concerning financial instruments that are traded on a trading venue and that must be disclosed in accordance with mandatory post-trade transparency requirements;
+(iv)
+an electricity exchange as referred to in point (j) of Article 37(1) of Directive 2009/72/EC of the European Parliament and of the Council (23);
+(v)
+a natural gas exchange as referred to in point (j) of Article 41(1) of Directive 2009/73/EC of the European Parliament and of the Council (24);
+(vi)
+an auction platform referred to in Article 26 or 30 of Commission Regulation (EU) No 1031/2010 (25);
+(vii)
+a service provider to which the benchmark administrator has outsourced the data collection in accordance with Article 10, provided that the service provider receives the data entirely and directly from an entity referred to in points (i) to (vi);
+(b)
+net asset values of investment funds;
+(25)
+‘critical benchmark’ means a benchmark other than a regulated-data benchmark that fulfils any of the conditions laid down in Article 20(1) and which is on the list established by the Commission pursuant to that Article;
+(26)
+‘significant benchmark’ means a benchmark that fulfils the conditions laid down in Article 24(1);
+(27)
+‘non-significant benchmark’ means a benchmark that does not fulfil the conditions laid down in Articles 20(1) and 24(1);
+(28)
+‘located’ means, in relation to a legal person, the country where that person's registered office or other official address is situated and, in relation to a natural person, the country where that person is resident for tax purposes;
+(29)
+‘public authority’ means:
+(a)
+any government or other public administration, including the entities charged with or intervening in the management of the public debt;
+(b)
+any entity or person either performing public administrative functions under national law or having public responsibilities or functions or providing public services, including measures of employment, economic activities and inflation, under the control of an entity within the meaning of point (a).
+2.   The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to specify further technical elements of the definitions laid down in paragraph 1 of this Article, in particular specifying what constitutes making available to the public for the purposes of the definition of an index.
+Where applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.
+3.   The Commission shall adopt implementing acts in order to establish and review a list of public authorities in the Union falling within the definition under point (29) of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 50(2).
+Where applicable, the Commission shall take into account the market or technological developments and the international convergence of supervisory practice in relation to benchmarks.

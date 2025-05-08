@@ -1,0 +1,113 @@
+Article 3
+Amendments to Directive 2002/20/EC (Authorisation Directive)
+Directive 2002/20/EC is hereby amended as follows:
+1)
+Article 2(2) shall be replaced by the following:
+“2.   The following definition shall also apply:
+
+                                    “general authorisation” means a legal framework established by the Member State ensuring rights for the provision of electronic communications networks or services and laying down sector specific obligations that may apply to all or to specific types of electronic communications networks and services, in accordance with this Directive.”;
+2)
+In Article 3(2), the following subparagraph shall be added:
+
+                              “Undertakings providing cross-border electronic communications services to undertakings located in several Member States shall not be required to submit more than one notification per Member State concerned.”
+                           
+3)
+Article 5 shall be replaced by the following:
+“Article 5
+Rights of use for radio frequencies and numbers
+1.   Member States shall facilitate the use of radio frequencies under general authorisations. Where necessary, Member States may grant individual rights of use in order to:
+—
+avoid harmful interference,
+—
+ensure technical quality of service,
+—
+safeguard efficient use of spectrum, or
+—
+fulfil other objectives of general interest as defined by Member States in conformity with Community law.
+2.   Where it is necessary to grant individual rights of use for radio frequencies and numbers, Member States shall grant such rights, upon request, to any undertaking for the provision of networks or services under the general authorisation referred to in Article 3, subject to the provisions of Articles 6, 7 and 11(1)(c) of this Directive and any other rules ensuring the efficient use of those resources in accordance with Directive 2002/21/EC (Framework Directive).
+Without prejudice to specific criteria and procedures adopted by Member States to grant rights of use of radio frequencies to providers of radio or television broadcast content services with a view to pursuing general interest objectives in conformity with Community law, the rights of use for radio frequencies and numbers shall be granted through open, objective, transparent, non-discriminatory and proportionate procedures, and, in the case of radio frequencies, in accordance with the provisions of Article 9 of Directive 2002/21/EC (Framework Directive). An exception to the requirement of open procedures may apply in cases where the granting of individual rights of use of radio frequencies to the providers of radio or television broadcast content services is necessary to achieve a general interest objective as defined by Member States in conformity with Community law.
+When granting rights of use, Member States shall specify whether those rights can be transferred by the holder of the rights, and under which conditions. In the case of radio frequencies, such provision shall be in accordance with Articles 9 and 9b of Directive 2002/21/EC (Framework Directive).
+Where Member States grant rights of use for a limited period of time, the duration shall be appropriate for the service concerned in view of the objective pursued taking due account of the need to allow for an appropriate period for investment amortisation.
+Where individual rights to use radio frequencies are granted for 10 years or more and such rights may not be transferred or leased between undertakings pursuant to Article 9b of Directive 2002/21/EC (Framework Directive) the competent national authority shall ensure that the criteria to grant individual rights of use apply and are complied with for the duration of the licence, in particular upon a justified request of the holder of the right. If those criteria are no longer applicable, the individual right of use shall be changed into a general authorisation for the use of radio frequencies, subject to prior notice and after a reasonable period, or shall be made transferable or leaseable between undertakings in accordance with Article 9b of Directive 2002/21/EC (Framework Directive).
+3.   Decisions on the granting of rights of use shall be taken, communicated and made public as soon as possible after receipt of the complete application by the national regulatory authority, within three weeks in the case of numbers that have been allocated for specific purposes within the national numbering plan and within six weeks in the case of radio frequencies that have been allocated to be used by electronic communications services within the national frequency plan. The latter time limit shall be without prejudice to any applicable international agreements relating to the use of radio frequencies or of orbital positions.
+4.   Where it has been decided, after consultation with interested parties in accordance with Article 6 of Directive 2002/21/EC (Framework Directive), that rights for use of numbers of exceptional economic value are to be granted through competitive or comparative selection procedures, Member States may extend the maximum period of three weeks by up to a further three weeks.
+With regard to competitive or comparative selection procedures for radio frequencies, Article 7 shall apply.
+5.   Member States shall not limit the number of rights of use to be granted except where this is necessary to ensure the efficient use of radio frequencies in accordance with Article 7.
+6.   Competent national authorities shall ensure that radio frequencies are efficiently and effectively used in accordance with Articles 8(2) and 9(2) of Directive 2002/21/EC (Framework Directive). They shall ensure competition is not distorted by any transfer or accumulation of rights of use of radio frequencies. For such purposes, Member States may take appropriate measures such as mandating the sale or the lease of rights to use radio frequencies.”;
+4)
+Article 6 shall be amended as follows:
+(a)
+paragraph 1 shall be replaced by the following:
+“1.   The general authorisation for the provision of electronic communications networks or services and the rights of use for radio frequencies and rights of use for numbers may be subject only to the conditions listed in the Annex. Such conditions shall be non-discriminatory, proportionate and transparent and, in the case of rights of use for radio frequencies, shall be in accordance with Article 9 of Directive 2002/21/EC (Framework Directive).”;
+(b)
+in paragraph 2, the words “Articles 16, 17, 18 and 19 of Directive 2002/22/EC (Universal Service Directive)” shall be replaced by the words “Article 17 of Directive 2002/22/EC (Universal Service Directive)”;
+5)
+Article 7 shall be amended as follows:
+(a)
+paragraph 1 shall be amended as follows:
+(i)
+the introductory phrase shall be replaced by the following:
+“1.   Where a Member State is considering whether to limit the number of rights of use to be granted for radio frequencies or whether to extend the duration of existing rights other than in accordance with the terms specified in such rights, it shall inter alia:”;
+(ii)
+point (c) shall be replaced by the following:
+“(c)
+publish any decision to limit the granting of rights of use or the renewal of rights of use, stating the reasons therefor;”;
+(b)
+paragraph 3 shall be replaced by the following:
+“3.   Where the granting of rights of use for radio frequencies needs to be limited, Member States shall grant such rights on the basis of selection criteria which must be objective, transparent, non-discriminatory and proportionate. Any such selection criteria must give due weight to the achievement of the objectives of Article 8 of Directive 2002/21/EC (Framework Directive) and of the requirements of Article 9 of that Directive.”;
+(c)
+in paragraph 5, the words “Article 9” shall be replaced by the words “Article 9b”;
+6)
+Article 10 shall be amended as follows:
+(a)
+paragraph 1, 2 and 3 shall be replaced by the following:
+“1.   National regulatory authorities shall monitor and supervise compliance with the conditions of the general authorisation or of rights of use and with the specific obligations referred to in Article 6(2), in accordance with Article 11.
+National regulatory authorities shall have the power to require undertakings providing electronic communications networks or services covered by the general authorisation or enjoying rights of use for radio frequencies or numbers to provide all information necessary to verify compliance with the conditions of the general authorisation or of rights of use or with the specific obligations referred to in Article 6(2), in accordance with Article 11.
+2.   Where a national regulatory authority finds that an undertaking does not comply with one or more of the conditions of the general authorisation or of rights of use, or with the specific obligations referred to in Article 6(2), it shall notify the undertaking of those findings and give the undertaking the opportunity to state its views, within a reasonable time limit.
+3.   The relevant authority shall have the power to require the cessation of the breach referred to in paragraph 2 either immediately or within a reasonable time limit and shall take appropriate and proportionate measures aimed at ensuring compliance.
+In this regard, Member States shall empower the relevant authorities to impose:
+(a)
+dissuasive financial penalties where appropriate, which may include periodic penalties having retroactive effect; and
+(b)
+orders to cease or delay provision of a service or bundle of services which, if continued, would result in significant harm to competition, pending compliance with access obligations imposed following a market analysis carried out in accordance with Article 16 of Directive 2002/21/EC (Framework Directive).
+The measures and the reasons on which they are based shall be communicated to the undertaking concerned without delay and shall stipulate a reasonable period for the undertaking to comply with the measure.”;
+(b)
+paragraph 4 shall be replaced by the following:
+“4.   Notwithstanding the provisions of paragraphs 2 and 3, Member States shall empower the relevant authority to impose financial penalties where appropriate on undertakings for failure to provide information in accordance with the obligations imposed under Article 11(1)(a) or (b) of this Directive and Article 9 of Directive 2002/19/EC (Access Directive) within a reasonable period stipulated by the national regulatory authority.”;
+(c)
+paragraph 5 shall be replaced by the following:
+“5.   In cases of serious or repeated breaches of the conditions of the general authorisation or of the rights of use, or specific obligations referred to in Article 6(2), where measures aimed at ensuring compliance as referred to in paragraph 3 of this Article have failed, national regulatory authorities may prevent an undertaking from continuing to provide electronic communications networks or services or suspend or withdraw rights of use. Sanctions and penalties which are effective, proportionate and dissuasive may be applied to cover the period of any breach, even if the breach has subsequently been rectified.”;
+(d)
+paragraph 6 shall be replaced by the following:
+“6.   Irrespective of the provisions of paragraphs 2, 3 and 5, where the relevant authority has evidence of a breach of the conditions of the general authorisation rights of use or of the specific obligations referred to in Article 6(2) that represents an immediate and serious threat to public safety, public security or public health or will create serious economic or operational problems for other providers or users of electronic communications networks or services or other users of the radio spectrum, it may take urgent interim measures to remedy the situation in advance of reaching a final decision. The undertaking concerned shall thereafter be given a reasonable opportunity to state its views and propose any remedies. Where appropriate, the relevant authority may confirm the interim measures, which shall be valid for a maximum of 3 months, but which may, in circumstances where enforcement procedures have not been completed, be extended for a further period of up to three months.”;
+7)
+Article 11, paragraph 1 shall be amended as follows:
+(a)
+point (a) shall be replaced by the following:
+“(a)
+systematic or case-by-case verification of compliance with conditions 1 and 2 of Part A, conditions 2 and 6 of Part B and conditions 2 and 7 of Part C of the Annex and of compliance with obligations as referred to in Article 6(2);”;
+(b)
+the following points shall be added:
+“(g)
+safeguarding the efficient use and ensuring the effective management of radio frequencies;
+(h)
+evaluating future network or service developments that could have an impact on wholesale services made available to competitors.”;
+(c)
+the second subparagraph shall be replaced by the following:
+
+                                          “The information referred to in points (a), (b), (d), (e), (f), (g) and (h) of the first subparagraph may not be required prior to, or as a condition for, market access.”;
+8)
+Article 14 shall be replaced by the following:
+“Article 14
+Amendment of rights and obligations
+1.   Member States shall ensure that the rights, conditions and procedures concerning general authorisations and rights of use or rights to install facilities may only be amended in objectively justified cases and in a proportionate manner, taking into consideration, where appropriate, the specific conditions applicable to transferable rights of use for radio frequencies. Except where proposed amendments are minor and have been agreed with the holder of the rights or general authorisation, notice shall be given in an appropriate manner of the intention to make such amendments and interested parties, including users and consumers, shall be allowed a sufficient period of time to express their views on the proposed amendments, which shall be no less than four weeks except in exceptional circumstances.
+2.   Member States shall not restrict or withdraw rights to install facilities or rights of use for radio frequencies before expiry of the period for which they were granted except where justified and where applicable in conformity with the Annex and relevant national provisions regarding compensation for withdrawal of rights.”;
+9)
+Article 15(1) shall be replaced by the following:
+“1.   Member States shall ensure that all relevant information on rights, conditions, procedures, charges, fees and decisions concerning general authorisations, rights of use and rights to install facilities is published and kept up to date in an appropriate manner so as to provide easy access to that information for all interested parties.”;
+10)
+in Article 17 paragraphs 1 and 2 shall be replaced by the following:
+“1.   Without prejudice to Article 9a of Directive 2002/21/EC (Framework Directive), Member States shall bring general authorisations and individual rights of use already in existence on 31 December 2009 into conformity with Articles 5, 6, 7, and the Annex of this Directive 19 December 2011 at the latest.
+2.   Where application of paragraph 1 results in a reduction of the rights or an extension of the general authorisations and individual rights of use already in existence, Member States may extend the validity of those authorisations and rights until 30 September 2012 at the latest, provided that the rights of other undertakings under Community law are not affected thereby. Member States shall notify such extensions to the Commission and state the reasons therefor.”;
+11)
+the Annex shall be amended as set out in the Annex to this Directive.

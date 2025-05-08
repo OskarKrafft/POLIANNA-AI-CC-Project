@@ -1,0 +1,20 @@
+Article 48
+CSD links
+1.   Before establishing a CSD link and on an ongoing basis once the CSD link is established, all CSDs concerned shall identify, assess, monitor and manage all potential sources of risk for themselves and for their participants arising from the CSD link and take appropriate measures to mitigate them.
+2.   CSDs that intend to establish links shall submit an application for authorisation to the competent authority of the requesting CSD as required under point (e) of Article 19(1) or notify the competent and relevant authorities of the requesting CSD as required under Article 19(5).
+3.   A link shall provide adequate protection to the linked CSDs and their participants, in particular as regards possible credits taken by CSDs and the concentration and liquidity risks as a result of the link arrangement.
+A link shall be supported by an appropriate contractual arrangement that sets out the respective rights and obligations of the linked CSDs and, where necessary, of the CSDs’ participants. A contractual arrangement with cross-jurisdictional implications shall provide for an unambiguous choice of law that govern each aspect of the link’s operations.
+4.   In the event of a provisional transfer of securities between linked CSDs, retransfer of securities prior to the first transfer becoming final shall be prohibited.
+5.   A CSD that uses an indirect link or an intermediary to operate a CSD link with another CSD shall measure, monitor, and manage the additional risks arising from the use of that indirect link or intermediary and take appropriate measures to mitigate them.
+6.   Linked CSDs shall have robust reconciliation procedures to ensure that their respective records are accurate.
+7.   Links between CSDs shall permit DVP settlement of transactions between participants in linked CSDs, where practical and feasible. Detailed reasons for any CSD link not allowing for DVP settlement shall be notified to the relevant and competent authorities.
+8.   Interoperable securities settlement systems and CSDs, which use a common settlement infrastructure shall establish identical moments of:
+(a)
+entry of transfer orders into the system;
+(b)
+irrevocability of transfer orders.
+The securities settlement systems and CSDs referred to in the first subparagraph shall use equivalent rules concerning the moment of finality of transfers of securities and cash.
+9.   By 18 September 2019 all interoperable links between CSDs operating in Member States shall be, where applicable, DVP-settlement supporting links.
+10.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the conditions provided for in paragraph 3 under which each type of link arrangement provides for adequate protection of the linked CSDs and of their participants, in particular where a CSD intends to participate in the securities settlement system operated by another CSD, the monitoring and managing of additional risks referred to in paragraph 5 arising from the use of intermediaries, the reconciliation methods referred to in paragraph 6, the cases where DVP settlement through CSD links is practical and feasible as provided for in paragraph 7 and the methods of assessment thereof.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Powers is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

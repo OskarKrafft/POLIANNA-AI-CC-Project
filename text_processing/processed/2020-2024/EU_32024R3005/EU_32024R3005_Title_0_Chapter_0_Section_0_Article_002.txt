@@ -1,0 +1,62 @@
+Article 2
+Scope
+1.   This Regulation applies to ESG ratings issued by ESG rating providers operating in the Union.
+ESG rating providers are considered to be operating in the Union in the following cases:
+(a)
+for ESG rating providers established in the Union:
+(i)
+when they issue and publish their ESG ratings on their website or through other means; or
+(ii)
+when they issue and distribute their ESG ratings by subscription or other contractual relationships to regulated financial undertakings in the Union, to undertakings that fall within the scope of Directive 2013/34/EU, to undertakings that fall within the scope of Directive 2004/109/EC, or to Union institutions, bodies, offices and agencies or Member State public authorities;
+(b)
+for ESG rating providers established outside the Union, when they issue and distribute their ESG ratings by subscription or other contractual relationships to regulated financial undertakings in the Union, to undertakings that fall within the scope of Directive 2013/34/EU, to undertakings that fall within the scope of Directive 2004/109/EC, or to Union institutions, bodies, offices and agencies or Member State public authorities.
+2.   This Regulation does not apply to any of the following:
+(a)
+private ESG ratings that are not intended for public disclosure or for distribution;
+(b)
+ESG ratings issued by regulated financial undertakings in the Union that are used exclusively for internal purposes or for providing in-house or intragroup financial services or products;
+(c)
+ESG ratings issued by regulated financial undertakings in the Union that:
+(i)
+are incorporated in a product or a service, where such products or services are already regulated under Union law, including under Regulation (EC) No 883/2004 of the European Parliament and of the Council (17), Regulation (EU) 2019/2088, Directives 2013/36/EU (18), 2014/65/EU, 2009/138/EC (19), 2009/65/EC (20), 2011/61/EU (21) and (EU) 2016/2341 (22) of the European Parliament and of the Council and Regulations (EU) 2020/1503 (23), (EU) 2023/1114 (24) and (EU) 2016/1011 of the European Parliament and of the Council; and
+(ii)
+are disclosed to a third party.
+In the situations covered by the first subparagraph of this point, where a regulated financial undertaking in the Union discloses an ESG rating to third parties as part of its marketing communications, it shall include on its website the same information as that required by point 1 of Annex III to this Regulation and it shall disclose in those marketing communications a link to those website disclosures, except where it is subject to Article 13(3) of Regulation (EU) 2019/2088.
+Competent authorities designated in accordance with the sectoral legislative acts referred to in the first subparagraph of this point shall monitor compliance by regulated financial undertakings in the Union with the requirements of the first subparagraph of this point, in accordance with the powers granted by those sectoral legislative acts;
+(d)
+ESG ratings issued by ESG rating providers established outside the Union that are not authorised or recognised under Title II and that meet the following conditions:
+(i)
+the ESG rating is distributed at the own exclusive initiative of the user of the ESG rating established in the Union without any prior contact, solicitation, promotion, advertisement or any other initiative by the ESG rating provider, or by any third party on behalf of the provider; an ESG rating distributed in the Union by a provider established outside the Union whose market share in the Union for its ESG rating activities becomes substantial or that has a website in at least one of the official languages of the Union, which is a language that is not customary in the sphere of international finance, shall not be considered to be distributed at the own exclusive initiative of the user of ESG rating.
+The own exclusive initiative of a user of ESG rating as referred to in the first subparagraph of this point shall not entitle an ESG rating provider established outside the Union to distribute ESG ratings to that user in a recurrent manner, nor to distribute ESG ratings to any other user of ESG ratings in the Union;
+(ii)
+there is no substitute for the ratings offered by any ESG rating provider authorised under this Regulation;
+(e)
+the publication or distribution of data on environmental, social and human rights, and governance factors;
+(f)
+credit ratings issued pursuant to Regulation (EC) No 1060/2009, and any ESG-related scores or assessments that are produced or published as part of the methodologies for credit ratings or as an input or output of the creditworthiness assessment;
+(g)
+products or services that incorporate an element of an ESG rating, including investment research as laid down in Directive 2014/65/EU;
+(h)
+external reviews of European Green Bonds, as provided for in Regulation (EU) 2023/2631;
+(i)
+external reviews or second-party opinions on bonds marketed as environmentally sustainable, sustainability-linked bonds, and bonds, loans and other types of debt instruments marketed as sustainable, to the extent that such external reviews and second-party opinions do not contain ESG ratings issued by the external reviewer or the second-party opinion provider;
+(j)
+ESG ratings issued by Union institutions, bodies, offices and agencies or Member State public authorities where such ratings are not published or distributed for commercial purposes;
+(k)
+ESG ratings issued by an authorised ESG rating provider where such ratings are published or distributed by a third party;
+(l)
+ESG ratings issued by members of the European System of Central Banks where such ratings are not published or distributed for commercial purposes;
+(m)
+mandatory disclosures pursuant to Articles 6, 8, 9, 10, 11 and 13 of Regulation (EU) 2019/2088;
+(n)
+disclosures pursuant to Articles 5, 6 and 8 of Regulation (EU) 2020/852;
+(o)
+ESG ratings developed exclusively for accreditation or certification processes, which do not target investment analysis, financial analysis, investment decision-making or financial decision-making;
+(p)
+labelling activities provided that the labels granted to the relevant entities, financial instruments or financial products do not involve the disclosure of an ESG rating;
+(q)
+ESG ratings published or distributed by non-profit organisations for non-commercial purposes.
+By way of derogation from the first subparagraph, point (q), where non-profit organisations charge rated items or issuers of rated items to report data or to get rated through their platform, or where they charge users of ESG ratings to access any information on ESG ratings, they shall be subject to the requirements of this Regulation.
+3.   ESMA, the European Supervisory Authority (European Banking Authority) (EBA) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council (25), and the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council (26) (known collectively as ‘European Supervisory Authorities’ or ‘ESAs’) shall, through the Joint Committee, develop draft regulatory technical standards to specify the details of the presentation and content of the information to be disclosed pursuant to paragraph 2, first subparagraph, point (c), second subparagraph, taking into account the various types of financial products, their characteristics and the differences between them, and the need to avoid duplication of information already published in accordance with applicable regulatory requirements.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph, in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.

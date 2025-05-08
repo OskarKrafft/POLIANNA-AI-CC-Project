@@ -1,0 +1,22 @@
+Article 31
+European assessment documents
+1.   The methods and criteria for assessing the performance of products, including used products, in relation to their essential characteristics may be laid down in European assessment documents provided that the products are not covered by:
+(a)
+a harmonised standard made mandatory by an implementing act referred to in Article 5(8);
+(b)
+an implementing act referred to in Article 6(1); or
+(c)
+a harmonised standard to be delivered in a period shorter than one year, in accordance with a standardisation request referred to in Article 5(2).
+2.   A product shall not be considered to be covered by harmonised standards or implementing acts referred to in paragraph 1 where:
+(a)
+the declared use of the product falls outside of the scope of the intended use set out in the harmonised standard or implementing act;
+(b)
+the materials used are not identical to the materials to be used in accordance with the harmonised standard or implementing act; or
+(c)
+the assessment method set out in the harmonised standard or implementing act is not appropriate for that product.
+3.   Following a request for a European technical assessment by a manufacturer, a group of manufacturers or a manufacturers’ association, or on the initiative of the Commission, the organisation of TABs may, in agreement with the Commission, draw up and adopt a European assessment document.
+The basic requirements for construction works set out in Annex I and the list of predetermined environmental essential characteristics set out in Annex II shall constitute the basis for the preparation of European assessment documents. The development and adoption of a European assessment document shall follow the principles and the procedure set out in Article 32.
+4.   European assessment documents shall not be drawn up in relation to an essential characteristic of, or assessment method for, a product when there is another European assessment document covering the same essential characteristic or assessment method in relation to that specific product, the reference of which has either already been published in the Official Journal of the European Union, or which has been submitted to the Commission for assessment in accordance with Article 34(1).
+5.   The organisation of TABs and the Commission may merge or reject requests for the development of a European assessment document in accordance with point 5 of Annex VI.
+6.   From the date of mandatory application of a harmonised technical specification adopted in accordance with Article 5(8) or Article 6(1), covering the same product and the same intended use as a European assessment document, the European assessment document shall no longer be used for the purposes of this Regulation. In that case the Commission shall withdraw the reference of the European assessment document from the Official Journal of the European Union.
+7.   European assessment documents shall constitute the basis for European technical assessments set out in Article 37.

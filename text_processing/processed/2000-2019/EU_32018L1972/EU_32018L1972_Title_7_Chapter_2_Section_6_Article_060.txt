@@ -1,0 +1,56 @@
+Article 61
+Powers and responsibilities of the national regulatory and other competent authorities with regard to access and interconnection
+1.   National regulatory authorities or other competent authorities in the case of points (b) and (c) of the first subparagraph of paragraph 2 of this Article shall, acting in pursuit of the objectives set out in Article 3, encourage and, where appropriate, ensure, in accordance with this Directive, adequate access and interconnection, and the interoperability of services, exercising their responsibility in a way that promotes efficiency, sustainable competition, the deployment of very high capacity networks, efficient investment and innovation, and gives the maximum benefit to end-users.
+They shall provide guidance and make publicly available the procedures applicable to gain access and interconnection to ensure that small and medium-sized enterprises and operators with a limited geographical reach can benefit from the obligations imposed.
+2.   In particular, without prejudice to measures that may be taken regarding undertakings designated as having significant market power in accordance with Article 68, national regulatory authorities, or other competent authorities in the case of points (b) and (c) of this subparagraph, shall be able to impose:
+(a)
+to the extent necessary to ensure end-to-end connectivity, obligations on undertakings subject to general authorisation that control access to end-users, including, in justified cases, the obligation to interconnect their networks where this is not already the case;
+(b)
+in justified cases and to the extent necessary, obligations on undertakings subject to general authorisation that control access to end-users to make their services interoperable;
+(c)
+in justified cases, where end-to-end connectivity between end-users is endangered due to a lack of interoperability between interpersonal communications services, and to the extent necessary to ensure end-to-end connectivity between end-users, obligations on relevant providers of number-independent interpersonal communications services which reach a significant level of coverage and user uptake, to make their services interoperable;
+(d)
+to the extent necessary to ensure accessibility for end-users to digital radio and television broadcasting services and related complementary services specified by the Member State, obligations on operators to provide access to the other facilities referred to in Part II of Annex II on fair, reasonable and non-discriminatory terms.
+The obligations referred to in point (c) of the first subparagraph shall be imposed only:
+(i)
+to the extent necessary to ensure interoperability of interpersonal communications services and may include proportionate obligations on providers of those services to publish and allow the use, modification and redistribution of relevant information by the authorities and other providers, or to use and implement standards or specifications listed in Article 39(1) or of any other relevant European or international standards;
+(ii)
+where the Commission, after consulting BEREC and taking utmost account of its opinion, has found an appreciable threat to end-to-end connectivity between end-users throughout the Union or in at least three Member States and has adopted implementing measures specifying the nature and scope of any obligations that may be imposed.
+The implementing measures referred to in point (ii) of the second subparagraph shall be adopted in accordance with the examination procedure referred to in Article 118(4).
+3.   In particular, and without prejudice to paragraphs 1 and 2, national regulatory authorities may impose obligations, upon reasonable request, to grant access to wiring and cables and associated facilities inside buildings or up to the first concentration or distribution point as determined by the national regulatory authority, where that point is located outside the building. Where it is justified on the grounds that replication of such network elements would be economically inefficient or physically impracticable, such obligations may be imposed on providers of electronic communications networks or on the owners of such wiring and cables and associated facilities, where those owners are not providers of electronic communications networks. The access conditions imposed may include specific rules on access to such network elements and to associated facilities and associated services, on transparency and non-discrimination and on apportioning the costs of access, which, where appropriate, are adjusted to take into account risk factors.
+Where a national regulatory authority concludes, having regard, where applicable, to the obligations resulting from any relevant market analysis, that the obligations imposed in accordance with the first subparagraph do not sufficiently address high and non-transitory economic or physical barriers to replication which underlie an existing or emerging market situation significantly limiting competitive outcomes for end-users, it may extend the imposition of such access obligations, on fair and reasonable terms and conditions, beyond the first concentration or distribution point, to a point that it determines to be the closest to end-users, capable of hosting a sufficient number of end-user connections to be commercially viable for efficient access seekers. In determining the extent of the extension beyond the first concentration or distribution point, the national regulatory authority shall take utmost account of relevant BEREC guidelines. If justified on technical or economic grounds, national regulatory authorities may impose active or virtual access obligations.
+National regulatory authorities shall not impose obligations in accordance with the second subparagraph on providers of electronic communications networks where they determine that:
+(a)
+the provider has the characteristics listed in Article 80(1) and makes available a viable and similar alternative means of reaching end-users by providing access to a very high capacity network to any undertaking, on fair, non-discriminatory and reasonable terms and conditions; national regulatory authorities may extend that exemption to other providers offering, on fair, non-discriminatory and reasonable terms and conditions, access to a very high capacity network; or
+(b)
+the imposition of obligations would compromise the economic or financial viability of a new network deployment, in particular by small local projects.
+By way of derogation from point (a) of the third subparagraph, national regulatory authorities may impose obligations on providers of electronic communications networks fulfilling the criteria laid down in that point where the network concerned is publicly funded.
+By 21 December 2020, BEREC shall publish guidelines to foster a consistent application of this paragraph, by setting out the relevant criteria for determining:
+(a)
+the first concentration or distribution point;
+(b)
+the point, beyond the first concentration or distribution point, capable of hosting a sufficient number of end-user connections to enable an efficient undertaking to overcome the significant replicability barriers identified;
+(c)
+which network deployments can be considered to be new;
+(d)
+which projects can be considered to be small; and
+(e)
+which economic or physical barriers to replication are high and non-transitory.
+4.   Without prejudice to paragraphs 1 and 2, Member States shall ensure that competent authorities have the power to impose on undertakings providing or authorised to provide electronic communications networks obligations in relation to the sharing of passive infrastructure or obligations to conclude localised roaming access agreements, in both cases if directly necessary for the local provision of services which rely on the use of radio spectrum, in accordance with Union law and provided that no viable and similar alternative means of access to end-users is made available to any undertaking on fair and reasonable terms and conditions. Competent authorities may impose such obligations only where this possibility is clearly provided for when granting the rights of use for radio spectrum and where justified on the grounds that, in the area subject to such obligations, the market-driven deployment of infrastructure for the provision of networks or services which rely on the use of radio spectrum is subject to insurmountable economic or physical obstacles and therefore access to networks or services by end-users is severely deficient or absent. In those circumstances where access and sharing of passive infrastructure alone does not suffice to address the situation, national regulatory authorities may impose obligations on sharing of active infrastructure.
+Competent authorities shall have regard to:
+(a)
+the need to maximise connectivity throughout the Union, along major transport paths and in particular territorial areas, and to the possibility to significantly increase choice and higher quality of service for end-users;
+(b)
+the efficient use of radio spectrum;
+(c)
+the technical feasibility of sharing and associated conditions;
+(d)
+the state of infrastructure-based as well as service-based competition;
+(e)
+technological innovation;
+(f)
+the overriding need to support the incentive of the host to roll out the infrastructure in the first place.
+In the event of dispute resolution, competent authorities may, inter alia, impose on the beneficiary of the sharing or access obligation, the obligation to share radio spectrum with the infrastructure host in the relevant area.
+5.   Obligations and conditions imposed in accordance with paragraphs 1 to 4 of this Article shall be objective, transparent, proportionate and non-discriminatory, they shall be implemented in accordance with the procedures referred to in Articles 23, 32 and 33. The national regulatory and other competent authorities which have imposed such obligations and conditions shall assess the results thereof by five years after the adoption of the previous measure adopted in relation to the same undertakings and assess whether it would be appropriate to withdraw or amend them in light of evolving conditions. Those authorities shall notify the outcome of their assessment in accordance with the procedures referred to in Articles 23, 32 and 33.
+6.   For the purpose of paragraphs 1 and 2 of this Article, Member States shall ensure that the national regulatory authority is empowered to intervene on its own initiative where justified in order to secure the policy objectives of Article 3, in accordance with this Directive and, in particular, with the procedures referred to in Articles 23 and 32.
+7.   By 21 June 2020 in order to contribute to a consistent definition of the location of network termination points by national regulatory authorities, BEREC shall, after consulting stakeholders and in close cooperation with the Commission, adopt guidelines on common approaches to the identification of the network termination point in different network topologies. National regulatory authorities shall take utmost account of those guidelines when defining the location of network termination points.

@@ -1,0 +1,36 @@
+Article 29
+Civil liability of companies and the right to full compensation
+1.   Member States shall ensure that a company can be held liable for damage caused to a natural or legal person, provided that:
+(a)
+the company intentionally or negligently failed to comply with the obligations laid down in Articles 10 and 11, when the right, prohibition or obligation listed in the Annex to this Directive is aimed at protecting the natural or legal person; and
+(b)
+as a result of the failure referred to in point (a), damage to the natural or legal person’s legal interests that are protected under national law was caused.
+A company cannot be held liable if the damage was caused only by its business partners in its chain of activities.
+2.   Where a company is held liable in accordance with paragraph 1, a natural or legal person shall have the right to full compensation for the damage, in accordance with national law. Full compensation under this Directive shall not lead to overcompensation, whether by means of punitive, multiple or other types of damages.
+3.   Member States shall ensure that:
+(a)
+national rules on the beginning, duration, suspension or interruption of limitation periods do not unduly hamper the bringing of actions for damages and, in any case, are not more restrictive than the rules on national general civil liability regimes;
+the limitation period for bringing actions for damages under this Directive shall be at least five years and, in any case, not shorter than the limitation period laid down under national general civil liability regimes;
+limitation periods shall not begin to run before the infringement has ceased and the claimant knows, or can reasonably be expected to know:
+(i)
+of the behaviour and the fact that it constitutes an infringement;
+(ii)
+of the fact that the infringement caused harm to them; and
+(iii)
+the identity of the infringer;
+(b)
+the cost of proceedings is not prohibitively expensive for claimants to seek justice;
+(c)
+claimants are able to seek injunctive measures, including through summary proceedings; such injunctive measures shall be in the form of a definitive or provisional measure to cease infringements of the provisions of national law adopted pursuant to this Directive by performing an action or ceasing conduct;
+(d)
+reasonable conditions are provided for under which any alleged injured party may authorise a trade union, non-governmental human rights or environmental organisation or other non-governmental organisation, and, in accordance with national law, national human rights’ institutions, based in a Member State to bring actions to enforce the rights of the alleged injured party, without prejudice to national rules of civil procedure;
+a trade union or non-governmental organisation may be authorised under the first subparagraph of this point if it complies with the requirements laid down in national law; those requirements may include maintaining a permanent presence of its own and, in accordance with its statutes, not engaging commercially and not only temporarily in the realisation of rights protected under this Directive or the corresponding rights in national law;
+(e)
+when a claim is brought, and a claimant presents a reasoned justification containing reasonably available facts and evidence sufficient to support the plausibility of their claim for damages and has indicated that additional evidence lies in the control of the company, courts are able to order that such evidence be disclosed by the company in accordance with national procedural law;
+national courts shall limit the disclosure of the evidence sought to that which is necessary and proportionate to support a potential claim or a claim for damages and the preservation of evidence to that which is necessary and proportionate to support such a claim for damages; in determining whether an order for the disclosure or preservation of evidence is proportionate, national courts shall consider the extent to which the claim or defence is supported by available facts and evidence justifying the request to disclose evidence; the scope and cost of disclosure as well as the legitimate interests of all parties, including any third parties concerned, including preventing non-specific searches for information which is unlikely to be of relevance for the parties in the procedure; whether the evidence the disclosure of which is sought contains confidential information, especially concerning any third parties, and what arrangements are in place for protecting such confidential information;
+Member States shall ensure that national courts have the power to order the disclosure of evidence containing confidential information where they consider it relevant to the action for damages; Member States shall ensure that, when ordering the disclosure of such information, national courts have at their disposal effective measures to protect such information.
+4.   Companies that have participated in industry or multi-stakeholder initiatives, or used independent third-party verification or contractual clauses to support the implementation of due diligence obligations may nevertheless be held liable in accordance with this Article.
+5.   The civil liability of a company for damages arising under this provision shall be without prejudice to the civil liability of its subsidiaries or of any direct and indirect business partners in the chain of activities of the company.
+When the damage was caused jointly by the company and its subsidiary, direct or indirect business partner, they shall be liable jointly and severally, without prejudice to the provisions of national law concerning the conditions of joint and several liability and the rights of recourse.
+6.   The civil liability rules under this Directive shall not limit companies’ liability under Union or national legal systems and shall be without prejudice to Union or national rules on civil liability related to adverse human rights impacts or to adverse environmental impacts that provide for liability in situations not covered by or providing for stricter liability than this Directive.
+7.   Member States shall ensure that the provisions of national law transposing this Article are of overriding mandatory application in cases where the law applicable to claims to that effect is not the national law of a Member State.

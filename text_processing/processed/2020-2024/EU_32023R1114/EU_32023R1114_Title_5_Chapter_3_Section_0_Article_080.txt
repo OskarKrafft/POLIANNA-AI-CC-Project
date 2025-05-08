@@ -1,0 +1,5 @@
+Article 80
+Reception and transmission of orders for crypto-assets on behalf of clients
+1.   Crypto-asset service providers receiving and transmitting orders for crypto-assets on behalf of clients shall establish and implement procedures and arrangements that provide for the prompt and proper transmission of client orders for execution on a trading platform for crypto-assets or to another crypto-asset service provider.
+2.   Crypto-asset service providers receiving and transmitting orders for crypto-assets on behalf of clients shall not receive any remuneration, discount or non-monetary benefit in return for routing orders received from clients to a particular trading platform for crypto-assets or to another crypto-asset service provider.
+3.   Crypto-asset service providers receiving and transmitting orders for crypto-assets on behalf of clients shall not misuse information relating to pending client orders, and shall take all reasonable steps to prevent the misuse of such information by any of their employees.

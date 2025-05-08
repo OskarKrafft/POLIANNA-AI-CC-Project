@@ -1,0 +1,4 @@
+Article 27
+Amendment to Regulation (EU) 2019/943
+In Article 48(1) of Regulation (EU) 2019/943, the first subparagraph is replaced by the following:
+‘1.   The Union-wide network development plan referred to under Article 30(1), point (b), shall include the modelling of the integrated network, including scenario development and an assessment of the resilience of the system. Relevant input parameters for the modelling such as assumptions on fuel and carbon prices or installation of renewables shall be fully consistent with the European resource adequacy assessment developed pursuant to Article 23.’.

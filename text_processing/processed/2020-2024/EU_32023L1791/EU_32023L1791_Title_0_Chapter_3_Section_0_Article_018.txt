@@ -1,0 +1,15 @@
+Article 18
+Billing and consumption information for heating, cooling and domestic hot water
+1.   Where meters or heat cost allocators are installed, Member States shall ensure that billing and consumption information is reliable, accurate and based on actual consumption or heat cost allocator readings, in accordance with Annex IX, points 1 and 2 for all final users.
+That obligation may, where a Member State so provides, save in the case of sub-metered consumption based on heat cost allocators under Article 15, be fulfilled by a system of regular self-reading by the final customer or final user whereby they communicate readings from their meter. Only where the final customer or final user has not provided a meter reading for a given billing interval shall billing be based on estimated consumption or a flat rate.
+2.   Member States shall:
+(a)
+require that, if information on the energy billing and historical consumption or heat cost allocator readings of final users is available, it be made available upon request from the final user, to an energy service provider designated by the final user;
+(b)
+ensure that final customers are offered the option of electronic billing information and bills;
+(c)
+ensure that clear and comprehensible information is provided with the bill to all final users in accordance with Annex IX, point 3;
+(d)
+promote cybersecurity and ensure the privacy and data protection of final users in accordance with applicable Union law.
+Member States may provide that, at the request of the final customer, the provision of billing information shall not be considered to constitute a request for payment. In such cases, Member States shall ensure that flexible arrangements for actual payment are offered.
+3.   Member States shall decide who is to be responsible for providing the information referred to in paragraphs 1 and 2 to final users without a direct or individual contract with an energy supplier.

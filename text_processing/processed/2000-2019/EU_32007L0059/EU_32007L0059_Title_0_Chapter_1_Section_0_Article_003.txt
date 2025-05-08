@@ -1,0 +1,27 @@
+Article 3
+Definitions
+For the purposes of this Directive:
+(a)
+‘competent authority’ means the safety authority referred to in Article 16 of Directive 2004/49/EC;
+(b)
+‘train driver’ means a person capable and authorised to drive trains, including locomotives, shunting locomotives, work trains, maintenance railway vehicles or trains for the carriage of passengers or goods by rail in an autonomous, responsible and safe manner;
+(c)
+‘other crew members performing safety-critical tasks’ means staff on board the train who are not train drivers but who help to ensure the safety of the train and of the passengers and goods being transported;
+(d)
+‘railway system’ means the system composed of the railway infrastructures, comprising lines and fixed installations of the rail system plus the rolling stock of all categories and origin travelling on that infrastructure, as defined in Directives 96/48/EC and 2001/16/EC;
+(e)
+‘infrastructure manager’ means any body or undertaking that is responsible in particular for establishing and maintaining railway infrastructure, or part thereof, as defined in Article 3 of Directive 91/440/EEC, which may also include the management of infrastructure control and safety systems. The functions of the infrastructure manager on a network or on part of a network may be allocated to different bodies or undertakings;
+(f)
+‘railway undertaking’ means any railway undertaking as defined in Directive 2001/14/EC of the European Parliament and of the Council of 26 February 2001 on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure (14), and any other public or private undertaking, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking must ensure traction. The term also includes undertakings which provide traction only;
+(g)
+‘technical specifications for interoperability’ or ‘TSIs’ means the specifications by which each subsystem or part of a subsystem is covered in order to meet the essential requirements and to ensure the interoperability of the trans-European high-speed and conventional rail systems as defined in Directives 96/48/EC and 2001/16/EC;
+(h)
+‘Agency’ means the European Railway Agency established by Regulation (EC) No 881/2004 (15) of the European Parliament and of the Council of 29 April 2004;
+(i)
+‘safety certificate’ means the certificate issued to a railway undertaking by a competent authority in accordance with Article 10 of Directive 2004/49/EC;
+(j)
+‘certificate’ means the harmonised complementary certificate indicating the infrastructure on which the holder is authorised to drive and the rolling stock which the holder is authorised to drive;
+(k)
+‘safety authorisation’ means the authorisation issued to an infrastructure manager by a competent authority in accordance with Article 11 of Directive 2004/49/EC;
+(l)
+‘training centre’ means an entity accredited or recognised by the competent authority to give training courses.

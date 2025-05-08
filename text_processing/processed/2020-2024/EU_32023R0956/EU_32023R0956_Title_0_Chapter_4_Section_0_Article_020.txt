@@ -1,0 +1,9 @@
+Article 20
+Sale of CBAM certificates
+1.   A Member State shall sell CBAM certificates on a common central platform to authorised CBAM declarants established in that Member State.
+2.   The Commission shall establish and manage the common central platform following a joint procurement procedure between the Commission and the Member States.
+The Commission and the competent authorities shall have access to the information in the common central platform.
+3.   The information on the sale, repurchase and cancellation of CBAM certificates in the common central platform shall be transferred to the CBAM registry at the end of each working day.
+4.   CBAM certificates shall be sold to authorised CBAM declarants at the price calculated in accordance with Article 21.
+5.   The Commission shall ensure that each CBAM certificate is assigned a unique identification number upon its creation. The Commission shall register the unique identification number and the price and date of sale of the CBAM certificate in the CBAM registry in the account of the authorised CBAM declarant purchasing that certificate.
+6.   The Commission shall adopt delegated acts in accordance with Article 28 supplementing this Regulation by further specifying the timing, administration and other aspects related to the management of the sale and repurchase of CBAM certificates, seeking coherence with the procedures of Commission Regulation (EU) No 1031/2010 (26).

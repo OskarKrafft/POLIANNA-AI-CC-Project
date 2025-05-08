@@ -1,0 +1,85 @@
+Article 130
+Supervisory measures by EBA
+1.   Where EBA finds that an issuer of a significant asset-referenced token has committed an infringement as listed in Annex V, it may take one or more of the following measures:
+(a)
+adopt a decision requiring the issuer of the significant asset-referenced token to cease the conduct constituting the infringement;
+(b)
+adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;
+(c)
+adopt a decision requiring the issuer of the significant asset-referenced token to transmit supplementary information, where necessary for the protection of holders of the asset-referenced token, in particular retail holders;
+(d)
+adopt a decision requiring the issuer of the significant asset-referenced token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
+(e)
+adopt a decision prohibiting an offer to the public of the significant asset-referenced token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;
+(f)
+adopt a decision requiring the crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading the significant asset-referenced token to suspend trading of such crypto-asset for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
+(g)
+adopt a decision prohibiting trading of the significant asset-referenced token on a trading platform for crypto-assets where it finds that this Regulation has been infringed;
+(h)
+adopt a decision requiring the issuer of the significant asset-referenced token to amend its marketing communications, where it finds that the marketing communications do not comply with Article 29;
+(i)
+adopt a decision to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(j)
+adopt a decision requiring the issuer of the significant asset-referenced token to disclose all material information which might have an effect on the assessment of the significant asset-referenced token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;
+(k)
+issue warnings that the issuer of the significant asset-referenced token fails to fulfil its obligations under this Regulation;
+(l)
+withdraw the authorisation of the issuer of the significant asset-referenced token;
+(m)
+adopt a decision requiring the removal of a natural person from the management body of the issuer of the significant asset-referenced token;
+(n)
+require the issuer of the significant asset-referenced token under its supervision to introduce a minimum denomination amount in respect of that significant asset-referenced token or to limit the amount of the significant asset-referenced token issued, in accordance with Article 23(4) and Article 24(3).
+2.   Where EBA finds that an issuer of a significant e-money token has committed an infringement as listed in Annex VI, it may take one or more of the following measures:
+(a)
+adopt a decision requiring the issuer of the significant e-money token to cease the conduct constituting the infringement;
+(b)
+adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;
+(c)
+adopt a decision requiring the issuer of the significant e-money token to transmit supplementary information where necessary for the protection of holders of the significant e-money token, in particular retail holders;
+(d)
+adopt a decision requiring the issuer of the significant e-money token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
+(e)
+adopt a decision prohibiting an offer to the public of the significant e-money token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;
+(f)
+adopt a decision requiring the relevant crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading significant e-money tokens to suspend trading of such crypto-assets for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
+(g)
+adopt a decision prohibiting trading of significant e-money tokens on a trading platform for crypto-assets where it finds that this Regulation has been infringed;
+(h)
+adopt a decision requiring the issuer of the significant e-money token to disclose all material information which might have an effect on the assessment of the significant e-money token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;
+(i)
+issue warnings that the issuer of the significant e-money token fails to fulfil its obligations under this Regulation;
+(j)
+require the issuer of the significant e-money token under its supervision to introduce a minimum denomination amount in respect of that significant e-money token or to limit the amount of the significant e-money token issued, as a result of the application of Article 58(3).
+3.   When taking the measures referred to in paragraph 1 or 2, EBA shall take into account the nature and seriousness of the infringement, having regard to:
+(a)
+the duration and frequency of the infringement;
+(b)
+whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;
+(c)
+whether the infringement has revealed serious or systemic weaknesses in the procedures, policies and risk management measures of the issuer of the significant asset-referenced token or the issuer of the significant e-money tokens;
+(d)
+whether the infringement has been committed intentionally or negligently;
+(e)
+the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;
+(f)
+the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
+(g)
+the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;
+(h)
+the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;
+(i)
+the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+(j)
+previous infringements by the issuer of the significant asset-referenced token or by the issuer of the e-money token responsible for the infringement;
+(k)
+measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
+4.   Before taking any of the measures as referred to in paragraph 1, points (d) to (g), and point (j), EBA shall inform ESMA and, where the significant asset-referenced tokens are referencing the euro or an official currency of a Member State that is not the euro, the ECB or the central bank of the Member State concerned issuing that official currency, respectively.
+5.   Before taking any of the measures as referred to in paragraph 2, EBA shall inform the competent authority of the issuer of the significant e-money token and the central bank of the Member State whose official currency the significant e-money token is referencing.
+6.   EBA shall notify any measure taken pursuant to paragraph 1 or 2 to the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement without undue delay and shall communicate that measure to the competent authorities concerned as well as to the Commission. EBA shall publicly disclose any such decision on its website within 10 working days of the date of adoption of such decision, unless such disclosure would seriously jeopardise financial stability or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data.
+7.   The disclosure to the public referred to in paragraph 6 shall include the following statements:
+(a)
+a statement affirming the right of the person responsible for the infringement to appeal the decision before the Court of Justice;
+(b)
+where relevant, a statement affirming that an appeal has been lodged and specifying that such an appeal does not have suspensive effect;
+(c)
+a statement asserting that it is possible for EBA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1093/2010.

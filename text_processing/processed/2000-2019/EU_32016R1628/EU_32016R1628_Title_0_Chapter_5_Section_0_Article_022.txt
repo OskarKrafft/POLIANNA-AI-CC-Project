@@ -1,0 +1,26 @@
+Article 22
+General provisions
+1.   The approval authority receiving the application shall grant EU type-approval to all engine types or engine families complying with each of the following:
+(a)
+the particulars in the information folder;
+(b)
+the requirements of this Regulation, and in particular the conformity of production arrangements referred to in Article 26.
+2.   Where an engine fulfils the requirements laid down in this Regulation, approval authorities shall not impose any other EU type-approval requirements with regard to exhaust emissions for non-road mobile machinery in which such an engine is installed.
+3.   After the dates for the EU type-approval of engines set out in Annex III for each engine sub-category, approval authorities shall not grant an EU type-approval to an engine type or engine family that does not fulfil the requirements laid down in this Regulation.
+4.   EU type-approval certificates shall be numbered in accordance with a harmonised system to be laid down by the Commission.
+5.   By means of IMI, the approval authority shall:
+(a)
+make available to the approval authorities of the other Member States a list of the EU type-approvals it has granted or, where applicable, extended, within one month of issuing the corresponding EU type-approval certificate;
+(b)
+make available without delay to the approval authorities of the other Member States a list of the EU type-approvals it has refused to grant or has withdrawn, together with the reasons for its decision;
+(c)
+within one month of receiving a request from the approval authority of another Member State, send that approval authority a copy of the engine type or engine family EU type-approval certificate, where this exists, together with the information package referred to in paragraph 6 for each engine type or engine family which it has approved, refused to approve or the EU type-approval of which it has withdrawn.
+6.   The approval authority shall put together an information package consisting of the information folder accompanied by the test report and all other documents added by the technical service or by the approval authority to the information folder in the course of carrying out their functions (‘the information package’).
+The information package shall include an index listing its contents, suitably numbered or otherwise marked so as to clearly identify all the pages and the format of each document, in order to present a record of the successive steps in the management of the EU type-approval, in particular the dates of revisions and updating.
+The approval authority shall ensure that the information contained in the information package is available for a period of at least 25 years following the end of the validity of the EU type-approval concerned.
+7.   The Commission may adopt implementing acts laying down:
+(a)
+the method for establishing the harmonised numbering system referred to in paragraph 4;
+(b)
+the templates and data structure for the exchange of data referred to in paragraph 5.
+Those implementing acts shall be adopted, by 31 December 2016, in accordance with the examination procedure referred to in Article 56(2).

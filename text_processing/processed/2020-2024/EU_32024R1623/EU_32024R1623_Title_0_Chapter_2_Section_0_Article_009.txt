@@ -1,0 +1,45 @@
+Article 317
+Loss data set
+1.   Institutions that calculate an annual operational risk loss in accordance with Article 316(1) shall have in place arrangements, processes and mechanisms to establish and maintain updated on an ongoing basis a loss data set compiling for each recorded operational risk event the gross loss amounts, non-insurance recoveries, insurance recoveries, reference dates and grouped losses, including those from misconduct events.
+2.   The institution’s loss data set shall capture all operational risk events stemming from all entities that are part of the scope of consolidation pursuant to Part One, Title II, Chapter 2.
+3.   For the purpose of paragraph 1, institutions shall:
+(a)
+include in the loss data set each operational risk event recorded during one or multiple financial years;
+(b)
+use the date of accounting for including losses related to operational risk events in the loss data set;
+(c)
+allocate losses and recoveries related to a common operational risk event or related operational risk events over time and posted to the accounts over several years, to the corresponding financial years of the loss data set, in line with their accounting treatment.
+4.   Institutions shall also collect:
+(a)
+information about the reference dates of operational risk events, including:
+(i)
+the date when the operational risk event happened or first began (“date of occurrence”), where available;
+(ii)
+the date on which the institution became aware of the operational risk event (“date of discovery”);
+(iii)
+the date or dates on which an operational risk event results in a loss, or the reserve or provision against a loss, recognised in the institution’s profit and loss accounts (“date of accounting”);
+(b)
+information on any recoveries of gross loss amounts as well as descriptive information about the drivers or causes of the loss events.
+The level of detail of any descriptive information shall be commensurate with the size of the gross loss amount.
+5.   An institution shall not include in the loss data set operational risk events related to credit risk that are accounted for in the risk-weighted exposure amount for credit risk. Operational risk events that relate to credit risk but are not accounted for in the risk-weighted exposure amount for credit risk shall be included in the loss data set.
+6.   Operational risk events related to market risk shall be treated as operational risk and shall be included in the loss data set.
+7.   An institution shall, upon request from the competent authority, be able to map its historical internal loss data to the event type.
+8.   For the purposes of this Article, institutions shall ensure the soundness, robustness and performance of their IT systems and infrastructure necessary to maintain and update the loss data set, in particular by ensuring all of the following:
+(a)
+their IT systems and infrastructure are sound and resilient and that that soundness and resilience can be maintained on a continuous basis;
+(b)
+their IT systems and infrastructure are subject to configuration management, change management and release management processes;
+(c)
+where an institution outsources parts of the maintenance of its IT systems and infrastructure, the soundness, robustness and performance of the IT systems and infrastructure is ensured by confirming at least the following:
+(i)
+its IT systems and infrastructure are sound and resilient and that soundness and resilience can be maintained on a continuous basis;
+(ii)
+the process for planning, creating, testing and deploying the IT systems and infrastructure is sound and proper with reference to project management, risk management, governance, engineering, quality assurance and test planning, systems’ modelling and development, quality assurance in all activities, including code reviews and, where appropriate, code verification, and testing, including user acceptance;
+(iii)
+its IT systems and infrastructure are subject to configuration management, change management and release management processes;
+(iv)
+the process for planning, creating, testing and deploying the IT systems and infrastructure and contingency plans is approved by the management body or senior management and the management body and senior management are periodically informed about the IT systems and infrastructure performance.
+9.   For the purposes of paragraph 7, EBA shall develop draft regulatory technical standards establishing a risk taxonomy on operational risk that complies with international standards and a methodology to classify the loss events included in the loss data set based on that risk taxonomy on operational risk.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+10.   For the purposes of paragraph 8, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, explaining the technical elements necessary to ensure the soundness, robustness and performance of governance arrangements to maintain the loss data set, with a particular focus on IT systems and infrastructures.

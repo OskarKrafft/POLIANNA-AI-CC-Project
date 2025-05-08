@@ -1,0 +1,11 @@
+Article 19
+Additional disclosure requirements in the case of securitisation
+1.   In the case of a securitisation bond designated as ‘European Green Bond’ or ‘EuGB’, the prospectus published pursuant to Regulation (EU) 2017/1129 shall include a statement that the bond is a securitisation bond and that the originator is responsible for fulfilling the commitments undertaken in the prospectus regarding the use of proceeds.
+2.   In order to provide transparency about the environmental characteristics of the securitised exposures, information about the following shall be included in the prospectus on a best efforts basis and to the best of the originator’s ability, on the basis of the available data:
+(a)
+the share of securitised exposures in the pool of securitised exposures, that finance economic activities which are taxonomy-eligible economic activities as defined in Article 1, point (5), of Delegated Regulation (EU) 2021/2178;
+(b)
+per relevant economic activity listed in delegated acts adopted pursuant to Article 10(3), 11(3), 12(2), 13(2), 14(2) or 15(2) of Regulation (EU) 2020/852, in the pool of taxonomy-eligible exposures referred to in point (a) of this paragraph, the share of taxonomy-aligned securitised exposures;
+(c)
+per relevant economic activity listed in delegated acts adopted pursuant to Article 10(3), 11(3), 12(2), 13(2), 14(2) or 15(2) of Regulation (EU) 2020/852, in the pool of taxonomy-eligible exposures referred to in point (a) of this paragraph, the share of securitised exposures that fail to meet the ‘do no significant harm’ objectives as referred to in Article 3, point (b), of Regulation (EU) 2020/852.
+3.   The information included in the prospectus in accordance with paragraph 2 of this Article shall also be included in the European Green Bond factsheet referred to in Article 10 and, on the basis of yearly updates to be carried out by the originator, in the European Green Bond allocation report referred to in Article 11.

@@ -1,0 +1,25 @@
+Article 311
+Own funds requirements for exposures to CCPs that cease to meet certain conditions
+1.   Institutions shall apply the treatment set out in this Article where it has become known to them, following a public announcement or notification from the competent authority of a CCP used by those institutions or from that CCP itself, that the CCP will no longer comply with the conditions for authorisation or recognition, as applicable.
+2.   Where the condition set out in paragraph 1 is met, institutions shall, within three months of becoming aware of the circumstance referred to therein, or at an earlier time if the competent authorities of those institutions so require, do the following with respect to their exposures to that CCP:
+(a)
+apply the treatment set out in point (b) of Article 306(1) to their trade exposures to that CCP;
+(b)
+apply the treatment set out in Article 309 to their pre-funded contributions to the default fund of that CCP and to its unfunded contributions to that CCP;
+(c)
+treat their exposures to that CCP, other than the exposures listed in points (a) and (b) of this paragraph, as exposures to a corporate in accordance with the Standardised Approach for credit risk set out in Chapter 2.’;
+(88)
+in Article 316(1), the following subparagraph is added:
+
+                                 ‘By way of derogation from the first subparagraph of this paragraph, institutions may choose not to apply the accounting categories for the profit and loss account under Article 27 of Directive 86/635/EEC to financial and operating leases for the purpose of calculating the relevant indicator, and may instead:
+(a)
+include interest income from financial and operating leases and profits from leased assets in the category referred to in point 1 of Table 1;
+(b)
+include interest expense from financial and operating leases, losses, depreciation and impairment of operating leased assets in the category referred to in point 2 of Table 1.’;
+(89)
+in Title IV of Part Three, Chapter 1 is replaced by the following:
+
+                                       ‘CHAPTER 1
+
+GENERAL PROVISIONS
+

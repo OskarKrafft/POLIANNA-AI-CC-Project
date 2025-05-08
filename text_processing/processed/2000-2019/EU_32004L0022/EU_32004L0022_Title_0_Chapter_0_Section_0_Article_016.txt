@@ -1,0 +1,14 @@
+Article 16
+Functions of the Measuring Instruments Committee
+1. On request by a Member State or on its own initiative, the Commission, acting in accordance with the procedure referred to in Article 15(2), may take any appropriate measure to:
+(a) identify normative documents drawn up by OIML and, in a list, indicate the parts thereof compliance with which gives rise to a presumption of conformity with the corresponding essential requirements of this Directive;
+(b) publish the references of the normative documents and the list referred to in point (a) in the Official Journal of the European Union, C series.
+2. On request by a Member State or on its own initiative, the Commission, acting in accordance with the procedure referred to in Article 15(3), may take any appropriate measure to amend instrument-specific annexes (MI-001 to MI-010) in respect of:
+- the maximum permissible errors (MPEs) and accuracy classes,
+- the rated operating conditions,
+- the critical change values,
+- disturbances,
+3. Where a Member State or the Commission considers that a normative document whose references have been published in the Official Journal of the European Union, C series, in accordance with paragraph 1(b), does not fully meet the essential requirements referred to in Annex I and in the relevant instrument-specific Annexes, that Member State or the Commission shall bring the matter before the Measuring Instruments Committee, giving the reasons for doing so.
+The Commission, acting in accordance with the procedure referred to in Article 15(2), shall inform the Member States whether or not it is necessary to withdraw the references to the normative document concerned from publication in the Official Journal.
+4. Member States may take appropriate measures to consult interested parties at national level about OIML work relating to the scope of this Directive.
+

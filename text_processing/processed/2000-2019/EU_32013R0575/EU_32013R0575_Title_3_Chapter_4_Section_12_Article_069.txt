@@ -1,0 +1,11 @@
+Article 69
+Deduction of holdings of Tier 2 instruments of financial sector entities
+Institutions shall make the deductions required by points (c) and (d) of Article 66 in accordance with the following:
+(a)
+they may calculate direct, indirect and synthetic holdings of Tier 2 instruments of the financial sector entities on the basis of the net long position in the same underlying exposure provided that both the following conditions are met:
+(i)
+the maturity of the short position matches the maturity of the long position or has a residual maturity of at least one year;
+(ii)
+either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+(b)
+they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by looking through to the underlying exposure to the capital instruments of the financial sector entities in those indices.

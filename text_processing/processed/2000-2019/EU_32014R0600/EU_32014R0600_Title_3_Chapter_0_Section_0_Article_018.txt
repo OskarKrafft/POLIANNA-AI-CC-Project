@@ -1,0 +1,18 @@
+Article 18
+Obligation for systematic internalisers to make public firm quotes in respect of bonds, structured finance products, emission allowances and derivatives
+1.   Investment firms shall make public firm quotes in respect of bonds, structured finance products, emission allowances and derivatives traded on a trading venue for which they are systematic internalisers and for which there is a liquid market when the following conditions are fulfilled:
+(a)
+they are prompted for a quote by a client of the systematic internaliser;
+(b)
+they agree to provide a quote.
+2.   In relation to bonds, structured finance products, emission allowances and derivatives traded on a trading venue for which there is not a liquid market, systematic internalisers shall disclose quotes to their clients on request if they agree to provide a quote. That obligation may be waived where the conditions specified in Article 9(1) are met.
+3.   Systematic internalisers may update their quotes at any time. They may withdraw their quotes under exceptional market conditions.
+4.   Member States shall require that firms that meet the definition of systematic internaliser notify their competent authority. Such notification shall be transmitted to ESMA. ESMA shall establish a list of all systematic internalisers in the Union.
+5.   Systematic internalisers shall make the firm quotes published in accordance with paragraph 1 available to their other clients. Notwithstanding, they shall be allowed to decide, on the basis of their commercial policy and in an objective non-discriminatory way, the clients to whom they give access to their quotes. To that end, systematic internalisers shall have in place clear standards for governing access to their quotes. Systematic internalisers may refuse to enter into or discontinue business relationships with clients on the basis of commercial considerations such as the client credit status, the counterparty risk and the final settlement of the transaction.
+6.   Systematic internalisers shall undertake to enter into transactions under the published conditions with any other client to whom the quote is made available in accordance with paragraph 5 when the quoted size is at or below the size specific to the financial instrument determined in accordance with Article 9(5)(d).
+Systematic internalisers shall not be subject to the obligation to publish a firm quote pursuant to paragraph 1 for financial instruments that fall below the threshold of liquidity determined in accordance with Article 9(4).
+7.   Systematic internalisers shall be allowed to establish non-discriminatory and transparent limits on the number of transactions they undertake to enter into with clients pursuant to any given quote.
+8.   The quotes published pursuant to paragraph 1 and 5 and those at or below the size referred to in paragraph 6 shall be made public in a manner which is easily accessible to other market participants on a reasonable commercial basis.
+9.   The quoted price or prices shall be such as to ensure that the systematic internaliser complies with its obligations under Article 27 of Directive 2014/65/EU, where applicable, and shall reflect prevailing market conditions in relation to prices at which transactions are concluded for the same or similar financial instruments on a trading venue.
+However, in justified cases, they may execute orders at a better price provided that the price falls within a public range close to market conditions.
+10.   Systematic internalisers shall not be subject to this Article when they deal in sizes above the size specific to the financial instrument determined in accordance with Article 9(5)(d).

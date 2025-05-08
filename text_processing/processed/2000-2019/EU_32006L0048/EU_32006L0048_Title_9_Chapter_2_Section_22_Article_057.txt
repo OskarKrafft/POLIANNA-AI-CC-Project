@@ -1,0 +1,51 @@
+Article 57
+Subject to the limits imposed in Article 66, the unconsolidated own funds of credit institutions shall consist of the following items:
+(a)
+capital within the meaning of Article 22 of Directive 86/635/EEC, in so far as it has been paid up, plus share premium accounts but excluding cumulative preferential shares;
+(b)
+reserves within the meaning of Article 23 of Directive 86/635/EEC and profits and losses brought forward as a result of the application of the final profit or loss;
+(c)
+funds for general banking risks within the meaning of Article 38 of Directive 86/635/EEC;
+(d)
+revaluation reserves within the meaning of Article 33 of Directive 78/660/EEC;
+(e)
+value adjustments within the meaning of Article 37(2) of Directive 86/635/EEC;
+(f)
+other items within the meaning of Article 63;
+(g)
+the commitments of the members of credit institutions set up as cooperative societies and the joint and several commitments of the borrowers of certain institutions organised as funds, as referred to in Article 64(1); and
+(h)
+fixed-term cumulative preferential shares and subordinated loan capital as referred to in Article 64(3).
+The following items shall be deducted in accordance with Article 66:
+(i)
+own shares at book value held by a credit institution;
+(j)
+intangible assets within the meaning of Article 4(9) (‘Assets’) of Directive 86/635/EEC;
+(k)
+material losses of the current financial year;
+(l)
+holdings in other credit and financial institutions amounting to more than 10 % of their capital;
+(m)
+subordinated claims and instruments referred to in Article 63 and Article 64(3) which a credit institution holds in respect of credit and financial institutions in which it has holdings exceeding 10 % of the capital in each case;
+(n)
+holdings in other credit and financial institutions of up to 10 % of their capital, the subordinated claims and the instruments referred to in Article 63 and Article 64(3) which a credit institution holds in respect of credit and financial institutions other than those referred to in points (l) and (m) in respect of the amount of the total of such holdings, subordinated claims and instruments which exceed 10 % of that credit institution's own funds calculated before the deduction of items in points (l) to (p);
+(o)
+participations within the meaning of Article 4(10) which a credit institution holds in:
+(i)
+insurance undertakings within the meaning of Article 6 of Directive 73/239/EEC (19), Article 4 of Directive 2002/83/EC (20) or Article 1(b) of Directive 98/78/EC (21),
+(ii)
+reinsurance undertakings within the meaning of Article 1(c) of Directive 98/78/EC, or
+(iii)
+insurance holding companies within the meaning of Article 1(i) of Directive 98/78/EC;
+(p)
+each of the following items which the credit institution holds in respect of the entities defined in point (o) in which it holds a participation:
+(i)
+instruments referred to in Article 16(3) of Directive 73/239/EEC, and
+(ii)
+instruments referred to in Article 27(3) of Directive 2002/83/EC;
+(q)
+for credit institutions calculating risk-weighted exposure amounts under Section 3, Subsection 2, negative amounts resulting from the calculation in Annex VII, Part 1, point 36 and expected loss amounts calculated in accordance with Annex VII, Part 1 points 32 and 33; and
+(r)
+the exposure amount of securitisation positions which receive a risk weight of 1 250 % under Annex IX, Part 4, calculated in the manner there specified.
+For the purposes of point (b), the Member States may permit inclusion of interim profits before a formal decision has been taken only if these profits have been verified by persons responsible for the auditing of the accounts and if it is proved to the satisfaction of the competent authorities that the amount thereof has been evaluated in accordance with the principles set out in Directive 86/635/EEC and is net of any foreseeable charge or dividend.
+In the case of a credit institution which is the originator of a securitisation, net gains arising from the capitalisation of future income from the securitised assets and providing credit enhancement to positions in the securitisation shall be excluded from the item specified in point (b).

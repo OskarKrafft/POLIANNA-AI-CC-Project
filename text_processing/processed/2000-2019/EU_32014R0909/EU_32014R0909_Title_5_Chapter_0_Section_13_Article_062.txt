@@ -1,0 +1,18 @@
+Article 62
+Publication of decisions
+1.   Member States shall ensure that the competent authorities publish on their official websites any decision imposing an administrative sanction or other measure for an infringement of this Regulation without undue delay after the person sanctioned is informed of that decision. The publication shall include at least information on the type and nature of the infringement and the identity of a natural or legal person on whom the sanction has been imposed.
+Where the decision to impose a sanction or other measure is subject to an appeal before the relevant judicial or other relevant authorities, competent authorities shall, without undue delay, also publish on their official websites information on the appeal status and outcome thereof. Moreover, any decision annulling a previous decision to impose a sanction or a measure shall also be published.
+Where the publication of the identity of the legal persons or of the personal data of the natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where publication jeopardises the stability of financial markets or an ongoing investigation, Member States shall ensure that competent authorities do one of the following:
+(a)
+delay the publication of the decision to impose the sanction or other measure until the moment when the reasons for non-publication cease to exist;
+(b)
+publish the decision to impose the sanction or other measure on an anonymous basis in a manner which is in conformity with national law, if such anonymous publication ensures effective protection of the personal data;
+(c)
+not publish the decision to impose a sanction or other measure at all in the event that the options set out in points (a) and (b) above are considered to be insufficient to ensure:
+(i)
+that the stability of financial markets would not be put in jeopardy;
+(ii)
+the proportionality of the publication of such decisions with regard to measures which are deemed to be of a minor nature.
+In the case of a decision to publish a sanction or other measure on an anonymous basis, the publication of the relevant data may be postponed for a reasonable period if it is envisaged that within that period the reasons for anonymous publication will cease to exist.
+Competent authorities shall inform ESMA of all administrative sanctions imposed but not published in accordance with point (c) of the third subparagraph including any appeal in relation thereto and the outcome thereof. Member States shall ensure that competent authorities receive information and the final judgement in relation to any criminal sanction imposed and submit it to ESMA. ESMA shall maintain a central database of sanctions communicated to it solely for the purposes of exchanging information between competent authorities. That database shall be accessible only to competent authorities and it shall be updated on the basis of the information provided by the competent authorities.
+2.   Competent authorities shall ensure that any publication, in accordance with this Article, shall remain on their official website for a period of at least five years after its publication. Personal data contained in the publication shall be kept on the official website of the competent authority only for the period necessary under the applicable data protection rules.

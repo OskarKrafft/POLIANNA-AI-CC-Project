@@ -1,0 +1,7 @@
+Article 279
+Treatment of Collateral
+For the determination of risk positions, institutions shall treat collateral as follows:
+(a)
+collateral received from a counterparty shall be treated as a claim on the counterparty under a derivative contract (long position) that is due on the day the determination is made;
+(b)
+collateral it has posted with the counterparty shall be treated as an obligation to the counterparty (short position) that is due on the day the determination is made.

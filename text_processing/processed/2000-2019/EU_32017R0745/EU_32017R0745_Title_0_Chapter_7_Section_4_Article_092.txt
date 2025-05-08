@@ -1,0 +1,32 @@
+Article 92
+Electronic system on vigilance and on post-market surveillance
+1.   The Commission shall, in collaboration with the Member States, set up and manage an electronic system to collate and process the following information:
+(a)
+the reports by manufacturers on serious incidents and field safety corrective actions referred to in Article 87(1) and Article 89(5);
+(b)
+the periodic summary reports by manufacturers referred to in Article 87(9);
+(c)
+the reports by manufacturers on trends referred to in Article 88;
+(d)
+the PSURs referred to in Article 86;
+(e)
+the field safety notices by manufacturers referred to in Article 89(8);
+(f)
+the information to be exchanged between the competent authorities of the Member States and between them and the Commission in accordance with Article 89(7) and (9).
+That electronic system shall include relevant links to the UDI database.
+2.   The information referred to in paragraph 1 of this Article shall be made available through the electronic system to the competent authorities of the Member States and to the Commission. The notified bodies shall also have access to that information to the extent that it relates to devices for which they issued a certificate in accordance with Article 53.
+3.   The Commission shall ensure that healthcare professionals and the public have appropriate levels of access to the electronic system referred to in paragraph 1.
+4.   On the basis of arrangements between the Commission and competent authorities of third countries or international organisations, the Commission may grant those competent authorities or international organisations access to the electronic system referred to in paragraph 1 at the appropriate level. Those arrangements shall be based on reciprocity and make provision for confidentiality and data protection equivalent to those applicable in the Union.
+5.   The reports on serious incidents referred to in point (a) of Article 87(1) shall be automatically transmitted, upon receipt, via the electronic system referred to in paragraph 1 of this Article, to the competent authority of the Member State in which the incident occurred.
+6.   The trend reports referred to in Article 88(1) shall be automatically transmitted upon receipt via the electronic system referred to in paragraph 1 of this Article to the competent authorities of the Member State in which the incidents occurred.
+7.   The reports on field safety corrective actions referred to in point (b) of Article 87(1) shall be automatically transmitted upon receipt via the electronic system referred to in paragraph 1 of this Article to the competent authorities of the following Member States:
+(a)
+the Member States in which the field safety corrective action is being or is to be undertaken;
+(b)
+the Member State in which the manufacturer has its registered place of business.
+8.   The periodic summary reports referred to in Article 87(9) shall be automatically transmitted upon receipt via the electronic system referred to in paragraph 1 of this Article to the competent authority of:
+(a)
+the Member State or Member States participating in the coordination procedure in accordance with Article 89(9) and which have agreed on the periodic summary report;
+(b)
+the Member State in which the manufacturer has its registered place of business.
+9.   The information referred to in paragraphs 5 to 8 of this Article shall be automatically transmitted, upon receipt, through the electronic system referred to in paragraph 1 of this Article, to the notified body that issued the certificate for the device in question in accordance with Article 56.

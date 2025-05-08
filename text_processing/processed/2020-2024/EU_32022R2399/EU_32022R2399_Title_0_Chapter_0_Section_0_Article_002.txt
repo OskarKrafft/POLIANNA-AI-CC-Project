@@ -1,0 +1,35 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(1)
+‘customs authorities’ means ‘customs authorities’ as defined in Article 5, point (1), of Regulation (EU) No 952/2013;
+(2)
+‘customs legislation’ means ‘customs legislation’ as defined in Article 5, point (2), of Regulation (EU) No 952/2013;
+(3)
+‘economic operator’ means ‘economic operator’ as defined in Article 5, point (5), of Regulation (EU) No 952/2013;
+(4)
+‘customs formalities’ means ‘customs formalities’ as defined in Article 5, point (8), of Regulation (EU) No 952/2013;
+(5)
+‘customs declaration’ means ‘customs declaration’ as defined in Article 5, point (12) of Regulation (EU) No 952/2013;
+(6)
+‘re-export declaration’ means ‘re-export declaration’ as defined in Article 5, point (13), of Regulation (EU) No 952/2013;
+(7)
+‘declarant’ means ‘declarant’ as defined in Article 5, point (15), of Regulation (EU) No 952/2013;
+(8)
+‘customs procedure’ means ‘customs procedure’ as defined in Article 5, point (16), of Regulation (EU) No 952/2013;
+(9)
+‘national single window environment for customs’ means a set of electronic services established by a Member State to enable information to be exchanged between the electronic systems of its customs authority, the partner competent authorities and economic operators;
+(10)
+‘partner competent authority’ means any Member State authority, or the Commission, empowered to perform a designated function in relation to the fulfilment of the relevant Union non-customs formalities;
+(11)
+‘Union non-customs formality’ means all the operations which must be carried out by an economic operator or by a partner competent authority for the international movement of goods, as laid down in Union legislation other than customs legislation;
+(12)
+‘supporting document’ means any required document issued by a partner competent authority or drawn up by an economic operator, or any required information provided by an economic operator, to certify that Union non-customs formalities have been fulfilled;
+(13)
+‘quantity management’ means the activity of monitoring and managing the quantity of goods authorised by partner competent authorities, in accordance with Union legislation other than customs legislation, based on the information provided by customs authorities;
+(14)
+‘Union non-customs system’ means a Union electronic system established by, used in order to achieve the objectives of, or referred to in Union legislation to store information on the fulfilment of the respective Union non-customs formality;
+(15)
+‘Economic Operator Registration and Identification number (EORI number)’ means ‘Economic Operator Registration and Identification number (EORI number)’ as defined in Article 1, point (18), of Commission Delegated Regulation (EU) 2015/2446 (14);
+(16)
+‘EORI system’ means the system established for the purposes of Article 9 of Regulation (EU) No 952/2013.

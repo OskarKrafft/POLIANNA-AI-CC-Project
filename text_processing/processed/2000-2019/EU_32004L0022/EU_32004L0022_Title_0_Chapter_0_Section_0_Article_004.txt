@@ -1,0 +1,15 @@
+Article 4
+Definitions
+For the purposes of this Directive:
+(a) "measuring instrument" means any device or system with a measurement function that is covered by Articles 1 and 3;
+(b) "sub-assembly" means a hardware device, mentioned as such in the specific annexes, that functions independently and makes up a measuring instrument together
+- with other sub-assemblies with which it is compatible, or
+- with a measuring instrument with which it is compatible;
+(c) "legal metrological control" means the control of the measurement tasks intended for the field of application of a measuring instrument, for reasons of public interest, public health, public safety, public order, protection of the environment, levying of taxes and duties, protection of the consumers and fair trading;
+(d) "manufacturer" means a natural or legal person responsible for the conformity of the measuring instrument with this Directive with a view to either placing it on the market under his own name and/or putting it into use for his own purposes;
+(e) "placing on the market" means making available for the first time in the Community an instrument intended for an end user, whether for reward or free of charge;
+(f) "putting into use" means the first use of an instrument intended for the end user for the purposes for which it was intended;
+(g) "authorised representative" means a natural or legal person who is established within the Community and authorised by a manufacturer, in writing, to act on his behalf for specified tasks within the meaning of this Directive;
+(h) "harmonised standard" means a technical specification adopted by CEN, CENELEC or ETSI or jointly by two or all of these organisations, at the request of the Commission pursuant to Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services(10) and prepared in accordance with the General Guidelines agreed between the Commission and the European standards organisations;
+(i) "normative document" means a document containing technical specifications adopted by the Organisation Internationale de Métrologie Légale (OIML), subject to the procedure stipulated in Article 16(1).
+

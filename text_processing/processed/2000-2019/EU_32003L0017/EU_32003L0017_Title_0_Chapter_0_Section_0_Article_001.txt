@@ -1,0 +1,65 @@
+Article 1
+Directive 98/70/EC is hereby amended as follows:
+1. Article 2 shall be replaced by the following:
+"Article 2
+Definitions
+For the purposes of this Directive:
+1. 'petrol' means any volatile mineral oil intended for the operation of internal combustion positive-ignition engines for the propulsion of vehicles and falling within CN codes 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 51 and 2710 11 59 (11);
+2. 'diesel fuels' means gas oils falling within CN code 2710 19 41 (12) and used for self-propelling vehicles as referred to in Directive 70/220/EEC and Directive 88/77/EEC;
+3. 'gas oils intended for use by non-road mobile machinery and agricultural and forestry tractors' means any petroleum-derived liquid, falling within CN codes 2710 19 41 and 2710 19 45 (13), intended for use in engines referred to in Directives 97/68/EC(14) and 2000/25/EC(15);
+4. 'outermost regions' means France with regard to the French overseas departments, Portugal with regard to the Azores and Madeira, and Spain with regard to the Canary Islands.
+For Member States with arctic or severe winter conditions the maximum distillation point of 65 % at 250 °C for diesel fuels and gas oils may be replaced with a maximum distillation point of 10 % (vol/vol) at 180 °C.";
+2. the following subparagraphs shall be added to Article 3(2):
+"(d) Without prejudice to the provisions of subparagraph (c), Member States shall take all necessary measures to ensure that in due time, and no later than 1 January 2005, unleaded petrol with a maximum sulphur content of 10 mg/kg is marketed within their territories. Member States shall ensure that such unleaded petrol is available on an appropriately balanced geographical basis and complies in all other respects with the specifications set out in Annex III.
+However, Member States may, for the outermost regions, make specific provisions for the introduction of petrol of a maximum sulphur content of 10 mg/kg. Member States making use of this provision shall inform the Commission accordingly. The Commission shall develop guidance for recommending what, for the purposes of this subparagraph, constitutes availability on an appropriately balanced geographical basis.
+(e) By no later than 1 January 2009, Member States shall ensure that unleaded petrol may be marketed in their territory only if it complies with the environmental specification set out in Annex III except for the sulphur content which shall be a maximum of 10 mg/kg.";
+3. in Article 4:
+(a) the following subparagraphs shall be added to paragraph 1:
+"(d) Without prejudice to the provisions of subparagraph (c), Member States shall take all necessary measures to ensure that in due time, and no later than 1 January 2005, diesel fuel with a maximum sulphur content of 10 mg/kg is marketed within their territories. Member States shall ensure that such diesel fuel is available on an appropriately balanced geographical basis and complies in all other respects with the specifications set out in Annex IV.
+However, Member States may, for the outermost regions, make specific provisions for the introduction of diesel fuel of a maximum sulphur content of 10 mg/kg. Member States making use of this provision shall inform the Commission accordingly.
+(e) By no later than 1 January 2009, Member States shall ensure, subject to the provisions of Article 9(1)(a), that diesel fuel may be marketed in their territory only if it complies with the environmental specification set out in Annex IV except for the sulphur content which shall be a maximum of 10 mg/kg.";
+(b) the following paragraph shall be added:
+"5. Member States shall ensure that gas oils intended for use by non-road mobile machinery and agricultural and forestry tractors marketed within their territory contain less than 2000 mg/kg of sulphur. By 1 January 2008 at the latest, the maximum permissible sulphur content of gas oils intended for use by non-road mobile machinery and agricultural and forestry tractors shall be 1000 mg/kg. However, Member States may require a lower limit or the same sulphur content for diesel fuels stipulated in this Directive.";
+4. in Article 6:
+(a) paragraph 1 shall be replaced by the following:
+"1. By way of derogation from Articles 3, 4 and 5 and in accordance with Article 95(10) of the Treaty, a Member State may take measures to require that in specific areas, within its territory, fuels may be marketed only if they comply with more stringent environmental specifications than those provided for in this Directive for all or part of the vehicle fleet with a view to protecting the health of the population in a specific agglomeration or the environment in a specific ecologically or environmentally sensitive area in that Member State, if atmospheric or ground water pollution constitutes, or may reasonably be expected to constitute, a serious and recurrent problem for human health or the environment.";
+(b) paragraph 3 shall be replaced by the following:
+"3. The Member States involved shall provide the Commission with relevant environmental data for the agglomeration or area in question as well as the predicted effects on the environment of the measures proposed.";
+(c) paragraphs 7 and 8 shall be deleted;
+5. Article 8 shall be replaced by the following:
+"Article 8
+Monitoring compliance and reporting
+1. Member States shall monitor compliance with the requirements of Articles 3 and 4, in respect of petrol and diesel fuels, on the basis of the analytical methods referred to in European standards EN 228:1999 and EN 590:1999 respectively.
+2. Member States shall establish a fuel quality monitoring system in accordance with the requirements of the relevant European standard. The use of an alternative fuel quality monitoring system may be permitted provided that such a system ensures results of equivalent confidence.
+3. Each year by 30 June, the Member States shall submit a report of national fuel quality data for the preceding calendar year. The first report shall be submitted by 30 June 2002. From 1 January 2004, the format for this report shall be consistent with that described in the relevant European standard. In addition, Member States shall report the total volumes of petrol and diesel fuels marketed in their territories and the volumes of unleaded petrol and diesel fuels marketed with a maximum sulphur content of 10 mg/kg. Furthermore, Member States shall report annually on the availability on an appropriately balanced geographical basis of petrol and diesel fuels with a maximum sulphur content of 10 mg/kg that are marketed within their territory.
+4. The Commission shall ensure that the information submitted pursuant to paragraph 3 is promptly made available by appropriate means. The Commission shall publish annually, and for the first time by 31 December 2003, a report on actual fuel quality in the different Member States and geographical coverage of fuels with a maximum sulphur content of 10 mg/kg, aiming to provide an overview of the fuels quality data in the different Member States.";
+6. Article 9 shall be replaced by the following:
+"Article 9
+Review process
+1. By 31 December 2005 at the latest, the Commission shall review the fuel specifications of Annexes III and IV with the exception of sulphur content and propose amendments, if appropriate, in keeping with current and future requirements of Community vehicle emission and air quality legislation and related objectives. In particular, the Commission shall consider:
+(a) the necessity of any change to the end date for the full introduction of diesel fuel, with a maximum sulphur content of 10 mg/kg, in order to ensure that there is no overall increase in greenhouse gas emissions. This analysis shall consider developments in refinery processing technologies, expected fuel economy improvements of vehicles and the rate at which new fuel-efficient technologies are introduced into the vehicle fleet;
+(b) the implications of new Community legislation setting air quality standards for substances such as polycyclic aromatic hydrocarbons;
+(c) the outcome of the review described in Article 10 of Council Directive 1999/30/EC of 22 April 1999 relating to limit values for sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter and lead in ambient air(16);
+(d) the outcome of the review of the various commitments by the Japanese(17), Korean(18) and European(19) automobile manufacturers to reduce the fuel consumption and carbon dioxide emissions of new passenger cars in the light of the fuel quality changes introduced by this Directive and progress towards the Community target of 120 g/km CO2 emissions for the average vehicle;
+(e) the outcome of the review required by Article 7 of Directive 1999/96/EC of the European Parliament and of the Council of 13 December 1999 on the approximation of the laws of the Member States relating to measures to be taken against the emission of gaseous and particulate pollutants from compression ignition engines for use in vehicles, and the emission of gaseous pollutants from positive ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles and amending Council Directive 88/77/EEC(20) and the confirmation of the mandatory NOx emission standard for heavy duty engines;
+(f) the effective functioning of new pollution abatement technologies and the impact of metallic additives and other relevant issues on their performance and developments affecting international fuel markets;
+(g) the need to encourage the introduction of alternative fuels, including biofuels, as well as the need to introduce modifications to other parameters in the fuel specifications, both for conventional and for alternative fuels, for example the modifications to the maximum volatility limits for petrol contained in this Directive required for their application to blends of bioethanol with petrol and any subsequent necessary changes to EN 228:1999.
+2. When considering its proposal for the next stage of emission standards for compression ignition engines in non-road applications, the Commission shall establish in parallel the required fuel quality. In so doing, the Commission shall take into account the importance of the emissions from this sector, the overall environmental and health benefits, the implications in the Member States regarding fuel distribution and the costs and benefits of a more restrictive sulphur level than is currently required for fuel used in compression ignition engines in non-road applications, and shall then align appropriate fuel quality requirements for non-road applications with the on-road sector by a certain date, currently expected to be 1 January 2009, to be confirmed or amended by the Commission in its review in 2005.
+3. In addition to the provisions of paragraph 1 the Commission may, inter alia, bring forward:
+- proposals taking into consideration the particular situation of captive fleets and the need to propose levels of specifications for the special fuels they use,
+- proposals setting levels of specifications applicable to liquid petroleum gas, natural gas and biofuels.";
+7. the following Article shall be inserted:
+"Article 9a
+Penalties
+Member States shall determine the penalties applicable to breaches of the national provisions adopted pursuant to this Directive. The penalties determined must be effective, proportionate and dissuasive.";
+8. the first subparagraph of Article 10 shall be replaced by the following:
+"1. The measurement methods to be applied in relation to the parameters specified in Annexes I and III shall be those analytical methods set out in European standard EN 228:1999. The measurement methods to be applied in relation to the parameters specified in Annexes II and IV shall be those analytical methods set out in European standard EN 590:1999. Member States may adopt the analytical methods specified in replacement EN 228:1999 or EN 590:1999 standards, as appropriate, if they can be shown to give at least the same accuracy and at least the same level of precision as the analytical methods they replace. In the event that adaptation of the permitted analytical methods to technical progress is necessary, amendments may be adopted by the Commission in accordance with the procedure referred to in Article 11(2).";
+9. Article 11 shall be replaced by the following:
+"Article 11
+Committee procedure
+1. The Commission shall be assisted by the Committee established in accordance with Article 12 of Directive 96/62/EC(21).
+2. Where reference is made to this paragraph, Articles 5 and 7 of Council Decision 1999/468/EC of 28 June 1999 laying down procedures for the exercise of implementing powers conferred upon the Commission(22) shall apply, having regard to the provisions of Article 8 thereof.
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+3. The Committee shall adopt its Rules of Procedure.";
+10. Annexes I to IV shall be replaced by the text in the Annex to this Directive.
+

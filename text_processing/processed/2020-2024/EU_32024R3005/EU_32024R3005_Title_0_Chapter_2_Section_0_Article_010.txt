@@ -1,0 +1,35 @@
+Article 10
+Equivalence regime
+1.   An ESG rating provider established outside the Union that wishes to operate in the Union pursuant to Article 2(1), point (b), shall only be able to do so where it is included in the register referred to in Article 14 and provided that all of the following conditions are met:
+(a)
+the ESG rating provider established outside the Union is authorised or registered as an ESG rating provider in the third country concerned and is subject to supervision in that third country;
+(b)
+the ESG rating provider established outside the Union has notified ESMA that it wishes to operate in the Union and has submitted to ESMA proof of its authorisation or registration as an ESG rating provider, the documents required for such authorisation or registration in the third country concerned, as well as the name of the third-country competent authority responsible for its supervision, and has received confirmation from ESMA as regards the completeness of the information provided;
+(c)
+the Commission has adopted an equivalence decision pursuant to paragraph 2;
+(d)
+the cooperation arrangements referred to in paragraph 4 are operational.
+2.   The Commission may adopt an equivalence decision by means of an implementing act stating that the legal framework and supervisory practice of a third country ensure that:
+(a)
+ESG rating providers authorised or registered in that third country comply with binding requirements which are equivalent to the requirements of this Regulation;
+(b)
+compliance with the binding requirements referred to in point (a) is subject to effective supervision and enforcement on an ongoing basis in that third country.
+Such an implementing act shall be adopted in accordance with the examination procedure referred to in Article 48.
+3.   The Commission may adopt a delegated act in accordance with Article 47 to specify the conditions referred to in paragraph 2, first subparagraph, of this Article. The Commission may subject the application of the implementing act referred to in paragraph 2 of this Article to:
+(a)
+the effective fulfilment on an ongoing basis by the third country concerned of any condition set out in that implementing act that aims to ensure equivalent supervisory and regulatory standards;
+(b)
+the ability of ESMA to effectively exercise the monitoring responsibilities referred to in Article 33 of Regulation (EU) No 1095/2010.
+4.   ESMA shall establish cooperation arrangements with the third-country competent authorities whose legal framework and supervisory practices have been recognised as equivalent in accordance with paragraph 2. Such arrangements shall specify at least the following:
+(a)
+the mechanism for exchanging information on a regular and ad hoc basis between ESMA and the third-country competent authorities concerned, including access to all relevant information requested by ESMA regarding the ESG rating provider authorised or registered in that third country;
+(b)
+the mechanism for prompt notification to ESMA where a third-country competent authority deems that the ESG rating provider authorised or registered in that third country and supervised by that third-country competent authority is breaching the conditions of its authorisation or registration, or other provisions of national law in that third country;
+(c)
+the procedures concerning the coordination of supervisory activities, including on-site inspections;
+(d)
+the mechanism for prompt notification to ESMA where a third-country competent authority takes any regulatory or supervisory actions in relation to the ESG rating provider authorised or registered in that third country, including any change that might have an impact on the ESG rating provider’s continued compliance with applicable laws and regulations;
+(e)
+the mechanism for prompt notification to the third-country competent authority where ESMA issues a public notice in accordance with Article 35 to the ESG rating provider authorised or registered in that third country.
+For the purpose of the first subparagraph of this paragraph, where ESMA is informed that an ESG rating provider established outside the Union no longer meets the conditions to be authorised or registered in its country of authorisation or registration, ESMA shall remove it from the register referred to in Article 14.
+5.   For the purpose of paragraph 1, point (b), ESMA shall assess whether the information is complete within 20 working days of its receipt. If ESMA deems that the information is not complete, ESMA shall set a deadline by which the ESG rating provider is to provide any missing information. Once it assesses that a submission is complete, ESMA shall inform the ESG rating provider of the outcome of the process no later than 60 working days from the date of the initial notification.

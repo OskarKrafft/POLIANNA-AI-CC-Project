@@ -1,0 +1,40 @@
+Article 26
+Auctions to deploy renewable energy sources
+1.   For the technologies listed in Article 4(1), points (a) to (j) that are renewable energy technologies, Member States shall, when designing auctions for the deployment of energy from renewable sources, include:
+(a)
+pre-qualification criteria related to:
+(i)
+responsible business conduct;
+(ii)
+cyber security and data security; and
+(iii)
+ability to deliver the project fully and on time;
+(b)
+pre-qualification criteria or award criteria to assess the auction’s sustainability and resilience contribution as referred to in paragraph 2.
+This paragraph is without prejudice to Article 4 of Directive (EU) 2018/2001 and Articles 107 and 108 TFEU, and to the Union’s international obligations.
+2.   The auctions’ sustainability and resilience contribution shall be based on the criteria laid down in this paragraph. Those criteria shall be objective, transparent and non-discriminatory.
+Auctions shall contribute to resilience, taking into account the proportion of the net-zero technology or its main specific components that originates from a third country accounting for more than 50 % of the supply of that specific net-zero technology or its main specific components within the Union.
+For the purposes of the second subparagraph of this paragraph, the country of origin shall be determined in accordance with Regulation (EU) No 952/2013 of the European Parliament and of the Council (56).
+Auctions shall also contribute to at least one of the following:
+(a)
+environmental sustainability going beyond the minimum requirements in applicable law;
+(b)
+innovation by providing entirely new solutions or improving comparable state-of-the-art solutions;
+(c)
+the energy system integration.
+This paragraph shall not preclude Member States from using additional non-price criteria beyond those listed in this paragraph.
+3.   By 30 March 2025, the Commission shall adopt an implementing act further specifying the pre-qualification and award criteria referred to in paragraph 1.
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 45(2).
+4.   Member States shall give to each of the criteria to assess the auction’s sustainability and resilience contribution, when applied as award criteria, a minimum weight of 5 % and a combined weight of between 15 % and 30 % of the award criteria. This is without prejudice to the possibility to give a higher weighting to the criteria referred to in the fourth subparagraph of paragraph 2, in accordance with any limit for non-price criteria set under State aid rules.
+5.   Member States shall not be obliged to apply the considerations relating to the pre-qualification and award criteria laid down in paragraph 1 where, by applying those criteria, they would incur disproportionate costs. Estimated cost differences above 15 % per auction, based on objective and verifiable data, may be presumed by Member States to be disproportionate.
+6.   Member States shall, where appropriate, take measures to maximise the execution rate of projects through appropriate incentives, for example, by applying price indexation. Member States may assess the effects of negative bidding on the speed and scale of deployment.
+7.   Paragraphs 1 to 5 shall apply to at least 30 % of the volume auctioned per year per Member State or alternatively to at least 6 Gigawatt per year per Member State.
+8.   By 31 December 2027 and every two years thereafter, the Commission shall carry out a comprehensive assessment of the application of the resilience and sustainability criteria for auctions for the deployment of energy from renewable sources and their effect on the accelerated deployment of renewable energy technologies. In particular, the Commission shall assess the impact of the resilience and sustainability criteria on:
+(a)
+the development of the Union’s annual manufacturing of renewable energy technologies;
+(b)
+the deployment of energy from renewable sources, including their financial impact and their impact on the speed of deployment, while also taking into account the workability, including the administrative burden, and clarity of the system for project developers and national administration, on the basis of available data.
+As part of that assessment, the Commission shall consult experts from Member States in the field of auctioning.
+9.   If the assessment referred to in paragraph 8 is positive, in particular if application of the resilience and sustainability criteria has not significantly hindered the deployment of energy from renewable sources, the Commission shall, where appropriate, submit a proposal to amend paragraph 7 to determine the shares of the volume auctioned per year per Member State or the absolute volume to which paragraphs 1 to 5 apply, in particular with a view to increasing those volumes, and to adapt the threshold of the estimated cost differences referred to in paragraph 5.
+10.   For the purpose of calculating the volumes auctioned per year per Member State, auctions for installations with a maximum project size of 10 MW may be excluded. For auctions for a specific technology to which paragraphs 1 to 5 apply and that have subsequently been undersubscribed, the undersubscribed share of the auction volume may be excluded from the application of paragraphs 1 to 5.
+11.   To facilitate implementation for all Member States, in particular for those with a low volume of auctions, Member States that have not launched more than 2 auctions per year during the previous 2 years, may compute the share of auctions to which paragraphs 1 to 5 apply over that 2-year period.

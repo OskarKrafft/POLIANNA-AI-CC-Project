@@ -1,0 +1,17 @@
+Article 7
+Competent bodies
+1.   For the purpose of carrying out the tasks referred to in this Article, each Member State shall designate one or more competent bodies, which may be competent for particular sectors, to assist the public sector bodies which grant or refuse access for the re-use of the categories of data referred to in Article 3(1). Member States may either establish one or more new competent bodies or rely on existing public sector bodies or on internal services of public sector bodies that fulfil the conditions laid down in this Regulation.
+2.   The competent bodies may be empowered to grant access for the re-use of the categories of data referred to in Article 3(1) pursuant to Union or national law which provides for such access to be granted. Where they grant or refuse access for the re-use, Articles 4, 5, 6 and 9 shall apply to those competent bodies.
+3.   The competent bodies shall have adequate legal, financial, technical and human resources to carry out the tasks assigned to them, including the necessary technical knowledge to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3(1).
+4.   The assistance provided for in paragraph 1 shall include, where necessary:
+(a)
+providing technical support by making available a secure processing environment for providing access for the re-use of data;
+(b)
+providing guidance and technical support on how to best structure and store data to make that data easily accessible;
+(c)
+providing technical support for pseudonymisation and ensuring data processing in a manner that effectively preserves the privacy, confidentiality, integrity and accessibility of the information contained in the data for which re-use is allowed, including techniques for the anonymisation, generalisation, suppression and randomisation of personal data or other state-of-the-art privacy-preserving methods, and the deletion of commercially confidential information, including trade secrets or content protected by intellectual property rights;
+(d)
+assisting the public sector bodies, where relevant, to provide support to re-users in requesting consent for re-use from data subjects or permission from data holders in line with their specific decisions, including on the jurisdiction in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow the transmission of requests for consent or permission from re-users, where practically feasible;
+(e)
+providing public sector bodies with assistance in assessing the adequacy of contractual commitments made by a re-user pursuant to Article 5(10).
+5.   Each Member State shall notify the Commission of the identity of the competent bodies designated pursuant to paragraph 1 by 24 September 2023. Each Member State shall also notify the Commission of any subsequent change to the identity of those competent bodies.

@@ -1,0 +1,9 @@
+Article 13
+Right of withdrawal
+1.   Retail holders who purchase crypto-assets other than asset-referenced tokens and e-money tokens either directly from an offeror or from a crypto-asset service provider placing crypto-assets on behalf of that offeror shall have a right of withdrawal.
+Retail holders shall have a period of 14 calendar days within which to withdraw from their agreement to purchase crypto-assets other than asset-referenced tokens and e-money tokens without incurring any fees or costs and without being required to give reasons. The period of withdrawal shall begin from the date of the agreement of the retail holder to purchase those crypto-assets.
+2.   All payments received from a retail holder including, if applicable, any charges, shall be reimbursed without undue delay and in any event no later than 14 days from the date on which the offeror or the crypto-asset service provider placing crypto-assets on behalf of that offeror is informed of the retail holder’s decision to withdraw from the agreement to purchase those crypto-assets.
+Such reimbursement shall be carried out using the same means of payment as that used by the retail holder for the initial transaction, unless the retail holder expressly agrees otherwise and provided that the retail holder does not incur any fees or costs as a result of such reimbursement.
+3.   Offerors of crypto-assets shall provide information on the right of withdrawal referred to in paragraph 1 in their crypto-asset white paper.
+4.   The right of withdrawal referred to in paragraph 1 shall not apply where the crypto-assets have been admitted to trading prior to their purchase by the retail holder.
+5.   Where offerors have set a time limit on their offer to the public of such crypto-assets in accordance with Article 10, the right of withdrawal shall not be exercised after the end of the subscription period.

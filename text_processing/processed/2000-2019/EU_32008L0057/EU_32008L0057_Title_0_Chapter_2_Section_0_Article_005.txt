@@ -1,0 +1,24 @@
+Article 5
+Content of TSIs
+1.   Each of the subsystems shall be covered by one TSI. Where necessary, a subsystem may be covered by several TSIs and one TSI may cover several subsystems. The decision to develop or to revise a TSI and the choice of its technical and geographical scope requires a mandate in accordance with Article 6(1).
+2.   Subsystems shall comply with the TSIs in force at the time of their placing in service, upgrading or renewal, in accordance with this Directive; this compliance shall be permanently maintained while each subsystem is in use.
+3.   To the extent necessary to achieve the objective referred to in Article 1, each TSI shall:
+(a)
+indicate its intended scope (part of network or vehicles referred to in Annex I; subsystem or part of subsystem referred to in Annex II);
+(b)
+lay down essential requirements for each subsystem concerned and its interfaces vis-à-vis other subsystems;
+(c)
+establish the functional and technical specifications to be met by the subsystem and its interfaces vis-à-vis other subsystems. If need be, these specifications may vary according to the use of the subsystem, for example according to the categories of line, hub and/or vehicles provided for in Annex I;
+(d)
+determine the interoperability constituents and interfaces which must be covered by European specifications, including European standards, which are necessary to achieve interoperability within the rail system;
+(e)
+state, in each case under consideration, which procedures are to be used in order to assess the conformity or the suitability for use of the interoperability constituents, on the one hand, or the ‘EC’ verification of the subsystems, on the other hand. These procedures shall be based on the modules defined in Decision 93/465/EEC;
+(f)
+indicate the strategy for implementing the TSIs. In particular, it is necessary to specify the stages to be completed in order to make a gradual transition from the existing situation to the final situation in which compliance with the TSIs shall be the norm;
+(g)
+indicate, for the staff concerned, the professional qualifications and health and safety conditions at work required for the operation and maintenance of the above subsystem, as well as for the implementation of the TSIs.
+4.   Each TSI shall be drawn up on the basis of an examination of an existing subsystem and indicate a target subsystem that may be obtained gradually within a reasonable time-scale. Accordingly, the gradual adoption of the TSIs and compliance therewith will help gradually to achieve the interoperability of the rail system.
+5.   TSIs shall retain, in an appropriate manner, the compatibility of the existing rail system of each Member State. With this objective, provision may be made for specific cases for each TSI, with regard to both network and vehicles; special attention must be given to the loading gauge, the track gauge or space between the tracks and vehicles originating from or destined for third countries. For each specific case, the TSIs shall stipulate the implementing rules of the elements of the TSIs indicated in paragraph 3(c) to (g).
+6.   If certain technical aspects corresponding to the essential requirements cannot be explicitly covered in a TSI, they shall be clearly identified in an annex to the TSI as open points. Article 17(3) shall apply to these aspects.
+7.   TSIs shall not be an impediment to decisions by the Member States concerning the use of infrastructures for the movement of vehicles not covered by the TSIs.
+8.   TSIs may make an explicit, clearly identified reference to European or international standards or specifications or technical documents published by the Agency where this is strictly necessary in order to achieve the objective of this Directive. In such case, these standards or specifications (or the relevant parts) or technical documents shall be regarded as annexes to the TSI concerned and shall become mandatory from the moment the TSI is applicable. In the absence of such standards or specifications or technical documents and pending their development, reference may be made to other clearly identified normative documents; in such case, this shall concern documents that are easily accessible and in the public domain.

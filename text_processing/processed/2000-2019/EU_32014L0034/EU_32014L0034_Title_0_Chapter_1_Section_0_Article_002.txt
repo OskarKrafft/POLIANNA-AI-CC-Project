@@ -1,0 +1,55 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘equipment’ means machines, apparatus, fixed or mobile devices, control components and instrumentation thereof and detection or prevention systems which, separately or jointly, are intended for the generation, transfer, storage, measurement, control and conversion of energy and/or the processing of material and which are capable of causing an explosion through their own potential sources of ignition;
+(2)
+‘protective systems’ means devices other than components of equipment which are intended to halt incipient explosions immediately and/or to limit the effective range of an explosion and which are separately made available on the market for use as autonomous systems;
+(3)
+‘components’ means any item essential to the safe functioning of equipment and protective systems but with no autonomous function;
+(4)
+‘explosive atmosphere’ means a mixture with air, under atmospheric conditions, of flammable substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture;
+(5)
+‘potentially explosive atmosphere’ means an atmosphere which could become explosive due to local and operational conditions;
+(6)
+‘equipment-group I’ means equipment intended for use in underground parts of mines, and in those parts of surface installations of such mines, liable to be endangered by firedamp and/or combustible dust, comprising equipment categories M 1 and M 2 as set out in Annex I;
+(7)
+‘equipment-group II’ means equipment intended for use in other places liable to be endangered by explosive atmospheres, comprising equipment categories 1, 2 and 3 as set out in Annex I;
+(8)
+‘equipment category’ means the classification of equipment, within each equipment-group, specified in Annex I, determining the requisite level of protection to be ensured;
+(9)
+‘intended use’ means the use of a product prescribed by the manufacturer by assigning the equipment to a particular equipment-group and category or by providing all the information which is required for the safe functioning of a protective system, device or component;
+(10)
+‘making available on the market’ means any supply of a product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(11)
+‘placing on the market’means the first making available of a product on the Union market;
+(12)
+‘manufacturer’ means any natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under his name or trade mark or uses it for his own purposes;
+(13)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+(14)
+‘importer’ means any natural or legal person established within the Union who places a product from a third country on the Union market;
+(15)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market;
+(16)
+‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+(17)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product;
+(18)
+‘harmonised standard’ means harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;
+(19)
+‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
+(20)
+‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
+(21)
+‘conformity assessment’ means the process demonstrating whether the essential health and safety requirements of this Directive relating to a product have been fulfilled;
+(22)
+‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+(23)
+‘recall’ means any measure aimed at achieving the return of a product that has already been made available to the end-user;
+(24)
+‘withdrawal’ means any measure aimed at preventing a product in the supply chain from being made available on the market;
+(25)
+‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+(26)
+‘CE marking’ means a marking by which the manufacturer indicates that the product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.

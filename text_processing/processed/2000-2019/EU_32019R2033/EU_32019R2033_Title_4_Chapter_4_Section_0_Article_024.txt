@@ -1,0 +1,10 @@
+Article 24
+RtF K‐factor requirement
+The RtF K‐factor requirement is determined by the following formula:
+K-TCD + K-DTF + K-CON
+where:
+K‐TCD is equal to the amount calculated in accordance with Article 26;
+K‐DTF is equal to DTF measured in accordance with Article 33, multiplied by the corresponding coefficient established in Article 15(2) and
+K‐CON is equal to the amount calculated in accordance with Article 39.
+K‐TCD and K‐CON shall be based on the transactions recorded in the trading book of an investment firm dealing on own account, whether for itself or on behalf of a client.
+K‐DTF shall be based on the transactions recorded in the trading book of an investment firm dealing on own account, whether for itself or on behalf of a client, and the transactions that an investment firm enters into through the execution of orders on behalf of clients in its own name.

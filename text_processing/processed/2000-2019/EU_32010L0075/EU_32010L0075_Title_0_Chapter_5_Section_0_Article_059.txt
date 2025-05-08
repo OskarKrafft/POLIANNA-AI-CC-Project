@@ -1,0 +1,22 @@
+Article 59
+Control of emissions
+1.   Member States shall take the necessary measures to ensure that each installation complies with either of the following:
+(a)
+the emission of volatile organic compounds from installations shall not exceed the emission limit values in waste gases and the fugitive emission limit values, or the total emission limit values, and other requirements laid down in Parts 2 and 3 of Annex VII are complied with;
+(b)
+the requirements of the reduction scheme set out in Part 5 of Annex VII provided that an equivalent emission reduction is achieved compared to that achieved through the application of the emission limit values referred to in point (a).
+Member States shall report to the Commission in accordance with Article 72(1) on the progress in achieving the equivalent emission reduction referred to in point (b).
+2.   By way of derogation from paragraph 1(a), where the operator demonstrates to the competent authority that for an individual installation the emission limit value for fugitive emissions is not technically and economically feasible, the competent authority may allow emissions to exceed that emission limit value provided that significant risks to human health or the environment are not to be expected and that the operator demonstrates to the competent authority that the best available techniques are being used.
+3.   By way of derogation from paragraph 1, for coating activities covered by item 8 of the table in Part 2 of Annex VII which cannot be carried out under contained conditions, the competent authority may allow the emissions of the installation not to comply with the requirements set out in that paragraph if the operator demonstrates to the competent authority that such compliance is not technically and economically feasible and that the best available techniques are being used.
+4.   Member States shall report to the Commission on the derogations referred to in paragraphs 2 and 3 of this Article in accordance with Article 72(2).
+5.   The emissions of either volatile organic compounds which are assigned or need to carry the hazard statements H340, H350, H350i, H360D or H360F or halogenated volatile organic compounds which are assigned or need to carry the hazard statements H341 or H351, shall be controlled under contained conditions as far as technically and economically feasible to safeguard public health and the environment and shall not exceed the relevant emission limit values set out in Part 4 of Annex VII.
+6.   Installations where two or more activities are carried out, each of which exceeds the thresholds in Part 2 of Annex VII shall:
+(a)
+as regards the substances specified in paragraph 5, meet the requirements of that paragraph for each activity individually;
+(b)
+as regards all other substances, either:
+(i)
+meet the requirements of paragraph 1 for each activity individually; or
+(ii)
+have total emissions of volatile organic compounds not exceeding those which would have resulted had point (i) been applied.
+7.   All appropriate precautions shall be taken to minimise emissions of volatile organic compounds during start-up and shut-down operations.

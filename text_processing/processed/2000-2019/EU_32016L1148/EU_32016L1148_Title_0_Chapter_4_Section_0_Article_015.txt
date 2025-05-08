@@ -1,0 +1,11 @@
+Article 15
+Implementation and enforcement
+1.   Member States shall ensure that the competent authorities have the necessary powers and means to assess the compliance of operators of essential services with their obligations under Article 14 and the effects thereof on the security of network and information systems.
+2.   Member States shall ensure that the competent authorities have the powers and means to require operators of essential services to provide:
+(a)
+the information necessary to assess the security of their network and information systems, including documented security policies;
+(b)
+evidence of the effective implementation of security policies, such as the results of a security audit carried out by the competent authority or a qualified auditor and, in the latter case, to make the results thereof, including the underlying evidence, available to the competent authority.
+When requesting such information or evidence, the competent authority shall state the purpose of the request and specify what information is required.
+3.   Following the assessment of information or results of security audits referred to in paragraph 2, the competent authority may issue binding instructions to the operators of essential services to remedy the deficiencies identified.
+4.   The competent authority shall work in close cooperation with data protection authorities when addressing incidents resulting in personal data breaches.

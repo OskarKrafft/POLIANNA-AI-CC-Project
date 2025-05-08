@@ -1,0 +1,21 @@
+Article 1
+Subject matter and scope
+1.   This Directive lays down the conditions necessary for the following purposes:
+(a)
+to ensure the interoperability of electronic road toll systems on the entire Union road network, urban and interurban motorways, major and minor roads, and various structures, such as tunnels or bridges, and ferries; and
+(b)
+to facilitate the cross-border exchange of vehicle registration data regarding the vehicles and the owners or holders of vehicles for which there was a failure to pay road fees of any kind in the Union.
+In order to respect the principle of subsidiarity, this Directive shall apply without prejudice to the decisions taken by Member States to levy road fees on particular types of vehicles, and to determine the level of those fees and the purpose for which such fees are levied.
+2.   Articles 3 to 22 do not apply to:
+(a)
+road toll systems which are not electronic within the meaning of point 10 of Article 2; and
+(b)
+small, strictly local road toll systems for which the costs of compliance with the requirements of Articles 3 to 22 would be disproportionate to the benefits.
+3.   This Directive does not apply to parking fees.
+4.   The objective of the interoperability of electronic road toll systems in the Union shall be achieved by means of the European Electronic Toll Service (EETS) which shall be complementary to the national electronic toll services of the Member States.
+5.   Where the national law requires a notification to the user of the obligation to pay before a failure to pay a road fee can be established, Member States may also apply this Directive to identify the owner or the holder of the vehicle and the vehicle itself for notification purposes, only if all the following conditions are fulfilled:
+(a)
+there are no other means to identify the owner or holder of the vehicle; and
+(b)
+the notification to the owner or holder of the vehicle of the obligation to pay is a compulsory stage of the road fee payment procedure under national law.
+6.   Where a Member State applies paragraph 5, it shall take the measures necessary to ensure that any follow-up proceedings in relation to the obligation to pay the road fee are pursued by public authorities. References to failure to pay a road fee in this Directive shall include cases covered by paragraph 5 if the Member State where the failure to pay takes place, applies that paragraph.

@@ -1,0 +1,22 @@
+Article 38
+Access for third-country CCPs and trading venues
+1.   A trading venue established in a third country may request access to a CCP established in the Union only if the Commission has adopted a decision in accordance with Article 28(4) relating to that third country. A CCP established in a third country may request access to a trading venue in the Union subject to that CCP being recognised under Article 25 of Regulation (EU) No 648/2012 CCPs and trading venues established in third countries shall only be permitted to make use of the access rights in Articles 35 to 36 provided that the Commission has adopted a decision in accordance with paragraph 3 that the legal and supervisory framework of the third country is considered to provide for an effective equivalent system for permitting CCPs and trading venues authorised under foreign regimes access to CCPs and trading venues established in that third country.
+2.   CCPs and trading venues established in third countries may only request a licence and the access rights in accordance with Article 37 provided that the Commission has adopted a decision in accordance with paragraph 3 of this Article that the legal and supervisory framework of that third country is considered to provide for an effective equivalent system under which CCPs and trading venues authorised in foreign jurisdictions are permitted access on a fair reasonable and non-discriminatory basis to:
+(a)
+relevant price and data feeds and information of composition, methodology and pricing of benchmarks for the purposes of clearing and trading; and
+(b)
+licences,
+from persons with proprietary rights to benchmarks established in that third country.
+3.   The Commission may, in accordance with the examination procedure referred to in Article 51, adopt decisions determining that the legal and supervisory framework of a third country ensures that a trading venue and CCP authorised in that third country complies with legally binding requirements which are equivalent to the requirements referred to in paragraph 2 of this Article and which are subject to effective supervision and enforcement in that third country.
+The legal and supervisory framework of a third country is considered equivalent where that framework fulfils all the following conditions:
+(a)
+trading venues in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+(b)
+it provides for an effective equivalent system for permitting CCPs and trading venues authorised under foreign regimes access to CCPs and trading venues established in that third country;
+(c)
+the legal and supervisory framework of that third country provides for an effective equivalent system under which CCPs and trading venues authorised in foreign jurisdictions are permitted access on a fair reasonable and non discriminatory basis to:
+(i)
+relevant price and data feeds and information of composition, methodology and pricing of benchmarks for the purposes of clearing and trading; and
+(ii)
+licences,
+from persons with proprietary rights to benchmarks established in that third country.

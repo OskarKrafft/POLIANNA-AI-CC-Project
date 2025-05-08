@@ -1,0 +1,39 @@
+Article 11
+Cooperation between operators of DLT market infrastructures, competent authorities and ESMA
+1.   Without prejudice to Regulation (EU) No 909/2014 and Directive 2014/65/EU, operators of DLT market infrastructures shall cooperate with the competent authorities.
+In particular, operators of DLT market infrastructures shall notify their competent authorities upon becoming aware of any of the following matters, without delay:
+(a)
+any proposed material change to their business plan, including changes in relation to critical staff, the rules of the DLT market infrastructure and the legal terms;
+(b)
+any evidence of unauthorised access, material malfunctioning, loss, cyber-attacks or other cyber-threats, fraud, theft or other serious malpractice suffered by the operator of the DLT market infrastructure;
+(c)
+any material change to the information provided to the competent authority;
+(d)
+any technical or operational difficulties in performing the activities or providing the services that are subject to the specific permission, including difficulties related to the development or use of the distributed ledger technology and DLT financial instruments; or
+(e)
+any risks affecting investor protection, market integrity or financial stability that have arisen and that were not anticipated in the application requesting the specific permission or that were not anticipated at the time when the specific permission was granted.
+Changes referred to in the second subparagraph, point (a) shall be notified at least four months before the change is planned, regardless of whether the proposed material change requires a change to the specific permission or related exemptions or conditions attached to those exemptions in accordance with Article 8, 9 or 10.
+Where notified of the matters listed in the second subparagraph, points (a) to (e), the competent authority may require the operator of the DLT market infrastructure to make an application in accordance with Article 8(13), Article 9(13) or Article 10(13), or may require the operator of the DLT market infrastructure to take corrective measures as referred to in paragraph 3 of this Article.
+2.   The operator of the DLT market infrastructure shall provide the competent authority with any relevant information it requires.
+3.   The competent authority may require any corrective measures with respect to the business plan of the operator of the DLT market infrastructure, the rules of the DLT market infrastructure and the legal terms in order to ensure investor protection, market integrity or financial stability. The operator of the DLT market infrastructure shall report on the implementation of any corrective measures required by the competent authority in its reports as referred to in paragraph 4.
+4.   Every six months from the date of the specific permission, the operator of a DLT market infrastructure shall submit a report to the competent authority. That report shall include:
+(a)
+a summary of the information listed in paragraph 1, second subparagraph;
+(b)
+the number and value of DLT financial instruments admitted to trading on the DLT MTF or DLT TSS and the number and value of DLT financial instruments recorded by the operator of the DLT SS or DLT TSS;
+(c)
+the number and value of transactions traded on the DLT MTF or DLT TSS and settled by the operator of the DLT SS or DLT TSS;
+(d)
+a reasoned assessment of any difficulties in applying Union financial services legislation or national law; and
+(e)
+any actions taken to implement the conditions attached to the exemptions or to implement any compensatory or corrective measures required by the competent authority.
+5.   ESMA shall fulfil a coordination role with respect to competent authorities with a view to building a common understanding of distributed ledger technology and DLT market infrastructure, to establishing a common supervisory culture and the convergence of supervisory practices, and to ensuring consistent approaches and convergence in supervisory outcomes.
+Competent authorities shall forward to ESMA the information and reports received from operators of DLT market infrastructures pursuant to paragraphs 1, 2 and 4 of this Article in a timely manner, and shall inform ESMA of any measures taken pursuant to paragraph 3 of this Article.
+ESMA shall inform competent authorities on a regular basis of:
+(a)
+any reports submitted pursuant to paragraph 4 of this Article;
+(b)
+any specific permissions and exemptions granted under this Regulation as well as the conditions attached to those exemptions;
+(c)
+any refusal by a competent authority to grant a specific permission or exemption, any withdrawal of a specific permission or exemption and any cessations of business of a DLT market infrastructure.
+6.   ESMA shall monitor the application of specific permissions, and any related exemptions and conditions attached to those exemptions, as well as any compensatory or corrective measures required by competent authorities. ESMA shall submit an annual report to the Commission on how such specific permissions, exemptions, conditions and compensatory or corrective measures are applied in practice.

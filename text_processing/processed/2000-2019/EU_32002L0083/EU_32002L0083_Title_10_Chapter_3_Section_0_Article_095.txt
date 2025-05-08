@@ -1,0 +1,60 @@
+Article 27
+Available solvency margin
+1.   Each Member State shall require of every assurance undertaking whose head office is situated in its territory an adequate available solvency margin in respect of its entire business at all times which is at least equal to the requirements in this Directive.
+2.   The available solvency margin shall consist of the assets of the assurance undertaking free of any foreseeable liabilities, less any intangible items, including:
+(a)
+the paid-up share capital or, in the case of a mutual assurance undertaking, the effective initial fund plus any members' accounts which meet all the following criteria:
+(i)
+the memorandum and articles of association must stipulate that payments may be made from these accounts to members only in so far as this does not cause the available solvency margin to fall below the required level, or, after the dissolution of the undertaking, if all the undertaking's other debts have been settled;
+(ii)
+the memorandum and articles of association must stipulate, with respect to any payments referred to in point (i) for reasons other than the individual termination of membership, that the competent authorities must be notified at least one month in advance and can prohibit the payment within that period;
+(iii)
+the relevant provisions of the memorandum and articles of association may be amended only after the competent authorities have declared that they have no objection to the amendment, without prejudice to the criteria stated in points (i) and (ii);
+(b)
+reserves (statutory and free) not corresponding to underwriting liabilities;
+(c)
+the profit or loss brought forward after deduction of dividends to be paid;
+(d)
+in so far as authorised under national law, profit reserves appearing in the balance sheet where they may be used to cover any losses which may arise and where they have not been made available for distribution to policy holders.
+The available solvency margin shall be reduced by the amount of own shares directly held by the assurance undertaking.
+3.   The available solvency margin may also consist of:
+(a)
+cumulative preferential share capital and subordinated loan capital up to 50 % of the lesser of the available solvency margin and the required solvency margin, no more than 25 % of which shall consist of subordinated loans with a fixed maturity, or fixed-term cumulative preferential share capital, provided that binding agreements exist under which, in the event of the bankruptcy or liquidation of the assurance undertaking, the subordinated loan capital or preferential share capital ranks after the claims of all other creditors and is not to be repaid until all other debts outstanding at the time have been settled.
+Subordinated loan capital must also fulfil the following conditions:
+(i)
+only fully paid-up funds may be taken into account;
+(ii)
+for loans with a fixed maturity, the original maturity must be at least five years. No later than one year before the repayment date, the assurance undertaking must submit to the competent authorities for their approval a plan showing how the available solvency margin will be kept at or brought to the required level at maturity, unless the extent to which the loan may rank as a component of the available solvency margin is gradually reduced during at least the last five years before the repayment date. The competent authorities may authorise the early repayment of such loans provided application is made by the issuing assurance undertaking and its available solvency margin will not fall below the required level;
+(iii)
+loans the maturity of which is not fixed must be repayable only subject to five years' notice unless the loans are no longer considered as a component of the available solvency margin or unless the prior consent of the competent authorities is specifically required for early repayment. In the latter event the assurance undertaking must notify the competent authorities at least six months before the date of the proposed repayment, specifying the available solvency margin and the required solvency margin both before and after that repayment. The competent authorities shall authorise repayment only if the assurance undertaking's available solvency margin will not fall below the required level;
+(iv)
+the loan agreement must not include any clause providing that in specified circumstances, other than the winding-up of the assurance undertaking, the debt will become repayable before the agreed repayment dates;
+(v)
+the loan agreement may be amended only after the competent authorities have declared that they have no objection to the amendment;
+(b)
+securities with no specified maturity date and other instruments, including cumulative preferential shares other than those mentioned in point (a), up to 50 % of the lesser of the available solvency margin and the required solvency margin for the total of such securities and the subordinated loan capital referred to in point (a) provided they fulfil the following:
+(i)
+they may not be repaid on the initiative of the bearer or without the prior consent of the competent authority;
+(ii)
+the contract of issue must enable the assurance undertaking to defer the payment of interest on the loan;
+(iii)
+the lender's claims on the assurance undertaking must rank entirely after those of all non-subordinated creditors;
+(iv)
+the documents governing the issue of the securities must provide for the loss-absorption capacity of the debt and unpaid interest, while enabling the assurance undertaking to continue its business;
+(v)
+only fully paid-up amounts may be taken into account.
+4.   Upon application, with supporting evidence, by the undertaking to the competent authority of the home Member State and with the agreement of that competent authority, the available solvency margin may also consist of:
+(a)
+until 31 December 2009 an amount equal to 50 % of the undertaking's future profits, but not exceeding 25 % of the lesser of the available solvency margin and the required solvency margin. The amount of the future profits shall be obtained by multiplying the estimated annual profit by a factor which represents the average period left to run on policies. The factor used may not exceed six. The estimated annual profit shall not exceed the arithmetical average of the profits made over the last five financial years in the activities listed in Article 2(1).
+Competent authorities may only agree to include such an amount for the available solvency margin:
+(i)
+when an actuarial report is submitted to the competent authorities substantiating the likelihood of emergence of these profits in the future; and
+(ii)
+in so far as that part of future profits emerging from hidden net reserves referred to in point (c) has not already been taken into account;
+(b)
+where Zillmerising is not practised or where, if practised, it is less than the loading for acquisition costs included in the premium, the difference between a non-Zillmerised or partially Zillmerised mathematical provision and a mathematical provision Zillmerised at a rate equal to the loading for acquisition costs included in the premium. This figure may not, however, exceed 3,5 % of the sum of the differences between the relevant capital sums of life assurance activities and the mathematical provisions for all policies for which Zillmerising is possible. The difference shall be reduced by the amount of any undepreciated acquisition costs entered as an asset;
+(c)
+any hidden net reserves arising out of the valuation of assets, in so far as such hidden net reserves are not of an exceptional nature;
+(d)
+one half of the unpaid share capital or initial fund, once the paid-up part amounts to 25 % of that share capital or fund, up to 50 % of the lesser of the available and required solvency margin.
+5.   Amendments to paragraphs 2, 3 and 4 to take into account developments that justify a technical adjustment of the elements eligible for the available solvency margin shall be adopted in accordance with the procedure laid down in Article 65(2).

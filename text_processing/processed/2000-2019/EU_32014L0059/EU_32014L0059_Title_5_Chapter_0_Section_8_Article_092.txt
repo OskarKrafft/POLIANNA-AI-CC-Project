@@ -1,0 +1,26 @@
+Article 92
+Group resolution
+1.   Where a group-level resolution authority decides that a Union parent undertaking for which it is responsible meets the conditions referred to in Article 32 or 33 it shall notify the information referred to in points (a) and (b) of Article 91(1) without delay to the consolidating supervisor, if different, and to the other members of the resolution college of the group in question.
+The resolution actions or insolvency measures for the purposes of point (b) of Article 91(1) may include the implementation of a group resolution scheme drawn up in accordance with Article 91(6) in any of the following circumstances:
+(a)
+resolution actions or other measures at parent level notified in accordance with point (b) of Article 91(1) make it likely that the conditions laid down in Article 32 or 33 would be fulfilled in relation to a group entity in another Member State;
+(b)
+resolution actions or other measures at parent level only are not sufficient to stabilise the situation or are not likely to provide an optimum outcome;
+(c)
+one or more subsidiaries meet the conditions referred to in Article 32 or 33 according to a determination by the resolution authorities responsible for those subsidiaries; or
+(d)
+resolution actions or other measures at group level will benefit the subsidiaries of the group in a way which makes a group resolution scheme appropriate.
+2.   Where the actions proposed by the group-level resolution authority under paragraph 1 do not include a group resolution scheme, the group-level resolution authority shall take its decision after consulting the members of the resolution college.
+The decision of the group-level resolution authority shall take into account:
+(a)
+and follow the resolution plans as referred to in Article 13 unless resolution authorities assess, taking into account circumstances of the case, that resolution objectives will be achieved more effectively by taking actions which are not provided for in the resolution plans;
+(b)
+the financial stability of the Member States concerned.
+3.   Where the actions proposed by the group-level resolution authority under paragraph 1 include a group resolution scheme, the group resolution scheme shall take the form of a joint decision of the group-level resolution authority and the resolution authorities responsible for the subsidiaries that are covered by the group resolution scheme.
+EBA may, at the request of a resolution authority, assist the resolution authorities in reaching a joint decision in accordance with Article 31(c) of Regulation (EU) No 1093/2010.
+4.   If any resolution authority disagrees with or departs from the group resolution scheme proposed by the group-level resolution authority or considers that it needs to take independent resolution actions or measures other than those proposed in the scheme in relation to an institution or entity referred to in point (b), (c) or (d) of Article 1(1) for reasons of financial stability, it shall set out in detail the reasons for the disagreement or the reasons to depart from the group resolution scheme, notify the group-level resolution authority and the other resolution authorities that are covered by the group resolution scheme of the reasons and inform them about the actions or measures it intends to take. When setting out the reasons for its disagreement, that resolution authority shall give consideration to the resolution plans as referred to in Article 13, the potential impact on financial stability in the Member States concerned as well as the potential effect of the actions or measures on other parts of the group.
+5.   Resolution authorities which did not disagree with the group resolution scheme under the paragraph 4 may reach a joint decision on a group resolution scheme covering group entities in their Member State.
+6.   The joint decision referred to in paragraph 3 or 5 and the decisions taken by the resolution authorities in the absence of a joint decision referred to in paragraph 4 shall be recognised as conclusive and applied by the resolution authorities in the Member States concerned.
+7.   Authorities shall perform all actions under this Article without delay, and with due regard to the urgency of the situation.
+In any case where a group resolution scheme is not implemented and resolution authorities take resolution action in relation to any group entity, those resolution authorities shall cooperate closely within the resolution college with a view to achieving a coordinated resolution strategy for all affected group entities.
+Resolution authorities that take resolution action in relation to any group entity shall inform the members of the resolution college regularly and fully about those actions or measures and their on-going progress.

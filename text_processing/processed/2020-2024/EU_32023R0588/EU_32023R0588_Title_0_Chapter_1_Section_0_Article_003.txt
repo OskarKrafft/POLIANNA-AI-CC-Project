@@ -1,0 +1,27 @@
+Article 3
+Programme objectives
+1.   The general objectives of the Programme shall be to:
+(a)
+ensure the provision and long-term availability within the Union’s territory and worldwide uninterrupted access to secure, autonomous, high-quality, reliable and cost-effective satellite governmental communication services to government-authorised users, by establishing a multi-orbital, secure connectivity system under civil control and by supporting the protection of critical infrastructures, within the meaning of Council Directive 2008/114/EC (27), situational awareness, external actions, crisis management and applications that are critical for the economy, the environment, security and defence, thereby increasing the resilience and the autonomy of the Union and the Member States, and reinforcing their satellite communication technological and industrial base, while avoiding excessive reliance on non-Union based solutions, in particular for critical infrastructure and access to space;
+(b)
+enable the provision of commercial services, or services offered to government-authorised users based on commercial infrastructure at market conditions, by the private sector in accordance with the Union’s applicable competition law, in order to facilitate, inter alia, the further development of worldwide high-speed broadband and seamless connectivity as well as removing communication dead zones and increasing cohesion across Member States’ territories, while bridging the digital divide and contributing, where applicable, to the general objectives referred to in Article 3 of Directive (EU) 2018/1972.
+2.   The specific objectives of the Programme shall be to:
+(a)
+complement and integrate the existing and future capacities of the GOVSATCOM component into the secure connectivity system;
+(b)
+improve the resilience, security and autonomy of the Union’s and Member States’ communication services;
+(c)
+develop further and gradually integrate EuroQCI into the secure connectivity system;
+(d)
+ensure the right of use of orbital slots and relevant frequencies;
+(e)
+increase the robustness of the Union’s and the Member States’ communication services and the cyber resilience of the Union, by developing redundancy, passive, proactive and reactive cyber protection and operational cybersecurity and protective measures against cyber threats and other measures against electromagnetic threats;
+(f)
+enable, where possible, the development of communication and additional non-communication services, in particular by improving components of the Union Space Programme, creating synergies between them and expanding their capabilities and services, as well as the development of non-communication services to be provided to Member States, by hosting additional satellite subsystems, including payloads;
+(g)
+encourage innovation, efficiency, as well as the development and use of disruptive technologies and innovative business models throughout the European space ecosystem, including New Space actors, new entrants, start-ups and SMEs, in order to strengthen the competitiveness of the Union space sector;
+(h)
+improve secure connectivity over geographical areas of strategic interest, such as Africa and the Arctic as well as the Baltic, the Black Sea, Mediterranean regions and the Atlantic;
+(i)
+enhance the safety and sustainability of outer space activities, by implementing appropriate measures to ensure and to promote responsible behaviour in space when implementing the Programme, including through seeking to prevent the proliferation of space debris.
+3.   The prioritisation and development of the additional non-communication services referred to in paragraph 2, point (f), of this Article and their respective funding shall comply with the objectives of Regulation (EU) 2021/696 and shall be examined by the Programme committee meeting in the relevant configuration, as set out in Regulation (EU) 2021/696.

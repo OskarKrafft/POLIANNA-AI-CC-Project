@@ -1,0 +1,5 @@
+Article 12
+Designation of competent authorities
+1.   The competent authority for an investment firm operating a DLT MTF or DLT TSS shall be the competent authority designated by the Member State determined in accordance with Article 4(1), points (55)(a)(ii) and (iii), of Directive 2014/65/EU.
+2.   The competent authority for a market operator operating a DLT MTF or DLT TSS shall be the competent authority designated by the Member State in which the registered office of the market operator operating the DLT MTF or DLT TSS is situated or, if in accordance with the law of that Member State the market operator has no registered office, the Member State in which the head office of the market operator operating the DLT MTF or DLT TSS is situated.
+3.   The competent authority for a CSD operating a DLT SS or DLT TSS shall be the competent authority designated by the Member State determined in accordance with Article 2(1), point (23), of Regulation (EU) No 909/2014.

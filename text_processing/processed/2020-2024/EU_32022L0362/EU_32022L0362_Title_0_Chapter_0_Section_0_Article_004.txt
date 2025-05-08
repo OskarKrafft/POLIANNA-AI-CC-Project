@@ -1,0 +1,17 @@
+Article 2
+Amendments to Directive 1999/37/EC
+Annex I to Directive 1999/37/EC is amended as follows:
+(1)
+point II.6(V.7) is replaced by the following:
+‘(V.7)
+CO2 (in g/km) or Specific CO2 emissions where indicated at position 49.5 of the Certificate of Conformity of heavy-duty vehicles defined in the Appendix to Annex VIII to Commission Implementing Regulation (EU) 2020/683 (*) or at position 49.5 of the individual vehicle approval certificate defined in Appendix 1 to Annex III to that Regulation,
+
+(*)  Commission Implementing Regulation (EU) 2020/683 of 15 April 2020 implementing Regulation (EU) 2018/858 of the European Parliament and of the Council with regards to the administrative requirements for the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (OJ L 163, 26.5.2020, p. 1).’;"
+                        
+(2)
+the following point is added:
+‘(V.10)
+CO2 emission class of heavy-duty vehicles determined at the moment of first registration, in accordance with Article 7ga(2) of Directive 1999/62/EC of the European Parliament and of the Council (*1).
+
+(*1)  Directive 1999/62/EC of the European Parliament and of the Council of 17 June 1999 on the charging of heavy goods vehicles for the use of certain infrastructures (OJ L 187, 20.7.1999, p. 42).’."
+                        

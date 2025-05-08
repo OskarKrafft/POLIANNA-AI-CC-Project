@@ -1,0 +1,9 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions shall apply:
+(1)
+‘air emission’ means the physical flow of gaseous or particulate materials from the national economy (production or consumption processes) to the atmosphere (as part of the environmental system);
+(2)
+‘environmentally related tax’ means a tax whose tax base is a physical unit (or a proxy of a physical unit) of something that has a proven, specific negative impact on the environment, and which is identified in ESA 95 as a tax;
+(3)
+‘economy-wide material flow accounts (EW-MFA)’ means consistent compilations of the material inputs into national economies, the changes of material stock within the economy and the material outputs to other economies or to the environment.

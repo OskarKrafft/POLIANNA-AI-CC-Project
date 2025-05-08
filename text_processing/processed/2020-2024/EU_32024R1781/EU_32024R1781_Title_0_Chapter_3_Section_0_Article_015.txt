@@ -1,0 +1,11 @@
+Article 15
+Customs controls relating to the digital product passport
+1.   Any person intending to place a product covered by a delegated act adopted pursuant to Article 4 under the customs procedure ‘release for free circulation’ shall provide or make available to customs authorities the unique registration identifier of that product referred to in Article 13(5).
+The first subparagraph of this paragraph shall apply from the moment the registry is operational.
+2.   Customs authorities may release a product for free circulation only after having verified as a minimum that the unique registration identifier referred to in Article 13(5) and the commodity code provided or made available to them correspond to the data stored in the registry.
+The verification referred to in the first subparagraph of this paragraph shall take place electronically and automatically via the interconnection referred to in paragraph 3. It shall apply from the moment that interconnection is operational.
+The release for free circulation shall not be deemed to be proof of compliance with this Regulation or other Union law.
+3.   The Commission shall interconnect the registry with the EU Customs Single Window Certificates Exchange System (EU CSW-CERTEX), thus enabling the automated exchange of information with the national customs systems through the EU Single Window Environment for Customs established by Regulation (EU) 2022/2399.
+That interconnection shall be operational within four years of the date of entry into force of the implementing act referred to in Article 13(5).
+4.   The Commission and the customs authorities may retrieve and use the data included in the digital product passport and the registry for carrying out their duties pursuant to Union law, including risk management, customs controls and release for free circulation in accordance with Regulation (EU) No 952/2013.
+5.   This Article is without prejudice to Regulation (EU) No 952/2013 and Chapter VII of Regulation (EU) 2019/1020 and any other Union law.

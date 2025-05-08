@@ -1,0 +1,274 @@
+Article 1
+Amendments
+Regulation (EC) No 881/2004 is hereby amended as follows:
+1)
+Article 2 shall be replaced by the following:
+‘Article 2
+Types of acts of the Agency
+The Agency may:
+(a)
+address recommendations to the Commission concerning the application of Articles 6, 7, 9b, 12, 14, 16, 16a, 16b, 16c, 17 and 18; and
+(b)
+issue opinions to the Commission pursuant to Articles 9a, 10, 13 and 15, and to the authorities concerned in the Member States pursuant to Article 10.’;
+2)
+Article 3 shall be amended as follows:
+(a)
+the first sentence in paragraph 1 shall be replaced by the following:
+‘1.   For drawing up the recommendations provided for in Articles 6, 7, 9b, 12, 14, 16, 17 and 18 the Agency shall establish a limited number of working parties.’;
+(b)
+paragraph 3 shall be replaced by the following:
+‘3.   The national safety authorities defined in Article 16 of the Railway Safety Directive, or, depending on the subject, the competent national authorities, shall appoint their representatives for the working parties in which they wish to participate.’;
+3)
+Article 8 shall be deleted;
+4)
+the following Chapter title shall be inserted immediately after Article 9:
+
+                                    ‘CHAPTER 2a
+NATIONAL RULES, CROSS-ACCEPTANCE AND TECHNICAL OPINIONS’;
+5)
+the following Articles shall be inserted:
+‘Article 9a
+National rules
+1.   At the request of the Commission, the Agency shall carry out a technical examination of the new national rules submitted to the Commission in accordance with Article 8 of the Railway Safety Directive or Article 17(3) of Directive 2008/57/EC of the European Parliament and of the Council of 17 June 2008 on the interoperability of the rail system within the Community (recast) (*1), (hereinafter referred to as the “Railway Interoperability Directive”).
+2.   The Agency shall examine the compatibility of the rules referred to in paragraph 1 with the CSMs and with the TSIs in force. The Agency shall also examine whether these rules enable the CSTs in force to be achieved.
+3.   If, after taking account of the reasons given by the Member State, the Agency considers that any of these rules either is incompatible with the TSIs or the CSMs or does not allow CSTs to be reached, it shall submit an opinion to the Commission within two months of transmission of the rules to the Agency by the Commission.
+Article 9b
+Classification of national rules
+1.   The Agency shall facilitate Member States' acceptance of vehicles placed in service in another Member State in accordance with the procedures laid down in paragraphs 2 to 4.
+2.   The Agency shall, by 19 January 2009 review the list of parameters in Section 1 of Annex VII to the Railway Interoperability Directive and make the recommendations it considers appropriate to the Commission.
+3.   The Agency shall draw up a draft for a reference document cross-referencing all the national rules applied by the Member States for placing vehicles in service. This document shall contain the national rules of each Member State for each of the parameters listed in Annex VII to the Railway Interoperability Directive and specify the group referred to in Section 2 of that Annex to which these rules belong. These rules shall comprise those notified under Article 17(3) of the Railway Interoperability Directive, including those notified following adoption of TSIs (specific cases, open points, derogations) and those notified under Article 8 of the Railway Safety Directive.
+4.   With a view to gradually reducing the national rules in Group B referred to in Section 2 of Annex VII of the Railway Interoperability Directive, the Agency shall regularly draw up a draft for updating the reference document and forward it to the Commission. The first version of the document shall be presented to the Commission no later than 1 January 2010.
+5.   For the purpose of implementation of this Article, the Agency shall make use of the cooperation of the national safety authorities established under Article 6(5) and set up a working party in accordance with the principles of Article 3.
+
+(*1)  
+                                          OJ L 191, 18.7.2008, p. 1.’;"
+                        
+6)
+the following paragraphs shall be inserted in Article 10:
+‘2a.   The Agency may be called upon to provide technical opinions:
+(a)
+by a national safety authority or the Commission, on the equivalence of national rules for one or more parameters listed in Section 1 of Annex VII to the Railway Interoperability Directive;
+(b)
+by the competent appeal body referred to in Article 21(7) of the Railway Interoperability Directive, in the case of a decision by a competent national safety authority refusing the placing in service of a railway vehicle.
+2b.   The Agency may be called upon by the Commission to provide technical opinions on urgent modifications to TSIs, in accordance with Article 7(1) of the Railway Interoperability Directive.’;
+7)
+Article 11 shall be deleted;
+8)
+Article 13 shall be replaced by the following:
+‘Article 13
+Notified bodies
+1.   Without prejudice to the responsibility of Member States for the notified bodies which they designate, the Agency may, at the request of the Commission, monitor the quality of the work of those bodies. It shall submit an opinion to the Commission where appropriate.
+2.   Without prejudice to the responsibility of Member States, the Agency shall, at the request of the Commission when it, in accordance with Article 28(4) of the Railway Interoperability Directive, considers that a notified body does not meet the criteria referred to in Annex VIII to that Directive, check to ensure that those criteria are met. The Agency shall issue an opinion to the Commission.’;
+9)
+Article 15 shall be replaced by the following:
+‘Article 15
+Interoperability within the Community rail system
+Without prejudice to the derogations provided for by Article 9 of the Railway Interoperability Directive, the Agency shall, at the request of the Commission, examine, from the point of view of interoperability, any project involving the design and/or construction or the renewal or upgrading of the subsystem for which an application for Community financial aid has been submitted. Within a period to be agreed with the Commission according to the importance of the project and the resources available and which cannot extend beyond two months, the Agency shall give an opinion on whether the project conforms with the relevant TSIs.’;
+10)
+the following Chapter title shall be inserted immediately before Article 16:
+
+                                    ‘CHAPTER 3a
+MAINTENANCE OF VEHICLES’;
+11)
+the following paragraph shall be added to Article 16:
+
+                              ‘These recommendations shall be consistent with the responsibilities already allocated to railway undertakings as provided for in Article 4 of the Railway Safety Directive and the entity in charge of maintenance as provided for in Article 14a of that Directive, and shall take full account of the certification mechanisms of railway undertakings and entities in charge of maintenance.’;
+12)
+the following Article shall be inserted:
+‘Article 16a
+Certification of entities in charge of maintenance
+1.   The Agency shall by 1 July 2010 send to the Commission a recommendation in view of the implementation of the system of certification of entities in charge of maintenance in accordance with Article 14a(5) of the Railway Safety Directive.
+The Agency's assessment and recommendation shall in particular cover the following aspects taking due account of relations an entity in charge of maintenance can have with other parties such as keepers, railway undertakings and infrastructure managers:
+(a)
+whether the entity in charge of maintenance has adequate systems in place, including operational and management processes, to ensure the effective and safe maintenance of vehicles;
+(b)
+the content and the specifications of a system of certification adapted to the maintenance of wagons;
+(c)
+the type of bodies competent for certification and the requirements to be imposed on such bodies;
+(d)
+the format and validity of the certificates to be delivered to the entities in charge of maintenance;
+(e)
+the technical and operational inspections and controls.
+2.   Within a period of three years from the adoption by the Commission of the system of certification of maintenance referred to in Article 14a(5) of the Railway Safety Directive, the Agency shall send to the Commission a report evaluating the implementation of such system. By the same date, the Agency shall also send to the Commission a recommendation with a view to defining the content and the specifications of a similar certification system in the case of entities in charge of the maintenance for other vehicles, such as locomotives, passenger cars, electrical multiple units (EMUs) and diesel multiple units (DMUs).
+3.   The Agency shall analyse the alternative measures decided in accordance with Article 14a(8) of the Railway Safety Directive in the context of its report on safety performance referred to in Article 9(2) of this Regulation.’;
+13)
+the following Chapter title shall be inserted immediately after Article 16a:
+
+                                    ‘CHAPTER 3b
+RAILWAY STAFF’;
+14)
+the following Article shall be inserted:
+‘Article 16b
+Train drivers
+1.   On matters related to Directive 2007/59/EC of the European Parliament and of the Council of 23 October 2007 on the certification of train drivers operating locomotives and trains on the railway system in the Community (*2) (hereinafter referred to as the “Train Drivers Directive”) the Agency shall:
+(a)
+prepare a draft of a Community model for the licence, the certificate and the certified copy of the certificate, their physical characteristics, taking into account therein anti-forgery measures;
+(b)
+cooperate with the competent authorities in order to ensure the interoperability of the registers for train drivers' licences and certificates. To this end the Agency shall prepare a draft on the basic parameters of the registers to be set up, such as data to be recorded, their format and the data exchange protocol, access rights, the duration of data retention and the procedures to be followed in cases of bankruptcy;
+(c)
+prepare draft Community criteria on the choice of examiners and examinations;
+(d)
+evaluate the development of the certification of train drivers by submitting to the Commission, not later than four years following the adoption of the basic parameters of the registers, as provided for in Article 22(4) of the Train Drivers Directive, a report containing, where appropriate, improvements to be made to the system and measures regarding the theoretical and practical examination of the professional knowledge of applicants for the harmonised certificate for rolling stock and relevant infrastructure;
+(e)
+by 4 December 2012, examine the possibility of using a smartcard combining the licence and certificates provided for in Article 4 of the Train Drivers Directive, and shall prepare a cost/benefit analysis thereof. The Agency shall prepare a draft for the technical and operating specifications for such a smartcard;
+(f)
+assist the cooperation amongst Member States in the implementation of the Train Drivers Directive and organise appropriate meetings with representatives of the competent authorities;
+(g)
+if asked by the Commission, carry out a cost/benefit analysis of the application of the provisions of the Train Drivers Directive to train drivers operating exclusively on the territory of the requesting Member State. The cost/benefit analysis shall cover a period of ten years. This cost/benefit analysis shall be submitted to the Commission within two years of the setting-up of the registers in accordance with point 1 of Article 37 of the Train Drivers Directive;
+(h)
+if asked by the Commission, carry out another cost/benefit analysis which is to be submitted to the Commission no later than 12 months prior to the expiry of the temporary exemption period possibly granted by the Commission;
+(i)
+ensure that the system set up under paragraph 2(a) and (b) of Article 22 of the Train Drivers Directive complies with Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (*3).
+2.   On matters related to the Train Drivers Directive, the Agency shall make recommendations on:
+(a)
+modification of the Community Codes for the different types in categories A and B as referred to in Article 4(3) of the Train Drivers Directive;
+(b)
+the codes reflecting additional information, or medical restrictions for use imposed by a competent authority in accordance with Annex II to the Train Drivers Directive.
+3.   The Agency may make a reasoned request to the competent authorities for information on the status of train driver licences.
+
+(*2)  
+                                             OJ L 315, 3.12.2007, p. 51."
+                        
+
+(*3)  
+                                                      OJ L 8, 12.1.2001, p. 1.’;"
+                        
+15)
+the following Article shall be inserted:
+‘Article 16c
+Other on-board staff
+In accordance with Article 28 of the Train Drivers Directive, the Agency shall, in a report to be presented by 4 June 2009, and taking into account the TSI on operation and traffic management developed under Directives 96/48/EC and 2001/16/EC, identify the profile and tasks of other crew members performing safety-critical tasks whose professional qualifications accordingly contribute to railway safety which should be regulated at Community level by means of a system of licences and/or certificates which may be similar to the system established by the Train Drivers Directive.’;
+16)
+in Article 17, the title and paragraph 1 shall be replaced by the following:
+‘Article 17
+Vocational competences and training
+1.   The Agency shall make recommendations on specifying common criteria for defining vocational competences and assessing staff in the case of staff involved in the operation and maintenance of the rail system but which is not covered by Articles 16b or 16c.’;
+17)
+the following Chapter title shall be inserted immediately after Article 17:
+
+                                    ‘CHAPTER 3c
+REGISTERS AND AGENCY'S PUBLIC DATABASE’;
+18)
+Article 18 shall be replaced by the following:
+‘Article 18
+Registers
+1.   The Agency shall draw up and recommend to the Commission common specifications for:
+(a)
+the national vehicle registers in accordance with Article 33 of the Railway Interoperability Directive, including arrangements for exchange of data and a standard application form for registration;
+(b)
+the European register of authorised vehicle types in accordance with Article 34 of the Railway Interoperability Directive, including arrangements for exchange of data with the national safety authorities;
+(c)
+the register of infrastructure in accordance with Article 35 of the Railway Interoperability Directive.
+2.   The Agency shall set up and keep a register of types of vehicles authorised by the Member States for placing in service on the rail network within the Community, in accordance with Article 34 of the Railway Interoperability Directive. The Agency shall also prepare a draft for the model of declaration of conformity to type, in accordance with Article 26(4) of that Directive.’;
+19)
+Article 19 shall be replaced by the following:
+‘Article 19
+Accessibility of documents and registers
+1.   The Agency shall make publicly accessible the following documents and registers provided for by the Railway Interoperability Directive and the Railway Safety Directive:
+(a)
+the EC declarations of verification of subsystems;
+(b)
+the EC declarations of conformity of constituents available to the national safety authorities;
+(c)
+the licences issued in accordance with Directive 95/18/EC;
+(d)
+the safety certificates issued in accordance with Article 10 of the Railway Safety Directive;
+(e)
+the investigation reports sent to the Agency in accordance with Article 24 of the Railway Safety Directive;
+(f)
+the national rules notified to the Commission in accordance with Article 8 of the Railway Safety Directive and Articles 5(6) and 17(3) of the Railway Interoperability Directive;
+(g)
+the link to the national vehicle registers;
+(h)
+the link to the registers of infrastructure;
+(i)
+the European register of authorised types of vehicles;
+(j)
+the register of requests for changes and planned changes to the ERTMS specifications;
+(k)
+the register of vehicle keeper markings kept by the Agency in accordance with the TSI on operation and traffic management.
+2.   The practical arrangements for transmitting the documents referred to in paragraph 1 shall be discussed and agreed by Member States and the Commission on the basis of a draft of the Agency.
+3.   When transmitting the documents referred to in paragraph 1, the bodies concerned may indicate which documents are not to be disclosed to the public for reasons of security.
+4.   The national authorities responsible for issuing the documents referred to in paragraph 1(c) and (d) shall notify the Agency within one month of each individual decision to issue, renew, amend or revoke them.
+5.   The Agency may add to this public database any public document or link relevant to the objectives of this Regulation.’;
+20)
+the title of Chapter 4 shall be replaced by the following:
+
+                                    ‘SPECIAL TASKS’;
+21)
+the following Articles shall be inserted:
+‘Article 21a
+ERTMS
+1.   The Agency, in coordination with the Commission, shall assume the tasks set out in paragraphs 2 to 5 with a view to
+(a)
+ensuring a coherent development of the ERTMS;
+(b)
+contributing to the compliance of ERTMS equipment as implemented in Member States with the specifications in force.
+2.   The Agency shall set up a procedure for managing requests for changes to specifications of the ERTMS. To this end, a register of requests for changes and planned changes to ERTMS specifications shall be set up and maintained by the Agency.
+The Agency shall recommend the adoption of a new version only when the previous version has been deployed at a sufficient rate. The development of new versions shall not be detrimental to the rate of deployment of the ERTMS, the stability of the specifications which is needed for the optimisation of the production of ERTMS equipment, the return of investment for railway undertakings and the efficient planning of the deployment of the ERTMS.
+3.   The Agency shall support the efforts of the Commission in developing an EU deployment plan for the ERTMS and coordinating installation of the ERTMS along the trans-European transport corridors.
+4.   The Agency shall develop a strategy for managing the different versions of the ERTMS with a view to ensuring technical and operational compatibility between networks and vehicles fitted with different versions and to providing incentives to the swift implementation of the version in force and of possible newer versions.
+In accordance with Article 6(9) of the Railway Interoperability Directive, the Agency shall ensure that successive versions of ERTMS equipment are backward compatible, as from the version adopted by the Commission on 23 April 2008.
+With regard to ERTMS equipment which was placed in service before 23 April 2008 or whose installation or upgrading was at an advanced stage of deployment on that date, the Agency shall prepare an assessment report which shall identify:
+(a)
+the additional costs to be borne by early implementers as a consequence of the introduction of the version adopted by the Commission on 23 April 2008;
+(b)
+all possible mechanisms, including financial ones, to support the migration from the earlier versions to the version referred to in point (a).
+The Commission shall take the appropriate measures within one year from the date on which it received the Agency's assessment report.
+5.   The Agency shall set up and chair an ad hoc working group of notified bodies with a view to checking that the EC procedures of verification carried out by notified bodies in the context of specific ERTMS projects are applied consistently. The Agency shall also cooperate with national safety authorities with a view to checking that the procedures for authorisation for placing in service are applied consistently. Where the Agency finds that there is a risk of lack of technical and operational compatibility between networks and vehicles fitted with equipment being subject to these procedures, it shall forthwith inform the Commission which shall take the appropriate measures.
+6.   Should technical incompatibilities emerge between networks and vehicles in the context of specific ERTMS projects, notified bodies and national safety authorities shall ensure that the Agency is able to obtain any relevant information on the applied procedures for “EC” verification and placing in service as well as on the operational conditions. The Agency shall, if necessary, recommend appropriate measures to the Commission.
+7.   The Agency shall evaluate the certification process of the ERTMS equipment by submitting to the Commission by 1 January 2011 a report containing, where appropriate, improvements to be made.
+8.   On the basis of the report referred to in paragraph 7, the Commission shall assess the costs and benefits of using a single type of laboratory equipment, a single reference track and/or a single certification body at Community level. Such certification body needs to comply with the criteria of Annex VIII of the Railway Interoperability Directive. The Commission may present a report and, if appropriate, bring forward a legislative proposal to improve the ERTMS certification system.
+Article 21b
+Assistance to the Commission
+1.   Within the limits of Article 30(2)(b), the Agency shall, at the request of the Commission, assist the Commission in the implementation of the Community legislation aimed at enhancing the level of interoperability of railway systems and at developing a common approach to safety on the European railway system.
+2.   This assistance shall be limited in time and scope, and carried out without prejudice to all other tasks assigned to the Agency in this Regulation and may include:
+(a)
+communicating information on how specific aspects of the Community legislation are implemented;
+(b)
+providing technical advice in matters requiring specific know-how;
+(c)
+collecting information through the cooperation of national safety authorities and investigation bodies provided for in Article 6(5).
+3.   The Executive Director shall report at least once a year to the Board on the implementation of this Article, including its impact on resources.’;
+22)
+Article 24(3) shall be replaced by the following:
+‘3.   Without prejudice to Article 26(1), the Agency's staff shall consist of:
+—
+temporary employees recruited by the Agency for a maximum of five years from among professionals from the sector on the basis of their qualifications and experience in the field of railway safety and interoperability;
+—
+officials assigned or seconded by the Commission or Member States for a maximum of five years; and
+—
+other servants, as defined in the Conditions of Employment of other servants of the European Communities, to carry out implementing or secretarial tasks.
+During the first 10 years of operation of the Agency, the period of 5 years referred to in the first indent of the first subparagraph may be extended for another period of up to a maximum of 3 years when required to guarantee the continuity of its services.’;
+23)
+Article 25 shall be amended as follows:
+(a)
+in paragraph 2, point (c) shall be replaced by the following:
+‘(c)
+adopt, by 30 November each year, and taking the opinion of the Commission into account, the work programme of the Agency for the coming year and forward it to the Member States, the European Parliament, the Council and the Commission. That work programme shall be adopted without prejudice to the annual Community budgetary procedure. If, within 15 days of the date of adoption of the work programme, the Commission expresses its disagreement with the programme, the Administrative Board shall re-examine the programme and adopt it, amended if necessary, within a period of two months, in second reading either by a two-thirds majority, including the Commission representatives, or by unanimity of the representatives of the Member States;’;
+(b)
+the following paragraph shall be added:
+‘3.   The Agency's work programme shall identify the objectives of each activity. As a general rule, each activity and/or each outcome shall be the subject of a report to the Commission.’;
+24)
+Article 26(1) shall be replaced by the following:
+‘1.   The Administrative Board shall be composed of one representative of each Member State and four representatives of the Commission, as well as of six representatives, without the right to vote, the latter representing at European level the following groups:
+(a)
+railway undertakings;
+(b)
+infrastructure managers;
+(c)
+the railway industry;
+(d)
+worker unions;
+(e)
+passengers;
+(f)
+freight customers.
+For each of these groups, the Commission shall appoint a representative and an alternate from a shortlist of four names submitted by their respective European organisations with a view to ensuring appropriate representation of all interests.
+Board members and their alternates shall be appointed on the basis of their relevant experience and expertise.’;
+25)
+Article 33(1) shall be replaced by the following:
+‘1.   In order to perform the tasks entrusted to it by Articles 9, 9a, 10, 13 and 15, the Agency may carry out visits to the Member States in accordance with the policy defined by the Administrative Board. The national authorities of the Member States shall facilitate the work of the Agency's staff.’;
+26)
+Article 36(1) shall be replaced by the following:
+‘1.   The Agency shall be open to participation by European countries and countries within the scope of the European Neighbourhood Policy which have concluded agreements with the European Community under which the countries concerned have adopted and are applying Community legislation in the field covered by this Regulation.’.

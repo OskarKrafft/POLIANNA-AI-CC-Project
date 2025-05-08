@@ -1,0 +1,25 @@
+Article 32
+Identification, prevention, management and disclosure of conflicts of interest
+1.   Issuers of asset-referenced tokens shall implement and maintain effective policies and procedures to identify, prevent, manage and disclose conflicts of interest between themselves and:
+(a)
+their shareholders or members;
+(b)
+any shareholder or member, whether direct or indirect, that has a qualifying holding in the issuers;
+(c)
+the members of their management body;
+(d)
+their employees;
+(e)
+the holders of asset-referenced tokens; or
+(f)
+any third party providing one of the functions as referred in Article 34(5), first subparagraph, point (h).
+2.   Issuers of asset-referenced tokens shall, in particular, take all appropriate steps to identify, prevent, manage and disclose conflicts of interest arising from the management and investment of the reserve of assets referred to in Article 36.
+3.   Issuers of asset-referenced tokens shall, in a prominent place on their website, disclose to the holders of their asset-referenced tokens the general nature and sources of conflicts of interest referred to in paragraph 1 and the steps taken to mitigate them.
+4.   The disclosure referred to in paragraph 3 shall be sufficiently precise to enable the prospective holders of their asset-referenced tokens to take an informed purchasing decision about the asset-referenced tokens.
+5.   EBA shall develop draft regulatory technical standards to further specify:
+(a)
+the requirements for the policies and procedures referred to in paragraph 1;
+(b)
+the details and methodology for the content of the disclosure referred to in paragraph 3.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

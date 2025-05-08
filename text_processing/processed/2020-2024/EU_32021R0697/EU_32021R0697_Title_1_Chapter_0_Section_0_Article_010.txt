@@ -1,0 +1,27 @@
+Article 10
+Eligible actions
+1.   Only actions implementing the objectives set out in Article 3 shall be eligible for funding.
+2.   The Fund shall provide support for actions covering new defence products and technologies and the upgrade of existing defence products and technologies provided that the use of pre-existing information needed to carry out the action for the upgrade is not subject to a restriction by a non-associated third country or a non-associated third-country entity directly, or indirectly through one or more intermediary legal entities, in such a way that the action cannot be carried out.
+3.   An eligible action shall relate to one or more of the following activities:
+(a)
+activities that aim to create, underpin and improve knowledge, products and technologies, including disruptive technologies for defence, which can achieve significant effects in the area of defence;
+(b)
+activities that aim to increase interoperability and resilience, including secured production and exchange of data, to master critical defence technologies, to strengthen the security of supply or to enable the effective exploitation of results for defence products and technologies;
+(c)
+studies, such as feasibility studies to explore the feasibility of new or upgraded products, technologies, processes, services and solutions;
+(d)
+the design of a defence product, tangible or intangible component or technology as well as the definition of the technical specifications on which such a design has been developed, including any partial tests for risk reduction in an industrial or representative environment;
+(e)
+the system prototyping of a defence product, tangible or intangible component or technology;
+(f)
+the testing of a defence product, tangible or intangible component or technology;
+(g)
+the qualification of a defence product, tangible or intangible component or technology;
+(h)
+the certification of a defence product, tangible or intangible component or technology;
+(i)
+the development of technologies or assets increasing efficiency across the life cycle of defence products and technologies.
+4.   The action shall be carried out by legal entities cooperating within a consortium of at least three eligible legal entities which are established in at least three different Member States or associated countries. At least three of those eligible legal entities established in at least two different Member States or associated countries shall not, during the entire period in which the action is carried out, be controlled, directly or indirectly, by the same legal entity and shall not control each other.
+5.   Paragraph 4 shall not apply to actions relating to disruptive technologies for defence or to activities referred to in point (c) of paragraph 3.
+6.   Actions for the development of products and technologies the use, development or production of which is prohibited by applicable international law shall not be eligible for support from the Fund.
+Moreover, actions for the development of lethal autonomous weapons without the possibility for meaningful human control over selection and engagement decisions when carrying out strikes against humans shall not be eligible for support from the Fund, without prejudice to the possibility of providing funding for actions for the development of early warning systems and countermeasures for defensive purposes.

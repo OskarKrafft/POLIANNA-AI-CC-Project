@@ -1,0 +1,27 @@
+Article 2
+Definitions
+For the purpose of this Regulation, the following definitions shall apply:
+(a)
+‘population’ shall mean the national, regional and local population at its usual residence at the reference date;
+(b)
+‘housing’ shall mean living quarters and buildings as well as housing arrangements and the relationship between the population and living quarters at the national, regional and local levels at the reference date;
+(c)
+‘buildings’ shall mean permanent buildings that contain living quarters designed for human habitation, or conventional dwellings that are reserved for seasonal or secondary use or that are vacant;
+(d)
+‘usual residence’ shall mean the place where a person normally spends the daily period of rest, regardless of temporary absences for purposes of recreation, holidays, visits to friends and relatives, business, medical treatment or religious pilgrimage.
+The following persons alone shall be considered to be usual residents of the geographical area in question:
+(i)
+those who have lived in their place of usual residence for a continuous period of at least 12 months before the reference date; or
+(ii)
+those who arrived in their place of usual residence during the 12 months before the reference date with the intention of staying there for at least one year.
+Where the circumstances described in point (i) or (ii) cannot be established, ‘usual residence’ shall mean the place of legal or registered residence;
+(e)
+‘reference date’ shall mean the date to which the data of the respective Member State refer, in accordance with Article 5(1);
+(f)
+‘national’ shall mean on the territory of a Member State;
+(g)
+‘regional’ shall mean at NUTS level 1, NUTS level 2 or NUTS level 3, as defined in the classification of territorial units for statistics (NUTS), established by Regulation (EC) No 1059/2003 of the European Parliament and of the Council (6) in its version applicable at the reference date;
+(h)
+‘local’ shall mean at Local Administrative Units level 2 (LAU level 2);
+(i)
+‘essential features of population and housing censuses’ shall mean individual enumeration, simultaneity, universality within a defined territory, availability of small-area data and defined periodicity.

@@ -1,0 +1,5 @@
+Article 3
+Book-entry form
+1.   Without prejudice to paragraph 2, any issuer established in the Union that issues or has issued transferable securities which are admitted to trading or traded on trading venues, shall arrange for such securities to be represented in book-entry form as immobilisation or subsequent to a direct issuance in dematerialised form.
+2.   Where a transaction in transferable securities takes place on a trading venue the relevant securities shall be recorded in book-entry form in a CSD on or before the intended settlement date, unless they have already been so recorded.
+Where transferable securities are transferred following a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC, those securities shall be recorded in book-entry form in a CSD on or before the intended settlement date, unless they have already been so recorded.

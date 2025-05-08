@@ -1,0 +1,9 @@
+Article 14
+1. Member States shall notify the Commission and the other Member States of the names and addresses of:
+(a) the type-approval authorities and, if applicable, the disciplines for which the authorities are responsible;
+(b) the technical services which they have approved, specifying for which test procedures each of these services has been approved. The notified services must satisfy the harmonised standards on the operation of testing laboratories (EN 45001) subject to the following provisos:
+(i) a manufacturer may not be approved as a technical service except where the separate Directive makes express provisions for doing so;
+(ii) for the purpose of this Directive it is not considered exceptional for a technical service to use equipment from an outside source, subject to the agreement of the approval authority.
+2. A notified service shall be presumed to satisfy the harmonised standard but, where appropriate, the Commission may ask Member States to provide supporting evidence.
+Third country services may not be notified as approved technical services other than in the framework of bilateral agreements or multilateral agreements between the Community and third countries.
+

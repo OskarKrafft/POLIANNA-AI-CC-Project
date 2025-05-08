@@ -1,0 +1,46 @@
+Article 30
+Tasks of the ENTSO for Electricity
+1.   The ENTSO for Electricity shall:
+(a)
+develop network codes in the areas set out in Article 59(1) and (2) with a view to achieving the objectives set out in Article 28;
+(b)
+adopt and publish a non-binding Union-wide ten-year network development plan, (‘Union-wide network development plan’), biennially;
+(c)
+prepare and adopt proposals related to the European resource adequacy assessment pursuant to Article 23 and proposals for the technical specifications for cross-border participation in capacity mechanisms pursuant to Article 26(11);
+(d)
+adopt recommendations relating to the coordination of technical cooperation between Union and third-country transmission system operators;
+(e)
+adopt a framework for the cooperation and coordination between regional coordination centres;
+(f)
+adopt a proposal defining the system operation region in accordance with Article 36;
+(g)
+cooperate with distribution system operators and the EU DSO entity;
+(h)
+promote the digitalisation of transmission networks including deployment of smart grids, efficient real time data acquisition and intelligent metering systems;
+(i)
+adopt common network operation tools to ensure coordination of network operation in normal and emergency conditions, including a common incident classification scale, and research plans, including the deployment of those plans through an efficient research programme. Those tools shall specify inter alia:
+(i)
+the information, including appropriate day-ahead, intraday and real-time information, useful for improving operational coordination, as well as the optimal frequency for the collection and sharing of such information;
+(ii)
+the technological platform for the exchange of information in real time and where appropriate, the technological platforms for the collection, processing and transmission of the other information referred to in point (i), as well as for the implementation of the procedures capable of increasing operational coordination between transmission system operators with a view to such coordination becoming Union-wide;
+(iii)
+how transmission system operators make available the operational information to other transmission system operators or any entity duly mandated to support them to achieve operational coordination, and to ACER; and
+(iv)
+that transmission system operators designate a contact point in charge of answering inquiries from other transmission system operators or from any entity duly mandated as referred to in point (iii), or from ACER concerning such information;
+(j)
+adopt an annual work programme;
+(k)
+contribute to the establishment of interoperability requirements and non-discriminatory and transparent procedures for accessing data as provided for in Article 24 of Directive (EU) 2019/944;
+(l)
+adopt an annual report;
+(m)
+carry out and adopt seasonal adequacy assessments pursuant to Article 9(2) of Regulation (EU) 2019/941;
+(n)
+promote cyber security and data protection in cooperation with relevant authorities and regulated entities;
+(o)
+take into account the development of demand response in fulfilling its tasks.
+2.   The ENTSO for Electricity shall report to ACER on shortcomings identified regarding the establishment and performance of regional coordination centres.
+3.   The ENTSO for Electricity shall publish the minutes of its assembly meetings, board meetings and committee meetings and provide the public with regular information on its decision-making and activities.
+4.   The annual work programme referred to in point (j) of paragraph 1 shall contain a list and description of the network codes to be prepared, a plan on coordination of operation of the network, and research and development activities, to be realised in that year, and an indicative calendar.
+5.   The ENTSO for Electricity shall provide ACER with the information that ACER requires to fulfil its tasks pursuant to Article 32(1). In order to enable the ENTSO for Electricity to meet that requirement, transmission system operators shall provide the ENTSO for Electricity with the requisite information.
+6.   Upon request of the Commission, the ENTSO for Electricity shall give its views to the Commission on the adoption of the guidelines as laid down in Article 61.

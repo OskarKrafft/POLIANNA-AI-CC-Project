@@ -1,0 +1,8 @@
+Article 18
+Effects of the authorisation
+1.   The activities of the authorised CSD shall be limited to the provision of services covered by its authorisation or by notification in accordance with Article 19(8).
+2.   Securities settlement systems may be operated only by authorised CSDs, including central banks acting as CSDs.
+3.   An authorised CSD may have a participation only in a legal person whose activities are limited to the provision of services listed in Sections A and B of the Annex, unless such a participation is approved by its competent authority on the basis that it does not significantly increase the risk profile of the CSD.
+4.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the criteria to be taken into account by the competent authorities to approve the participation of CSDs in legal persons other than those providing the services listed in Sections A and B of the Annex. Such criteria may include whether the services provided by that legal person are complementary to the services provided by a CSD, and the extent of the CSD’s exposure to liabilities arising from such participation.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

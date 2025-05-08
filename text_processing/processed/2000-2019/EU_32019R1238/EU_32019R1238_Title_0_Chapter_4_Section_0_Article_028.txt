@@ -1,0 +1,90 @@
+Article 28
+Content of the PEPP KID
+1.   The title ‘PEPP Key Information Document’ shall appear prominently at the top of the first page of the PEPP KID.
+The PEPP KID shall be presented in the sequence laid down in paragraphs 2 and 3.
+2.   An explanatory statement shall appear directly underneath the title. It shall read:
+
+                           ‘This document provides you with key information about this pan-European Personal Pension Product (PEPP). It is not marketing material. The information is required by law to help you understand the nature, risks, costs, potential gains and losses of this personal pension product and to help you compare it with other PEPPs.’.
+3.   The PEPP KID shall contain the following information:
+(a)
+at the beginning of the document: the name of the PEPP, whether it is a Basic PEPP or not, the identity and contact details of the PEPP provider, information about the competent authorities of the PEPP provider, the registration number of the PEPP in the central public register and the date of the document;
+(b)
+the statement: ‘The retirement product described in this document is a long-term product with limited redeemability which cannot be terminated at any time.’;
+(c)
+under a section titled ‘What is this product?’, the nature and main features of the PEPP, including:
+(i)
+its long-term objectives and the means for achieving them, in particular whether the objectives are achieved by means of direct or indirect exposure to the underlying investment assets, including a description of the underlying instruments or reference values, including a specification of the markets the PEPP provider invests in, as well as an explanation of how the return is determined;
+(ii)
+a description of the type of PEPP saver to whom the PEPP is intended to be marketed, in particular in terms of the PEPP saver’s ability to bear investment loss and the investment horizon;
+(iii)
+a statement as to
+—
+whether the Basic PEPP provides a guarantee on the capital or takes the form of a risk-mitigation technique consistent with the objective to allow the PEPP saver to recoup the capital, or
+—
+whether and to what extent any alternative investment option, if applicable, provides a guarantee or a risk-mitigation technique;
+(iv)
+a description of the PEPP retirement benefits, in particular the possible forms of out-payments and the right to modify the form of out-payments as referred to in Article 59(1);
+(v)
+where the PEPP covers biometric risk: details of the risks covered and of the insurance benefits, including the circumstances in which those benefits may be claimed;
+(vi)
+information on the portability service, including a reference to the central public register referred to in Article 13 where information for the conditions for the accumulation phase and the decumulation phase determined by Member States in accordance with Articles 47 and 57 is contained;
+(vii)
+a statement on the consequences for the PEPP saver of early withdrawal from the PEPP, including all applicable fees, penalties, and possible loss of capital protection and of other possible advantages and incentives;
+(viii)
+a statement on the consequences for the PEPP saver if the PEPP saver stops contributing to the PEPP;
+(ix)
+information on the sub-accounts available and on the PEPP saver’s rights referred to in Article 20(5);
+(x)
+information about the PEPP saver’s right to switch and the right to receive information about the switching service as referred to in Article 56;
+(xi)
+the conditions for modification of the chosen investment option referred to in Article 44;
+(xii)
+information, where available, related to the performance of the PEPP provider’s investments in terms of ESG factors;
+(xiii)
+the law applicable to the PEPP contract where the parties do not have a free choice of law or, where the parties are free to choose the applicable law, the law that the PEPP provider proposes to choose;
+(xiv)
+where applicable, whether there is a cooling-off period or cancellation period for the PEPP saver;
+(d)
+under a section titled ‘What are the risks and what could I get in return?’, a short description of the risk-reward profile comprising the following elements:
+(i)
+a summary risk indicator, supplemented by a narrative explanation of that indicator, its main limitations and a narrative explanation of the risks which are materially relevant to the PEPP and which are not adequately captured by the summary risk indicator;
+(ii)
+the possible maximum loss of invested capital, including, information on:
+—
+whether the PEPP saver can lose all invested capital, or
+—
+whether the PEPP saver bears the risk of incurring additional financial commitments or obligations;
+(iii)
+appropriate performance scenarios and the assumptions on which they are based;
+(iv)
+where applicable, conditions for returns to PEPP savers or built-in performance caps;
+(v)
+a statement that the tax law of the PEPP saver’s Member State of residence may have an impact on the actual payout;
+(e)
+under a section titled ‘What happens if [the name of the PEPP provider] is unable to pay out?’, a short description of whether the related loss is covered by an investor compensation or guarantee scheme and if so, which scheme it is, the name of the guarantor and which risks are covered by the scheme and which are not;
+(f)
+under a section titled ‘What are the costs?’, the costs associated with an investment in the PEPP, comprising both direct and indirect costs to be borne by the PEPP saver, including one-off and recurring costs, presented by means of summary indicators of those costs and, to ensure comparability, total aggregate costs expressed in monetary and percentage terms, to show the compound effects of the total costs on the investment.
+The PEPP KID shall include a clear indication that the PEPP provider or PEPP distributor shall provide information detailing any cost of distribution that is not already included in the costs specified above, so as to enable the PEPP saver to understand the cumulative effect that those aggregate costs have on the return of the investment;
+(g)
+under a section titled ‘What are the specific requirements for the sub-account corresponding to [my Member State of residence]?’:
+(i)
+under a sub-section titled ‘Requirements for the pay-in phase’:
+a description of the conditions for the accumulation phase, as determined by the Member State of residence of the PEPP saver in accordance with Article 47;
+(ii)
+under a sub-section titled: ‘Requirements for the pay-out phase’:
+a description of the conditions for the decumulation phase, as determined by the Member State of residence of the PEPP saver in accordance with Article 57;
+(h)
+under a section titled ‘How can I complain?’: information about how and to whom a PEPP saver can make a complaint about the PEPP or the conduct of the PEPP provider or PEPP distributor.
+4.   Layering of the information required under paragraph 3 shall be permitted where the PEPP KID is provided in an electronic format, whereby detailed parts of the information can be presented through pop-ups or through links to accompanying layers. In this case, it shall be possible to print the PEPP KID as one single document.
+5.   In order to ensure consistent application of this Article, EIOPA shall, after consulting the other ESAs and after conducting consumer testing and industry testing, develop draft regulatory technical standards specifying:
+(a)
+the details of the presentation, including the form and length of the document, and the content of each of the elements of information referred to in paragraph 3;
+(b)
+the methodology underpinning the presentation of risk and reward as referred to in points (d)(i) and (iii) of paragraph 3;
+(c)
+the methodology for the calculation of costs, including the specification of summary indicators, as referred to in point (f) of paragraph 3;
+(d)
+where information is presented in an electronic format with layering of information, which information shall be in the first layer, and which information may be provided in the additional layers of detail.
+When developing the draft regulatory technical standards, EIOPA shall take into account the various possible types of PEPPs, the long-term nature of the PEPP, the capabilities of PEPP savers, and the features of the PEPPs, in order to allow the PEPP saver to select from different investment options and other options provided for by the PEPP, including where that selection may be undertaken at different points in time, or changed in the future.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 15 August 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.

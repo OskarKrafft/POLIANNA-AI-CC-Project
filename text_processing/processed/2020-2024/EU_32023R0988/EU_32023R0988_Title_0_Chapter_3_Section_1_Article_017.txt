@@ -1,0 +1,31 @@
+Article 18
+Specific traceability requirements for certain products, categories or groups of products
+1.   For certain products, categories or groups of products which are likely to present a serious risk to the health and safety of consumers, based on accidents registered in the Safety Business Gateway, the Safety Gate statistics, the results of the joint activities on product safety and other relevant indicators or evidence, and after consulting the Consumer Safety Network, relevant expert groups and relevant stakeholders, the Commission may set up a system of traceability to which economic operators who place and make available those products on the market shall adhere.
+2.   The system of traceability shall consist of the collection and storage of data, including by electronic means, enabling the identification of the product, its components or of the economic operators involved in its supply chain, as well as in modalities to display and to access those data, including placement of a data carrier on the product, its packaging or accompanying documents.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 45 to supplement this Regulation by:
+(a)
+determining the products, categories or groups of products or components likely to present a serious risk to the health and safety of consumers as referred to in paragraph 1; the Commission shall state in the delegated acts concerned whether it has used the risk analysis methodology provided for in Commission Implementing Decision (EU) 2019/417 (30) or, if that methodology is not appropriate for the product concerned, it shall give a detailed description of the methodology used;
+(b)
+specifying the type of data which economic operators are to collect and store by means of the system of traceability referred to in paragraph 2;
+(c)
+specifying the modalities to display and to access data, including placement of a data carrier on the product, its packaging or accompanying documents as referred to in paragraph 2;
+(d)
+specifying the actors that shall have access to the data as referred to in point (b) and to what data they shall have access, including consumers, economic operators, providers of online marketplaces, competent national authorities, the Commission, and public interest organisations, or any organisation acting on their behalf.
+4.   Market surveillance authorities, consumers, economic operators and other relevant actors shall have access free of charge to the data referred to in paragraph 3 based on their respective access rights set out in the applicable delegated act adopted pursuant to paragraph 3, point (d).
+5.   When adopting the measures referred to in paragraph 3, the Commission shall take into account:
+(a)
+the cost-effectiveness of the measures, including the impact of the measures on businesses, in particular SMEs;
+(b)
+an adequate timeframe to allow economic operators to prepare for those measures; and
+(c)
+the compatibility and interoperability with other product traceability systems already set up at Union or at international level.
+Obligations of economic operators in the case of distance sales
+Where economic operators make products available on the market online or through other means of distance sales, the offer of those products shall clearly and visibly indicate at least the following information:
+(a)
+name, registered trade name or registered trade mark of the manufacturer, as well as the postal and electronic address at which they can be contacted;
+(b)
+where the manufacturer is not established in the Union, the name, postal and electronic address of the responsible person within the meaning of Article 16(1) of this Regulation or Article 4(1) of Regulation (EU) 2019/1020;
+(c)
+information allowing the identification of the product, including a picture of it, its type and any other product identifier; and
+(d)
+any warning or safety information to be affixed to the product or to the packaging or included in an accompanying document in accordance with this Regulation or the applicable Union harmonisation legislation in a language which can be easily understood by consumers, as determined by the Member State in which the product is made available on the market.

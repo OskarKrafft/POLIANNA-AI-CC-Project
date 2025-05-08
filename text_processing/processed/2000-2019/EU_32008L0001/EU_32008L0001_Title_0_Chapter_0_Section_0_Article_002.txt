@@ -1,0 +1,40 @@
+Article 2
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1.
+‘substance’ means any chemical element and its compounds, with the exception of radioactive substances within the meaning of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation (9) and genetically modified organisms within the meaning of Council Directive 90/219/EEC of 23 April 1990 on the contained use of genetically modified micro-organisms (10) and Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms (11);
+2.
+‘pollution’ means the direct or indirect introduction, as a result of human activity, of substances, vibrations, heat or noise into the air, water or land which may be harmful to human health or the quality of the environment, result in damage to material property, or impair or interfere with amenities and other legitimate uses of the environment;
+3.
+‘installation’ means a stationary technical unit where one or more activities listed in Annex I are carried out, and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution;
+4.
+‘existing installation’ means an installation which on 30 October 1999, in accordance with legislation existing before that date, was in operation or was authorised or, in the view of the competent authority, was the subject of a full request for authorisation, provided that that installation was put into operation no later than 30 October 2000;
+5.
+‘emission’ means the direct or indirect release of substances, vibrations, heat or noise from individual or diffuse sources in the installation into the air, water or land;
+6.
+‘emission limit values’ means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during one or more periods of time; emission limit values may also be laid down for certain groups, families or categories of substances, in particular for those listed in Annex III. The emission limit values for substances normally apply at the point where the emissions leave the installation, any dilution being disregarded when determining them; with regard to indirect releases into water, the effect of a water treatment plant may be taken into account when determining the emission limit values of the installation involved, provided that an equivalent level is guaranteed for the protection of the environment as a whole and provided this does not lead to higher levels of pollution in the environment, without prejudice to Directive 2006/11/ΕC or the Directives implementing it;
+7.
+‘environmental quality standard’ means the set of requirements which must be fulfilled at a given time by a given environment or particular part thereof, as set out in Community legislation;
+8.
+‘competent authority’ means the authority or authorities or bodies responsible under the legal provisions of the Member States for carrying out the obligations arising from this Directive;
+9.
+‘permit’ means that part or the whole of a written decision (or several such decisions) granting authorisation to operate all or part of an installation, subject to certain conditions which guarantee that the installation complies with the requirements of this Directive. A permit may cover one or more installations or parts of installations on the same site operated by the same operator;
+10.
+‘change in operation’ means a change in the nature or functioning, or an extension, of the installation which may have consequences for the environment;
+11.
+‘substantial change’ means a change in operation which, in the opinion of the competent authority, may have significant negative effects on human beings or the environment; for the purposes of this definition, any change to or extension of an operation shall be deemed to be substantial if the change or extension in itself meets the thresholds, if any, set out in Annex I;
+12.
+‘best available techniques’ means the most effective and advanced stage in the development of activities and their methods of operation which indicate the practical suitability of particular techniques for providing in principle the basis for emission limit values designed to prevent and, where that is not practicable, generally to reduce emissions and the impact on the environment as a whole:
+(a)
+‘techniques’ shall include both the technology used and the way in which the installation is designed, built, maintained, operated and decommissioned;
+(b)
+‘available techniques’ means those developed on a scale which allows implementation in the relevant industrial sector, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced inside the Member State in question, as long as they are reasonably accessible to the operator;
+(c)
+‘best’ means most effective in achieving a high general level of protection of the environment as a whole.
+In determining the best available techniques, special consideration should be given to the items listed in Annex IV;
+13.
+‘operator’ means any natural or legal person who operates or controls the installation or, where this is provided for in national legislation, to whom decisive economic power over the technical functioning of the installation has been delegated;
+14.
+‘the public’ means one or more natural or legal persons and, in accordance with national legislation or practice, their associations, organisations or groups;
+15.
+‘the public concerned’ means the public affected or likely to be affected by, or having an interest in, the taking of a decision on the issuing or the updating of a permit or of permit conditions; for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under national law shall be deemed to have an interest.

@@ -1,0 +1,35 @@
+Article 12
+CSIRTs network
+1.   In order to contribute to the development of confidence and trust between the Member States and to promote swift and effective operational cooperation, a network of the national CSIRTs is hereby established.
+2.   The CSIRTs network shall be composed of representatives of the Member States' CSIRTs and CERT-EU. The Commission shall participate in the CSIRTs network as an observer. ENISA shall provide the secretariat and shall actively support the cooperation among the CSIRTs.
+3.   The CSIRTs network shall have the following tasks:
+(a)
+exchanging information on CSIRTs' services, operations and cooperation capabilities;
+(b)
+at the request of a representative of a CSIRT from a Member State potentially affected by an incident, exchanging and discussing non-commercially sensitive information related to that incident and associated risks; however, any Member State's CSIRT may refuse to contribute to that discussion if there is a risk of prejudice to the investigation of the incident;
+(c)
+exchanging and making available on a voluntary basis non-confidential information concerning individual incidents;
+(d)
+at the request of a representative of a Member State's CSIRT, discussing and, where possible, identifying a coordinated response to an incident that has been identified within the jurisdiction of that same Member State;
+(e)
+providing Member States with support in addressing cross-border incidents on the basis of their voluntary mutual assistance;
+(f)
+discussing, exploring and identifying further forms of operational cooperation, including in relation to:
+(i)
+categories of risks and incidents;
+(ii)
+early warnings;
+(iii)
+mutual assistance;
+(iv)
+principles and modalities for coordination, when Member States respond to cross-border risks and incidents;
+(g)
+informing the Cooperation Group of its activities and of the further forms of operational cooperation discussed pursuant to point (f), and requesting guidance in that regard;
+(h)
+discussing lessons learnt from exercises relating to the security of network and information systems, including from those organised by ENISA;
+(i)
+at the request of an individual CSIRT, discussing the capabilities and preparedness of that CSIRT;
+(j)
+issuing guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of this Article concerning operational cooperation.
+4.   For the purpose of the review referred to in Article 23 and by 9 August 2018, and every year and a half thereafter, the CSIRTs network shall produce a report assessing the experience gained with the operational cooperation, including conclusions and recommendations, pursued under this Article. That report shall also be submitted to the Cooperation Group.
+5.   The CSIRTs network shall lay down its own rules of procedure.

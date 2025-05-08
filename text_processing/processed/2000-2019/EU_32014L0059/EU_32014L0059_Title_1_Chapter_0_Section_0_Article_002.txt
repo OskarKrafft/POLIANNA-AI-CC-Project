@@ -1,0 +1,254 @@
+Article 2
+Definitions
+1.   For the purposes of this Directive the following definitions apply:
+(1)
+‘resolution’ means the application of a resolution tool or a tool referred to in Article 37(9) in order to achieve one or more of the resolution objectives referred to in Article 31(2);
+(2)
+‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013, not including the entities referred to in Article 2(5) of Directive 2013/36/EU;
+(3)
+‘investment firm’ means an investment firm as defined in point (2) of Article 4(1) of Regulation (EU) No 575/2013 that is subject to the initial capital requirement laid down in Article 28(2) of Directive 2013/36/EU;
+(4)
+‘financial institution’ means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
+(5)
+‘subsidiary’ means a subsidiary as defined in point (16) of Article 4(1) of Regulation (EU) No 575/2013;
+(6)
+‘parent undertaking’ means a parent undertaking as defined in point (15)(a) of Article 4(1) of Regulation (EU) No 575/2013;
+(7)
+‘consolidated basis’ means the basis of the consolidated situation as defined in point (47) of Article 4(1) of Regulation (EU) No 575/2013;
+(8)
+‘institutional protection scheme’ or ‘IPS’ means an arrangement that meets the requirements laid down in Article 113(7) of Regulation (EU) No 575/2013;
+(9)
+‘financial holding company’ means a financial holding company as defined in point (20) of Article 4(1) of Regulation (EU) No 575/2013;
+(10)
+‘mixed financial holding company’ means a mixed financial holding company as defined in point (21) of Article 4(1) of Regulation (EU) No 575/2013;
+(11)
+‘mixed-activity holding company’ means a mixed-activity holding company as defined in point (22) of Article 4(1) of Regulation (EU) No 575/2013;
+(12)
+‘parent financial holding company in a Member State’ means a parent financial holding company in a Member State as defined in point (30) of Article 4(1) of Regulation (EU) No 575/2013;
+(13)
+‘Union parent financial holding company’ means an EU parent financial holding company as defined in point (31) of Article 4(1) of Regulation (EU) No 575/2013;
+(14)
+‘parent mixed financial holding company in a Member State’ means a parent mixed financial holding company in a Member State as defined in point (32) of Article 4(1)of Regulation (EU) No 575/2013;
+(15)
+‘Union parent mixed financial holding company’ means an EU parent mixed financial holding company as defined in point (33) of Article 4(1) of Regulation (EU) No 575/2013;
+(16)
+‘resolution objectives’ means the resolution objectives referred to in Article 31(2);
+(17)
+‘branch’ means a branch as defined in point (17) of Article 4(1) of Regulation (EU) No 575/2013;
+(18)
+‘resolution authority’ means an authority designated by a Member State in accordance with Article 3;
+(19)
+‘resolution tool’ means a resolution tool referred to in Article 37(3);
+(20)
+‘resolution power’ means a power referred to in Articles 63 to 72;
+(21)
+‘competent authority’ means a competent authority as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013 including the European Central Bank with regard to specific tasks conferred on it by Council Regulation (EU) No 1024/2013 (25);
+(22)
+‘competent ministries’ means finance ministries or other ministries of the Member States which are responsible for economic, financial and budgetary decisions at the national level according to national competencies and which have been designated in accordance with Article 3(5);
+(23)
+‘institution’ means a credit institution or an investment firm;
+(24)
+‘management body’ means a management body as defined in point (7) of Article 3(1) of Directive 2013/36/EU;
+(25)
+‘senior management’ means senior management as defined in point (9) of Article 3(1) of Directive 2013/36/EU;
+(26)
+‘group’ means a parent undertaking and its subsidiaries;
+(27)
+‘cross-border group’ means a group having group entities established in more than one Member State;
+(28)
+‘extraordinary public financial support’ means State aid within the meaning of Article 107(1) TFEU, or any other public financial support at supra-national level, which, if provided for at national level, would constitute State aid, that is provided in order to preserve or restore the viability, liquidity or solvency of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) or of a group of which such an institution or entity forms part;
+(29)
+‘emergency liquidity assistance’ means the provision by a central bank of central bank money, or any other assistance that may lead to an increase in central bank money, to a solvent financial institution, or group of solvent financial institutions, that is facing temporary liquidity problems, without such an operation being part of monetary policy;
+(30)
+‘systemic crisis’ means a disruption in the financial system with the potential to have serious negative consequences for the internal market and the real economy. All types of financial intermediaries, markets and infrastructure may be potentially systemically important to some degree;
+(31)
+‘group entity’ means a legal person that is part of a group;
+(32)
+‘recovery plan’ means a recovery plan drawn up and maintained by an institution in accordance with Article 5;
+(33)
+‘group recovery plan’ means a group recovery plan drawn up and maintained in accordance with Article 7;
+(34)
+‘significant branch’ means a branch that would be considered to be significant in a host Member State in accordance with Article 51(1) of Directive 2013/36/EU;
+(35)
+‘critical functions’ means activities, services or operations the discontinuance of which is likely in one or more Member States, to lead to the disruption of services that are essential to the real economy or to disrupt financial stability due to the size, market share, external and internal interconnectedness, complexity or cross-border activities of an institution or group, with particular regard to the substitutability of those activities, services or operations;
+(36)
+‘core business lines’ means business lines and associated services which represent material sources of revenue, profit or franchise value for an institution or for a group of which an institution forms part;
+(37)
+‘consolidating supervisor’ means consolidating supervisor as defined in point (41) of Article 4(1) of Regulation (EU) No 575/2013;
+(38)
+‘own funds’ means own funds as defined in point (118) of Article 4(1) of Regulation (EU) No 575/2013;
+(39)
+‘conditions for resolution’ means the conditions referred to in Article 32(1);
+(40)
+‘resolution action’ means the decision to place an institution or entity referred to in point (b), (c) or (d) of Article 1(1) under resolution pursuant to Article 32 or 33, the application of a resolution tool, or the exercise of one or more resolution powers;
+(41)
+‘resolution plan’ means a resolution plan for an institution drawn up in accordance with Article 10;
+(42)
+‘group resolution’ means either of the following:
+(a)
+the taking of resolution action at the level of a parent undertaking or of an institution subject to consolidated supervision, or
+(b)
+the coordination of the application of resolution tools and the exercise of resolution powers by resolution authorities in relation to group entities that meet the conditions for resolution;
+(43)
+‘group resolution plan’ means a plan for group resolution drawn up in accordance with Articles 12 and 13;
+(44)
+‘group-level resolution authority’ means the resolution authority in the Member State in which the consolidating supervisor is situated;
+(45)
+‘group resolution scheme’ means a plan drawn up for the purposes of group resolution in accordance with Article 91;
+(46)
+‘resolution college’ means a college established in accordance with Article 88 to carry out the tasks referred to in Article 88(1);
+(47)
+‘normal insolvency proceedings’ means collective insolvency proceedings which entail the partial or total divestment of a debtor and the appointment of a liquidator or an administrator normally applicable to institutions under national law and either specific to those institutions or generally applicable to any natural or legal person;
+(48)
+‘debt instruments’ referred to in points (g) and (j) of Article 63(1) means bonds and other forms of transferable debt, instruments creating or acknowledging a debt, and instruments giving rights to acquire debt instruments;
+(49)
+‘parent institution in a Member State’ means a parent institution in a Member State as defined in point (28) of Article 4(1) of Regulation (EU) No 575/2013;
+(50)
+‘Union parent institution’ means an EU parent institution as defined in point (29) of Article 4(1) of Regulation (EU) No 575/2013;
+(51)
+‘own funds requirements’ means the requirements laid down in Articles 92 to 98 of Regulation (EU) No 575/2013;
+(52)
+‘supervisory college’ means a college of supervisors established in accordance with Article 116 of Directive 2013/36/EU;
+(53)
+‘Union State aid framework’ means the framework established by Articles 107, 108 and 109 TFEU and regulations and all Union acts, including guidelines, communications and notices, made or adopted pursuant to Article 108(4) or Article 109 TFEU;
+(54)
+‘winding up’ means the realisation of assets of an institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(55)
+‘asset separation tool’ means the mechanism for effecting a transfer by a resolution authority of assets, rights or liabilities of an institution under resolution to an asset management vehicle in accordance with Article 42;
+(56)
+‘asset management vehicle’ means a legal person that meets the requirements laid down in Article 42(2);
+(57)
+‘bail-in tool’ means the mechanism for effecting the exercise by a resolution authority of the write-down and conversion powers in relation to liabilities of an institution under resolution in accordance with Article 43;
+(58)
+‘sale of business tool’ means the mechanism for effecting a transfer by a resolution authority of shares or other instruments of ownership issued by an institution under resolution, or assets, rights or liabilities, of an institution under resolution to a purchaser that is not a bridge institution, in accordance with Article 38;
+(59)
+‘bridge institution’ means a legal person that meets the requirements laid down in Article 40(2);
+(60)
+‘bridge institution tool’ means the mechanism for transferring shares or other instruments of ownership issued by an institution under resolution or assets, rights or liabilities of an institution under resolution to a bridge institution, in accordance with Article 40;
+(61)
+‘instruments of ownership’ means shares, other instruments that confer ownership, instruments that are convertible into or give the right to acquire shares or other instruments of ownership, and instruments representing interests in shares or other instruments of ownership;
+(62)
+‘shareholders’ means shareholders or holders of other instruments of ownership;
+(63)
+‘transfer powers’ means the powers specified in point (c) or (d) of Article 63(1) to transfer shares, other instruments of ownership, debt instruments, assets, rights or liabilities, or any combination of those items from an institution under resolution to a recipient;
+(64)
+‘central counterparty’ means a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;
+(65)
+‘derivative’, means a derivative as defined in point (5) of Article 2 of Regulation (EU) No 648/2012;
+(66)
+‘write-down and conversion powers’ means the powers referred to in Article 59(2) and in points (e) to (i) of Article 63(1);
+(67)
+‘secured liability’ means a liability where the right of the creditor to payment or other form of performance is secured by a charge, pledge or lien, or collateral arrangements including liabilities arising from repurchase transactions and other title transfer collateral arrangements;
+(68)
+‘Common Equity Tier 1 instruments’ means capital instruments that meet the conditions laid down in Article 28(1) to (4), Article 29(1) to (5) or Article 31(1) of Regulation (EU) No 575/2013;
+(69)
+‘Additional Tier 1 instruments’ means capital instruments that meet the conditions laid down in Article 52(1) of Regulation (EU) No 575/2013;
+(70)
+‘aggregate amount’ means the aggregate amount by which the resolution authority has assessed that eligible liabilities are to be written down or converted, in accordance with Article 46(1);
+(71)
+‘eligible liabilities’ means the liabilities and capital instruments that do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) that are not excluded from the scope of the bail-in tool by virtue of Article 44(2);
+(72)
+‘deposit guarantee scheme’ means a deposit guarantee scheme introduced and officially recognised by a Member State pursuant to Article 4 of Directive 2014/49/EU;
+(73)
+‘Tier 2 instruments’ means capital instruments or subordinated loans that meet the conditions laid down in Article 63 of Regulation (EU) No 575/2013;
+(74)
+‘relevant capital instruments’ for the purposes of Section 5 of Chapter IV of Title IV and Chapter V of Title IV, means Additional Tier 1 instruments and Tier 2 instruments;
+(75)
+‘conversion rate’ means the factor that determines the number of shares or other instruments of ownership into which a liability of a specific class will be converted, by reference either to a single instrument of the class in question or to a specified unit of value of a debt claim;
+(76)
+‘affected creditor’ means a creditor whose claim relates to a liability that is reduced or converted to shares or other instruments of ownership by the exercise of the write down or conversion power pursuant to the use of the bail-in tool;
+(77)
+‘affected holder’ means a holder of instruments of ownership whose instruments of ownership are cancelled by means of the power referred to in point (h) of Article 63(1);
+(78)
+‘appropriate authority’ means authority of the Member State identified in accordance with Article 61 that is responsible under the national law of that State for making the determinations referred to in Article 59(3);
+(79)
+‘relevant parent institution’ means a parent institution in a Member State, a Union parent institution, a financial holding company, a mixed financial holding company, a mixed-activity holding company, a parent financial holding company in a Member State, a Union parent financial holding company, a parent mixed financial holding company in a Member State, or a Union parent mixed financial holding company, in relation to which the bail-in tool is applied;
+(80)
+‘recipient’ means the entity to which shares, other instruments of ownership, debt instruments, assets, rights or liabilities, or any combination of those items are transferred from an institution under resolution;
+(81)
+‘business day’ means a day other than a Saturday, a Sunday or a public holiday in the Member State concerned;
+(82)
+‘termination right’ means a right to terminate a contract, a right to accelerate, close out, set-off or net obligations or any similar provision that suspends, modifies or extinguishes an obligation of a party to the contract or a provision that prevents an obligation under the contract from arising that would otherwise arise;
+(83)
+‘institution under resolution’ means an institution, a financial institution, a financial holding company, a mixed financial holding company, a mixed-activity holding company, a parent financial holding company in a Member State, a Union parent financial holding company, a parent mixed financial holding company in a Member State, or a Union parent mixed financial holding company, in respect of which a resolution action is taken;
+(84)
+‘Union subsidiary’ means an institution which is established in a Member State and which is a subsidiary of a third-country institution or a third-country parent undertaking;
+(85)
+‘Union parent undertaking’ means a Union parent institution, a Union parent financial holding company or a Union parent mixed financial holding company;
+(86)
+‘third-country institution’ means an entity, the head office of which is established in a third country, that would, if it were established within the Union, be covered by the definition of an institution;
+(87)
+‘third-country parent undertaking’ means a parent undertaking, a parent financial holding company or a parent mixed financial holding company, established in a third country;
+(88)
+‘third-country resolution proceedings’ means an action under the law of a third country to manage the failure of a third-country institution or a third-country parent undertaking that is comparable, in terms of objectives and anticipated results, to resolution actions under this Directive;
+(89)
+‘Union branch’ means a branch located in a Member State of a third-country institution;
+(90)
+‘relevant third-country authority’ means a third-country authority responsible for carrying out functions comparable to those of resolution authorities or competent authorities pursuant to this Directive;
+(91)
+‘group financing arrangement’ means the financing arrangement or arrangements of the Member State of the group-level resolution authority;
+(92)
+‘back-to-back transaction’ means a transaction entered into between two group entities for the purpose of transferring, in whole or in part, the risk generated by another transaction entered into between one of those group entities and a third party;
+(93)
+‘intra-group guarantee’ means a contract by which one group entity guarantees the obligations of another group entity to a third party;
+(94)
+‘covered deposits’ means covered deposits as defined in point (5) of Article 2(1) of Directive 2014/49/EU;
+(95)
+‘eligible deposits’ means eligible deposits as defined in point (4) of Article 2(1) of Directive 2014/49/EU;
+(96)
+‘covered bond’ means an instrument as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the Council (26);
+(97)
+‘title transfer financial collateral arrangement’ means a title transfer financial collateral arrangement as defined in point (b) of Article 2(1) of Directive 2002/47/EC of the European Parliament and of the Council (27);
+(98)
+‘netting arrangement’ means an arrangement under which a number of claims or obligations can be converted into a single net claim, including close-out netting arrangements under which, on the occurrence of an enforcement event (however or wherever defined) the obligations of the parties are accelerated so as to become immediately due or are terminated, and in either case are converted into or replaced by a single net claim, including ‘close-out netting provisions’ as defined in point (n)(i) of Article 2(1) of Directive 2002/47/EC and ‘netting’ as defined in point (k) of Article 2 of Directive 98/26/EC;
+(99)
+‘set-off arrangement’ means an arrangement under which two or more claims or obligations owed between the institution under resolution and a counterparty can be set off against each other;
+(100)
+‘financial contracts’ includes the following contracts and agreements:
+(a)
+securities contracts, including:
+(i)
+contracts for the purchase, sale or loan of a security, a group or index of securities;
+(ii)
+options on a security or group or index of securities;
+(iii)
+repurchase or reverse repurchase transactions on any such security, group or index;
+(b)
+commodities contracts, including:
+(i)
+contracts for the purchase, sale or loan of a commodity or group or index of commodities for future delivery;
+(ii)
+options on a commodity or group or index of commodities;
+(iii)
+repurchase or reverse repurchase transactions on any such commodity, group or index;
+(c)
+futures and forwards contracts, including contracts (other than a commodities contract) for the purchase, sale or transfer of a commodity or property of any other description, service, right or interest for a specified price at a future date;
+(d)
+swap agreements, including:
+(i)
+swaps and options relating to interest rates; spot or other foreign exchange agreements; currency; an equity index or equity; a debt index or debt; commodity indexes or commodities; weather; emissions or inflation;
+(ii)
+total return, credit spread or credit swaps;
+(iii)
+any agreements or transactions that are similar to an agreement referred to in point (i) or (ii) which is the subject of recurrent dealing in the swaps or derivatives markets;
+(e)
+inter-bank borrowing agreements where the term of the borrowing is three months or less;
+(f)
+master agreements for any of the contracts or agreements referred to in points (a) to (e);
+(101)
+‘crisis prevention measure’ means the exercise of powers to direct removal of deficiencies or impediments to recoverability under Article 6(6), the exercise of powers to address or remove impediments to resolvability under Article 17 or 18, the application of an early intervention measure under Article 27, the appointment of a temporary administrator under Article 29 or the exercise of the write down or conversion powers under Article 59;
+(102)
+‘crisis management measure’ means a resolution action or the appointment of a special manager under Article 35 or a person under Article 51(2) or under Article 72(1);
+(103)
+‘recovery capacity’ means the capability of an institution to restore its financial position following a significant deterioration;
+(104)
+‘depositor’ means a depositor as defined in point (6) of Article 2(1) of Directive 2014/49/EU;
+(105)
+‘investor’ means an investor within the meaning of point (4) of Article 1 of Directive 97/9/EC of the European Parliament and of the Council (28);
+(106)
+‘designated national macroprudential authority’ means the authority entrusted with the conduct of macroprudential policy referred to in Recommendation B1 of the Recommendation of the European Systemic Risk Board of 22 December 2011 on the macroprudential mandate of national authorities (ESRB/2011/3);
+(107)
+‘micro, small and medium-sized enterprises’ means micro, small and medium-sized enterprises as defined with regard to the annual turnover criterion referred to in Article 2(1) of the Annex to Commission Recommendation 2003/361/EC (29);
+(108)
+‘regulated market’ means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU.
+2.   The Commission shall be empowered to adopt delegated acts in accordance with Article 115 in order to specify the criteria for the determination of the activities, services and operations referred to in point (35) of the first subparagraph as regards the definition of ‘critical functions’ and the criteria for the determination of the business lines and associated services referred to in point (36) of the first subparagraph as regards the definition of ‘core business lines’.

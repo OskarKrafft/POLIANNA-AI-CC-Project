@@ -1,0 +1,10 @@
+Article 58
+Specific additional obligations for issuers of e-money tokens
+1.   Electronic money institutions issuing significant e-money tokens shall be subject to:
+(a)
+the requirements referred to in Articles 36, 37, 38 and Article 45, (1) to (4) of this Regulation, instead of Article 7 of Directive 2009/110/EC;
+(b)
+the requirements referred to in Article 35(2), (3) and (5) and Article 45(5) of this Regulation, instead of Article 5 of Directive 2009/110/EC.
+By way of derogation from Article 36(9), the independent audit shall, in respect of issuers of significant e-money tokens, be mandated every six months as of the date of the decision to classify the e-money tokens as significant pursuant to Article 56 or 57, as applicable.
+2.   Competent authorities of the home Member States may require electronic money institutions issuing e-money tokens that are not significant to comply with any requirement referred to in paragraph 1 where necessary to address the risks that those provisions aim to address, such as liquidity risks, operational risks, or risks arising from non-compliance with requirements for management of reserve of assets.
+3.   Articles 22, 23 and 24(3) shall apply to e-money tokens denominated in a currency that is not an official currency of a Member State.

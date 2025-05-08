@@ -1,0 +1,25 @@
+Article 16
+Governance and control requirements for supervised contributors
+1.   The following governance and control requirements shall apply to a supervised contributor:
+(a)
+the supervised contributor shall ensure that the provision of input data is not affected by any existing or potential conflict of interest and that, where any discretion is required, it is independently and honestly exercised based on relevant information in accordance with the code of conduct referred to in Article 15;
+(b)
+the supervised contributor shall have in place a control framework that ensures the integrity, accuracy and reliability of input data and that input data is provided in accordance with this Regulation and the code of conduct referred to in Article 15.
+2.   A supervised contributor shall have in place effective systems and controls to ensure the integrity and reliability of all contributions of input data to the administrator, including:
+(a)
+controls regarding who may submit input data to an administrator including, where proportionate, a process for sign-off by a natural person holding a position senior to that of the submitter;
+(b)
+appropriate training for submitters, covering at least this Regulation and Regulation (EU) No 596/2014;
+(c)
+measures for the management of conflicts of interest, including organisational separation of employees where appropriate and consideration of how to remove incentives, created by remuneration polices, to manipulate a benchmark;
+(d)
+record-keeping, for an appropriate period of time, of communications in relation to provision of input data, of all information used to enable the contributor to make each submission, and of all existing or potential conflicts of interest including, but not limited to, the contributor's exposure to financial instruments which use a benchmark as a reference;
+(e)
+record-keeping of internal and external audits.
+3.   Where input data relies on expert judgement, supervised contributors shall establish, in addition to the systems and controls referred to in paragraph 2, policies guiding any use of judgement or exercise of discretion and shall retain records of the rationale for any such judgement or discretion. Where proportionate, supervised contributors shall take into account the nature of the benchmark and its input data.
+4.   A supervised contributor shall fully cooperate with the administrator and the relevant competent authority in the auditing and supervision of the provision of a benchmark and make available the information and records kept in accordance with paragraphs 2 and 3.
+5.   ESMA shall develop draft regulatory technical standards to specify further the requirements concerning governance, systems and controls, and policies set out in paragraphs 1, 2 and 3.
+ESMA shall take into account the different characteristics of benchmarks and supervised contributors, in particular in terms of differences in input data provided and methodologies used, the risks of manipulation of the input data and the nature of the activities carried out by the supervised contributors, and the developments in benchmarks and financial markets in light of international convergence of supervisory practices in relation to benchmarks. However, the ESMA draft regulatory technical standards shall not cover or apply to supervised contributors of non-significant benchmarks.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+6.   ESMA may issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010, addressed to supervised contributors to non-significant benchmarks to specify the elements referred to in paragraph 5 of this Article.

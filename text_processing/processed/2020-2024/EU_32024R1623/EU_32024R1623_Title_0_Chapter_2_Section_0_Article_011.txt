@@ -1,0 +1,5 @@
+Article 319
+Loss data thresholds
+1.   To calculate the annual operational risk loss referred to in Article 316(1), institutions shall take into account from the loss data set operational risk events with a net loss, calculated in accordance with Article 318, that are equal to or exceed EUR 20 000.
+2.   Without prejudice to paragraph 1 of this Article, and for the purposes of Article 446, institutions shall also calculate the annual operational risk loss referred to in Article 316(1), taking into account from the loss data set operational risk events with a net loss, calculated in accordance with Article 318, that are equal to or exceed EUR 100 000.
+3.   In the case of an operational risk event that leads to losses during more than one financial year, as referred to in Article 318(1), second subparagraph, the net loss to be taken into account for the thresholds referred to in paragraphs 1 and 2 of this Article shall be the aggregated net loss.

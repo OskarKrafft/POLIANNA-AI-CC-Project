@@ -1,0 +1,26 @@
+Article 4
+Share and reuse of interoperability solutions between Union entities and public sector bodies
+1.   A Union entity or public sector body shall make available to any other Union entity or public sector body that requests it an interoperability solution supporting a trans-European digital public service, including the technical documentation, and, where applicable, the version history, documented source code and the references to open standards or technical specifications used.
+The obligation to share shall not apply to any of the following interoperability solutions, namely those:
+(a)
+that support processes which fall outside the scope of the public task of the Union entity or public sector body concerned as defined by law or by other binding rules, or, in the absence of such rules, as defined in accordance with common administrative practice in the Union entities or Member State in question, provided that the scope of the public tasks is transparent and subject to review;
+(b)
+for which third parties hold intellectual property rights that restrict the possibility of sharing the solution for reuse;
+(c)
+access to which is excluded or restricted on grounds of:
+(i)
+sensitive critical infrastructure protection related information as defined in Article 2, point (d), of Council Directive 2008/114/EC (18);
+(ii)
+the protection of defence interests or public security, including national critical infrastructure.
+2.   To enable the reusing entity to manage the interoperability solution autonomously, the sharing entity shall specify any conditions that apply to the reuse of the solution, including any guarantees provided to the reusing entity with regard to cooperation, support and maintenance. Such conditions may include the exclusion of liability of the sharing entity in the case of misuse of the interoperability solution by the reusing entity. Before adopting the interoperability solution, the reusing entity shall, upon request, provide to the sharing entity an assessment of the solution covering its ability to manage autonomously the cybersecurity and the evolution of the reused interoperability solution.
+3.   The obligation in paragraph 1 may be fulfilled by publishing the relevant content on the Interoperable Europe portal or a portal, catalogue or repository connected to the Interoperable Europe portal. In that case, paragraph 2 shall not apply to the sharing entity. At the request of the sharing entity, the Commission shall publish the relevant content on the Interoperable Europe portal.
+4.   A Union entity or public sector body, or a third party reusing an interoperability solution, may adapt it to its own needs, unless intellectual property rights held by a third party restrict the adaptation of the interoperability solution. If the interoperability solution is made public pursuant to paragraph 3, the adapted interoperability solution shall be made public in the same way.
+5.   The sharing and reusing entities may conclude an agreement on sharing the costs for future developments of the interoperability solution.
+6.   When deciding on the implementation of interoperability solutions, Union entities and public sector bodies shall prioritise the implementation of interoperability solutions that do not carry restrictive licensing terms, such as open source solutions, where such interoperability solutions are equivalent in terms of functionalities, total cost, user-centricity, cybersecurity or other relevant objective criteria. The Commission shall provide support in identifying such interoperability solutions, as provided for in Article 9.
+7.   The Board shall adopt guidelines on the sharing of interoperability solutions.
+
+Chapter 2
+
+
+European Interoperability enablers
+

@@ -1,0 +1,36 @@
+Article 13
+Selection criteria
+1.   Member States shall recognise as net-zero strategic projects net-zero technology manufacturing projects located in the Union that contribute to achieving the objectives set out in Article 1, including contributing to the Union’s climate or energy targets, and fulfil at least one of the following criteria:
+(a)
+the net-zero technology manufacturing project contributes to the technological and industrial resilience of the Union’s net-zero technologies by increasing the manufacturing capacity of a component or a segment of the net-zero technology supply chain by:
+(i)
+adding manufacturing capacity in the Union for a net-zero technology, for which the Union depends for more than 50 % on imports coming from third countries;
+(ii)
+adding significant manufacturing capacity by making a substantive contribution to the 2030 climate or energy objectives of the Union; or
+(iii)
+adding manufacturing capacity or updating existing manufacturing capacity in the Union for a net-zero technology, of which the Union’s manufacturing capacity represents a significant share of world production and which plays a crucial role in the resilience of the Union;
+(b)
+the net-zero technology manufacturing project has a clear positive impact on the Union’s net-zero industry supply chain or downstream sectors by providing European net-zero industries with access to the best available net-zero technology or to products produced in a first-of-a-kind manufacturing facility, and fulfils at least one of the following criteria:
+(i)
+putting into place measures to attract, retain, upskill or reskill a workforce required for net-zero technologies, including through apprenticeships, traineeships, continuing education and training in close cooperation with regional and local authorities, education and training institutions, and social partners including trade unions;
+(ii)
+contributing to the competitiveness of SMEs as part of the supply chain of net-zero technologies;
+(c)
+the project contributes to reaching the Union’s climate or energy objectives by manufacturing net-zero technologies through practices that implement improved environmental sustainability and performance or circularity features, including comprehensive low-carbon, energy, water or material efficiency and practices that significantly and permanently reduce emission rates of CO2-eq.
+2.   By 1 March 2025, the Commission shall adopt an implementing act setting out guidelines ensuring uniform conditions for the implementation of the criteria laid down in this Article. Those guidelines shall at least include specific guidance on the criteria to be used to assess:
+(a)
+whether added manufacturing capacity concerns first-of-a-kind or best available technology manufacturing capacity;
+(b)
+whether the additional manufacturing capacity can be considered to be significant.
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 45(2).
+3.   Member States shall recognise as net-zero strategic projects CO2 storage projects that meet all of the following criteria:
+(a)
+the CO2 storage site is located in the territory of the Union, its exclusive economic zones or on its continental shelf within the meaning of the United Nations Convention on the Law of the Sea (UNCLOS);
+(b)
+the CO2 storage project contributes to reaching the objective set out in Article 20;
+(c)
+the CO2 storage project has applied for a permit for the safe and permanent geological storage of CO2, in accordance with Directive 2009/31/EC.
+Any CO2 capture project related to a CO2 storage project that fulfils the criteria referred to in the first subparagraph, and any related CO2 infrastructure project necessary for the transport of captured CO2shall also be recognised as a net-zero strategic project.
+4.   Net-zero technology manufacturing projects corresponding to a net-zero technology, located in ‘less developed and transition regions’ and Just Transition Fund territories and eligible for funding under cohesion policy rules shall be, after the award procedure has been completed, recognised by Member States as net-zero strategic projects under Article 14(3) upon the written request of the project promoter without the project promoter having to submit a formal application under Article 14(2).
+5.   A net-zero technology manufacturing project located in the Union that contributes to achieving the objectives set out in Article 1(1) and that benefits from the ETS Innovation Fund or is part of Important Projects of Common European Interest, of European Hydrogen Valleys or of the Hydrogen Bank, where the funds support investment in manufacturing capacities, shall be recognised by Member States as a net-zero strategic project under Article 14(3) upon the written request of the project promoter without the project promoter having to submit a formal application under Article 14(2).
+6.   Where a net-zero strategic project contributes to a value chain for a technology that a Member State does not accept as part of the general structure of its energy supply, that Member State may refuse to recognise that project as a strategic project. If there are net-zero technologies for which a Member State intends not to recognise projects as strategic projects, that Member State shall communicate that as soon as possible and publicly.

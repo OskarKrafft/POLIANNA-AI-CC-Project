@@ -1,0 +1,18 @@
+Article 84
+1.   In accordance with this Subsection, the competent authorities may permit credit institutions to calculate their risk-weighted exposure amounts using the Internal Ratings Based Approach (‘IRB Approach’). Explicit permission shall be required in the case of each credit institution.
+2.   Permission shall be given only if the competent authority is satisfied that the credit institution's systems for the management and rating of credit risk exposures are sound and implemented with integrity and, in particular, that they meet the following standards in accordance with Annex VII, Part 4:
+(a)
+the credit institution's rating systems provide for a meaningful assessment of obligor and transaction characteristics, a meaningful differentiation of risk and accurate and consistent quantitative estimates of risk;
+(b)
+internal ratings and default and loss estimates used in the calculation of capital requirements and associated systems and processes play an essential role in the risk management and decision-making process, and in the credit approval, internal capital allocation and corporate governance functions of the credit institution;
+(c)
+the credit institution has a credit risk control unit responsible for its rating systems that is appropriately independent and free from undue influence;
+(d)
+the credit institution collects and stores all relevant data to provide effective support to its credit risk measurement and management process; and
+(e)
+the credit institution documents its rating systems and the rationale for their design and validates its rating systems.
+Where an EU parent credit institution and its subsidiaries or an EU parent financial holding company and its subsidiaries use the IRB Approach on a unified basis, the competent authorities may allow minimum requirements of Annex VII, Part 4 to be met by the parent and its subsidiaries considered together.
+3.   A credit institution applying for the use of the IRB Approach shall demonstrate that it has been using for the IRB exposure classes in question rating systems that were broadly in line with the minimum requirements set out in Annex VII, Part 4 for internal risk measurement and management purposes for at least three years prior to its qualification to use the IRB Approach.
+4.   A credit institution applying for the use of own estimates of LGDs and/or conversion factors shall demonstrate that it has been estimating and employing own estimates of LGDs and/or conversion factors in a manner that was broadly consistent with the minimum requirements for use of own estimates of those parameters set out in Annex VII, Part 4 for at least three years prior to qualification to use own estimates of LGDs and/or conversion factors.
+5.   If a credit institution ceases to comply with the requirements set out in this Subsection, it shall either present to the competent authority a plan for a timely return to compliance or demonstrate that the effect of non-compliance is immaterial.
+6.   When the IRB Approach is intended to be used by the EU parent credit institution and its subsidiaries, or by the EU parent financial holding company and its subsidiaries, the competent authorities of the different legal entities shall cooperate closely as provided for in Articles 129 to 132.

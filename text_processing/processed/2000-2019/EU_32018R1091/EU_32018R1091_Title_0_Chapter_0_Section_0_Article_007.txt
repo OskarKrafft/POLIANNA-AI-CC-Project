@@ -1,0 +1,27 @@
+Article 7
+Module data
+1.   Member States shall collect and provide the modules on the topics and detailed topics listed in Annex IV for the following reference years:
+(a)
+‘Labour force and other gainful activities’ module for 2020, 2023 and 2026;
+(b)
+‘Rural development’ module for 2020, 2023 and 2026;
+(c)
+‘Animal housing and manure management’ module for 2020 and 2026;
+(d)
+‘Irrigation’ module for 2023;
+(e)
+‘Soil management practices’ module for 2023;
+(f)
+‘Machinery and equipment’ module for 2023;
+(g)
+‘Orchard’ module for 2023;
+(h)
+‘Vineyard’ module for 2026.
+2.   The scope of those data collections shall include the agricultural holdings referred to in Article 3(2) and (3).
+3.   The data collection of modules may be carried out on samples of agricultural holdings. In that case Member States shall ensure that the weighted results are statistically representative of agricultural holdings within each region and are designed to meet the precision requirements set out in Annex V.
+4.   The modules shall be collected from sub-samples of the agricultural holdings for which core data is collected. The modules shall reflect the situation in the reference year but may be based on the year directly preceding or following the reference year for the modules referred to in points (f), (g) and (h) of paragraph 1 of this Article. In any case, each record providing information on modules shall be accompanied by the core data listed in Annex III.
+5.   Member States with at least 1 000 hectares of any of the individual crops, referred to under the detailed topics of the ‘Orchard’ module in Annex IV, producing entirely or mainly for the market, shall carry out the ‘Orchard’ module for that particular crop.
+6.   Member States with at least 1 000 hectares of vineyards planted with vines with grapes for wine, producing entirely or mainly for the market shall carry out the ‘Vineyard’ module.
+7.   Member States with less than 2 % irrigable area of the UAA, and with no NUTS 2 level regions with at least 5 % of irrigable area of the UAA, shall be exempted from carrying out the ‘Irrigation’ module.
+8.   The Member States shall inform the Commission (Eurostat) of cases referred to in paragraphs 5, 6 and 7 by the end of June of the year preceding the respective reference year.
+9.   When a variable has a low or zero prevalence in a Member State, that variable may be excluded from the data collection subject to providing information duly justifying the exclusion to the Commission (Eurostat) in the calendar year preceding the reference year.

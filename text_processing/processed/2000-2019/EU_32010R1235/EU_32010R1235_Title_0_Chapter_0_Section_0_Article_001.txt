@@ -1,0 +1,113 @@
+Article 1
+Amendments to Regulation (EC) No 726/2004
+Regulation (EC) No 726/2004 is hereby amended as follows:
+1.
+in Article 5(2) the following sentence is added:
+
+                        ‘For the fulfilment of its pharmacovigilance tasks, including the approval of risk management systems and monitoring their effectiveness provided for under this Regulation, the Committee for Medicinal Products for Human Use shall rely on the scientific assessment and recommendations of the Pharmacovigilance Risk Assessment Committee referred to in Article 56(1)(aa).’;
+2.
+Article 9(4) is amended as follows:
+(a)
+the following point is inserted:
+‘(aa)
+a recommendation on the frequency of submission of periodic safety update reports;’;
+(b)
+the following points are inserted:
+‘(ca)
+details of any recommended measures for ensuring the safe use of the medicinal product to be included in the risk management system;
+(cb)
+if appropriate, details of any recommended obligation to conduct post-authorisation safety studies or to comply with obligations on the recording or reporting of suspected adverse reactions which are stricter than those referred to in Chapter 3;
+(cc)
+if appropriate, details of any recommended obligation to conduct post-authorisation efficacy studies where concerns relating to some aspects of the efficacy of the medicinal product are identified and can be resolved only after the medicinal product has been marketed. Such an obligation to conduct such studies shall be based on the delegated acts adopted pursuant to Article 10b while taking into account the scientific guidance referred to in Article 108a of Directive 2001/83/EC;’;
+(c)
+point (e) is replaced by the following:
+‘(e)
+the assessment report as regards the results of the pharmaceutical and pre-clinical tests and of the clinical trials, and as regards the risk management system and the pharmacovigilance system for the medicinal product concerned.’;
+3.
+Article 10 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Within 15 days after receipt of the opinion referred to in Article 5(2), the Commission shall prepare a draft of the decision to be taken in respect of the application.
+Where a draft decision envisages the granting of a marketing authorisation, it shall include or make reference to the documents mentioned in points (a) to (d) of Article 9(4).
+Where a draft decision envisages the granting of a marketing authorisation subject to the conditions referred to in points (c), (ca), (cb), or (cc) of Article 9(4), it shall lay down deadlines for the fulfilment of the conditions, where necessary.
+Where the draft decision differs from the opinion of the Agency, the Commission shall attach a detailed explanation of the reasons for the differences.
+The draft decision shall be forwarded to Member States and the applicant.’;
+(b)
+paragraph 6 is replaced by the following:
+‘6.   The Agency shall disseminate the documents referred to in points (a) to (d) of Article 9(4), together with any deadlines laid down pursuant to the third subparagraph of paragraph 1 of this Article.’;
+4.
+the following Articles are inserted:
+‘Article 10a
+1.   After the granting of a marketing authorisation, the Agency may impose an obligation on the marketing authorisation holder:
+(a)
+to conduct a post-authorisation safety study if there are concerns about the risks of an authorised medicinal product. If the same concerns apply to more than one medicinal product, the Agency shall, following consultation with the Pharmacovigilance Risk Assessment Committee, encourage the marketing authorisation holders concerned to conduct a joint post-authorisation safety study;
+(b)
+to conduct a post-authorisation efficacy study when the understanding of the disease or the clinical methodology indicate that previous efficacy evaluations might have to be revised significantly. The obligation to conduct the post-authorisation efficacy study shall be based on the delegated acts adopted pursuant to Article 10b while taking into account the scientific guidance referred to in Article 108a of Directive 2001/83/EC.
+The imposition of such an obligation shall be duly justified, notified in writing, and shall include the objectives and timeframe for submission and conduct of the study.
+2.   The Agency shall provide the marketing authorisation holder with an opportunity to present written observations in response to the imposition of the obligation within a time limit which it shall specify, if the marketing authorisation holder so requests within 30 days of receipt of the written notification of the obligation.
+3.   On the basis of the written observations submitted by the marketing authorisation holder, and of the opinion of the Agency, the Commission shall withdraw or confirm the obligation. Where the Commission confirms the obligation, the marketing authorisation shall be varied to include the obligation as a condition of the marketing authorisation and the risk management system shall be updated accordingly.
+Article 10b
+1.   In order to determine the situations in which post-authorisation efficacy studies may be required under point (cc) of Article 9(4) and point (b) of Article 10a(1) of this Regulation, the Commission may adopt, by means of delegated acts in accordance with Article 87b, and subject to the conditions of Articles 87c and 87d, measures supplementing the provisions in point (cc) of Article 9(4) and point (b) of Article 10a(1).
+2.   When adopting such delegated acts, the Commission shall act in accordance with the provisions of this Regulation.’;
+5.
+Article 14 is amended as follows:
+(a)
+the second subparagraph of paragraph 2 is replaced by the following:
+‘To this end, the marketing authorisation holder shall provide the Agency with a consolidated version of the file in respect of quality, safety and efficacy, including the evaluation of data contained in suspected adverse reactions reports and periodic safety update reports submitted in accordance with Chapter 3, and information on all variations introduced since the marketing authorisation was granted, at least 9 months before the marketing authorisation ceases to be valid in accordance with paragraph 1.’;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   Once renewed, the marketing authorisation shall be valid for an unlimited period, unless the Commission decides, on justified grounds relating to pharmacovigilance, including exposure of an insufficient number of patients to the medicinal product concerned, to proceed with one additional five-year renewal in accordance with paragraph 2.’;
+(c)
+paragraph 8 is replaced by the following:
+‘8.   In exceptional circumstances and following consultation with the applicant, the marketing authorisation may be granted subject to certain conditions, in particular relating to the safety of the medicinal product, notification to the competent authorities of any incident relating to its use, and action to be taken. The marketing authorisation may be granted only when the applicant can show that he is unable to provide comprehensive data on the efficacy and safety of the medicinal product under normal conditions of use, for objective, verifiable reasons and must be based on one of the grounds set out in Annex I to Directive 2001/83/EC. Continuation of the marketing authorisation shall be linked to the annual reassessment of these conditions.’;
+6.
+the following Article is inserted:
+‘Article 14a
+The marketing authorisation holder shall incorporate any conditions referred to in points (c), (ca), (cb) and (cc) of Article 9(4) or in Article 10a, or in Article 14(7) and (8) in his risk management system.’;
+7.
+Article 16 is replaced by the following:
+‘Article 16
+1.   After a marketing authorisation has been granted in accordance with this Regulation, the marketing authorisation holder shall, in respect of the methods of manufacture and control provided for in points (d) and (h) of Article 8(3) of Directive 2001/83/EC, take account of scientific and technical progress and introduce any changes that may be required to enable the medicinal product to be manufactured and checked by means of generally accepted scientific methods. He shall apply for approval of corresponding variations in accordance with this Regulation.
+2.   The marketing authorisation holder shall forthwith provide the Agency, the Commission and the Member States with any new information which might entail the amendment of the particulars or documents referred to in Article 8(3), Article 10, 10a, 10b and 11, or Article 32(5) of Directive 2001/83/EC, in Annex I thereto, or in Article 9(4) of this Regulation.
+In particular, the marketing authorisation holder shall forthwith inform the Agency and the Commission of any prohibition or restriction imposed by the competent authorities of any country in which the medicinal product is marketed and of any other new information which might influence the evaluation of the benefits and risks of the medicinal product concerned. The information shall include both positive and negative results of clinical trials or other studies in all indications and populations, whether or not included in the marketing authorisation, as well as data on the use of the medicinal product where such use is outside the terms of the marketing authorisation.
+3.   The marketing authorisation holder shall ensure that the product information is kept up to date with the current scientific knowledge including the conclusions of the assessment and recommendations made public by means of the European medicines web-portal established in accordance with Article 26.
+4.   In order to be able to continuously assess the risk-benefit balance, the Agency may at any time ask the marketing authorisation holder to forward data demonstrating that the risk-benefit balance remains favourable. The marketing authorisation holder shall answer fully and promptly any such request.
+The Agency may at any time ask the marketing authorisation holder to submit a copy of the pharmacovigilance system master file. The marketing authorisation holder shall submit the copy at the latest 7 days after receipt of the request.’;
+8.
+Article 18 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   In the case of medicinal products manufactured within the Union, the supervisory authorities for manufacturing shall be the competent authorities of the Member State or Member States which granted the manufacturing authorisation provided for in Article 40(1) of Directive 2001/83/EC in respect of the medicinal product concerned.’;
+(b)
+in paragraph 2, the first subparagraph is replaced by the following:
+‘In the case of medicinal products imported from third countries, the supervisory authorities for imports shall be the competent authorities of the Member State or Member States that granted the authorisation provided for in Article 40(3) of Directive 2001/83/EC to the importer, unless appropriate agreements have been made between the Union and the exporting country to ensure that those controls are carried out in the exporting country and that the manufacturer applies standards of good manufacturing practice at least equivalent to those laid down by the Union.’;
+(c)
+the following paragraph is added:
+‘3.   The supervisory authority for pharmacovigilance shall be the competent authority of the Member State in which the pharmacovigilance system master file is located.’;
+9.
+Article 19 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   The supervisory authorities for manufacturing and imports shall be responsible for verifying on behalf of the Union that the marketing authorisation holder for the medicinal product or the manufacturer or importer established within the Union satisfies the requirements concerning manufacturing and imports laid down in Titles IV and XI of Directive 2001/83/EC.
+The supervisory authorities for pharmacovigilance shall be responsible for verifying on behalf of the Union that the marketing authorisation holder for the medicinal product satisfies the pharmacovigilance requirements laid down in Titles IX and XI of Directive 2001/83/EC. They may, if this is considered necessary, conduct pre-authorisation inspections to verify the accuracy and successful implementation of the pharmacovigilance system as it has been described by the applicant in support of his application.’;
+(b)
+in paragraph 3, the second subparagraph is replaced by the following:
+‘The inspection shall be undertaken by inspectors from the Member States who possess the appropriate qualifications. They may be accompanied by a rapporteur or expert appointed by the Committee referred to in paragraph 2. The report of the inspectors shall be made available electronically to the Commission, the Member States and the Agency.’;
+10.
+Article 20 is amended as follows:
+(a)
+paragraph 3 is replaced by the following:
+‘3.   Following an opinion by the Agency, the Commission shall adopt the necessary provisional measures, which shall be applied immediately.
+A final decision in respect of the medicinal product concerned shall be adopted within 6 months, in accordance with the regulatory procedure referred to in Article 87(2).
+The Commission may also adopt a decision addressed to the Member States pursuant to Article 127a of Directive 2001/83/EC.’;
+(b)
+the following paragraphs are added:
+‘8.   Notwithstanding paragraphs 1 to 7 of this Article, the Union procedures laid down in Article 31 and Article 107i of Directive 2001/83/EC shall apply, as appropriate, where the reason for the Member State or the Commission to consider taking decisions or measures referred to in this Article is based on the evaluation of data resulting from pharmacovigilance activities.
+9.   By way of derogation from paragraphs 1 to 7 of this Article, where a procedure under Article 31 or Articles 107i to 107k of Directive 2001/83/EC concerns a range of medicinal products or a therapeutic class, medicinal products that are authorised in accordance with this Regulation and that belong to that range or class shall only be included in the procedure under Article 31, or Articles 107i to 107k of that Directive.’;
+11.
+Chapter 3 of Title II is replaced by the following:
+
+                                       ‘CHAPTER 3
+
+PHARMACOVIGILANCE
+

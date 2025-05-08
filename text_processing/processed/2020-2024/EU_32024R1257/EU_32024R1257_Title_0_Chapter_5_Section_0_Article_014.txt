@@ -1,0 +1,94 @@
+Article 14
+Procedures and tests
+1.   Procedures for the emission type-approval shall include tests and checks as specified in Annex V as well as all administrative procedures and documentation requirements. For the purpose of demonstrating compliance with the requirements specified in Annex V, where applicable, manufacturers shall provide a declaration of compliance to the approval authority.
+2.   Tests to demonstrate compliance with the requirements of this Regulation shall be performed by manufacturers and national authorities as specified in Annex V. Tests to demonstrate compliance with the requirements of this Regulation may be performed by the Commission and recognised third parties as specified in Annex V. Where a test is specified as optional in Tables 1, 3, 5, 7, 9 and 11 of Annex V, the approval authority may request that the specified test is performed.
+The tests specified in Tables 1, 3, 5, 7, 9 and 11 of Annex V are to be performed by manufacturers. The tests specified in Tables 2, 4, 6, 8, 10 and 12 of Annex V are to be performed by the national authorities, the Commission and recognised third parties.
+3.   The Commission shall adopt implementing acts setting out procedures and testing methodologies, administrative provisions, procedures and methodologies for amending and extending emission type-approvals and data access, documentation requirements and templates for emission type-approval, conformity of production, in-service conformity and market surveillance, for all of the following:
+(a)
+types of vehicles of categories M1 and N1;
+(b)
+types of vehicles of categories M2, M3, N2 and N3;
+(c)
+engines used in types of vehicles of categories M2, M3, N2 and N3;
+(d)
+OBM and OBD systems;
+(e)
+excess emissions driver warning system;
+(f)
+low-reagent driver warning system;
+(g)
+anti-tampering, security and cybersecurity systems;
+(h)
+replacement pollution control systems types and their parts;
+(i)
+brake system types and their replacement parts, in respect to particle emissions;
+(j)
+C1, C2 and C3 class tyres, in respect to tyre abrasion;
+(k)
+other component types and their replacement parts;
+(l)
+CO2 emissions, fuel and electric energy consumption, electric range and power determination for vehicles of categories M1 and N1, provisions for OBFCM devices;
+(m)
+CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and power determination for vehicles of categories M2, M3, N2 and N3, energy efficiency of trailers of categories O3 and O4, provisions for OBFCM devices.
+4.   The Commission shall adopt implementing acts for the emission type-approval, in-service conformity, conformity of production and market surveillance, to lay down the following:
+(a)
+the methods to measure exhaust emissions in the laboratory and on the road as per usual use for real world driving and the use of portable emissions measurement systems for verifying real driving emissions;
+(b)
+the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and power of a motor vehicle;
+(c)
+the methods, requirements and technical specifications for gear shift indicators;
+(d)
+the methods to determine the energy efficiency of trailers of categories O3 and O4;
+(e)
+the methods to measure crankcase emissions;
+(f)
+the methods to measure evaporative emissions;
+(g)
+the methods to measure brake particle emissions including methods for vehicles of categories M2, M3, N2 and N3, real driving brake particle emissions and regenerative braking;
+(h)
+the methods to measure tyre abrasion;
+(i)
+the methods to evaluate compliance with minimum performance requirements of battery durability;
+(j)
+the methods, requirements and tests, including compliance thresholds, to ensure performance of OBFCM devices, OBD and OBM systems and the sensors of such devices and systems, as well as off-board communication of data recorded by such devices and systems;
+(k)
+the characteristics and performance of driver warning-systems and inducement methods and methods to assess their operation;
+(l)
+the methods to assess the operation, effectiveness, regeneration and durability of original and replacement pollution control systems;
+(m)
+the methods to ensure and assess compliance with Article 4(5), including the methodology for the vulnerability analysis and tampering protection;
+(n)
+the methods to evaluate compliance with requirements for emission type approvals applicable to vehicles constructed by small- and ultra-small-volume manufacturers as set out in Article 8 and test procedures for such vehicles;
+(o)
+the methods to assess the functioning of vehicle types approved under the designations referred to in Article 5;
+(p)
+the checks for compliance with Article 9 (1) and (2) and test procedures for multi-stage vehicles;
+(q)
+the performance requirements for test equipment;
+(r)
+the specifications of reference fuels used for testing;
+(s)
+the methods for establishing the absence of manipulation devices and manipulation strategies;
+(t)
+the format and data and off-board communication methods for the EVP, and methods for in-vehicle display of environmental data about the vehicle type and the environmental performance of the individual vehicle;
+(u)
+the administrative and documentation requirements for emission type-approval, conformity of production, in service conformity and market surveillance;
+(v)
+reporting obligations, where appropriate.
+5.   Thе implementing acts referred to in paragraphs 3 and 4 of this Article shall be adopted in accordance with the examination procedure referred to in Article 17(2).
+6.   Any implementing act referred to in paragraphs 3 and 4 shall cover one or more of the items referred to in paragraph 3, points (a) to (m), combined with one or more of the items referred to in paragraph 4, points (a) to (v).
+7.   For implementing acts referred to in paragraphs 3 and 4 of this Article, as regards categories M1 and N1, the methods for measuring pollutant exhaust emissions and evaporative emissions shall reflect those laid down in Regulation (EU) 2017/1151, as applicable at the moment of adoption of the relevant implementing act.
+8.   By 29 May 2025 the Commission shall adopt for vehicles of categories M1 and N1, as referred to in paragraph 3, point (a), the following implementing acts:
+(a)
+with respect to pollutant emissions, as referred to in paragraph 4, points (a), (e), (f), (k), (q), (r), (s), (t), (u) and (v);
+(b)
+with respect to the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range, vehicle power as well as performance of OBFCM devices, as referred to in paragraph 4, points (b), (c) and (j);
+(c)
+with respect to the OBM and OBD systems, as referred to in paragraph 4, points (j) and (k).
+9.   By 29 November 2026, the Commission shall adopt, for vehicles of categories M2, M3, N2 and N3, as referred to in paragraph 3, points (b) and (c), respectively, and their engines, as well as for trailers of categories O3 and O4, the following implementing acts:
+(a)
+with respect to pollutant emissions, as referred to in paragraph 4, points (a), (e), (k), (q), (r), (s), (t), (u) and (v);
+(b)
+with respect to the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range, vehicle power as well as the performance of OBFCM devices, as referred to in paragraph 4, points (b), (d) and (j);
+(c)
+with respect to the OBM and OBD systems, as referred to in paragraph 4, points (j) and (k).

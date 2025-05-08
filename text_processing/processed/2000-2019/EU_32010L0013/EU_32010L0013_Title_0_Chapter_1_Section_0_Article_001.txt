@@ -1,0 +1,49 @@
+Article 1
+1.   For the purposes of this Directive, the following definitions shall apply:
+(a)
+‘audiovisual media service’ means:
+(i)
+a service as defined by Articles 56 and 57 of the Treaty on the Functioning of the European Union which is under the editorial responsibility of a media service provider and the principal purpose of which is the provision of programmes, in order to inform, entertain or educate, to the general public by electronic communications networks within the meaning of point (a) of Article 2 of Directive 2002/21/EC. Such an audiovisual media service is either a television broadcast as defined in point (e) of this paragraph or an on-demand audiovisual media service as defined in point (g) of this paragraph;
+(ii)
+audiovisual commercial communication;
+(b)
+‘programme’ means a set of moving images with or without sound constituting an individual item within a schedule or a catalogue established by a media service provider and the form and content of which are comparable to the form and content of television broadcasting. Examples of programmes include feature-length films, sports events, situation comedies, documentaries, children’s programmes and original drama;
+(c)
+‘editorial responsibility’ means the exercise of effective control both over the selection of the programmes and over their organisation either in a chronological schedule, in the case of television broadcasts, or in a catalogue, in the case of on-demand audiovisual media services. Editorial responsibility does not necessarily imply any legal liability under national law for the content or the services provided;
+(d)
+‘media service provider’ means the natural or legal person who has editorial responsibility for the choice of the audiovisual content of the audiovisual media service and determines the manner in which it is organised;
+(e)
+‘television broadcasting’ or ‘television broadcast’ (i.e. a linear audiovisual media service) means an audiovisual media service provided by a media service provider for simultaneous viewing of programmes on the basis of a programme schedule;
+(f)
+‘broadcaster’ means a media service provider of television broadcasts;
+(g)
+‘on-demand audiovisual media service’ (i.e. a non-linear audiovisual media service) means an audiovisual media service provided by a media service provider for the viewing of programmes at the moment chosen by the user and at his individual request on the basis of a catalogue of programmes selected by the media service provider;
+(h)
+‘audiovisual commercial communication’ means images with or without sound which are designed to promote, directly or indirectly, the goods, services or image of a natural or legal entity pursuing an economic activity. Such images accompany or are included in a programme in return for payment or for similar consideration or for self-promotional purposes. Forms of audiovisual commercial communication include, inter alia, television advertising, sponsorship, teleshopping and product placement;
+(i)
+‘television advertising’ means any form of announcement broadcast whether in return for payment or for similar consideration or broadcast for self-promotional purposes by a public or private undertaking or natural person in connection with a trade, business, craft or profession in order to promote the supply of goods or services, including immovable property, rights and obligations, in return for payment;
+(j)
+‘surreptitious audiovisual commercial communication’ means the representation in words or pictures of goods, services, the name, the trade mark or the activities of a producer of goods or a provider of services in programmes when such representation is intended by the media service provider to serve as advertising and might mislead the public as to its nature. Such representation shall, in particular, be considered as intentional if it is done in return for payment or for similar consideration;
+(k)
+‘sponsorship’ means any contribution made by public or private undertakings or natural persons not engaged in providing audiovisual media services or in the production of audiovisual works, to the financing of audiovisual media services or programmes with a view to promoting their name, trade mark, image, activities or products;
+(l)
+‘teleshopping’ means direct offers broadcast to the public with a view to the supply of goods or services, including immovable property, rights and obligations, in return for payment;
+(m)
+‘product placement’ means any form of audiovisual commercial communication consisting of the inclusion of or reference to a product, a service or the trade mark thereof so that it is featured within a programme, in return for payment or for similar consideration;
+(n)
+‘European works’ means the following:
+(i)
+works originating in Member States;
+(ii)
+works originating in European third States party to the European Convention on Transfrontier Television of the Council of Europe and fulfilling the conditions of paragraph 3;
+(iii)
+works co-produced within the framework of agreements related to the audiovisual sector concluded between the Union and third countries and fulfilling the conditions defined in each of those agreements.
+2.   The application of the provisions of points (n)(ii) and (iii) of paragraph 1 shall be conditional on works originating in Member States not being the subject of discriminatory measures in the third country concerned.
+3.   The works referred to in points (n)(i) and (ii) of paragraph 1 are works mainly made with authors and workers residing in one or more of the States referred to in those provisions provided that they comply with one of the following three conditions:
+(i)
+they are made by one or more producers established in one or more of those States;
+(ii)
+the production of the works is supervised and actually controlled by one or more producers established in one or more of those States;
+(iii)
+the contribution of co-producers of those States to the total co-production costs is preponderant and the co-production is not controlled by one or more producers established outside those States.
+4.   Works that are not European works within the meaning of point (n) of paragraph 1 but that are produced within the framework of bilateral co-production agreements concluded between Member States and third countries shall be deemed to be European works provided that the co-producers from the Union supply a majority share of the total cost of production and that the production is not controlled by one or more producers established outside the territory of the Member States.

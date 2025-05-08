@@ -1,0 +1,45 @@
+Article 14
+Environmental Labelling Scheme
+1.   A voluntary environmental labelling scheme enabling the environmental performance of flights to be measured is hereby established.
+2.   Labels issued pursuant to this Article shall apply to aircraft operators falling within the scope of this Regulation for flights covered by this Regulation departing from Union airports. Where an aircraft operator requests the issuance of a label under this Article, it shall request such a label for all its flights covered by this Regulation departing from Union airports.
+Aircraft operators may request the issuance of labels under this Article also for their flights covered by this Regulation arriving at Union airports. Where an aircraft operator requests the issuance of a label under this subparagraph, it shall request such a label for all its flights arriving at Union airports.
+3.   Labels issued pursuant to this Article shall certify the level of environmental performance of a flight on the basis of the information referred to in the second subparagraph of this paragraph. The level of environmental performance of a flight shall be determined on the basis of the average environmental performance of the flights carried out by a given aircraft operator on a specific route for the previous corresponding scheduling period within the meaning of Article 2, point (d), of Regulation (EEC) No 95/93.
+Labels issued pursuant to this Article shall consist of the following information:
+(a)
+the expected carbon footprint per passenger, expressed in metrics such as in kilograms of CO2 per passenger, for the period of validity of the label;
+(b)
+the expected CO2 efficiency per kilometre, expressed in metrics such as in grams of CO2 per passenger per kilometre, for the period of validity of the label.
+4.   The expected carbon footprint per passenger and the expected CO2 efficiency per kilometre of a flight shall be determined by the Agency on the basis of a standardised and science-based methodology and the information from the aircraft operators concerning all or some of the following factors:
+(a)
+the types of aircraft, average number of passengers and freight loads supplemented when needed with estimations of those factors, such as the average load factors for the specified route for a given time period; and
+(b)
+the performance of the fuel used on the flights carried out by the aircraft operator based on the fuel uptake and using metrics such as the total amount of SAF uplifted, the percentage over the total fuel uptake, the quality and origin, the composition and the lifecycle emissions from fuel use calculated for the flight.
+5.   Labels issued pursuant to this Article shall be valid for a limited period not exceeding one year specified in the implementing acts referred to in paragraph 11, point (c). The period of validity of the label shall be clearly displayed by the aircraft operator together with the label.
+6.   The Agency shall issue labels at the request of an aircraft operator for each flight or set of flights operated under the same conditions, on the basis of the information referred to in paragraph 3 and the standardised and science-based methodology and factors referred to in paragraph 4.
+The Agency may require the aircraft operator to provide additional information necessary for the issuance of the label.
+Where the aircraft operator does not submit all the information necessary for the Agency to issue the requested label, the Agency shall reject the request.
+An appeal may be brought by the aircraft operator against decisions of the Agency taken pursuant to this paragraph and paragraph 7 of this Article. Such appeal shall be filed to the Board of Appeal referred to in Article 105 of Regulation (EU) 2018/1139 of the European Parliament and of the Council (18) within 10 days of notification of the decision. Articles 106 and 107, Article 108(2) and (3), and Articles 111, 112, 113 and 114 of Regulation (EU) 2018/1139 shall apply. Any decision taken by the Agency pursuant to this paragraph shall be taken without undue delay.
+7.   The Agency shall review periodically whether the factors on the basis of which a label was issued for each flight or set of flights operated under the same conditions have changed. If the Agency concludes that a label is no longer appropriate, it shall, after giving the operator the opportunity to be heard revoke the existing label or issue a new label. The Agency shall inform the aircraft operator of its decision.
+The aircraft operator shall without any delay adjust the display of the label accordingly.
+8.   Aircraft operators that have been granted a label pursuant to paragraph 6 shall display the label containing the information referred to in paragraph 3, second subparagraph. The label shall be easily accessible and understandable. It shall be presented in a way that enables customers to easily compare the environmental performance of flights operated by different aircraft operators flying the same route. Where an aircraft operator displays the label at a point of sale or any other contact with the customers, they shall do so for all flights within scope of this Regulation.
+9.   In order to finance the costs of the service provided by the Agency, the issuing of a label at the request of an aircraft operator shall be subject to the payment of a charge. The revenues generated from such charges shall constitute other revenues within the meaning of Article 120(1) of Regulation (EU) 2018/1139 and shall be treated as assigned revenues to be allocated by the Agency to cover those costs. Article 126(2) and (3) of Regulation (EU) 2018/1139 shall apply. The amount of the charge shall be defined pursuant to Article 126(4) of Regulation (EU) 2018/1139.
+10.   As part of its tasks in the field of environmental protection as set out in Article 87(2) of Regulation (EU) 2018/1139, the Agency shall contribute to raising awareness of the existence of the labelling scheme set up by this Article.
+11.   In order to ensure the uniform implementation and compliance with the rules set out in this Article, the Commission shall adopt by 1 January 2025 implementing acts laying down detailed provisions concerning:
+(a)
+the standardised and science-based methodology referred to in paragraph 4, based on the best available scientific data, in particular the data provided by the Agency and including the methodology for using estimations referred to in paragraph 4, point (a);
+(b)
+the procedure through which aircraft operators are to provide the Agency with the relevant information for the issuance of a label, and the procedure for the Agency to issue that label, including the time-limit by which the Agency is to take a decision pursuant to paragraph 6;
+(c)
+the duration of the validity of labels issued pursuant to this Article, not exceeding one year;
+(d)
+the conditions under which the Agency is to carry out the review referred to in paragraph 7;
+(e)
+the procedure mentioned in paragraph 7 through which the Agency can either revoke existing labels or issue a new label;
+(f)
+the templates for displaying labels issued pursuant to this Article;
+(g)
+ensuring an easy access to all issued labels in machine-readable format;
+(h)
+the possibility and conditions under which aircraft operators may display, without using a label under this Article, any environmental performance information similar to the one referred to in paragraph 3 for flights departing from Union airports.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(3).
+12.   By 1 July 2027, the Commission shall identify and assess the developments on the functioning of the labelling scheme set up by this Article as well as possible improvements or additional measures to such scheme, with a view in particular to establish a compulsory environmental labelling scheme encompassing all aspects of the environmental performance of flights or set of flights and the different decarbonisation measures that aircraft operators take, in full compliance with Union law. The Commission shall present a report with the main findings of the assessment carried out pursuant to this paragraph to the European Parliament and to the Council. It may, where appropriate, accompany that report with a legislative proposal.

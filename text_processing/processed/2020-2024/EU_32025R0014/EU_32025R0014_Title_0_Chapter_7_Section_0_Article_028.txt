@@ -1,0 +1,36 @@
+Article 28
+Certificate of conformity
+1.   The manufacturer shall issue a certificate of conformity to accompany each non-road mobile machinery that is manufactured in conformity with the EU type-approved non-road mobile machinery.
+2.   The certificate of conformity shall be delivered free of charge to the user together with the non-road mobile machinery. Its delivery may not be made dependent on an explicit request or the submission of additional information to the holder of the EU type-approval.
+3.   The certificate of conformity may be provided either in paper or in electronic format.
+However, if the purchaser requests, at the time of the purchase of the non-road mobile machinery, a paper format of that certificate, that certificate shall be provided by the manufacturer in paper format, free of charge.
+4.   The approval authority receiving the certificate of conformity, as structured data in electronic format, shall:
+(a)
+ensure that it can be accessed by the approval authorities, market surveillance authorities and registration authorities of the Member States and by the Commission; and
+(b)
+provide read-only access.
+Member States shall establish the organisation and structure of their data network to enable data reception of the certificates of conformity, preferably by making use of existing systems for the exchange of structured data.
+5.   For a period of 10 years after the production date of the non-road mobile machinery, the manufacturer shall, at the request of the non-road mobile machinery owner, issue a duplicate of the certificate of conformity against a payment not exceeding the cost of issuing it. The word ‘duplicate’ shall be clearly visible, in the language that the certificate of conformity was drawn up, on the face of any duplicate certificate.
+6.   The manufacturer shall use the template in paper and electronic formats for the certificate of conformity adopted by the Commission by means of implementing acts referred to in paragraph 7.
+All data exchange in accordance with this Article shall be performed by means of secure data exchange protocols specified in implementing acts referred to in paragraph 8.
+7.   The Commission shall adopt implementing acts concerning the certificate of conformity in paper format, setting out, in particular:
+(a)
+the template for the certificate of conformity;
+(b)
+the security elements to prevent forgery of the certificate of conformity; and
+(c)
+the specification concerning the manner of signing of the certificate of conformity.
+The implementing acts referred to in this paragraph shall be adopted in accordance with the examination procedure referred to in Article 49(2).
+8.   The Commission shall, taking into account the data required to be provided on the certificate of conformity in paper format, adopt implementing acts concerning certificates of conformity in electronic format setting out, in particular:
+(a)
+the basic format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange;
+(b)
+minimum requirements for secure data exchange, including the prevention of data corruption and data misuse, and measures to guarantee the authenticity of the electronic data, such as the use of digital signatures;
+(c)
+the means of exchange of the data of the certificate of conformity in electronic format.
+The implementing acts referred to in this paragraph shall be adopted in accordance with the examination procedure referred to in Article 49(2).
+9.   The certificate of conformity shall be drawn up in an official language of a Member State. Any approval authority may request the manufacturer to have the certificate of conformity translated into the official languages of its Member State.
+10.   The person authorised to sign certificates of conformity shall be within the organisation of the manufacturer and duly authorised by the management to fully engage the legal responsibility of the manufacturer with respect to the design and the construction, or to the conformity, of the production of the non-road mobile machinery.
+11.   The certificate of conformity shall be completed in its entirety and shall not contain restrictions as regards the use of the non-road mobile machinery other than those provided for in this Regulation.
+12.   The certificate of conformity shall, for non-road mobile machinery approved in accordance with Article 30(2), display in its title the phrase ‘For non-road mobile machinery, type-approved in accordance with Article 30(2) of Regulation (EU) 2025/14 of the European Parliament and of the Council of 19 December 2024 on the approval and market surveillance of non-road mobile machinery circulating on public roads and amending Regulation (EU) 2019/1020’.
+13.   Without prejudice to paragraph 1, the manufacturer may transmit the certificate of conformity to the registration authority of any Member State by electronic means.

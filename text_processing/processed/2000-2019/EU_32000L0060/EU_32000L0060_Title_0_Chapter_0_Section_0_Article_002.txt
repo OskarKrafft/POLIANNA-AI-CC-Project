@@ -1,0 +1,50 @@
+Article 2
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1. "Surface water" means inland waters, except groundwater; transitional waters and coastal waters, except in respect of chemical status for which it shall also include territorial waters.
+2. "Groundwater" means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil.
+3. "Inland water" means all standing or flowing water on the surface of the land, and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured.
+4. "River" means a body of inland water flowing for the most part on the surface of the land but which may flow underground for part of its course.
+5. "Lake" means a body of standing inland surface water.
+6. "Transitional waters" are bodies of surface water in the vicinity of river mouths which are partly saline in character as a result of their proximity to coastal waters but which are substantially influenced by freshwater flows.
+7. "Coastal water" means surface water on the landward side of a line, every point of which is at a distance of one nautical mile on the seaward side from the nearest point of the baseline from which the breadth of territorial waters is measured, extending where appropriate up to the outer limit of transitional waters.
+8. "Artificial water body" means a body of surface water created by human activity.
+9. "Heavily modified water body"
+means a body of surface water which as a result of physical alterations by human activity is substantially changed in character, as designated by the Member State in accordance with the provisions of Annex II.
+10. "Body of surface water" means a discrete and significant element of surface water such as a lake, a reservoir, a stream, river or canal, part of a stream, river or canal, a transitional water or a stretch of coastal water.
+11. "Aquifer" means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater.
+12. "Body of groundwater" means a distinct volume of groundwater within an aquifer or aquifers.
+13. "River basin" means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly, lakes into the sea at a single river mouth, estuary or delta.
+14. "Sub-basin" means the area of land from which all surface run-off flows through a series of streams, rivers and, possibly, lakes to a particular point in a water course (normally a lake or a river confluence).
+15. "River basin district" means the area of land and sea, made up of one or more neighbouring river basins together with their associated groundwaters and coastal waters, which is identified under Article 3(1) as the main unit for management of river basins.
+16. "Competent Authority" means an authority or authorities identified under Article 3(2) or 3(3).
+17. "Surface water status" is the general expression of the status of a body of surface water, determined by the poorer of its ecological status and its chemical status.
+18. "Good surface water status" means the status achieved by a surface water body when both its ecological status and its chemical status are at least "good".
+19. "Groundwater status" is the general expression of the status of a body of groundwater, determined by the poorer of its quantitative status and its chemical status.
+20. "Good groundwater status" means the status achieved by a groundwater body when both its quantitative status and its chemical status are at least "good".
+21. "Ecological status" is an expression of the quality of the structure and functioning of aquatic ecosystems associated with surface waters, classified in accordance with Annex V.
+22. "Good ecological status" is the status of a body of surface water, so classified in accordance with Annex V.
+23. "Good ecological potential" is the status of a heavily modified or an artificial body of water, so classified in accordance with the relevant provisions of Annex V.
+24. "Good surface water chemical status" means the chemical status required to meet the environmental objectives for surface waters established in Article 4(1)(a), that is the chemical status achieved by a body of surface water in which concentrations of pollutants do not exceed the environmental quality standards established in Annex IX and under Article 16(7), and under other relevant Community legislation setting environmental quality standards at Community level.
+25. "Good groundwater chemical status" is the chemical status of a body of groundwater, which meets all the conditions set out in table 2.3.2 of Annex V.
+26. "Quantitative status" is an expression of the degree to which a body of groundwater is affected by direct and indirect abstractions.
+27. "Available groundwater resource" means the long-term annual average rate of overall recharge of the body of groundwater less the long-term annual rate of flow required to achieve the ecological quality objectives for associated surface waters specified under Article 4, to avoid any significant diminution in the ecological status of such waters and to avoid any significant damage to associated terrestrial ecosystems.
+28. "Good quantitative status" is the status defined in table 2.1.2 of Annex V.
+29. "Hazardous substances" means substances or groups of substances that are toxic, persistent and liable to bio-accumulate, and other substances or groups of substances which give rise to an equivalent level of concern.
+30. "Priority substances" means substances identified in accordance with Article 16(2) and listed in Annex X. Among these substances there are "priority hazardous substances" which means substances identified in accordance with Article 16(3) and (6) for which measures have to be taken in accordance with Article 16(1) and (8).
+31. "Pollutant" means any substance liable to cause pollution, in particular those listed in Annex VIII.
+32. "Direct discharge to groundwater" means discharge of pollutants into groundwater without percolation throughout the soil or subsoil.
+33. "Pollution" means the direct or indirect introduction, as a result of human activity, of substances or heat into the air, water or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems, which result in damage to material property, or which impair or interfere with amenities and other legitimate uses of the environment.
+34. "Environmental objectives" means the objectives set out in Article 4.
+35. "Environmental quality standard" means the concentration of a particular pollutant or group of pollutants in water, sediment or biota which should not be exceeded in order to protect human health and the environment.
+36. "Combined approach" means the control of discharges and emissions into surface waters according to the approach set out in Article 10.
+37. "Water intended for human consumption" has the same meaning as under Directive 80/778/EEC, as amended by Directive 98/83/EC.
+38. "Water services" means all services which provide, for households, public institutions or any economic activity:
+(a) abstraction, impoundment, storage, treatment and distribution of surface water or groundwater,
+(b) waste-water collection and treatment facilities which subsequently discharge into surface water.
+39. "Water use" means water services together with any other activity identified under Article 5 and Annex II having a significant impact on the status of water.
+This concept applies for the purposes of Article 1 and of the economic analysis carried out according to Article 5 and Annex III, point (b).
+40. "Emission limit values" means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during any one or more periods of time. Emission limit values may also be laid down for certain groups, families or categories of substances, in particular for those identified under Article 16.
+The emission limit values for substances shall normally apply at the point where the emissions leave the installation, dilution being disregarded when determining them. With regard to indirect releases into water, the effect of a waste-water treatment plant may be taken into account when determining the emission limit values of the installations involved, provided that an equivalent level is guaranteed for protection of the environment as a whole and provided that this does not lead to higher levels of pollution in the environment.
+41. "Emission controls" are controls requiring a specific emission limitation, for instance an emission limit value, or otherwise specifying limits or conditions on the effects, nature or other characteristics of an emission or operating conditions which affect emissions. Use of the term "emission control" in this Directive in respect of the provisions of any other Directive shall not be held as reinterpreting those provisions in any respect.
+

@@ -1,0 +1,93 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘greenhouse gas emissions’ or ‘GHG emissions’ means the release of carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) into the atmosphere;
+(2)
+‘biofuels’ means biofuels as defined in Article 2, second paragraph, point (33), of Directive (EU) 2018/2001;
+(3)
+‘biogas’ means biogas as defined in Article 2, second paragraph, point (28), of Directive (EU) 2018/2001;
+(4)
+‘recycled carbon fuels’ means recycled carbon fuels as defined in Article 2, second paragraph, point (35), of Directive (EU) 2018/2001;
+(5)
+‘renewable fuels of non-biological origin’ (RFNBO) means renewable fuels of non-biological origin as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001;
+(6)
+‘food and feed crops’ means food and feed crops as defined in Article 2, second paragraph, point (40), of Directive (EU) 2018/2001;
+(7)
+‘zero-emission technology’ means a technology that, when used to provide energy, does not result in the release of the following greenhouse gases and air pollutants into the atmosphere by ships: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), sulphur oxides (SOx), nitrogen oxides (NOx) and particulate matter (PM);
+(8)
+‘substitute sources of energy’ means renewable energy generated on board or electricity supplied from OPS;
+(9)
+‘wind-assisted propulsion’ means propulsion, whether partial or full, of a ship by wind energy harnessed by means of wind-assistance propulsion systems such as, inter alia, rotor sails, kites, hard or rigid sails, soft sails, suction wings or turbines;
+(10)
+‘port of call’ means a port where ships stop to load or unload cargo or to embark or disembark passengers with the exclusion of stops for the sole purposes of refuelling, obtaining supplies, relieving the crew, going into dry-dock or making repairs to the ship, its equipment or both; stops in port because the ship is in need of assistance or in distress; ship-to-ship transfers carried out outside ports; stops for the sole purpose of taking shelter from adverse weather or rendered necessary by search and rescue activities; and stops of containerships in a neighbouring container transhipment port listed in the implementing act adopted pursuant to Article 2(2);
+(11)
+‘voyage’ means voyage as defined in Article 3, point (c), of Regulation (EU) 2015/757;
+(12)
+‘outermost region’ means a territory referred to in Article 349 TFEU;
+(13)
+‘company’ means the shipowner or any other organisation or person such as the manager or the bareboat charterer, which has assumed the responsibility for the operation of the ship from the shipowner and has agreed to take over all the duties and responsibilities imposed by the International Management Code for the Safe Operation of Ships and for Pollution Prevention;
+(14)
+‘gross tonnage’ (GT) means gross tonnage as defined in Article 3, point (e), of Regulation (EU) 2015/757;
+(15)
+‘ship at berth’ means ship at berth as defined in Article 3, point (n), of Regulation (EU) 2015/757;
+(16)
+‘ship at anchorage’ means a ship at berth which is not moored at the quayside;
+(17)
+‘energy used on board’ means the amount of energy, expressed in mega joules (MJ), used by a ship for propulsion and for the operation of any onboard equipment, at sea or at berth;
+(18)
+‘well-to-wake’ means a method for calculating emissions that takes into account the GHG impact of energy production, transport, distribution and use on board, including during combustion;
+(19)
+‘GHG intensity of the energy used on board’ means the amount of GHG emissions, expressed in grams of CO2 equivalent established on a well-to-wake basis, per MJ of energy used on board;
+(20)
+‘emission factor’ means the average emission rate of a GHG relative to the activity data of a source stream, assuming complete oxidation for combustion and complete conversion for all other chemical reactions;
+(21)
+‘ice class’ means the notation assigned to the ship by the competent national authorities of the flag state or an organisation recognised by that state, showing that the ship has been designed for navigation in sea-ice conditions;
+(22)
+‘ice edge’ means the demarcation at any given time between the open sea and sea ice of any kind, whether fast or drifting, as set out in paragraph 4.4.8 of the World Meteorological Organisation Sea-Ice Nomenclature, March 2014;
+(23)
+‘sailing in ice conditions’ means the sailing by an ice-class ship in a sea area within the ice edge;
+(24)
+‘on-shore power supply’ (OPS) means the system to supply electricity to ships at berth, at low or high voltage, alternate or direct current, including ship-side and port-side installations, when feeding directly the ship main distribution switchboard for powering hotel and service workloads or charging secondary batteries;
+(25)
+‘electrical power demand at berth’ means the demand for electricity of a ship at berth for meeting all energy needs based on electricity on board;
+(26)
+‘established total electrical power demand of the ship at berth’ means the highest value, expressed in kilowatts, of the total demand for electricity of a ship at berth, including hotel and cargo handling workloads;
+(27)
+‘verifier’ means a legal entity carrying out verification activities, which is accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008 and this Regulation;
+(28)
+‘FuelEU document of compliance’ means a document specific to a ship, issued to a company by a verifier, which confirms that that ship has complied with this Regulation for a specific reporting period;
+(29)
+‘passenger ship’ means a passenger ship as defined in Article 2, point (i), of Directive (EU) 2016/802 of the European Parliament and of the Council (23);
+(30)
+‘cruise passenger ship’ means a passenger ship that has no cargo deck and is designed exclusively for commercial transportation of passengers in overnight accommodation on a sea voyage;
+(31)
+‘containership’ means a ship designed exclusively for the carriage of containers in holds and on deck;
+(32)
+‘non-compliant port call’ means a port call during which the ship does not comply with the requirement set out in Article 6(1), and to which none of the exceptions provided for in Article 6(5) apply;
+(33)
+‘least favourable pathway’ means the most carbon-intensive production pathway used for any given fuel;
+(34)
+‘CO2 equivalent’ means the metric measure used to compute the emissions from CO2, CH4 and N2O on the basis of their global-warming potential, by converting amounts of CH4 and N2O to the equivalent amount of CO2 with the same global warming potential;
+(35)
+‘compliance balance’ means the measure of a ship’s over- or under-compliance with regard to the limits for the yearly average GHG intensity of the energy used on board by a ship or the RFNBO subtarget, which is calculated in accordance with Part A of Annex IV;
+(36)
+‘compliance surplus’ means a compliance balance with a positive value;
+(37)
+‘compliance deficit’ means a compliance balance with a negative value;
+(38)
+‘total pool compliance balance’ means the sum of the compliance balances of all ships included in the pool;
+(39)
+‘managing body of the port’ means managing body of the port as defined in Article 2, point (5), of Regulation (EU) 2017/352;
+(40)
+‘administering State’ means a Member State determined by applying Article 3gf(1) of Directive 2003/87/EC in relation to a company within the meaning of this Regulation, without prejudice to the choice of the competent authorities in charge within the relevant Member State;
+(41)
+‘reporting period’ means a period from 1 January to 31 December of the year during which information referred to in this Regulation is monitored and recorded, where data for voyages starting and ending in two different calendar years is accounted under the calendar year concerned;
+(42)
+‘verification period’ means the calendar year directly following the reporting period.
+
+Chapter II
+
+
+Requirements for energy used on board by ships
+

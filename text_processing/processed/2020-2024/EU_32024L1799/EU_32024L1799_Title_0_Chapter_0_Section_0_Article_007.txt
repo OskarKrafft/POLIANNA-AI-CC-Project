@@ -1,0 +1,26 @@
+Article 7
+European online platform for repair
+1.   A European online platform for repair (‘European online platform’) shall be established to allow consumers to find repairers and, where applicable, sellers of refurbished goods, purchasers of defective goods for refurbishment or community-led repair initiatives. The European online platform shall consist of the national sections that use the common online interface and shall include links to the national online platforms for repair referred to in paragraph 3 (the ‘national online platforms’).
+2.   By 31 July 2027, the Commission shall develop the common online interface for the European online platform. That common online interface shall comply with the requirements set out in paragraph 6 and be available in all official Union languages. The Commission shall thereafter ensure the technical maintenance of the common online interface.
+3.   Member States shall use the common online interface referred to in paragraph 2 for their national sections. However, Member States that have at least one national online platform, whether public or private, that covers their entire territory and complies with the provisions set out in paragraph 6 are not obliged to establish a national section on the European online platform. Instead, the European online platform shall include links to such national online platforms. Member States shall ensure that their national online platforms are operational by 31 July 2027.
+4.   Member States may extend the scope of their national section on the European online platform or, where applicable, their national online platform to cover, not only repairers, but also sellers of goods that have been subject to refurbishment, purchasers of defective goods for refurbishment or community-led repair initiatives.
+5.   The use of national sections and national online platforms in the European online platform shall be free of charge for consumers. The registration shall be voluntary for repairers and, where applicable, sellers of goods that have been subject to refurbishment and purchasers of defective goods for refurbishment or community-led repair initiatives.
+6.   The national sections that use the common online interface and the national online platforms shall:
+(a)
+include search functions regarding goods, location of repair services, including a map based function, the cross-border provision of services, repair conditions, including the time needed to complete the repair, the availability of temporary replacement goods and the place where the consumer hands over the goods for repair, availability and conditions of ancillary services, including removal, installation and transportation, offered by repairers, and applicable European or national repair quality standards;
+(b)
+where applicable, include a search function to find sellers of goods that have been subject to refurbishment, purchasers of defective goods for refurbishment or community-led repair initiatives;
+(c)
+enable consumers to request the European Repair Information Form from repairers offering it;
+(d)
+allow for regular updates of contact information and services by repairers;
+(e)
+allow repairers to indicate their adherence to applicable Union or national quality standards;
+(f)
+enable accessibility through national websites connected to the Single Digital Gateway established by Regulation (EU) 2018/1724 of the European Parliament and of the Council (26);
+(g)
+ensure accessibility for persons with disabilities; and
+(h)
+provide contact forms for users to report technical issues related to the functioning of the European online platform as well as inaccuracies concerning the information provided by repairers, and, where applicable, by the sellers of goods that have been subject to refurbishment, purchasers of defective goods for refurbishment or community-led repair initiatives.
+7.   The European online platform shall enable the collection of non-personal data regarding the functioning of the national sections.
+8.   Member States and the Commission shall take appropriate measures to inform consumers, relevant economic operators and sellers about the availability of the European online platform.

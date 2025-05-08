@@ -1,0 +1,50 @@
+Article 19
+Guarantees of origin for energy from renewable sources
+1.   For the purposes of demonstrating to final customers the share or quantity of energy from renewable sources in an energy supplier's energy mix and in the energy supplied to consumers under contracts marketed with reference to the consumption of energy from renewable sources, Member States shall ensure that the origin of energy from renewable sources can be guaranteed as such within the meaning of this Directive, in accordance with objective, transparent and non-discriminatory criteria.
+2.   To that end, Member States shall ensure that a guarantee of origin is issued in response to a request from a producer of energy from renewable sources, unless Member States decide, for the purposes of accounting for the market value of the guarantee of origin, not to issue such a guarantee of origin to a producer that receives financial support from a support scheme. Member States may arrange for guarantees of origin to be issued for energy from non-renewable sources. Issuance of guarantees of origin may be made subject to a minimum capacity limit. A guarantee of origin shall be of the standard size of 1 MWh. No more than one guarantee of origin shall be issued in respect of each unit of energy produced.
+Member States shall ensure that the same unit of energy from renewable sources is taken into account only once.
+Member States shall ensure that when a producer receives financial support from a support scheme, the market value of the guarantee of origin for the same production is taken into account appropriately in the relevant support scheme.
+It shall be presumed that the market value of the guarantee of origin has been taken into account appropriately in any of the following cases:
+(a)
+where the financial support is granted by way of a tendering procedure or a tradable green certificate system;
+(b)
+where the market value of the guarantees of origin is administratively taken into account in the level of financial support; or
+(c)
+where the guarantees of origin are not issued directly to the producer but to a supplier or consumer who buys the energy from renewable sources either in a competitive setting or in a long-term renewables power purchase agreement.
+In order to take into account the market value of the guarantee of origin, Member States may, inter alia, decide to issue a guarantee of origin to the producer and immediately cancel it.
+The guarantee of origin shall have no function in terms of a Member State's compliance with Article 3. Transfers of guarantees of origin, separately or together with the physical transfer of energy, shall have no effect on the decision of Member States to use statistical transfers, joint projects or joint support schemes for compliance with Article 3 or on the calculation of the gross final consumption of energy from renewable sources in accordance with Article 7.
+3.   For the purposes of paragraph 1, guarantees of origin shall be valid for 12 months after the production of the relevant energy unit. Member States shall ensure that all guarantees of origin that have not been cancelled expire at the latest 18 months after the production of the energy unit. Member States shall include expired guarantees of origin in the calculation of their residual energy mix.
+4.   For the purposes of disclosure referred to in paragraphs 8 and 13, Member States shall ensure that energy companies cancel guarantees of origin at the latest six months after the end of the validity of the guarantee of origin.
+5.   Member States or designated competent bodies shall supervise the issuance, transfer and cancellation of guarantees of origin. The designated competent bodies shall not have overlapping geographical responsibilities, and shall be independent of production, trade and supply activities.
+6.   Member States or the designated competent bodies shall put in place appropriate mechanisms to ensure that guarantees of origin are issued, transferred and cancelled electronically and are accurate, reliable and fraud-resistant. Member States and designated competent bodies shall ensure that the requirements they impose comply with the standard CEN - EN 16325.
+7.   A guarantee of origin shall specify at least:
+(a)
+the energy source from which the energy was produced and the start and end dates of production;
+(b)
+whether it relates to:
+(i)
+electricity;
+(ii)
+gas, including hydrogen; or
+(iii)
+heating or cooling;
+(c)
+the identity, location, type and capacity of the installation where the energy was produced;
+(d)
+whether the installation has benefited from investment support and whether the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme;
+(e)
+the date on which the installation became operational; and
+(f)
+the date and country of issue and a unique identification number.
+Simplified information may be specified on guarantees of origin from installations of less than 50 kW.
+8.   Where an electricity supplier is required to demonstrate the share or quantity of energy from renewable sources in its energy mix for the purposes of point (a) of Article 3(9) of Directive 2009/72/EC, it shall do so by using guarantees of origin except:
+(a)
+as regards the share of its energy mix corresponding to non-tracked commercial offers, if any, for which the supplier may use the residual mix; or
+(b)
+where a Member State decides not to issue guarantees of origin to a producer that receives financial support from a support scheme.
+Where Member States have arranged to have guarantees of origin for other types of energy, suppliers shall use for disclosure the same type of guarantees of origin as the energy supplied. Likewise, guarantees of origin created pursuant to Article 14(10) of Directive 2012/27/EU may be used to substantiate any requirement to demonstrate the quantity of electricity produced from high-efficiency cogeneration. For the purposes of paragraph 2 of this Article, where electricity is generated from high-efficiency cogeneration using renewable sources, only one guarantee of origin specifying both characteristics may be issued.
+9.   Member States shall recognise guarantees of origin issued by other Member States in accordance with this Directive exclusively as evidence of the elements referred to in paragraph 1 and points (a) to (f) of the first subparagraph of paragraph 7. A Member State may refuse to recognise a guarantee of origin only where it has well-founded doubts about its accuracy, reliability or veracity. The Member State shall notify the Commission of such a refusal and its justification.
+10.   If the Commission finds that a refusal to recognise a guarantee of origin is unfounded, the Commission may adopt a decision requiring the Member State in question to recognise it.
+11.   Member States shall not recognise guarantees of origins issued by a third country except where the Union has concluded an agreement with that third country on mutual recognition of guarantees of origin issued in the Union and compatible guarantees of origin systems established in that third country, and only where there is direct import or export of energy.
+12.   A Member State may, in accordance with Union law, introduce objective, transparent and non-discriminatory criteria for the use of guarantees of origin in accordance with the obligations laid down in Article 3(9) of Directive 2009/72/EC.
+13.   The Commission shall adopt a report assessing options to establish a Union-wide green label with a view to promoting the use of renewable energy coming from new installations. Suppliers shall use the information contained in guarantees of origin to demonstrate compliance with the requirements of such a label.

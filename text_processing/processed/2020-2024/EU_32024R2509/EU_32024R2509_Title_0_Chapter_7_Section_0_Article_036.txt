@@ -1,0 +1,82 @@
+Article 36
+Internal control of budget implementation
+1.   Pursuant to the principle of sound financial management, the budget shall be implemented in compliance with the effective and efficient internal control appropriate to each method of implementation, and in accordance with the relevant sector-specific rules.
+2.   For the purposes of budget implementation, internal control shall be applied at all levels of management and shall be designed to provide reasonable assurance of achieving the following objectives:
+(a)
+effectiveness, efficiency and economy of operations;
+(b)
+reliability of reporting;
+(c)
+safeguarding of assets and information;
+(d)
+prevention, detection, correction and follow-up of irregularities including fraud, corruption, conflicts of interest and double funding, also through the voluntary use of a single integrated and interoperable information and monitoring system, including a single data-mining and risk-scoring tool, provided by the Commission, and allowing for the access to and the electronic automatic retrieval, recording, storage and analysis of data on the recipients of Union funds including their beneficial owners, as defined in Article 3, point (6), of Directive (EU) 2015/849, in accordance with sector-specific rules;
+(e)
+adequate management of the risks relating to the legality and regularity of the underlying transactions, taking into account the multiannual character of programmes as well as the nature of the payments concerned.
+3.   Effective internal control shall be based on best international practices and include, in particular, the following elements:
+(a)
+segregation of tasks;
+(b)
+an appropriate risk management and control strategy that includes control at recipient level;
+(c)
+adequate audit trails and data integrity in data systems, including electronic ones;
+(d)
+procedures for monitoring effectiveness and efficiency;
+(e)
+procedures for follow-up of identified internal control weaknesses and exceptions;
+(f)
+periodic assessment of the sound functioning of the internal control system.
+4.   Efficient internal control shall be based on the following elements:
+(a)
+the implementation of an appropriate risk management and control strategy coordinated among appropriate actors involved in the control chain;
+(b)
+the accessibility for all appropriate actors in the control chain of the results of controls carried out;
+(c)
+reliance, where appropriate, on management declarations of implementation partners and on independent audit opinions, provided that the quality of the underlying work is adequate and acceptable and that it was performed in accordance with agreed standards;
+(d)
+the timely application of corrective measures including, where appropriate, dissuasive penalties;
+(e)
+clear and unambiguous legislation underlying the policies concerned, including basic acts on the elements of the internal control;
+(f)
+the elimination of multiple controls;
+(g)
+the improvement of the cost benefit ratio of controls.
+5.   If, during implementation, the level of error is persistently high, the Commission shall identify the weaknesses in the control systems, analyse the costs and benefits of possible corrective measures and take or propose appropriate action, such as simplification of the applicable provisions, improvement of the control systems and redesign of the programme or delivery systems.
+6.   For the purposes of paragraph 2, point (d), of this Article, and without prejudice to the second subparagraph of this paragraph, Union institutions and bodies and persons or entities implementing the budget pursuant to Article 62(1) shall make the following information available to the Commission electronically, in an interoperable and machine-readable format:
+(a)
+on the recipient: all the information listed in Article 38(2), points (a), (b) and (c), and Article 38(6), second subparagraph, and, in the case of a natural person, also the date of birth;
+(b)
+on the operation: all the information listed in Article 38(2), points (d) and (e), as well as the unique identifier of the operation;
+(c)
+on the beneficial owner(s) of the recipient, where the recipient is not a natural person: the first name(s), last name(s), date of birth, and VAT identification number(s) or tax identification number(s) where available or another unique identifier at country level.
+For the purpose of this Article, where the Member States receive and implement the budget pursuant to Article 62(1), they shall provide the Commission with access to the information set out in the first subparagraph only where they have an obligation to record and store such information in accordance with sector-specific rules. In the absence of such an obligation under sector-specific rules, Member States may provide the Commission with access to the information in their possession as referred to in the first subparagraph, on a voluntary basis.
+The Commission shall present by the end of 2027 an assessment of the readiness of the system referred to in paragraph 2, point (d), of this Article, with respect to the following criteria:
+(a)
+interoperability is ensured with relevant IT systems and databases, including those of Member States, allowing for an automatic transfer of the relevant information in real time where feasible, and avoiding duplication of reporting;
+(b)
+the risk indicators used by the system referred to in paragraph 2, point (d), of this Article are sufficiently uniform, objective, proportionate, and necessary for risk assessment, and are based on reliable sources of information;
+(c)
+the system referred to in paragraph 2, point (d), of this Article permits using artificial intelligence for analysing and interpreting data;
+(d)
+the system referred to in paragraph 2, point (d), of this Article complies with general data protection principles.
+For the purposes of this Article, ‘interoperability’ means the minimum necessary collection of data from and communication between various sources in order to have the data assessed and potential risks evaluated effectively.
+Union institutions and bodies, Member States and persons or entities implementing the budget pursuant to Article 62(1) may use the system referred to in paragraph 2, point (d), of this Article on a voluntary basis.
+7.   The system referred to in paragraph 2, point (d), of this Article shall be designed to facilitate risk assessment for the purposes of selection, award, financial management, monitoring, investigation, control and audit and contribute to effective prevention, detection, correction and follow-up of irregularities, including fraud, corruption, conflicts of interest and double funding and shall:
+(a)
+only use risk indicators that are objective, proportionate, necessary for risk assessment, as well as based on reliable sources of data and information;
+(b)
+be designed for its use in line with general data protection principles, including data minimisation and storage limitation, applicable to the processing of personal data.
+Access to the data processed by the system referred to in paragraph 2, point (d), of this Article shall comply with applicable data protection rules, respect the principles of necessity and proportionality and shall be limited to the Union institutions and bodies implementing the budget, the Member States implementing the budget pursuant to Article 62(1), first subparagraph, point (b), the Member States that receive and implement Union funds under Article 62(1), first subparagraph, point (a), persons or entities implementing the budget pursuant to Article 62(1), first subparagraph, point (c), Union investigative, control and audit bodies including OLAF, the Court of Auditors, and the EPPO, within the exercise of their respective competences. Data available through the system referred to in paragraph 2, point (d), of this Article shall be made available to the European Parliament and the Council on a case-by-case basis to the extent necessary and proportionate within the exercise of their respective competences, in the context of the discharge procedure for the Commission.
+The Commission shall be the controller within the meaning of Article 3(8) of Regulation (EU) 2018/1725 and shall be responsible for the development, management and supervision of the system referred to in paragraph 2, point (d), of this Article, for ensuring the security, integrity and confidentiality of data, the authentication of the users and for protecting the IT system against mismanagement and misuse.
+Data shall be stored for the period necessary and proportionate to fulfil the purpose determined in paragraph 2, point (d). The maximum possible storage period shall not exceed 10 years from the last payment claim for the period submitted to the Commission.
+8.   For the purposes of paragraph 2, point (d), of this Article, Article 144(2) and Article 147, and in addition to any applicable sector-specific rule, persons and entities implementing the budget under Article 62(1), first subparagraph, point (b), and persons and entities implementing funds, where the budget is implemented under Article 62(1), first subparagraph, point (a), with Member States, shall transmit to the Commission through any official channel, such as the automated information system established by the Commission currently in use for reporting of fraud and irregularities (the ‘Irregularity Management System’), information on facts and findings established only in the context of final judgments or final administrative decisions with reference to the grounds set out in Article 138(1), point (c)(iv) and point (d), when they become aware of such information. For the same purposes, Member States shall transmit other necessary information requested by the Commission, in particular information related to the administrative follow-up.
+9.   Member States that receive and implement Union funds under Article 62(1), first subparagraph, point (a), shall apply paragraphs 1 to 7 of this Article.
+10.   For the purposes of the application of the requirements of paragraphs 2, 3 and 6 of this Article by Member States implementing the budget under Article 62(1), first subparagraph, point (b), references to recipients shall be understood as referred to in Article 38(1), second subparagraph.
+11.   As part of its control strategy, the Commission shall, where appropriate, design and perform controls and audits that use automated IT tools and emerging technologies.
+
+CHAPTER 8
+
+
+
+Principle of transparency
+
+

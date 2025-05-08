@@ -1,0 +1,83 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘ESG rating’ means an opinion or a score, or a combination of both, regarding a rated item’s profile or characteristics with regard to environmental, social and human rights, or governance factors, or regarding a rated item’s exposure to risks or impact on environmental, social and human rights, or governance factors, that is based on both an established methodology and a defined ranking system of rating categories, irrespective of whether such ESG rating is labelled as ‘ESG rating’, ‘ESG opinion’ or ‘ESG score’;
+(2)
+‘ESG opinion’ means an ESG assessment that is based on a rule-based methodology and defined ranking system of rating categories, involving directly a rating analyst in the rating process;
+(3)
+‘ESG score’ means an ESG measure derived from data, using a rule-based methodology, and based only on a pre-established statistical or algorithmic system or model, without any additional substantial analytical input from a rating analyst;
+(4)
+‘ESG rating provider’ means a legal person whose activities include the issuance, and the publication or distribution, of ESG ratings on a professional basis;
+(5)
+‘regulated financial undertaking in the Union’ means an undertaking, regardless of its legal form, that is:
+(a)
+a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the Council (27);
+(b)
+an investment firm as defined in Article 4(1), point (1), of Directive 2014/65/EU;
+(c)
+an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU, including a manager of a qualifying venture capital fund as defined in Article 3, point (c), of Regulation (EU) No 345/2013 of the European Parliament and of the Council (28), a manager of a qualifying social entrepreneurship fund as defined in Article 3, point (c), of Regulation (EU) No 346/2013 of the European Parliament and of the Council (29) and a manager of the ELTIF as defined in Article 2, point (12), of Regulation (EU) 2015/760 of the European Parliament and of the Council (30);
+(d)
+a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC;
+(e)
+an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC;
+(f)
+a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC;
+(g)
+an institution for occupational retirement provision as defined in Article 6, point (1), of Directive (EU) 2016/2341;
+(h)
+a pension institution operating pension schemes which are considered to be social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009 (31) of the European Parliament and of the Council, and any legal entity set up for the purpose of investment of such social security schemes;
+(i)
+an alternative investment fund, as defined in Article 4(1), point (a), of Directive 2011/61/EU, supervised under the applicable national law;
+(j)
+a UCITS as defined in Article 1(2) of Directive 2009/65/EC;
+(k)
+a central counterparty as defined in Article 2, point (1), of Regulation (EU) No 648/2012 of the European Parliament and of the Council (32);
+(l)
+a central securities depository as defined in Article 2(1), point (1), of Regulation (EU) No 909/2014 of the European Parliament and of the Council (33);
+(m)
+an insurance or reinsurance special purpose vehicle authorised in accordance with Article 211 of Directive 2009/138/EC;
+(n)
+a securitisation special purpose entity as defined in Article 2, point (2), of Regulation (EU) 2017/2402 of the European Parliament and of the Council (34);
+(o)
+an insurance holding company as defined in Article 212(1), point (f), of Directive 2009/138/EC or a mixed financial holding company as defined in Article 212(1), point (h), of Directive 2009/138/EC, which is part of an insurance group that is subject to supervision at the level of the group pursuant to Article 213 of that Directive and which is not exempted from group supervision pursuant to Article 214(2) of that Directive;
+(p)
+a financial holding company as defined in Article 4(1), point (20), of Regulation (EU) No 575/2013;
+(q)
+a payment institution as defined in Article 4, point (4), of Directive (EU) 2015/2366 of the European Parliament and of the Council (35);
+(r)
+an electronic money institution as defined in Article 2, point (1), of Directive 2009/110/EC of the European Parliament and of the Council (36);
+(s)
+a crowdfunding service provider as defined in Article 2(1), point (e), of Regulation (EU) 2020/1503;
+(t)
+a crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114 when performing one or more crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114;
+(u)
+a trade repository as defined in Article 2, point (2), of Regulation (EU) No 648/2012;
+(v)
+a securitisation repository as defined in Article 2, point (23), of Regulation (EU) 2017/2402;
+(w)
+an administrator of benchmarks as defined in Article 3(1), point (6), of Regulation (EU) 2016/1011;
+(x)
+a credit rating agency as defined in Article 3(1), point (b), of Regulation (EC) No 1060/2009;
+(6)
+‘rating analyst’ means a person who performs analytical functions for the purpose of issuing ESG ratings;
+(7)
+‘rated item’ means a legal person, a financial instrument, a financial product, a public authority or a body governed by public law which is explicitly or implicitly rated in the ESG rating, irrespective of whether such rating has been requested and irrespective of whether the legal person, public authority or body governed by public law has provided information for that ESG rating;
+(8)
+‘financial instrument’ means any of the instruments listed in Section C of Annex I to Directive 2014/65/EU;
+(9)
+‘user of ESG ratings’ means a natural or legal person, a public authority, an agency or other body governed by public law, to which an ESG rating is distributed by subscription or other contractual relationships;
+(10)
+‘competent authorities’ means the authorities designated by each Member State in accordance with Article 30 of this Regulation;
+(11)
+‘management body’ means an ESG rating provider’s body or bodies, which are appointed in accordance with national law, which are empowered to set the ESG rating provider’s strategy, objectives and overall direction, which oversee and monitor management decision-making in the ESG rating provider, and which include the persons who effectively direct the business of the ESG rating provider;
+(12)
+‘senior management’ means the person or persons who effectively direct the business of the ESG rating provider and the member or members of the ESG rating provider’s administrative or supervisory board;
+(13)
+‘group of ESG rating providers’ means a group of undertakings established in the Union consisting of a parent undertaking and its subsidiary undertakings within the meaning of Article 2 of Directive 2013/34/EU, and undertakings linked to each other by a relationship, whose activities include the provision of ESG ratings.
+
+TITLE II
+
+
+PROVISION OF ESG RATINGS IN THE UNION
+

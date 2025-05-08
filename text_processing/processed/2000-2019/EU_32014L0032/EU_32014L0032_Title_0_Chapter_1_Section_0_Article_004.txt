@@ -1,0 +1,47 @@
+Article 4
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘measuring instrument’ means any device or system with a measurement function that is covered by Article 2(1);
+(2)
+‘sub-assembly’ means a hardware device, mentioned as such in the instrument-specific annexes, that functions independently and makes up a measuring instrument together with other sub-assemblies with which it is compatible, or with a measuring instrument with which it is compatible;
+(3)
+‘legal metrological control’ means the control of the measurement tasks intended for the field of application of a measuring instrument, for reasons of public interest, public health, public safety, public order, protection of the environment, levying of taxes and duties, protection of the consumers and fair trading;
+(4)
+‘normative document’ means a document containing technical specifications adopted by the International Organisation of Legal Metrology;
+(5)
+‘making available on the market’ means any supply of a measuring instrument for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(6)
+‘placing on the market’ means the first making available of a measuring instrument on the Union market;
+(7)
+‘putting into use’ means the first use of a measuring instrument intended for the end-user for the purposes for which it was intended;
+(8)
+‘manufacturer’ means any natural or legal person who manufactures a measuring instrument or has a measuring instrument designed or manufactured, and markets that measuring instrument under his name or trade mark or puts it into use for his own purposes;
+(9)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+(10)
+‘importer’ means any natural or legal person established within the Union who places a measuring instrument from a third country on the Union market;
+(11)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a measuring instrument available on the market;
+(12)
+‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+(13)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a measuring instrument;
+(14)
+‘harmonised standard’ means harmonised standard as defined in point (c) of point 1 of Article 2 of Regulation (EU) No 1025/2012;
+(15)
+‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) no 765/2008;
+(16)
+‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) no 765/2008;
+(17)
+‘conformity assessment’ means the process demonstrating whether the essential requirements of this Directive relating to a measuring instrument have been fulfilled;
+(18)
+‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+(19)
+‘recall’ means any measure aimed at achieving the return of a measuring instrument that has already been made available to the end-user;
+(20)
+‘withdrawal’ means any measure aimed at preventing a measuring instrument in the supply chain from being made available on the market;
+(21)
+‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+(22)
+‘CE marking’ means a marking by which the manufacturer indicates that the measuring instrument is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing.

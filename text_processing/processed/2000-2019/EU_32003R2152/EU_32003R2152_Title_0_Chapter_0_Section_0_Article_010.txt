@@ -1,0 +1,4 @@
+Article 10
+1. To harmonise the activities referred to in Articles 4, 5 and 6(3) and to ensure the comparability of data, manuals shall specify mandatory and optional parameters and lay down the monitoring methods as well as the data formats to be used for data transmission. Manuals should build on existing systems where available and appropriate.
+2. Detailed rules for the implementation of paragraph 1 shall be laid down in accordance with the procedure referred to in Article 17(2).
+

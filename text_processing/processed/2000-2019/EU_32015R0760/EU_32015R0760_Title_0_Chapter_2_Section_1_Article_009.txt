@@ -1,0 +1,19 @@
+Article 9
+Eligible investments
+1.   In accordance with the objectives referred to in Article 1(2), an ELTIF shall invest only in the following categories of assets and only under the conditions specified in this Regulation:
+(a)
+eligible investment assets;
+(b)
+assets referred to in Article 50(1) of Directive 2009/65/EC.
+2.   An ELTIF shall not undertake any of the following activities:
+(a)
+short selling of assets;
+(b)
+taking direct or indirect exposure to commodities, including via financial derivative instruments, certificates representing them, indices based on them or any other means or instrument that would give an exposure to them;
+(c)
+entering into securities lending, securities borrowing, repurchase transactions, or any other agreement which has an equivalent economic effect and poses similar risks, if thereby more than 10 % of the assets of the ELTIF are affected;
+(d)
+using financial derivative instruments, except where the use of such instruments solely serves the purpose of hedging the risks inherent to other investments of the ELTIF.
+3.   In order to ensure the consistent application of this Article, ESMA shall, after conducting a public consultation, develop draft regulatory technical standards specifying criteria for establishing the circumstances in which the use of financial derivative instruments solely serves the purpose of hedging the risks inherent to the investments referred to in point (d) of paragraph 2.
+ESMA shall submit those draft regulatory technical standards to the Commission by 9 September 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

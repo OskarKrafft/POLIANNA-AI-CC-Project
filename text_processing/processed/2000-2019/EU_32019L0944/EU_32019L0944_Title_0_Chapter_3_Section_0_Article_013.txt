@@ -1,0 +1,7 @@
+Article 13
+Aggregation contract
+1.   Member States shall ensure that all customers are free to purchase and sell electricity services, including aggregation, other than supply, independently from their electricity supply contract and from an electricity undertaking of their choice.
+2.   Member States shall ensure that, where a final customer wishes to conclude an aggregation contract, the final customer is entitled to do so without the consent of the final customer's electricity undertakings.
+Member States shall ensure that market participants engaged in aggregation fully inform customers of the terms and conditions of the contracts that they offer to them.
+3.   Member States shall ensure that final customers are entitled to receive all relevant demand response data or data on supplied and sold electricity free of charge at least once every billing period if requested by the customer.
+4.   Member States shall ensure that the rights referred to in paragraphs 2 and 3 are granted to final customers in a non-discriminatory manner as regards cost, effort or time. In particular, Member States shall ensure that customers are not subject to discriminatory technical and administrative requirements, procedures or charges by their supplier on the basis of whether they have a contract with a market participant engaged in aggregation.

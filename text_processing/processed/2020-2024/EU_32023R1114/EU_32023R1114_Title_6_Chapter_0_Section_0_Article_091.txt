@@ -1,0 +1,27 @@
+Article 91
+Prohibition of market manipulation
+1.   No person shall engage in or attempt to engage in market manipulation.
+2.   For the purposes of this Regulation, market manipulation shall comprise any of the following activities:
+(a)
+unless carried out for legitimate reasons, entering into a transaction, placing an order to trade or engaging in any other behaviour which:
+(i)
+gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of, a crypto-asset;
+(ii)
+secures, or is likely to secure, the price of one or several crypto-assets at an abnormal or artificial level;
+(b)
+entering into a transaction, placing an order to trade or any other activity or behaviour which affects or is likely to affect the price of one or several crypto-assets, while employing a fictitious device or any other form of deception or contrivance;
+(c)
+disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of one or several crypto-assets, or secures or is likely to secure, the price of one or several crypto-assets, at an abnormal or artificial level, including the dissemination of rumours, where the person who engaged in the dissemination knew, or ought to have known, that the information was false or misleading.
+3.   The following behaviour shall, inter alia, be considered market manipulation:
+(a)
+securing a dominant position over the supply of, or demand for, a crypto-asset, which has, or is likely to have, the effect of fixing, directly or indirectly, purchase or sale prices or creates, or is likely to create, other unfair trading conditions;
+(b)
+the placing of orders to a trading platform for crypto-assets, including any cancellation or modification thereof, by any available means of trading, and which has one of the effects referred to in paragraph 2, point (a), by:
+(i)
+disrupting or delaying the functioning of the trading platform for crypto-assets or engaging into any activities that are likely to have that effect;
+(ii)
+making it more difficult for other persons to identify genuine orders on the trading platform for crypto-assets or engaging into any activities that are likely to have that effect, including by entering orders which result in the destabilisation of the normal functioning of the trading platform for crypto-assets;
+(iii)
+creating a false or misleading signal about the supply of, or demand for, or price of, a crypto-asset, in particular by entering orders to initiate or exacerbate a trend, or engaging into any activities that are likely to have that effect;
+(c)
+taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about a crypto-asset, while having previously taken positions on that crypto-asset, and profiting subsequently from the impact of the opinions voiced on the price of that crypto-asset, without having simultaneously disclosed that conflict of interest to the public in a proper and effective way.

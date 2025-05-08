@@ -1,0 +1,7 @@
+Article 18
+Measuring CMH for the purpose of calculating K‐CMH
+1.   For the purpose of calculating K‐CMH, CMH shall be the rolling average of the value of total daily client money held, measured at the end of each business day for the previous nine months, excluding the three most recent months.
+CMH shall be the arithmetic mean of the daily values from the remaining six months.
+K‐CMH shall be calculated on the first business day of each month.
+2.   Where an investment firm has been holding client money for less than nine months, it shall use historical data for CMH for the period specified under paragraph 1 as soon as such data becomes available to calculate K‐CMH.
+The competent authority may replace missing historical data points by regulatory determinations based on the business projections of the investment firm submitted in accordance with Article 7 of Directive 2014/65/EU.

@@ -1,0 +1,23 @@
+Article 121
+Exposures to unrated institutions
+1.   Exposures to institutions for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight according to the credit quality step to which exposures to the central government of the jurisdiction in which the institution is incorporated are assigned in accordance with Table 5.
+
+Table 5
+
+Credit quality step to which central government is assigned
+1
+2
+3
+4
+5
+6
+Risk weight of exposure
+20  %
+50  %
+100  %
+100  %
+100  %
+150  %
+2.   For exposures to unrated institutions incorporated in countries where the central government is unrated, the risk weight shall be 100 %.
+3.   For exposures to unrated institutions with an original effective maturity of three months or less, the risk weight shall be 20 %.
+4.   Notwithstanding paragraphs 2 and 3, for trade finance exposures referred to in point (b) of the second subparagraph of Article 162(3) to unrated institutions, the risk weight shall be 50 % and where the residual maturity of these trade finance exposures to unrated institutions is three months or less, the risk weight shall be 20 %.

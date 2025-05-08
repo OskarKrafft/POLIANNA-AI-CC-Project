@@ -1,0 +1,24 @@
+Article 142
+Definitions
+1.   For the purposes of this Chapter, the following definitions shall apply:
+(1)
+‧rating system‧ means all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of exposures to rating grades or pools, and the quantification of default and loss estimates that have been developed for a certain type of exposures;
+(2)
+‧type of exposures‧ means a group of homogeneously managed exposures which are formed by a certain type of facilities and which may be limited to a single entity or a single sub-set of entities within a group provided that the same type of exposures is managed differently in other entities of the group;
+(3)
+‧business unit‧ means any separate organisational or legal entities, business lines, geographical locations;
+(4)
+‧large financial sector entity‧ means any financial sector entity, other than those referred to in point (27)(j) of Article 4(1), which meets the following conditions:
+(a)
+its total assets, calculated on an individual or consolidated basis, are greater than or equal to a EUR 70 billion threshold, using the most recent audited financial statement or consolidated financial statement in order to determine asset size; and
+(b)
+it is, or one of its subsidiaries is, subject to prudential regulation in the Union or to the laws of a third country which applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union;
+(5)
+‧unregulated financial entity‧ means any other entity that is not a regulated financial sector entity but performs, as its main business, one or more of the activities listed in Annex I to Directive 2013/36/EU or listed in Annex I to Directive 2004/39/EC;
+(6)
+‧obligor grade‧ means a risk category within the obligor rating scale of a rating system, to which obligors are assigned on the basis of a specified and distinct set of rating criteria, from which estimates of probability of default (PD) are derived;
+(7)
+‧facility grade‧ means a risk category within a rating system's facility scale, to which exposures are assigned on the basis of a specified and distinct set of rating criteria from which own estimates of LGD are derived;
+(8)
+‧servicer‧ means an entity that manages a pool of purchased receivables or the underlying credit exposures on a day-to-day basis.
+2.   For the purposes of point (4)(b) of paragraph 1 of this Article, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to whether a third country applies supervisory and regulatory arrangements at least equivalent to those applied in the Union. In the absence of such a decision, until 1 January 2015, institutions may continue to apply the treatment set out in this paragraph to a third country where the relevant competent authorities had approved the third country as eligible for this treatment before 1 January 2014.

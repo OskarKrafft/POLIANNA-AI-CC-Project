@@ -1,0 +1,25 @@
+Article 7
+Significant disruptive effect
+1.   When determining the significance of a disruptive effect as referred to in Article 6(2), point (c), Member States shall take into account the following criteria:
+(a)
+the number of users relying on the essential service provided by the entity concerned;
+(b)
+the extent to which other sectors and subsectors as set out in the Annex depend on the essential service in question;
+(c)
+the impact that incidents could have, in terms of degree and duration, on economic and societal activities, the environment, public safety and security, or the health of the population;
+(d)
+the entity’s market share in the market for the essential service or essential services concerned;
+(e)
+the geographic area that could be affected by an incident, including any cross-border impact, taking into account the vulnerability associated with the degree of isolation of certain types of geographic areas, such as insular regions, remote regions or mountainous areas;
+(f)
+the importance of the entity in maintaining a sufficient level of the essential service, taking into account the availability of alternative means for the provision of that essential service.
+2.   After the identification of the critical entities under Article 6(1), each Member State shall submit the following information to the Commission without undue delay:
+(a)
+a list of essential services in that Member State where there are any additional essential services as compared to the list of essential services referred to in Article 5(1);
+(b)
+the number of critical entities identified for each sector and subsector set out in the Annex and for each essential service;
+(c)
+any thresholds applied to specify one or more of the criteria in paragraph 1.
+Thresholds as referred to in the first subparagraph, point (c), may be presented as such or in aggregated form.
+Member States shall subsequently submit information referred to in the first subparagraph whenever necessary and at least every four years.
+3.   The Commission shall, after consulting the Critical Entities Resilience Group referred to in Article 19, adopt non-binding guidelines to facilitate the application of the criteria referred to in paragraph 1 of this Article, taking into account the information referred to in paragraph 2 of this Article.

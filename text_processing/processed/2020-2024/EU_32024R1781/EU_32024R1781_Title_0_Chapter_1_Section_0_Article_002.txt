@@ -1,0 +1,162 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘product’ means any physical goods that are placed on the market or put into service;
+(2)
+‘component’ means a product intended to be incorporated into another product;
+(3)
+‘intermediate product’ means a product that requires further manufacturing or transformation such as mixing, coating or assembling to make it suitable for end-users;
+(4)
+‘energy-related product’ means any product that has an impact on energy consumption during use;
+(5)
+‘product group’ means a set of products that serve similar purposes and are similar in terms of use, or have similar functional properties, and are similar in terms of consumer perception;
+(6)
+‘ecodesign’ means the integration of environmental sustainability considerations into the characteristics of a product and the processes taking place throughout the product’s value chain;
+(7)
+‘ecodesign requirement’ means a performance requirement or an information requirement aimed at making a product, including processes taking place throughout the product’s value chain, more environmentally sustainable;
+(8)
+‘performance requirement’ means a quantitative or non-quantitative requirement for or in relation to a product to achieve a certain performance level in relation to a product parameter referred to in Annex I;
+(9)
+‘information requirement’ means an obligation for a product to be accompanied by information as specified in Article 7(2);
+(10)
+‘supply chain’ means all upstream activities and processes of the product’s value chain, up to the point where the product reaches the customer;
+(11)
+‘value chain’ means all activities and processes that are part of the life cycle of a product, as well as its possible remanufacturing;
+(12)
+‘life cycle’ means the consecutive and interlinked stages of a product’s life, consisting of raw material acquisition or generation from natural resources, pre-processing, manufacturing, storage, distribution, installation, use, maintenance, repair, upgrading, refurbishment and reuse, and end-of-life;
+(13)
+‘end-of-life’ means the life cycle stage that begins when a product is discarded and ends when the waste material of the product is returned to nature or enters another product’s life cycle;
+(14)
+‘environmental impact’ means any change to the environment, whether adverse or beneficial, wholly or partially resulting from a product during its life cycle;
+(15)
+‘class of performance’ means a range of performance levels in relation to one or more product parameters referred to in Annex I, which is established based on a common methodology for the product or product group, ordered in such a way as to allow for product differentiation;
+(16)
+‘remanufacturing’ means actions through which a new product is produced from objects that are waste, products or components and through which at least one change is made that substantially affects the safety, performance, purpose or type of the product;
+(17)
+‘upgrading’ means actions carried out to enhance the functionality, performance, capacity, safety or aesthetics of a product;
+(18)
+‘refurbishment’ means actions carried out to prepare, clean, test, service and, where necessary, repair a product or a discarded product in order to restore its performance or functionality within the intended use and range of performance originally conceived at the design stage at the time of the placing of the product on the market;
+(19)
+‘maintenance’ means one or more actions carried out to keep a product in a condition where it is able to fulfil its intended purpose;
+(20)
+‘repair’ means one or more actions carried out to return a defective product or waste to a condition where it fulfils its intended purpose;
+(21)
+‘premature obsolescence’ means a product design feature or subsequent action or omission resulting in the product becoming non-functional or performing less well without such changes of functionality or performance being the result of normal wear and tear;
+(22)
+‘durability’ means the ability of a product to maintain over time its function and performance under specified conditions of use, maintenance and repair;
+(23)
+‘reliability’ means the probability that a product functions as required under given conditions for a given duration without an occurrence which results in a primary or secondary function of the product no longer being performed;
+(24)
+‘environmental footprint’ means a quantification of the environmental impacts resulting from a product throughout its life cycle, whether in relation to a single environmental impact category or an aggregated set of impact categories based on the Product Environmental Footprint method established by Recommendation (EU) 2021/2279 or other scientific methods developed by international organisations, widely tested in collaboration with different industry sectors and adopted or implemented by the Commission in other Union law;
+(25)
+‘carbon footprint’ means the sum of greenhouse gas emissions and greenhouse gas removals in a product system, expressed as CO2 equivalents and based on a life cycle assessment using the single impact category of climate change;
+(26)
+‘material footprint’ refers to the total amount of raw materials extracted to meet final consumption demands;
+(27)
+‘substance of concern’ means a substance that:
+(a)
+meets the criteria laid down in Article 57 of Regulation (EC) No 1907/2006 and is identified in accordance with Article 59(1) of that Regulation;
+(b)
+is classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in one of the following hazard classes or hazard categories:
+(i)
+carcinogenicity categories 1 and 2;
+(ii)
+germ cell mutagenicity categories 1 and 2;
+(iii)
+reproductive toxicity categories 1 and 2;
+(iv)
+endocrine disruption for human health categories 1 and 2;
+(v)
+endocrine disruption for the environment categories 1 and 2;
+(vi)
+persistent, mobile and toxic or very persistent, very mobile properties;
+(vii)
+persistent, bioaccumulative and toxic or very persistent, very bioaccumulative properties;
+(viii)
+respiratory sensitisation category 1;
+(ix)
+skin sensitisation category 1;
+(x)
+hazardous to the aquatic environment — categories chronic 1 to 4;
+(xi)
+hazardous to the ozone layer;
+(xii)
+specific target organ toxicity — repeated exposure categories 1 and 2;
+(xiii)
+specific target organ toxicity — single exposure categories 1 and 2;
+(c)
+is regulated under Regulation (EU) 2019/1021; or
+(d)
+negatively affects the reuse and recycling of materials in the product in which it is present;
+(28)
+‘digital product passport’ means a set of data specific to a product that includes the information specified in the applicable delegated act adopted pursuant to Article 4 and that is accessible via electronic means through a data carrier in accordance with Chapter III;
+(29)
+‘data carrier’ means a linear barcode symbol, a two-dimensional symbol or other automatic identification data capture medium that can be read by a device;
+(30)
+‘unique product identifier’ means a unique string of characters for the identification of a product that also enables a web link to the digital product passport;
+(31)
+‘unique operator identifier’ means a unique string of characters for the identification of an actor involved in a product’s value chain;
+(32)
+‘digital product passport service provider’ means a natural or legal person that is an independent third-party authorised by the economic operator which places the product on the market or puts it into service and that processes the digital product passport data for that product for the purpose of making such data available to economic operators and other relevant actors with a right to access those data under this Regulation or other Union law;
+(33)
+‘unique facility identifier’ means a unique string of characters for the identification of locations or buildings involved in a product’s value chain or used by actors involved in a product’s value chain;
+(34)
+‘destruction’ means the intentional damaging or discarding of a product as waste with the exception of discarding for the sole purpose of delivering the discarded product for preparing for reuse, including refurbishment or remanufacturing operations;
+(35)
+‘customer’ means a natural or legal person that purchases, hires or receives a product for their own use whether or not acting for purposes which are outside their trade, business, craft or profession;
+(36)
+‘consumer product’ means any product, excluding components and intermediate products, primarily intended for consumers;
+(37)
+‘unsold consumer product’ means any consumer product that has not been sold including surplus stock, excess inventory and deadstock and products returned by a consumer on the basis of their right of withdrawal in accordance with Article 9 of Directive 2011/83/EU or, where applicable, during any longer withdrawal period provided by the trader;
+(38)
+‘self-regulation measure’ means a voluntary agreement or a code of conduct, concluded by economic operators on their own initiative, which they are responsible for enforcing;
+(39)
+‘making available on the market’ means any supply of a product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(40)
+‘placing on the market’ means the first making available of a product on the Union market;
+(41)
+‘putting into service’ means the first use, for its intended purpose, in the Union, of a product;
+(42)
+‘manufacturer’ means any natural or legal person that manufactures a product or that has a product designed or manufactured, and markets that product under their name or trademark;
+(43)
+‘authorised representative’ means any natural or legal person established in the Union that has received a written mandate from the manufacturer to act on the manufacturer’s behalf in relation to specified tasks with regard to the manufacturer’s obligations under this Regulation;
+(44)
+‘importer’ means any natural or legal person established in the Union that places a product from a third country on the Union market;
+(45)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, that makes a product available on the market;
+(46)
+‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the dealer and the fulfilment service provider;
+(47)
+‘independent operator’ means a natural or legal person that is independent of the manufacturer and is directly or indirectly involved in the refurbishment, repair, maintenance or repurposing of a product, and includes waste management operators, refurbishers, repairers, manufacturers or distributors of repair equipment, tools or spare parts, as well as publishers of technical information, operators offering inspection and testing services and operators offering training for installers, manufacturers and repairers of equipment;
+(48)
+‘professional repairer’ means a natural or legal person that provides professional repair or maintenance services for a product, irrespective of whether that person acts within the manufacturer’s distribution system or independently;
+(49)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, process or service;
+(50)
+‘CE marking’ means a marking by which the manufacturer indicates that the relevant product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+(51)
+‘conformity assessment’ means the process demonstrating whether the ecodesign requirements set out in the relevant delegated acts adopted pursuant to Article 4 have been fulfilled;
+(52)
+‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+(53)
+‘notified body’ means a conformity assessment body notified in accordance with Chapter IX;
+(54)
+‘provider of an online marketplace’ means a provider of an intermediary service using an online interface which allows customers to conclude distance contracts with economic operators for the sale of products covered by delegated acts adopted pursuant to Article 4;
+(55)
+‘dealer’ means a distributor or any other natural or legal person that offers products for sale, hire or hire purchase, or that displays products, to end users in the course of a commercial activity, including through distance selling; and includes any natural or legal person that puts a product into service in the course of a commercial activity;
+(56)
+‘distance selling’ means the offer for sale, hire or hire purchase of products, online or through other means of distance sales, whereby the potential customer cannot physically access the product;
+(57)
+‘product presenting a risk’ means a product that, by not complying with an ecodesign requirement set in or pursuant to this Regulation other than those listed in Article 71(1), could adversely affect the environment or other public interests protected by that requirement;
+(58)
+‘product presenting a serious risk’ means a product presenting a risk for which, based on an assessment, the degree of the relevant non-compliance or the associated harm is considered to require rapid intervention by the market surveillance authorities, including cases where the effects of the non-compliance are not immediate.
+The definitions of ‘SMEs’, ‘small enterprises’ and ‘microenterprises’ in Article 2(1), (2) and (3), respectively, of Annex I to Commission Recommendation 2003/361/EC (58) apply.
+The definitions of ‘substance’ and ‘mixture’ in Article 3, points (1) and (2), respectively, of Regulation (EC) No 1907/2006 apply.
+The definitions of ‘accreditation’ and ‘national accreditation body’ in Article 2, points (10) and (11), respectively, of Regulation (EC) No 765/2008 apply.
+The definitions of ‘waste’, ‘hazardous waste’, ‘reuse’, ‘recovery’, ‘preparing for reuse’ and ‘recycling’ in Article 3, points (1), (2), (13), (15), (16) and (17), respectively, of Directive 2008/98/EC apply.
+The definition of ‘harmonised standard’ in Article 2, point (1) (c), of Regulation (EU) No 1025/2012 applies.
+The definitions of ‘contracting authorities’ in Article 2, point (1), of Directive 2014/24/EU and of ‘contracting entities’ in Article 4(1) of Directive 2014/25/EU apply. ‘Public contracts’ means contracts covered by Directives 2014/24/EU and 2014/25/EU.
+The definition of ‘processing’ in Article 3, point (2), of Regulation (EU) 2018/1807 of the European Parliament and of the Council (59) applies.
+The definition of ‘consumer’ in Article 2, point (2), of Directive (EU) 2019/771 applies.
+The definitions of ‘market surveillance’, ‘market surveillance authority’, ‘fulfilment service provider’, ‘online interface’, ‘corrective action’, ‘end user’, ‘recall’, ‘withdrawal’, ‘customs authorities’ and ‘release for free circulation’ in Article 3, points (3), (4), (11), (15), (16), (21), (22), (23), (24) and (25), respectively, of Regulation (EU) 2019/1020 apply.

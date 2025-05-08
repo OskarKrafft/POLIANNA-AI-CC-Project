@@ -1,0 +1,14 @@
+Article 65
+Cross-border provision of crypto-asset services
+1.   A crypto-asset service provider that intends to provide crypto-asset services in more than one Member State shall submit the following information to the competent authority of the home Member State:
+(a)
+a list of the Member States in which the crypto-asset service provider intends to provide crypto-asset services;
+(b)
+the crypto-asset services that the crypto-asset service provider intends to provide on a cross-border basis;
+(c)
+the starting date of the intended provision of the crypto-asset services;
+(d)
+a list of all other activities provided by the crypto-asset service provider not covered by this Regulation.
+2.   The competent authority of the home Member State shall, within 10 working days of receipt of the information referred to in paragraph 1, communicate that information to the single points of contact of the host Member States, to ESMA and to EBA.
+3.   The competent authority of the Member State that granted authorisation shall inform the crypto-asset service provider concerned of the communication referred to in paragraph 2 without delay.
+4.   The crypto-asset service provider may begin to provide crypto-asset services in a Member State other than its home Member State from the date of receipt of the communication referred to in paragraph 3 or at the latest from the 15th calendar day after having submitted the information referred to in paragraph 1.

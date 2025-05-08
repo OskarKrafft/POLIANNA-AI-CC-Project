@@ -1,0 +1,393 @@
+Article 5
+Amendments to Regulation (EU) 2016/1011
+Regulation (EU) 2016/1011 is amended as follows:
+(1)
+in Article 3(1), point (24)(a) is amended as follows:
+(a)
+the introductory part is replaced by the following:
+‘(a)
+input data contributed entirely from:’;
+(b)
+point (vii) is replaced by the following:
+‘(vii)
+a service provider to which the benchmark administrator has outsourced the data collection in accordance with Article 10, with the exception of point (f) of Article 10(3), provided that the service provider receives the data entirely from an entity referred to in points (i) to (vi) of this point;’;
+(2)
+in Article 4, the following paragraph is added:
+‘9.   ESMA shall develop draft regulatory technical standards to specify the requirements to ensure that the governance arrangements referred to in paragraph 1 are sufficiently robust.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 October 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.’;
+(3)
+in Article 12, the following paragraph is added:
+‘4.   ESMA shall develop draft regulatory technical standards to specify the conditions to ensure that the methodology referred to in paragraph 1 complies with points (a) to (e) of that paragraph.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 October 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.’;
+(4)
+in Article 14, the following paragraph is added:
+‘4.   ESMA shall develop draft regulatory technical standards to specify the characteristics of the systems and controls referred to in paragraph 1.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 October 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.’;
+(5)
+in Article 20, the following paragraph is inserted:
+‘1a.   Where ESMA considers that a benchmark fulfils all of the criteria set out in point (c) of paragraph 1, it shall submit a documented request to the Commission to recognise that benchmark as critical.
+After receiving that documented request, the Commission shall adopt an implementing act in accordance with paragraph 1.
+ESMA shall review its assessment of the criticality of the benchmark at least every two years and shall notify and transmit the assessment to the Commission.’;
+(6)
+Article 21 is amended as follows:
+(a)
+paragraph 2 is replaced by the following:
+‘2.   Upon receipt of the assessment by the administrator referred to in paragraph 1, the competent authority shall:
+(a)
+inform ESMA and the college established under Article 46;
+(b)
+within four weeks following the receipt of that assessment, make its own assessment of how the benchmark is to be transitioned to a new administrator or be ceased to be provided, taking into account the procedure established in accordance with Article 28(1).
+During the period referred to in point (b) of the first subparagraph, the administrator shall not cease the provision of the benchmark without the written consent of ESMA or the competent authority, where relevant.’;
+(b)
+paragraph 5 is added:
+‘5.   ESMA shall develop draft regulatory technical standards to specify the criteria on which the assessment referred to in point (b) of paragraph 2 is to be based.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 October 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.’;
+(7)
+in Article 23, paragraphs 3 and 4 are replaced by the following:
+‘3.   A supervised contributor to a critical benchmark that intends to cease contributing input data shall promptly notify the administrator thereof in writing. The administrator shall thereupon inform without undue delay its competent authority.
+The competent authority of the critical benchmark administrator shall inform the competent authority of that supervised contributor, and where applicable ESMA, thereof without undue delay. The administrator shall submit to its competent authority an assessment of the implications on the capability of the critical benchmark to measure the underlying market or economic reality, as soon as possible but no later than 14 days after the notification made by the supervised contributor.
+4.   Upon receipt of the assessment referred to in paragraphs 2 and 3 of this Article, the competent authority of the administrator shall, where applicable, promptly inform ESMA or the college established under Article 46 and shall on the basis of that assessment make its own assessment of the capability of the benchmark to measure the underlying market and economic reality, taking into account the administrator’s procedure for cessation of the benchmark established in accordance with Article 28(1).’;
+(8)
+in Article 26, the following paragraph is added:
+‘6.   ESMA shall develop draft regulatory technical standards to specify the criteria under which competent authorities may require changes to the compliance statement as referred to in paragraph 4.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 October 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.’;
+(9)
+Article 30 is amended as follows:
+(a)
+in paragraph 2, the following subparagraph is inserted after point (b):
+‘The Commission may subject the application of the implementing decision referred to in the first subparagraph to the effective fulfilment by that third country of any condition, aiming at ensuring equivalent supervisory and regulatory standards, set out in that implementing decision on an ongoing basis and to the ability of ESMA to effectively exercise the monitoring responsibilities referred to in Article 33 of Regulation (EU) No 1095/2010.’;
+(b)
+the following paragraph 2a is inserted:
+‘2a.   The Commission may adopt a delegated act in accordance with Article 49 to specify the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 2 of this Article.’;
+(c)
+in paragraph 3, the following subparagraph is inserted after point (b):
+‘The Commission may subject the application of the implementing decision referred to in the first subparagraph to the effective fulfilment by that third country of any condition, aiming at ensuring equivalent supervisory and regulatory standards, set out in that implementing decision on an ongoing basis and to the ability of ESMA to effectively exercise the monitoring responsibilities referred to in Article 33 of Regulation (EU) No 1095/2010.’;
+(d)
+the following paragraph is inserted:
+‘3a.   The Commission may adopt a delegated act in accordance with Article 49 to specify the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 3 of this Article.’;
+(e)
+the introductory part of paragraph 4 is replaced by the following:
+‘4.   ESMA shall establish cooperation arrangements with the competent authorities of third countries whose legal framework and supervisory practices have been recognised as equivalent in accordance with paragraph 2 or 3 of this Article. When establishing those arrangements, ESMA shall take into account whether a third country in question is, in accordance with a delegated act adopted pursuant to Article 9 of Directive (EU) 2015/849 of the European Parliament and of the Council (*56), on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union. Such arrangements shall specify at least:
+
+(*56)  Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).’;"
+                        
+(10)
+Article 32 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Until such time as an equivalence decision is adopted in accordance with Article 30(2) and (3), a benchmark provided by an administrator located in a third country may be used by supervised entities in the Union, provided that that administrator acquires prior recognition by ESMA in accordance with this Article.’;
+(b)
+the second subparagraph of paragraph 2 is replaced by the following:
+‘To determine whether the condition referred to in the first subparagraph is fulfilled and to assess compliance with the IOSCO principles for financial benchmarks or the IOSCO principles for PRAs, as applicable, ESMA may take into account an assessment by an independent external auditor or, a certification provided by the competent authority of the administrator in the third country where the administrator is located.’;
+(c)
+paragraph 3 is replaced by the following:
+‘An administrator located in a third country intending to obtain prior recognition as referred to in paragraph 1 shall have a legal representative. The legal representative shall be a natural or legal person located in the Union and expressly appointed by that administrator to act on behalf of that administrator with regard to the administrator’s obligations under this Regulation. The legal representative shall, together with the administrator, perform the oversight function relating to the provision of benchmarks performed by the administrator under this Regulation and, in that respect, be accountable to ESMA.’;
+(d)
+paragraph 4 is deleted;
+(e)
+paragraph 5 is replaced by the following:
+‘5.   An administrator located in a third country intending to obtain prior recognition as referred to in paragraph 1 shall apply for recognition with ESMA. The applicant administrator shall provide all information necessary to satisfy ESMA that it has established, at the time of recognition, all the necessary arrangements to meet the requirements referred to in paragraph 2 and shall provide the list of its actual or prospective benchmarks which are intended for use in the Union and shall, where applicable, indicate the competent authority in the third country responsible for its supervision.
+Within 90 working days of receipt of the application referred to in the first subparagraph of this paragraph, ESMA shall verify that the conditions laid down in paragraphs 2 and 3 are fulfilled.
+Where ESMA considers that the conditions laid down in paragraphs 2 and 3 are not fulfilled, it shall refuse the recognition request and set out the reasons for that refusal. In addition, no recognition shall be granted unless the following additional conditions are fulfilled:
+(a)
+where an administrator located in a third country is subject to supervision, an appropriate cooperation arrangement is in place between ESMA and the competent authority of the third country where the administrator is located, in compliance with the regulatory technical standards adopted pursuant to Article 30(5), to ensure an efficient exchange of information that enables the competent authority of that third country to carry out its duties in accordance with this Regulation;
+(b)
+the effective exercise by ESMA of its supervisory functions under this Regulation is neither prevented by the laws, regulations or administrative provisions of the third country where the administrator is located, nor, where applicable, by limitations in the supervisory and investigatory powers of that third country’s competent authority.’;
+(f)
+paragraphs 6 and 7 are deleted;
+(g)
+paragraph 8 is replaced by the following:
+‘8.   ESMA shall suspend or, where appropriate, withdraw the recognition granted in accordance with paragraph 5 where it has well-founded reasons, based on documented evidence, to consider that the administrator:
+(a)
+is acting in a manner which is clearly prejudicial to the interests of users of its benchmarks or to the orderly functioning of markets;
+(b)
+has seriously infringed the relevant requirements set out in this Regulation;
+(c)
+made false statements or used any other irregular means to obtain the recognition.’;
+(11)
+in Article 34, the following paragraph is inserted:
+‘1a.   Where one or more of the indices provided by the person referred to in paragraph 1 would qualify as critical benchmarks as referred to in points (a) and (c) of Article 20(1), the application shall be addressed to ESMA.’;
+(12)
+Article 40 is replaced by the following:
+‘Article 40
+Competent authorities
+1.   For the purposes of this Regulation, ESMA shall be the competent authority for:
+(a)
+administrators of critical benchmarks as referred to in points (a) and (c) of Article 20(1);
+(b)
+administrators of the benchmarks referred to in Article 32.
+2.   Each Member State shall designate the relevant competent authority responsible for carrying out the duties under this Regulation and shall inform the Commission and ESMA thereof.
+3.   A Member State that designates more than one competent authority in accordance with paragraph 2 shall clearly determine the respective roles of those competent authorities and shall designate a single authority to be responsible for coordinating the cooperation and the exchange of information with the Commission, ESMA and other Member States’ competent authorities.
+4.   ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraphs 2 and 3.’;
+(13)
+Article 41 is amended as follows:
+(a)
+in paragraph 1, the introductory part is replaced by the following:
+‘1.   In order to fulfil their duties under this Regulation, competent authorities referred to in Article 40(2) shall have, in conformity with national law, at least the following supervisory and investigatory powers:’;
+(b)
+in paragraph 2, the introductory part is replaced by the following:
+‘2.   The competent authorities referred to in Article 40(2) shall exercise their functions and powers referred to in paragraph 1 of this Article and the powers to impose sanctions referred to in Article 42 in accordance with their national legal frameworks, in any of the following ways:’;
+(14)
+in Article 43(1), the introductory part is replaced by the following:
+‘1.   Member States shall ensure that, when determining the type and level of administrative sanctions and other administrative measures, competent authorities that they have designated in accordance with Article 40(2) take into account all relevant circumstances, including where appropriate:’;
+(15)
+Article 44 is replaced by the following:
+‘Article 44
+Obligation to cooperate
+1.   Member States that have chosen to lay down criminal sanctions for infringements of the provisions referred to in Article 42 shall ensure that appropriate measures are in place so that the competent authorities designated in accordance with Article 40(2) and (3) have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information relating to criminal investigations or proceedings commenced for possible infringements of this Regulation. Those competent authorities shall provide that information to other competent authorities and to ESMA.
+2.   Competent authorities designated in accordance with Article 40(2) and (3) shall assist other competent authorities and ESMA. In particular, they shall exchange information and cooperate in any investigation or supervisory activities. Competent authorities may also cooperate with other competent authorities to facilitate the recovery of pecuniary sanctions.’;
+(16)
+in Article 45(5), the first subparagraph is replaced by the following:
+‘5.   Member States shall provide ESMA with aggregated information regarding all administrative sanctions and other administrative measures imposed pursuant to Article 42 on an annual basis. That obligation shall not apply to measures of an investigatory nature. ESMA shall publish that information in an annual report, together with aggregated information on all administrative sanctions and other administrative measures it has imposed pursuant to Article 48f.’;
+(17)
+in Article 46, paragraphs 1 and 2 are replaced by the following:
+‘1.   Within 30 working days from the inclusion of a benchmark referred to in points (a) and (c) of Article 20(1) in the list of critical benchmarks, with the exception of benchmarks where the majority of contributors are non-supervised entities, the competent authority of the administrator shall establish a college and lead the college.
+2.   The college shall comprise representatives of the competent authority of the administrator, ESMA, unless it is the competent authority of the administrator, and the competent authorities of supervised contributors.’;
+(18)
+in Article 47, paragraphs 1 and 2 are replaced by the following:
+‘1.   The competent authorities referred to in Article 40(2) shall cooperate with ESMA for the purposes of this Regulation, in accordance with Regulation (EU) No 1095/2010.
+2.   The competent authorities referred to in Article 40(2) shall, without undue delay, provide ESMA with all information necessary to carry out its duties, in accordance with Article 35 of Regulation (EU) No 1095/2010.’;
+(19)
+in Title VI, the following Chapter is added:
+
+                                       ‘
+                                       CHAPTER 4
+
+
+
+ESMA powers and competences
+
+
+Article 48a
+Exercise of the powers by ESMA
+The powers conferred on ESMA, on any official of ESMA or on any other person authorised by ESMA by Articles 48b to 48d shall not be used to require the disclosure of information or documents that are subject to legal privilege.
+Article 48b
+Request for information
+1.   ESMA may by simple request or by decision require the following persons to provide all necessary information to enable ESMA to carry out its duties under this Regulation:
+(a)
+persons involved in the provision of benchmarks, as referred to in Article 40(1);
+(b)
+third parties to whom the persons referred to in point (a) have outsourced functions or activities in accordance with Article 10;
+(c)
+persons otherwise closely and substantially related or connected to the persons referred to in point (a).
+In accordance with Article 35 of Regulation (EU) No 1095/2010 and at the request of ESMA, competent authorities shall submit that request for information to contributors to critical benchmarks referred to in points (a) and (c) of Article 20(1) of this Regulation and shall share the information received without undue delay with ESMA.
+2.   Any simple request for information as referred to paragraph 1 shall:
+(a)
+refer to this Article as the legal basis of that request;
+(b)
+state the purpose of that request;
+(c)
+specify what information is required;
+(d)
+include a time limit within which the information is to be provided;
+(e)
+include a statement that there is no obligation on the person from whom the information is requested to provide that information but that in the event of a voluntary reply to the request, the information provided must not be incorrect or misleading;
+(f)
+indicate the amount of the fine to be imposed in accordance with Article 48f where information provided is incorrect or misleading.
+3.   When requiring to supply information under paragraph 1 by decision, ESMA shall:
+(a)
+refer to this Article as the legal basis of that request;
+(b)
+state the purpose of that request;
+(c)
+specify what information is required;
+(d)
+set a time limit within which the information is to be provided;
+(e)
+indicate the periodic penalty payments provided for in Article 48g where the required information is incomplete;
+(f)
+indicate the fine provided for in Article 48f, where the answers to the questions asked are incorrect or misleading;
+(g)
+indicate the right to appeal the decision before ESMA’s Board of Appeal and to have the decision reviewed by the Court of Justice of the European Union (Court of Justice) in accordance with Article 48k of this Regulation and Articles 60 and 61 of Regulation (EU) No 1095/2010.
+4.   The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law or by their constitution, shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+5.   ESMA shall, without undue delay, send a copy of the simple request or of its decision to the competent authority of the Member State of the persons referred to in paragraph 1.
+Article 48c
+General investigations
+1.   In order to carry out its duties under this Regulation, ESMA may conduct necessary investigations of the persons referred to in Article 48b(1). To that end, the officials and other persons authorised by ESMA shall be empowered to:
+(a)
+examine any records, data, procedures and any other material relevant to the execution of its tasks, irrespective of the medium on which they are stored;
+(b)
+take or obtain certified copies of or extracts from such records, data, procedures and other material;
+(c)
+summon and ask any of those persons or their representatives, or staff, for oral or written explanations on facts or documents relating to the subject matter and purpose of the inspection, and to record the answers;
+(d)
+interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;
+(e)
+request records of telephone and data traffic.
+2.   The officials and other persons authorised by ESMA for the purposes of the investigations referred to in paragraph 1 shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the investigation. That authorisation shall indicate the periodic penalty payments provided for in Article 48g where the production of the required records, data, procedures or any other material, or the answers to questions asked to the persons referred to in Article 48b(1) are not provided or are incomplete, and the fines provided for in Article 48f, where the answers to questions asked to those persons are incorrect or misleading.
+3.   The persons referred to in Article 48b(1) are required to submit to investigations launched on the basis of a decision of ESMA. The decision shall specify the subject matter and purpose of the investigation, the periodic penalty payments provided for in Article 48g, the legal remedies available under Regulation (EU) No 1095/2010 and the right to have the decision reviewed by the Court of Justice.
+4.   In good time before an investigation referred to in paragraph 1, ESMA shall inform the competent authority of the Member State where the investigation is to be carried out of the investigation and of the identity of the authorised persons. Officials of the competent authority concerned shall, at the request of ESMA, assist those authorised persons in carrying out their duties. Officials of the competent authority concerned may attend the investigations upon request.
+5.   If a request for records of telephone or data traffic referred to in point (e) of paragraph 1 requires authorisation from a national judicial authority according to applicable national law, such authorisation shall be applied for. Such authorisation may also be applied for as a precautionary measure.
+6.   Where a national judicial authority receives an application for the authorisation of a request for records of telephone or data traffic referred to in point (e) of paragraph 1 that authority shall verify the following:
+(a)
+the decision referred to in paragraph 3 is authentic;
+(b)
+any measures to be taken are proportionate and not arbitrary or excessive.
+For the purposes of point (b), the national judicial authority may ask ESMA for detailed explanations, in particular relating to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place and the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity for the investigation or demand that it be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Article 61 of Regulation (EU) No 1095/2010.
+Article 48d
+On-site inspections
+1.   In order to carry out its duties under this Regulation, ESMA may conduct all necessary on-site inspections at any business premises of the persons referred to in Article 48b(1).
+2.   The officials and other persons authorised by ESMA to conduct an on-site inspection may enter any business premises of the persons subject to an investigation decision adopted by ESMA and shall have all the powers stipulated in Article 48c(1). They shall have the power to seal any business premises and books or records for the period of, and to the extent necessary for, the inspection.
+3.   In sufficient time before the inspection, ESMA shall give notice of the inspection to the competent authority of the Member State where the inspection is to be conducted. Where the proper conduct and efficiency of the inspection so require, ESMA, after informing the relevant competent authority, may carry out the on-site inspection without prior notice. Inspections in accordance with this Article shall be conducted provided that the relevant authority has confirmed that it does not object to those inspections.
+4.   The officials and other persons authorised by ESMA to conduct an on-site inspection shall exercise their powers upon production of a written authorisation, specifying the subject matter and purpose of the inspection and the periodic penalty payments provided for in Article 48g where the persons concerned do not submit to the inspection.
+5.   The persons referred to in Article 48b(1) shall submit to on-site inspections ordered by a decision of ESMA. That decision shall specify the subject matter and purpose of the inspection, the date on which it is to begin and indicate the periodic penalty payments provided for in Article 48g, the legal remedies available under Regulation (EU) No 1095/2010 as well as the right to have the decision reviewed by the Court of Justice.
+6.   Officials of, as well as those authorised or appointed by, the competent authority of the Member State where the inspection is to be conducted, shall, at the request of ESMA, actively assist the officials and other persons authorised by ESMA. Officials of that competent authority may also attend the on-site inspections upon request.
+7.   ESMA may also require competent authorities to carry out specific investigatory tasks and on-site inspections as provided for in this Article and in Article 48c(1) on its behalf. To that end, competent authorities shall enjoy the same powers as ESMA as set out in this Article and in Article 48c(1).
+8.   Where the officials and other accompanying persons authorised by ESMA find that a person opposes an inspection ordered pursuant to this Article, the competent authority of the Member State concerned shall afford them the necessary assistance, requesting, where appropriate, the assistance of the police or of an equivalent enforcement authority, to enable them to conduct their on-site inspection.
+9.   If the on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7 requires authorisation by a national judicial authority according to the applicable national law, such authorisation shall be applied for. Such authorisation may also be applied for as a precautionary measure.
+10.   Where a national judicial authority receives an application for the authorisation of an on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7, that authority shall verify the following:
+(a)
+the decision adopted by ESMA referred to in paragraph 5 is authentic;
+(b)
+any measures to be taken are proportionate and not arbitrary or excessive.
+For the purposes of point (b), the national judicial authority may ask ESMA for detailed explanations, in particular relating to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place and the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity of the investigation or demand that it be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Article 61 Regulation (EU) No 1095/2010.
+Article 48e
+Supervisory measures by ESMA
+1.   Where, in accordance with Article 48i(5), ESMA finds that a person has committed one of the infringements listed in point (a) of Article 42(1), it shall take one or more of the following actions:
+(a)
+adopt a decision requiring the person to bring the infringement to an end;
+(b)
+adopt a decision imposing fines pursuant to Article 48f;
+(c)
+issue public notices.
+2.   When taking the actions referred to in paragraph 1, ESMA shall take into account the nature and seriousness of the infringement, having regard to the following criteria:
+(a)
+the duration and frequency of the infringement;
+(b)
+whether financial crime has been occasioned, facilitated or otherwise attributable to the infringement;
+(c)
+whether the infringement has been committed intentionally or negligently;
+(d)
+the degree of responsibility of the person responsible for the infringement;
+(e)
+the financial strength of the person responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
+(f)
+the impact of the infringement on retail investors’ interests;
+(g)
+the importance of the profits gained, losses avoided by the person responsible for the infringement or the losses for third parties derived from the infringement, insofar as they can be determined;
+(h)
+the level of cooperation of the person responsible for the infringement with ESMA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
+(i)
+previous infringements by the person responsible for the infringement;
+(j)
+measures taken after the infringement by the person responsible for the infringement to prevent its repetition.
+3.   Without undue delay, ESMA shall notify any action taken pursuant to paragraph 1 to the person responsible for the infringement, and shall communicate it to the competent authorities of the Member States and to the Commission. It shall publicly disclose any such action on its website within 10 working days from the date when it was adopted.
+The disclosure to the public referred to in the first subparagraph shall include the following:
+(a)
+a statement affirming the right of the person responsible for the infringement to appeal the decision;
+(b)
+where relevant, a statement affirming that an appeal has been lodged and specifying that such an appeal does not have suspensive effect;
+(c)
+a statement asserting that it is possible for ESMA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1095/2010.
+Article 48f
+Fines
+1.   Where, in accordance with Article 48i(5), ESMA finds that any person has, intentionally or negligently, committed one or more of the infringements listed in point (a) of Article 42(1), it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
+2.   The maximum amount of the fine referred to in paragraph 1 shall be:
+(a)
+in the case of a legal person, EUR 1 000 000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016, or 10 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whichever is the higher;
+(b)
+in the case of a natural person, EUR 500 000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016.
+Notwithstanding the first subparagraph, the maximum amount of the fine for infringements of point (d) of Article 11(1) or of Article 11(4) shall be EUR 250 000 or, in the Member States whose official currency is not the euro, the corresponding value in the national currency on 30 June 2016 or 2 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whichever is the higher for legal persons, and EUR 100 000 or, in the Member States whose official currency is not the euro, the corresponding value in the national currency on 30 June 2016 for natural persons.
+For the purposes of point (a), where the legal person is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial accounts in accordance with Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with the relevant Union law in the area of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
+3.   When determining the level of a fine pursuant to paragraph 1, ESMA shall take into account the criteria set out in Article 48e(2).
+4.   Notwithstanding paragraph 3, where the legal person has directly or indirectly benefited financially from the infringement, the amount of the fine shall be at least equal to that benefit.
+5.   Where an act or omission of a person constitutes more than one infringement listed in point (a) of Article 42(1), only the higher fine calculated in accordance with paragraph 2 of this Article and relating to one of those infringements shall apply.
+Article 48g
+Periodic penalty payments
+1.   ESMA shall, by decision, impose periodic penalty payments to compel:
+(a)
+a person to put an end to an infringement in accordance with a decision taken pursuant to point (a) of Article 48e(1);
+(b)
+persons referred to in Article 48b(1):
+(i)
+to supply complete information which has been requested by a decision pursuant to Article 48b;
+(ii)
+to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 48c;
+(iii)
+to submit to an on-site inspection ordered by a decision taken pursuant to Article 48d.
+2.   A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+3.   Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+4.   A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA’s decision. Following the end of the period, ESMA shall review the measure.
+Article 48h
+Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+1.   ESMA shall disclose to the public every fine and every periodic penalty payment that has been imposed pursuant to Articles 48f and 48g, unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the Council (*57).
+2.   Fines and periodic penalty payments imposed pursuant to Articles 48f and 48g shall be of an administrative nature.
+3.   Where ESMA decides not to impose any fines or penalty payments, it shall inform the European Parliament, the Council, the Commission and the competent authorities of the Member State concerned thereof and shall set out the reasons for its decision.
+4.   Fines and periodic penalty payments imposed pursuant to Articles 48f and 48g shall be enforceable.
+Enforcement shall be governed by the rules of procedure in force in the Member State or third country in which it is carried out.
+5.   The amounts of the fines and the periodic penalty payments shall be allocated to the general budget of the European Union.
+Article 48i
+Procedural rules for taking supervisory measures and imposing fines
+1.   Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements listed in point (a) of Article 42(1), ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision of the benchmarks to which the infringement relates and shall perform his or her functions independently from ESMA’s Board of Supervisors.
+2.   The investigation officer referred to in paragraph 1 shall investigate the alleged infringements, take into account any comments submitted by the persons who are subject to the investigation, and shall submit a complete file with his or her findings to ESMA’s Board of Supervisors.
+3.   In order to carry out his or her tasks, the investigation officer shall have the power to request information in accordance with Article 48b and to conduct investigations and on-site inspections in accordance with Articles 48c and 48d.
+4.   Where carrying out those tasks, the investigation officer shall have access to all documents and information that have been gathered by ESMA in its supervisory activities.
+5.   Upon completion of his or her investigation and before submitting the file with his or her findings to ESMA’s Board of Supervisors, the investigation officer shall give the persons subject to the investigation the opportunity to be heard on the matters being investigated. The investigation officer shall base his or her findings only on facts on which the persons concerned have had the opportunity to comment.
+6.   The rights of the defence of the persons subject to the investigation shall be fully respected during investigations under this Article.
+7.   Upon submission of the file with his or her findings to ESMA’s Board of Supervisors, the investigation officer shall notify the persons who are subject to the investigation. The persons subject to the investigation shall be entitled to have access to the file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information affecting third parties.
+8.   On the basis of the file containing the investigation officer’s findings and, when requested by the persons concerned, after having heard those persons in accordance with Article 48j, ESMA shall decide if one or more of the infringements listed in point (a) of Article 42(1) has been committed by the persons subject to the investigation and, in such case, shall take a supervisory measure in accordance with Article 48e and impose a fine in accordance with Article 48f.
+9.   The investigation officer shall not participate in the deliberations of ESMA’s Board of Supervisors or in any other way intervene in the decision-making process of ESMA’s Board of Supervisors.
+10.   By 1 October 2021, the Commission shall adopt delegated acts in accordance with Article 49 to specify the rules of procedure for the exercise of the power to impose fines or periodic penalty payments, including provisions on rights of defence, temporal provisions, and the collection of fines or periodic penalty payments, and the limitation periods for the imposition and enforcement of fines and periodic penalty payments.
+11.   ESMA shall refer matters for criminal prosecution to the relevant national authorities where, in carrying out its tasks under this Regulation, it finds that there are serious indications of the possible existence of facts liable to constitute criminal offences. In addition, ESMA shall refrain from imposing fines or periodic penalty payments where a prior acquittal or conviction arising from an identical fact or facts which are substantially the same has already acquired the force of res judicata as the result of criminal proceedings under national law.
+Article 48j
+Hearing of the persons subject to investigations
+1.   Before taking any decision pursuant to Articles 48f, 48g and 48e, ESMA shall give the persons subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons subject to the proceedings have had an opportunity to comment.
+The first subparagraph shall not apply if urgent action pursuant to Article 48e is needed in order to prevent significant and imminent damage to the financial system. In such a case ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+2.   The rights of the defence of the persons subject to the proceedings shall be fully respected in the investigations. They shall be entitled to have access to ESMA’s file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA’s internal preparatory documents.
+Article 48k
+Review by the Court of Justice
+The Court of Justice shall have unlimited jurisdiction to review decisions whereby ESMA has imposed a fine or a periodic penalty payment. It may annul, reduce or increase the fine or periodic penalty payment imposed.
+Article 48l
+Supervisory fees
+1.   ESMA shall charge fees to the administrators referred to in Article 40(1), in accordance with the delegated acts adopted pursuant to paragraph 3 of this Article. Those fees shall fully cover ESMA’s necessary expenditure relating to the supervision of administrators and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation in particular as a result of any delegation of tasks in accordance with Article 48m.
+2.   The amount of an individual fee charged to an administrator shall cover all administrative costs incurred by ESMA for its activities in relation to the supervision and it shall be proportionate to the turnover of the administrator.
+3.   By 1 October 2021, the Commission shall adopt delegated acts in accordance with Article 49 in order to supplement this Regulation by specifying the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
+Article 48m
+Delegation of tasks by ESMA to competent authorities
+1.   Where necessary for the proper performance of a supervisory task, ESMA may delegate specific supervisory tasks to the competent authority of a Member State in accordance with the guidelines issued by ESMA pursuant to Article 16 of Regulation (EU) No 1095/2010. Such specific supervisory tasks may, in particular, include the power to carry out requests for information in accordance with Article 48b and to conduct investigations and on-site inspections in accordance with Article 48c and Article 48d.
+By way of derogation from the first subparagraph, the authorisation of critical benchmarks shall not be delegated.
+2.   Prior to the delegation of a task in accordance with paragraph 1, ESMA shall consult the relevant competent authority about:
+(a)
+the scope of the task to be delegated;
+(b)
+the timetable for the performance of the task; and
+(c)
+the transmission of necessary information by and to ESMA.
+3.   In accordance with the delegated act adopted pursuant to Article 48l(3), ESMA shall reimburse a competent authority for costs incurred as a result of carrying out delegated tasks.
+4.   ESMA shall review any delegation made in accordance with paragraph 1 at appropriate intervals. A delegation may be revoked at any time.
+5.   A delegation of tasks shall not affect the responsibility of ESMA nor limit ESMA’s ability to conduct and oversee the delegated activity.
+Article 48n
+Transition measures related to ESMA
+1.   All competences and duties related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1) that are conferred on competent authorities as referred to in Article 40(2) shall be terminated on 1 January 2022. Those competences and duties shall be taken-up by ESMA on the same date.
+2.   Any files and working documents related to the supervisory and enforcement activity regarding administrators as referred to in Article 40(1), including any ongoing examinations and enforcement actions, or certified copies thereof, shall be taken over by ESMA on the date referred to in paragraph 1 of this Article.
+However, applications for authorisation by administrators of a critical benchmark referred to in points (a) and (c) of Article 20(1) and applications for recognition in accordance with Article 32 that have been received by competent authorities before 1 October 2021 shall not be transferred to ESMA, and the decision to authorise or recognise shall be taken by the relevant competent authority.
+3.   Competent authorities shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 January 2022. Those competent authorities shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity regarding administrators as referred to in Article 40(1).
+4.   ESMA shall act as the legal successor to the competent authorities referred to in paragraph 1 in any administrative or judicial proceedings that result from supervisory and enforcement activity pursued by those competent authorities in relation to matters that fall within the scope this Regulation.
+5.   Any authorisation of administrators of a critical benchmark as referred to in points (a) and (c) of Article 20(1) and recognition in accordance with Article 32 granted by a competent authority referred to in paragraph 1 of this Article shall remain valid after the transfer of competences to ESMA.
+
+(*57)  Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).’;"
+                        
+(20)
+Article 49 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘2a.   The power to adopt delegated acts referred to in Articles 30(2a), 30(3a), 48i(10) and 48l(3) shall be conferred on the Commission for an indeterminate period of time from 30 December 2019.’;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   The delegation of power referred to in Articles 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 30(2a), 30(3a), 33(7), 48i(10), 48l(3), 51(6) and 54(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.’;
+(c)
+paragraph 6 is replaced by the following:
+‘6.   A delegated act adopted pursuant to Article 3(2), 13(2a), 19a(2), 19c(1), 20(6), 24(2), 27(2b), 30(2a), 30(3a), 33(7), 48i(10), 48l(3), 51(6) or 54(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.’;
+(21)
+Article 53 is replaced as follows:
+‘Article 53
+ESMA reviews
+1.   ESMA shall seek to build a common European supervisory culture and consistent supervisory practices and ensure consistent approaches among competent authorities in relation to the application of Article 33. To that end, the endorsements authorised in accordance with Article 33 shall be reviewed by ESMA every two years.
+ESMA shall issue an opinion to each competent authority that has endorsed a third-country benchmark assessing how that competent authority applies the relevant requirements of Article 33 and the requirements of any relevant delegated act and regulatory or implementing technical standards based on this Regulation.
+2.   ESMA shall have the power to require the documented evidence from a competent authority for any of the decisions adopted in accordance with the first subparagraph of Article 51(2) and Article 25(2), as well as for actions taken with regard to the enforcement of Article 24(1).’.

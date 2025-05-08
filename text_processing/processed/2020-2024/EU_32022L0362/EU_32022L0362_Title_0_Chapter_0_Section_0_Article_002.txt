@@ -1,0 +1,489 @@
+Article 2
+1.   For the purposes of this Directive:
+(1)
+“trans-European road network” means the road transport infrastructure referred to in Chapter II, Section 3, of Regulation (EU) No 1315/2013 of the European Parliament and of the Council (*), as illustrated by maps in Annex I to that Regulation;
+(2)
+“core trans-European transport network” means the transport infrastructure identified in accordance with Chapter III of Regulation (EU) No 1315/2013;
+(3)
+“construction costs” means the costs related to construction, including, where appropriate, the financing costs, of any of the following:
+(a)
+new infrastructure or new infrastructure improvements, including significant structural repairs;
+(b)
+infrastructure or infrastructure improvements, including significant structural repairs, completed no more than 30 years before 10 June 2008, where tolling arrangements were already in place on 10 June 2008, or completed no more than 30 years before the establishment of any new tolling arrangements introduced after 10 June 2008; or
+(c)
+infrastructure or infrastructure improvements completed before the time limits referred to in point (b), where:
+(i)
+a Member State has established a tolling system which provides for the recovery of these costs by means of a contract with a tolling system operator, or other legal acts having equivalent effect, which entered into force before 10 June 2008, or
+(ii)
+a Member State can demonstrate that the case for building the infrastructure in question depended on its having a design lifetime in excess of 30 years;
+(4)
+“financing costs” means interest on borrowings and return on any equity funding contributed by shareholders;
+(5)
+“significant structural repairs” means structural repairs excluding those repairs no longer of any current benefit to road users, in particular where the repair work has been replaced by further road resurfacing or other construction work;
+(6)
+“motorway” means a road specially designed and built for motor traffic, which does not serve properties bordering on it, and which meets the following criteria:
+(a)
+it is provided, except at special points or temporarily, with separate carriageways for the two directions of traffic, separated from each other either by a dividing strip not intended for traffic or, exceptionally, by other means;
+(b)
+it does not cross at grade with any road, railway or tramway track, bicycle path or footpath; and
+(c)
+it is specifically designated as a motorway;
+(7)
+“toll” means a specified amount payable in respect of a vehicle based on the distance travelled on a given infrastructure and on the type of the vehicle, the payment of which confers the right for that vehicle to use the infrastructures, and consisting of one or more of the following charges:
+(a)
+an infrastructure charge;
+(b)
+a congestion charge; or
+(c)
+an external-cost charge;
+(8)
+“infrastructure charge” means a charge levied for the purpose of recovering the construction, the maintenance, the operation and the development costs related to infrastructure incurred in a Member State;
+(9)
+“external-cost charge” means a charge levied for the purpose of recovering the costs related to one or more of the following:
+(a)
+traffic-based air pollution;
+(b)
+traffic-based noise pollution; or
+(c)
+traffic-based CO2 emissions;
+(10)
+“cost of traffic-based air pollution” means the cost of the harm to human health and of the environmental damage caused by the release of particulate matter and of ozone precursors, such as NOx and volatile organic compounds, in the course of the operation of a vehicle;
+(11)
+“cost of traffic-based noise pollution” means the cost of the harm to human health and of the environmental damage caused by the noise emitted by the vehicles or created by their interaction with the road surface;
+(12)
+“cost of traffic-based CO2 emissions” means the cost of the damage caused by the release of CO2 in the course of the operation of a vehicle;
+(13)
+“congestion” means a situation where traffic volumes approach or exceed road capacity;
+(14)
+“congestion charge” means a charge which is levied on vehicles for the purpose of recovering the congestion costs incurred in a Member State and of reducing congestion;
+(15)
+“weighted average infrastructure charge” means the total revenue from an infrastructure charge over a given period divided by the number of heavy-duty vehicle kilometres travelled on the road sections subject to that charge during that period;
+(16)
+“user charge” means a specified amount payment of which confers the right for a vehicle to use for a given period the infrastructures referred to in Article 7(1) and (2);
+(17)
+“vehicle” means a motor vehicle, with four or more wheels, or an articulated vehicle combination intended or used for the carriage by road of passengers or goods;
+(18)
+“heavy-duty vehicle” means a vehicle with a technically permissible maximum laden mass exceeding 3,5 tonnes;
+(19)
+“heavy goods vehicle” means a heavy-duty vehicle intended for the carriage of goods;
+(20)
+“coach" and "bus” mean a heavy-duty vehicle intended for the carriage of more than eight passengers in addition to the driver;
+(21)
+“light-duty vehicle” means a vehicle with a technically permissible maximum laden mass not exceeding 3,5 tonnes;
+(22)
+“passenger car” means a light-duty vehicle intended for the carriage of not more than eight passengers in addition to the driver;
+(23)
+“vehicle of historical interest” means a vehicle of historical interest as defined in Article 3, point 7, of Directive 2014/45/EU of the European Parliament and of the Council (**);
+(24)
+“minibus” means a light-duty vehicle intended for the carriage of more than eight passengers in addition to the driver;
+(25)
+“motor caravan” means a vehicle with living accommodation space which contains seats and a table, sleeping accommodation, whether separate or converted from the seating, cooking facilities and storage facilities;
+(26)
+“light commercial vehicle” means a light-duty vehicle intended for the carriage of goods;
+(27)
+“van” means a light-duty vehicle within the meaning of Part C, point 4.2, of Annex I to Regulation (EU) 2018/858 of the European Parliament and of the Council (***);
+(28)
+“CO2 emissions” of a heavy-duty vehicle means its specific CO2 emissions provided in point 2.3 of its Customer Information file as defined in Part II of Annex IV to Commission Regulation (EU) 2017/2400 (****);
+(29)
+“zero-emission vehicle” means:
+(a)
+a zero-emission heavy-duty vehicle as defined in Article 3, point 11, of Regulation (EU) 2019/1242 of the European Parliament and of the Council (*****); or
+(b)
+any passenger car, minibus or light commercial vehicle without an internal combustion engine;
+(30)
+“low-emission heavy-duty vehicle” means:
+(a)
+a low emission heavy-duty vehicle as defined in Article 3, point 12 of Regulation (EU) 2019/1242; or
+(b)
+a heavy-duty vehicle not covered by Article 2(1), points (a) to(d), of that Regulation, with CO2 emissions lower than 50 % of the reference CO2 emissions of its vehicle group, other than a zero-emission vehicle;
+(31)
+“transport operator” means any undertaking transporting goods or passengers by road;
+(32)
+“vehicle of the ‘Euro 0’, ‘Euro I’, ‘Euro II’, ‘Euro III’, ‘Euro IV’, ‘Euro V’, ‘EEV’, ‘Euro VI’ emission class” means a heavy-duty vehicle that complies with the emission limits set out in Annex 0;
+(33)
+“type of heavy-duty vehicle” means a category into which a heavy-duty vehicle falls according to the number of its axles, its dimensions or mass, or other vehicle classification factors reflecting road damage, such as the road damage classification system set out in Annex IV, provided that the classification system used is based on vehicle characteristics which appear in the vehicle documentation used in all Member States or which are visually apparent;
+(34)
+“vehicle sub-group” means vehicle sub-group as defined in Article 3, point 8, of Regulation (EU) 2019/1242;
+(35)
+“vehicle group” means a grouping of vehicles listed in Table 1 of Annex I to Regulation (EU) 2017/2400;
+(36)
+“reporting period of the year Y” means reporting period of the year Y as defined in Article 3, point 3, of Regulation (EU) 2019/1242;
+(37)
+“emission reduction trajectory”, for the reporting period of a year (Y) and vehicle sub-group (sg), namely ETY,sg, means the product of the annual CO2 emissions reduction factor (R-ETY) times the reference CO2 emissions (rCO2sg) of the sub-group (sg), namely ETY,sg = R-ETY x rCO2sg; for years Y ≤ 2030, R-ETY and rCO2sg are both determined in accordance with point 5.1 of Annex I to Regulation (EU) 2019/1242; for years Y > 2030, R-ETY is 0,70; rCO2sg applies as adjusted by delegated acts adopted in accordance with Article 11(2) of Regulation (EU) 2019/1242 for the reporting periods commencing after the respective dates of application of those delegated acts;
+(38)
+“reference CO2 emissions of a vehicle group” means:
+(a)
+for vehicles covered by Regulation (EU) 2019/1242, the amount calculated in accordance with the formula in point 3 of Annex I to that Regulation;
+(b)
+for vehicles not covered by Regulation (EU) 2019/1242, the average value of all CO2 emissions of vehicles in that vehicle group, reported in accordance with Regulation (EU) 2018/956 of the European Parliament and of the Council (******) for the first reporting period, which will start after the date on which the registration, sale or entry into service of vehicles in that vehicle group, that do not comply with the obligations referred to in Article 9 of Regulation (EU) 2017/2400, is prohibited in accordance with Article 24 of Regulation (EU) 2017/2400;
+(39)
+“concession contract” means a works concession or a service concession as defined in Article 5, point 1(a) or (b), of Directive 2014/23/EU of the European Parliament and of the Council (*******);
+(40)
+“concession toll” means a toll levied by a concessionaire under a concession contract;
+(41)
+“substantially amended tolling or charging arrangement” means a tolling or charging arrangement, where the amendment of rates is expected to increase revenues in excess of 10 % in comparison to the previous accounting year, excluding the effect of increase in traffic and after correcting for inflation measured by changes in the EU-wide Harmonised Index of Consumer Prices (HICP), and excluding energy and unprocessed food, as published by the Commission (Eurostat).
+2.   For the purposes of paragraph 1, point 2:
+(a)
+in any event, the proportion of the construction costs to be taken into account shall not exceed the proportion of the current design lifetime period of infrastructure components still to run on 10 June 2008 or on the date when the new tolling arrangements are introduced, where this is a later date;
+(b)
+costs of infrastructure or infrastructure improvements may include any specific expenditure on infrastructure designed to reduce nuisance related to noise, to introduce innovative technologies or to improve road safety and actual payments made by the infrastructure operator corresponding to objective environmental elements such as protection against soil contamination.
+3.   Without prejudice to Article 7da(3), Member States may treat a motor caravan either as a coach or bus, or as a passenger car.
+
+(*)  Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network (OJ L 348 20.12.2013, p. 1.)."
+                        
+
+(**)  Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC (OJ L 127, 29.4.2014, p. 51)."
+                        
+
+(***)  Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1)."
+                        
+
+(****)  Commission Regulation (EU) 2017/2400 of 12 December 2017 implementing Regulation (EC) No 595/2009 of the European Parliament and of the Council as regards the determination of the CO2 emissions and fuel consumption of heavy-duty vehicles and amending Directive 2007/46/EC of the European Parliament and of the Council and Commission Regulation (EU) No 582/2011 (OJ L 349, 29.12.2017, p. 1)."
+                        
+
+(*****)  Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) No 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202)."
+                        
+
+(******)  Regulation (EU) 2018/956 of the European Parliament and of the Council of 28 June 2018 on the monitoring and reporting of CO2 emissions from and fuel consumption of new heavy-duty vehicles (OJ L 173, 9.7.2018, p. 1)."
+                        
+
+(*******)  Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1.).’;"
+                        
+(3)
+Article 7 and 7a are replaced by the following:
+‘Article 7
+1.   Without prejudice to Article 9(1a), Member States may maintain or introduce tolls and user charges on the trans-European road network or on certain sections of that network, and on any other additional sections of their network of motorways which are not part of the trans-European road network under the conditions laid down in paragraphs 4 to 14 of this Article and in Articles 7a to 7k.
+2.   Paragraph 1 shall be without prejudice to the right of Member States, in compliance with the TFEU, to apply tolls and user charges on other roads, provided that the imposition of tolls and user charges on such other roads does not discriminate against international traffic and does not result in the distortion of competition between operators. Tolls and user charges applied on roads other than roads belonging to the trans-European road network and other than motorways, shall comply with the conditions laid down in paragraphs 4 and 5 of this Article, in Article 7a and in Article 7j(1), (2) and (4).
+3.   Without prejudice to other provisions of this Directive, tolls and user charges for different categories of vehicles, such as heavy-duty vehicles, heavy goods vehicles, coaches and buses, light-duty vehicles, light commercial vehicles, minibuses and passenger cars, may be introduced or maintained independently from each other. However, where Member States charge passenger cars, they shall also charge light commercial vehicles.
+4.   Member States shall not impose both tolls and user charges on any given category of vehicle for the use of a single road section. However, a Member State which imposes a user charge on its network may also impose tolls for the use of bridges, tunnels and mountain passes.
+Member States may decide not to apply Article 7ca(3), Article 7ga(1) and Article 7gb(2) to such tolls for the use of bridges, tunnels and mountain passes where one or both of the following conditions is met:
+(a)
+application of Article 7ca(3), Article 7ga(1) Article 7gb(2) would not be technically practicable to introduce such differentiation in the tolling system concerned;
+(b)
+application of Article 7ca(3), Article 7ga(1) and Article 7gb(2) would lead to diversion of the most polluting vehicles, with negative impacts on road safety and public health.
+A Member State that decides not to apply Article 7ca(3), Article 7ga(1) and Article 7gb(2) in accordance with the second subparagraph of this paragraph shall notify the Commission of its decision.
+5.   Tolls and user charges shall not discriminate, directly or indirectly, on the grounds of:
+(a)
+the nationality of the road user;
+(b)
+the Member State or the third country of establishment of the transport operator;
+(c)
+the Member State or the third country of registration of the vehicle; or
+(d)
+the origin or destination of the transport operation.
+6.   Member States may provide for reduced tolls or user charges on certain road sections, or completely exclude certain road sections from road charges, in particular where traffic intensity is low in sparsely populated areas.
+7.   In the case of road infrastructures covered by concession contracts, where the contract was signed before 24 March 2022 or the tenders or responses to invitations to negotiate under the negotiated procedure were received pursuant to a public procurement process before 24 March 2022, Member States may choose not to apply Article 7ca(3), Article 7g(1) and (2), Article 7ga and Article 7gb to tolls and user charges on those infrastructures until the concession contract is renewed or the tolling or charging arrangement is substantially amended.
+8.   Paragraph 7 applies also to long-term contracts, concluded between a public and non-public entity, signed before 24 March 2022 for the execution of works and/or the management of services other than the execution of works not including the transfer of the demand risk.
+9.   Member States may provide for reduced tolls or user charges, or exemptions from the obligation to pay tolls or user charges for:
+(a)
+heavy-duty vehicles exempted from the requirement to install and use recording equipment under Regulation (EU) No 165/2014 of the European Parliament and of the Council (*);
+(b)
+heavy goods vehicles with a technically permissible maximum laden mass exceeding 3,5 tonnes and less than 7,5 tonnes used for carrying materials, equipment or machinery for the driver’s use in the course of the driver’s work, or for delivering goods which are produced on a craft basis, where the transport is not effected for hire or reward;
+(c)
+any vehicle covered by the conditions set out in Article 6(2), points (a) and (b), or any vehicle used or owned by persons with disabilities; and
+(d)
+zero-emission vehicles with a technically permissible maximum laden mass up to 4,25 tonnes.
+10.   From 25 March 2030, Member States shall not apply user charges for heavy-duty vehicles on the core trans-European transport network.
+11.   By way of derogation from paragraph 10, Member States may apply user charges for heavy-duty vehicles on sections of the core trans-European transport network but only in duly justified cases where applying a toll would:
+(a)
+involve disproportionate administrative, investment and operating costs compared to the expected revenue or benefits, which such a toll would generate, for example due to the limited length of the road sections concerned or the relatively low population density or the relatively low traffic; or
+(b)
+lead to the diversion of traffic with negative impacts on road safety or on public health.
+Before applying those user charges, Member States shall notify the Commission of their intention to do so. That notification shall include the reasons justifying, in light of the first subparagraph, the application of the user charge based on objective criteria and clear information on the vehicles and road sections covered by the user charge.
+Member States may submit one single notification for more road sections covered by the exemptions, provided that the justification is included for each section.
+12.   Where Member States apply a common system for user charges in accordance with Article 8, those Member States shall adapt or discontinue the common system by 25 March 2032.
+13.   Until 25 March 2027, as regards heavy goods vehicles, a Member State may choose to apply tolls or user charges only to heavy goods vehicles with a technically permissible maximum laden mass of not less than 12 tonnes where it considers that levying tolls or user charges to heavy goods vehicles of less than 12 tonnes would:
+(a)
+create significant adverse effects on the free flow of traffic, the environment, noise levels, congestion, health, or road safety, due to traffic diversion;
+(b)
+involve administrative costs of more than 15 % of the additional revenue resulting from that extension; or
+(c)
+concern a category of vehicles which does not cause more than 10 % of the chargeable infrastructure costs.
+Member States choosing to apply tolls or user charges or both only to heavy goods vehicles with a technically permissible maximum laden mass of not less than 12 tonnes shall inform the Commission of their decision together with the reasons upon which it is based.
+14.   Where tolls are applied to all heavy-duty vehicles, Member States may choose to recover a different percentage of costs from coaches and buses and motor caravans, on the one hand, and from heavy goods vehicles, on the other hand.
+15.   By 25 March 2027, the Commission shall assess the implementation and effectiveness of this Directive with regard to the charging of light-duty vehicles.
+That assessment shall take into account the evolution of charging systems applied to light-duty vehicles in terms of the type of charging applied to various vehicle categories, the extent of the network covered, the proportionality of pricing and other relevant elements.
+Based on that assessment, the Commission shall, where appropriate, submit a legislative proposal to amend the relevant provisions of this Directive.
+Article 7a
+1.   User charges shall be proportionate to the duration of the use made of the infrastructure.
+2.   If user charges are applied in respect of heavy-duty vehicles, the use of the infrastructure shall be made available for at least the following periods: a day, a week, a month, and a year. The monthly rate shall not exceed 10 % of the annual rate, the weekly rate shall not exceed 5 % of the annual rate and the daily rate shall not exceed 2 % of the annual rate.
+A Member State may decide that for vehicles registered in that Member State only annual rates shall apply.
+Member States shall set user charges, including administrative costs, for all heavy-duty vehicles, at a level that does not exceed the maximum rates laid down in Annex II.
+3.   If user charges are applied in respect of passenger cars, the use of the infrastructure shall be made available at least for the following periods: a day, a week or 10 days or both, a month or two months or both, and a year. The two-monthly rate shall not exceed 30 % of the annual rate, the monthly rate shall not exceed 19 % of the annual rate, the 10-day rate shall not exceed 12 % of the annual rate, the weekly rate shall not exceed 11 % of the annual rate and the daily rate shall not exceed 9 % of the annual rate.
+Member States may limit the daily user charge for transit purposes only.
+Member States may also make the use of the infrastructure available for other periods of time. In such cases, Member States shall apply rates in accordance with the principle of equal treatment between users, taking into account all relevant factors, in particular the annual rate and the rates applied for the other periods referred to in the first subparagraph, existing use patterns and administrative costs.
+In respect of user charge schemes adopted before 24 March 2022, Member States may maintain rates above the limits set out in the first subparagraph, provided that they were in force before that date, and may maintain corresponding higher rates for other periods of use, in compliance with the principle of equal treatment. However, they shall comply with the limits set out in the first subparagraph as well as with the second subparagraph as soon as substantially amended charging arrangements enter into force and, at the latest, by 25 March 2030.
+4.   For minibuses and light commercial vehicles, Member States shall comply with either paragraph 2 or 3. Where Member States set different user charges for light commercial vehicles than for passenger cars, they shall set higher user charge rates for light commercial vehicles than for passenger cars.
+5.   By 25 March 2027, the Commission shall assess the technical and legal feasibility of differentiating the treatment of different light commercial vehicles based on whether or not the light commercial vehicle concerned is equipped with a tachograph. Based on that assessment, the Commission shall, where appropriate, submit a legislative proposal to amend this Directive accordingly.
+
+(*)  Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, repealing Council Regulation (EEC) No 3821/85 on recording equipment in road transport and amending Regulation (EC) No 561/2006 of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport (OJ L 60, 28.2.2014, p. 1.).’;"
+                        
+(4)
+the following Article is inserted:
+‘Article 7aa
+1.   Member States that applied tolls on their core trans-European transport network or on part of it, before 24 March 2022, may establish a combined charging system for all heavy-duty vehicles or for some types of heavy-duty vehicles.
+2.   In that combined charging system, Member States may, notwithstanding Article 7(10), apply user charges for all heavy-duty vehicles or for some types of heavy-duty vehicles including for some weight categories of heavy-duty vehicles on the core trans-European transport network or parts of it, in accordance with Article 7(4).
+3.   The user charges referred to in paragraph 2 of this Article shall be varied in accordance with Article7ga and according to the Euro emission class. In addition, Member States shall set user charges, including administrative costs, for the heavy-duty vehicles concerned, at a level that does not exceed the maximum rates laid down in Annex II.
+4.   Member States establishing the combined charging scheme shall carry out an impact assessment or analysis explaining and justifying its introduction which shall be notified to the Commission at least six months before its introduction.’;
+(5)
+Articles 7b and 7c are replaced by the following:
+‘Article 7b
+1.   The infrastructure charge for heavy-duty vehicles shall be based on the principle of the recovery of infrastructure costs. The weighted average infrastructure charge for heavy-duty vehicles shall be related to the construction costs and the costs of operating, maintaining and developing the infrastructure network concerned. The weighted average infrastructure charge may also include a return on capital and/or a profit margin based on market conditions.
+2.   The costs taken into account shall relate to the network or the part of the network on which infrastructure charges for heavy-duty vehicles are levied and to the vehicles that are subject to those charges. Member States may choose to recover only a percentage of those costs.
+Article 7c
+1.   Member States may maintain or introduce an external-cost charge, related to the cost of traffic-based air pollution, noise pollution, CO2 emissions or any combination thereof.
+Where an external-cost charge is applied for heavy-duty vehicles, Member States shall vary it and set it in accordance with the minimum requirements and the methods referred to in Annex IIIa and shall respect the reference values set out in Annexes IIIb and IIIc. Member States may choose to recover only a percentage of those costs.
+2.   The amount of the external-cost charge shall be set by the Member State concerned. If a Member State designates an authority for that purpose, that authority shall be legally and financially independent from the organisation in charge of managing or collecting part or all of the charge.
+3.   Member States may apply exemptions which allow external-cost charges to be adjusted for vehicles of historical interest.’;
+(6)
+the following Articles are inserted:
+‘Article 7ca
+1.   When levying an external-cost charge for air or noise pollution, Member States shall take into account the costs relating to the network or the part of the network on which that charge is levied and the vehicles that are subject to that charge.
+2.   The external-cost charge related to traffic-based air pollution shall not apply to heavy-duty vehicles which comply with the most stringent of Euro emission standards.
+The first subparagraph shall cease to apply four years after the date when the rules which introduced those standards started to apply.
+3.   From 25 March 2026, Member States shall apply an external-cost charge for traffic-based air pollution to heavy-duty vehicles on the tolled network referred to in Article 7(1).
+By way of derogation from the first subparagraph, Member States may decide not to apply an external-cost charge on those road sections where this would lead to the diversion of the most polluting vehicles, resulting in negative impacts on road safety and public health.
+4.   Member States may assess the possibility of applying an external-cost charge for CO2 emissions and for air pollution or discounts, related to those emissions, where concession tolls are not varied in accordance with Articles 7g and 7ga for heavy-duty vehicles, and in accordance with Article 7gb for light-duty vehicles.
+The result of that optional assessment, including a justification of the reason why the external-cost charge or discount is not applied, shall be notified to the Commission.
+Article 7cb
+1.   Member States may apply higher external-cost charges for CO2 emissions than the reference values set out in Annex IIIc, provided that this is done in a non-discriminatory manner, and limited to no more than twice the values set out in Annex IIIc. Where Member States apply this paragraph they shall justify their decision and notify it to the Commission, in accordance with Annex IIIa.
+2.   For buses and coaches, Member States may choose to apply the same or lower values than those applied to heavy goods vehicles.
+3.   An external-cost charge for CO2 emissions may be combined with an infrastructure charge that has been varied in accordance with Article 7ga.
+4.   By 25 March 2027, the Commission shall assess the implementation and effectiveness of external-cost charging for CO2 emissions, as well as its coherence with Directive 2003/87/EC of the European Parliament and of the Council (*) and Council Directive 2003/96/EC (**). Based on that assessment, the Commission shall, where appropriate, submit a legislative proposal to amend this Article. In the event that this Article has not been amended accordingly by 1 January 2027 but Directive 2003/87/EC or Directive 2003/96/EC has been amended in a manner resulting in an effective internalisation of at least part of the external costs of CO2 emissions from road transport, the Commission shall adopt delegated acts in accordance with Article 9d of this Directive, amending Annex IIIc to this Directive to adjust the reference values of the external-cost charge for CO2 emissions, taking into account the effective carbon price applied to road transport fuels in the Union.
+
+(*)  Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32)."
+                        
+
+(**)  Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (OJ L 283, 31.10.2003, p. 51).’;"
+                        
+(7)
+Article 7d is replaced by the following:
+‘Article 7d
+No later than six months after the adoption of new and more stringent Euro emission standards, the Commission shall, where appropriate, submit a legislative proposal in order to determine the corresponding reference values in Annex IIIb and to adjust the maximum rates of user charges in Annex II.’;
+(8)
+the following Article is inserted:
+‘Article 7da
+1.   Member States may, in accordance with the requirements set out in Annex V, introduce a congestion charge on any section of their road network which is affected by congestion. The congestion charge may only be applied on those road sections which are regularly congested and only during the periods when they are typically congested.
+2.   Member States shall specify the road sections and time periods referred to in paragraph 1 based on objective criteria related to the level to which the roads and their vicinities are affected by congestion, measured, inter alia, in terms of average delays or queue lengths.
+3.   A congestion charge imposed on any section of the road network shall apply in a non-discriminatory manner to all vehicle categories, in accordance with the standard equivalence factors set out in Annex V. Member States may, however, exempt, partially or fully, minibuses, buses and coaches from congestion charge for the promotion of collective transport and socioeconomic development and territorial cohesion. Motor caravans, irrespective of their technically permissible maximum laden mass, shall not be treated as coaches and buses for the purpose of this paragraph.
+4.   The congestion charge shall be set in accordance with the minimum requirements referred to in Annex V. It shall reflect the costs imposed by a vehicle on other road users, and indirectly on society, and shall respect the reference values set out in Annex VI for any given road type. Where a Member State intends to apply congestion charges higher than the reference values set out in Annex VI, it shall notify the Commission in accordance with the requirements referred to in Annex V.
+Revenues generated from congestion charges, or the equivalent in financial value of those revenues, shall be used to address the problem of congestion, or to develop sustainable transport and mobility in general.
+Where such revenues are allocated to the general budget, a Member State shall be deemed to have applied the second subparagraph, if it implements financial support policies to address the problem of congestion or to develop sustainable transport and mobility which have a value equivalent to the revenues generated from congestion charges.
+5.   Member States shall put in place adequate mechanisms for monitoring the impact of congestion charges and for reviewing the level thereof. Each Member State shall review the level of charges regularly, at least every three years, to ensure that they do not exceed the costs of the congestion occurring in that Member State on the road sections subject to the congestion charge.’;
+(9)
+in Article 7e, paragraphs 1 and 2 are replaced by the following:
+‘1.   Member States shall calculate the maximum level of infrastructure charge for heavy-duty vehicles using a methodology based on the core calculation principles set out in Article 7b and Annex III.
+2.   For concession tolls, the maximum level of the infrastructure charge for heavy-duty vehicles shall be equivalent to, or less than, the level that would have resulted from the use of a methodology based on the core calculation principles set out in Article 7b and Annex III. The assessment of such equivalence shall be made on the basis of a reasonably long reference period appropriate to the nature of the concession contract.’;
+(10)
+Articles 7f and 7g are replaced by the following:
+‘Article 7f
+1.   After informing the Commission, a Member State may add a mark-up to the infrastructure charge levied on specific road sections which are regularly congested, or the use of which by vehicles causes significant environmental damage, where the following conditions are met:
+(a)
+the revenue generated from the mark-up is invested in financing the development of transport services, or in the construction or maintenance of transport infrastructure of the core trans-European transport network which contribute directly to the alleviation of the congestion or environmental damage and which are located in the same corridor as the road section on which the mark-up is applied;
+(b)
+the mark-up does not exceed 15 % of the weighted average infrastructure charge calculated in accordance with Article 7b(1) and Article 7e of this Directive, except where the revenue generated is invested in cross-border sections of a core network corridor identified in accordance with Chapter IV of Regulation (EU) No 1315/2013, in which case the mark-up may not exceed 25 % of that weighted average infrastructure charge, or, where two or more Member States apply a mark-up in the same corridor, in which case, upon agreement of all Member States which are part of that corridor and which neighbour the Member States in the territory of which the section of the corridor to which a mark-up is to be applied falls, that mark-up may exceed 25 % but may not exceed 50 % of that weighted average infrastructure charge;
+(c)
+the application of the mark-up does not result in unfair treatment of commercial traffic compared to other road users;
+(d)
+a description of the exact location of the mark-up and proof of a decision to finance transport infrastructure or transport services referred to in point (a) are submitted to the Commission in advance of the application of the mark-up;
+(e)
+the period for which the mark-up is to apply is defined and limited in advance and is consistent, in terms of the expected revenue to be raised, with the financial plans and cost-benefit analysis for the projects co-financed with the revenue from the mark-up.
+2.   In the case of a new cross-border project, a mark-up may only be added if all Member States involved in the project agree.
+3.   A mark-up may be applied to an infrastructure charge which has been varied in accordance with Article 7g, 7ga or 7gb.
+4.   After receiving the required information from a Member State intending to apply a mark-up, the Commission shall make that information available to the members of the Committee referred to in Article 9c. Where the Commission considers that the planned mark-up does not meet the conditions set out in paragraph 1 of this Article, or where it considers that the planned mark-up will have significant adverse effects on the economic development of peripheral regions, it may adopt implementing acts, to reject or request amendment of the plans for charges submitted by the Member State concerned. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9c(3).
+5.   A mark-up may not be applied on road sections on which a congestion charge is levied.
+Article 7g
+1.   The infrastructure charge may be varied for the purpose of reducing congestion, minimising infrastructure damage and optimising the use of the infrastructure concerned or promoting road safety, where the following conditions are met:
+(a)
+the variation is transparent, made public and available to all users on equal terms;
+(b)
+the variation is applied according to the time of day, type of day or season;
+(c)
+no infrastructure charge is more than 175 % above the maximum level of the weighted average infrastructure charge as referred to in Article 7b;
+(d)
+the peak periods during which the higher infrastructure charges are levied for the purpose of reducing congestion do not exceed six hours per day;
+(e)
+the variation is devised and applied in a transparent and revenue-neutral way on a road section affected by congestion by offering reduced toll rates for road users who travel during off-peak periods and increased toll rates for road users who travel during peak hours on the same road section;
+(f)
+no congestion charge is levied on the road section concerned.
+A Member State wishing to introduce such variation or changing an existing one shall inform the Commission thereof and provide it with the information necessary to assess whether the conditions are fulfilled.
+2.   Until the variation of infrastructure charges and user charges referred to in Article 7ga is applied, in respect of heavy-duty vehicles, Member States shall vary the infrastructure charge according to the Euro emission class of the vehicle in such a way that no infrastructure charge is more than 100 % above the same charge for equivalent vehicles meeting the strictest Euro emission standards. Once infrastructure charges and user charges are varied pursuant to Article 7ga, Member States may discontinue the variation according to the Euro emission class.
+By way of derogation from the first subparagraph, a Member State may decide not to apply the requirement of varying the infrastructure charge where any of the following applies:
+(a)
+it would seriously undermine the coherence of the tolling systems in its territory;
+(b)
+it would not be technically practicable to introduce such differentiation in the tolling system concerned;
+(c)
+it would lead to diversion of the most polluting vehicles with negative impacts on road safety and public health;
+(d)
+the toll includes an external-cost charge for air pollution.
+Any such derogations or exemptions shall be notified to the Commission.
+3.   The variations referred to in this Article shall not be designed to generate additional revenues.’;
+(11)
+the following Articles are inserted:
+‘Article 7ga
+1.   Member States shall vary infrastructure charges and user charges for heavy-duty vehicles in accordance with this Article.
+Member States shall apply that variation to the sub-groups of heavy-duty vehicles covered by Article 2(1), points (a) to (d), of Regulation (EU) 2019/1242, at the latest two years after the publication of the reference CO2 emissions for those vehicle sub-groups in the implementing acts adopted in accordance with Article 11(1) of that Regulation.
+For CO2 emission classes 1, 4 and 5, referred to in paragraph 2 of this Article, that variation shall apply to the groups of heavy-duty vehicles not covered by Article 2(1), points (a) to (d), of Regulation (EU) 2019/1242, at the latest two years following the publication of the reference CO2 emissions in implementing acts adopted pursuant to paragraph 7 of this Article, for the relevant group. Where point 5.1 of Annex I to Regulation (EU) 2019/1242 is amended by a Union legislative act in such a way as to cover the reference CO2 emissions relevant for a group of heavy-duty vehicles, such reference CO2 emissions shall no longer be determined pursuant to paragraph 7 of this Article but in accordance with point 5.1 of Annex I to that Regulation.
+Where emission reduction trajectories for groups of heavy-duty vehicles not covered by Article 2(1), points (a) to (d), of Regulation (EU) 2019/1242, are determined by a Union legislative act amending point 5.1 of Annex I to that Regulation, the variations for CO2 emission classes 2 and 3, as defined in paragraph 2 of this Article shall apply from the date of entry into force of the new emission reduction trajectories.
+Without prejudice to the reduction of rates provided for in paragraph 3, Member States may provide for reduced rates of infrastructure or user charges, or exemptions to pay infrastructure or user charges for zero emission vehicles of any vehicle group from 24 March 2022 until 31 December 2025. From 1 January 2026, such reductions shall be limited to 75 % compared to the charge applicable to CO2 emission class 1, as defined in paragraph 2.
+2.   Without prejudice to paragraph 1, Member States shall establish for each type of heavy-duty vehicle the following CO2 emission classes:
+(a)
+CO2 emission class 1 – vehicles that do not belong to any of the CO2 emission classes referred to under points (b) to (e);
+(b)
+CO2 emission class 2 – vehicles of the vehicle sub-group sg registered for the first time in the reporting period of the year Y with CO2 emissions more than 5 % below the emission reduction trajectory for the reporting period of the year Y and the vehicle sub-group sg but not belonging to any of the CO2 emission classes referred to under points (c), (d) and (e);
+(c)
+CO2 emission class 3 – vehicles of the vehicle sub-group sg registered for the first time in the reporting period of the year Y with CO2 emissions more than 8 % below the emission reduction trajectory for the reporting period of the year Y and the vehicle sub-group sg not belonging to any of the CO2 emission classes referred to under points (d) and (e);
+(d)
+CO2 emission class 4 – low-emission heavy-duty vehicles;
+(e)
+CO2 emission class 5 – zero-emission vehicles.
+Member States shall ensure that the classification of a vehicle belonging to CO2 emission class 2 or 3 is reassessed every six years after the date of its first registration and that, where relevant, the vehicle is reclassified in the relevant emission class on the basis of the thresholds applicable at that time. Reclassification shall, with regard to a user charge, take effect at the latest on its first day of validity on or after the day of that reclassification.
+3.   Without prejudice to paragraph 1, reduced charges shall apply to vehicles in CO2 emission classes 2, 3, and 4 and 5, as follows:
+(a)
+CO2 emission class 2 – 5 % to 15 % reduction compared to the charge applicable for CO2 emission class 1;
+(b)
+CO2 emission class 3 – 15 % to 30 % reduction compared to the charge applicable for CO2 emission class 1;
+(c)
+CO2 emission class 4 – 30 % to 50 % reduction compared to the charge applicable for CO2 emission class 1;
+(d)
+CO2 emission class 5 – 50 % to 75 % reduction compared to the charge applicable for CO2 emission class 1.
+Where the infrastructure charge or the user charge is also varied according to the Euro emission class, the reductions referred to in the first subparagraph shall apply as compared to the charge applied to the strictest Euro emission standards.
+4.   The variations referred to in this Article shall not be designed to generate additional revenues.
+5.   By way of derogation from paragraph 1, a Member State may decide not to apply the requirement of varying the infrastructure charge in accordance with paragraph 2 where an external-cost charge for CO2 emissions is levied and varied according to the reference values of the external-cost charge for CO2 emissions in Annex IIIc.
+6.   On road sections where a vehicle is operated without CO2 emissions in a verifiable manner, Member States may apply to that vehicle reduced charges in accordance with CO2 emission class 5. Member States that make use of that option shall apply the charges applicable to CO2 emission class 1 to that vehicle on other road sections.
+7.   The Commission shall adopt implementing acts to specify the reference CO2 emissions for the vehicle groups not covered by Article 2(1), points (a) to (d), of Regulation (EU) 2019/1242.
+Those implementing acts shall reproduce the data relevant for each vehicle groups published in the report referred to in Article 10 of Regulation (EU) 2018/956. The Commission shall adopt those implementing acts at the latest six months after the publication of the relevant report referred to in Article 10 of Regulation (EU) 2018/956.
+8.   By 25 March 2027, the Commission shall assess the implementation and effectiveness of the variation of charges based on CO2 emissions referred to in this Article, as well as whether it is still necessary and its coherence with Directives 2003/87/EC and 2003/96/EC. Based on that assessment, the Commission shall, where appropriate, submit a legislative proposal to amend the relevant provisions of this Directive on the variation of charges on the basis of CO2 emissions.
+9.   The Commission shall, every five years, after 24 March 2022, review the maximum rates for the user charges in Annex II and the reduction levels referred to in paragraph 3 and, where appropriate, submit a legislative proposal, based on the results of that review process, to amend those provisions.
+10.   Every 30 months after 24 March 2022, the Commission shall draw up a report assessing the appropriateness of the thresholds for CO2 emission classes 2 and 3 referred to in Article 7ga(2), points (b) and (c), of this Directive in relation to the reference emissions published in accordance with Article 11(1) of Regulation (EU) 2019/1242 or to the CO2 emissions reported in accordance with Regulation (EU) 2018/956, and where appropriate submit a legislative proposal to amend those thresholds based on the results of that assessment.
+11.   The application of the variation of charges based on CO2 emissions referred to in this Article shall not be mandatory where another Union road transport fuel carbon-pricing measure applies.
+Article 7gb
+1.   Member States may differentiate tolls and user charges for light-duty vehicles according to the environmental performance of the vehicle determined by the specific CO2 emissions combined, or weighted combined, recorded in entry 49 of the certificate of conformity of the vehicle, and by the Euro emission performance.
+Without prejudice to paragraph 2 of this Article, lower rates of tolls and user charges shall apply for passenger cars, minibuses and light commercial vehicles that meet both of the following conditions:
+(a)
+their specific CO2 emissions, determined in accordance with Commission Regulation (EU) 2017/1151 (*), shall be zero or shall be below the following levels:
+(i)
+for the period 2021 to 2024, the EU fleet-wide targets2021 determined in accordance with Part A, point 6, and Part B, point 6, of Annex I to Regulation (EU) 2019/631 of the European Parliament and of the Council (**);
+(ii)
+for the period 2025 to 2029, the EU fleet-wide targets determined in accordance with Part A, point 6.1.1, and Part B, point 6.1.1, of Annex I to Regulation (EU) 2019/631;
+(iii)
+for the period 2030 onwards, the EU fleet-wide targets determined in accordance with Part A, point 6.1.2, and Part B, point 6.1.2, of Annex I to Regulation (EU) 2019/631;
+(b)
+their pollutant emissions, determined in accordance with Regulation (EU) 2017/1151, shall be as specified in the Table of Annex VII to this Directive. Member States may apply the reduction for zero-emission vehicles referred to in Annex VII to this Directive without applying reductions for the other emissions performance categories referred to in that Annex.
+2.   From 1 January 2026, where technically practicable, Member States shall vary the tolls and the annual rate of the user charges for vans and minibuses according to the environmental performance of the vehicle, in accordance with the rules set out in Annex VII. For that purpose, the provisions of the second subparagraph of paragraph 1 shall be indicative.
+Where Member States choose to apply different emission performance criteria or levels of reduction to those set out in paragraph 1, or choose to include different or additional criteria, they shall notify the Commission of their choices and justify them, at least six months before the introduction of any variation.
+However, Member States may choose to apply reductions to zero-emission vehicles only, without applying any variation to other vehicles and without notifying the Commission.
+3.   Subject to the conditions set out in paragraphs 1 and 2, Member States may take into account an improvement in the environmental performance of the vehicle which is linked to that vehicle’s conversion to alternative fuels.
+4.   Member States may adopt exceptional measures for the purpose of charging vehicles of historical interest.
+5.   The variations referred to in this Article shall not be designed to generate additional revenues.
+
+(*)  Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008 (OJ L 175, 7.7.2017, p. 1)."
+                        
+
+(**)  Regulation (EU) 2019/631 of the European Parliament and of the Council of 17 April 2019 setting CO2 emission performance standards for new passenger cars and new light commercial vehicles, and repealing Regulations (EC) No 443/2009 and (EU) No 510/2011 (OJ L 111, 25.4.2019, p. 13).’;"
+                        
+(12)
+Article 7h is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+‘1.   At least six months before the implementation of a new or substantially amended infrastructure charge tolling arrangement, Member States shall send to the Commission:’;
+(ii)
+in point (a), the following indent is added:
+‘–
+where applicable, clear information on the main characteristics of the electronic road toll system, including on interoperability;’;
+(b)
+the following paragraph is inserted:
+‘1a.   When sending information to the Commission in accordance with paragraph 1, a Member State may include information on more than one amendment to an infrastructure charge tolling arrangement. Where the Commission has already been informed of an amendment, the Member State shall be deemed to have already fulfilled the information requirements of paragraph 1 and that amendment may be implemented without informing the Commission further.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Before the implementation of a new or substantially amended external-cost charge or congestion charge tolling arrangement, Member States shall inform the Commission about the network concerned, the rates per vehicle category and emission class that are envisaged and, where applicable, shall notify the Commission in accordance with Annex IIIa, point 2, or Annex V, point 2.’;
+(d)
+paragraph 4 is deleted;
+(13)
+Article 7i is amended as follows:
+(a)
+in paragraph 2, points (b) and (c) are replaced by the following:
+‘(b)
+such discounts or reductions reflect actual savings in administrative costs of the treatment of frequent users compared to occasional users;
+(c)
+reductions do not exceed 13 % of the infrastructure charge paid by equivalent vehicles not eligible for the discount or reduction.’;
+(b)
+the following paragraph is inserted:
+‘2a.   Member States may provide for discounts or reductions in the infrastructure charge for passenger cars for frequent users, in particular in areas in which settlement is dispersed and on the outskirts of cities. Reduction in revenues due to discount granted to frequent users shall not be imposed on less frequent users.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Subject to the conditions provided for in Article 7g(1), point (b), and in Article 7g(3) of this Directive, toll rates may, for major projects of the core trans-European transport network, the maps of which are identified in Annex I to Regulation (EU) No 1315/2013, be subject to other forms of variation in order to secure the commercial viability of such projects where they are exposed to direct competition with other modes of transport. The resulting charging structure shall be linear and proportionate. Its details shall be made public, and it shall be available to all users on equal terms. It shall not lead to additional costs being passed on to other users in the form of higher tolls.’;
+(14)
+Article 7j is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Tolls and user charges shall be applied and collected and their payment monitored in such a way as to cause as little hindrance as possible to the free flow of traffic and to avoid any mandatory controls or checks at the Union’s internal borders. To that end, Member States shall cooperate in establishing methods for enabling road users to pay tolls and user charges 24 hours a day at least electronically or, at the border or at major sales outlets, using common means of payment, inside and outside the Member States in which they are applied. Member States are not obliged to provide physical points of payment.’;
+(b)
+the following paragraph is inserted:
+‘2a.   Where a driver or, if appropriate, the transport operator or the European Electronic Toll Service (EETS) provider, is unable to provide evidence of the emission class of the vehicle for the purposes of Article 7g(2), Article 7ga or Article 7gb, Member States may apply tolls or user charges up to the highest level chargeable.
+Member States shall take the measures necessary to ensure that the road user can declare the emission class of the vehicle at least through electronic means before using the infrastructure. Member States may offer electronic and non-electronic means to enable the user to provide evidence in order to benefit from toll reductions or, where appropriate, in the event of a check. Member States may require that evidence supplied through electronic means is provided before the infrastructure is used.
+Member States may take the measures necessary to ensure that the provision of evidence subsequent to the use of the infrastructure is accepted for 30 days or a longer period determined by the Member States after the use of the infrastructure and to ensure the reimbursement of any difference between the tolls or user charges applied and the toll or user charge corresponding to the emission class of the vehicle concerned that follows from evidence provided within the applicable time limit.’;
+(c)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   Where a Member State levies a toll on a vehicle, the total amount of the toll, the amount of the infrastructure charge, the amount of the external-cost charge, and the amount of the congestion charge, where applied, shall be indicated in a receipt provided to the road user, where possible by electronic means. The road user may agree not to be provided with the receipt.
+4.   Where economically feasible, Member States shall levy and collect infrastructure charges, external-cost charges and congestion charges by means of an electronic road toll system which complies with the provisions of Article 3(1) of Directive (EU) 2019/520 of the European Parliament and of the Council (*). The Commission shall promote cooperation between Member States that proves necessary to ensure the interoperability of electronic toll collection systems at European level.
+
+(*)  Directive (EU) 2019/520 of the European Parliament and of the Council of 19 March 2019 on the interoperability of electronic road toll systems and facilitating cross-border exchange of information on the failure to pay road fees in the Union (OJ L 91, 29.3.2019, p. 45).’;"
+                        
+(15)
+Article 7k is replaced by the following:
+‘Article 7k
+Without prejudice to Articles 107 and 108 of the Treaty on the Functioning of the European Union, this Directive does not affect the freedom of Member States which introduce a system of tolls to provide for appropriate compensation.’;
+(16)
+Article 8 is amended as follows:
+(a)
+in paragraph 2, points (a) and (b) are replaced by the following:
+‘(a)
+payment of the common user charge shall give access to the network as defined by the participating Member States in accordance with Article 7(1) and (2);
+(b)
+the common user-charge rates shall be set by the participating Member States at levels that are not higher than the maximum rates referred to in Article 7a;’;
+(b)
+the following paragraph is added:
+‘3.   In the case of a common system for user charges referred to in paragraph 1 of this Article, the final date of application of the variations referred to in the second and third subparagraphs of Article 7ga(1) is extended until 25 March 2025, or if the reference CO2 emissions are published after 24 March 2022, three years following the publication of the reference CO2 emissions.’;
+(17)
+Article 9 is amended as follows:
+(a)
+paragraph 1a is replaced by the following:
+‘1a.   This Directive shall not prevent Member States from applying:
+(a)
+regulatory charges specifically designed to reduce traffic congestion or combat environmental impacts, including poor air quality, on any roads located in an urban area, including trans-European network roads crossing urban areas;
+(b)
+charges specifically designed to finance the construction, operation, maintenance and development of installations, embedded in or deployed along or over roads, providing energy to low- and zero-emission vehicles in motion and levied on such vehicles.
+Those charges shall be applied on a non-discriminatory basis.’;
+(b)
+in paragraph 2, the second subparagraph is deleted;
+(18)
+in Article 9c, the following paragraph is added:
+‘3.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.’;
+(19)
+Articles 9d and 9e are replaced by the following:
+‘Article 9d
+The Commission is empowered to adopt delegated acts in accordance with Article 9e to amend this Directive in respect of Annex 0, the formulas in points 4.1 and 4.2 of Annex IIIa, and the amounts indicated in the Tables of Annexes IIIb and IIIc in order to adapt them to scientific and technical progress.
+Under the circumstances referred to in Article 7cb(4), the Commission shall adopt delegated acts in accordance with Article 9e, to amend this Directive in respect of the reference values of the external-cost charge for CO2 emissions set out in Annex IIIc, taking into account the effective carbon price applied to road transport fuels in the Union. Such amendments shall be limited to ensuring that the level of external-cost charges for CO2 emissions does not go beyond what is necessary to internalise those external costs.
+Article 9e
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 9d shall be conferred on the Commission for a period of five years from 24 March 2022. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in Article 9d may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*).
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6.   A delegated act adopted pursuant to Article 9d shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+(*)  
+                                          OJ L 123, 12.5.2016, p. 1.’;"
+                        
+(20)
+Articles 9f and 9g are deleted;
+(21)
+Articles 10a and 11 are replaced by the following:
+‘Article 10a
+1.   The amounts in euros laid down in Annex II and the amounts in cents laid down in the Tables of Annexes IIIb and IIIc shall be adapted every two years in order to take account of changes in the EU-wide Harmonised Index of Consumer Prices (HICP) excluding energy and unprocessed food, as published by the Commission (Eurostat). The first adaptation shall take place by 31 March 2025.
+The amounts shall be updated automatically, by adapting the base amount in euros or cents by the percentage change in that index. The resulting amounts shall be rounded up to the nearest euro with regard to Annex II, rounded up to the nearest tenth of a cent with regard to Annexes IIIb and IIIc.
+2.   The Commission shall publish in the Official Journal of the European Union the adapted amounts referred to in paragraph 1 by 31 March 2025. Those adapted amounts shall enter into force on the first day of the month following publication.

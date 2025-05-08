@@ -1,0 +1,83 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘personal pension product’ means a product which:
+(a)
+is based on a contract between an individual saver and an entity on a voluntary basis and is complementary to any statutory or occupational pension product;
+(b)
+provides for long-term capital accumulation with the explicit objective of providing income on retirement and with limited possibilities for early withdrawal before that time;
+(c)
+is neither a statutory nor an occupational pension product;
+(2)
+‘pan-European Personal Pension Product’ or ‘PEPP’ means a long-term savings personal pension product, which is provided by a financial undertaking eligible according to Article 6(1) under a PEPP contract, and subscribed to by a PEPP saver, or by an independent PEPP savers association on behalf of its members, in view of retirement, and which has no or strictly limited possibility for early redemption and is registered in accordance with this Regulation;
+(3)
+‘PEPP saver’ means a natural person who has concluded a PEPP contract with a PEPP provider;
+(4)
+‘PEPP contract’ means a contract between a PEPP saver and a PEPP provider which fulfils the conditions laid down in Article 4;
+(5)
+‘PEPP account’ means a personal pension account held in the name of a PEPP saver or a PEPP beneficiary which is used for the recording of transactions allowing the PEPP saver to contribute periodically sums towards retirement and the PEPP beneficiary to receive PEPP benefits;
+(6)
+‘PEPP beneficiary’ means a natural person receiving PEPP benefits;
+(7)
+‘PEPP customer’ means a PEPP saver, a prospective PEPP saver or a PEPP beneficiary;
+(8)
+‘PEPP distribution’ means advising on, proposing, or carrying out other work preparatory to the conclusion of contracts for providing a PEPP, concluding such contracts, or assisting in the administration and performance of such contracts, including the provision of information concerning one or more PEPP contracts in accordance with criteria selected by PEPP customers through a website or other media and the compilation of a PEPP ranking list, including price and product comparison, or a discount on the price of a PEPP, when the PEPP customer is able to directly or indirectly conclude a PEPP contract using a website or other media;
+(9)
+‘PEPP retirement benefits’ means benefits paid by reference to reaching, or the expectation of reaching, retirement in one of the forms referred to in Article 58(1);
+(10)
+‘PEPP benefits’ means PEPP retirement benefits and other additional benefits to which a PEPP beneficiary is entitled in accordance with the PEPP contract, in particular for the strictly limited cases of early redemption or if the PEPP contract provides a coverage of biometric risks;
+(11)
+‘accumulation phase’ means the period during which assets are accumulated in a PEPP account and ordinarily runs until the decumulation phase starts;
+(12)
+‘decumulation phase’ means the period during which assets accumulated in a PEPP account may be drawn upon to fund retirement or other income requirements;
+(13)
+‘annuity’ means a sum payable at specific intervals over a period, such as the PEPP beneficiary’s life or a certain number of years, in return for an investment;
+(14)
+‘drawdown payments’ means discretionary amounts which PEPP beneficiaries may draw up to a certain limit on a periodic basis;
+(15)
+‘PEPP provider’ means a financial undertaking as referred to in Article 6(1) authorised to manufacture a PEPP and to distribute that PEPP;
+(16)
+‘PEPP distributor’ means a financial undertaking as referred to in Article 6(1) authorised to distribute PEPPs not manufactured by it, an investment firm providing investment advice, or an insurance intermediary as defined in point (3) of Article 2(1) of Directive (EU) 2016/97 of the European Parliament and of the Council (17);
+(17)
+‘durable medium’ means any instrument which:
+(a)
+enables a PEPP customer to store information addressed personally to that customer in a way accessible for future reference and for a period of time adequate for the purposes of the information; and
+(b)
+allows the unchanged reproduction of the information stored;
+(18)
+‘competent authorities’ means the national authorities designated by a Member State to supervise PEPP providers or PEPP distributors, as the case may be or to carry out the duties provided for in this Regulation;
+(19)
+‘home Member State of the PEPP provider’ means home Member State as defined in the relevant legislative act referred to in Article 6(1);
+(20)
+‘home Member State of the PEPP distributor’ means:
+(a)
+where the distributor is a natural person, the Member State in which his or her residence is situated;
+(b)
+where the distributor is a legal person, the Member State in which its registered office is situated or, where the distributor under its national law has no registered office, the Member State in which its head office is situated;
+(21)
+‘host Member State of the PEPP provider’ means a Member State, other than the home Member State of the PEPP provider, in which the PEPP provider provides PEPPs under the freedom to provide services or the freedom of establishment or for which the PEPP provider has opened a sub-account;
+(22)
+‘host Member State of the PEPP distributor’ means a Member State, other than the home Member State of the PEPP distributor, in which the PEPP distributor distributes PEPPs under the freedom to provide services or the freedom of establishment;
+(23)
+‘sub-account’ means a national section which is opened within each PEPP account and which corresponds to the legal requirements and conditions for using possible incentives fixed at national level for investing in a PEPP by the Member State of the PEPP saver’s residence; accordingly, an individual may be a PEPP saver or a PEPP beneficiary in each sub-account, depending on the respective legal requirements for the accumulation phase and decumulation phase;
+(24)
+‘capital’ means aggregate capital contributions, calculated on the basis of amounts investible after deduction of all fees, charges and expenses that are directly or indirectly borne by PEPP savers;
+(25)
+‘financial instruments’ means those instruments specified in Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council (18);
+(26)
+‘depositary’ means an institution charged with the safekeeping of assets and oversight of compliance with the fund rules and applicable law;
+(27)
+‘Basic PEPP’ means an investment option as laid down in Article 45;
+(28)
+‘risk mitigation techniques’ means techniques for a systematic reduction in the extent of exposure to a risk and/or the likelihood of its occurrence;
+(29)
+‘biometric risks’ means risks linked to death, disability and/or longevity;
+(30)
+‘switching provider’ means, upon a PEPP saver’s request, transferring from one PEPP provider to another the corresponding amounts, or where applicable assets-in-kind in accordance with Article 52(4), from one PEPP account to the other, with closing the former PEPP account without prejudice to point (e) of Article 53(4);
+(31)
+‘advice’ means a personal recommendation provided by the PEPP provider or PEPP distributor to a PEPP customer in respect of one or more PEPP contracts;
+(32)
+‘partnership’ means cooperation between PEPP providers to offer sub-accounts for different Member States in the context of the portability service, as referred to in Article 19(2);
+(33)
+‘environmental, social and governance factors’ or ‘ESG factors’ means environmental, social and governance matters such as those referred to in the Paris Agreement, the United Nations Sustainable Development Goals, the United Nations Guiding Principles on Business and Human Rights and the United Nations-supported Principles for Responsible Investment.

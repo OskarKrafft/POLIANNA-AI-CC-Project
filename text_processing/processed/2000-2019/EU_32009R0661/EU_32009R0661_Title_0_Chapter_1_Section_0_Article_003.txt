@@ -1,0 +1,36 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the definitions laid down in Article 3 of Directive 2007/46/EC shall apply.
+In addition, the following definitions shall apply:
+1.
+‘electronic stability control’ means an electronic control function for a vehicle which improves the dynamic stability of the vehicle;
+2.
+‘class I M2 or M3 vehicle’ means an M2 or M3 vehicle with a capacity exceeding 22 passengers in addition to the driver constructed with areas for standing passengers to allow frequent passenger movement;
+3.
+‘class A M2 or M3 vehicle’ means an M2 or M3 vehicle with a capacity not exceeding 22 passengers, in addition to the driver, designed to carry standing passengers and having seats and provision for standing passengers;
+4.
+‘lane departure warning system’ means a system to warn the driver of unintentional drift of the vehicle out of its travel lane;
+5.
+‘advanced emergency braking system’ means a system which can automatically detect an emergency situation and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating a collision;
+6.
+‘load-capacity index’ means one or two numbers which indicate the load the tyre can carry in single or in single and dual formation at the speed corresponding to the associated speed category and when used in conformity with requirements specified by the manufacturer;
+7.
+‘tyre pressure monitoring system’ means a system fitted on a vehicle which can evaluate the pressure of the tyres or the variation of pressure over time and transmit corresponding information to the user while the vehicle is running;
+8.
+‘special use tyre’ means a tyre intended for mixed use both on- and off-road or for other special duty;
+9.
+‘off-road professional tyre’ means a special use tyre primarily used in severe off-road conditions;
+10.
+‘reinforced tyre’ or ‘extra load tyre’ means a C1 pneumatic tyre structure in which the carcass is designed to carry a greater load than the corresponding standard tyre;
+11.
+‘snow tyre’ means a tyre whose tread pattern, tread compound or structure is primarily designed to achieve in snow conditions a performance better than that of a normal tyre with regard to its ability to initiate or maintain vehicle motion;
+12.
+‘T-type temporary-use spare tyre’ means a temporary-use spare tyre designed for use at inflation pressures higher than those established for standard and reinforced tyres;
+13.
+‘traction tyre’ means a tyre of classes C2 or C3 bearing the inscription ‘M + S’, ‘M.S.’ or ‘M&S’ and intended to be fitted to a vehicle drive axle or axles;
+14.
+‘unprotected road user’ means pedestrians, cyclists and motorcyclists;
+15.
+‘gear shift indicator’ or ‘GSI’ means a visible indicator recommending that the driver shift gear;
+16.
+‘manual gearbox’ means a gearbox that can be operated in a mode where the shift between all or some of the gears is always an immediate consequence of an action of the driver, regardless of its physical implementation; this does not cover systems where the driver can only preselect a certain gear shift strategy or limit the number of gears available for driving, and where the actual gear shifts are initiated independently of the decision of the driver according to certain driving patterns.

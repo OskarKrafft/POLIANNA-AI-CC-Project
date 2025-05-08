@@ -1,0 +1,15 @@
+Article 12
+Specific eligibility rules concerning actions relating to the adaptation of the TEN-T to civilian-defence dual use
+1.   Actions contributing to the adaptation of the TEN-T core network or comprehensive network as defined by Regulation (EU) No 1315/2013, with the purpose of enabling civilian-defence dual use of the infrastructure, shall be subject to the following additional eligibility rules:
+(a)
+the proposals shall be submitted by one or more Member States or, with the agreement of the Member States concerned, by legal entities established in Member States;
+(b)
+the actions shall relate to the sections or nodes identified by Member States in the Annexes to the Military Requirements for Military Mobility within and beyond the EU as adopted by the Council on 20 November 2018, or any subsequent list adopted thereafter, and to any further indicative list of priority projects that are identified by Member States in accordance with the Military Mobility Action Plan;
+(c)
+the actions may relate both to the upgrading of existing infrastructure components or to the construction of new infrastructure components taking into account the infrastructure requirements referred to in paragraph 2 of this Article;
+(d)
+actions implementing a level of infrastructure requirement going beyond the level required for dual use shall be eligible; however, their cost shall only be eligible up to the level of costs corresponding to the level of requirements necessary for dual use; actions relating to infrastructure used only for military purposes shall not be eligible;
+(e)
+actions under this Article shall only be funded from the amount in accordance with Article 4(2), point (a)(iii), of this Regulation.
+2.   The Commission shall adopt an implementing act specifying, where necessary, the infrastructure requirements applicable to certain categories of dual-use infrastructure actions and the evaluation procedure regarding the actions connected with dual-use infrastructure actions. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 24(2).
+3.   Following the interim evaluation of the CEF provided for in Article 23(2), the Commission may propose to the budgetary authority that it transfer the money that has not been committed from Article 4(2), point (a)(iii), to Article 4(2), point (a)(i).

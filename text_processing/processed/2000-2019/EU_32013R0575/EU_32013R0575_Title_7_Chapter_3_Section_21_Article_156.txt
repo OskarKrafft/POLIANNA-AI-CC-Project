@@ -1,0 +1,26 @@
+Article 156
+Risk weighted exposure amounts for other non credit-obligation assets
+The risk weighted exposure amounts for other non credit-obligation assets shall be calculated according to the following formula:
+
+
+
+,
+except for:
+(a)
+cash in hand and equivalent cash items as well as gold bullion held in own vault or on an allocated basis to the extent backed by bullion liabilities, in which case a 0 % risk-weight shall be assigned;
+(b)
+when the exposure is a residual value of leased assets in which case it shall be calculated as follows:
+
+
+
+
+
+where t is the greater of 1 and the nearest number of whole years of the lease remaining.
+
+Sub-Section 3
+
+
+
+Calculation of risk weighted exposure amounts for dilution risk of purchased receivables
+
+

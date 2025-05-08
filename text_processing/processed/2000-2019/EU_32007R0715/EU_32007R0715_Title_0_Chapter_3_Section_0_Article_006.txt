@@ -1,0 +1,29 @@
+Article 6
+Manufacturers' obligations
+1.   Manufacturers shall provide unrestricted and standardised access to vehicle repair and maintenance information to independent operators through websites using a standardised format in a readily accessible and prompt manner, and in a manner which is non-discriminatory compared to the provision given or access granted to authorised dealers and repairers. With a view to facilitating the achievement of this objective, the information shall be submitted in a consistent manner, initially in accordance with the technical requirements of the OASIS format (23). Manufacturers shall also make training material available to independent operators and authorised dealers and repairers.
+2.   The information referred to in paragraph 1 shall include:
+(a)
+an unequivocal vehicle identification;
+(b)
+service handbooks;
+(c)
+technical manuals;
+(d)
+component and diagnosis information (such as minimum and maximum theoretical values for measurements);
+(e)
+wiring diagrams;
+(f)
+diagnostic trouble codes (including manufacturer specific codes);
+(g)
+the software calibration identification number applicable to a vehicle type;
+(h)
+information provided concerning, and delivered by means of, proprietary tools and equipment;
+and
+(i)
+data record information and two-directional monitoring and test data.
+3.   Authorised dealers or repairers within the distribution system of a given vehicle manufacturer shall be regarded as independent operators for the purposes of this Regulation to the extent that they provide repair or maintenance services for vehicles in respect of which they are not members of the vehicle manufacturer's distribution system.
+4.   The vehicle repair and maintenance information shall always be available, except as required for maintenance purposes of the information system.
+5.   For the purposes of manufacture and servicing of OBD-compatible replacement or service parts and diagnostic tools and test equipment, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested component, diagnostic tools or test equipment manufacturer or repairer.
+6.   For the purposes of the design and manufacture of automotive equipment for alternative fuel vehicles, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested manufacturer, installer or repairer of equipment for alternative fuel vehicles.
+7.   When applying for EC type approval or national type approval, the manufacturer shall provide the type approval authority with proof of compliance with this Regulation relating to access to vehicle repair and maintenance information and to the information referred to in paragraph 5. In the event that such information is not yet available, or does not yet conform to this Regulation and its implementing measures at that point in time, the manufacturer shall provide it within six months from the date of type approval. If such proof of compliance is not provided within that period, the approval authority shall take appropriate measures to ensure compliance.
+The manufacturer shall make subsequent amendments and supplements to vehicle repair and maintenance information available on its websites at the same time they are made available to authorised repairers.

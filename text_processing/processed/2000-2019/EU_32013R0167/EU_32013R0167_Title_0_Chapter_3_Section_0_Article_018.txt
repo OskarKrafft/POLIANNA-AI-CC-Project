@@ -1,0 +1,49 @@
+Article 18
+Requirements for occupational safety
+1.   Manufacturers shall ensure that vehicles are designed, constructed and assembled so as to minimise the risk of injury to persons working on or with the vehicle.
+2.   Manufacturers shall ensure that vehicles, systems, components and separate technical units comply with the relevant requirements set out in this Regulation including the requirements relating to:
+(a)
+roll-over protection structures (‘ROPS’);
+(b)
+falling objects protection structures (‘FOPS’);
+(c)
+passenger seats;
+(d)
+driver’s exposure to noise level;
+(e)
+driving seat;
+(f)
+operating space and access to the driving position, including protection against slipping, tripping or falling;
+(g)
+power take-offs;
+(h)
+protection of drive components;
+(i)
+seat-belt anchorage points;
+(j)
+safety belts;
+(k)
+protection of driver against penetrating objects (Operator Protection Structures, ‘OPS’);
+(l)
+protection of driver against hazardous substances;
+(m)
+protection from exposure to parts or materials at extreme temperatures;
+(n)
+operators manual;
+(o)
+controls, including safety and reliability of control systems, emergency and automatic stop devices;
+(p)
+protection against mechanical hazards, other than the ones mentioned in points (a), (b), (g) and (k), including protection against rough surfaces, sharp edges and angles, rupture of pipes carrying fluids and uncontrolled movement of the vehicle;
+(q)
+operation and maintenance, including safe cleaning of the vehicle;
+(r)
+guards and protective devices;
+(s)
+information, warnings and markings;
+(t)
+materials and products;
+(u)
+batteries.
+3.   The requirements referred to in paragraphs 1 and 2 shall apply to vehicles, and to systems, components and separate technical units intended for such vehicles, if they are applicable in accordance with Annex I.
+4.   In order to ensure that a high level of occupational safety is attained, the Commission shall be empowered to adopt delegated acts in accordance with Article 71 concerning the detailed technical requirements for the subjects listed in paragraph 2 of this Article, including test procedures and limit values, where applicable. The first such delegated acts shall be adopted by 31 December 2014.
+Those detailed technical requirements shall be such as to increase or at least maintain the level of occupational safety provided for by the Directives referred to in Article 76(1) and Article 77, taking into account ergonomics (including protection against foreseeable misuse, usability of control systems, accessibility of controls to avoid their unintentional activation, adaptation of the person/vehicle interface to the foreseeable characteristics of the driver, vibrations and operator intervention), stability and fire safety.

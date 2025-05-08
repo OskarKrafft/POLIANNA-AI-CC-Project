@@ -1,0 +1,26 @@
+Article 72
+Reporting by Member States
+1.   Member States shall ensure that information is made available to the Commission on the implementation of this Directive, on representative data on emissions and other forms of pollution, on emission limit values, on the application of best available techniques in accordance with Articles 14 and 15, in particular on the granting of exemptions in accordance with Article 15(4), and on progress made concerning the development and application of emerging techniques in accordance with Article 27. Member States shall make the information available in an electronic format.
+2.   The type, format and frequency of information to be made available pursuant to paragraph 1 shall be established in accordance with the regulatory procedure referred to in Article 75(2). This shall include the determination of the specific activities and pollutants for which data referred to in paragraph 1 shall be made available.
+3.   For all combustion plants covered by Chapter III of this Directive, Member States shall, from 1 January 2016, establish an annual inventory of the sulphur dioxide, nitrogen oxides and dust emissions and energy input.
+Taking into account the aggregation rules set out in Article 29, the competent authority shall obtain the following data for each combustion plant:
+(a)
+the total rated thermal input (MW) of the combustion plant;
+(b)
+the type of combustion plant: boiler, gas turbine, gas engine, diesel engine, other (specifying the type);
+(c)
+the date of the start of operation of the combustion plant;
+(d)
+the total annual emissions (tonnes per year) of sulphur dioxide, nitrogen oxides and dust (as total suspended particles);
+(e)
+the number of operating hours of the combustion plant;
+(f)
+the total annual amount of energy input, related to the net calorific value (TJ per year), broken down in terms of the following categories of fuel: coal, lignite, biomass, peat, other solid fuels (specifying the type), liquid fuels, natural gas, other gases (specifying the type).
+The annual plant-by-plant data contained in these inventories shall be made available to the Commission upon request.
+A summary of the inventories shall be made available to the Commission every 3 years within 12 months from the end of the three-year period considered. This summary shall show separately the data for combustion plants within refineries.
+The Commission shall make available to the Member States and to the public a summary of the comparison and evaluation of those inventories in accordance with Directive 2003/4/EC within 24 months from the end of the three-year period considered.
+4.   Member States shall, from 1 January 2016, report the following data annually to the Commission:
+(a)
+for combustion plants to which Article 31 applies, the sulphur content of the indigenous solid fuel used and the rate of desulphurisation achieved, averaged over each month. For the first year where Article 31 is applied, the technical justification of the non-feasibility of complying with the emission limit values referred to in Article 30(2) and (3) shall also be reported; and
+(b)
+for combustion plants which do not operate more than 1 500 operating hours per year as a rolling average over a period of 5 years, the number of operating hours per year.

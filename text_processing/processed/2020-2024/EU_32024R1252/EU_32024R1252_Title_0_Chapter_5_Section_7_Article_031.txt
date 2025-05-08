@@ -1,0 +1,53 @@
+Article 31
+Environmental footprint declaration
+1.   Taking into account the result of the report referred to in paragraph 2 of this Article and of the assessment of necessity and proportionality for the purposes of paragraph 3 of this Article, the Commission is empowered to adopt delegated acts in accordance with Article 38 to supplement this Regulation to establish rules for the calculation and verification of the environmental footprint of different critical raw materials, in accordance with Annex V and taking into account scientifically sound assessment methods and relevant international standards. The calculation and verification rules shall identify at least the three most relevant environmental impact categories accounting for the majority of the overall environmental footprint. One of the environmental impact categories shall be greenhouse gas emissions. The footprint declaration shall be limited to those environmental impact categories.
+2.   The Commission shall by 24 November 2026 submit a report to the European Parliament and to the Council setting out which critical raw materials are to be prioritised for assessing whether the obligation to declare the environmental footprint of a critical raw material is necessary and proportionate.
+For the critical raw materials that the Commission has identified as a priority, the Commission shall present the conclusions of the assessment of necessity and proportionality for the purposes of paragraph 3 by 12 months from submission of the report referred to in the first subparagraph of this paragraph.
+3.   The Commission shall adopt calculation and verification rules for a specific critical raw material if it has concluded, having considered the various relevant environmental impact categories, that the critical raw material concerned has a significant environmental footprint and that therefore an obligation to declare the environmental footprint of that critical raw material regarding the environmental impact categories referred to in paragraph 1, when placing it on the market, is necessary and proportionate to contribute to the Union’s climate and environmental objectives by facilitating the supply of critical raw materials with lower environmental footprint.
+4.   When considering whether the obligation provided for in paragraph 6 of this Article is necessary, the Commission shall take into account:
+(a)
+whether and how as well as how effectively the Union’s climate and environmental objectives are already being achieved through other Union legal acts applicable to the critical raw material concerned;
+(b)
+the existence and uptake of relevant international standards and guidelines, or the prospects of agreeing on such standards at international level, as well as sustainable practices on the market, including the voluntary schemes recognised pursuant to Article 30(2);
+(c)
+the effectiveness of Strategic Partnerships, Strategic Projects, trade agreements and other international instruments and outreach conducted by the Union in achieving the Union’s climate and environmental objectives;
+(d)
+the associated economic costs and administrative burden for economic operators.
+5.   The Commission shall conduct a prior assessment of impacts in order to decide whether to adopt a delegated act pursuant to paragraph 1. That assessment shall:
+(a)
+be based, inter alia, on a consultation of:
+(i)
+all relevant stakeholders, such as industry including downstream industry, SMEs, and, where relevant, the craft industry, social partners, traders, retailers, importers, organisations promoting human health and environmental protection, consumer organisations and academia;
+(ii)
+third countries, or OCTs, whose trade with the Union may be significantly affected by this obligation;
+(iii)
+the Board;
+(iv)
+Union agencies with competence in the field of environmental protection, as appropriate;
+(b)
+ensure that any such measure is not prepared, adopted or applied with a view to or with the effect of creating unnecessary obstacles to international trade and is no more trade-restrictive than necessary to achieve the Union’s climate and environmental objectives, having regard to the ability of third-country suppliers to comply with such a declaration such that aggregate trade flows and critical raw materials costs are not disproportionately affected;
+(c)
+assess whether similar obligations under Union law have produced the intended effects and significantly contributed to the achievement of the Union’s environmental targets;
+(d)
+assess whether the measure would contribute to achieving the Union’s climate and environmental objectives without disproportionately impacting the ability of Union industry to source the critical raw material concerned.
+6.   Any natural or legal person that places on the market critical raw materials, including processed and recycled, for which the Commission has adopted calculation and verification rules pursuant to paragraph 1 shall make available an environmental footprint declaration.
+The requirement set out in the first subparagraph shall apply to each individual critical raw material type placed on the market and shall not apply to critical raw materials included in intermediate or final products.
+7.   The environmental footprint declaration referred to in paragraph 6 shall contain the following information:
+(a)
+the name, registered trade name or registered trademark and the postal address of the natural or legal person responsible and electronic means of communication where they can be contacted;
+(b)
+information about the critical raw material type for which the declaration applies;
+(c)
+information about the country and region where the critical raw material was extracted, processed, refined and recycled, as applicable;
+(d)
+the environmental footprint of the critical raw material, calculated in accordance with the applicable verification and calculation rules adopted pursuant to paragraph 1;
+(e)
+the environmental footprint performance class that the critical raw material corresponds to, established in accordance with the applicable delegated act adopted pursuant to paragraph 8;
+(f)
+a web link providing access to a public version of the study supporting the environmental footprint declaration results.
+8.   The Commission shall adopt delegated acts in accordance with Article 38 to supplement this Regulation by establishing environmental footprint performance classes within a reasonable timeframe for critical raw materials for which calculation and verification rules have been adopted pursuant to paragraph 1 of this Article, in accordance with Annex V.
+9.   The Commission shall, when setting calculation rules for the environmental footprint of intermediate and final products containing critical raw materials, require, where possible, the use of the environmental footprint calculation rules referred to in this Article.
+10.   The environmental footprint declaration shall be made available on a free-access website and shall be easily understandable.
+The Commission may adopt implementing acts establishing the format for the environmental footprint declaration referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 39(3).
+11.   When offering critical raw materials for sale, including in the case of distance selling, or displaying them in the course of a commercial activity, natural and legal persons placing on the market critical raw materials shall ensure that their customers have access to the environmental footprint declaration before being bound by a sales contract.
+Natural and legal persons placing on the market critical raw materials shall not provide or display labels, marks, symbols or inscriptions that are likely to mislead or confuse customers with respect to the information included in the environmental footprint declaration.

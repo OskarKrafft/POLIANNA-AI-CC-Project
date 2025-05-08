@@ -1,0 +1,30 @@
+Article 28
+Required solvency margin
+1.   Subject to Article 29, the required solvency margin shall be determined as laid down in paragraphs 2 to 7 according to the classes of assurance underwritten.
+2.   For the kinds of assurance referred to in Article 2(1)(a) and (b) other than assurances linked to investment funds and for the operations referred to in Article 2(3), the required solvency margin shall be equal to the sum of the following two results:
+(a)
+first result:
+a 4 % fraction of the mathematical provisions relating to direct business and reinsurance acceptances gross of reinsurance cessions shall be multiplied by the ratio, for the last financial year, of the total mathematical provisions net of reinsurance cessions to the gross total mathematical provisions. That ratio may in no case be less than 85 %;
+(b)
+second result:
+ 
+for policies on which the capital at risk is not a negative figure, a 0,3 % fraction of such capital underwritten by the assurance undertaking shall be multiplied by the ratio, for the last financial year, of the total capital at risk retained as the undertaking's liability after reinsurance cessions and retrocessions to the total capital at risk gross of reinsurance; that ratio may in no case be less than 50 %.
+ 
+For temporary assurance on death of a maximum term of three years the fraction shall be 0,1 %. For such assurance of a term of more than three years but not more than five years the above fraction shall be 0,15 %.
+3.   For the supplementary insurance referred to in Article 2(1)(c) the required solvency margin shall be equal to the required solvency margin for insurance undertakings as laid down in Article 16a of Directive 73/239/EEC, excluding the provisions of Article 17 of that Directive.
+4.   For permanent health insurance not subject to cancellation referred to in Article 2(1)(d), the required solvency margin shall be equal to:
+(a)
+a 4 % fraction of the mathematical provisions, calculated in compliance with paragraph 2(a) of this Article; plus
+(b)
+the required solvency margin for insurance undertakings as laid down in Article 16a of Directive 73/239/EEC, excluding the provisions of Article 17 of that Directive. However, the condition contained in Article 16a(6)(b) of that Directive that a provision be set up for increasing age may be replaced by a requirement that the business be conducted on a group basis.
+5.   For capital redemption operations referred to in Article 2(2)(b), the required solvency margin shall be equal to a 4 % fraction of the mathematical provisions calculated in compliance with paragraph 2(a) of this Article.
+6.   For tontines, referred to in Article 2(2)(a), the required solvency margin shall be equal to 1 % of their assets.
+7.   For assurances covered by Article 2(1)(a) and (b) linked to investment funds and for the operations referred to in Article 2(2)(c), (d) and (e), the required solvency margin shall be equal to the sum of the following:
+(a)
+in so far as the assurance undertaking bears an investment risk, a 4 % fraction of the technical provisions, calculated in compliance with paragraph 2(a) of this Article;
+(b)
+in so far as the undertaking bears no investment risk but the allocation to cover management expenses is fixed for a period exceeding five years, a 1 % fraction of the technical provisions, calculated in compliance with paragraph 2(a) of this Article;
+(c)
+in so far as the undertaking bears no investment risk and the allocation to cover management expenses is not fixed for a period exceeding five years, an amount equivalent to 25 % of the last financial year's net administrative expenses pertaining to such business;
+(d)
+in so far as the assurance undertaking covers a death risk, a 0,3 % fraction of the capital at risk calculated in compliance with paragraph 2(b) of this Article.

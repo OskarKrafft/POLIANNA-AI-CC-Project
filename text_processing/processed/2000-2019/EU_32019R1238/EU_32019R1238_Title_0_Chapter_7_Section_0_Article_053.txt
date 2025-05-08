@@ -1,0 +1,23 @@
+Article 53
+The switching service
+1.   At the request of the PEPP saver, after the PEPP saver has made an informed decision based on the information received from the PEPP providers as defined in Article 56, the switching service shall be initiated by the receiving PEPP provider.
+2.   The request from the PEPP saver shall be drawn up in an official language of the Member State where the switching service is being initiated or in any other language agreed between the parties. In the request, the PEPP saver shall:
+(a)
+give his or her specific consent to the performance by the transferring PEPP provider of each of the tasks referred to in paragraph 4 and shall give his or her specific consent to the performance by the receiving PEPP provider of each of the tasks referred to in paragraph 5;
+(b)
+in agreement with the receiving PEPP provider, specify the date from which payments are to be executed to the PEPP account opened with the receiving PEPP provider.
+That date shall be at least two weeks after the date on which the receiving PEPP provider receives the documents transferred from the transferring PEPP provider pursuant to paragraph 4.
+Member States may require the request from the PEPP saver to be in writing and that a copy of the accepted request is provided to the PEPP saver.
+3.   Within five working days from receipt of the request referred to in paragraph 2, the receiving PEPP provider shall request the transferring PEPP provider to carry out the tasks as referred to in paragraph 4.
+4.   Upon receipt of a request from the receiving PEPP provider, the transferring PEPP provider shall:
+(a)
+within five working days, send the PEPP Benefit Statement for the period from the date of the last drawn up PEPP Benefit Statement to the date of the request to the PEPP saver and to the receiving PEPP provider;
+(b)
+within five working days, send a list of the existing assets that are being transferred in the case of transfer of assets-in-kind as referred to in Article 52(4) to the receiving PEPP provider;
+(c)
+stop accepting incoming payments on the PEPP account with effect from the date specified by the PEPP saver in the request referred to in point (b) of paragraph 2;
+(d)
+transfer the corresponding amounts, or where applicable, assets-in-kind in accordance with Article 52(4), from the PEPP account to the new PEPP account opened with the receiving PEPP provider on the date specified by the PEPP saver in the request;
+(e)
+close the PEPP account on the date specified by the PEPP saver if the PEPP saver has no outstanding obligations. The transferring PEPP provider shall immediately inform the PEPP saver where such outstanding obligations prevent the PEPP saver’s account from being closed.
+5.   The receiving PEPP provider shall, as provided for in the request and to the extent that the information provided by the transferring PEPP provider or the PEPP saver enables the receiving PEPP provider to do so, make any necessary preparations to accept incoming payments and accept them with effect from the date specified by the PEPP saver in the request.

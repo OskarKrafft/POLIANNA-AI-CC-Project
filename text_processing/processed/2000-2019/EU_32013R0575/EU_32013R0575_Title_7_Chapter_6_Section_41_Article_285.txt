@@ -1,0 +1,36 @@
+Article 285
+Exposure value for netting sets subject to a margin agreement
+1.   If the netting set is subject to a margin agreement and daily mark-to-market valuation, an institution may use one of the following EPE measures:
+(a)
+effective EPE, without taking into account any collateral held or posted by way of margin plus any collateral that has been posted to the counterparty independent of the daily valuation and margining process or current exposure;
+(b)
+an add-on that reflects the potential increase in exposure over the margin period of risk, plus the larger of:
+(i)
+the current exposure including all collateral currently held or posted, other than collateral called or in dispute;
+(ii)
+the largest net exposure, including collateral under the margin agreement, that would not trigger a collateral call. This amount shall reflect all applicable thresholds, minimum transfer amounts, independent amounts and initial margins under the margin agreement;
+(c)
+if the model captures the effects of margining when estimating EE, the institution may, subject to the permission of the competent authority, use the model's EE measure directly in the equation in Article 284(5). Competent authorities shall grant such permission only if they verify that the model properly captures the effects of margining when estimating EE.
+For the purposes of point (b), institutions shall calculate the add-on as the expected positive change of the mark-to-market value of the transactions during the margin period of risk. Changes in the value of collateral shall be reflected using the supervisory volatility adjustments in accordance with Section 3 of Chapter 4 or the own estimates of volatility adjustments of the Financial Collateral Comprehensive Method, but no collateral payments shall be assumed during the margin period of risk. The margin period of risk is subject to the minimum periods set out in paragraphs 2 to 5.
+2.   For transactions subject to daily re-margining and mark-to-market valuation, the margin period of risk used for the purpose of modelling the exposure value with margin agreements shall not be less than:
+(a)
+5 business days for netting sets consisting only of repurchase transactions, securities or commodities lending or borrowing transactions and margin lending transactions;
+(b)
+10 business days for all other netting sets.
+3.   Points (a) and (b) of paragraph 2 shall be subject to the following exceptions:
+(a)
+for all netting sets where the number of trades exceeds 5 000 at any point during a quarter, the margin period of risk for the following quarter shall not be less than 20 business days. This exception shall not apply to institutions' trade exposures;
+(b)
+for netting sets containing one or more trades involving either illiquid collateral, or an OTC derivative that cannot be easily replaced, the margin period of risk shall not be less than 20 business days.
+An institution shall determine whether collateral is illiquid or whether OTC derivatives cannot be easily replaced in the context of stressed market conditions, characterised by the absence of continuously active markets where a counterparty would, within two days or fewer, obtain multiple price quotations that would not move the market or represent a price reflecting a market discount (in the case of collateral) or premium (in the case of an OTC derivative).
+An institution shall consider whether trades or securities it holds as collateral are concentrated in a particular counterparty and if that counterparty exited the market precipitously whether the institution would be able to replace those trades or securities.
+4.   If an institution has been involved in more than two margin call disputes on a particular netting set over the immediately preceding two quarters that have lasted longer than the applicable margin period of risk under paragraphs 2 and 3, the institution shall use a margin period of risk that is at least double the period specified in paragraphs 2 and 3 for that netting set for the subsequent two quarters.
+5.   For re-margining with a periodicity of N days, the margin period of risk shall be at least equal to the period specified in paragraphs 2 and 3, F, plus N days minus one day. That is:
+
+
+
+
+
+6.   If the internal model includes the effect of margining on changes in the market value of the netting set, an institution shall model collateral, other than cash of the same currency as the exposure itself, jointly with the exposure in its exposure value calculations for OTC derivatives and securities-financing transactions.
+7.   If an institution is not able to model collateral jointly with the exposure, it shall not recognise in its exposure value calculations for OTC derivatives and securities-financing transactions the effect of collateral other than cash of the same currency as the exposure itself, unless it uses either volatility adjustments that meet the standards of the financial collateral comprehensive method with own volatility adjustments estimates or the standard supervisory volatility adjustments in accordance with Chapter 4.
+8.   An institution using the IMM shall ignore in its models the effect of a reduction of the exposure value due to any clause in a collateral agreement that requires receipt of collateral when counterparty credit quality deteriorates.

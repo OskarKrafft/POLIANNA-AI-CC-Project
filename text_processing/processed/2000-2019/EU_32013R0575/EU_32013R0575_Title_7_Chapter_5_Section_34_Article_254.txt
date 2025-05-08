@@ -1,0 +1,9 @@
+Article 254
+Treatment of securitisation positions in a second loss tranche or better in an ABCP programme
+Subject to the availability of a more favourable treatment for unrated liquidity facilities under Article 255 an institution may apply to securitisation positions meeting the following conditions a risk weight that is the greater of 100 % or the highest of the risk weights that would be applied to any of the securitised exposures under Chapter 2 by an institution holding the exposures:
+(a)
+the securitisation position shall be in a tranche which is economically in a second loss position or better in the securitisation and the first loss tranche shall provide meaningful credit enhancement to the second loss tranche;
+(b)
+the quality of the securitisation position shall be equivalent to credit quality step 3 under the Standardised Approach or better;
+(c)
+the securitisation position shall be held by an institution which does not hold a position in the first loss tranche.

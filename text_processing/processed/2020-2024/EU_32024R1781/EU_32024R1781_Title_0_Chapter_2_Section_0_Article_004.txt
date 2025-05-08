@@ -1,0 +1,33 @@
+Article 4
+Empowerments to adopt delegated acts
+1.   The Commission is empowered to adopt delegated acts in accordance with Article 72 to supplement this Regulation by setting ecodesign requirements. Those delegated acts shall include at least the elements listed in Article 8. Such ecodesign requirements shall be set in accordance with Articles 5, 6 and 7 and Chapter III.
+2.   The empowerment referred to in paragraph 1 shall include the possibility of establishing that no performance requirements, no information requirements or neither performance nor information requirements are to be set for certain product parameters referred to in Annex I where a requirement related to those specific product parameters would have a negative impact on the ecodesign requirements considered for the product group concerned.
+3.   The empowerment referred to in paragraph 1 shall not include the possibility of adopting a delegated act that establishes that no ecodesign requirements are necessary for a product group.
+4.   In the delegated acts adopted pursuant to paragraph 1, the Commission shall provide economic operators with sufficient time to comply with the ecodesign requirements laid down in those delegated acts, particularly taking into consideration the needs of SMEs, in particular microenterprises. The date of application of a delegated act shall not be earlier than 18 months from its entry into force, except in duly justified cases for the whole act or for some specific requirements, or except in cases of partial repeal or amendment of delegated acts, where an earlier date of application may be set.
+5.   In the delegated acts referred to in paragraph 1 of this Article, the Commission shall supplement this Regulation by specifying the applicable conformity assessment procedures from either module A set out in Annex IV to this Regulation or one of the modules B to H1 set out in Annex II to Decision No 768/2008/EC, with the adaptations necessary in view of the product or ecodesign requirements concerned, in accordance with Article 43 of this Regulation.
+Where different conformity assessment modules in Annex II to Decision 768/2008/EC are to be used pursuant to other Union law for the same product, the module provided for in the delegated acts referred to in paragraph 1 shall be used for the ecodesign requirement concerned.
+When this Regulation, where appropriate, applies to a product group in a manner complementary to a Regulation of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products (the ‘construction products Regulation’), the delegated act adopted pursuant to paragraph 1 shall specify the conformity assessment procedure, including, where appropriate, any systems provided for pursuant to a measure under the construction products Regulation, taking into account the characteristics of the product group, the relevant ecodesign requirements and the cost for economic operators.
+6.   The delegated acts adopted pursuant to paragraph 1 may, as appropriate in view of the specificities of the product group, include any of the following additional requirements:
+(a)
+where necessary for effective market surveillance:
+(i)
+that manufacturers, their authorised representatives or importers keep the technical documentation and the EU declaration of conformity for a period other than the 10 years referred to in Article 27(3), Article 28(2), point (a), or Article 29(7), as applicable, after the relevant product has been placed on the market or put into service taking into account the nature of the product or ecodesign requirements concerned;
+(ii)
+that economic operators provide, upon request, market surveillance authorities with the information set out in Article 36(2), second subparagraph, for a period other than 10 years referred to therein after the relevant product has been supplied;
+(iii)
+that manufacturers, their authorised representatives or importers make parts of the technical documentation related to the relevant product digitally available to the Commission or market surveillance authorities without a request being necessary, in accordance with Article 36(3);
+(iv)
+that supply chain actors comply with the obligations listed in Article 38.
+(b)
+that manufacturers, their authorised representatives or importers make available to the Commission information on the quantities of a product covered by the delegated acts referred to in paragraph 1 of this Article placed on the market or put into service, in accordance with Article 37(1);
+(c)
+where necessary in order to ensure energy-efficient usage of products or to develop future ecodesign requirements:
+(i)
+that products be able to measure the energy they consume or their performance in relation to other relevant product parameters referred to in Annex I while in use, in accordance with Article 37(2);
+(ii)
+that manufacturers, their authorised representatives or importers collect non-personal in-use data referred to in point (i) and report to the Commission in accordance with Article 37(4);
+(iii)
+that digital tools be used to calculate the performance of a product in relation to a product parameter referred to in Annex I, in accordance with Article 39(2);
+(d)
+in order to ensure transparency about conformity with ecodesign requirements, rules on markings indicating conformity with ecodesign requirements, for products not subject to the requirement to affix the CE marking before being placed on the market or put into service, in accordance with Article 47.
+7.   The first delegated act to be adopted under this Article shall not enter into force before 19 July 2025.

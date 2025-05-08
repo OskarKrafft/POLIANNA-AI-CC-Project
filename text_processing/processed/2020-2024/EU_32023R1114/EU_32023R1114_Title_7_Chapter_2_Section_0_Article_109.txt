@@ -1,0 +1,64 @@
+Article 109
+Register of crypto-asset white papers, of issuers of asset-referenced tokens and e-money tokens, and of crypto-asset service providers
+1.   ESMA shall establish a register of:
+(a)
+crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;
+(b)
+issuers of asset-referenced tokens;
+(c)
+issuers of e-money tokens; and
+(d)
+crypto-asset service providers.
+ESMA’s register shall be publicly available on its website and shall be updated on a regular basis. In order to facilitate such updating, the competent authorities shall communicate to ESMA any changes notified to them regarding the information specified in paragraphs 2 to 5.
+The competent authorities shall provide ESMA with the data necessary for the classification of crypto-asset white papers in the register, as specified in accordance with paragraph 8.
+2.   As regards crypto-asset white papers for crypto-assets other than asset-referenced tokens or e-money tokens, the register shall contain the crypto-asset white papers and any modified crypto-asset white papers. Any out-of-date versions of the crypto-asset white papers shall be kept in a separate archive and be clearly marked as out-of-date versions.
+3.   As regards issuers of asset-referenced tokens, the register shall contain the following information:
+(a)
+the name, legal form and legal entity identifier of the issuer;
+(b)
+the commercial name, physical address, telephone number, email and website of the issuer;
+(c)
+the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;
+(d)
+the list of host Member States where the applicant issuer intends to offer an asset-referenced token to the public or intends to seek admission to trading of the asset-referenced tokens;
+(e)
+the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;
+(f)
+any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;
+(g)
+the date of authorisation to offer to the public or seek the admission to trading of an asset-referenced token or of authorisation as a credit institution and, where applicable, of withdrawal of either authorisation.
+4.   As regards issuers of e-money tokens, the register shall contain the following information:
+(a)
+the name, legal form and legal entity identifier of the issuer;
+(b)
+the commercial name, physical address, telephone number, email and website of the issuer;
+(c)
+the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;
+(d)
+the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;
+(e)
+any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;
+(f)
+the date of authorisation as a credit institution or as an electronic money institution and, where applicable, of withdrawal of that authorisation.
+5.   As regards crypto-asset service providers, the register shall contain the following information:
+(a)
+the name, legal form and legal entity identifier of the crypto-asset service provider and, where applicable, of the branches of the crypto-asset service provider;
+(b)
+the commercial name, physical address, telephone number, email and website of the crypto-asset service provider and, where applicable, of the trading platform for crypto-assets operated by the crypto-asset service provider;
+(c)
+the name and address of the competent authority that granted authorisation and its contact details;
+(d)
+the list of crypto-asset services provided by the crypto-asset service provider;
+(e)
+the list of host Member States in which the crypto-asset service provider intends to provide crypto-asset services;
+(f)
+the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the provision of crypto-asset services;
+(g)
+any other services provided by the crypto-asset service provider not covered by this Regulation with a reference to the applicable Union or national law;
+(h)
+the date of authorisation and, where applicable, of the withdrawal of an authorisation.
+6.   Competent authorities shall notify ESMA without delay of the measures listed in Article 94(1), first subparagraph, point (b), (c), (f), (l), (m), (n), (o) or (t), and of any public precautionary measures taken pursuant to Article 102 affecting the provision of crypto-asset services or the issuance, offer to the public or use of crypto-assets. ESMA shall include such information in the register.
+7.   Any withdrawal of an authorisation of an issuer of an asset-referenced token, of an issuer of an e-money token, or of a crypto-asset service provider, and any measure notified in accordance with paragraph 6, shall remain published in the register for five years.
+8.   ESMA shall develop draft regulatory technical standards to further specify the data necessary for the classification, by type of crypto-asset, of crypto-asset white papers, including the legal entity identifiers, in the register and specify the practical arrangements to ensure that such data is machine-readable.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

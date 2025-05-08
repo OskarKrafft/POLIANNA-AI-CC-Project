@@ -1,0 +1,16 @@
+Article 14
+1. In the event of continuous measurements, the emission limit values set out in part A of Annexes III to VII shall be regarded as having been complied with if the evaluation of the results indicates, for operating hours within a calendar year, that:
+(a) none of the calendar monthly mean values exceeds the emission limit values; and
+(b) in the case of:
+(i) sulphur dioxide and dust: 97 % of all the 48 hourly mean values do not exceed 110 % of the emission limit values,
+(ii) nitrogen oxides: 95 % of all the 48 hourly mean values do not exceed 110 % of the emission limit values.
+The periods referred to in Article 7 as well as start-up and shut-down periods shall be disregarded.
+2. In cases where only discontinuous measurements or other appropriate procedures for determination are required, the emission limit values set out in Annexes III to VII shall be regarded as having been complied with if the results of each of the series of measurements or of the other procedures defined and determined according to the rules laid down by the competent authorities do not exceed the emission limit values.
+3. In the cases referred to in Article 5(2) and (3), the rates of desulphurisation shall be regarded as having been complied with if the evaluation of measurements carried out pursuant to Annex VIII, point A.3, indicates that all of the calendar monthly mean values or all of the rolling monthly mean values achieve the required desulphurisation rates.
+The periods referred to in Article 7 as well as start-up and shut-down periods shall be disregarded.
+4. For new plants for which the licence is granted pursuant to Article 4(2), the emission limit values shall be regarded, for operating hours within a calendar year, as complied with if:
+(a) no validated daily average value exceeds the relevant figures set out in part B of Annexes III to VII, and
+(b) 95 % of all the validated hourly average values over the year do not exceed 200 % of the relevant figures set out in part B of Annexes III to VII.
+The "validated average values" are determined as set out in point A.6 of Annex VIII.
+The periods referred to in Article 7 as well as start up and shut down periods shall be disregarded.
+

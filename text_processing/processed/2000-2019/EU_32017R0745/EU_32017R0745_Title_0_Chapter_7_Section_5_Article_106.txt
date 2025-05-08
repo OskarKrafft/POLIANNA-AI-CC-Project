@@ -1,0 +1,63 @@
+Article 106
+Provision of scientific, technical and clinical opinions and advice
+1.   The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.
+2.   Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.
+3.   Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clinical approaches in the Union. The Commission shall determine the number of members of each panel in accordance with the requisite needs.
+The members of expert panels shall perform their tasks with impartiality and objectivity. They shall neither seek nor take instructions from notified bodies or manufacturers. Each member shall draw up a declaration of interests, which shall be made publicly available.
+The Commission shall establish systems and procedures to actively manage and prevent potential conflicts of interest.
+4.   Expert panels shall take into account relevant information provided by stakeholders including patients' organisations and healthcare professionals when preparing their scientific opinions.
+5.   The Commission, following consultation with the MDCG, may appoint advisors to expert panels following publication in the Official Journal of the European Union and on the Commission website following a call for expressions of interest. Depending on the type of task and the need for specific expertise, advisors may be appointed to the expert panels for a maximum period of three years and their appointment may be renewed.
+6.   The Commission, following consultation with the MDCG, may include advisors on a central list of available experts who, whilst not being formally appointed to a panel, are available to provide advice and to support the work of the expert panel as needed. That list shall be published on the Commission website.
+7.   The Commission may, by means of implementing acts and following consultation with the MDCG, designate expert laboratories, on the basis of their expertise in:
+—
+physico-chemical characterisation, or
+—
+microbiological, biocompatibility, mechanical, electrical, electronic or non-clinical biological and toxicological testing
+of specific devices, categories or groups of devices.
+The Commission shall only designate expert laboratories for which a Member State or the Joint Research Centre has submitted an application for designation.
+8.   Expert laboratories shall satisfy the following criteria:
+(a)
+have adequate and appropriately qualified staff with adequate knowledge and experience in the field of the devices for which they are designated;
+(b)
+possess the necessary equipment to carry out the tasks assigned to them;
+(c)
+have the necessary knowledge of international standards and best practices;
+(d)
+have an appropriate administrative organisation and structure;
+(e)
+ensure that their staff observe the confidentiality of information and data obtained in carrying out their tasks.
+9.   Expert panels appointed for clinical evaluation in relevant medical fields shall fulfil the tasks provided for in Article 54(1) and Article 61(2) and Section 5.1 of Annex IX or Section 6 of Annex X, as applicable.
+10.   Expert panels and expert laboratories may have the following tasks, depending on the requisite needs:
+(a)
+to provide scientific, technical and clinical assistance to the Commission and the MDCG in relation to the implementation of this Regulation;
+(b)
+to contribute to the development and maintenance of appropriate guidance and CS for:
+—
+clinical investigations,
+—
+clinical evaluation and PMCF,
+—
+performance studies,
+—
+performance evaluation and post-market performance follow-up,
+—
+physico-chemical characterisation, and
+—
+microbiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing
+for specific devices, or a category or group of devices, or for specific hazards related to a category or group of devices;
+(c)
+to develop and review clinical evaluation guidance and performance evaluation guidance for performance of conformity assessment in line with the state of the art with regard to clinical evaluation, performance evaluation, physico-chemical characterisation, and microbiological, biocompatibility, mechanical, electrical, electronic or non-clinical toxicological testing;
+(d)
+to contribute to the development of standards at international level, ensuring that such standards reflect the state of the art;
+(e)
+to provide opinions in response to consultations by manufacturers in accordance with Article 61(2), notified bodies and Member States in accordance with paragraphs 11 to 13 of this Article.
+(f)
+to contribute to identification of concerns and emerging issues on the safety and performance of medical devices;
+(g)
+to provide views in accordance with Article 48(4) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices.
+11.   The Commission, shall facilitate the access of Member States and notified bodies and manufacturers to advice provided by expert panels and expert laboratories concerning, inter alia, the criteria for an appropriate data set for assessment of the conformity of a device, in particular with regard to the clinical data required for clinical evaluation, with regard to physico-chemical characterisation, and with regard to microbiological, biocompatibility, mechanical, electrical, electronic and non-clinical toxicological testing.
+12.   When adopting its scientific opinion in accordance with paragraph 9, the members of the expert panels shall use their best endeavours to reach consensus. If consensus cannot be reached, the expert panels shall decide by a majority of their members, and the scientific opinion shall mention the divergent positions and the grounds on which they are based.
+The Commission shall publish the scientific opinion and advice delivered in accordance with paragraphs 9 and 11 of this Article, ensuring consideration of aspects of confidentiality as set out in Article 109. The clinical evaluation guidance referred to in point (c) of paragraph 10 shall be published following consultation with the MDCG.
+13.   The Commission may require manufacturers and notified bodies to pay fees for the advice provided by expert panels and expert laboratories. The structure and the level of fees as well as the scale and structure of recoverable costs shall be adopted by the Commission by means of implementing acts, taking into account the objectives of the adequate implementation of this Regulation, protection of health and safety, support of innovation and cost-effectiveness and the necessity to achieve active participation in the expert panels. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3).
+14.   The fees payable to the Commission in accordance with the procedure under paragraph 13 of this Article shall be set in a transparent manner and on the basis of the costs for the services provided. The fees payable shall be reduced in the case of a clinical evaluation consultation procedure initiated in accordance with point (c) of Section 5.1 of Annex IX involving a manufacturer who is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.
+15.   The Commission is empowered to adopt delegated acts in accordance with Article 115 to amend the tasks of expert panels and expert laboratories referred to in paragraph 10 of this Article.

@@ -1,0 +1,96 @@
+Article 261
+Ratings Based Method
+1.   Under the Ratings Based Method, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value and multiplying the result by 1,06.
+The relevant risk weight shall be the risk weight as laid down in Table 4, with which the credit assessment of the position is associated in accordance with Section 4.
+
+Table 4
+
+Credit Quality Step
+Securitisation Positions
+Re-securitisation Positions
+Credit assessments other than short term
+Short term credit assessments
+A
+B
+C
+D
+E
+1 
+1 
+7  %
+12  %
+20  %
+20  %
+30  %
+2 
+ 
+8  %
+15  %
+25  %
+25  %
+40  %
+3 
+ 
+10  %
+18  %
+35  %
+35  %
+50  %
+4 
+2 
+12  %
+20  %
+40  %
+65  %
+5 
+ 
+20  %
+35  %
+60  %
+100  %
+6 
+ 
+35  %
+50  %
+100  %
+150  %
+7 
+3 
+60  %
+75  %
+150  %
+225  %
+8 
+ 
+100  %
+200  %
+350  %
+9 
+ 
+250  %
+300  %
+500  %
+10 
+ 
+425  %
+500  %
+650  %
+11 
+ 
+650  %
+750  %
+850  %
+all other and unrated
+1 250  %
+The weightings in column C of Table 4 shall be applied where the securitisation position is not a re-securitisation position and where the effective number of exposures securitised is less than six.
+For the remainder of the securitisation positions that are not re-securitisation positions, the weightings in column B shall be applied unless the position is in the most senior tranche of a securitisation, in which case the weightings in column A shall be applied.
+For re-securitisation positions the weightings in column E shall be applied unless the re-securitisation position is in the most senior tranche of the re-securitisation and none of the underlying exposures are themselves re-securitisation exposures, in which case column D shall be applied.
+When determining whether a tranche is the most senior, it is not required to take into consideration amounts due under interest rate or currency derivative contracts, fees due, or other similar payments.
+In calculating the effective number of exposures securitised multiple exposures to one obligor shall be treated as one exposure. The effective number of exposures is calculated as:
+
+
+
+
+
+where EADi represents the sum of the exposure values of all exposures to the ith obligor. If the portfolio share associated with the largest exposure, C1, is available, the institution may compute N as 1/C1.
+2.   Credit risk mitigation on securitisation positions may be recognised in accordance with Article 264(1) and (4), subject to the conditions in Article 247.

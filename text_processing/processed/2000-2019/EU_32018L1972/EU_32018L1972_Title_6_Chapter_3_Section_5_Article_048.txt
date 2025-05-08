@@ -1,0 +1,29 @@
+Article 49
+Duration of rights
+1.   Where Member States authorise the use of radio spectrum through individual rights of use for a limited period, they shall ensure that the right of use is granted for a period that is appropriate in light of the objectives pursued in accordance with Article 55(2), taking due account of the need to ensure competition, as well as, in particular, effective and efficient use of radio spectrum, and to promote innovation and efficient investments, including by allowing for an appropriate period for investment amortisation.
+2.   Where Member States grant individual rights of use for radio spectrum for which harmonised conditions have been set by technical implementing measures in accordance with Decision No 676/2002/EC in order to enable its use for wireless broadband electronic communications services (‘wireless broadband services’) for a limited period, they shall ensure regulatory predictability for the holders of the rights over a period of at least 20 years regarding conditions for investment in infrastructure which relies on the use of such radio spectrum, taking account of the requirements referred to in paragraph 1 of this Article. This Article is subject, where relevant, to any modification of the conditions attached to those rights of use in accordance with Article 18.
+To that end, Member States shall ensure that such rights are valid for a duration of at least 15 years and include, where necessary to comply with the first subparagraph, an adequate extension thereof, under the conditions laid down in this paragraph.
+Member States shall make available the general criteria for an extension of the duration of rights of use, in a transparent manner, to all interested parties in advance of granting rights of use, as part of the conditions laid down under Article 55(3) and (6). Such general criteria shall relate to:
+(a)
+the need to ensure the effective and efficient use of the radio spectrum concerned, the objectives pursued in points (a) and (b) of Article 45(2), or the need to fulfil general interest objectives related to ensuring safety of life, public order, public security or defence; and
+(b)
+the need to ensure undistorted competition.
+At the latest two years before the expiry of the initial duration of an individual right of use, the competent authority shall conduct an objective and forward-looking assessment of the general criteria laid down for extension of the duration of that right of use in light of point (c) of Article 45(2). Provided that the competent authority has not initiated enforcement action for non-compliance with the conditions of the rights of use pursuant to Article 30, it shall grant the extension of the duration of the right of use unless it concludes that such an extension would not comply with the general criteria laid down in point (a) or (b) of the third subparagraph of this paragraph.
+On the basis of that assessment, the competent authority shall notify the holder of the right as to whether the extension of the duration of the right of use is to be granted.
+If such extension is not to be granted, the competent authority shall apply Article 48 for granting rights of use for that specific radio spectrum band.
+Any measure under this paragraph shall be proportionate, non-discriminatory, transparent and reasoned.
+By way of derogation from Article 23, interested parties shall have the opportunity to comment on any draft measure pursuant to the third and the fourth subparagraphs of this paragraph for a period of at least three months.
+This paragraph is without prejudice to the application of Articles 19 and 30.
+When establishing fees for rights of use, Member States shall take account of the mechanism provided for under this paragraph.
+3.   Where duly justified, Member States may derogate from paragraph 2 of this Article in the following cases:
+(a)
+in limited geographical areas, where access to high-speed networks is severely deficient or absent and this is necessary to ensure achievement of the objectives of Article 45(2);
+(b)
+for specific short-term projects;
+(c)
+for experimental use;
+(d)
+for uses of radio spectrum which, in accordance with Article 45(4) and (5), can coexist with wireless broadband services; or
+(e)
+for alternative use of radio spectrum in accordance with Article 45(3).
+4.   Member States may adjust the duration of rights of use laid down in this Article to ensure the simultaneous expiry of the duration of rights in one or several bands.

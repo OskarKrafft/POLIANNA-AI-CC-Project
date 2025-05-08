@@ -1,0 +1,37 @@
+Article 95
+Cooperation between competent authorities
+1.   Competent authorities shall cooperate with each other for the purposes of this Regulation. Competent authorities shall render assistance to competent authorities of other Member States, and to EBA and ESMA. They shall exchange information without undue delay and cooperate in investigation, supervision and enforcement activities.
+Where Member States have, in accordance with Article 111(1), second subparagraph, laid down criminal penalties for the infringements of this Regulation referred to in Article 111(1), first subparagraph, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial, prosecuting or criminal justice authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for infringements of this Regulation and to provide the same information to other competent authorities as well as to EBA and ESMA, in order to fulfil their obligation to cooperate for the purposes of this Regulation.
+2.   A competent authority may refuse to act on a request for information or a request to cooperate with an investigation only in the following cases:
+(a)
+communication of relevant information could adversely affect the security of the Member State addressed, in particular with regard to the fight against terrorism and other serious crimes;
+(b)
+where complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, a criminal investigation;
+(c)
+where proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;
+(d)
+where a final judgment has already been delivered in respect of the same action and against the same natural or legal person in the Member State addressed.
+3.   Competent authorities shall, upon request, without undue delay provide any information required for the purposes of this Regulation.
+4.   A competent authority may request assistance from the competent authority of another Member State with regard to on-site inspections or investigations.
+A requesting competent authority shall inform EBA and ESMA of any request made pursuant to the first subparagraph. Where a competent authority receives a request from a competent authority of another Member State to carry out an on-site inspection or investigation, it may:
+(a)
+carry out the on-site inspection or investigation itself;
+(b)
+allow the competent authority which submitted the request to participate in an on-site inspection or investigation;
+(c)
+allow the competent authority which submitted the request to carry out the on-site inspection or investigation itself;
+(d)
+share specific tasks related to supervisory activities with the other competent authorities.
+5.   In the case of an on-site inspection or investigation referred to in paragraph 4, ESMA shall coordinate the inspection or investigation, where requested to do so by one of the competent authorities.
+Where the on-site inspection or investigation referred to in paragraph 4 concerns an issuer of an asset-referenced token or e-money token or concerns crypto-asset services related to asset-referenced tokens or e-money tokens, EBA shall, where requested to do so by one of the competent authorities, coordinate the inspection or investigation.
+6.   The competent authorities may bring the matter to the attention of ESMA in situations where a request for cooperation, in particular to exchange information, has been rejected or has not been acted upon within a reasonable time. Article 19(4) of Regulation (EU) No 1095/2010 shall apply in such situations mutatis mutandis.
+7.   By way of derogation from paragraph 6 of this Article, the competent authorities may bring the matter to the attention of EBA in situations where a request for cooperation, in particular for information concerning an issuer of an asset-referenced token or e-money token or concerning crypto-asset services related to asset-referenced tokens or e-money tokens, has been rejected or has not been acted upon within a reasonable time. Article 19(4) of Regulation (EU) No 1093/2010 shall apply in such situations mutatis mutandis.
+8.   Competent authorities shall closely coordinate their supervision in order to identify and remedy infringements of this Regulation, develop and promote best practices, facilitate collaboration, foster consistency of interpretation, and provide cross-jurisdictional assessments in the event of any disagreements.
+For the purposes of the first subparagraph of this paragraph, EBA and ESMA shall fulfil a coordination role between competent authorities and across supervisory colleges as referred to in Article 119 with a view to building a common supervisory culture and consistent supervisory practices and ensuring uniform procedures.
+9.   Where a competent authority finds that any of the requirements under this Regulation has not been met or has reason to believe that to be the case, it shall inform the competent authority of the entity or entities suspected of such infringement of its findings in a sufficiently detailed manner.
+10.   ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the information to be exchanged between competent authorities pursuant to paragraph 1.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+11.   ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the cooperation and exchange of information between competent authorities.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

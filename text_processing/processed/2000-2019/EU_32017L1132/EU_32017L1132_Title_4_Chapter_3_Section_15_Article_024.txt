@@ -1,0 +1,32 @@
+Article 24
+Implementing acts
+By means of implementing acts, the Commission shall adopt the following:
+(a)
+the technical specification defining the methods of communication by electronic means for the purpose of the system of interconnection of registers;
+(b)
+the technical specification of the communication protocols;
+(c)
+the technical measures ensuring the minimum information technology security standards for communication and distribution of information within the system of interconnection of registers;
+(d)
+the technical specification defining the methods of exchange of information between the register of the company and the register of the branch as referred to in Articles 20 and 34;
+(e)
+the detailed list of data to be transmitted for the purpose of exchange of information between registers, as referred to in Articles 20, 34 and 130;
+(f)
+the technical specification defining the structure of the standard message format for the purpose of the exchange of information between the registers, the platform and the portal;
+(g)
+the technical specification defining the set of the data necessary for the platform to perform its functions as well as the method of storage, use and protection of such data;
+(h)
+the technical specification defining the structure and use of the unique identifier for communication between registers;
+(i)
+the specification defining the technical methods of operation of the system of interconnection of registers as regards the distribution and exchange of information, and the specification defining the information technology services, provided by the platform, ensuring the delivery of messages in the relevant language version;
+(j)
+the harmonised criteria for the search service provided by the portal;
+(k)
+the payment modalities, taking into account available payment facilities such as online payment;
+(l)
+the details of the explanatory labels listing the particulars and the types of documents referred to in Article 14;
+(m)
+the technical conditions of availability of services provided by the system of interconnection of registers;
+(n)
+the procedure and technical requirements for the connection of the optional access points to the platform.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 164(2).

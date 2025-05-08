@@ -1,0 +1,71 @@
+Article 27
+Unique Device Identification system
+1.   The Unique Device Identification system (‘UDI system’) described in Part C of Annex VI shall allow the identification and facilitate the traceability of devices, other than custom-made and investigational devices, and shall consist of the following:
+(a)
+production of a UDI that comprises the following:
+(i)
+a UDI device identifier (‘UDI-DI’) specific to a manufacturer and a device, providing access to the information laid down in Part B of Annex VI;
+(ii)
+a UDI production identifier (‘UDI-PI’) that identifies the unit of device production and if applicable the packaged devices, as specified in Part C of Annex VI;
+(b)
+placing of the UDI on the label of the device or on its packaging;
+(c)
+storage of the UDI by economic operators, health institutions and healthcare professionals, in accordance with the conditions laid down in paragraphs 8 and 9 of this Article respectively;
+(d)
+establishment of an electronic system for Unique Device Identification (‘UDI database’) in accordance with Article 28.
+2.   The Commission shall, by means of implementing acts, designate one or several entities to operate a system for assignment of UDIs pursuant to this Regulation (‘issuing entity’). That entity or those entities shall satisfy all of the following criteria:
+(a)
+the entity is an organisation with legal personality;
+(b)
+its system for the assignment of UDIs is adequate to identify a device throughout its distribution and use in accordance with the requirements of this Regulation;
+(c)
+its system for the assignment of UDIs conforms to the relevant international standards;
+(d)
+the entity gives access to its system for the assignment of UDIs to all interested users in accordance with a set of predetermined and transparent terms and conditions;
+(e)
+the entity undertakes to do the following:
+(i)
+operate its system for the assignment of UDIs for at least 10 years after its designation;
+(ii)
+make available to the Commission and to the Member States, upon request, information concerning its system for the assignment of UDIs;
+(iii)
+remain in compliance with the criteria for designation and the terms of designation.
+When designating issuing entities, the Commission shall endeavour to ensure that UDI carriers, as defined in Part C of Annex VI, are universally readable regardless of the system used by the issuing entity, with a view to minimising financial and administrative burdens for economic operators and health institutions.
+3.   Before placing a device, other than a custom-made device, on the market, the manufacturer shall assign to the device and, if applicable, to all higher levels of packaging, a UDI created in compliance with the rules of the issuing entity designated by the Commission in accordance with paragraph 2.
+Before a device, other than a custom-made or investigational device, is placed on the market the manufacturer shall ensure that the information referred to in Part B of Annex VI of the device in question are correctly submitted and transferred to the UDI database referred to in Article 28.
+4.   UDI carriers shall be placed on the label of the device and on all higher levels of packaging. Higher levels of packaging shall not be understood to include shipping containers.
+5.   The UDI shall be used for reporting serious incidents and field safety corrective actions in accordance with Article 87.
+6.   The Basic UDI-DI, as defined in Part C of Annex VI, of the device shall appear on the EU declaration of conformity referred to in Article 19.
+7.   As part of the technical documentation referred to in Annex II, the manufacturer shall keep up-to-date a list of all UDIs that it has assigned.
+8.   Economic operators shall store and keep, preferably by electronic means, the UDI of the devices which they have supplied or with which they have been supplied, if those devices belong to:
+—
+class III implantable devices;
+—
+the devices, categories or groups of devices determined by a measure referred to in point (a) of paragraph 11.
+9.   Health institutions shall store and keep preferably by electronic means the UDI of the devices which they have supplied or with which they have been supplied, if those devices belong to class III implantable devices.
+For devices other than class III implantable devices, Member States shall encourage, and may require, health institutions to store and keep, preferably by electronic means, the UDI of the devices with which they have been supplied.
+Member States shall encourage, and may require, healthcare professionals to store and keep preferably by electronic means, the UDI of the devices with which they have been supplied with.
+10.   The Commission is empowered to adopt delegated acts in accordance with Article 115:
+(a)
+amending the list of information set out in Part B of Annex VI in the light of technical progress; and
+(b)
+amending Annex VI in the light of international developments and technical progress in the field of Unique Device Identification.
+11.   The Commission may, by means of implementing acts, specify the detailed arrangements and the procedural aspects for the UDI system with a view to ensuring its harmonised application in relation to any of the following:
+(a)
+determining the devices, categories or groups of devices to which the obligation laid down in paragraph 8 is to apply;
+(b)
+specifying the data to be included in the UDI-PI of specific devices or device groups;
+The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 114(3).
+12.   When adopting the measures referred to in paragraph 11, the Commission shall take into account all of the following:
+(a)
+confidentiality and data protection as referred to in Articles 109 and 110 respectively;
+(b)
+the risk-based approach;
+(c)
+the cost-effectiveness of the measures;
+(d)
+the convergence of UDI systems developed at international level;
+(e)
+the need to avoid duplications in the UDI system;
+(f)
+the needs of the healthcare systems of the Member States, and where possible, compatibility with other medical device identification systems that are used by stakeholders.

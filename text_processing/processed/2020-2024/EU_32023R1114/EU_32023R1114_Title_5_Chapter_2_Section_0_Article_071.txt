@@ -1,0 +1,9 @@
+Article 71
+Complaints-handling procedures
+1.   Crypto-asset service providers shall establish and maintain effective and transparent procedures for the prompt, fair and consistent handling of complaints received from clients and shall publish descriptions of those procedures.
+2.   Clients shall be able to file complaints free of charge with crypto-asset service providers.
+3.   Crypto-asset service providers shall inform clients of the possibility of filing a complaint. Crypto-asset service providers shall make available to clients a template for filing complaints and shall keep a record of all complaints received and any measures taken in response thereto.
+4.   Crypto-asset service providers shall investigate all complaints in a timely and fair manner and communicate the outcome of such investigations to their clients within a reasonable period.
+5.   ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the requirements, templates and procedures for handling complaints.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

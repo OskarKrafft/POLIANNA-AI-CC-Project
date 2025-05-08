@@ -1,0 +1,6 @@
+Article 9
+Infrastructure for ship reporting systems, ships' routing systems and vessel traffic services
+1. Member States shall take all necessary and appropriate measures to provide themselves gradually, on a time-schedule compatible with the timetable set out in Annex II(I), with appropriate equipment and shore-based installations for receiving and utilising the AIS information taking into account a necessary range for transmission of the reports.
+2. The process of building up all necessary equipment and shore-based installations for implementing this Directive shall be completed by the end of 2007. Member States shall ensure that the appropriate equipment for relaying the information to, and exchanging it between, the national systems of Member States shall be operational at the latest one year thereafter.
+3. Member States shall ensure that the coastal stations in charge of monitoring the compliance with vessel traffic services and ships' routing systems have sufficient and properly qualified staff available, as well as appropriate means of communication and ship monitoring and that they operate in accordance with the relevant IMO guidelines.
+

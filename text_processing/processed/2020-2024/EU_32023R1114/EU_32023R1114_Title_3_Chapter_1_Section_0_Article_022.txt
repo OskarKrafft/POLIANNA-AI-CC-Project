@@ -1,0 +1,23 @@
+Article 22
+Reporting on asset-referenced tokens
+1.   For each asset-referenced token with an issue value that is higher than EUR 100 000 000, the issuer shall report on a quarterly basis to the competent authority the following information:
+(a)
+the number of holders;
+(b)
+the value of the asset-referenced token issued and the size of the reserve of assets;
+(c)
+the average number and average aggregate value of transactions per day during the relevant quarter;
+(d)
+an estimate of the average number and average aggregate value of transactions per day during the relevant quarter that are associated to its uses as a means of exchange within a single currency area.
+For the purposes of points (c) and (d) of the first subparagraph, ‘transaction’ shall mean any change of the natural or legal person entitled to the asset-referenced token as a result of the transfer of the asset-referenced token from one distributed ledger address or account to another.
+Transactions that are associated with the exchange for funds or other crypto-assets with the issuer or with a crypto-asset service provider shall not be considered associated to uses of the asset-referenced token as a means of exchange, unless there is evidence that the asset-referenced token is used for the settlement of transactions in other crypto-assets.
+2.   The competent authority may require issuers of asset-referenced tokens to comply with the reporting obligation referred to in paragraph 1 in respect of asset-referenced tokens issued with a value of less than EUR 100 000 000.
+3.   Crypto-asset service providers that provide services related to asset-referenced tokens shall provide the issuer of the asset-referenced token with the information necessary to prepare the report referred to in paragraph 1, including by reporting transactions outside the distributed ledger.
+4.   The competent authority shall share the information received with the ECB and, where applicable, the central bank referred to in Article 20(4) and the competent authorities of host Member States.
+5.   The ECB and, where applicable, the central bank referred to in Article 20(4) may provide to the competent authority their own estimates of the quarterly average number and average aggregate value of transactions per day that are associated to uses of the asset-referenced token as a means of exchange within a single currency area.
+6.   EBA, in close cooperation with the ECB, shall develop draft regulatory technical standards to specify the methodology to estimate the quarterly average number and average aggregate value of transactions per day that are associated to uses of the asset-referenced token as a means of exchange within a single currency area.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+7.   EBA shall develop draft implementing technical standards to establish standard forms, formats and templates for the purposes of reporting referred to in paragraph 1 and the provision of the information referred to in paragraph 3.
+EBA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

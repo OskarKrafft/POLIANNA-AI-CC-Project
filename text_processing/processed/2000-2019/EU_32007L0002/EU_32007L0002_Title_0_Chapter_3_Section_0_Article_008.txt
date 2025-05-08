@@ -1,0 +1,15 @@
+Article 8
+1.   In the case of spatial data sets corresponding to one or more of the themes listed in Annex I or II, the implementing rules provided for in Article 7(1) shall meet the conditions laid down in paragraphs 2, 3 and 4 of this Article.
+2.   The implementing rules shall address the following aspects of spatial data:
+(a)
+a common framework for the unique identification of spatial objects, to which identifiers under national systems can be mapped in order to ensure interoperability between them;
+(b)
+the relationship between spatial objects;
+(c)
+the key attributes and the corresponding multilingual thesauri commonly required for policies which may have an impact on the environment;
+(d)
+information on the temporal dimension of the data;
+(e)
+updates of the data.
+3.   The implementing rules shall be designed to ensure consistency between items of information which refer to the same location or between items of information which refer to the same object represented at different scales.
+4.   The implementing rules shall be designed to ensure that information derived from different spatial data sets is comparable as regards the aspects referred to in Article 7(4) and in paragraph 2 of this Article.

@@ -1,0 +1,19 @@
+Article 128
+Items associated with particular high risk
+1.   Institutions shall assign a 150 % risk weight to exposures, including exposures in the form of shares or units in a CIU that are associated with particularly high risks, where appropriate.
+2.   Exposures with particularly high risks shall include any of the following exposures:
+(a)
+investments in venture capital firms;
+(b)
+investments in AIFs as defined in Article 4(1)(a) of Directive 2011/61/EU except where the mandate of the fund does not allow a leverage higher than that required under Article 51(3) of Directive 2009/65/EC;
+(c)
+investments in private equity;
+(d)
+speculative immovable property financing.
+3.   When assessing whether an exposure other than exposures referred to in the paragraph 2 is associated with particularly high risks, institutions shall take into account the following risk characteristics:
+(a)
+there is a high risk of loss as a result of a default of the obligor;
+(b)
+it is impossible to assess adequately whether the exposure falls under point (a).
+EBA shall issue guidelines specifying which types of exposures are associated with particularly high risk and under which circumstances.
+Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.

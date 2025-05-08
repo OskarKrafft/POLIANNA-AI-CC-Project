@@ -1,0 +1,14 @@
+Article 12
+Safety of stationary battery energy storage systems
+1.   Stationary battery energy storage systems placed on the market or put into service shall be safe during their normal operation and use.
+2.   By 18 August 2024, the technical documentation referred to in Annex VIII shall:
+(a)
+demonstrate that the stationary battery energy storage systems are compliant with paragraph 1 and include evidence that they have been successfully tested for the safety parameters set out in Annex V, for which state-of-the-art testing methodologies shall be used. The safety parameters shall only apply in so far as a corresponding hazard exists for the stationary battery energy storage system in question when it is used under the conditions envisaged by the manufacturer;
+(b)
+include an assessment of possible safety hazards of the stationary battery energy storage system that are not addressed in Annex V;
+(c)
+include evidence that the hazards referred to in point (b) have been successfully mitigated and tested; state-of-the-art testing methodologies shall be used for such testing;
+(d)
+include mitigation instructions in case the identified hazards could occur, for example a fire or explosion.
+The technical documentation shall be reviewed if a battery is prepared for re-use, prepared for repurposing, remanufactured or repurposed.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the safety parameters set out in Annex V in view of technical and scientific progress.

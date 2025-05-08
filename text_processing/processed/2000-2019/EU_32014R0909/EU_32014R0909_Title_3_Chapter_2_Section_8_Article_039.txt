@@ -1,0 +1,9 @@
+Article 39
+Settlement finality
+1.   A CSD shall ensure that the securities settlement system it operates offers adequate protection to participants. Member States shall designate and notify the securities settlement systems operated by CSDs according to the procedures referred to in point (a) of Article 2 of Directive 98/26/EC.
+2.   A CSD shall ensure that each securities settlement system that it operates defines the moments of entry and of irrevocability of transfer orders in that securities settlement system in accordance with Articles 3 and 5 of Directive 98/26/EC.
+3.   A CSD shall disclose the rules governing the finality of transfers of securities and cash in a securities settlement system.
+4.   Paragraphs 2 and 3 shall apply without prejudice to the provisions applicable to CSD links, and without prejudice to paragraph 8 of Article 48.
+5.   A CSD shall take all reasonable steps to ensure that, in accordance with the rules referred to in paragraph 3, finality of transfers of securities and cash referred to in paragraph 3 is achieved either in real time or intra-day and in any case no later than by the end of the business day of the actual settlement date.
+6.   Where the CSD offers the services referred to in Article 40(2), it shall ensure that the cash proceeds of securities settlements shall be available for recipients to use no later than by the end of the business day of the intended settlement date.
+7.   All securities transactions against cash between direct participants in a securities settlement system operated by a CSD and settled in that securities settlement system shall be settled on a DVP basis.

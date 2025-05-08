@@ -1,0 +1,41 @@
+Article 53
+Manufacturers’ obligations
+1.   Manufacturers shall provide non-discriminatory access to vehicle repair and maintenance information to authorised dealers, repairers and independent operators through websites using a standardised format in a readily accessible and prompt manner. This obligation shall not apply if a vehicle has been approved as a small series vehicle.
+Software critical to the correct functioning of the safety and environmental control system may be protected against unauthorised manipulations. However, any manipulation of those systems necessary for repair and maintenance or accessible to authorised dealers or repairers shall also be made accessible to independent operators in a non-discriminatory manner.
+2.   Until the Commission has adopted a standardised format for the provision of the information referred to in paragraph 1, that information shall be made available in a consistent manner that can be processed by independent operators with reasonable effort.
+Manufacturers shall provide access on a non-discriminatory basis to training material and relevant working tools to authorised dealers, repairers and independent operators. Such access shall include, where applicable, adequate training with regard to the download of software, diagnostic trouble codes management and the use of working tools.
+3.   Without prejudice to paragraph 1, the information referred to there shall include:
+(a)
+the tractor type and model;
+(b)
+an unequivocal vehicle identification number;
+(c)
+service handbooks including repair and maintenance records and service schedules;
+(d)
+technical manuals and technical service bulletins;
+(e)
+component and diagnosis information (such as minimum and maximum theoretical values for measurements);
+(f)
+wiring diagrams;
+(g)
+diagnostic trouble codes, including manufacturer specific codes;
+(h)
+all information needed to install new or updated software on a new vehicle or vehicle type (for instance software part number);
+(i)
+information concerning, and delivered by means of, proprietary tools and equipment;
+(j)
+data record information, test data and any other technical information (such as two-directional monitoring data, if applicable to the technology used);
+(k)
+standard work units or time periods for repair and maintenance tasks if made available, either directly or through a third party, to manufacturers’ authorised dealers and repairers.
+4.   Authorised dealers or repairers within the distribution system of a given vehicle manufacturer shall be regarded as independent operators for the purposes of this Regulation to the extent that they provide repair or maintenance services for vehicles in respect of which they are not members of the vehicle manufacturer’s distribution system.
+5.   The vehicle repair and maintenance information shall always be available, except as required for maintenance purposes of the information system.
+6.   For the purposes of manufacture and servicing of OBD-compatible replacement or service parts and diagnostic tools and test equipment, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested manufacturer or repairer of component, diagnostic tool or test equipment.
+7.   For the purposes of design and manufacture of automotive equipment for alternative-fuel vehicles, manufacturers shall provide the relevant OBD and vehicle repair and maintenance information on a non-discriminatory basis to any interested manufacturer, installer or repairer of equipment for alternative-fuel vehicles.
+8.   When applying for EU type-approval or national type-approval, the manufacturer shall provide the approval authority with proof of compliance with this Regulation relating to the information required under this Article.
+In the event that such information is not available, or does not conform to this Regulation and the delegated and implementing acts adopted pursuant to this Regulation which are applicable when applying for EU type-approval or national type-approval, the manufacturer shall provide it within six months from the date of approval.
+The Commission may adopt an implementing act in order to lay down a template of a certificate on access to vehicle OBD and vehicle repair and maintenance information providing such proof of compliance to the approval authority. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 69(2).
+9.   If such proof of compliance is not provided within the period referred to in the second subparagraph of paragraph 8, the approval authority shall take appropriate measures to ensure compliance.
+10.   The manufacturer shall make subsequent amendments and supplements to vehicle repair and maintenance information available on its websites at the same time they are made available to authorised repairers.
+11.   Where repair and maintenance records of a vehicle are kept in a central database of the vehicle manufacturer or on its behalf, independent repairers shall have access to such records free of charge and shall be able to enter information on repair and maintenance which they have performed.
+12.   The Commission shall be empowered to adopt delegated acts in accordance with Article 71 laying down the details of the requirements with regard to access to repair and maintenance information, in particular technical specifications relating to the way in which vehicle repair and maintenance information shall be provided.
+13.   The Commission shall, by means of the delegated acts referred to in paragraph 12, adapt the information requirements laid down in this Article, including the technical specifications relating to the way in which information is to be provided, in order to be proportionate having regard in particular to the specific case of manufacturer’s relatively small production volume of the vehicle type concerned, taking into account the limits for small series vehicles as set out in Annex II. In duly justified cases, such adaptation may result in an exemption from the requirement to supply the information in a standardised format. A possible adaptation or exemption shall in any event ensure that the objectives of this Article can be achieved.

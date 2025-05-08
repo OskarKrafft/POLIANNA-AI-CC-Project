@@ -1,0 +1,12 @@
+Article 1
+Subject matter
+1.   This Directive lays down measures that aim to achieve a high common level of cybersecurity across the Union, with a view to improving the functioning of the internal market.
+2.   To that end, this Directive lays down:
+(a)
+obligations that require Member States to adopt national cybersecurity strategies and to designate or establish competent authorities, cyber crisis management authorities, single points of contact on cybersecurity (single points of contact) and computer security incident response teams (CSIRTs);
+(b)
+cybersecurity risk-management measures and reporting obligations for entities of a type referred to in Annex I or II as well as for entities identified as critical entities under Directive (EU) 2022/2557;
+(c)
+rules and obligations on cybersecurity information sharing;
+(d)
+supervisory and enforcement obligations on Member States.

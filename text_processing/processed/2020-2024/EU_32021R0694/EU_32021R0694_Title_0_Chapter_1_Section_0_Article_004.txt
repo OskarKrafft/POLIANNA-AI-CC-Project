@@ -1,0 +1,10 @@
+Article 4
+Specific Objective 1- High Performance Computing
+1.   The financial contribution from the Union under Specific Objective 1 – High Performance Computing shall pursue the following operational objectives:
+(a)
+deploy, coordinate at Union level and operate an integrated demand-oriented and application-driven world-class exascale supercomputing and data infrastructure that shall be easily accessible to public and private users, in particular SMEs, irrespective of the Member State in which they are located, and easily accessible for research purposes, in accordance with Regulation (EU) 2018/1488;
+(b)
+deploy ready to use operational technology resulting from research and innovation in order to build an integrated Union HPC ecosystem, covering various aspects in the scientific and industrial value chain segments, including hardware, software, applications, services, interconnections and digital skills, with a high level of security and data protection;
+(c)
+deploy and operate post-exascale infrastructure, including integration with quantum computing technologies and research infrastructures for computing science and encourage the development within the Union of the hardware and software necessary for such deployment.
+2.   The actions under Specific Objective 1 shall be primarily implemented through the European High Performance Computing Joint Undertaking established by Regulation (EU) 2018/1488.

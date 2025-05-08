@@ -1,0 +1,15 @@
+Article 6
+General principles of congestion management
+1.   Network congestion problems shall be addressed with non-discriminatory market based solutions which give efficient economic signals to the market participants and transmission system operators involved. Network congestion problems shall preferentially be solved with non transaction based methods, i.e. methods that do not involve a selection between the contracts of individual market participants.
+2.   Transaction curtailment procedures shall only be used in emergency situations where the transmission system operator must act in an expeditious manner and redispatching or countertrading is not possible. Any such procedure shall be applied in a non-discriminatory manner.
+Except in cases of ‘force-majeure’, market participants who have been allocated capacity shall be compensated for any curtailment.
+3.   The maximum capacity of the interconnections and/or the transmission networks affecting cross-border flows shall be made available to market participants, complying with safety standards of secure network operation.
+4.   Market participants shall inform the transmission system operators concerned a reasonable time ahead of the relevant operational period whether they intend to use allocated capacity. Any allocated capacity that will not be used shall be reattributed to the market, in an open, transparent and non-discriminatory manner.
+5.   Transmission system operators shall, as far as technically possible, net the capacity requirements of any power flows in opposite direction over the congested interconnection line in order to use this line to its maximum capacity. Having full regard to network security, transactions that relieve the congestion shall never be denied.
+6.   Any revenues resulting from the allocation of interconnection shall be used for one or more of the following purposes:
+(a)
+guaranteeing the actual availability of the allocated capacity;
+(b)
+network investments maintaining or increasing interconnection capacities;
+(c)
+as an income to be taken into account by regulatory authorities when approving the methodology for calculating network tariffs, and/or in assessing whether tariffs should be modified.

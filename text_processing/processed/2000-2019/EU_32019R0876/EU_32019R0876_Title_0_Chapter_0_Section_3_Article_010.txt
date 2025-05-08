@@ -1,0 +1,535 @@
+Article 280
+Hedging set supervisory factor coefficient
+For the purpose of calculating the add-on of a hedging set as referred to in Articles 280a to 280f, the hedging set supervisory factor coefficient ‘є’ shall be the following:
+ є =
+ 
+1 for the hedging sets established in accordance with Article 277a(1)
+5 for the hedging sets established in accordance with point (a) of Article 277a(2)
+0,5 for the hedging sets established in accordance with point (b) of Article 277a(2)
+Article 280a
+Interest rate risk category add-on
+1.   For the purposes of Article 278, institutions shall calculate the interest rate risk category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnIR
+
+=
+the interest rate risk category add-on;
+j
+=
+the index that denotes all the interest rate risk hedging sets established in accordance with point (a) of Article 277a(1) and with Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the interest rate risk category add-on for hedging set j calculated in accordance with paragraph 2.
+2.   Institutions shall calculate the interest rate risk category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with the applicable value specified in Article 280;
+SFIR
+
+=
+the supervisory factor for the interest rate risk category with a value equal to 0,5 %; and
+
+
+
+
+
+=
+the effective notional amount of hedging set j calculated in accordance with paragraph 3.
+3.   For the purpose of calculating the effective notional amount of hedging set j, institutions shall first map each transaction of the hedging set to the appropriate bucket in Table 2. They shall do so on the basis of the end date of each transaction as determined under point (a) of Article 279b(1):
+
+Table 2
+
+Bucket
+End date
+(in years)
+1
+> 0 and <= 1
+2
+> 1 and <= 5
+3
+> 5
+Institutions shall then calculate the effective notional amount of hedging set j in accordance with the following formula:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the effective notional amount of hedging set j; and
+Dj,k
+
+=
+the effective notional amount of bucket k of hedging set j calculated as follows:
+where:
+l
+=
+the index that denotes the risk position.
+Article 280b
+Foreign exchange risk category add-on
+1.   For the purposes of Article 278, institutions shall calculate the foreign exchange risk category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnFX
+
+=
+the foreign exchange risk category add on;
+j
+=
+the index that denotes the foreign exchange risk hedging sets established in accordance with point (b) of Article 277a(1) and with Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the foreign exchange risk category add-on for hedging set j calculated in accordance with paragraph 2.
+2.   Institutions shall calculate the foreign exchange risk category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with Article 280;
+SFFX
+
+=
+the supervisory factor for the foreign exchange risk category with a value equal to 4 %;
+
+
+
+
+
+=
+the effective notional amount of hedging set j calculated as follows:
+
+
+
+
+
+where:
+l
+=
+the index that denotes the risk position.
+Article 280c
+Credit risk category add-on
+1.   For the purposes of paragraph 2, institutions shall establish the relevant credit reference entities of the netting set in accordance with the following:
+(a)
+there shall be one credit reference entity for each issuer of a reference debt instrument that underlies a single-name transaction allocated to the credit risk category; single-name transactions shall be assigned to the same credit reference entity only where the underlying reference debt instrument of those transactions is issued by the same issuer;
+(b)
+there shall be one credit reference entity for each group of reference debt instruments or single-name credit derivatives that underlie a multi-name transaction allocated to the credit risk category; multi-names transactions shall be assigned to the same credit reference entity only where the group of underlying reference debt instruments or single-name credit derivatives of those transactions have the same constituents.
+2.   For the purposes of Article 278, institution shall calculate the credit risk category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnCredit
+
+=
+credit risk category add-on;
+j
+=
+the index that denotes all the credit risk hedging sets established in accordance with point (c) of Article 277a(1) and with Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the credit risk category add-on for hedging set j calculated in accordance with paragraph 3.
+3.   Institutions shall calculate the credit risk category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the credit risk category add-on for hedging set j;
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with Article 280;
+k
+=
+the index that denotes the credit reference entities of the netting set established in accordance with paragraph 1;
+
+
+
+
+
+=
+the correlation factor of the credit reference entity k; where the credit reference entity k has been established in accordance with point (a) of paragraph 1,
+
+, where the credit reference entity k has been established in accordance with point (b) of paragraph 1,
+
+; and
+AddOn(Entityk)
+=
+the add-on for the credit reference entity k determined in accordance with paragraph 4.
+4.   Institutions shall calculate the add-on for the credit reference entity k as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the effective notional amount of the credit reference entity k calculated as follows:
+where:
+l
+=
+the index that denotes the risk position; and
+
+
+
+
+
+=
+the supervisory factor applicable to the credit reference entity k calculated in accordance with paragraph 5.
+5.   Institutions shall calculate the supervisory factor applicable to the credit reference entity k as follows:
+(a)
+
+
+
+
+
+(i)
+an institution using the approach referred to in Chapter 3 shall map the internal rating of the individual issuer to one of the external credit assessments;
+(ii)
+
+
+
+
+
+
+
+
+
+
+(b)
+for the credit reference entity k established in accordance with point (b) of paragraph 1:
+(i)
+
+
+
+
+
+(ii)
+
+
+
+
+
+
+Table 3
+
+Credit quality step
+Supervisory factor for single-name transactions
+1
+0,38 %
+2
+0,42 %
+3
+0,54 %
+4
+1,06 %
+5
+1,6 %
+6
+6,0 %
+
+Table 4
+
+Dominant credit quality
+Supervisory factor for quoted indices
+Investment grade
+0,38 %
+Non-investment grade
+1,06 %
+Article 280d
+Equity risk category add-on
+1.   For the purposes of paragraph 2, institutions shall establish the relevant equity reference entities of the netting set in accordance with the following:
+(a)
+there shall be one equity reference entity for each issuer of a reference equity instrument that underlies a single-name transaction allocated to the equity risk category; single-name transactions shall be assigned to the same equity reference entity only where the underlying reference equity instrument of those transactions is issued by the same issuer;
+(b)
+there shall be one equity reference entity for each group of reference equity instruments or single-name equity derivatives that underlie a multi-name transaction allocated to the equity risk category; multi-names transactions shall be assigned to the same equity reference entity only where the group of underlying reference equity instruments or single-name equity derivatives of those transactions, as applicable, has the same constituents.
+2.   For the purposes of Article 278, institutions shall calculate the equity risk category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnEquity
+
+=
+the equity risk category add-on;
+j
+=
+the index that denotes all the equity risk hedging sets established in accordance with point (d) of Article 277a(1) and Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the equity risk category add-on for hedging set j calculated in accordance with paragraph 3.
+3.   Institutions shall calculate the equity risk category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the equity risk category add-on for hedging set j;
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with Article 280;
+k
+=
+the index that denotes the equity reference entities of the netting set established in accordance with paragraph 1;
+
+
+
+
+
+=
+the correlation factor of the equity reference entity k; where the equity reference entity k has been established in accordance with point (a) of paragraph 1, 
+
+; where the equity reference entity k has been established in accordance with point (b) of paragraph 1, 
+
+; and
+AddOn(Entityk)
+=
+the add-on for the equity reference entity k determined in accordance with paragraph 4.
+4.   Institutions shall calculate the add-on for the equity reference entity k as follows:
+
+
+
+
+
+where:
+AddOn(Entityk)
+=
+the add-on for the equity reference entity k;
+
+
+
+
+
+=
+the supervisory factor applicable to the equity reference entity k; where the equity reference entity k has been established in accordance with point (a) of paragraph 1, 
+
+; where the equity reference entity k has been established in accordance with point (b) of paragraph 1, 
+
+; and
+
+
+
+
+
+=
+the effective notional amount of the equity reference entity k calculated as follows:
+where:
+l
+=
+the index that denotes the risk position.
+Article 280e
+Commodity risk category add-on
+1.   For the purposes of Article 278, institutions shall calculate the commodity risk category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnCom
+
+=
+the commodity risk category add-on;
+j
+=
+the index that denotes the commodity hedging sets established in accordance with point (e) of Article 277a(1) and with Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the commodity risk category add-on for hedging set j calculated in accordance with paragraph 4.
+2.   For the purpose of calculating the add-on for a commodity hedging set of a given netting set in accordance with paragraph 4, institutions shall establish the relevant commodity reference types of each hedging set. Commodity derivative transactions shall be assigned to the same commodity reference type only where the underlying commodity instrument of those transactions has the same nature, irrespective of the delivery location and quality of the commodity instrument.
+3.   By way of derogation from paragraph 2, competent authorities may require an institution which is significantly exposed to the basis risk of different positions sharing the same nature as referred to in paragraph 2 to establish the commodity reference types for those positions using more characteristics than just the nature of the underlying commodity instrument. In such a situation, commodity derivative transactions shall be assigned the same commodity reference type only where they share those characteristics.
+4.   Institutions shall calculate the commodity risk category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the commodity risk category add-on for hedging set j;
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with Article 280;
+ρCom
+
+=
+the correlation factor of the commodity risk category with a value equal to 40 %;
+k
+=
+the index that denotes the commodity reference types of the netting set established in accordance with paragraph 2; and
+
+
+
+
+
+=
+the add-on for the commodity reference type k calculated in accordance with paragraph 5.
+5.   Institutions shall calculate the add-on for the commodity reference type k as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the add-on for the commodity reference type k;
+
+
+
+
+
+=
+the supervisory factor applicable to the commodity reference type k; where the commodity reference type k corresponds to transactions allocated to the hedging set referred to in point (e)(i) of Article 277a(1), excluding transactions concerning electricity, 
+
+; for transactions concerning electricity, 
+
+; and
+
+
+
+
+
+=
+the effective notional amount of the commodity reference type k calculated as follows:
+where:
+l
+=
+the index that denotes the risk position.
+Article 280f
+Other risks category add-on
+1.   For the purposes of Article 278, institutions shall calculate the other risks category add-on for a given netting set as follows:
+
+
+
+
+
+where:
+AddOnOther
+
+=
+the other risks category add-on;
+єj
+
+=
+the index that denotes the other risk hedging sets established in accordance with point (f) of Article 277a(1) and Article 277a(2) for the netting set; and
+
+
+
+
+
+=
+the other risks category add-on for hedging set j calculated in accordance with paragraph 2.
+2.   Institutions shall calculate the other risks category add-on for hedging set j as follows:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the other risks category add-on for hedging set j;
+єj
+
+=
+the hedging set supervisory factor coefficient of hedging set j determined in accordance with Article 280; and
+SFOther
+
+=
+the supervisory factor for the other risk category with a value equal to 8 %;
+
+
+
+
+
+=
+the effective notional amount of hedging set j calculated as follows:
+where:
+l
+=
+the index that denotes the risk position.

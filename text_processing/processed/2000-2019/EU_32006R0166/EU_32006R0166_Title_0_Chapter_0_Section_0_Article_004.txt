@@ -1,0 +1,29 @@
+Article 4
+Design and structure
+1.   The Commission shall publish the European PRTR, presenting the data in both aggregated and non-aggregated forms, so that releases and transfers can be searched for and identified by:
+(a)
+facility, including the facility's parent company where applicable, and its geographical location, including the river basin;
+(b)
+activity;
+(c)
+occurrence at Member State or Community level;
+(d)
+pollutant or waste, as appropriate;
+(e)
+each environmental medium (air, water, land) into which the pollutant is released;
+(f)
+off-site transfers of waste and their destination, as appropriate;
+(g)
+off-site transfers of pollutants in waste water;
+(h)
+diffuse sources;
+(i)
+facility owner or operator.
+2.   The European PRTR shall be designed for maximum ease of public access to allow the information, under normal operating conditions, to be continuously and readily accessible on the Internet and by other electronic means. Its design shall take into account the possibility of its future expansion and shall include all data reported for previous reporting years, up to at least the last ten previous reporting years.
+3.   The European PRTR shall include links to the following:
+(a)
+the national PRTRs of Member States;
+(b)
+other relevant existing, publicly accessible databases on subject matters related to PRTRs, including national PRTRs of other Parties to the Protocol and, where feasible, those of other countries;
+(c)
+facilities' websites if they exist and links are volunteered by the facilities.

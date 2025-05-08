@@ -1,0 +1,71 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘oversight’ means the verification, by or on behalf of the competent authority, on a continuous basis that the requirements of this Regulation and of the delegated and implementing acts adopted on the basis thereof, on the basis of which a certificate has been issued or in respect of which a declaration has been made, continue to be complied with;
+(2)
+‘Chicago Convention’ means the Convention on International Civil Aviation and the Annexes thereto, signed in Chicago on 7 December 1944;
+(3)
+‘product’ means an aircraft, an engine or a propeller;
+(4)
+‘part’ means any element of a product, as defined by that product's type design;
+(5)
+‘ATM/ANS’ means air traffic management and air navigation services and covers all of the following: the air traffic management functions and services as defined in point (10) of Article 2 of Regulation (EC) No 549/2004; the air navigation services as defined in point (4) of Article 2 of that Regulation, including the network management functions and services referred to in Article 6 of Regulation (EC) No 551/2004, as well as services which augment signals emitted by satellites of core constellations of GNSS for the purpose of air navigation; flight procedures design; and services consisting in the origination and processing of data and the formatting and delivering of data to general air traffic for the purpose of air navigation;
+(6)
+‘ATM/ANS constituent’ means tangible objects such as hardware and intangible objects such as software upon which the interoperability of the EATMN depends;
+(7)
+‘ATM/ANS system’ means the aggregation of airborne and ground-based constituents, as well as space-based equipment, that provides support for air navigation services for all phases of flight;
+(8)
+‘ATM Master Plan’ means the plan endorsed by Council Decision 2009/320/EC (34), in accordance with Article 1(2) of Council Regulation (EC) No 219/2007 (35);
+(9)
+‘certification’ means any form of recognition in accordance with this Regulation, based on an appropriate assessment, that a legal or natural person, product, part, non-installed equipment, equipment to control unmanned aircraft remotely, aerodrome, safety-related aerodrome equipment, ATM/ANS system, ATM/ANS constituent or flight simulation training device complies with the applicable requirements of this Regulation and of the delegated and implementing acts adopted on the basis thereof, through the issuance of a certificate attesting such compliance;
+(10)
+‘declaration’ means any written statement made in accordance with this Regulation under the sole responsibility of a legal or natural person subject to this Regulation and which confirms that the applicable requirements of this Regulation and of the delegated and implementing acts adopted on the basis thereof relating to a legal or natural person, product, part, non-installed equipment, equipment to control unmanned aircraft remotely, safety-related aerodrome equipment, ATM/ANS system, ATM/ANS constituent or flight simulation training device are complied with;
+(11)
+‘qualified entity’ means an accredited legal or natural person which may be charged with certain certification or oversight tasks under this Regulation by and under the control and the responsibility of the Agency or a national competent authority;
+(12)
+‘certificate’ means any certificate, approval, licence, authorisation, attestation or other document issued as the result of a certification attesting compliance with the applicable requirements;
+(13)
+‘aircraft operator’ means any legal or natural person operating or proposing to operate one or more aircraft;
+(14)
+‘aerodrome operator’ means any legal or natural person operating or proposing to operate one or more aerodromes;
+(15)
+‘flight simulation training device’ means any type of device in which flight conditions are simulated on the ground, including flight simulators, flight training devices, flight and navigation procedures trainers and basic instrument training devices;
+(16)
+‘aerodrome’ means a defined area, on land or on water, on a fixed, fixed offshore or floating structure, including any buildings, installations and equipment thereon, intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;
+(17)
+‘safety-related aerodrome equipment’ means any instrument, equipment, mechanism, apparatus, appurtenance, software or accessory that is used or intended to be used to contribute to the safe operation of aircraft at an aerodrome;
+(18)
+‘apron’ means a defined area of an aerodrome intended to accommodate aircraft for purposes of loading or unloading passengers, baggage, mail or cargo, fuelling, parking or maintenance;
+(19)
+‘apron management service (AMS)’ means a service provided to regulate the activities and the movement of aircraft and vehicles on an apron;
+(20)
+‘flight information service’ means a service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights;
+(21)
+‘general air traffic’ means all movements of civil aircraft and state aircraft carried out in conformity with the procedures of the International Civil Aviation Organization (‘ICAO’);
+(22)
+‘international standards and recommended practices’ means the international standards and recommended practices adopted by ICAO in accordance with Article 37 of the Chicago Convention;
+(23)
+‘groundhandling service’ means any service provided at aerodromes comprising safety -related activities in the areas of ground supervision, flight dispatch and load control, passenger handling, baggage handling, freight and mail handling, apron handling of aircraft, aircraft services, fuel and oil handling, and loading of catering; including the case where aircraft operators provide those groundhandling services to themselves (self-handling);
+(24)
+‘commercial air transport’ means an aircraft operation to transport passengers, cargo or mail for remuneration or other valuable consideration;
+(25)
+‘safety performance’ means the Union's, a Member State's or an organisation's safety achievement, as defined by its safety performance targets and safety performance indicators;
+(26)
+‘safety performance indicator’ means a parameter used for monitoring and assessing safety performance;
+(27)
+‘safety performance target’ means a planned or intended objective for complying with safety performance indicators over a given period of time;
+(28)
+‘aircraft’ means any machine that can derive support in the atmosphere from the reactions of the air other than reactions of the air against the earth's surface;
+(29)
+‘non-installed equipment’ means any instrument, equipment, mechanism, apparatus, appurtenance, software or accessory carried on board of an aircraft by the aircraft operator, which is not a part, and which is used or intended to be used in operating or controlling an aircraft, supports the occupants' survivability, or which could impact the safe operation of the aircraft;
+(30)
+‘unmanned aircraft’ means any aircraft operating or designed to operate autonomously or to be piloted remotely without a pilot on board;
+(31)
+‘remote pilot’ means a natural person responsible for safely conducting the flight of an unmanned aircraft by operating its flight controls, either manually or, when the unmanned aircraft flies automatically, by monitoring its course and remaining able to intervene and change the course at any time;
+(32)
+‘equipment to control unmanned aircraft remotely’ means any instrument, equipment, mechanism, apparatus, appurtenance, software or accessory that is necessary for the safe operation of an unmanned aircraft, which is not a part, and which is not carried on board of that unmanned aircraft;
+(33)
+‘Single European Sky airspace’ means airspace above the territory to which the Treaties apply, as well as any other airspace where Member States apply Regulation (EC) No 551/2004 in accordance with Article 1(3) of that Regulation;
+(34)
+‘national competent authority’ means one or more entities designated by a Member State and having the necessary powers and allocated responsibilities for performing the tasks related to certification, oversight and enforcement in accordance with this Regulation and with the delegated and implementing acts adopted on the basis thereof, and with Regulation (EC) No 549/2004.

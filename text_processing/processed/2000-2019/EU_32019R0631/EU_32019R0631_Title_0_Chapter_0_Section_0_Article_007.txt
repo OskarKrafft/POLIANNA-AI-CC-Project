@@ -1,0 +1,25 @@
+Article 7
+Monitoring and reporting of average emissions
+1.   For each calendar year, each Member State shall record information for each new passenger car and each new light commercial vehicle registered in its territory in accordance with Parts A of Annexes II and III to this Regulation. That information shall be made available to the manufacturers and their designated importers or representatives in each Member State. Member States shall make every effort to ensure that reporting bodies operate in a transparent manner. Each Member State shall ensure that the specific emissions of CO2 of passenger cars which are not type-approved in accordance with Regulation (EC) No 715/2007 are measured and recorded in the certificate of conformity.
+2.   By 28 February of each year, each Member State shall determine and transmit to the Commission the information listed in Parts A of Annexes II and III in respect of the preceding calendar year. The data shall be transmitted in accordance with the format specified in Part B of Annex II and Part C of Annex III.
+3.   On request from the Commission, a Member State shall also transmit the full set of data collected pursuant to paragraph 1.
+4.   The Commission shall keep a central register of the data reported by Member States under this Article, and by 30 June of each year, shall provisionally calculate the following for each manufacturer:
+(a)
+the average specific emissions of CO2 in the preceding calendar year;
+(b)
+the specific emissions target in the preceding calendar year;
+(c)
+the difference between its average specific emissions of CO2 in the preceding calendar year and its specific emissions target for that year.
+The Commission shall notify each manufacturer of its provisional calculation for that manufacturer. The notification shall include data for each Member State on the number of new passenger cars and of new light commercial vehicles registered and their specific emissions of CO2.
+The register shall be publicly available.
+5.   Manufacturers may, within three months of being notified of the provisional calculation under paragraph 4, notify the Commission of any errors in the data, specifying the Member State in which they consider that the error occurred.
+The Commission shall consider any notifications from manufacturers and shall, by 31 October, either confirm or amend the provisional calculations under paragraph 4.
+6.   Member States shall designate a competent authority for the collection and communication of the monitoring data in accordance with this Regulation and shall inform the Commission of the competent authority designated.
+The designated competent authorities shall ensure the correctness and completeness of the data transmitted to the Commission, and shall provide a contact point that is to be available to respond quickly to requests from the Commission to address errors and omissions in the transmitted datasets.
+7.   The Commission shall adopt, by means of implementing acts, detailed rules on the procedures for monitoring and reporting of data under paragraphs 1 to 6 of this Article, and on the application of Annexes II and III. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+8.   The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to amend the data requirements and data parameters set out in Annexes II and III.
+9.   Type-approval authorities shall without delay report to the Commission deviations found in the CO2 emissions of vehicles in-service as compared to the specific emissions of CO2 indicated in the certificates of conformity as a result of verifications performed in accordance with Article 13.
+The Commission shall take those deviations into account for the purpose of calculating the average specific emissions of CO2 of a manufacturer.
+The Commission shall adopt, by means of implementing acts, detailed rules on the procedures for reporting such deviations and for taking them into account in the calculation of the average specific emissions of CO2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+10.   The Commission shall no later than 2023 evaluate the possibility of developing a common Union methodology for the assessment and the consistent data reporting of the full life-cycle CO2 emissions of passenger cars and light commercial vehicles that are placed on the Union market. The Commission shall transmit to the European Parliament and to the Council that evaluation, including, where appropriate, proposals for follow-up measures, such as legislative proposals.
+11.   Member States shall also collect and report data, in accordance with this Article, on registrations of vehicles in categories M2 and N2, as defined in Annex II to Directive 2007/46/EC, with a reference mass not exceeding 2 610 kg, and vehicles to which type-approval is extended in accordance with Article 2(2) of Regulation (EC) No 715/2007.

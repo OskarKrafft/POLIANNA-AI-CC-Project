@@ -1,0 +1,9 @@
+Article 1
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+(a)
+‘vehicle’ means any vehicle as defined in Article 2 of Directive 70/156/EEC and propelled by a compression-ignition or gas engine, with the exception of vehicles of category M1 with a technically permissible maximum laden mass less than or equal to 3,5 tonnes;
+(b)
+‘compression-ignition or gas engine’ means the motive propulsion source of a vehicle for which type-approval as a separate technical unit, as defined in Article 2 of Directive 70/156/EEC, may be granted;
+(c)
+‘enhanced environment-friendly vehicle (EEV)’ means a vehicle propelled by an engine which complies with the permissive emission limit values set out in row C of the tables in Section 6.2.1 of Annex I.

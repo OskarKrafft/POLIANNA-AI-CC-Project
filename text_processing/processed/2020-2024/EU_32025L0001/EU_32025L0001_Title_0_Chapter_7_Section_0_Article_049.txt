@@ -1,0 +1,12 @@
+Article 49
+Power to suspend certain obligations
+1.   Member States shall ensure that resolution authorities have the power to suspend any payment or delivery obligations pursuant to any contract to which an undertaking under resolution is a party from the publication of a notice of the suspension in accordance with Article 65(3) until midnight in the Member State of the resolution authority of the undertaking under resolution at the end of the business day following that publication.
+2.   A payment or delivery obligation that would have been due during the suspension period referred to in paragraph 1 shall be due immediately upon expiry of the suspension period.
+3.   Where an undertaking under resolution’s payment or delivery obligations under a contract are suspended in accordance with paragraph 1, the payment or delivery obligations of the undertaking under resolution’s counterparties under that contract shall be suspended for the same period.
+4.   Any suspension under paragraph 1 shall not apply to payment and delivery obligations owed to the following:
+(a)
+systems and operators of systems designated in accordance with Directive 98/26/EC;
+(b)
+CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by ESMA pursuant to Article 25 of that Regulation.
+5.   When exercising a power under this Article, resolution authorities shall have regard to the impact the exercise of that power might have.
+The resolution authorities shall set the scope of that power having regard to the circumstances of each case.

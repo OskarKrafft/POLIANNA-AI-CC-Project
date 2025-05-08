@@ -1,0 +1,38 @@
+Article 63
+General powers
+1.   Member States shall ensure that the resolution authorities have all the powers necessary to apply the resolution tools to institutions and to entities referred to in points (b), (c) and (d) of Article 1(1) that meet the applicable conditions for resolution. In particular, the resolution authorities shall have the following resolution powers, which they may exercise individually or in any combination:
+(a)
+the power to require any person to provide any information required for the resolution authority to decide upon and prepare a resolution action, including updates and supplements of information provided in the resolution plans and including requiring information to be provided through on-site inspections;
+(b)
+the power to take control of an institution under resolution and exercise all the rights and powers conferred upon the shareholders, other owners and the management body of the institution under resolution;
+(c)
+the power to transfer shares or other instruments of ownership issued by an institution under resolution;
+(d)
+the power to transfer to another entity, with the consent of that entity, rights, assets or liabilities of an institution under resolution;
+(e)
+the power to reduce, including to reduce to zero, the principal amount of or outstanding amount due in respect of eligible liabilities, of an institution under resolution;
+(f)
+the power to convert eligible liabilities of an institution under resolution into ordinary shares or other instruments of ownership of that institution or entity referred to in point (b), (c) or (d) of Article 1(1), a relevant parent institution or a bridge institution to which assets, rights or liabilities of the institution or the entity referred to in point (b), (c) or (d) of Article 1(1) are transferred;
+(g)
+the power to cancel debt instruments issued by an institution under resolution except for secured liabilities subject to Article 44(2);
+(h)
+the power to reduce, including to reduce to zero, the nominal amount of shares or other instruments of ownership of an institution under resolution and to cancel such shares or other instruments of ownership;
+(i)
+the power to require an institution under resolution or a relevant parent institution to issue new shares or other instruments of ownership or other capital instruments, including preference shares and contingent convertible instruments;
+(j)
+the power to amend or alter the maturity of debt instruments and other eligible liabilities issued by an institution under resolution or amend the amount of interest payable under such instruments and other eligible liabilities, or the date on which the interest becomes payable, including by suspending payment for a temporary period, except for secured liabilities subject to Article 44(2);
+(k)
+the power to close out and terminate financial contracts or derivatives contracts for the purposes of applying Article 49;
+(l)
+the power to remove or replace the management body and senior management of an institution under resolution;
+(m)
+the power to require the competent authority to assess the buyer of a qualifying holding in a timely manner by way of derogation from the time-limits laid down in Article 22 of Directive 2013/36/EU and Article 12 of Directive 2014/65/EU.
+2.   Member States shall take all necessary measures to ensure that, when applying the resolution tools and exercising the resolution powers, resolution authorities are not subject to any of the following requirements that would otherwise apply by virtue of national law or contract or otherwise:
+(a)
+subject to Article 3(6) and Article 85(1), requirements to obtain approval or consent from any person either public or private, including the shareholders or creditors of the institution under resolution;
+(b)
+prior to the exercise of the power, procedural requirements to notify any person including any requirement to publish any notice or prospectus or to file or register any document with any other authority.
+In particular, Member States shall ensure that resolution authorities can exercise the powers under this Article irrespective of any restriction on, or requirement for consent for, transfer of the financial instruments, rights, assets or liabilities in question that might otherwise apply.
+Point (b) of the first subparagraph is without prejudice to the requirements laid down in Articles 81 and 83 and any notification requirements under the Union State aid framework.
+3.   Member States shall ensure that, to the extent that any of the powers listed in paragraph 1 of this Article is not applicable to an entity within the scope of Article 1(1) of this Directive as a result of its specific legal form, resolution authorities shall have powers which are as similar as possible including in terms of their effects.
+4.   Member States shall ensure that, when resolution authorities exercise the powers pursuant to paragraph 3 the safeguards provided for in this Directive, or safeguards that deliver the same effect, shall be applied to the persons affected, including shareholders, creditors and counterparties.

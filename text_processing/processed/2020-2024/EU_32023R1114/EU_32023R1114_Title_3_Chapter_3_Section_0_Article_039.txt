@@ -1,0 +1,16 @@
+Article 39
+Right of redemption
+1.   Holders of asset-referenced tokens shall have a right of redemption at all times against the issuers of the asset-referenced tokens, and in respect of the reserve assets when issuers are not able to meet their obligations as referred to in Chapter 6 of this Title. Issuers shall establish, maintain and implement clear and detailed policies and procedures in respect of such permanent right of redemption.
+2.   Upon request by a holder of an asset-referenced token, an issuer of such token shall redeem either by paying an amount in funds, other than electronic money, equivalent to the market value of the assets referenced by the asset-referenced token held or by delivering the assets referenced by the token. Issuers shall establish a policy on such permanent right of redemption setting out:
+(a)
+the conditions, including thresholds, periods and timeframes, for holders of asset-referenced tokens to exercise such right of redemption;
+(b)
+the mechanisms and procedures to ensure the redemption of the asset-referenced tokens, including in stressed market circumstances, as well as in the context of the implementation of the recovery plan set out in Article 46 or, in the case of an orderly redemption of asset-referenced tokens, under Article 47;
+(c)
+the valuation, or the principles of valuation, of the asset-referenced tokens and of the reserve assets when the right of redemption is exercised by the holder of asset-referenced tokens, including by using the valuation methodology set out in Article 36(11);
+(d)
+the conditions for settlement of the redemption; and
+(e)
+measures that the issuers take to adequately manage increases or decreases in the reserve of assets in order to avoid any adverse impacts on the market of the reserve assets.
+Where issuers, when selling an asset-referenced token, accept a payment in funds other than electronic money, denominated in an official currency, they shall always provide an option to redeem the token in funds other than electronic money, denominated in the same official currency.
+3.   Without prejudice to Article 46, the redemption of asset-referenced tokens shall not be subject to a fee.

@@ -1,0 +1,39 @@
+Article 4
+Simplified obligations for certain institutions
+1.   Having regard to the impact that the failure of the institution could have, due to the nature of its business, its shareholding structure, its legal form, its risk profile, size and legal status, its interconnectedness to other institutions or to the financial system in general, the scope and the complexity of its activities, its membership of an IPS or other cooperative mutual solidarity systems as referred to in Article 113(7) of Regulation (EU) No 575/2013 and any exercise of investment services or activities as defined in point (2) of Article 4(1) of Directive 2014/65/EU, and whether its failure and subsequent winding up under normal insolvency proceedings would be likely to have a significant negative effect on financial markets, on other institutions, on funding conditions, or on the wider economy, Member States shall ensure that competent and resolution authorities determine:
+(a)
+the contents and details of recovery and resolution plans provided for in Articles 5 to 12;
+(b)
+the date by which the first recovery and resolution plans are to be drawn up and the frequency for updating recovery and resolution plans which may be lower than that provided for in Article 5(2), Article 7(5), Article 10(6) and Article 13(3);
+(c)
+the contents and details of the information required from institutions as provided for in Article 5(5), Article 11(1) and Article 12(2) and in Sections A and B of the Annex;
+(d)
+the level of detail for the assessment of resolvability provided for in Articles 15 and 16, and Section C of the Annex.
+2.   Competent authorities and, where relevant, resolution authorities shall make the assessment referred to in paragraph 1 after consulting, where appropriate, the national macroprudential authority.
+3.   Member States shall ensure that where simplified obligations are applied the competent authorities and, where relevant, resolution authorities can impose full, unsimplified obligations at any time.
+4.   Member States shall ensure that the application of simplified obligations shall not, per se, affect the competent authority’s and, where relevant, the resolution authority’s powers to take a crisis prevention measure or a crisis management measure.
+5.   EBA shall, by 3 July 2015, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify the criteria referred to in paragraph 1, for assessing, in accordance with that paragraph, the impact of an institution’s failure on financial markets, on other institutions and on funding conditions.
+6.   Taking into account, where appropriate, experience acquired in the application of the guidelines referred to in paragraph 5, EBA shall develop draft regulatory technical standards to specify the criteria referred to in paragraph 1, for assessing, in accordance with that paragraph, the impact of an institution’s failure on financial markets, on other institutions and on funding conditions.
+EBA shall submit those draft regulatory technical standards to the Commission by 3 July 2017.
+Power is conferred on the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+7.   Competent authorities and resolution authorities shall inform EBA of the way they have applied paragraphs 1, 8, 9 and 10 to institutions in their jurisdiction. EBA shall submit a report to the European Parliament, to the Council and to the Commission by 31 December 2017 on the implementation of paragraphs 1, 8, 9 and 10. In particular, that report shall identify any divergences regarding the implementation at national level of paragraphs 1, 8,9 and 10.
+8.   Subject to paragraphs 9 and 10, Member States shall ensure that competent authorities and, where relevant, resolution authorities may waive the application of:
+(a)
+the requirements of Sections 2 and 3 of this Chapter to institutions affiliated to a central body and wholly or partially exempted from prudential requirements in national law in accordance with Article 10 of Regulation (EU) No 575/2013;
+(b)
+the requirements of Section 2 to institutions which are members of an IPS.
+9.   Where a waiver pursuant to paragraph 8 is granted, Member States shall:
+(a)
+apply the requirements of Sections 2 and 3 of this Chapter on a consolidated basis to the central body and institutions affiliated to it within the meaning of Article 10 of Regulation (EU) No 575/2013;
+(b)
+require the IPS to fulfil the requirements of Section 2 in cooperation with each of its waived members.
+For that purpose, any reference in Sections 2 and 3 of this Chapter to a group shall include a central body and institutions affiliated to it within the meaning of Article 10 of Regulation (EU) No 575/2013 and their subsidiaries, and any reference to parent undertakings or institutions that are subject to consolidated supervision pursuant to Article 111 of Directive 2013/36/EU shall include the central body.
+10.   Institutions subject to direct supervision by the European Central Bank pursuant to Article 6(4) of Regulation (EU) No 1024/2013 or constituting a significant share in the financial system of a Member State shall draw up their own recovery plans in accordance with Section 2 of this Chapter and shall be the subject of individual resolution plans in accordance with Section 3.
+For the purposes of this paragraph, the operations of an institution shall be considered to constitute a significant share of that Member State’s financial system if any of the following conditions are met:
+(a)
+the total value of its assets exceeds EUR 30 000 000 000; or
+(b)
+the ratio of its total assets over the GDP of the Member State of establishment exceeds 20 %, unless the total value of its assets is below EUR 5 000 000 000.
+11.   EBA shall develop draft implementing technical standards to specify uniform formats, templates and definitions for the identification and transmission of information by competent authorities and resolution authorities to EBA for the purposes of paragraph 7, subject to the principle of proportionality.
+EBA shall submit those draft implementing technical standards to the Commission by 3 July 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

@@ -1,0 +1,33 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘reference CO2 emissions’ means the average of the specific CO2 emissions in the reference period referred to in the second paragraph of Article 1 of all new heavy-duty vehicles in each of the vehicle sub-groups, excluding vocational vehicles, determined in accordance with point 3 of Annex I;
+(2)
+‘specific CO2 emissions’ means the CO2 emissions of an individual heavy-duty vehicle determined in accordance with point 2.1 of Annex I;
+(3)
+‘reporting period of the year Y’ means the period from 1 July of the year Y to 30 June of the year Y+1;
+(4)
+‘average specific CO2 emissions’ means the average of the specific CO2 emissions of a manufacturer’s new heavy-duty vehicles in a given reporting period determined in accordance with point 2.7 of Annex I;
+(5)
+‘specific CO2 emissions target’ means the CO2 emissions target of an individual manufacturer, expressed in g/tkm and determined annually for the preceding reporting period in accordance with point 4 of Annex I;
+(6)
+‘rigid lorry’ means a lorry that is not designed or constructed for the towing of a semi-trailer;
+(7)
+‘tractor’ means a tractor unit that is designed and constructed exclusively or principally to tow semi-trailers;
+(8)
+‘vehicle sub-group’ means a grouping of vehicles as defined in point 1 of Annex I, that are characterised by a common and distinctive set of technical criteria relevant for determining the CO2 emissions and fuel consumption of those vehicles;
+(9)
+‘vocational vehicle’ means a heavy-duty vehicle for which the CO2 emissions and fuel consumption have been determined, in accordance with Regulation (EC) No 595/2009 and its implementing measures, only for mission profiles other than those defined in point 2.1 of Annex I to this Regulation;
+(10)
+‘manufacturer’ means the person or body responsible for submitting the data related to new heavy-duty vehicles pursuant to Article 5 of Regulation (EU) 2018/956 or, in the case of zero-emission heavy-duty vehicles, the person or body responsible to the approval authority for all aspects of the EC whole vehicle type-approval procedure or of the individual approval procedure in accordance with Directive 2007/46/EC and for ensuring conformity of production;
+(11)
+‘zero-emission heavy-duty vehicle’ means a heavy-duty vehicle without an internal combustion engine, or with an internal combustion engine that emits less than 1 g CO2/kWh as determined in accordance with Regulation (EC) No 595/2009 and its implementing measures, or which emits less than 1 g CO2/km as determined in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council (16) and its implementing measures;
+(12)
+‘low-emission heavy-duty vehicle’ means a heavy-duty vehicle, other than a zero-emission heavy-duty vehicle, with specific CO2 emissions of less than half of the reference CO2 emissions of all vehicles in the vehicle sub-group to which the heavy-duty vehicle belongs, as determined in accordance with point 2.3.3 of Annex I;
+(13)
+‘mission profile’ means a combination of a target speed cycle, a payload value, a body or trailer configuration and other parameters, if applicable, reflecting the specific use of a vehicle, on the basis of which official CO2 emissions and fuel consumption of a heavy-duty vehicle are determined;
+(14)
+‘target speed cycle’ means the description of the vehicle velocity, which the driver wants to reach or to which he is limited by traffic conditions, as a function of the distance covered in a trip;
+(15)
+‘payload’ means the weight of the goods that a vehicle is carrying under different conditions.

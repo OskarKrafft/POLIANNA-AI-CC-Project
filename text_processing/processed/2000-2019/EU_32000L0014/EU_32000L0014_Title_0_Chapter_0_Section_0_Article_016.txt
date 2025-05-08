@@ -1,0 +1,13 @@
+Article 16
+Collection of noise data
+1. Member States shall take the measures necessary to ensure that the manufacturer, or his authorised representative established in the Community, shall send to the responsible authority of the Member State where he resides or where he places on the market or puts into service the equipment referred to in Article 2(1) and to the Commission a copy of the EC declaration of conformity for each type of equipment referred to in Article 2(1).
+2. The Commission shall collect the data made available in accordance with paragraph 1 for all equipment.
+3. Member States may, on request, obtain the collected data from the Commission.
+4. The Commission shall publish the relevant information periodically, preferably annually. These publications shall at least contain the following data for each type or model of equipment:
+- the net installed power or any other noise related value
+- the measured sound power level
+- the guaranteed sound power level
+- equipment description
+- manufacturer and/or brand name
+- model number/name
+

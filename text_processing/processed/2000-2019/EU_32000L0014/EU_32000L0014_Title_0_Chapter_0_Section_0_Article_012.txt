@@ -1,0 +1,71 @@
+Article 12
+Equipment subject to noise limits
+The guaranteed sound power level of equipment listed below shall not exceed the permissible sound power level as laid down in the following tables of limit values:
+- builders' hoists for the transport of goods (combustion-engine driven)
+Definition:
+Annex I, item 3. Measurement: Annex III, Part B, item 3
+- compaction machines (only vibrating and non-vibrating rollers, vibratory plates and vibratory rammers)
+Definition:
+Annex I, item 8. Measurement: Annex III, Part B, item 8
+- compressors (&lt;  350 kW)
+Definition:
+Annex I, item 9. Measurement: Annex III, Part B, item 9
+- concrete-breakers and picks, hand-held
+Definition:
+Annex I, item 10. Measurement: Annex III, Part B, item 10
+- construction winches (combustion-engine driven)
+Definition:
+Annex I, item 12. Measurement: Annex III, Part B, item 12
+- dozers (&lt;  500 kW)
+Definition:
+Annex I, item 16. Measurement: Annex III, Part B, item 16
+- dumpers (&lt;  500 kW)
+Definition:
+Annex I, item 18. Measurement: Annex III, Part B, item 18
+- excavators, hydraulic or rope-operated (&lt;  500 kW)
+Definition:
+Annex I, item 20. Measurement: Annex III, Part B, item 20
+- excavator-loaders (&lt;  500 kW)
+Definition:
+Annex I, item 21. Measurement: Annex III, Part B, item 21
+- graders (&lt;  500 kW)
+Definition:
+Annex I, item 23. Measurement: Annex III, Part B, item 23
+- hydraulic power packs
+Definition:
+Annex I, item 29. Measurement: Annex III, Part B, item 29
+- landfill compactors, loader-type with bucket (&lt;  500 kW)
+Definition:
+Annex I, item 31. Measurement: Annex III, Part B, item 31
+- lawnmowers (excluding agricultural and forestry equipment, and multi-purpose devices, the main motorised component of which has an installed power of more than 20 kW))
+Definition:
+Annex I, item 32. Measurement: Annex III, Part B, item 32
+- lawn trimmers/lawn edge trimmers
+Definition:
+Annex I, item 33; Measurement: Annex III, Part B, item 33
+- lift trucks, combustion-engine driven, counterbalanced (excluding "other counterbalanced lift trucks" as defined in Annex I, item 36, second indent with a rated capacity of not more than 10 tonnes)
+Definition:
+Annex I, item 36. Measurement: Annex III, Part B, item 36
+- loaders (&lt;  500 kW)
+Definition:
+Annex I, item 37. Measurement: Annex III, Part B, item 37
+- mobile cranes
+Definition:
+Annex I, item 38. Measurement: Annex III, Part B, item 38
+- motor hoes (&lt;  3 kW)
+Definition:
+Annex I, item 40. Measurement: Annex III, Part B, item 40
+- paver-finishers (excluding paver-finishers equipped with a high-compaction screed)
+Definition:
+Annex I, item 41. Measurement: Annex III, Part B, item 41
+- power generators (&lt;  400 kW)
+Definition
+Annex I, item 45. Measurement: Annex III, Part B, item 45
+- tower cranes
+Definition:
+Annex I, item 53. Measurement: Annex III, Part B, item 53
+- welding generators
+Definition:
+Annex I, item 57. Measurement: Annex III, Part B, item 57.
+>TABLE>
+

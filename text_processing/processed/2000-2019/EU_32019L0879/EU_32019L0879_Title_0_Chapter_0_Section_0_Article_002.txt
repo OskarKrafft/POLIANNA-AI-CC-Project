@@ -1,0 +1,17 @@
+Article 2
+Amendments to Directive 98/26/EC
+Directive 98/26/EC is amended as follows:
+(1)
+Article 2 is amended as follows:
+(a)
+point (c) is replaced by the following:
+‘(c)
+“central counterparty” or “CCP” shall mean a CCP as defined in point (1) of Article 2 of Regulation (EU) No 648/2012;’;
+(b)
+point (f) is replaced by the following:
+‘(f)
+“participant” shall mean an institution, a central counterparty, a settlement agent, a clearing house, a system operator or a clearing member of a CCP authorised pursuant to Article 17 of Regulation (EU) No 648/2012;’;
+(2)
+the following Article is inserted:
+‘Article 12a
+By 28 June 2021, the Commission shall review how Member States apply this Directive to their domestic institutions which participate directly in systems governed by the law of a third country and to collateral security provided in connection with participation in such systems. The Commission shall assess in particular the need for any further amendments to this Directive with regard to systems governed by the law of a third country. The Commission shall submit a report thereon to the European Parliament and the Council, accompanied where appropriate by proposals for revision of this Directive.’.

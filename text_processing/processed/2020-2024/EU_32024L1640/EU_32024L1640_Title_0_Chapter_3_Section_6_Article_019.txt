@@ -1,0 +1,26 @@
+Article 19
+Establishment of the FIU
+1.   Each Member State shall establish an FIU in order to prevent, detect and effectively combat money laundering and terrorist financing.
+2.   The FIU shall be the single central national unit responsible for receiving and analysing reports submitted by obliged entities in accordance with Article 69 of Regulation (EU) 2024/1624, reports submitted by obliged entities in accordance with Article 74 and Article 80(4), second subparagraph, of that Regulation, and any other information relevant to money laundering, its predicate offences or terrorist financing, including information transmitted by customs authorities pursuant to Article 9 of Regulation (EU) 2018/1672, as well as information submitted by supervisory authorities or by other authorities.
+3.   The FIU shall be responsible for disseminating the results of its analyses and any additional information to relevant competent authorities where there are grounds to suspect money laundering, its predicate offences or terrorist financing. It shall be able to obtain additional information from obliged entities.
+The FIU’s financial analysis function shall consist of the following:
+(a)
+an operational analysis which focuses on individual cases and specific targets or on appropriate selected information, prioritised on the basis of risk, the type and volume of the disclosures received and the expected use of the information after dissemination;
+(b)
+a strategic analysis addressing money laundering and terrorist financing trends and patterns and evolutions thereof.
+4.   Each FIU shall be operationally independent and autonomous, which means that it shall have the authority and capacity to carry out its functions freely, including the ability to take autonomous decisions to analyse, request and, in accordance with paragraph 3, disseminate specific information. It shall be free from any undue political, government or industry influence or interference.
+When an FIU is located within the existing structure of another authority, the FIU’s core functions shall be independent and operationally separated from the other functions of the host authority.
+5.   Member States shall provide their FIUs with adequate financial, human and technical resources in order to fulfil their tasks. FIUs shall be able to obtain and deploy the resources needed to carry out their functions.
+6.   Member States shall ensure that the staff of their FIUs are bound by professional secrecy requirements equivalent to those laid down in Article 67, and that they maintain high professional standards, including high standards of data protection, and are of high integrity and appropriately skilled in relation to the ethical handling of big data sets. Member States shall ensure that FIUs have in place procedures to prevent and manage conflicts of interest.
+7.   Member States shall ensure that FIUs have rules in place governing the security and confidentiality of information.
+8.   Member States shall ensure that FIUs have in place secure and protected channels for communicating and exchanging information by electronic means with competent authorities and obliged entities.
+9.   Member States shall ensure that FIUs are able to make arrangements with other domestic competent authorities pursuant to Article 46 on the exchange of information.
+10.   By 10 July 2028, AMLA shall issue guidelines addressed to FIUs on:
+(a)
+the measures to be put in place to preserve the operational autonomy and independence of the FIU, including measures to prevent that conflicts of interest affect its operational autonomy and independence;
+(b)
+the nature, features and objectives of operational and of strategic analysis;
+(c)
+tools and methods for use and cross-check of financial, administrative and law enforcement information to which FIUs have access; and
+(d)
+practices and procedures for the exercise of the suspension or the withholding of consent to a transaction and suspension or monitoring of an account or business relationship pursuant to Articles 24 and 25.

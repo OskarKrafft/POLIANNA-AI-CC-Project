@@ -1,0 +1,7 @@
+Article 8
+European framework for statistical business registers
+1.   The Commission (Eurostat) shall set up the EuroGroups Register of multinational enterprise groups for statistical purposes at Union level.
+2.   Member States shall set up at national level one or more national statistical business registers, of which a common core is harmonised pursuant to this Regulation, as a basis for the preparation and coordination of surveys and as a source of information for the statistical analysis of the business population and its demography, for the use of administrative data, and for the identification and construction of statistical units.
+3.   The Member States and the Commission (Eurostat) shall exchange data for the purposes of the European framework for statistical business registers as set out in Article 10.
+4.   National statistical business registers and the EuroGroups Register shall be the authoritative source for deriving high quality and harmonised statistical business register populations in accordance with Article 17, for the production of European statistics.
+National statistical business registers shall be the authoritative source for national statistical business register populations. The EuroGroups Register shall be the authoritative source for the ESS as a register population for business statistics requiring the coordination of cross-border information related to multinational enterprise groups.

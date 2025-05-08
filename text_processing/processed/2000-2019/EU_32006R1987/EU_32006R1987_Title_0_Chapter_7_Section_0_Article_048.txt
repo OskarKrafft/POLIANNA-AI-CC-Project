@@ -1,0 +1,5 @@
+Article 48
+Liability
+1.   Each Member State shall be liable in accordance with its national law for any damage caused to a person through the use of N.SIS II. This shall also apply to damage caused by the Member State which issued the alert, where the latter entered factually inaccurate data or stored data unlawfully.
+2.   If the Member State against which an action is brought is not the Member State issuing the alert, the latter shall be required to reimburse, on request, the sums paid out as compensation unless the use of the data by the Member State requesting reimbursement infringes this Regulation.
+3.   If any failure of a Member State to comply with its obligations under this Regulation causes damage to SIS II, that Member State shall be held liable for such damage, unless and insofar as the Management Authority or another Member State participating in SIS II failed to take reasonable steps to prevent the damage from occurring or to minimise its impact.

@@ -1,0 +1,145 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘methane emissions’ means all direct emissions from any component, whether they result from venting, incomplete combustion from flaring, or from leaks;
+(2)
+‘component’ means any part or element of equipment used in oil, natural gas or coal installations or infrastructure, that has the potential to emit methane;
+(3)
+‘operator’ means any natural or legal person who operates or controls an asset, or, where provided for under national law, to whom decisive economic power over the technical functioning of an asset has been delegated;
+(4)
+‘asset’ means a business or operating unit, which can be composed of several facilities or sites, including operated assets and non-operated assets;
+(5)
+‘operated assets’ means assets which are under the operational control of the operator;
+(6)
+‘non-operated assets’ means assets which are not under the operational control of the operator;
+(7)
+‘site’ means a collection of components with some relation to one another as a subdivision of an asset;
+(8)
+‘transmission’ means transmission as defined in Article 2, point (17), of Directive (EU) 2024/1788 of the European Parliament and of the Council (22);
+(9)
+‘transmission system operator’ means transmission system operator as defined in Article 2, point (18), of Directive (EU) 2024/1788;
+(10)
+‘distribution’ means distribution as defined in Article 2, point (19), of Directive (EU) 2024/1788;
+(11)
+‘distribution system operator’ means distribution system operator as defined in Article 2, point (20), of Directive (EU) 2024/1788;
+(12)
+‘mine operator’ means any natural or legal person who operates or controls a coal mine or, where provided for under national law, to whom decisive economic power over the technical functioning of a coal mine has been delegated;
+(13)
+‘verification’ means the activities carried out by a verifier to assess the conformity with this Regulation of the reports transmitted by the operators, undertakings and mine operators pursuant to this Regulation;
+(14)
+‘verifier’ means a legal person who carries out verification activities and who is, at the time a verification statement is issued, accredited by a national accreditation body pursuant to Regulation (EC) No 765/2008, or, without prejudice to Article 5(2) of that Regulation, a natural person otherwise authorised to carry out verification activities;
+(15)
+‘source’ means a component or a geological structure that releases methane into the atmosphere whether intentionally or unintentionally, intermittently or persistently;
+(16)
+‘emission factor’ means a coefficient that quantifies the emissions of a gas per unit of activity, which is based either on a sample of measurement data or other quantification methods, averaged to develop a representative rate of emission for a given activity level under a given set of operating conditions;
+(17)
+‘generic emission factor’ means a standardised emission factor for each type of emission source which is derived from inventories or databases, but in any case not verified by means of direct measurements;
+(18)
+‘specific emission factor’ means an emission factor for a type of emission source which is derived from direct measurements;
+(19)
+‘direct measurement’ means measurement of the methane emissions at source-level with a measuring device which allows such a measurement;
+(20)
+‘quantification’ means activities to determine the quantity of methane emissions by means of direct measurements or, where direct measurements are not feasible, based on other methods such as simulation tools, and other detailed engineering calculations or a combination of such methods;
+(21)
+‘site-level methane emissions’ means all sources of methane emissions within a site;
+(22)
+‘site-level measurement’ means a measurement which captures a complete overview of all site-level methane emissions, including, for a pipeline network, emissions from segments of such a network, and typically involves the use of sensors mounted on a mobile platform, such as a vehicle, a drone, an aircraft, a boat or a satellite, or the use of other means, such as fixed sensors or continuous point sensor networks;
+(23)
+‘undertaking’ means a natural or legal person who carries out at least one of the following activities: oil or fossil gas exploration and production, fossil gas gathering and processing, or gas transmission, distribution and underground storage, including with regard to LNG;
+(24)
+‘LNG facility’ means an LNG facility as defined in Article 2, point (33), of Directive (EU) 2024/1788;
+(25)
+‘leak detection and repair survey’ or ‘LDAR survey’ means a survey to identify and detect sources of methane leaks and other unintentional methane emissions, and to repair or replace the relevant components;
+(26)
+‘type 1 leak detection and repair survey’ or ‘type 1 LDAR survey’ means a leak detection and repair survey carried out in accordance with the requirements set out under Article 14(2), (7) and (8) and Part 1 of Annex I for type 1 LDAR surveys;
+(27)
+‘type 2 leak detection and repair survey’ or ‘type 2 LDAR survey’ means a leak detection and repair survey carried out in accordance with the requirements set out under Article 14(2), (7) and (8) and Part 1 of Annex I for type 2 LDAR surveys;
+(28)
+‘production location’ means a location where oil or natural gas is extracted from the ground and where no processing takes place;
+(29)
+‘processing location’ means a location where processes, such as the separation of oil and natural gas from water, are used to treat oil and natural gas;
+(30)
+‘shutdown’ means a situation where a site or part of its components no longer operates under normal operating conditions and is shut down, and where complete or partial pressure reduction is required before repair or maintenance works can be initiated;
+(31)
+‘venting’ means the direct release of uncombusted methane into the atmosphere;
+(32)
+‘flaring’ means the disposal of methane by controlled combustion, in a device designed for that purpose;
+(33)
+‘routine flaring’ means flaring during the normal production of oil or fossil gas, in the absence of adequate facilities or amenable geology to re-inject methane, utilise it on-site or dispatch it to a market, and excludes flaring caused by an emergency or a malfunction;
+(34)
+‘flare stack’ means a device equipped with a pilot burner used for flaring;
+(35)
+‘emergency’ means a temporary, unexpected, infrequent situation in which methane emissions are unavoidable and necessary to prevent an imminent and substantial adverse impact on human safety, health or the environment, and excludes situations arising from or related to the following events:
+(a)
+failure by the operator to install appropriate equipment of sufficient capacity for the expected or actual rate and pressure of production;
+(b)
+failure of the operator to limit production where the production rate exceeds the capacity of the related equipment or gathering system, except where the excess production is due to a downstream emergency, malfunction or unscheduled repair, and lasts for no longer than 8 hours from the time of notification of the downstream capacity issue;
+(c)
+scheduled maintenance;
+(d)
+operator negligence;
+(e)
+repeated failures, namely four or more failures within the preceding 30 days, of the same piece of equipment;
+(36)
+‘malfunction’ means a sudden, unavoidable failure or breakdown of equipment beyond the reasonable control of the operator which substantially disrupts operations but does not constitute an equipment failure or breakdown caused entirely or in part by poor maintenance or negligent operation, or by another preventable cause;
+(37)
+‘destruction and removal efficiency’ means the mass percentage of methane that is destroyed or removed after combustion has ceased relative to the quantity of methane entering the flare stack;
+(38)
+‘inactive well’ means an exploration or production oil or gas well or well site, onshore or offshore, in which, for at least 1 year, no operations for exploration or production have taken place, with the exception of temporarily plugged wells and permanently plugged and abandoned wells;
+(39)
+‘temporarily plugged well’ means an exploration or production oil or gas well or well site, onshore or offshore, where well barriers have been installed to temporarily isolate the producing reservoir and where access to the well is still provided for;
+(40)
+‘permanently plugged and abandoned well’ means an exploration or production oil or gas well or well site, onshore or offshore, which has been plugged and will not be re-entered, in which all operations have been terminated and in which all installations associated with the well have been removed in accordance with the applicable regulatory requirements, and where documentation can be provided as established in Part 1, point 3, of Annex V;
+(41)
+‘remediating’ means the process of cleaning up contaminated water and soil;
+(42)
+‘reclaiming’ means the process of returning an oil or gas well or well site to having soil and vegetation conditions similar to those that existed before it was disturbed;
+(43)
+‘coal mine’ means a site where coal mining occurs or has occurred, including lands, excavations, underground passageways, shafts, slopes, tunnels and workings, structures, facilities, equipment, machines and tools situated on the surface or underground and used in, or resulting from the work of extracting lignite, subbituminous coal, bituminous coal or anthracite from its natural deposits in the earth by any means and by any method, and includes the work of preparing the coal for extraction;
+(44)
+‘active coal mine’ means a coal mine, the majority of the revenue of which comes from extracting lignite, subbituminous coal, bituminous coal or anthracites, and where at least one of the following conditions apply:
+(a)
+mine development is underway;
+(b)
+coal has been produced within the last 90 days;
+(c)
+mine ventilation fans are in operation;
+(45)
+‘underground coal mine’ means a coal mine where coal is produced by tunnelling into the earth to the coalbed, where the coal is then mined with underground coal mining equipment such as cutting machines and continuous, longwall and shortwall mining machines and transported to the surface;
+(46)
+‘surface coal mine’ means a coal mine where coal lies near the surface and can be extracted by removing the covering layers of rock and soil;
+(47)
+‘ventilation shaft’ means a vertical passage used to move fresh air underground or to remove methane and other gases from an underground coal mine;
+(48)
+‘drainage station’ means a station which collects methane from a coal mine gas drainage system;
+(49)
+‘drainage system’ means a system which may comprise multiple methane sources and which drains methane-rich gas from coal seams or surrounding rock strata and transports it to a drainage station;
+(50)
+‘post-mining activities’ means activities carried out after coal has been mined and transported to the surface, including coal handling, processing, storage and transport;
+(51)
+‘continuous measurement’ means a measurement where the reading is taken at least every minute;
+(52)
+‘coal deposit’ means an area containing significant concentrations and minable quantities of coal, defined according to the Member State’s methodology on documenting geological mineral deposits;
+(53)
+‘closed coal mine’ means a coal mine where coal production has ceased, which is closed in accordance with the applicable licensing requirements or other arrangements, and for which an operator, owner or licensee has still a valid permit, licence or other legal document conferring responsibility for the coal mine;
+(54)
+‘abandoned coal mine’ means a coal mine where coal production has ceased but for which no operator, owner or licensee can be identified as being subject to the obligations under a valid permit, licence or any other legal document conferring responsibility for the coal mine, or that has not been closed in a regulated manner;
+(55)
+‘alternative use of an abandoned underground coal mine’ means the use of the subsurface mine infrastructure and coal mining equipment for purposes other than coal production;
+(56)
+‘coal mining equipment’ means any equipment that remains linked to the methane-bearing strata, such as gob vents and drainage pipes;
+(57)
+‘coking coal mine’ means a coal mine where at least 50 % of the production output averaged over the last 3 available years is coking coal, as defined in Annex B to Regulation (EC) No 1099/2008 of the European Parliament and of the Council (23);
+(58)
+‘producer’ means an undertaking which, in the course of a commercial activity, produces crude oil, natural gas or coal, by extracting it from the ground in a licensed area, processing it or conveying it through connected infrastructure within that licensed area;
+(59)
+‘importer’ means a natural or legal person who, in the course of a commercial activity, places crude oil, natural gas or coal originating from a third country on the Union market, including any natural or legal person established in the Union appointed to carry out acts and formalities required under Chapter 5;
+(60)
+‘exporter’ means the contractual counterparty to the importer in each contract concluded for the supply of crude oil, natural gas or coal into the Union;
+(61)
+‘methane performance profile’ means the individual information and datasheets for Member States, third countries and, as applicable, Union producers or importers, as well as third-country producers or exporters supplying crude oil, natural gas or coal to the Union or placing crude oil, natural gas or coal on the Union market, as applicable, which are published in the methane transparency database;
+(62)
+‘super-emitting event’ means an event occurring within or outside the Union where a source or a set of closely connected sources in a site emits above 100 kg of methane per hour;
+(63)
+‘reconciliation process’ means the investigation and explanation of the reasons for any statistically significant discrepancies between source-level quantification and site-level measurement of methane emissions.

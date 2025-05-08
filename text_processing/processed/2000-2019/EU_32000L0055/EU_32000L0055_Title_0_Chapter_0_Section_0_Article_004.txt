@@ -1,0 +1,13 @@
+Article 4
+1. Without prejudice to Articles 5 and 6, the procedures for conformity assessment of ballasts as single components or incorporated in luminaires and the rules for the affixing and use of the CE conformity marking shall be in accordance with Module A of Council Decision 93/465/EEC and with the criteria set out in that Decision and in the general guidelines in the Annex thereto.
+2. The period referred to in paragraph 2 of Module A of Council Decision 93/465/EEC shall be 3 years for the purposes of this Directive.
+3. (a) The content of the technical documentation referred to in paragraph 3 of Module A of Council Decision 93/465/EEC shall comprise:
+(i) the name and address of the manufacturer;
+(ii) a general description of the model sufficient for unambiguous identification;
+(iii) information, including drawings as relevant, on the main design features of the model and in particular on items which appreciably affect its electricity consumption;
+(iv) the operating instructions;
+(v) the results of power consumption measurements carried out as required by subparagraph c;
+(vi) details of the conformity of these measurements as compared with the energy consumption requirements set out in Annex I.
+(b) Technical documentation established for other Community legislation may be used in so far as it meets these requirements.
+(c) Manufacturers of ballast shall be responsible for establishing the power consumption of each ballast according to the procedures specified in European Standard EN 50294 of December 1998, as well as the appliance's conformity with the requirements of Articles 2 and 9.
+

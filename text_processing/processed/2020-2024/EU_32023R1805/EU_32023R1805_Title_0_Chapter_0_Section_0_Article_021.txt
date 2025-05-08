@@ -1,0 +1,11 @@
+Article 21
+Pooling of compliance
+1.   The compliance balances for GHG intensity referred to in Article 4(2) and, if applicable, the RFNBO subtarget as referred to in Article 5(3) of two or more ships, as calculated in accordance with Article 16(4), may be pooled for the purposes of complying with the requirements set out in Article 4 and, if applicable, Article 5(3). A ship’s compliance balance may not be included in more than one pool in the same reporting period.
+Two separate pools may be used for GHG intensity target and for the subtarget for RFNBO.
+2.   The company shall register in the FuelEU database its intention to include the ship’s compliance balance in a pool, the allocation of the total pool compliance balance to each individual ship, and the choice of the verifier selected for verifying that allocation.
+3.   Where the ships participating in the pool are controlled by two or more companies, the pool details registered in the FuelEU database, including the allocation of the total pool compliance balance to the pool’s ships and the choice of the verifier selected for verifying the allocation of the total compliance balance of the pool to each individual ship, shall be validated in the FuelEU database by all the companies concerned in the pool.
+4.   A pool is valid only if the total pooled compliance is positive, if ships which had a compliance deficit as calculated in accordance with Article 16(4) do not have a higher compliance deficit after the allocation of the pooled compliance, and if ships which had a compliance surplus as calculated in accordance with Article 16(4) do not have a compliance deficit after the allocation of the pooled compliance.
+5.   A ship shall not be included in a pool if it does not comply with the obligation set out in Article 24.
+6.   If the total pool compliance balance results in a compliance surplus for an individual ship, Article 20(1) shall apply.
+7.   Article 20(2) shall not apply to a ship participating in the pool.
+8.   By 30 April of the verification period, the selected verifier shall record in the FuelEU database the definitive composition of the pool and allocation of the total pool compliance balance to each individual ship.

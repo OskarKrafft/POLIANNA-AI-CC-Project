@@ -1,0 +1,95 @@
+Article 4
+Vehicle categories
+1.   L-category vehicles comprise powered two-, three- and four-wheel vehicles as categorised in this Article and Annex I, including powered cycles, two- and three-wheel mopeds, two- and three-wheel motorcycles, motorcycles with side-cars, light and heavy on-road quads, and light and heavy quadri-mobiles.
+2.   For the purposes of this Regulation, the following vehicle categories and subcategories shall apply, as described in Annex I:
+(a)
+category L1e vehicle (light two-wheel powered vehicle), sub-categorised into:
+(i)
+L1e-A vehicle (powered cycle);
+(ii)
+L1e-B vehicle (two-wheel moped);
+(b)
+category L2e vehicle (three-wheel moped) sub-categorised into:
+(i)
+L2e-P vehicle (three-wheel moped designed for passenger transport);
+(ii)
+L2e-U vehicle (three wheel moped designed for utility purposes);
+(c)
+category L3e vehicle (two-wheel motorcycle), sub-categorised by:
+(i)
+motorcycle performance (25), further sub-categorised into:
+—
+L3e-A1 vehicle (low-performance motorcycle),
+—
+L3e-A2 vehicle (medium-performance motorcycle),
+—
+L3e-A3 vehicle (high-performance motorcycle);
+(ii)
+special use:
+—
+L3e-A1E, L3e-A2E or L3e-A3E enduro motorcycle,
+—
+L3e-A1T, L3e-A2T or L3e-A3T trial motorcycle;
+(d)
+category L4e vehicle (two-wheel motorcycle with side-car);
+(e)
+category L5e vehicle (powered tricycle), sub-categorised into:
+(i)
+L5e-A vehicle (tricycle): vehicle mainly designed for passenger transport;
+(ii)
+L5e-B vehicle (commercial tricycle): utility tricycle exclusively designed for the carriage of goods;
+(f)
+category L6e vehicle (light quadricycle), sub-categorised into:
+(i)
+L6e-A vehicle (light on-road quad);
+(ii)
+L6e-B vehicle (light quadri-mobile), further sub-categorised into:
+—
+L6e-BU vehicle (light quadri-mobile for utility purposes): utility vehicle exclusively designed for the carriage of goods,
+—
+L6e-BP vehicle (light quadri-mobile for passenger transport): vehicle mainly designed for passenger transport;
+(g)
+category L7e vehicle (heavy quadricycles), sub-categorised into:
+(i)
+L7e-A vehicle (heavy on-road quad) sub-categorised into:
+—
+L7e-A1: A1 on-road quad,
+—
+L7e-A2: A2 on-road quad;
+(ii)
+L7e-B vehicle (heavy all terrain quad), subcategorised into:
+—
+L7e-B1: all terrain quad,
+—
+L7e-B2: side-by-side buggy;
+(iii)
+L7e-C vehicle (heavy quadri-mobile), sub-categorised into:
+—
+L7e-CU vehicle (heavy quadri-mobile for utility purposes): utility vehicle exclusively designed for the carriage of goods,
+—
+L7e-CP vehicle (heavy quadri-mobile for passenger transport): vehicle mainly designed for passenger transport.
+3.   The L-category vehicles listed in paragraph 2 are further classified according to the propulsion of the vehicle:
+(a)
+propelled with an internal combustion engine:
+—
+compression ignition (CI),
+—
+positive ignition (PI);
+(b)
+propelled with an external combustion engine, a turbine or a rotary piston engine, whereby, for the purpose of complying with environmental and functional safety requirements, a vehicle equipped with such a propulsion is considered the same as a vehicle propelled with a PI internal combustion engine;
+(c)
+propelled by an engine that runs on pre-compressed air and does not emit higher levels of pollutants and/or inert gases than the levels present in ambient air, whereby, with regard to functional safety requirements and fuel storage and supply, such a vehicle is considered to be a vehicle operated on gaseous fuel;
+(d)
+propelled with an electric engine;
+(e)
+a hybrid vehicle that combines any propulsion configuration referred to in points (a), (b), (c) or (d) of this paragraph or any multiple combination of these propulsion configurations including multiple combustion and/or electric engines.
+4.   As regards the classification of L-category vehicles in paragraph 2, a vehicle that does not come under a certain category because it exceeds at least one of the criteria stipulated for that category falls into the next category whose criteria it meets. This applies to the following groups of categories and subcategories:
+(a)
+category L1e with its subcategories L1e-A and L1e-B and category L3e with its subcategories L3e-A1, L3e-A2 and L3e-A3;
+(b)
+category L2e and category L5e with its subcategories L5e-A and L5e-B;
+(c)
+category L6e with its subcategories L6e-A and L6e-B and category L7e with its subcategories L7e-A, L7e-B and L7e-C;
+(d)
+any other logical sequence of categories and/or subcategories proposed by the manufacturer and approved by the approval authority.
+5.   Notwithstanding the (sub-)classification criteria set out in paragraphs 1 to 4 of this Article and in Annex I, additional subcategories shall apply as set out in Annex V, in order to harmonise environmental test procedures at the international level by referring to UNECE regulations and UNECE global technical regulations.

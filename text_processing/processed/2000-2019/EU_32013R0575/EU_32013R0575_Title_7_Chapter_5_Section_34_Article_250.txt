@@ -1,0 +1,41 @@
+Article 250
+Treatment of maturity mismatches in synthetic securitisations
+For the purposes of calculating risk-weighted exposure amounts in accordance with Article 249, any maturity mismatch between the credit protection which constitutes a tranche and by which the transfer of risk is achieved and the securitised exposures shall be taken into consideration as follows:
+(a)
+the maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Chapter 4;
+(b)
+an originator institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to this Section with a risk weighting of 1 250 %. For all other tranches, the maturity mismatch treatment set out in Chapter 4 shall be applied in accordance with the following formula:
+
+
+
+
+
+where:
+RW*
+=
+risk-weighted exposure amounts for the purposes of Article 92(3)(a);
+RWAss
+
+=
+risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+RWSP
+
+=
+risk-weighted exposure amounts calculated under Article 249 if there was no maturity mismatch;
+T
+=
+maturity of the underlying exposures expressed in years;
+t
+=
+maturity of credit protection. expressed in years;
+t*
+=
+0,25.
+
+Sub-Section 3
+
+
+
+Calculation of risk-weighted exposure amounts under the Standardised Approach
+
+

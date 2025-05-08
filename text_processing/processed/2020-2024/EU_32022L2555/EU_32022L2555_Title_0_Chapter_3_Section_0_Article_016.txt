@@ -1,0 +1,21 @@
+Article 16
+European cyber crisis liaison organisation network (EU-CyCLONe)
+1.   EU-CyCLONe is established to support the coordinated management of large-scale cybersecurity incidents and crises at operational level and to ensure the regular exchange of relevant information among Member States and Union institutions, bodies, offices and agencies.
+2.   EU-CyCLONe shall be composed of the representatives of Member States’ cyber crisis management authorities as well as, in cases where a potential or ongoing large-scale cybersecurity incident has or is likely to have a significant impact on services and activities falling within the scope of this Directive, the Commission. In other cases, the Commission shall participate in the activities of EU-CyCLONe as an observer.
+ENISA shall provide the secretariat of EU-CyCLONe and support the secure exchange of information as well as provide necessary tools to support cooperation between Member States ensuring secure exchange of information.
+Where appropriate, EU-CyCLONe may invite representatives of relevant stakeholders to participate in its work as observers.
+3.   EU-CyCLONe shall have the following tasks:
+(a)
+to increase the level of preparedness of the management of large-scale cybersecurity incidents and crises;
+(b)
+to develop a shared situational awareness for large-scale cybersecurity incidents and crises;
+(c)
+to assess the consequences and impact of relevant large-scale cybersecurity incidents and crises and propose possible mitigation measures;
+(d)
+to coordinate the management of large-scale cybersecurity incidents and crises and support decision-making at political level in relation to such incidents and crises;
+(e)
+to discuss, upon the request of a Member State concerned, national large-scale cybersecurity incident and crisis response plans referred to in Article 9(4).
+4.   EU-CyCLONe shall adopt its rules of procedure.
+5.   EU-CyCLONe shall report on a regular basis to the Cooperation Group on the management of large-scale cybersecurity incidents and crises, as well as trends, focusing in particular on their impact on essential and important entities.
+6.   EU-CyCLONe shall cooperate with the CSIRTs network on the basis of agreed procedural arrangements provided for in Article 15(6).
+7.   By 17 July 2024 and every 18 months thereafter, EU-CyCLONe shall submit to the European Parliament and to the Council a report assessing its work.

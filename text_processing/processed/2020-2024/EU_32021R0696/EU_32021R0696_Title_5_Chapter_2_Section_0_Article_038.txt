@@ -1,0 +1,47 @@
+Article 38
+Tasks of the Security Accreditation Board
+1.   The Security Accreditation Board shall perform its tasks without prejudice to the responsibilities of the Commission or to those entrusted to the Agency’s other bodies, in particular for matters relating to security, and without prejudice to the competences of the Member States as regards security accreditation.
+2.   The Security Accreditation Board shall have the following tasks:
+(a)
+defining and approving a security accreditation strategy which sets out:
+(i)
+the scope of the activities necessary to perform and maintain the accreditation of the Programme’s components or parts of those components and any interconnections between them and other systems or components;
+(ii)
+a security accreditation process for the Programme’s components or parts of those components, with a degree of detail commensurate with the required level of assurance and clearly stating the accreditation conditions;
+(iii)
+the role of relevant stakeholders involved in the accreditation process;
+(iv)
+an accreditation schedule that complies with the phases of the Programme’s components, in particular as regards the deployment of infrastructure, service provision and evolution;
+(v)
+the principles of security accreditation for networks connected to systems set up under the Programme’s components or for parts of those components, and for equipment connected to systems established by those components, which shall be performed by the national entities of the Member States competent in security matters;
+(b)
+taking decisions on security accreditation, in particular on the approval of satellite launches, the authorisation to operate the systems set up under the Programme’s components or the elements of those components in their different configurations and for the various services they provide, up to and including the signal in space, and the authorisation to operate the ground stations;
+(c)
+taking decisions concerning the networks and the equipment connected to the PRS service referred to in Article 45, or connected to any other secure service stemming from the Programme’s components, only on the authorisation of bodies to develop or manufacture sensitive PRS technologies, PRS receivers or PRS security modules, or any other technology or equipment which has to be checked under the general security requirements referred to in Article 34(2), taking into account the advice provided by national entities competent in security matters and the overall security risks;
+(d)
+examining and, except as regards documents which the Commission is to adopt under Article 34(2) of this Regulation and Article 8 of Decision No 1104/2011/EU, approving all documentation relating to security accreditation;
+(e)
+advising, within its field of competence, the Commission on the production of draft texts for acts referred to in Article 34(2) of this Regulation and Article 8 of Decision No 1104/2011/EU, including for the establishment of security operating procedures, and providing a statement with its concluding position;
+(f)
+examining and approving the security risk assessment drawn up in accordance with the monitoring process referred to in point (h) of Article 37 of this Regulation, taking into account compliance with the documents referred to in point (c) of this paragraph and those drawn up in accordance with Article 34(2) of this Regulation, and with Article 8 of Decision No 1104/2011/EU; and cooperating with the Commission to define risk mitigation measures;
+(g)
+checking the implementation of security measures in relation to the security accreditation of the Programme’s components by undertaking or sponsoring security assessments, inspections, audits or reviews, in accordance with Article 42(2) of this Regulation;
+(h)
+endorsing the selection of approved products and measures which protect against electronic eavesdropping (TEMPEST) and of approved cryptographic products used to provide security for the Programme’s components;
+(i)
+approving or, where relevant, participating in the joint approval, together with the relevant entities competent in security matters, of the interconnection between the systems established under the Programme’s components or under parts of those components and other systems;
+(j)
+agreeing with the relevant Member State on the template for access control referred to in Article 42(4);
+(k)
+preparing risk reports and informing the Commission, the Administrative Board and the Executive Director of its risk assessment and advising them on residual risk treatment options for a given decision on security accreditation;
+(l)
+assisting, in close liaison with the Commission, the Council and the High Representative, with the implementation of Decision (CFSP) 2021/698 upon a specific request from the Council or the High Representative;
+(m)
+carrying out consultations which are necessary to perform its tasks;
+(n)
+adopting and publishing its rules of procedure.
+3.   Without prejudice to the powers and responsibilities of the Member States, a special subordinate body representing the Member States shall be set up under the supervision of the Security Accreditation Board to perform in particular the following tasks:
+(a)
+the management of the Programme flight keys;
+(b)
+the verification, monitoring and assessment of the establishment and enforcement of procedures for accounting, secure handling, storage, distribution and disposal of the PRS keys of Galileo.

@@ -1,0 +1,65 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘security’ means security as defined in point 32 of Article 2 of Directive 2009/73/EC;
+(2)
+‘customer’ means customer as defined in point 24 of Article 2 of Directive 2009/73/EC;
+(3)
+‘household customer’ means household customer as defined in point 25 of Article 2 of Directive 2009/73/EC;
+(4)
+‘essential social service’ means a service related to healthcare, essential social care, emergency, security, education or public administration;
+(5)
+‘protected customer’ means a household customer who is connected to a gas distribution network and, in addition, where the Member State concerned so decides, may also mean one or more of the following, provided that enterprises or services as referred to in points (a) and (b) do not, jointly, represent more than 20 % of the total annual final gas consumption in that Member State:
+(a)
+a small or medium-sized enterprise, provided that it is connected to a gas distribution network;
+(b)
+an essential social service, provided that it is connected to a gas distribution or transmission network;
+(c)
+a district heating installation to the extent that it delivers heating to household customers, small or medium-sized enterprises, or essential social services, provided that such installation is not able to switch to other fuels than gas;
+(6)
+‘solidarity protected customer’ means a household customer who is connected to a gas distribution network, and, in addition, may include one or both of the following:
+(a)
+a district heating installation if it is a protected customer in the relevant Member State and only in so far as it delivers heating to households or essential social services other than educational and public administration services;
+(b)
+an essential social service if it is a protected customer in the relevant Member State, other than educational and public administration services;
+(7)
+‘competent authority’ means a national governmental authority or a national regulatory authority designated by a Member State to ensure the implementation of the measures provided for in this Regulation;
+(8)
+‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC;
+(9)
+‘natural gas undertaking’ means natural gas undertaking as defined in point 1 of Article 2 of Directive 2009/73/EC;
+(10)
+‘gas supply contract’ means gas supply contract as defined in point 34 of Article 2 of Directive 2009/73/EC;
+(11)
+‘transmission’ means transmission as defined in point 3 of Article 2 of Directive 2009/73/EC;
+(12)
+‘transmission system operator’ means transmission system operator as defined in point 4 of Article 2 of Directive 2009/73/EC;
+(13)
+‘distribution’ means distribution as defined in point 5 of Article 2 of Directive 2009/73/EC;
+(14)
+‘distribution system operator’ means distribution system operator as defined in point 6 of Article 2 of Directive 2009/73/EC;
+(15)
+‘interconnector’ means interconnector as defined in point 17 of Article 2 of Directive 2009/73/EC;
+(16)
+‘emergency supply corridors’ means Union gas supply routes that help Member States to better mitigate the effects of potential disruption of supply or infrastructure;
+(17)
+‘storage capacity’ means storage capacity as defined in point 28 of Article 2 of Regulation (EC) No 715/2009;
+(18)
+‘technical capacity’ means technical capacity as defined in point 18 of Article 2 of Regulation (EC) No 715/2009;
+(19)
+‘firm capacity’ means firm capacity as defined in point 16 of Article 2 of Regulation (EC) No 715/2009;
+(20)
+‘interruptible capacity’ means interruptible capacity as defined in point 13 of Article 2 of Regulation (EC) No 715/2009;
+(21)
+‘LNG facility capacity’ means LNG facility capacity as defined in point 24 of Article 2 of Regulation (EC) No 715/2009;
+(22)
+‘LNG facility’ means LNG facility as defined in point 11 of Article 2 of Directive 2009/73/EC;
+(23)
+‘storage facility’ means storage facility as defined in point 9 of Article 2 of Directive 2009/73/EC;
+(24)
+‘system’ means system as defined in point 13 of Article 2 of Directive 2009/73/EC;
+(25)
+‘system user’ means system user as defined in point 23 of Article 2 of Directive 2009/73/EC;
+(26)
+‘ancillary services’ means ancillary services as defined in point 14 of Article 2 of Directive 2009/73/EC.

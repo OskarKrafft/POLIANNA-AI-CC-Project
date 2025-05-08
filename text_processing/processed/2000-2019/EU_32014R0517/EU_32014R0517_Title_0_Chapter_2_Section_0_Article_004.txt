@@ -1,0 +1,41 @@
+Article 4
+Leak checks
+1.   Operators of equipment that contains fluorinated greenhouse gases in quantities of 5 tonnes of CO2 equivalent or more and not contained in foams shall ensure that the equipment is checked for leaks.
+Hermetically sealed equipment that contains fluorinated greenhouse gases in quantities of less than 10 tonnes of CO2 equivalent, shall not be subject to leak checks under this Article, provided the equipment is labelled as hermetically sealed.
+Electrical switchgear shall not be subject to leak checks under this Article provided it complies with one of the following conditions:
+(a)
+it has a tested leakage rate of less than 0,1 % per year as set out in the technical specification of the manufacturer and is labelled accordingly;
+(b)
+it is equipped with a pressure or density monitoring device; or
+(c)
+it contains less than 6 kg of fluorinated greenhouse gases.
+2.   Paragraph 1 applies to operators of the following equipment that contains fluorinated greenhouse gases:
+(a)
+stationary refrigeration equipment;
+(b)
+stationary air-conditioning equipment;
+(c)
+stationary heat pumps;
+(d)
+stationary fire protection equipment;
+(e)
+refrigeration units of refrigerated trucks and trailers;
+(f)
+electrical switchgear;
+(g)
+organic Rankine cycles.
+As regards the equipment referred to in points (a) to (e) of the first subparagraph, the checks shall be carried out by natural persons certified in accordance with the rules provided for in Article 10.
+By way of derogation from the first subparagraph of paragraph 1, until 31 December 2016, equipment that contains less than 3 kg of fluorinated greenhouse gases or hermetically sealed equipment, which is labelled accordingly and contains less than 6 kg of fluorinated greenhouse gases shall not be subject to leak checks.
+3.   The leak checks pursuant to paragraph 1 shall be carried out with the following frequency:
+(a)
+for equipment that contains fluorinated greenhouse gases in quantities of 5 tonnes of CO2 equivalent or more, but of less than 50 tonnes of CO2 equivalent: at least every 12 months; or where a leakage detection system is installed, at least every 24 months;
+(b)
+for equipment that contains fluorinated greenhouse gases in quantities of 50 tonnes of CO2 equivalent or more, but of less than 500 tonnes of CO2 equivalent: at least every six months or, where a leakage detection system is installed, at least every 12 months;
+(c)
+for equipment that contains fluorinated greenhouse gases in quantities of 500 tonnes of CO2 equivalent or more: at least every three months or, where a leakage detection system is installed, at least every six months.
+4.   Obligations of paragraph 1 for fire protection equipment as referred to in point (d) of paragraph 2 shall be considered to be fulfilled provided the following two conditions are met:
+(a)
+the existing inspection regime meets ISO 14520 or EN 15004 standards; and
+(b)
+the fire protection equipment is inspected as often as is required under paragraph 3.
+5.   The Commission may, by means of implementing acts, specify requirements for the leak checks to be carried out in accordance with paragraph 1 of this Article for each type of equipment referred to in that paragraph, identify those parts of the equipment most likely to leak and repeal acts adopted pursuant to Article 3(7) of Regulation (EC) No 842/2006. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24.

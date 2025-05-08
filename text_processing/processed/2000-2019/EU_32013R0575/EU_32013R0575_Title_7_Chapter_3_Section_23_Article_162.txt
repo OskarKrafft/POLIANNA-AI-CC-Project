@@ -1,0 +1,96 @@
+Article 162
+Maturity
+1.   Institutions that have not received permission to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures an M of 2,5 years.
+Alternatively, as part of the permission referred to in Article 143, the competent authorities shall decide on whether the institution shall use maturity (M) for each exposure as set out under paragraph 2.
+2.   Institutions that have received the permission of the competent authority to use own LGDs and own conversion factors for exposures to corporates, institutions or central governments and central banks pursuant to Article 143 shall calculate M for each of these exposures as set out in points (a) to (e) of this paragraph and subject to paragraphs 3 to 5 of this Article. M shall be no greater than five years except in the cases specified in Article 384(1) where M as specified there shall be used:
+(a)
+for an instrument subject to a cash flow schedule, M shall be calculated according to the following formula:
+
+
+
+
+
+where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+(b)
+for derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exposure, where M shall be at least 1 year, and the notional amount of each exposure shall be used for weighting the maturity;
+(c)
+for exposures arising from fully or nearly-fully collateralised derivative instruments listed in Annex II and fully or nearly-fully collateralised margin lending transactions which are subject to a master netting agreement, M shall be the weighted average remaining maturity of the transactions where M shall be at least 10 days;
+(d)
+for repurchase transactions or securities or commodities lending or borrowing transactions which are subject to a master netting agreement, M shall be the weighted average remaining maturity of the transactions where M shall be at least five days. The notional amount of each transaction shall be used for weighting the maturity;
+(e)
+an institution that has received the permission of the competent authority pursuant to Article 143 to use own PD estimates for purchased corporate receivables, for drawn amounts M shall equal the purchased receivables exposure weighted average maturity, where M shall be at least 90 days. This same value of M shall also be used for undrawn amounts under a committed purchase facility provided the facility contains effective covenants, early amortisation triggers, or other features that protect the purchasing institution against a significant deterioration in the quality of the future receivables it is required to purchase over the facility's term. Absent such effective protections, M for undrawn amounts shall be calculated as the sum of the longest-dated potential receivable under the purchase agreement and the remaining maturity of the purchase facility, where M shall be at least 90 days;
+(f)
+for any other instrument than those mentioned in this paragraph or when an institution is not in a position to calculate M as set out in (a), M shall be the maximum remaining time (in years) that the obligor is permitted to take to fully discharge its contractual obligations, where M shall be at least 1 year;
+(g)
+for institutions using the Internal Model Method set out in Section 6 of Chapter 6 to calculate the exposure values, M shall be calculated for exposures to which they apply this method and for which the maturity of the longest-dated contract contained in the netting set is greater than one year according to the following formula:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+a dummy variable whose value at future period tk is equal to 0 if tk > 1 year and to 1 if tk ≤ 1;
+
+
+
+
+
+=
+the expected exposure at the future period tk;
+
+
+
+
+
+=
+the effective expected exposure at the future period tk;
+
+
+
+
+
+=
+the risk-free discount factor for future time period tk;
+
+
+
+;
+(h)
+an institution that uses an internal model to calculate a one-sided credit valuation adjustment (CVA) may use, subject to the permission of the competent authorities, the effective credit duration estimated by the internal model as M.
+Subject to paragraph 2, for netting sets in which all contracts have an original maturity of less than one year the formula in point (a) shall apply;
+(i)
+for institutions using the Internal Model Method set out in Section 6 of Chapter 6, to calculate the exposure values and having an internal model permission for specific risk associated with traded debt positions in accordance with Part Three, Title IV, Chapter 5, M shall be set to 1 in the formula laid out in Article 153(1), provided that an institution can demonstrate to the competent authorities that its internal model for Specific risk associated with traded debt positions applied in Article 383 contains effects of rating migrations;
+(j)
+for the purposes of Article 153(3), M shall be the effective maturity of the credit protection but at least 1 year.
+3.   Where the documentation requires daily re-margining and daily revaluation and includes provisions that allow for the prompt liquidation or set off of collateral in the event of default or failure to remargin, M shall be at least one-day for:
+(a)
+fully or nearly-fully collateralised derivative instruments listed in Annex II;
+(b)
+fully or nearly-fully collateralised margin lending transactions;
+(c)
+repurchase transactions, securities or commodities lending or borrowing transactions.
+In addition, for qualifying short-term exposures which are not part of the institution's ongoing financing of the obligor, M shall be at least one-day. Qualifying short term exposures shall include the following:
+(a)
+exposures to institutions arising from settlement of foreign exchange obligations;
+(b)
+self-liquidating short-term trade financing transactions connected to the exchange of goods or services with a residual maturity of up to one year as referred to in point (80) of Article 4(1);
+(c)
+exposures arising from settlement of securities purchases and sales within the usual delivery period or two business days;
+(d)
+exposures arising from cash settlements by wire transfer and settlements of electronic payment transactions and prepaid cost, including overdrafts arising from failed transactions that do not exceed a short, fixed agreed number of business days.
+4.   For exposures to corporates situated in the Union and having consolidated sales and consolidated assets of less than EUR 500 million, institutions may choose to consistently set M as set out in paragraph 1 instead of applying paragraph 2. Institutions may replace EUR 500 million total assets with EUR 1 000 million total assets for corporates which primarily own and let non-speculative residential property.
+5.   Maturity mismatches shall be treated as specified in Chapter 4.
+
+Sub-Section 2
+
+
+
+Retail exposures
+
+

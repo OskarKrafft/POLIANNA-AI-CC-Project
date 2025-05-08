@@ -1,0 +1,5 @@
+Article 4
+Obligations of the Member States
+1.   Member States shall grant, as appropriate, EC type-approval or national type-approval, with regard to emissions from air conditioning systems, only to vehicle types that satisfy the requirements of this Directive.
+2.   For the purpose of granting whole vehicle type-approval pursuant to Article 4(1)(a) of Directive 70/156/EEC, Member States shall ensure that manufacturers supply information on the type of refrigerant used in air-conditioning systems fitted to new motor vehicles.
+3.   For the purpose of type-approval of vehicles fitted with air-conditioning systems designed to contain a fluorinated greenhouse gas with a global warming potential higher than 150, Member States shall ensure that, in accordance with the harmonised leakage detection test referred to in Article 7(1), the leakage rate of such gases shall not exceed the maximum permissible limits laid down in Article 5.

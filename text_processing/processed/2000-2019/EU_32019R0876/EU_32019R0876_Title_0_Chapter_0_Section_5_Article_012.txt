@@ -1,0 +1,235 @@
+Article 282
+Calculation of the exposure value
+1.   Institutions may calculate a single exposure value for all the transactions within a contractual netting agreement where all the conditions set out in Article 274(1) are met. Otherwise, institutions shall calculate an exposure value separately for each transaction, which shall be treated as its own netting set.
+2.   The exposure value of a netting set or a transaction shall be the product of 1,4 times the sum of the current replacement cost and the potential future exposure.
+3.   The current replacement cost referred to in paragraph 2 shall be calculated as follows:
+(a)
+for netting sets of transactions: that are traded on a recognised exchange; centrally cleared by a central counterparty authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation; or for which collateral is exchanged bilaterally with the counterparty in accordance with Article 11 of Regulation (EU) No 648/2012, institutions shall use the following formula:
+RC = TH + MTA
+where:
+RC
+=
+the replacement cost;
+TH
+=
+the margin threshold applicable to the netting set under the margin agreement below which the institution cannot call for collateral; and
+MTA
+=
+the minimum transfer amount applicable to the netting set under the margin agreement;
+(b)
+for all other netting sets or individual transactions, institutions shall use the following formula:
+RC = max{CMV, 0}
+where:
+RC
+=
+the replacement cost; and
+CMV
+=
+the current market value.
+In order to calculate the current replacement cost, institutions shall update current market values at least monthly.
+4.   Institutions shall calculate the potential future exposure referred to in paragraph 2 as follows:
+(a)
+the potential future exposure of a netting set is the sum of the potential future exposure of all the transactions included in the netting set, calculated in accordance with point (b);
+(b)
+the potential future exposure of a single transaction is its notional amount multiplied by:
+(i)
+the product of 0,5 % and the residual maturity of the transaction expressed in years for interest-rate derivative contracts;
+(ii)
+the product of 6 % and the residual maturity of the transaction expressed in years for credit derivative contracts;
+(iii)
+4 % for foreign-exchange derivatives;
+(iv)
+18 % for gold and commodity derivatives other than electricity derivatives;
+(v)
+40 % for electricity derivatives;
+(vi)
+32 % for equity derivatives;
+(c)
+the notional amount referred to in point (b) of this paragraph shall be determined in accordance with Article 279b(2) and (3) for all derivatives listed in that point; in addition, the notional amount of the derivatives referred to in points (b)(iii) to (b)(vi) of this paragraph shall be determined in accordance with points (b) and (c) of Article 279b(1);
+(d)
+the potential future exposure of netting sets referred to in point (a) of paragraph 3 shall be multiplied by 0,42.
+For calculating the potential exposure of interest-rate derivatives and credit derivatives in accordance with points b(i) and (b)(ii), an institution may choose to use the original maturity instead of the residual maturity of the contracts.’;
+(75)
+in Article 283, paragraph 4 is replaced by the following:
+‘4.   For all OTC derivative transactions, and for long settlement transactions for which an institution has not received permission under paragraph 1 to use the IMM, the institution shall use the methods set out in Section 3. Those methods may be used in combination on a permanent basis within a group.’;
+(76)
+Article 298 is replaced by the following:
+‘Article 298
+Effects of recognition of netting as risk-reducing
+Netting for the purposes of Sections 3 to 6 shall be recognised as set out in those Sections.’;
+(77)
+in Article 299(2), point (a) is deleted;
+(78)
+Article 300 is amended as follows:
+(a)
+the introductory sentence is replaced by the following:
+
+                                          ‘For the purposes of this Section and of Part Seven, the following definitions apply:’;
+(b)
+the following points are added:
+‘(5)
+‘cash transaction’ means a transaction in cash, debt instruments or equities, a spot foreign exchange transaction or a spot commodities transaction; however, repurchase transactions, securities or commodities lending transactions, and securities or commodities borrowing transactions, are not cash transactions;
+(6)
+‘indirect clearing arrangement’ means an arrangement that meets the conditions set out in the second subparagraph of Article 4(3) of Regulation (EU) No 648/2012;
+(7)
+‘higher-level client’ means an entity providing clearing services to a lower-level client;
+(8)
+‘lower-level client’ means an entity accessing the services of a CCP through a higher-level client;
+(9)
+‘multi-level client structure’ means an indirect clearing arrangement under which clearing services are provided to an institution by an entity which is not a clearing member, but is itself a client of a clearing member or of a higher-level client;
+(10)
+‘unfunded contribution to a default fund’ means a contribution that an institution that acts as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members;
+(11)
+‘fully guaranteed deposit lending or borrowing transaction’ means a fully collateralised money market transaction in which two counterparties exchange deposits and a CCP interposes itself between them to ensure the performance of those counterparties' payment obligations.’;
+(79)
+Article 301 is replaced by the following:
+‘Article 301
+Material scope
+1.   This Section applies to the following contracts and transactions, for as long as they are outstanding with a CCP:
+(a)
+the derivative contracts listed in Annex II and credit derivatives;
+(b)
+securities financing transactions and fully guaranteed deposit lending or borrowing transactions; and
+(c)
+long settlement transactions.
+This Section does not apply to exposures arising from the settlement of cash transactions. Institutions shall apply the treatment laid down in Title V to trade exposures arising from those transactions and a 0 % risk weight to default fund contributions covering only those transactions. Institutions shall apply the treatment set out in Article 307 to default fund contributions that cover any of the contracts listed in the first subparagraph of this paragraph in addition to cash transactions.
+2.   For the purposes of this Section, the following requirements shall apply:
+(a)
+the initial margin shall not include contributions to a CCP for mutualised loss sharing arrangements;
+(b)
+the initial margin shall include collateral deposited by an institution acting as a clearing member or by a client in excess of the minimum amount required respectively by the CCP or by the institution acting as a clearing member, provided the CCP or the institution acting as a clearing member may, in appropriate cases, prevent the institution acting as a clearing member or the client from withdrawing such excess collateral;
+(c)
+where a CCP uses the initial margin to mutualise losses among its clearing members, institutions that act as clearing members shall treat that initial margin as a default fund contribution.’;
+(80)
+in Article 302, paragraph 2 is replaced by the following:
+‘2.   Institutions shall assess, through appropriate scenario analysis and stress testing, whether the level of own funds held against exposures to a CCP, including potential future or contingent credit exposures, exposures from default fund contributions and, where the institution is acting as a clearing member, exposures resulting from contractual arrangements as laid down in Article 304, adequately relates to the inherent risks of those exposures.’;
+(81)
+Article 303 is replaced by the following:
+‘Article 303
+Treatment of clearing members' exposures to CCPs
+1.   An institution that acts as a clearing member, either for its own purposes or as a financial intermediary between a client and a CCP, shall calculate the own funds requirements for its exposures to a CCP as follows:
+(a)
+it shall apply the treatment set out in Article 306 to its trade exposures with the CCP;
+(b)
+it shall apply the treatment set out in Article 307 to its default fund contributions to the CCP.
+2.   For the purposes of paragraph 1, the sum of an institution's own funds requirements for its exposures to a QCCP due to trade exposures and default fund contributions shall be subject to a cap equal to the sum of own funds requirements that would be applied to those same exposures if the CCP were a non-qualifying CCP.’;
+(82)
+Article 304 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   An institution that acts as a clearing member and, in that capacity, acts as a financial intermediary between a client and a CCP shall calculate the own funds requirements for its CCP-related transactions with that client in accordance with Sections 1 to 8 of this Chapter, with Section 4 of Chapter 4 of this Title and with Title VI, as applicable.’;
+(b)
+paragraphs 3, 4 and 5 are replaced by the following:
+‘3.   Where an institution that acts as a clearing member uses the methods set out in Section 3 or 6 of this Chapter to calculate the own funds requirement for its exposures, the following provisions shall apply:
+(a)
+by way of derogation from Article 285(2), the institution may use a margin period of risk of at least five business days for its exposures to a client;
+(b)
+the institution shall apply a margin period of risk of at least 10 business days for its exposures to a CCP;
+(c)
+by way of derogation from Article 285(3), where a netting set included in the calculation meets the condition set out in point (a) of that paragraph, the institution may disregard the limit set out in that point, provided that the netting set does not meet the condition set out in point (b) of that paragraph and does not contain disputed trades or exotic options;
+(d)
+where a CCP retains variation margin against a transaction, and the institution's collateral is not protected against the insolvency of the CCP, the institution shall apply a margin period of risk that is the lower of one year and the remaining maturity of the transaction, with a floor of 10 business days.
+4.   By way of derogation from point (i) of Article 281(2), where an institution that acts as a clearing member uses the method set out in Section 4 to calculate the own funds requirement for its exposures to a client, the institution may use a maturity factor of 0,21 for its calculation.
+5.   By way of derogation from point (d) of Article 282(4), where an institution that acts as a clearing member uses the method set out in Section 5 to calculate the own funds requirement for its exposures to a client, that institution may use a maturity factor of 0,21 in that calculation.’;
+(c)
+the following paragraphs are added:
+‘6.   An institution that acts as a clearing member may use the reduced exposure at default resulting from the calculations set out in paragraphs 3, 4 and 5 for the purposes of calculating its own funds requirements for CVA risk in accordance with Title VI.
+7.   An institution that acts as a clearing member that collects collateral from a client for a CCP-related transaction and passes the collateral on to the CCP may recognise that collateral to reduce its exposure to the client for that CCP-related transaction.
+In the case of a multi-level client structure, the treatment set out in the first subparagraph may be applied at each level of that structure.’;
+(83)
+Article 305 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   An institution that is a client shall calculate the own funds requirements for its CCP-related transactions with its clearing member in accordance with Sections 1 to 8 of this Chapter, with Section 4 of Chapter 4 of this Title and with Title VI, as applicable.’;
+(b)
+paragraph 2 is amended as follows:
+(i)
+point (c) is replaced by the following:
+‘(c)
+(ii)
+the following subparagraph is added:
+‘When assessing its compliance with the condition set out in point (b) of the first subparagraph, an institution may take into account any clear precedents of transfers of client positions and of corresponding collateral at a CCP, and any industry intent to continue with that practice.’;
+(c)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   By way of derogation from paragraph 2 of this Article, where an institution that is a client fails to meet the condition set out in point (a) of that paragraph because that institution is not protected from losses in case the clearing member and another client of the clearing member jointly default, provided that all the other conditions set out in points (a) to (d) of that paragraph are met, the institution may calculate the own funds requirements for its trade exposures for CCP-related transactions with its clearing member in accordance with Article 306, subject to replacing the 2 % risk weight set out in point (a) of Article 306(1) with a 4 % risk weight.
+4.   In the case of a multi-level client structure, an institution that is a lower-level client accessing the services of a CCP through a higher-level client may apply the treatment set out in paragraph 2 or 3 only where the conditions set out therein are met at every level of that structure.’;
+(84)
+Article 306 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (c) is replaced by the following:
+‘(c)
+(ii)
+the following point is added:
+‘(d)
+(b)
+paragraphs 2 and 3 are replaced by the following:
+‘2.   By way of derogation from paragraph 1, where assets posted as collateral to a CCP or a clearing member are bankruptcy remote in the event that the CCP, the clearing member or one or more of the other clients of the clearing member become insolvent, an institution may attribute an exposure value of zero to the counterparty credit risk exposures for those assets.
+3.   An institution shall calculate exposure values of its trade exposures with a CCP in accordance with Sections 1 to 8 of this Chapter and with Section 4 of Chapter 4, as applicable.’;
+(85)
+Article 307 is replaced by the following:
+‘Article 307
+Own funds requirements for contributions to the default fund of a CCP
+An institution that acts as a clearing member shall apply the following treatment to its exposures arising from its contributions to the default fund of a CCP:
+(a)
+it shall calculate the own funds requirement for its pre-funded contributions to the default fund of a QCCP in accordance with the approach set out in Article 308;
+(b)
+it shall calculate the own funds requirement for its pre-funded and unfunded contributions to the default fund of a non-qualifying CCP in accordance with the approach set out in Article 309;
+(c)
+it shall calculate the own funds requirement for its unfunded contributions to the default fund of a QCCP in accordance with the treatment set out in Article 310.’;
+(86)
+Article 308 is amended as follows:
+(a)
+paragraphs 2 and 3 are replaced by the following:
+‘2.   An institution shall calculate the own funds requirement to cover the exposure arising from its pre-funded contribution as follows:
+
+
+
+
+
+where:
+Ki
+
+=
+the own funds requirement;
+i
+=
+the index denoting the clearing member;
+KCCP
+
+=
+the hypothetical capital of the QCCP communicated to the institution by the QCCP in accordance with Article 50c of Regulation (EU) No 648/2012;
+DFi
+
+=
+the pre-funded contribution;
+DFCCP
+
+=
+the pre-funded financial resources of the CCP communicated to the institution by the CCP in accordance with Article 50c of Regulation (EU) No 648/2012; and
+DFCM
+
+=
+the sum of pre-funded contributions of all clearing members of the QCCP communicated to the institution by the QCCP in accordance with Article 50c of Regulation (EU) No 648/2012.
+3.   An institution shall calculate the risk-weighted exposure amounts for exposures arising from that institution's pre-funded contribution to the default fund of a QCCP for the purposes of Article 92(3) as the own funds requirement, calculated in accordance with paragraph 2 of this Article, multiplied by 12,5.’;
+(b)
+paragraphs 4 and 5 are deleted;
+(87)
+Articles 309, 310 and 311 are replaced by the following:
+‘Article 309
+Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+1.   An institution shall apply the following formula to calculate the own funds requirement for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP and from unfunded contributions to such CCP:
+ 
+K = DF + UC
+where:
+K
+=
+the own funds requirement;
+DF
+=
+the pre-funded contributions to the default fund of a non-qualifying CCP; and
+UC
+=
+the unfunded contributions to the default fund of a non-qualifying CCP.
+2.   An institution shall calculate the risk-weighted exposure amounts for exposures arising from that institution's contribution to the default fund of a non-qualifying CCP for the purposes of Article 92(3) as the own funds requirement, calculated in accordance with paragraph 1 of this Article, multiplied by 12,5.”;

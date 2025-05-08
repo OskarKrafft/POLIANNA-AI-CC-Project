@@ -1,0 +1,17 @@
+Article 16
+Authorisation
+1.   A person shall not make an offer to the public, or seek the admission to trading, of an asset-referenced token, within the Union, unless that person is the issuer of that asset-referenced token and is:
+(a)
+a legal person or other undertaking that is established in the Union and has been authorised in accordance with Article 21 by the competent authority of its home Member State; or
+(b)
+a credit institution that complies with Article 17.
+Notwithstanding the first subparagraph, upon the written consent of the issuer of an asset-referenced token, other persons may offer to the public or seek the admission to trading of that asset-referenced token. Those persons shall comply with Articles 27, 29 and 40.
+For the purposes of point (a) of the first subparagraph, other undertakings may issue asset-referenced tokens only if their legal form ensures a level of protection for third parties’ interests equivalent to that afforded by legal persons and if they are subject to equivalent prudential supervision appropriate to their legal form.
+2.   Paragraph 1 shall not apply where:
+(a)
+over a period of 12 months, calculated at the end of each calendar day, the average outstanding value of the asset-referenced token issued by an issuer never exceeds EUR 5 000 000, or the equivalent amount in another official currency, and the issuer is not linked to a network of other exempt issuers; or
+(b)
+the offer to the public of the asset-referenced token is addressed solely to qualified investors and the asset-referenced token can only be held by such qualified investors.
+Where this paragraph applies, issuers of asset-referenced tokens shall draw up a crypto-asset white paper as provided for in Article 19 and notify that crypto-asset white paper and, upon request, any marketing communications, to the competent authority of their home Member State.
+3.   The authorisation granted by the competent authority to a person referred to in paragraph 1, first subparagraph, point (a), shall be valid for the entire Union and shall allow an issuer of an asset-referenced token to offer to the public, throughout the Union, the asset-referenced token for which it has been authorised, or to seek an admission to trading of such asset-referenced token.
+4.   The approval granted by the competent authority of an issuer’s crypto-asset white paper under Article 17(1) or Article 21(1) or of the modified crypto-asset white paper under Article 25 shall be valid for the entire Union.

@@ -1,0 +1,7 @@
+Article 35
+Distinguishing between persons with similar characteristics
+Where it becomes apparent, when a new alert is entered, that there is already a person in SIS II with the same identity description element, the following procedure shall be followed:
+(a)
+the SIRENE Bureau shall contact the requesting authority to clarify whether or not the alert is on the same person;
+(b)
+if the cross-check reveals that the subject of the new alert and the person already in SIS II are indeed one and the same, the SIRENE Bureau shall apply the procedure for entering multiple alerts as referred to in Article 34(6). If the outcome of the check is that there are in fact two different persons, the SIRENE Bureau shall approve the request for entering the second alert by adding the necessary elements to avoid any misidentification.

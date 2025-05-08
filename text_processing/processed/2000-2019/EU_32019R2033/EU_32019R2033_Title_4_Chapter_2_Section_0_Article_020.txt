@@ -1,0 +1,18 @@
+Article 20
+Measuring COH for the purpose of calculating K‐COH
+1.   For the purpose of calculating K‐COH, COH shall be the rolling average of the value of the total daily client orders handled, measured throughout each business day over the previous six months, excluding the three most recent months.
+COH shall be the arithmetic mean of the daily values from the remaining three months.
+K‐COH shall be calculated on the first business day of each month.
+2.   COH shall be measured as the sum of the absolute value of buys and the absolute value of sells for both cash trades and derivatives in accordance with the following:
+(a)
+for cash trades, the value is the amount paid or received on each trade;
+(b)
+for derivatives, the value of the trade is the notional amount of the contract.
+The notional amount of interest rate derivatives shall be adjusted for the time to maturity (in years) of those contracts. The notional amount shall be multiplied by the duration set out in the following formula:
+Duration = time to maturity(in years) / 10
+Without prejudice to the fifth subparagraph, COH shall include transactions executed by investment firms providing portfolio management services on behalf of investment funds.
+COH shall include transactions which arise from investment advice in respect of which an investment firm does not calculate K‐AUM.
+COH shall exclude transactions handled by the investment firm that arise from the servicing of a client’s investment portfolio where the investment firm already calculates K‐AUM in respect of that client’s investments or where that activity relates to the delegation of management of assets to the investment firm not contributing to the AUM of that investment firm by virtue of Article 17(2).
+COH shall exclude transactions executed by the investment firm in its own name either for itself or on behalf of a client.
+Investment firms may exclude from the measurement of COH any orders which have not been executed, where such non‐execution is due to the timely cancellation of the order by the client.
+3.   Where an investment firm has been handling client orders for less than six months, or has done so for a longer period as a small and non‐interconnected investment firm, it shall use historical data for COH for the period specified under paragraph 1 as soon as such data becomes available to calculate K‐COH. The competent authority may replace missing historical data points by regulatory determinations based on the business projections of the investment firm submitted in accordance with Article 7 of Directive 2014/65/EU.

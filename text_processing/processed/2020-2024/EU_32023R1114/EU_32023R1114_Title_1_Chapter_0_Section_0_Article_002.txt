@@ -1,0 +1,40 @@
+Article 2
+Scope
+1.   This Regulation applies to natural and legal persons and certain other undertakings that are engaged in the issuance, offer to the public and admission to trading of crypto-assets or that provide services related to crypto-assets in the Union.
+2.   This Regulation does not apply to:
+(a)
+persons who provide crypto-asset services exclusively for their parent companies, for their own subsidiaries or for other subsidiaries of their parent companies;
+(b)
+a liquidator or an administrator acting in the course of an insolvency procedure, except for the purposes of Article 47;
+(c)
+the ECB, central banks of the Member States when acting in their capacity as monetary authorities, or other public authorities of the Member States;
+(d)
+the European Investment Bank and its subsidiaries;
+(e)
+the European Financial Stability Facility and the European Stability Mechanism;
+(f)
+public international organisations.
+3.   This Regulation does not apply to crypto-assets that are unique and not fungible with other crypto-assets.
+4.   This Regulation does not apply to crypto-assets that qualify as one or more of the following:
+(a)
+financial instruments;
+(b)
+deposits, including structured deposits;
+(c)
+funds, except if they qualify as e-money tokens;
+(d)
+securitisation positions in the context of a securitisation as defined in Article 2, point (1), of Regulation (EU) 2017/2402;
+(e)
+non-life or life insurance products falling within the classes of insurance listed in Annexes I and II to Directive 2009/138/EC of the European Parliament and of the Council (27) or reinsurance and retrocession contracts referred to in that Directive;
+(f)
+pension products that, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement and that entitle the investor to certain benefits;
+(g)
+officially recognised occupational pension schemes falling within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council (28) or Directive 2009/138/EC;
+(h)
+individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;
+(i)
+a pan-European Personal Pension Product as defined in Article 2, point (2), of Regulation (EU) 2019/1238 of the European Parliament and of the Council (29);
+(j)
+social security schemes covered by Regulations (EC) No 883/2004 (30) and (EC) No 987/2009 of the European Parliament and of the Council (31).
+5.   By 30 December 2024, ESMA shall, for the purposes of paragraph 4, point (a), of this Article issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the conditions and criteria for the qualification of crypto-assets as financial instruments.
+6.   This Regulation shall be without prejudice to Regulation (EU) No 1024/2013.

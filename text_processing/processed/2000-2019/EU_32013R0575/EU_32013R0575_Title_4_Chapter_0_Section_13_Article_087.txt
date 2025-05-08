@@ -1,0 +1,14 @@
+Article 87
+Qualifying own funds included in consolidated own funds
+1.   Institutions shall determine the amount of qualifying own funds of a subsidiary that is included in consolidated own funds by subtracting from the qualifying own funds of that undertaking the result of multiplying the amount referred to in point (a) by the percentage referred to in point (b):
+(a)
+the own funds of the subsidiary minus the lower of the following:
+(i)
+the amount of own funds of the subsidiary required to meet the sum of the requirement laid down in point (c) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory regulations in third countries;
+(ii)
+the amount of own funds that relates to the subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in point (c) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory own funds requirement in third countries;
+(b)
+the qualifying own funds of the undertaking, expressed as a percentage of all own funds instruments of the subsidiary that are included in Common Equity Tier 1, Additional Tier 1 and Tier 2 items and the related share premium accounts, the retained earnings and other reserves.
+2.   The calculation referred to in paragraph 1 shall be undertaken on a sub-consolidated basis for each subsidiary referred to in Article 81(1).
+An institution may choose not to undertake this calculation for a subsidiary referred to in Article 81(1). Where an institution takes such a decision, the qualifying own funds of that subsidiary may not be included in consolidated own funds.
+3.   Where a competent authority derogates from the application of prudential requirements on an individual basis, as laid down in Article 7, own funds instruments within the subsidiaries to which the waiver is applied shall not be recognised in own funds at the sub-consolidated or at the consolidated level, as applicable.

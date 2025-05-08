@@ -1,0 +1,23 @@
+Article 148
+Electronic exchange systems
+1.   All exchanges with recipients, including the entering into legal commitments and any amendments thereto, may be done through electronic exchange systems.
+2.   Electronic exchange systems shall satisfy the following conditions:
+(a)
+only authorised persons may have access to the system and to documents transmitted through it;
+(b)
+only authorised persons may electronically sign or transmit a document through the system;
+(c)
+authorised persons are identified through the system by established means;
+(d)
+the time and date of the electronic transaction are determined precisely;
+(e)
+the integrity of documents is preserved;
+(f)
+the availability of documents is preserved;
+(g)
+where appropriate, the confidentiality of documents is preserved;
+(h)
+the protection of personal data in accordance with Regulation (EC) No 45/2001 is ensured.
+3.   Data sent or received through such a system shall enjoy legal presumption of the integrity of the data and the accuracy of the date and time of sending or receiving the data indicated by the system.
+A document sent or notified through such a system shall be considered as equivalent to a paper document, shall be admissible as evidence in legal proceedings, shall be deemed original and shall enjoy legal presumption of its authenticity and integrity, provided that the document does not contain any dynamic features capable of automatically changing it.
+The electronic signatures referred to in point (b) of paragraph 2 shall have a legal effect equivalent to handwritten signatures.

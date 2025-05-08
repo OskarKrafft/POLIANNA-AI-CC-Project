@@ -1,0 +1,9 @@
+Article 10
+Access to traffic and travel information
+1.   Infrastructure managers shall distribute real-time data relating to the arrival and the departure of trains to railway undertakings, ticket vendors, tour operators and station managers.
+2.   Railway undertakings shall provide other railway undertakings, ticket vendors and tour operators that sell their services with access to minimum travel information set out in Annex II, Parts I and II, and to the operations on reservation systems referred to in Annex II, Part III.
+3.   Information shall be distributed and access shall be granted in a non-discriminatory manner and without undue delay. A one-off request shall be sufficient to have continuous access to information. The infrastructure manager and the railway undertaking obliged to make available information in accordance with paragraphs 1 and 2 may request the conclusion of a contract or other arrangement on whose basis information is distributed or access is granted.
+The terms and conditions of any contract or arrangement for the use of the information shall not unnecessarily restrict possibilities for its reuse or be used to restrict competition.
+Railway undertakings may require from other railway undertakings, tour operators and ticket vendors a fair, reasonable and proportionate financial compensation for the costs incurred in providing the access, and infrastructure managers may require compensation in accordance with the applicable rules.
+4.   Information shall be distributed and access shall be provided by appropriate technical means, such as application programming interfaces.
+5.   To the extent that the information covered by paragraphs 1 or 2 is provided in accordance with other Union legal acts, in particular Commission Delegated Regulation (EU) 2017/1926 (14), the corresponding obligations under this Article shall be deemed to have been complied with.

@@ -1,0 +1,50 @@
+Article 8
+Additional elements to be taken into account for assessing the safety of products
+1.   For the purpose of Article 6 and where the presumption of safety under Article 7 does not apply, when assessing whether a product is safe, the following elements in particular shall be taken into account, when available:
+(a)
+European standards other than those the references of which have been published in the Official Journal of the European Union in accordance with Article 10(7) of Regulation (EU) No 1025/2012;
+(b)
+international standards;
+(c)
+international agreements;
+(d)
+voluntary certification schemes or similar third-party conformity assessment frameworks, in particular those conceived to support Union law;
+(e)
+Commission recommendations or guidelines on product safety assessment;
+(f)
+national standards drawn up in the Member State in which the product is made available;
+(g)
+the state of the art and technology, including the opinion of recognised scientific bodies and expert committees;
+(h)
+product safety codes of good practice in force in the sector concerned;
+(i)
+reasonable consumer expectations concerning safety;
+(j)
+safety requirements adopted in accordance with Article 7(2).
+Obligations of manufacturers
+1.   When placing their products on the market, manufacturers shall ensure that those products have been designed and manufactured in accordance with the general safety requirement laid down in Article 5.
+2.   Before placing their products on the market, manufacturers shall carry out an internal risk analysis and draw up technical documentation containing at least a general description of the product and its essential characteristics relevant for assessing its safety.
+Where appropriate with regard to possible risks related to the product, the technical documentation referred to in the first subparagraph shall also contain, as applicable:
+(a)
+an analysis of the possible risks related to the product and the solutions adopted to eliminate or mitigate such risks, including the outcome of any reports related to tests conducted by the manufacturer or by another party on their behalf; and
+(b)
+the list of any relevant European standards as referred to in Article 7(1), point (a), or the other elements referred to in Article 7(1), point (b) or Article 8, applied to meet the general safety requirement laid down in Article 5.
+Where any of the European standards, health and safety requirements or elements as referred to in Article 7(1) or Article 8 have been only partly applied, the manufacturers shall identify the parts which have been applied.
+3.   Manufacturers shall ensure that the technical documentation referred to in paragraph 2 is up to date. They shall keep that documentation at the disposal of the market surveillance authorities for a period of 10 years after the product has been placed on the market and make that documentation available to those authorities upon request.
+4.   Manufacturers shall ensure that procedures are in place for products produced in series to remain in conformity with the general safety requirement laid down in Article 5.
+5.   Manufacturers shall ensure that their products bear a type, batch or serial number or other element enabling the identification of the product and which is easily visible and legible for consumers, or, where the size or nature of the product does not allow it, that the required information is provided on the packaging or in a document accompanying the product.
+6.   Manufacturers shall indicate their name, their registered trade name or registered trade mark, their postal and electronic address and, where different, the postal or electronic address of the single contact point at which they can be contacted. That information shall be placed on the product or, where that is not possible, on its packaging or in a document accompanying the product.
+7.   Manufacturers shall ensure that their product is accompanied by clear instructions and safety information in a language which can be easily understood by consumers, as determined by the Member State in which the product is made available on the market. That requirement shall not apply where the product can be used safely and as intended by the manufacturer without such instructions and safety information.
+8.   Where a manufacturer considers or has reason to believe, on the basis of the information in that manufacturer’s possession, that a product which it has placed on the market is a dangerous product, the manufacturer shall immediately:
+(a)
+take the corrective measures necessary to bring in an effective manner the product into conformity, including a withdrawal or recall, as appropriate;
+(b)
+inform consumers thereof, in accordance with Article 35 or 36, or both; and
+(c)
+inform, through the Safety Business Gateway, the market surveillance authorities of the Member States in which the product has been made available on the market thereof.
+For the purposes of points (b) and (c) of the first subparagraph, the manufacturer shall give details, in particular, of the risk to the health and safety of consumers and of any corrective measure already taken, and, if available, of the quantity, by Member State, of products still circulating on the market.
+9.   The Commission shall ensure that the information meant to alert consumers can be provided by manufacturers through the Safety Business Gateway and is made available to consumers on the Safety Gate Portal without undue delay.
+10.   Manufacturers shall ensure that other economic operators, responsible persons, and providers of online marketplaces in the supply chain concerned are kept informed in a timely manner of any safety issue that they have identified.
+11.   Manufacturers shall make publicly available communication channels such as a telephone number, electronic address or dedicated section of their website, taking into account accessibility needs for persons with disabilities, enabling consumers to submit complaints and to inform manufacturers of any accident or safety issue they have experienced with a product.
+12.   Manufacturers shall investigate complaints submitted, and information received on accidents, that concern the safety of products they made available on the market and which have been alleged to be dangerous by the complainant, and shall keep an internal register of those complaints as well as of product recalls and any corrective measures taken to bring the product into conformity.
+13.   The internal register of complaints shall only store those personal data that are necessary for the manufacturer to investigate the complaint about an alleged dangerous product. Such data shall only be kept as long as is necessary for the purposes of the investigation and in any event no longer than five years after the data have been entered.

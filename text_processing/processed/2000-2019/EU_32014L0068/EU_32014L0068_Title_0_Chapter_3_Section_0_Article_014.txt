@@ -1,0 +1,51 @@
+Article 14
+Conformity assessment procedures
+1.   The conformity assessment procedures to be applied to an item of pressure equipment shall be determined by the category, as set out in Article 13, in which the equipment is classified.
+2.   The conformity assessment procedures to be applied for the various categories are the following:
+(a)
+category I:
+—
+Module A
+(b)
+category II:
+—
+Module A2
+—
+Module D1
+—
+Module E1
+(c)
+category III:
+—
+Modules B (design type) + D
+—
+Modules B (design type) + F
+—
+Modules B (production type) + E
+—
+Modules B (production type) + C2
+—
+Module H
+(d)
+category IV:
+—
+Modules B (production type) + D
+—
+Modules B (production type) + F
+—
+Module G
+—
+Module H1
+The conformity assessment procedures are set out in Annex III.
+3.   Pressure equipment shall be subject to one of the conformity assessment procedures which may be chosen by the manufacturer among those laid down for the category in which it is classified. The manufacturer may also choose to apply one of the procedures which apply to a higher category, if available.
+4.   In the framework of quality assurance procedures for pressure equipment in categories III and IV referred to in point (i) of point (a) of Article 4(1), first indent of point (ii) of point (a) of Article 4(1) and point (b) of Article 4(1), the notified body shall, when performing unexpected visits, take a sample of equipment from the manufacturing or storage premises in order to perform, or have performed, the final assessment as referred to in Annex I, point 3.2. To this end, the manufacturer shall inform the notified body of the intended schedule of production. The notified body shall carry out at least two visits during the first year of manufacturing. The frequency of subsequent visits shall be determined by the notified body on the basis of the criteria set out in point 4.4 of modules D, E and H and point 5.4 of module H1.
+5.   In the case of one-off production of vessels and pressure equipment in category III referred to in point (b) of Article 4(1) under the module H procedure, the notified body shall perform or have performed the final assessment, as referred to in point 3.2 of Annex I, for each unit. To this end, the manufacturer shall communicate the intended schedule of production to the notified body.
+6.   Assemblies referred to in Article 4(2) shall be subject to a global conformity assessment procedure comprising the following assessments:
+(a)
+the assessment of each item of pressure equipment making up the assembly and referred to in Article 4(1) which has not been previously subjected to a conformity assessment procedure and to a separate CE marking; the assessment procedure shall be determined by the category of each item of equipment;
+(b)
+the assessment of the integration of the various components of the assembly as referred to in points 2.3, 2.8 and 2.9 of Annex I which shall be determined by the highest category applicable to the equipment concerned other than that applicable to any safety accessories;
+(c)
+the assessment of the protection of an assembly against exceeding the permissible operating limits as referred to in points 2.10 and 3.2.3 of Annex I shall be conducted in the light of the highest category applicable to the items of equipment to be protected.
+7.   By way of derogation from paragraphs 1 and 2 of this Article, the competent authorities may, where justified, allow the making available on the market and putting into service in the territory of the Member State concerned of individual pressure equipment items and assemblies referred to in Article 2, in respect of which the procedures referred to in paragraphs 1 and 2 of this Article have not been applied and the use of which is in the interests of experimentation.
+8.   The records and correspondence relating to conformity assessment procedures shall be drafted in an official language of the Member State where the body responsible for carrying out these conformity assessment procedures is established, or in a language accepted by that body.

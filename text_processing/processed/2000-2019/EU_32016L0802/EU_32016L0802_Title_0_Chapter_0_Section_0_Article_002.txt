@@ -1,0 +1,54 @@
+Article 2
+Definitions
+For the purpose of this Directive the following definitions shall apply:
+(a)
+‘heavy fuel oil’ means:
+(i)
+any petroleum-derived liquid fuel, excluding marine fuel, falling within CN codes 2710 19 51 to 2710 19 68, 2710 20 31, 2710 20 35 or 2710 20 39; or
+(ii)
+any petroleum-derived liquid fuel, other than gas oil as defined in point (b) and other than marine fuels as defined in points (c), (d) and (e), which, by reason of its distillation limits, falls within the category of heavy oils intended for use as fuel and of which less than 65 % by volume (including losses) distils at 250 °C by the ASTM D86 method. If the distillation cannot be determined by the ASTM D86 method, the petroleum product is likewise categorised as a heavy fuel oil;
+(b)
+‘gas oil’ means:
+(i)
+any petroleum-derived liquid fuel, excluding marine fuel, falling within CN codes 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 or 2710 20 19; or
+(ii)
+any petroleum-derived liquid fuel, excluding marine fuel, of which less than 65 % by volume (including losses) distils at 250 °C and of which at least 85 % by volume (including losses) distils at 350 °C by the ASTM D86 method.
+Diesel fuels as defined in point 2 of Article 2 of Directive 98/70/EC of the European Parliament and of the Council (13) are excluded from this definition. Fuels used in non-road mobile machinery and agricultural tractors are also excluded from this definition;
+(c)
+‘marine fuel’ means any petroleum-derived liquid fuel intended for use or in use on board a vessel, including those fuels defined in ISO 8217. It includes any petroleum-derived liquid fuel in use on board inland waterway vessels or recreational craft, as defined respectively in Article 2 of Directive 97/68/EC of the European Parliament and of the Council (14) and Article 1(3) of Directive 94/25/EC of the European Parliament and of the Council (15), when such vessels are at sea;
+(d)
+‘marine diesel oil’ means any marine fuel as defined for DMB grade in Table I of ISO 8217 with the exception of the reference to the sulphur content;
+(e)
+‘marine gas oil’ means any marine fuel as defined for DMX, DMA and DMZ grades in Table I of ISO 8217 with the exception of the reference to the sulphur content;
+(f)
+‘MARPOL’ means the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto;
+(g)
+‘Annex VI to MARPOL’ means the annex, entitled ‘Regulations for the Prevention of Air Pollution from Ships’, which the Protocol of 1997 added to MARPOL;
+(h)
+‘SOx Emission Control Areas’ means sea areas defined as such by the International Maritime Organisation (IMO) under Annex VI to MARPOL;
+(i)
+‘passenger ships’ means ships that carry more than 12 passengers, where a passenger is every person other than:
+(i)
+the master and the members of the crew or other person employed or engaged in any capacity on board a ship on the business of that ship; and
+(ii)
+a child under 1 year of age;
+(j)
+‘regular services’ means a series of passenger ship crossings operated so as to serve traffic between the same two or more ports, or a series of voyages from and to the same port without intermediate calls, either:
+(i)
+according to a published timetable; or
+(ii)
+with crossings so regular or frequent that they constitute a recognisable schedule;
+(k)
+‘warship’ means a ship belonging to the armed forces of a State, bearing the external marks distinguishing such ships of its nationality, under the command of an officer duly commissioned by the government of the State and whose name appears in the appropriate service list or its equivalent, and manned by a crew which is under regular armed forces discipline;
+(l)
+‘ships at berth’ means ships which are securely moored or anchored in a Union port while they are loading, unloading or hotelling, including the time spent when not engaged in cargo operations;
+(m)
+‘placing on the market’ means supplying or making available to third persons, against payment or free of charge, anywhere within Member States' jurisdictions, marine fuels for on-board combustion. It excludes supplying or making available marine fuels for export in ships' cargo tanks;
+(n)
+‘outermost regions’ means the French overseas departments, the Azores, Madeira and the Canary Islands, as set out in Article 349 TFEU;
+(o)
+‘emission abatement method’ means any fitting, material, appliance or apparatus to be fitted in a ship or other procedure, alternative fuel, or compliance method, used as an alternative to low sulphur marine fuel meeting the requirements set out in this Directive, that is verifiable, quantifiable and enforceable;
+(p)
+‘ASTM method’ means the methods laid down by the American Society for Testing and Materials in the 1976 edition of standard definitions and specifications for petroleum and lubricating products;
+(q)
+‘combustion plant’ means any technical apparatus in which fuels are oxidised in order to use the heat generated.

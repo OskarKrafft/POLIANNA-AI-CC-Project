@@ -1,0 +1,74 @@
+Article 21
+Access to information
+1.   Member States shall ensure that FIUs, regardless of their organisational status, have access to the information that they require to fulfil their tasks, including financial, administrative and law enforcement information. Member States shall ensure that FIUs have at least:
+(a)
+immediate and direct access to the following financial information:
+(i)
+information contained in the national centralised automated mechanisms in accordance with Article 16;
+(ii)
+information from obliged entities, including information on transfers of funds as defined in Article 3, point (9), of Regulation (EU) 2023/1113 and transfers of crypto-assets as defined in Article 3, point (10), of that Regulation;
+(iii)
+information on mortgages and loans;
+(iv)
+information contained in the national currency and currency exchange databases;
+(v)
+information on securities;
+(b)
+immediate and direct access to the following administrative information:
+(i)
+fiscal data, including data held by tax and revenue authorities as well as data obtained pursuant to Article 8(3a) of Council Directive 2011/16/EU (40);
+(ii)
+information on public procurement procedures for goods or services, or concessions;
+(iii)
+information from BARIS as referred to in Article 16, as well as from national real estate registers or electronic data retrieval systems and land and cadastral registers;
+(iv)
+information contained in national citizenship and population registers of natural persons;
+(v)
+information contained in national passports and visas registers;
+(vi)
+information contained in cross-border travel databases;
+(vii)
+information contained in commercial databases, including business and company registers and databases of politically exposed persons;
+(viii)
+information contained in national motor vehicles, aircraft and watercraft registers;
+(ix)
+information contained in national social security registers;
+(x)
+customs data, including cross-border physical transfers of cash;
+(xi)
+information contained in national weapons and arms registers;
+(xii)
+information contained in national beneficial ownership registers;
+(xiii)
+data available through the interconnection of central registers in accordance with Article 10(19);
+(xiv)
+information contained in registers of non-profit organisations;
+(xv)
+information held by national financial supervisors and regulators, in accordance with Article 61 and Article 67(2);
+(xvi)
+databases storing data on CO2 emission trading established pursuant to Commission Regulation (EU) No 389/2013 (41);
+(xvii)
+information on annual financial statements by companies;
+(xviii)
+national migration and immigration registers;
+(xix)
+information held by commercial courts;
+(xx)
+information held in insolvency databases and by insolvency practitioners;
+(xxi)
+information on funds and other assets frozen or immobilised pursuant to targeted financial sanctions;
+(c)
+direct or indirect access to the following law enforcement information:
+(i)
+any type of information or data which is already held by competent authorities in the context of preventing, detecting, investigating or prosecuting criminal offences;
+(ii)
+any type of information or data which is held by public authorities or by private entities in the context of preventing, detecting, investigating or prosecuting criminal offences and which is available to competent authorities without the taking of coercive measures under national law.
+The information referred to in point (c) of the first subparagraph shall include criminal records, information on investigations, information on the freezing or seizure of assets, or on other investigative or provisional measures and information on convictions and on confiscations.
+Member States may allow the restriction of access to the law enforcement information referred to in point (c) of the first subparagraph on a case-by-case basis, where the provision of such information is likely to jeopardise an ongoing investigation.
+2.   Access to the information listed in paragraph 1 shall be considered direct and immediate where the information is contained in an IT database, register or data retrieval system from which the FIU can retrieve the information without any intermediate steps, or where the following conditions are met:
+(a)
+the entities or authorities holding the information provide it expeditiously to FIUs; and
+(b)
+no entity, authority or third party is able to interfere with the requested data or the information to be provided.
+3.   Member States shall ensure that, whenever possible, the FIU is granted direct access to the information listed in paragraph 1, first subparagraph, point (c). In cases where FIU is provided with indirect access to information, the entity or authority holding the requested information shall provide it in a timely manner.
+4.   In the context of its functions, each FIU shall be able to request, obtain and use information from any obliged entity to perform its functions pursuant to Article 19(3) of this Directive, even if no prior report is filed pursuant to Article 69(1), the first subparagraph, point (a), or Article 70(1), of Regulation (EU) 2024/1624. Obliged entities shall not be obliged to comply with requests for information made pursuant to this paragraph when they concern information obtained in the situations referred to in Article 70(2) of that Regulation.

@@ -1,0 +1,51 @@
+Article 6
+Advanced vehicle systems for all motor vehicle categories
+1.   Motor vehicles shall be equipped with the following advanced vehicle systems:
+(a)
+intelligent speed assistance;
+(b)
+alcohol interlock installation facilitation;
+(c)
+driver drowsiness and attention warning;
+(d)
+advanced driver distraction warning;
+(e)
+emergency stop signal;
+(f)
+reversing detection; and
+(g)
+event data recorder.
+2.   Intelligent speed assistance shall meet the following minimum requirements:
+(a)
+it shall be possible for the driver to be made aware through the accelerator control, or through dedicated, appropriate and effective feedback, that the applicable speed limit is exceeded;
+(b)
+it shall be possible to switch off the system; information about the speed limit may still be provided, and intelligent speed assistance shall be in normal operation mode upon each activation of the vehicle master control switch;
+(c)
+the dedicated and appropriate feedback shall be based on speed limit information obtained through the observation of road signs and signals, based on infrastructure signals or electronic map data, or both, made available in-vehicle;
+(d)
+it shall not affect the possibility, for the drivers, of exceeding the system’s prompted vehicle speed;
+(e)
+its performance targets shall be set in order to avoid or minimise the error rate under real driving conditions.
+3.   Driver drowsiness and attention warning and advanced driver distraction warning systems shall be designed in such a way that those systems do not continuously record nor retain any data other than what is necessary in relation to the purposes for which they were collected or otherwise processed within the closed-loop system. Furthermore, those data shall not be accessible or made available to third parties at any time and shall be immediately deleted after processing. Those systems shall also be designed to avoid overlap and shall not prompt the driver separately and concurrently or in a confusing manner where one action triggers both systems.
+4.   Event data recorders shall meet the following requirements in particular:
+(a)
+the data that they are capable of recording and storing with respect of the period shortly before, during and immediately after a collision shall include the vehicle’s speed, braking, position and tilt of the vehicle on the road, the state and rate of activation of all its safety systems, 112-based eCall in-vehicle system, brake activation and relevant input parameters of the on-board active safety and accident avoidance systems, with high level of accuracy and ensured survivability of data;
+(b)
+they cannot be deactivated;
+(c)
+the way in which they are capable of recording and storing data shall be such that:
+(i)
+they operate on a closed-loop system;
+(ii)
+the data that they collect is anonymised and protected against manipulation and misuse; and
+(iii)
+the data that they collect enables precise vehicle type, variant and version, and in particular the active safety and accident avoidance systems fitted to the vehicle, to be identified; and
+(d)
+the data that they are capable of recording can be made available to national authorities, on the basis of Union or national law, only for the purpose of accident research and analysis, including for the purposes of type approval of systems and components and in compliance with Regulation (EU) 2016/679, over a standardised interface.
+5.   An event data recorder shall not be capable of recording and storing the last four digits of the vehicle indicator section of the vehicle identification number or any other information which could allow the individual vehicle itself, its owner or holder, to be identified.
+6.   The Commission shall adopt delegated acts in accordance with Article 12 supplementing this Regulation by laying down detailed rules concerning the specific test procedures and technical requirements for:
+(a)
+the type-approval of vehicles with regard to the advanced vehicle systems listed in paragraph 1;
+(b)
+the type-approval of the advanced vehicle systems listed in points (a), (f) and (g) of paragraph 1 as separate technical units.
+Those delegated acts shall be published at least 15 months before the applicable dates specified in Annex II.

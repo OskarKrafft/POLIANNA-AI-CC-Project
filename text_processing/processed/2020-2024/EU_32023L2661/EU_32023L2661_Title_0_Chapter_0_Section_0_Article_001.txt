@@ -1,0 +1,221 @@
+Article 1
+Amendments to Directive 2010/40/EU
+Directive 2010/40/EU is amended as follows:
+(1)
+in Article 1, the following paragraph is inserted:
+‘2a.   This Directive provides for the availability of data and the deployment of ITS services within the priority areas referred to in Article 2, with, for data, the specific geographical coverage set out in Annex III and, for ITS services, the specific geographical coverage set out in Annex IV.’
+(2)
+in Article 2, paragraph 1 is replaced by the following:
+‘1.   For the purposes of this Directive, the following shall constitute priority areas for the development and use of specifications and standards:
+(a)
+Priority area I: Information and mobility ITS services;
+(b)
+Priority area II: Travel, transport and traffic management ITS services;
+(c)
+Priority area III: Road safety and security ITS services;
+(d)
+Priority area IV: ITS services for cooperative, connected and automated mobility.’
+(3)
+Article 4 is amended as follows:
+(a)
+point (2) is replaced by the following:
+‘(2)
+“interoperability” means the capacity of systems and the underlying business processes to exchange data and share information and knowledge, making the continuity of ITS services possible;’;
+(b)
+point (4) is replaced by the following:
+‘(4)
+“ITS service” means the provision of an ITS application through a well-defined organisational and operational framework with the aim of contributing to user safety, efficiency, sustainable mobility or comfort, or of facilitating or supporting transport and travel operations;’;
+(c)
+point (14) is replaced by the following:
+‘(14)
+“road data” means data on road infrastructure characteristics, including fixed traffic signs and their regulatory safety attributes as well as infrastructure for recharging and for refuelling with alternative fuels;’;
+(d)
+point (18) is replaced by the following:
+‘(18)
+“standard” means standard as defined in Article 2(1) of Regulation (EU) No 1025/2012 of the European Parliament and of the Council (*1);
+
+(*1)  Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).’;"
+                        
+(e)
+the following points are added:
+‘(19)
+“cooperative intelligent transport systems” or “C-ITS” means intelligent transport systems that enable ITS users to interact and cooperate by exchanging secured and trusted messages, without any prior knowledge of each other and in a non-discriminatory manner;
+(20)
+“C-ITS service” means an ITS service provided through C-ITS;
+(21)
+“availability of data” means that data exists in a digital machine-readable format;
+(22)
+“national access point” or “NAP” means a digital interface set up by a Member State that constitutes a single point of access to data, as defined in specifications referred to in Article 6;
+(23)
+“accessibility of data” means that it is possible to request and to obtain data in a digital machine-readable format;
+(24)
+“multimodal digital mobility service” means a service providing information on traffic and travel data, such as the location of transport facilities, schedules, availability or fares for more than one transport mode, which may include features enabling the making of reservations, bookings or payments, or the issuing of tickets;
+(25)
+“underlying information” means information within the scope of this Directive that has been determined to be relevant for informing road and ITS users, in particular by road authorities where they are responsible for such information;
+(26)
+“primary road” means a road outside urban areas, designated by a Member State, that connects major cities or regions, or both, and that is not classified as part of the comprehensive trans-European road network or as a motorway.’;
+(4)
+the following article is inserted:
+‘Article 4a
+Working programme
+1.   By 21 December 2024, the Commission shall, after consulting the European ITS Advisory Group set up by Commission Decision of 4 May 2011
+                                        (*2) and relevant stakeholders, adopt an implementing act, establishing a working programme. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(4). The working programme shall include at least the following elements:
+(a)
+objectives and dates for its implementation every year, indicating for which work items specifications are to be developed in accordance with Article 6;
+(b)
+the data types which the Commission is considering adding to, or removing from, Annex III by the delegated acts referred to in Article 7(1a);
+(c)
+preparatory work to be carried out by the Commission in cooperation with stakeholders and Member States pursuant to Article 7(1).
+2.   Before each subsequent five-year extension of the power to adopt delegated acts in accordance with Article 12(2), the Commission shall adopt implementing acts establishing a new working programme, which shall include at least the elements referred to in paragraph 1, points (a) to (c). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(4).
+
+(*2)  Commission Decision of 4 May 2011 on setting up the European ITS Advisory Group (2011/C 135/03), (OJ C 135, 5.5.2011, p. 3).’;"
+                        
+(5)
+Article 5 is replaced by the following:
+‘Article 5
+Application of specifications to the deployment of ITS
+1.   Member States shall take the necessary measures to ensure that the specifications adopted by the Commission in accordance with Article 6 are applied to ITS applications and services when those ITS applications and services are deployed, in accordance with the principles in Annex II. This is without prejudice to the right of each Member State to decide on its deployment of such applications and services on its territory. This right is without prejudice to Article 6a.
+2.   Where relevant, Member States shall cooperate, including with relevant stakeholders, in respect of the priority areas, insofar as no specifications have been adopted with regard to those priority areas.
+3.   Member States shall also cooperate, for instance through Union supported coordination projects, and, where necessary, with relevant stakeholders, on operational aspects of the implementation of the specifications adopted by the Commission, such as standards and Union harmonised profiles, common definitions, common metadata, common quality requirements and aspects related to the interoperability of NAPs’ architectures, common data exchange conditions, secure access and common training and outreach activities. In respect of requirements for data providers, data users and ITS service providers set out in the specifications, Member States shall also cooperate on practices for assessing compliance with those requirements, on developing mechanisms for compliance enforcement and on issues concerning cross-border cooperation.’
+(6)
+Article 6 is amended as follows:
+(a)
+paragraph 5 is replaced by the following:
+‘5.   Without prejudice to the procedures set out by Directive (EU) 2015/1535 of the European Parliament and of the Council (*3), the specifications shall, where appropriate, state the situations in which Member States may, after notification to the Commission, establish additional rules for the provision of ITS services on all or part of their territory. Those rules shall not hinder interoperability.’
+
+(*3)  Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).’;"
+                        
+(b)
+paragraph 6 is replaced by the following:
+‘6.   The specifications shall, where appropriate, be based on any of the standards referred to in Article 8.
+The specifications shall include rules for setting parameters related to quality and suitability for use. As appropriate, and in particular where justified in the interest of safety and interoperability, the specifications shall include rules on conformity assessment and market surveillance, including a safeguard clause, in accordance with Decision No 768/2008/EC.
+The Member States may designate one or more bodies competent to carry out the assessment of compliance with the requirements set out in the specifications, subject to any specific rules on assessment laid down therein.
+The specifications shall comply with the principles set out in Annex II.’
+(c)
+the following paragraph is added:
+‘8.   The Commission shall adopt delegated acts in accordance with Article 12, laying down the specifications referred to in this Article. Those delegated acts shall not cover more than one priority area and shall be adopted for each of the priority actions.’
+(7)
+the following article is inserted:
+‘Article 6a
+Availability of data and deployment of ITS services
+1.   Member States shall ensure that, where the underlying information already exists, data are available for the geographical coverage for each data type set out in Annex III.
+Member States shall ensure that data corresponding to underlying information created or updated on or after the date set out in the third column of Annex III are made available without delay.
+Member States shall also ensure that, unless otherwise provided for in Annex III, other data corresponding to all existing underlying information, created or updated before the date set out in the fourth column of that Annex, are made available without delay after that date.
+Where no date is set out in the fourth column of Annex III, the applicable dates shall be defined by means of a delegated act adopted under Article 7.
+The deadlines pursuant to this paragraph shall apply only to existing infrastructure. For infrastructure completed at a later date, those deadlines shall be understood to be the dates of completion.
+Member States shall ensure the accessibility of those data via the NAPs by the same date.
+2.   Member States shall ensure that the ITS services specified in Annex IV are deployed for the geographical coverage as early as possible and, in any event, no later than the respective dates set out in that Annex.’
+(8)
+Article 7 is replaced by the following:
+‘Article 7
+Amendments to Annex III
+1.   Before adopting delegated acts under this Article, the Commission shall, as part of the recurrent consultation process and together with experts designated by Member States and with stakeholders, ascertain the maturity of descriptions for the digital content of data types which are to be made available in accordance with Article 6a and ensure the finalisation of appropriate preparatory work.
+1a.   Following a cost-benefit analysis and appropriate consultations and taking into account market and technological development throughout the Union, the Commission shall be empowered to adopt delegated acts in accordance with Article 12 in order to amend Annex III by:
+(a)
+adding data types which fall within the scope of one of the data categories or subcategories referred to in Annex III and which are listed in the specifications established pursuant to Article 6(8), where the availability of such data types brings, according to a cost-benefit analysis, substantial and clearly justified benefits and improvements in terms of transport sustainability, transport safety and security, or transport efficiency and management, and defining the applicable dates;
+(b)
+where clearly justified, removing data types from Annex III;
+(c)
+defining the applicable dates for data types listed in Annex III for cases in which as of 20 December 2023 no dates have been defined.
+2.   The delegated acts adopted under paragraph 1a of this Article shall be consistent with the data types set out in the latest working programme adopted in accordance with Article 4a. Those delegated acts shall relate, where relevant, to the digital content defined in the framework of the preparatory work referred to in paragraph 1 of this Article. Those delegated acts shall not cover more than one priority area.
+3.   The geographical coverage for a data type as referred to in paragraph 1a, points (a) and (c), shall be either the same as or more limited than that defined in Annex III for the categories or subcategories to which the data type belongs, following, where relevant, a stepwise approach.
+4.   The dates set out in the delegated acts referred to in paragraph 1a, points (a) and (c), shall:
+(a)
+as regards the third column of Annex III, not be earlier than the date two years after the entry into force of the delegated act concerned and shall, where relevant, follow a stepwise approach;
+(b)
+as regards the fourth column of Annex III, not be earlier than the date four years after the entry into force of the delegated act concerned.
+In the event that Annex III already specifies a date in the third column, the date for the fourth column shall:
+(a)
+not be earlier than the date two years after the date specified in the third column and not earlier than the date two years after the entry into force of the delegated act concerned;
+(b)
+with respect to static multimodal traffic data for EU-wide multimodal travel information services (location of identified access nodes) on the entire transport network of the EU, not be earlier than 31 December 2032.
+However, where the availability of existing data corresponding to information created or updated before the date set out in the third column of Annex III is not considered to be necessary on the ground that the corresponding information is getting outdated quickly, the delegated acts adopted pursuant to paragraph 1a, points (a) and (c) of this Article, may indicate in the fourth column of Annex III that the obligation laid down in Article 6a(1), fourth subparagraph, is not to apply to such data.
+5.   When adopting delegated acts pursuant to this Article, the Commission shall take into account the requirements of Regulation (EU) 2016/679 and Directive 2002/58/EC, in particular relating to the risk of interference with personal data, and the costs and human resources needed to make the relevant data available with a sufficient level of quality in order to ensure that those interferences, costs and resources, in particular those incurred by public authorities, are kept to a minimum. The Commission shall also consider the costs and administrative burden on private operators which may be required to provide the data.’
+(9)
+the following article is inserted:
+‘Article 7a
+Interim measures
+1.   Without prejudice to incident preparedness and response mechanisms, such as those established under Directive (EU) 2016/1148 of the European Parliament and of the Council (*4), the Commission may, at the request of a Member State or on its own initiative, in an emergency situation, adopt immediately applicable implementing acts laying down countermeasures to address the causes and consequences of that situation, such as the suspension of obligations within the scope of the priority areas set under Article 2. The Commission shall inform Member States as soon as possible when it considers that an emergency situation has occurred.
+2.   The Commission may adopt implementing acts in accordance with paragraph 1 only in the event of an unforeseen emergency situation arising from the availability or integrity of ITS services, which are the subject of specifications adopted in accordance with Article 6, being compromised, where such a situation is likely to compromise the safe and proper functioning of the Union transport system or has an adverse effect on road safety, and only where it cannot be expected that applying an incident response mechanism or modifying specifications in accordance with Article 6 will ensure a timely and effective response. The measures adopted by the Commission shall be strictly limited to addressing the causes and consequences of such emergency situations.
+3.   The adoption of interim measures in accordance with this Article is without prejudice to the competence of Member States to take action in an emergency situation relating to matters of national security or defence which affect ITS applications and services deployed on their territory.
+4.   The implementing acts referred to in paragraph 1 shall be adopted in accordance with the procedure referred to in Article 15(3). Those implementing acts shall have a period of validity of no more than 8 months. The Commission shall inform Member States when it considers that the emergency situation has ended. The Commission shall repeal those implementing acts once that situation has ended or when the Commission has amended the relevant specifications in order to remedy the situation, whichever comes first.
+
+(*4)  Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).’;"
+                        
+(10)
+Article 8 is replaced by the following:
+‘Article 8
+Standards
+1.   The necessary standards to provide for interoperability, compatibility and continuity for the deployment and operational use of ITS shall be developed in the priority areas and for the priority actions. To that effect, the Commission, after consulting the Committee referred to in Article 15, shall request the relevant standardisation bodies in accordance with the procedure laid down in Directive (EU) 2015/1535 of the European Parliament and of the Council (*5) to make every necessary effort to adopt these standards rapidly.
+2.   When issuing a mandate to the standardisation bodies, the principles set out in Annex II shall be observed as well as any functional provisions included in a specification adopted in accordance with Article 6.
+
+(*5)  Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).’;"
+                        
+(11)
+Article 10 is replaced by the following:
+‘Article 10
+Rules on data protection and privacy
+1.   Data that constitute personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679 of the European Parliament and of the Council (*6) shall be processed pursuant to this Directive only insofar as such processing is necessary for the performance of ITS applications, services and actions identified in Annex I of this Directive with a view to ensuring road safety or security, and enhanced traffic, mobility or incident management.
+2.   Where specifications adopted pursuant to Article 6 concern the processing of data that are personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679, they shall lay down the categories of those data and provide for appropriate personal data protection safeguards pursuant to Regulation (EU) 2016/679 and Directive 2002/58/EC. In such cases, the impact assessment referred to in Article 6(7) of this Directive shall include an analysis of the impact of such processing on the protection of natural persons with regard to the processing of personal data.
+3.   Where anonymisation is technically feasible, and the purposes of data processing can be achieved with anonymised data, anonymised data shall be used.
+4.   Where anonymisation is not technically feasible, or the purposes of data processing cannot be achieved with anonymised data, data shall be pseudonymised, provided that pseudonymisation is technically feasible and the purposes of data processing can be achieved with the use of pseudonymised data.
+
+(*6)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).;’
+                                       "
+                        
+(12)
+the following article is inserted:
+‘Article 10a
+EU C-ITS security credential management system
+The specifications for the priority area referred to in Article 2(1), point (d), to be adopted by the Commission in the exercise of its powers pursuant to Article 6(8), shall cover the EU C-ITS security credential management system referred to in point 4.3 of Annex I. The specifications for that system shall lay down the duties of the following roles:
+(a)
+C-ITS certificate policy authority;
+(b)
+C-ITS trust list manager;
+(c)
+C-ITS point of contact.
+The Commission shall be responsible for ensuring that the duties of those roles are executed.’
+(13)
+Article 12 is amended as follows:
+(a)
+paragraph 2 is replaced by the following:
+‘2.   The power to adopt delegated acts referred to in Articles 6 and 7 shall be conferred on the Commission for a period of five years from 20 December 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.’
+(b)
+paragraph 3 is replaced by the following:
+‘3.   The delegation of power referred to in Articles 6 and 7 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.’
+(c)
+paragraph 6 is replaced by the following:
+‘6.   A delegated act adopted pursuant to Article 6 or 7 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.’
+(14)
+Article 15 is replaced by the following:
+‘Article 15
+Committee procedure
+1.   The Commission shall be assisted by the European ITS Committee (EIC). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*7).
+2.   Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+3.   Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+4.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*7)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).’;"
+                        
+(15)
+Article 17 is replaced by the following:
+‘Article 17
+Reporting
+1.   Member States shall submit to the Commission by 21 March 2025 a report on the implementation of this Directive and of the delegated acts adopted on the basis thereof, as well as on their main national activities and projects regarding the priority areas and regarding the availability of data and services listed in Annexes III and IV.
+2.   The Commission shall adopt implementing acts laying down the template for the initial and progress reports, including a list of key performance indicators for assessing the implementation of this Directive and of the delegated and implementing acts adopted on the basis thereof. Those implementing acts shall, in the light of the principle of proportionality and on the basis of best practices, distinguish between mandatory key performance indicators to be included in the reports and additional indicators that may be included in such reports where appropriate. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(4).
+3.   Following the initial report, Member States shall report every three years on the progress made in the implementation of this Directive and of the delegated and implementing acts adopted on the basis thereof. The Commission shall ensure that the deadlines for reporting laid down in the delegated acts adopted on the basis of Article 6 are aligned with that frequency.
+4.   No later than 12 months after each of the deadlines for Member State reports falls due, the Commission shall submit a report to the European Parliament and to the Council on the progress made in the implementation of this Directive and of the delegated acts adopted on the basis thereof. The report shall be accompanied by an analysis of the functioning and implementation, of Articles 5 to 11 and Article 16, including of the financial resources used and required. The report shall also assess the need to amend this Directive, where appropriate.’
+(16)
+the following article is inserted:
+‘Article 18a
+Review
+By 31 December 2028, on the basis of the latest Commission report prepared in accordance with Article 17(4), the Commission shall review Article 6a, Article 7 and Annexes III and IV, and may, where appropriate, submit a proposal for amendment. In particular, the Commission may, on the basis of the progress made with regard to the availability and the accessibility of data and in the deployment of services, and taking into account their increased use through ITS applications, propose to adapt the geographical coverage of certain data types and services and add data types and services considered crucial for the further deployment of ITS.’
+(17)
+Annex I is replaced by the text set out in Annex I to this Directive;
+(18)
+Annex II is replaced by the text set out in Annex II to this Directive;
+(19)
+the text set out in Annex III to this Directive is added as Annex III;
+(20)
+the text set out in Annex IV to this Directive is added as Annex IV.

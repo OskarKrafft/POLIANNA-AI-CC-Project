@@ -1,0 +1,17 @@
+Article 48
+European register of authorised vehicle types
+1.   The Agency shall set up and keep a register of authorisations to place vehicle types on the market issued in accordance with Article 24. That register shall:
+(a)
+be public and electronically accessible;
+(b)
+comply with the common specifications referred to in paragraph 2;
+(c)
+be linked with relevant vehicle registers.
+2.   The Commission shall adopt common specifications for the register of authorised vehicle types relating to content, data format, functional and technical architecture, operating mode and rules for data input and consultation, by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3).
+3.   The register shall include at least the following elements for each type of vehicle:
+(a)
+technical characteristics, including those related to accessibility for persons with disabilities and persons with reduced mobility, of the type of vehicle as defined in the relevant TSIs;
+(b)
+the manufacturer's name;
+(c)
+the data of the authorisations related to the area of use for a vehicle type, including any restrictions or withdrawals.

@@ -1,0 +1,13 @@
+Article 13
+Reporting and exchange of information
+1.   The reporting and exchange of information shall be based on the Union Maritime Information and Exchange System (‘SafeSeaNet’) referred to in Article 22a(3) of and Annex III to Directive 2002/59/EC.
+2.   Member States shall ensure that the following information is reported electronically and within reasonable time in accordance with Directive 2010/65/EU:
+(a)
+the information on the actual time of arrival and time of departure of every ship falling within the scope of Directive 2002/59/EC which calls at a Union port, together with an identifier of the port concerned;
+(b)
+the information from the advance waste notification, as set out in Annex 2;
+(c)
+the information from the waste delivery receipt, as set out in Annex 3;
+(d)
+the information from the exemption certificate, as set out in Annex 5.
+3.   Member States shall ensure that the information listed in Article 5(2) is made electronically available through SafeSeaNet.

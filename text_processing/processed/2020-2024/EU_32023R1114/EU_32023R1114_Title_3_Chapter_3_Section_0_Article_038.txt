@@ -1,0 +1,22 @@
+Article 38
+Investment of the reserve of assets
+1.   Issuers of asset-referenced tokens that invest a part of the reserve of assets shall only invest those assets in highly liquid financial instruments with minimal market risk, credit risk and concentration risk. The investments shall be capable of being liquidated rapidly with minimal adverse price effect.
+2.   Units in an undertaking for collective investment in transferable securities (UCITS) shall be deemed to be assets with minimal market risk, credit risk and concentration risk for the purposes of paragraph 1, where that UCITS invests solely in assets as further specified by EBA in accordance with paragraph 5 and where the issuer of the asset-referenced token ensures that the reserve of assets is invested in such a way that the concentration risk is minimised.
+3.   The financial instruments in which the reserve of assets is invested shall be held in custody in accordance with Article 37.
+4.   All profits or losses, including fluctuations in the value of the financial instruments referred to in paragraph 1, and any counterparty or operational risks that result from the investment of the reserve of assets shall be borne by the issuer of the asset-referenced token.
+5.   EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory technical standards specifying the financial instruments that can be considered highly liquid and bearing minimal market risk, credit risk and concentration risk as referred to in paragraph 1. When specifying those financial instruments, EBA shall take into account:
+(a)
+the various types of assets that can be referenced by an asset-referenced token;
+(b)
+the correlation between the assets referenced by the asset-referenced token and the highly liquid financial instruments that the issuer might invest in;
+(c)
+the liquidity coverage requirement as referred to in Article 412 of Regulation (EU) No 575/2013 and as further specified in Commission Delegated Regulation (EU) 2015/61 (41);
+(d)
+constraints on concentration preventing the issuer from:
+(i)
+investing more than a certain percentage of reserve assets in highly liquid financial instruments with minimal market risk, credit risk and concentration risk issued by a single entity;
+(ii)
+holding in custody more than a certain percentage of crypto-assets or assets with crypto-asset service providers or credit institutions which belong to the same group, as defined in Article 2, point (11), of Directive 2013/34/EU of the European Parliament and of the Council (42), or investment firms.
+For the purposes of point (d)(i) of the first subparagraph, EBA shall devise suitable limits to determine concentration requirements. Those limits shall take into account, amongst others, the relevant thresholds laid down in Article 52 of Directive 2009/65/EC.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

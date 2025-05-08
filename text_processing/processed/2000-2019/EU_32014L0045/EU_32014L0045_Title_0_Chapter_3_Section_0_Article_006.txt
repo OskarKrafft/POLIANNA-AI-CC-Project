@@ -1,0 +1,6 @@
+Article 6
+Contents and methods of testing
+1.   For vehicle categories falling within the scope of this Directive, with the exception of categories L3e, L4e, L5e and L7e with an engine displacement of more than 125 cm3, Member States shall ensure that roadworthiness tests cover at least the areas referred to in point 2 of Annex I.
+2.   For each area referred to in paragraph 1, the competent authorities of the Member State or the testing centre shall carry out a roadworthiness test covering at least the items referred to in point 3 of Annex I, using the recommended or an equivalent method approved by a competent authority applicable to the testing of those items, as set out in point 3 of Annex I. The test may also include a verification as to whether the respective parts and components of the vehicle correspond to the required safety and environmental characteristics that were in force at the time of approval or, if applicable, at the time of retrofitting.
+The tests shall be carried out using techniques and equipment currently available without the use of tools to dismantle or remove any part of the vehicle.
+3.   For vehicle categories L3e, L4e, L5e and L7e, with an engine displacement of more than 125 cm3, Member States shall determine the areas, items and appropriate methods of testing.

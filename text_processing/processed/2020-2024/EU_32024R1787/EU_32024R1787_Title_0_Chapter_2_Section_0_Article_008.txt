@@ -1,0 +1,19 @@
+Article 8
+Verification activities and verification statement
+1.   Verifiers shall carry out verification activities to assess the conformity of the emissions reports submitted to them by operators, undertakings, mine operators or importers, with the requirements of this Regulation. Those verification activities shall include the review of all data sources and methodologies used in order to assess the reliability, credibility and accuracy of the emissions reports, in particular the following:
+(a)
+the choice and employment of emission factors;
+(b)
+the methodologies, calculations, samplings or statistical distributions leading to the determination of methane emissions;
+(c)
+any risk of inappropriate measuring or reporting;
+(d)
+any quality control or quality assurance systems applied by the operators, undertakings, mine operators or importers.
+2.   In carrying out the verification activities referred to in paragraph 1 of this Article, verifiers shall use the standards and technical prescriptions, as applicable, for methane emissions measurement and quantification, and mitigation established in accordance with Article 32.
+Until the application date of those standards and technical prescriptions as applicable, operators, undertakings, mine operators and importers, as applicable, shall provide information to the verifiers on the relevant standards, including European or other international standards, or methodologies used by them, for the purpose of verification activities.
+Verification activities shall also include, where relevant, announced and unannounced site checks to assess the reliability, credibility and accuracy of the data sources and methodologies used.
+3.   The verification activities referred to in this Article shall be aligned with European or other international standards and methodologies for verifiers in order to limit the burden on operators, undertakings, mine operators or importers, and on competent authorities and shall take due account of the nature of the verified activities and guidance issued by the Commission in that respect.
+4.   If, following the verifier’s assessment, the verifier concludes with reasonable assurance that the emissions report complies with the requirements of this Regulation, the verifier shall issue a verification statement attesting the conformity of the emissions report and specifying the verification activities carried out.
+The verifier shall issue a verification statement only where reliable, credible and accurate data and information allow for methane emissions to be determined with a reasonable degree of certainty and provided that the reported data is coherent with the estimated data, complete and consistent.
+If, following the verifier’s assessment, the verifier concludes that the emissions report does not comply with the requirements of this Regulation, the verifier shall inform the operator, the undertaking, the mine operator or the importer of that conclusion and provide reasoned feedback to the operator, the undertaking, the mine operator or the importer in light of recognised standards. The operator, the undertaking, the mine operator or the importer shall submit a revised emissions report to the verifier without delay and within the deadline set by the verifier.
+5.   Operators, undertakings, mine operators and importers shall provide verifiers with all the assistance necessary to enable or facilitate the performance of the verification activities, in particular as regards access to the site and the presentation of documentation or records.

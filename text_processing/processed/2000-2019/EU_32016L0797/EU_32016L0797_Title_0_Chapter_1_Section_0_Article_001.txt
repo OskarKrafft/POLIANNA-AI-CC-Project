@@ -1,0 +1,28 @@
+Article 1
+Subject matter and scope
+1.   This Directive establishes the conditions to be met to achieve interoperability within the Union rail system in a manner compatible with Directive (EU) 2016/798 in order to define an optimal level of technical harmonisation, to make it possible to facilitate, improve and develop rail transport services within the Union and with third countries and to contribute to the completion of the single European railway area and the progressive achievement of the internal market. Those conditions concern the design, construction, placing in service, upgrading, renewal, operation and maintenance of the parts of that system as well as the professional qualifications of, and health and safety conditions applying to, the staff who contribute to its operation and maintenance.
+2.   This Directive lays down the provisions relating to, for each subsystem, the interoperability constituents, the interfaces and procedures, and the conditions of overall compatibility of the Union rail system required in order to achieve its interoperability.
+3.   This Directive shall not apply to:
+(a)
+metros;
+(b)
+trams and light rail vehicles, and infrastructure used exclusively by those vehicles;
+(c)
+networks that are functionally separate from the rest of the Union rail system and intended only for the operation of local, urban or suburban passenger services, as well as undertakings operating solely on those networks.
+4.   Member States may exclude from the scope of the measures implementing this Directive:
+(a)
+privately owned railway infrastructure, including sidings, used by its owner or by an operator for the purpose of their respective freight activities or for the transport of persons for non-commercial purposes, and vehicles used exclusively on such infrastructure;
+(b)
+infrastructure and vehicles reserved for a strictly local, historical or touristic use;
+(c)
+light rail infrastructure occasionally used by heavy rail vehicles under the operational conditions of the light rail system, where it is necessary for the purposes of connectivity of those vehicles only; and
+(d)
+vehicles primarily used on light rail infrastructure but equipped with some heavy rail components necessary to enable transit to be effected on a confined and limited section of heavy rail infrastructure for connectivity purposes only.
+5.   In the case of tram-trains operating in the Union rail system, where there are no TSIs that apply to those tram-trains, the following shall apply:
+(a)
+Member States concerned shall ensure that national rules or other relevant accessible measures are adopted in order to ensure that such tram-trains meet the relevant essential requirements;
+(b)
+Member States may adopt national rules in order to specify the authorisation procedure applicable to such tram-trains. The authority issuing the vehicle authorisation shall consult the relevant national safety authority in order to ensure that mixed operation of tram-trains and heavy rail trains meet all essential requirements as well as relevant common safety targets (‘CSTs’);
+(c)
+by way of derogation from Article 21, in the case of cross-border operation, the relevant competent authorities shall cooperate with a view to issuing the vehicle authorisations.
+This paragraph does not apply to vehicles excluded from the scope of this Directive in accordance with paragraphs 3 and 4.

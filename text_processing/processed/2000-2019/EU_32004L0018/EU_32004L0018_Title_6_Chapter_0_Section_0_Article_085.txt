@@ -1,0 +1,67 @@
+Article 1
+Definitions
+1.   For the purposes of this Directive, the definitions set out in paragraphs 2 to 15 shall apply.
+2.
+(a)
+‘Public contracts’ are contracts for pecuniary interest concluded in writing between one or more economic operators and one or more contracting authorities and having as their object the execution of works, the supply of products or the provision of services within the meaning of this Directive.
+(b)
+‘Public works contracts’ are public contracts having as their object either the execution, or both the design and execution, of works related to one of the activities within the meaning of Annex I or a work, or the realisation, by whatever means, of a work corresponding to the requirements specified by the contracting authority. A ‘work’ means the outcome of building or civil engineering works taken as a whole which is sufficient of itself to fulfil an economic or technical function.
+(c)
+‘Public supply contracts’ are public contracts other than those referred to in (b) having as their object the purchase, lease, rental or hire purchase, with or without option to buy, of products.
+A public contract having as its object the supply of products and which also covers, as an incidental matter, siting and installation operations shall be considered to be a ‘public supply contract’.
+(d)
+‘Public service contracts’ are public contracts other than public works or supply contracts having as their object the provision of services referred to in Annex II.
+A public contract having as its object both products and services within the meaning of Annex II shall be considered to be a ‘public service contract’ if the value of the services in question exceeds that of the products covered by the contract.
+A public contract having as its object services within the meaning of Annex II and including activities within the meaning of Annex I that are only incidental to the principal object of the contract shall be considered to be a public service contract.
+3.   ‘Public works concession’ is a contract of the same type as a public works contract except for the fact that the consideration for the works to be carried out consists either solely in the right to exploit the work or in this right together with payment.
+4.   ‘Service concession’ is a contract of the same type as a public service contract except for the fact that the consideration for the provision of services consists either solely in the right to exploit the service or in this right together with payment.
+5.   A ‘framework agreement’ is an agreement between one or more contracting authorities and one or more economic operators, the purpose of which is to establish the terms governing contracts to be awarded during a given period, in particular with regard to price and, where appropriate, the quantity envisaged.
+6.   A ‘dynamic purchasing system’ is a completely electronic process for making commonly used purchases, the characteristics of which, as generally available on the market, meet the requirements of the contracting authority, which is limited in duration and open throughout its validity to any economic operator which satisfies the selection criteria and has submitted an indicative tender that complies with the specification.
+7.   An ‘electronic auction’ is a repetitive process involving an electronic device for the presentation of new prices, revised downwards, and/or new values concerning certain elements of tenders, which occurs after an initial full evaluation of the tenders, enabling them to be ranked using automatic evaluation methods.
+Consequently, certain service contracts and certain works contracts having as their subject-matter intellectual performances, such as the design of works, may not be the object of electronic auctions.
+8.   The terms ‘contractor’, ‘supplier’ and ‘service provider’ mean any natural or legal person or public entity or group of such persons and/or bodies which offers on the market, respectively, the execution of works and/or a work, products or services.
+The term ‘economic operator’ shall cover equally the concepts of contractor, supplier and service provider. It is used merely in the interest of simplification.
+An economic operator who has submitted a tender shall be designated a ‘tenderer’. One which has sought an invitation to take part in a restricted or negotiated procedure or a competitive dialogue shall be designated a ‘candidate’.
+9.   ‘Contracting authorities’ means the State, regional or local authorities, bodies governed by public law, associations formed by one or several of such authorities or one or several of such bodies governed by public law.
+A ‘body governed by public law’ means any body:
+(a)
+established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character;
+(b)
+having legal personality; and
+(c)
+financed, for the most part, by the State, regional or local authorities, or other bodies governed by public law; or subject to management supervision by those bodies; or having an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law.
+Non-exhaustive lists of bodies and categories of bodies governed by public law which fulfil the criteria referred to in (a), (b) and (c) of the second subparagraph are set out in Annex III. Member States shall periodically notify the Commission of any changes to their lists of bodies and categories of bodies.
+10.   A ‘central purchasing body’ is a contracting authority which:
+—
+acquires supplies and/or services intended for contracting authorities, or
+—
+awards public contracts or concludes framework agreements for works, supplies or services intended for contracting authorities.
+11.
+(a)
+‘Open procedures’ means those procedures whereby any interested economic operator may submit a tender.
+(b)
+‘Restricted procedures’ means those procedures in which any economic operator may request to participate and whereby only those economic operators invited by the contracting authority may submit a tender.
+(c)
+‘Competitive dialogue’ is a procedure in which any economic operator may request to participate and whereby the contracting authority conducts a dialogue with the candidates admitted to that procedure, with the aim of developing one or more suitable alternatives capable of meeting its requirements, and on the basis of which the candidates chosen are invited to tender.
+For the purpose of recourse to the procedure mentioned in the first subparagraph, a public contract is considered to be ‘particularly complex’ where the contracting authorities:
+—
+are not objectively able to define the technical means in accordance with Article 23(3)(b), (c) or (d), capable of satisfying their needs or objectives, and/or
+—
+are not objectively able to specify the legal and/or financial make-up of a project.
+(d)
+‘Negotiated procedures’ means those procedures whereby the contracting authorities consult the economic operators of their choice and negotiate the terms of contract with one or more of these.
+(e)
+‘Design contests’ means those procedures which enable the contracting authority to acquire, mainly in the fields of town and country planning, architecture and engineering or data processing, a plan or design selected by a jury after being put out to competition with or without the award of prizes.
+12.   ‘Written’ or ‘in writing’ means any expression consisting of words or figures which can be read, reproduced and subsequently communicated. It may include information which is transmitted and stored by electronic means.
+13.   ‘Electronic means’ means using electronic equipment for the processing (including digital compression) and storage of data which is transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means.
+14.   The ‘Common Procurement Vocabulary (CPV)’ shall designate the reference nomenclature applicable to public contracts as adopted by Regulation (EC) No 2195/2002, while ensuring equivalence with the other existing nomenclatures.
+In the event of varying interpretations of the scope of this Directive, owing to possible differences between the CPV and NACE nomenclatures listed in Annex I, or between the CPV and CPC (provisional version) nomenclatures listed in Annex II, the NACE or the CPC nomenclature respectively shall take precedence.
+15.   For the purposes of Article 13, Article 57(a) and Article 68(b), the following phrases shall have the following meanings:
+(a)
+‘public telecommunications network’ means the public telecommunications infrastructure which enables signals to be conveyed between defined network termination points by wire, by microwave, by optical means or by other electromagnetic means;
+(b)
+a ‘network termination point’ means all physical connections and their technical access specifications which form part of the public telecommunications network and are necessary for access to, and efficient communication through, that public network;
+(c)
+‘public telecommunications services’ means telecommunications services the provision of which the Member States have specifically assigned, in particular, to one or more telecommunications entities;
+(d)
+‘telecommunications services’ means services the provision of which consists wholly or partly in the transmission and routing of signals on the public telecommunications network by means of telecommunications processes, with the exception of broadcasting and television.

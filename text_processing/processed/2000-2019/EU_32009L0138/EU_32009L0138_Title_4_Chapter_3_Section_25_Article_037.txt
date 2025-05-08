@@ -1,0 +1,21 @@
+Article 37
+Capital add-on
+1.   Following the supervisory review process supervisory authorities may in exceptional circumstances set a capital add-on for an insurance or reinsurance undertaking by a decision stating the reasons. That possibility shall exist only in the following cases:
+(a)
+the supervisory authority concludes that the risk profile of the insurance or reinsurance undertaking deviates significantly from the assumptions underlying the Solvency Capital Requirement, as calculated using the standard formula in accordance with Chapter VI, Section 4, Subsection 2 and:
+(i)
+the requirement to use an internal model under Article 119 is inappropriate or has been ineffective; or
+(ii)
+while a partial or full internal model is being developed in accordance with Article 119;
+(b)
+the supervisory authority concludes that the risk profile of the insurance or reinsurance undertaking deviates significantly from the assumptions underlying the Solvency Capital Requirement, as calculated using an internal model or partial internal model in accordance with Chapter VI, Section 4, Subsection 3, because certain quantifiable risks are captured insufficiently and the adaptation of the model to better reflect the given risk profile has failed within an appropriate timeframe; or
+(c)
+the supervisory authority concludes that the system of governance of an insurance or reinsurance undertaking deviates significantly from the standards laid down in Chapter IV, Section 2, that those deviations prevent it from being able to properly identify, measure, monitor, manage and report the risks that it is or could be exposed to and that the application of other measures is in itself unlikely to improve the deficiencies sufficiently within an appropriate timeframe.
+2.   In the circumstances set out in points (a) and (b) of paragraph 1 the capital add-on shall be calculated in such a way as to ensure that the undertaking complies with Article 101(3).
+In the circumstances set out in paragraph 1(c) the capital add-on shall be proportionate to the material risks arising from the deficiencies which gave rise to the decision of the supervisory authority to set the add-on.
+3.   In the cases set out in points (b) and (c) of paragraph 1 the supervisory authority shall ensure that the insurance or reinsurance undertaking makes every effort to remedy the deficiencies that led to the imposition of the capital add-on.
+4.   The capital add-on referred to in paragraph 1 shall be reviewed at least once a year by the supervisory authority and be removed when the undertaking has remedied the deficiencies which led to its imposition.
+5.   The Solvency Capital Requirement including the capital add-on imposed shall replace the inadequate Solvency Capital Requirement.
+Notwithstanding the first subparagraph the Solvency Capital Requirement shall not include the capital add-on imposed in accordance with paragraph 1(c) for the purposes of the calculation of the risk margin referred to in Article 77(5).
+6.   The Commission shall adopt implementing measures laying down further specifications for the circumstances under which a capital add-on may be imposed and the methodologies for the calculation thereof.
+Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 301(3).

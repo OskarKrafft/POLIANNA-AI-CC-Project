@@ -1,0 +1,41 @@
+Article 19
+Authorisation of SoHO preparations
+1.   SoHO competent authorities shall provide guidelines and templates for the submission of applications for SoHO preparation authorisations in accordance with Article 39, and for the design of the clinical-outcome monitoring plans referred to in Article 21. When developing those guidelines and templates, SoHO competent authorities shall use the templates and take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d). SoHO competent authorities may establish simplified procedures for applications concerning modifications to previously authorised SoHO preparations. SoHO competent authorities may use the secure communication channel on the EU SoHO Platform for the exchange, with the SoHO entity, of documents relating to the application for authorisation of SoHO preparations.
+2.   Upon receipt of an application for a SoHO preparation authorisation, SoHO competent authorities shall:
+(a)
+acknowledge receipt of the application without undue delay;
+(b)
+assess the SoHO preparation pursuant to Article 20 and examine agreements between the applicant SoHO entity and any SoHO entity or third party contracted by that applicant SoHO entity to perform activities or relevant steps of the processing in relation to the SoHO preparation, where applicable;
+(c)
+request the applicant SoHO entity to provide supplementary information, if needed;
+(d)
+grant or refuse the approval for clinical-outcome monitoring plans, as appropriate, in accordance with Article 20(4), points (c) and (d), and indicate a time limit for the applicant SoHO entity to submit the results of the approved clinical-outcome monitoring;
+(e)
+on the basis of the assessment under point (b) of this paragraph, and of the results of the clinical-outcome monitoring referred to in point (d) of this paragraph, where applicable, grant or refuse the authorisation for the SoHO preparation and, indicate which conditions apply, if any.
+3.   SoHO competent authorities shall submit information regarding the authorisation granted in respect of the SoHO preparation, including a summary of the evidence used to authorise that SoHO preparation, to the EU SoHO Platform and, for that SoHO preparation, they shall amend accordingly the authorisation information of the SoHO entity concerned.
+4.   SoHO competent authorities shall conclude the SoHO preparation authorisation steps referred to in paragraph 2 of this Article, within the time limit set out for the authorisation taking into account best practices documented and published by the SCB, as referred to in Article 69(1), point (d). Such time limit may be extended for:
+(a)
+the duration of the consultations referred to in Article 13(2) and (3);
+(b)
+the time needed to prepare and submit a response to a request for additional information to the SoHO entity;
+(c)
+the time needed to perform clinical-outcome monitoring; or
+(d)
+the time needed to perform additional validation or to generate additional quality and safety data as requested by the SoHO competent authority.
+5.   For SoHO preparations that incorporate a medical device, as defined in Article 2, point (1), of Regulation (EU) 2017/745, as an integral part, and where that medical device has an action that is ancillary to that of the SoHO preparation, SoHO competent authorities shall verify that the medical device has been certified by the notified body under that Regulation.
+6.   Where a SoHO competent authority receives in the course of the conformity assessment procedure pursuant to Article 52 of Regulation (EU) 2017/745 a request for an opinion in relation to a medical device that incorporates a SoHO preparation as an integral part, and where that medical device has an action that is principal to that of the SoHO preparation, it shall provide an opinion regarding compliance of the SoHO preparation part with this Regulation, in accordance with Section 5.3.1 of Annex IX to that Regulation, and inform the SCB of the opinion provided.
+7.   SoHO competent authorities may, in accordance with national legislation, suspend the SoHO preparation authorisation where SoHO supervisory activities demonstrate, or give reasonable ground for suspecting, that such SoHO preparation, or any activities performed in respect of that preparation, do not comply with the conditions of its authorisation or with this Regulation. SoHO competent authorities shall, in accordance with national legislation, suspend the SoHO preparation authorisation when an imminent risk to the safety of SoHO donors, recipients or offspring from medically assisted reproduction, or an imminent risk of unnecessary wastage of critical SoHO, is identified.
+SoHO competent authorities shall specify a period of time for the investigation of the suspected non-compliance and for SoHO entities to rectify a confirmed non-compliance, during which the suspension will remain in place.
+8.   Where SoHO competent authorities have confirmed cases of non-compliance as referred to in paragraph 7, and SoHO entities are not able to rectify them in the specified time period, SoHO competent authorities shall, in accordance with national legislation, withdraw the SoHO preparation authorisation from the SoHO entities concerned.
+9.   SoHO competent authorities may, in accordance with national legislation, withdraw the SoHO preparation authorisation if a suspension, as referred to in paragraph 7, is not sufficient to resolve the identified shortcomings.
+10.   In cases of suspension or withdrawal of a SoHO preparation authorisation, as referred to in paragraphs 7, 8 and 9, SoHO competent authorities shall, without undue delay, amend accordingly the authorisation information for the SoHO entity concerned on the EU SoHO Platform.
+11.   Where the procedures referred to in this Article have not been carried out, SoHO competent authorities may exceptionally authorise, at the request of the SoHO entity responsible for a planned human application of a SoHO preparation to a specific SoHO recipient within their territory, that human application provided that:
+(a)
+the specific SoHO recipient has no therapeutic alternative, the treatment cannot be postponed or the specific SoHO recipient’s prognosis is life-threatening;
+(b)
+the safety and effectiveness of the SoHO preparation can reasonably be assumed on the basis of the available clinical data; and
+(c)
+the SoHO recipient concerned is informed that the SoHO preparation concerned has not been authorised under this Regulation.
+SoHO competent authorities may require that the SoHO entity concerned provide a summary of the clinical outcome in the specific case and shall inform the SoHO national authority of that exceptional authorisation without undue delay.
+12.   The Commission may adopt implementing acts concerning the procedures to authorise SoHO preparations pursuant to this Article.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).

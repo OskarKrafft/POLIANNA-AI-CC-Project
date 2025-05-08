@@ -1,0 +1,130 @@
+Whereas:
+(1)
+Directive 2004/22/EC of the European Parliament and of the Council of 31 March 2004 on measuring instruments (3) has been substantially amended (4). Since further amendments are to be made, that Directive should be recast in the interests of clarity.
+(2)
+Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products (5) lays down rules on the accreditation of conformity assessment bodies, provides a framework for the market surveillance of products and for controls on products from third countries, and lays down the general principles of the CE marking.
+(3)
+Decision No 768/2008/EC of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products (6) lays down common principles and reference provisions intended to apply across sectoral legislation in order to provide a coherent basis for revision or recasts of that legislation. Directive 2004/22/EC should be adapted to that Decision.
+(4)
+This Directive covers measuring instruments which are new to the Union market when they are placed on the market; that is to say they are either new measuring instruments made by a manufacturer established in the Union or measuring instruments, whether new or second-hand, imported from a third country.
+(5)
+Correct and traceable measuring instruments can be used for a variety of measurement tasks. Those responding to reasons of public interest, public health, safety and order, protection of the environment and the consumer, of levying taxes and duties and of fair trading, which directly and indirectly affect the daily life of citizens in many ways, may require the use of legally controlled measuring instruments.
+(6)
+This Directive should apply to all forms of supply, including distance selling.
+(7)
+Legal metrological control should not lead to barriers to the free movement of measuring instruments. The applicable provisions should be the same in all Member States and proof of conformity should be accepted throughout the Union.
+(8)
+Legal metrological control requires conformity with specified performance requirements. The performance requirements that the measuring instruments must meet should provide a high level of protection. The conformity assessment should provide a high level of confidence.
+(9)
+Member States should as a general rule prescribe legal metrological control. Where legal metrological control is prescribed, only measuring instruments complying with common performance requirements should be used.
+(10)
+The principle of optionality introduced by Directive 2004/22/EC allows Member States to exercise their right to decide whether or not to prescribe the use of the measuring instruments covered by this Directive.
+(11)
+National specifications concerning the appropriate national requirements for use should not interfere with the provisions of this Directive on ‘putting into use’.
+(12)
+The performance of certain measuring instruments is particularly sensitive to the environment, in particular the electromagnetic environment. Immunity of measuring instruments to electromagnetic interference should form an integral part of this Directive and the immunity requirements of Directive 2004/108/EC of the European Parliament and of the Council of 15 December 2004 on the approximation of the laws of the Member States relating to electromagnetic compatibility (7) should therefore not apply.
+(13)
+In order to ensure the free circulation of measuring instruments in the Union, Member States should not impede the placing on the market and/or putting into use of measuring instruments that carry the CE marking and supplementary metrology marking in accordance with the provisions of this Directive.
+(14)
+Member States should take appropriate action to prevent non-complying measuring instruments from being placed on the market and/or put into use. Adequate cooperation between the competent authorities of the Member States is therefore necessary to ensure a Union-wide effect of this objective.
+(15)
+Economic operators should be responsible for the compliance of measuring instruments with this Directive, in relation to their respective roles in the supply chain, so as to ensure a high level of protection of the aspects of public interest covered by this Directive, and also to guarantee fair competition on the Union market.
+(16)
+All economic operators intervening in the supply and distribution chain should take appropriate measures to ensure that they make available on the market only measuring instruments which are in conformity with this Directive. It is necessary to provide for a clear and proportionate distribution of obligations which correspond to the role of each economic operator in the supply and distribution chain.
+(17)
+In order to facilitate communication between economic operators, market surveillance authorities and consumers, Member States should encourage economic operators to include a website address in addition to the postal address.
+(18)
+The manufacturer, having detailed knowledge of the design and production process, is best placed to carry out the conformity assessment procedure. Conformity assessment should therefore remain solely the obligation of the manufacturer.
+(19)
+It is necessary to ensure that measuring instruments from third countries entering the Union market comply with this Directive, and in particular that the appropriate conformity assessment procedures have been carried out by manufacturers with regard to those measuring instruments. Provision should therefore be made for importers to make sure that the measuring instruments they place on the market comply with the requirements of this Directive and that they do not place on the market measuring instruments which do not comply with such requirements or present a risk. Provision should also be made for importers to make sure that conformity assessment procedures have been carried out and that marking of measuring instruments and documentation drawn up by manufacturers are available for inspection by the competent national authorities.
+(20)
+When placing a measuring instrument on the market, every importer should indicate on the measuring instrument his name, registered trade name or registered trade mark and the postal address at which he can be contacted. Exceptions should be provided for in cases where the size or nature of the measuring instrument does not allow it. This includes cases where the importer would have to open the packaging to put his name and address on the measuring instrument.
+(21)
+The distributor makes a measuring instrument available on the market after it has been placed on the market by the manufacturer or the importer. The distributor should act with due care to ensure that its handling of the measuring instrument does not adversely affect the compliance of that instrument with this Directive.
+(22)
+Any economic operator that either places a measuring instrument on the market under his own name or trade mark or modifies a measuring instrument in such a way that compliance with of this Directive may be affected should be considered to be the manufacturer and should assume the obligations of the manufacturer.
+(23)
+Distributors and importers, being close to the market place, should be involved in market surveillance tasks carried out by competent national authorities, and should be prepared to participate actively, providing those authorities with all necessary information relating to the measuring instrument concerned.
+(24)
+Ensuring traceability of a measuring instrument throughout the whole supply chain helps to make market surveillance simpler and more efficient. An efficient traceability system facilitates market surveillance authorities’ task of tracing economic operators who made non-compliant measuring instruments available on the market. When keeping the information required under this Directive for the identification of other economic operators, economic operators should not be required to update such information in respect of other economic operators who have either supplied them with a measuring instrument or to whom they have supplied a measuring instrument.
+(25)
+This Directive should be limited to the expression of essential requirements that do not impede technical progress, preferably performance requirements. In order to facilitate conformity assessment with those requirements it is necessary to provide for a presumption of conformity for measuring instruments which are in conformity with harmonised standards that are adopted in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European Standardisation (8) for the purpose of expressing detailed technical specifications of those requirements.
+(26)
+Regulation (EU) No 1025/2012 provides for a procedure for objections to harmonised standards where those standards do not entirely satisfy the requirements of this Directive.
+(27)
+The technical and performance specifications of internationally agreed normative documents may also comply, in part or in full, with the essential requirements laid down by this Directive. In those cases the use of these internationally agreed normative documents should be allowed as an alternative to the use of harmonised standards and, under specific conditions, give rise to a presumption of conformity.
+(28)
+Conformity with the essential requirements laid down by this Directive can also be provided by specifications that are not supplied by a harmonised standard or an internationally agreed normative document. The use of harmonised standards or internationally agreed normative documents should therefore be optional.
+(29)
+In order to enable economic operators to demonstrate and the competent authorities to ensure that measuring instruments made available on the market comply with the essential requirements, it is necessary to provide for conformity assessment procedures. Decision No 768/2008/EC establishes modules for conformity assessment procedures, from the least to the most stringent, in proportion to the level of risk involved and the level of safety required. In order to ensure inter-sectoral coherence and to avoid ad-hoc variants, conformity assessment procedures should be chosen from among those modules. However, it is necessary to adapt those modules in order to reflect specific aspects of metrological control.
+(30)
+The conformity assessment of sub-assemblies should be carried out in accordance with this Directive. If sub-assemblies are made available on the market separately and independently of an instrument, their conformity assessment should be undertaken independently of the instrument concerned.
+(31)
+The state of the art in measurement technology is subject to constant evolution which may lead to changes in the needs for conformity assessments. Therefore, for each category of measuring instrument and, where appropriate, sub-assemblies, there should be an appropriate procedure or a choice between different procedures of equivalent stringency.
+(32)
+Manufacturers should draw up an EU declaration of conformity to provide information required under this Directive on the conformity of a measuring instrument with this Directive and with other relevant Union harmonisation legislation.
+(33)
+To ensure effective access to information for market surveillance purposes, the information required to identify all applicable Union acts should be available in a single EU declaration of conformity. In order to reduce the administrative burden on economic operators, that single EU declaration of conformity may be a dossier made up of relevant individual declarations of conformity.
+(34)
+The CE marking and the supplementary metrology marking, indicating the conformity of a measuring instrument, are the visible consequence of a whole process comprising conformity assessment in a broad sense. General principles governing the CE marking and its relationship to other markings are set out in Regulation (EC) No 765/2008. Rules governing the affixing of the CE marking and the supplementary metrology marking should be laid down in this Directive.
+(35)
+In order to take account of differences in climatic conditions or of different levels of consumer protection that may apply at national level, it is necessary to establish environmental or accuracy classes as essential requirements.
+(36)
+Certain conformity assessment procedures set out in this Directive require the intervention of conformity assessment bodies, which are notified by the Member States to the Commission.
+(37)
+Experience has shown that the criteria set out in Directive 2004/22/EC that conformity assessment bodies have to fulfil to be notified to the Commission are not sufficient to ensure a uniformly high level of performance of notified bodies throughout the Union. It is, however, essential that all notified bodies perform their functions to the same level and under conditions of fair competition. That requires the setting of obligatory requirements for conformity assessment bodies wishing to be notified in order to provide conformity assessment services.
+(38)
+If a conformity assessment body demonstrates conformity with the criteria laid down in harmonised standards it should be presumed to comply with the corresponding requirements set out in this Directive.
+(39)
+In order to ensure a consistent level of quality in the performance of conformity assessment of measuring instruments, it is also necessary to set requirements for notifying authorities and other bodies involved in the assessment, notification and monitoring of notified bodies.
+(40)
+The system set out in this Directive should be complemented by the accreditation system provided for in Regulation (EC) No 765/2008. Since accreditation is an essential means of verifying the competence of conformity assessment bodies, it should also be used for the purposes of notification.
+(41)
+Transparent accreditation as provided for in Regulation (EC) No 765/2008, ensuring the necessary level of confidence in certificates of conformity, should be considered by the national public authorities throughout the Union as the preferred means of demonstrating the technical competence of conformity assessment bodies. However, national authorities may consider that they possess the appropriate means of carrying out that evaluation themselves. In such cases, in order to ensure the appropriate level of credibility of evaluations carried out by other national authorities, they should provide the Commission and the other Member States with the necessary documentary evidence demonstrating the compliance of the conformity assessment bodies evaluated with the relevant regulatory requirements.
+(42)
+Conformity assessment bodies frequently subcontract parts of their activities linked to the assessment of conformity or have recourse to a subsidiary. In order to safeguard the level of protection required for the measuring instruments to be placed on the market, it is essential that conformity assessment subcontractors and subsidiaries fulfil the same requirements as notified bodies in relation to the performance of conformity assessment tasks. Therefore, it is important that the assessment of the competence and the performance of bodies to be notified and the monitoring of bodies already notified cover also activities carried out by subcontractors and subsidiaries.
+(43)
+It is necessary to increase the efficiency and transparency of the notification procedure and, in particular, to adapt it to new technologies so as to enable online notification.
+(44)
+Since notified bodies may offer their services throughout the Union, it is appropriate to give the other Member States and the Commission the opportunity to raise objections concerning a notified body. It is therefore important to provide for a period during which any doubts or concerns as to the competence of conformity assessment bodies can be clarified before they start operating as notified bodies.
+(45)
+In the interests of competitiveness, it is crucial that notified bodies apply the conformity assessment procedures without creating unnecessary burdens for economic operators. For the same reason, and to ensure equal treatment of economic operators, consistency in the technical application of the conformity assessment procedures needs to be ensured. That can best be achieved through appropriate coordination and cooperation between notified bodies.
+(46)
+In order to ensure legal certainty, it is necessary to clarify that rules on Union market surveillance and control of products entering the Union market provided for in Regulation (EC) No 765/2008 apply to measuring instruments covered by this Directive. This Directive should not prevent Member States from choosing the competent authorities to carry out those tasks.
+(47)
+Member States should take all appropriate measures to ensure that measuring instruments may be placed on the market only if, when properly stored and used for their intended purpose, or under conditions of use which can be reasonably foreseen, they do not endanger the health and safety of persons. Measuring instruments should be considered as non-compliant with the essential requirements laid down in this Directive only under conditions of use which can be reasonably foreseen, that is when such use could result from lawful and readily predictable human behaviour.
+(48)
+Directive 2004/22/EC already provides for a safeguard procedure allowing the Commission to examine the justification for a measure taken by a Member State against measuring instruments it considers to be non-compliant. In order to increase transparency and to reduce processing time, it is necessary to improve the existing safeguard procedure, with the view to making it more efficient and drawing on the expertise available in Member States.
+(49)
+The existing system should be supplemented by a procedure under which interested parties are informed of measures intended to be taken with regard to measuring instruments presenting a risk to aspects of public interest protection covered by this Directive. It should also allow market surveillance authorities, in cooperation with the relevant economic operators, to act at an early stage in respect of such measuring instruments.
+(50)
+Where the Member States and the Commission agree as to the justification of a measure taken by a Member State, no further involvement of the Commission should be required, except where non-compliance can be attributed to shortcomings of a harmonised standard or a normative document.
+(51)
+In order to ensure uniform conditions for the implementation of this Directive, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (9).
+(52)
+The advisory procedure should be used for the adoption of implementing acts requesting the notifying Member State to take the necessary corrective measures in respect of notified bodies that do not meet or no longer meet the requirements for their notification.
+(53)
+The advisory procedure should also be used for the adoption of implementing acts with respect to the objections to the internationally agreed normative documents whose references have not yet been published in the Official Journal of the European Union, given that the relevant document has not yet led to the presumption of conformity with the applicable essential requirements.
+(54)
+The examination procedure should be used for the adoption of implementing acts with respect to the objections to the internationally agreed normative documents whose references were already published in the Official Journal of the European Union and which a Member State or the Commission considers justified, given that such acts could have consequences on the presumption of conformity with the applicable essential requirements.
+(55)
+The examination procedure should also be used for the adoption of implementing acts with respect to compliant measuring instruments which present a risk to the health or safety of persons or to other aspects of public interest protection.
+(56)
+In line with established practice, the committee set up by this Directive can play a useful role in examining matters concerning the application of this Directive raised either by its chair or by a representative of a Member State in accordance with its rules of procedure.
+(57)
+When matters relating to this Directive, other than its implementation or infringements, are being examined, i.e. in a Commission expert group, the European Parliament should in line with existing practice receive full information and documentation and, where appropriate, an invitation to attend such meetings.
+(58)
+The Commission should, by means of implementing acts and, given their special nature, acting without the application of Regulation (EU) No 182/2011, determine whether measures taken by Member States in respect of non-compliant measuring instruments are justified or not.
+(59)
+In order to take into account the developments in the measurement technology, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union should be delegated to the Commission in respect of amendments to the instrument-specific Annexes. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+(60)
+Member States should lay down rules on penalties applicable to infringements of the provisions of national law adopted pursuant to this Directive and ensure that those rules are enforced. The penalties provided for should be effective, proportionate and dissuasive.
+(61)
+It is necessary to provide for reasonable transitional arrangements that allow the making available on the market and putting into use, without the need to comply with further product requirements, of measuring instruments that have already been placed on the market in accordance with Directive 2004/22/EC before the date of application of national measures transposing this Directive. Distributors should therefore be able to supply measuring instruments that have been placed on the market, namely stock that is already in the distribution chain, before the date of application of national measures transposing this Directive.
+(62)
+Since the objective of this Directive, namely to ensure that measuring instruments on the market fulfil the requirements providing for a high level of protection of the public interests covered by this Directive while guaranteeing the functioning of the internal market cannot be sufficiently achieved by the Member States but can rather, by reason of its scale and effects, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve that objective.
+(63)
+The obligation to transpose this Directive into national law should be confined to those provisions which represent a substantive amendment as compared to the earlier Directive. The obligation to transpose the provisions which are unchanged arises under the earlier Directive.
+(64)
+This Directive should be without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and the dates of application of the Directives set out in Annex XIV, Part B,
+HAVE ADOPTED THIS DIRECTIVE:

@@ -1,0 +1,10 @@
+Article 210
+Finite reinsurance
+1.   Member States shall ensure that insurance and reinsurance undertakings which conclude finite reinsurance contracts or pursue finite reinsurance activities are able to properly identify, measure, monitor, manage, control and report the risks arising from those contracts or activities.
+2.   In order to ensure that a harmonised approach is adopted with respect to finite reinsurance activities, the Commission may adopt implementing measures specifying the provisions of paragraph 1 with respect to the monitoring, management and control of risks arising from finite reinsurance activities.
+Those measures, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 301(3).
+3.   For the purposes of paragraphs 1 and 2 finite reinsurance means reinsurance under which the explicit maximum loss potential, expressed as the maximum economic risk transferred, arising both from a significant underwriting risk and timing risk transfer, exceeds the premium over the lifetime of the contract by a limited but significant amount, together with at least one of the following features:
+(a)
+explicit and material consideration of the time value of money;
+(b)
+contractual provisions to moderate the balance of economic experience between the parties over time to achieve the target risk transfer.

@@ -1,0 +1,7 @@
+Article 13
+Abnormal operating conditions
+1. The competent authority shall lay down in the permit the maximum permissible period of any technically unavoidable stoppages, disturbances, or failures of the purification devices or the measurement devices, during which the concentrations in the discharges into the air and the purified waste water of the regulated substances may exceed the prescribed emission limit values.
+2. In the case of a breakdown, the operator shall reduce or close down operations as soon as practicable until normal operations can be restored.
+3. Without prejudice to Article 6(3)(c), the incineration plant or co-incineration plant or incineration line shall under no circumstances continue to incinerate waste for a period of more than four hours uninterrupted where emission limit values are exceeded; moreover, the cumulative duration of operation in such conditions over one year shall be less than 60 hours. The 60-hour duration applies to those lines of the entire plant which are linked to one single flue gas cleaning device.
+4. The total dust content of the emissions into the air of an incineration plant shall under no circumstances exceed 150 mg/m3 expressed as a half-hourly average; moreover the air emission limit values for CO and TOC shall not be exceeded. All other conditions referred to in Article 6 shall be complied with.
+

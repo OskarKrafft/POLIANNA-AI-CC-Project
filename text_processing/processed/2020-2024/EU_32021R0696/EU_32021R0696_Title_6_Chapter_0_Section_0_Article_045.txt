@@ -1,0 +1,22 @@
+Article 45
+Services provided by Galileo
+1.   The services provided by Galileo shall comprise:
+(a)
+a Galileo open service (GOS), which shall be free of charge for users and shall provide positioning and synchronisation information intended mainly for high-volume satellite navigation applications for use by consumers;
+(b)
+a high-accuracy service (HAS), which shall be free of charge for users and shall provide, through additional data disseminated in a supplementary frequency band, high-accuracy positioning and synchronisation information intended mainly for satellite navigation applications for professional or commercial use;
+(c)
+a signal authentication service (SAS), based on the encrypted codes contained in the signals, intended mainly for satellite navigation applications for professional or commercial use;
+(d)
+a public regulated service (PRS), which shall be restricted to government-authorised users for sensitive applications which require a high level of service continuity, including in the area of security and defence, using strong, encrypted signals; it shall be free of charge for the Member States, the Council, the Commission, EEAS and, where appropriate, duly authorised Union agencies; the question of whether to charge the other PRS participants referred to in Article 2 of Decision No 1104/2011/EU shall be assessed on a case-by-case basis and appropriate provisions shall be specified in the agreements concluded pursuant to Article 3(5) of that Decision; access to PRS shall be regulated in accordance with Decision No 1104/2011/EU;
+(e)
+an emergency service (ES), which shall be free of charge for users and shall broadcast, through emitting signals, warnings regarding natural disasters or other emergencies in particular areas; where appropriate, it shall be provided in cooperation with Member States national civil protection authorities;
+(f)
+a timing service (TS), which shall be free of charge for users and shall provide an accurate and robust reference time, as well as realisation of the coordinated universal time, facilitating the development of timing applications based on Galileo and the use in critical applications.
+2.   Galileo shall also contribute to:
+(a)
+the search and rescue support service (SAR) of the COSPAS-SARSAT system by detecting distress signals transmitted by beacons and relaying messages to them via a return link;
+(b)
+integrity-monitoring services standardised at the Union or international level for use by safety-of-life services, on the basis the signals of Galileo open service and in combination with EGNOS and other satellite navigation systems;
+(c)
+space weather information via the GNSS Service Centre as referred to in Implementing Decision (EU) 2016/413 and early warning services via the Galileo ground-based infrastructure, intended mainly to reduce the potential risks to users of the services provided by Galileo and other GNSSs related to space.

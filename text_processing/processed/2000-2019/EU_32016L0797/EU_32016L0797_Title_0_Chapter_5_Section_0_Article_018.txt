@@ -1,0 +1,27 @@
+Article 18
+Authorisation for the placing in service of fixed installations
+1.   The trackside control-command and signalling, energy and infrastructure subsystems shall be placed in service only if they are designed, constructed and installed in such a way as to meet the essential requirements, and the relevant authorisation is received in accordance with paragraphs 3 and 4.
+2.   Each national safety authority shall authorise the placing in service of the energy, infrastructure and trackside control-command and signalling subsystems which are located or operated in the territory of its Member State.
+3.   National safety authorities shall provide detailed guidance on how to obtain the authorisations referred to in this Article. An application guidance document describing and explaining the requirements for those authorisations and listing the documents required shall be made available to applicants free of charge. The Agency and the national safety authorities shall cooperate in disseminating such information.
+4.   The applicant shall submit a request for authorisation of the placing in service of fixed installations to the national safety authority. The application shall be accompanied by a file which includes documentary evidence of:
+(a)
+the declarations of verification referred to in Article 15;
+(b)
+the technical compatibility of the subsystems with the system into which they are being integrated, established on the basis of the relevant TSIs, national rules and registers;
+(c)
+the safe integration of the subsystems, established on the basis of the relevant TSIs, national rules, and the common safety methods (‘CSMs’) set out in Article 6 of Directive (EU) 2016/798;
+(d)
+in the case of trackside control-command and signalling subsystems involving European Train Control System (ETCS) and/or Global System for Mobile Communications — Railway (GSM-R) equipment, the positive decision of the Agency issued in accordance with Article 19 of this Directive; and, in the case of a change to the draft tender specifications or to the description of the envisaged technical solutions that occurred after the positive decision, the compliance with the result of the procedure referred to in Article 30(2) of Regulation (EU) 2016/796.
+5.   Within one month of receipt of the applicant's request, the national safety authority shall inform the applicant that the file is complete or ask for relevant supplementary information, setting a reasonable deadline for the provision thereof.
+The national safety authority shall verify the completeness, relevance and consistency of the file, and, in the case of trackside ERTMS equipment, compliance with the positive decision of the Agency issued in accordance with Article 19 of this Directive and, where appropriate, compliance with the result of the procedure referred to in Article 30(2) of Regulation (EU) 2016/796. Following such verification, the national safety authority shall issue the authorisation for placing in service of fixed installations, or inform the applicant of its negative decision, within a pre-determined, reasonable time, and, in any case, within four months of receipt of all relevant information.
+6.   In the event of renewal or upgrading of existing subsystems, the applicant shall send a file describing the project to the national safety authority. Within one month of receipt of the applicant's request, the national safety authority shall inform the applicant that the file is complete or ask for relevant supplementary information, setting a reasonable deadline for the provision thereof. The national safety authority, in close cooperation with the Agency in the case of trackside ERTMS projects, shall examine the file and shall decide whether a new authorisation for placing in service is needed, on the basis of the following criteria:
+(a)
+the overall safety level of the subsystem concerned may be adversely affected by the works envisaged;
+(b)
+it is required by the relevant TSIs;
+(c)
+it is required by the national implementation plans established by the Member States; or
+(d)
+changes are made to the values of the parameters on the basis of which the authorisation was already granted.
+The national safety authority shall take its decision within a predetermined, reasonable time, and, in any case, within four months of receipt of all relevant information.
+7.   A decision refusing a request for an authorisation for the placing in service of fixed installations shall be duly substantiated by the national safety authority. The applicant may, within one month of receipt of the negative decision, submit a request that the national safety authority review its decision. The request shall be accompanied by a justification. The national safety authority shall have two months from the date of receipt of the request for review in which to confirm or reverse its decision. If the negative decision of a national safety authority is confirmed, the applicant may bring an appeal before the appeal body designated by the relevant Member State under Article 18(3) of Directive (EU) 2016/798.

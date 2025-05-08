@@ -1,0 +1,44 @@
+Article 9
+Safety management systems
+1.   Infrastructure managers and railway undertakings shall establish their respective safety management systems to ensure that the Union rail system can achieve at least the CSTs, that it is in conformity with the safety requirements laid down in TSIs, and that the relevant parts of CSMs and national rules notified in accordance with Article 8 are applied.
+2.   The safety management system shall be documented in all relevant parts and shall in particular describe the distribution of responsibilities within the organisation of the infrastructure manager or the railway undertaking. It shall show how control is ensured by the management on different levels, how staff and their representatives on all levels are involved and how continuous improvement of the safety management system is ensured. There shall be a clear commitment to consistently apply human factors knowledge and methods. Through the safety management system, infrastructure managers and railway undertakings shall promote a culture of mutual trust, confidence and learning in which staff are encouraged to contribute to the development of safety while ensuring confidentiality.
+3.   The safety management system shall contain the following basic elements:
+(a)
+a safety policy approved by the organisation's chief executive and communicated to all staff;
+(b)
+qualitative and quantitative targets of the organisation for the maintenance and enhancement of safety, and plans and procedures for reaching these targets;
+(c)
+procedures to meet existing, new and altered technical and operational standards or other prescriptive conditions as laid down in TSIs, national rules referred to in Article 8 and Annex II, other relevant rules or authority decisions;
+(d)
+procedures to assure compliance with the standards and other prescriptive conditions throughout the life cycle of equipment and operations;
+(e)
+procedures and methods for identifying risks, carrying out risk evaluation and implementing risk-control measures whenever a change of operating conditions or the introduction of new material imposes new risks on the infrastructure or the man-machine-organisation interface;
+(f)
+the provision of programmes for the training of staff and systems to ensure that the staff's competence is maintained and that tasks are carried out accordingly, including arrangements with regard to physical and psychological fitness;
+(g)
+arrangements for the provision of sufficient information within the organisation and, where appropriate, between organisations of the railway system;
+(h)
+procedures and formats for the documentation of safety information and designation of procedure for the configuration control of vital safety information;
+(i)
+procedures to ensure that accidents, incidents, near misses and other dangerous occurrences are reported, investigated and analysed and that necessary preventive measures are taken;
+(j)
+the provision of actions plans, alerts and information in the event of an emergency, agreed upon with the appropriate public authorities; and
+(k)
+provisions for recurrent internal auditing of the safety management system.
+Infrastructure managers and railway undertakings shall include any other element necessary to cover safety risks, in accordance with the assessment of risks arising from their own activity.
+4.   The safety management system shall be adapted to the type, extent, area of operations and other conditions of the activity pursued. It shall ensure the control of all risks associated with the activity of the infrastructure manager or railway undertaking, including the supply of maintenance, without prejudice to Article 14, and material, and the use of contractors. Without prejudice to existing national and international liability rules, the safety management system shall also take into account, where appropriate and reasonable, the risks arising as a result of activities by other actors referred to in Article 4.
+5.   The safety management system of any infrastructure manager shall take into account the effects of operations by different railway undertakings on the network and shall provide for all railway undertakings to be able to operate in accordance with TSIs and national rules and with the conditions laid down in their safety certificate.
+Safety management systems shall be developed with the aim of coordinating the emergency procedures of the infrastructure manager with all railway undertakings that operate on its infrastructure, and with the emergency services, so as to facilitate the rapid intervention of rescue services, and with any other party that could be involved in an emergency situation. For cross-border infrastructure, the cooperation between the relevant infrastructure managers shall facilitate the necessary coordination and preparedness of the competent emergency services on both sides of the border.
+Following a serious accident, the railway undertaking shall provide assistance to victims helping them in complaints procedures under Union law, in particular Regulation (EC) No 1371/2007 of the European Parliament and of the Council (13), without prejudice to the obligations of other parties. Such assistance shall use channels for communicating with victims' families and include psychological support for accident victims and their families.
+6.   Before 31 May of each year, all infrastructure managers and railway undertakings shall submit to the national safety authority an annual safety report concerning the preceding calendar year. The safety report shall contain:
+(a)
+information on how the organisation's corporate safety targets are met and the results of safety plans;
+(b)
+an account of the development of national safety indicators, and of the CSIs referred to in Article 5, in so far as it is relevant to the reporting organisation;
+(c)
+the results of internal safety auditing;
+(d)
+observations on deficiencies and malfunctions of railway operations and infrastructure management that might be relevant for the national safety authority, including a summary of information provided by the relevant actors in accordance with point (b) of Article 4(5); and
+(e)
+a report on the application of the relevant CSMs.
+7.   On the basis of the information provided by the national safety authorities in accordance with Articles 17 and 19, the Agency may address a recommendation to the Commission for a CSM covering elements of the safety management system which need to be harmonised at Union level, including through harmonised standards, as referred to in point (f) of Article 6(1). In such case, Article 6(2) shall apply.

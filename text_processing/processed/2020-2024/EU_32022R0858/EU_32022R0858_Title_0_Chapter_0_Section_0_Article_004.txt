@@ -1,0 +1,36 @@
+Article 4
+Requirements and exemptions regarding DLT MTFs
+1.   A DLT MTF shall be subject to the requirements that apply to a multilateral trading facility under Regulation (EU) No 600/2014 and Directive 2014/65/EU.
+The first subparagraph does not apply in respect of those requirements from which the investment firm or market operator operating the DLT MTF has been exempted under paragraphs 2 and 3 of this Article, provided that that investment firm or market operator complies with:
+(a)
+Article 7;
+(b)
+paragraphs 2, 3 and 4 of this Article; and
+(c)
+any compensatory measures that the competent authority deems appropriate in order to meet the objectives of the provisions in respect of which an exemption has been requested or in order to ensure investor protection, market integrity or financial stability.
+2.   In addition to the persons specified in Article 53(3) of Directive 2014/65/EU, if requested by an operator of a DLT MTF, the competent authority may permit that operator to admit natural and legal persons to deal on own account as members or participants, provided that such persons fulfil the following requirements:
+(a)
+they are of sufficient good repute;
+(b)
+they have a sufficient level of trading ability, competence and experience, including knowledge of the functioning of distributed ledger technology;
+(c)
+they are not market makers on the DLT MTF;
+(d)
+they do not use a high-frequency algorithmic trading technique on the DLT MTF;
+(e)
+they do not provide other persons with direct electronic access to the DLT MTF;
+(f)
+they do not deal on their own account when executing client orders on the DLT market infrastructure; and
+(g)
+they have given informed consent to trading on the DLT MTF as members or participants and have been informed by the DLT MTF of the potential risks of using its systems to trade DLT financial instruments.
+Where the competent authority grants the exemption referred to in the first subparagraph of this paragraph, it may require additional measures for the protection of natural persons admitted to the DLT MTF as members or participants. Such measures shall be proportionate to the risk profile of those members or participants.
+3.   At the request of an operator of a DLT MTF, the competent authority may exempt that operator or its members or participants from Article 26 of Regulation (EU) No 600/2014.
+Where the competent authority grants an exemption as referred to in the first subparagraph of this paragraph, the DLT MTF shall keep records of all transactions executed through its systems. Those records shall contain all the details specified in Article 26(3) of Regulation (EU) No 600/2014 that are relevant, having regard to the system used by the DLT MTF and the member or participant executing the transaction. The DLT MTF shall also ensure that the competent authorities entitled to receive the data directly from the multilateral trading facility in accordance with Article 26 of that Regulation have direct and immediate access to those details. In order to access those records, such competent authority shall be admitted to the DLT MTF as a regulatory observer participant.
+The competent authority shall make available any information it has accessed in accordance with this Article to ESMA without undue delay.
+4.   Where an operator of a DLT MTF requests an exemption under paragraph 2 or 3, it shall demonstrate that the exemption requested is:
+(a)
+proportionate to, and justified by, the use of distributed ledger technology; and
+(b)
+limited to the DLT MTF and does not extend to any other multilateral trading facility operated by that operator.
+5.   Paragraphs 2, 3 and 4 of this Article apply, mutatis mutandis, to a CSD operating a DLT TSS in accordance with Article 6(2).
+6.   ESMA shall prepare guidelines on the compensatory measures referred to in paragraph 1, second subparagraph, point (c).

@@ -1,0 +1,35 @@
+Article 33
+Vigilance
+1.   SoHO competent authorities shall be responsible for the supervision of vigilance associated with SoHO activities.
+2.   SoHO competent authorities shall provide guidance and templates for the submission of SAR or SAE notifications and investigation reports as referred to in Article 44. The guidance and templates provided shall take into account the best practices documented and published by the SCB as referred to in Article 69(1), point (d). SoHO competent authorities shall also establish procedures for the receipt of SAR or SAE notifications pursuant to Article 44.
+3.   Upon receipt of a SAR or SAE notification pursuant to Article 44(3), SoHO competent authorities shall:
+(a)
+verify that the notification includes the information referred to in Article 44(3);
+(b)
+respond to the submitting SoHO entity if additional documentation or corrections are required.
+4.   Upon receipt of a SAR or SAE notification pursuant to Article 44(3), SoHO competent authorities may:
+(a)
+provide advice on the investigation planned by the SoHO entity;
+(b)
+request advice from the SCB pursuant to Article 69(1).
+Where the SAR notification concerns a transmission of a communicable disease that is rare, or unexpected for that SoHO type, SoHO national authorities shall inform the ECDC. In such cases, the SoHO national authority shall take into account any advice or information provided by the ECDC or its SoHO expert network.
+5.   Upon receipt of a SAR or SAE investigation report, SoHO competent authorities shall:
+(a)
+verify that the investigation report includes the information required pursuant to Article 44(7);
+(b)
+assess the results of the investigation and of the corrective and preventive actions described;
+(c)
+request additional documentation from the submitting SoHO entity, if required;
+(d)
+inform the submitting SoHO entity of the conclusion of the assessment, if corrections are required.
+6.   SoHO competent authorities may carry out inspections, pursuant to Article 27 or 28, as appropriate, when the SAR or SAE notification or the investigation report received indicates, or gives reasonable grounds for suspecting, that requirements of this Regulation have not been complied with, or they may carry out inspections to verify an accurate implementation of the corrective and preventive actions planned, or when they consider that a particular serious adverse reaction or serious adverse event might constitute a public health threat.
+7.   Where a SAR or SAE notification concerns a risk to public health, SoHO competent authorities shall, without delay, communicate essential information to other SoHO competent authorities via the SoHO rapid alert procedure referred to in Article 34. SoHO competent authorities receiving that information shall in turn communicate it to the general public, where relevant.
+8.   Upon receipt of a SAR or SAE notification with implications for quality, safety or supply of a product manufactured from a SoHO and regulated by other Union legislation, as referred to in Article 2(6), SoHO competent authorities shall inform, without undue delay and via their SoHO national authority, the relevant authorities competent for that product, pursuant to Article 13(6).
+9.   Upon receipt of information regarding a serious incident within the meaning of Article 2, point (65), of Regulation (EU) 2017/745, or information regarding a serious adverse reaction within the meaning of Article 1, point (12), of Directive 2001/83/EC, associated with a product manufactured from or with SoHO, where that information indicates a possible association with the quality or safety of the SoHO used to manufacture that product, the SoHO competent authorities shall communicate without undue delay the information to the SoHO establishment that released the SoHO, to facilitate possible actions to prevent further distribution of the SoHO implicated in the serious incident or serious adverse reaction.
+10.   Upon receipt of information regarding a serious incident and field safety corrective action within the meaning of Article 2, points (65) and (68), of Regulation (EU) 2017/745, as well as within the meaning of Article 2, points (68) and (71), of Regulation (EU) 2017/746 of the European Parliament and of the Council (19), the SoHO competent authorities receiving such information shall communicate it to the SoHO entities that may be using the medical device concerned when carrying out their SoHO activities. The SoHO competent authorities shall also submit that information to their SoHO national authority, provided that the incident falls within the definition of a serious adverse reaction as set out in Article 3, point (45), of this Regulation or the definition of a serious adverse event as set out in Article 3, point (46), of this Regulation.
+11.   SoHO competent authorities or Member States shall ensure that the procedures referred to in paragraphs 1 to 6 of this Article provide for an adequate interconnection between the SAR and SAE notifications pursuant to this Article and the reporting system established in accordance with Article 11 of Directive 2010/53/EU, for instance where a SAR or SAE notification relates to SoHO donations by SoHO donors that also donated organs.
+12.   SoHO competent authorities shall submit to their SoHO national authority an annual summary of the SAR and SAE notifications and the investigation reports of confirmed serious adverse reactions and serious adverse events. That summary shall, where necessary, include recommendations arising from an analysis of the serious adverse reactions and serious adverse events reported.
+13.   SoHO national authorities shall submit an annual summary of confirmed SAR or SAE notifications and of the related investigation reports to the EU SoHO Platform before 30 June of the subsequent year and shall make an aggregated version of that summary publicly available in their Member State, including via the internet. SoHO national authorities shall include in the annual summary the numbers and types of SAR or SAE notifications reported to them that meet the thresholds of seriousness and imputability as set out in the best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+14.   The Commission shall aggregate the annual summaries of the SoHO national authorities, and prepare and publish an annual Union SoHO vigilance report, after having shared it with the SoHO national authorities for review and approval. That report shall include overall pattern analysis and recommendations.
+15.   The Commission may adopt implementing acts concerning the procedures to be followed for consultation and coordination between SoHO competent authorities and the ECDC concerning relevant SAR or SAE notifications and investigations.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).

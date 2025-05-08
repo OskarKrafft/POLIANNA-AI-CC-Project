@@ -1,0 +1,36 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+1.
+‘engine’ means the motive propulsion source of a vehicle for which type-approval as a separate technical unit, as defined in point 25 of Article 3 of Directive 2007/46/EC, may be granted;
+2.
+‘gaseous pollutants’ means the exhaust gas emissions of carbon monoxide, NOx, expressed in NO2 equivalent, and hydrocarbons;
+3.
+‘particulate pollutants’ means components of the exhaust gas which are removed from the diluted exhaust gas at a maximum temperature of 325 K (52 °C) by means of the filters described in the test procedure for verifying average tailpipe emissions;
+4.
+‘tailpipe emissions’ means the emission of gaseous and particulate pollutants;
+5.
+‘crankcase’ means the spaces in, or external to, an engine which are connected to the oil sump by internal or external ducts through which gases and vapours can be emitted;
+6.
+‘pollution control device’ means those components of a vehicle that control and/or limit tailpipe emissions;
+7.
+‘on-board diagnostic (OBD) system’ means a system on board a vehicle or connected to an engine which has the capability of detecting malfunctions, and, if applicable, of indicating their occurrence by means of an alert system, of identifying the likely area of malfunction by means of information stored in computer memory, and of communicating that information off-board;
+8.
+‘defeat strategy’ means an emission control strategy that reduces the effectiveness of the emission controls under ambient or engine operating conditions encountered either during normal vehicle operation or outside the type-approval test procedures;
+9.
+‘original pollution control device’ means a pollution control device or an assembly of such devices covered by the type-approval granted for the vehicle concerned;
+10.
+‘replacement pollution control device’ means a pollution control device or an assembly of such devices intended to replace an original pollution control device and which can be approved as a separate technical unit, as defined in point 25 of Article 3 of Directive 2007/46/EC;
+11.
+‘vehicle repair and maintenance information’ means all information required for diagnosis, servicing, inspection, periodic monitoring, repair, re-programming or re-initialising or the remote diagnostic support of the vehicle and which the manufacturers provide for their authorised dealers and repairers, including all subsequent amendments and supplements to such information. This information includes all information required for fitting parts or equipment onto vehicles;
+12.
+‘manufacturer’ means the person or body who is responsible to the approval authority for all aspects of the type-approval or authorisation process and for ensuring conformity of production. It is not essential that the person or body be directly involved in all stages of the construction of the vehicle, system, component or separate technical unit which is the subject of the approval process;
+13.
+‘independent operator’ means undertakings other than authorised dealers and repairers which are directly or indirectly involved in the repair and maintenance of motor vehicles, in particular repairers, manufacturers or distributors of repair equipment, tools or spare parts, publishers of technical information, automobile clubs, roadside assistance operators, operators offering inspection and testing services, operators offering training for installers, manufacturers and repairers of equipment for alternative fuel vehicles;
+14.
+‘alternative fuel vehicle’ means a vehicle designed to be capable of running on at least one type of fuel that is either gaseous at atmospheric temperature and pressure, or substantially non-mineral oil derived;
+15.
+‘reference mass’ means the mass of the vehicle in running order less the uniform mass of the driver of 75 kg and increased by a uniform mass of 100 kg;
+16.
+‘tampering’ means inactivation, adjustment or modification of the vehicle emissions control or propulsion system, including any software or other logical control elements of those systems, that has the effect, whether intended or not, of worsening the emissions performance of the vehicle.
+The Commission may adapt the definition in point 7 of the first subparagraph to reflect technical progress in OBD systems. That measure, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(2).

@@ -1,0 +1,33 @@
+Article 75
+Providing custody and administration of crypto-assets on behalf of clients
+1.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such an agreement shall include at least the following:
+(a)
+the identity of the parties to the agreement;
+(b)
+the nature of the crypto-asset service provided and a description of that service;
+(c)
+the custody policy;
+(d)
+the means of communication between the crypto-asset service provider and the client, including the client’s authentication system;
+(e)
+a description of the security systems used by the crypto-asset service provider;
+(f)
+the fees, costs and charges applied by the crypto-asset service provider;
+(g)
+the applicable law.
+2.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall keep a register of positions, opened in the name of each client, corresponding to each client’s rights to the crypto-assets. Where relevant, crypto-asset service providers shall record as soon as possible in that register any movements following instructions from their clients. In such cases, their internal procedures shall ensure that any movement affecting the registration of the crypto-assets is evidenced by a transaction regularly registered in the client’s register of positions.
+3.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall establish a custody policy with internal rules and procedures to ensure the safekeeping or the control of such crypto-assets, or the means of access to the crypto-assets.
+The custody policy referred to in the first subparagraph shall minimise the risk of a loss of clients’ crypto-assets or the rights related to those crypto-assets or the means of access to the crypto-assets due to fraud, cyber threats or negligence.
+A summary of the custody policy shall be made available to clients at their request in an electronic format.
+4.   Where applicable, crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall facilitate the exercise of the rights attached to the crypto-assets. Any event likely to create or modify the rights of a client shall immediately be recorded in the client’s register of positions.
+Where there are changes to the underlying distributed ledger technology or any other event likely to create or modify a client’s rights, the client shall be entitled to any crypto-assets or any rights newly created on the basis and to the extent of the client’s positions at the time of the occurrence of that change or event, except when a valid agreement signed with the crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients pursuant to paragraph 1 prior to that change or event expressly provides otherwise.
+5.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall provide their clients, at least once every three months and at the request of the client concerned, with a statement of position of the crypto-assets recorded in the name of those clients. That statement of position shall be made in an electronic format. The statement of position shall identify the crypto-assets concerned, their balance, their value and the transfer of crypto-assets made during the period concerned.
+Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall provide their clients as soon as possible with any information about operations on crypto-assets that require a response from those clients.
+6.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall ensure that necessary procedures are in place to return crypto-assets held on behalf of their clients, or the means of access, as soon as possible to those clients.
+7.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall segregate holdings of crypto-assets on behalf of their clients from their own holdings and ensure that the means of access to crypto-assets of their clients is clearly identified as such. They shall ensure that, on the distributed ledger, their clients’ crypto-assets are held separately from their own crypto-assets.
+The crypto-assets held in custody shall be legally segregated from the crypto-asset service provider’s estate in the interest of the clients of the crypto-asset service provider in accordance with applicable law, so that creditors of the crypto-asset service provider have no recourse to crypto-assets held in custody by the crypto-asset service provider, in particular in the event of insolvency.
+Crypto-asset service provider shall ensure that the crypto-assets held in custody are operationally segregated from the crypto-asset service provider’s estate.
+8.   Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall be liable to their clients for the loss of any crypto-assets or of the means of access to the crypto-assets as a result of an incident that is attributable to them. The liability of the crypto-asset service provider shall be capped at the market value of the crypto-asset that was lost, at the time the loss occurred.
+Incidents not attributable to the crypto-asset service provider include any event in respect of which the crypto-asset service provider demonstrates that it occurred independently of the provision of the relevant service, or independently of the operations of the crypto-asset service provider, such as a problem inherent in the operation of the distributed ledger that the crypto-asset service provider does not control.
+9.   If crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients make use of other crypto-asset service providers of that service, they shall only make use of crypto-asset service providers authorised in accordance with Article 59.
+Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients and that make use of other crypto-asset service providers of that service shall inform their clients thereof.

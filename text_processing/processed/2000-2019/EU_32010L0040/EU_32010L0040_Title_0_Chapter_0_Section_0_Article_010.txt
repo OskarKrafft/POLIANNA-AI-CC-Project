@@ -1,0 +1,8 @@
+Article 10
+Rules on privacy, security and re-use of information
+1.   Member States shall ensure that the processing of personal data in the context of the operation of ITS applications and services is carried out in accordance with Union rules protecting fundamental rights and freedoms of individuals, in particular Directive 95/46/EC and Directive 2002/58/EC.
+2.   In particular, Member States shall ensure that personal data are protected against misuse, including unlawful access, alteration or loss.
+3.   Without prejudice to paragraph 1, in order to ensure privacy, the use of anonymous data shall be encouraged, where appropriate, for the performance of the ITS applications and services.
+Without prejudice to Directive 95/46/EC personal data shall only be processed insofar as such processing is necessary for the performance of ITS applications and services.
+4.   With regard to the application of Directive 95/46/EC and in particular where special categories of personal data are involved, Member States shall also ensure that the provisions on consent to the processing of such personal data are respected.
+5.   Directive 2003/98/EC shall apply.

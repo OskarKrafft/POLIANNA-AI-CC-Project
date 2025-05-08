@@ -1,0 +1,23 @@
+Article 32
+Transitional National Plan
+1.   During the period from 1 January 2016 to 30 June 2020, Member States may draw up and implement a transitional national plan covering combustion plants which were granted the first permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003. For each of the combustion plants covered by the plan, the plan shall cover emissions of one or more of the following pollutants: nitrogen oxides, sulphur dioxide and dust. For gas turbines, only nitrogen oxides emissions shall be covered by the plan.
+The transitional national plan shall not include any of the following combustion plants:
+(a)
+those to which Article 33(1) applies;
+(b)
+those within refineries firing low calorific gases from the gasification of refinery residues or the distillation and conversion residues from the refining of crude oil for own consumption, alone or with other fuels;
+(c)
+those to which Article 35 applies;
+(d)
+those which are granted an exemption as referred to in Article 4(4) of Directive 2001/80/EC.
+2.   Combustion plants covered by the plan may be exempted from compliance with the emission limit values referred to in Article 30(2) for the pollutants which are subject to the plan or, where applicable, with the rates of desulphurisation referred to in Article 31.
+The emission limit values for sulphur dioxide, nitrogen oxides and dust set out in the permit for the combustion plant applicable on 31 December 2015, pursuant in particular to the requirements of Directives 2001/80/EC and 2008/1/EC, shall at least be maintained.
+Combustion plants with a total rated thermal input of more than 500 MW firing solid fuels, which were granted the first permit after 1 July 1987, shall comply with the emission limit values for nitrogen oxides set out in Part 1 of Annex V.
+3.   For each of the pollutants it covers, the transitional national plan shall set a ceiling defining the maximum total annual emissions for all of the plants covered by the plan on the basis of each plant’s total rated thermal input on 31 December 2010, its actual annual operating hours and its fuel use, averaged over the last 10 years of operation up to and including 2010.
+The ceiling for the year 2016 shall be calculated on the basis of the relevant emission limit values set out in Annexes III to VII to Directive 2001/80/EC or, where applicable, on the basis of the rates of desulphurisation set out in Annex III to Directive 2001/80/EC. In the case of gas turbines, the emission limit values for nitrogen oxides set out for such plants in Part B of Annex VI to Directive 2001/80/EC shall be used. The ceilings for the years 2019 and 2020 shall be calculated on the basis of the relevant emission limit values set out in Part 1 of Annex V to this Directive or, where applicable, the relevant rates of desulphurisation set out in Part 5 of Annex V to this Directive. The ceilings for the years 2017 and 2018 shall be set providing a linear decrease of the ceilings between 2016 and 2019.
+Where a plant included in the transitional national plan is closed or no longer falls within the scope of Chapter III, this shall not result in an increase in total annual emissions from the remaining plants covered by the plan.
+4.   The transitional national plan shall also contain provisions on monitoring and reporting that comply with the implementing rules established in accordance with Article 41(b), as well as the measures foreseen for each of the plants in order to ensure timely compliance with the emission limit values that will apply from 1 July 2020.
+5.   Not later than 1 January 2013, Member States shall communicate their transitional national plans to the Commission.
+The Commission shall evaluate the plans and, where the Commission has raised no objections within 12 months of receipt of a plan, the Member State concerned shall consider its plan to be accepted.
+When the Commission considers a plan not to be in accordance with the implementing rules established in accordance with Article 41(b), it shall inform the Member State concerned that its plan cannot be accepted. In relation to the evaluation of a new version of a plan which a Member State communicates to the Commission, the time period referred to in the second subparagraph shall be 6 months.
+6.   Member States shall inform the Commission of any subsequent changes to the plan.

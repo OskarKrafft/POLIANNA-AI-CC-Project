@@ -1,0 +1,14 @@
+Article 24
+Company risk preparedness
+1.   By 24 May 2025 and within 12 months of each update of the list of strategic raw materials pursuant to Article 3(3), Member States shall identify the large companies operating on their territory that use strategic raw materials to manufacture batteries for energy storage and e-mobility, equipment related to hydrogen production and utilisation, equipment related to renewable energy generation, aircrafts, traction motors, heat pumps, equipment related to data transmission and storage, mobile electronic devices, equipment related to additive manufacturing, equipment related to robotics, drones, rocket launchers, satellites or advanced chips.
+2.   Large companies as referred to in paragraph 1 shall, at least every three years and to the extent the required information is available to them, carry out a risk assessment of their raw materials supply chain of strategic raw materials, including:
+(a)
+a mapping of where the strategic raw materials they use are extracted, processed or recycled;
+(b)
+an analysis of the factors that might affect their supply of strategic raw materials;
+(c)
+an assessment of their vulnerabilities to supply disruptions.
+3.   Where the information referred to in paragraph 2 of this Article is not made available to large companies as referred to in paragraph 1 of this Article by their suppliers upon request, they may carry out their risk assessment on the basis of the information published by the Commission pursuant to Article 20(4), or otherwise publicly available information, to the extent possible.
+4.   If significant vulnerabilities to supply disruptions are detected as a result of the risk assessment referred to in paragraph 2, large companies as referred to under paragraph 1 shall take efforts to mitigate those vulnerabilities, including by assessing the possibility to diversify its raw materials supply chains or to substitute the strategic raw materials.
+5.   Large companies as referred to in paragraph 1 may present a report to their board of directors containing the results of the risk assessment referred to in paragraph 2, including the source of the information on which the assessment is based, any significant risks detected as well as mitigation measures envisioned or implemented.
+6.   Member States may require large companies as referred to in paragraph 1 to present to their board of directors the report referred to in paragraph 5 and the requests for information referred to in paragraph 3.

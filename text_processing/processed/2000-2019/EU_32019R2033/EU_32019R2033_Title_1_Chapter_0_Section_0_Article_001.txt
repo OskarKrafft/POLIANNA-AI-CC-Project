@@ -1,0 +1,33 @@
+Article 1
+Subject matter and scope
+1.   This Regulation lays down uniform prudential requirements which apply to investment firms authorised and supervised under Directive 2014/65/EU and supervised for compliance with prudential requirements under Directive (EU) 2019/2034 in relation to the following:
+(a)
+own funds requirements relating to quantifiable, uniform and standardised elements of risk‐to‐firm, risk‐to‐client and risk‐to‐market;
+(b)
+requirements limiting concentration risk;
+(c)
+liquidity requirements relating to quantifiable, uniform and standardised elements of liquidity risk;
+(d)
+reporting requirements related to points (a), (b) and (c);
+(e)
+public disclosure requirements.
+2.   By way of derogation from paragraph 1, an investment firm authorised and supervised under Directive 2014/65/EU, which carries out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU, shall apply the requirements of Regulation (EU) No 575/2013 where the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking, and any of the following conditions apply:
+(a)
+the total value of the consolidated assets of the investment firm is equal to or exceeds EUR 15 billion, calculated as an average of the previous 12 months excluding the value of the individual assets of any subsidiaries established outside the Union that carry out any of the activities referred to in this subparagraph;
+(b)
+the total value of the consolidated assets of the investment firm is less than EUR 15 billion, and the investment firm is part of a group in which the total value of the consolidated assets of all undertakings in the group that individually have total assets of less than EUR 15 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 15 billion, all calculated as an average of the previous 12 months, excluding the value of the individual assets of any subsidiaries established outside the Union that carry out either of the activities referred to in this subparagraph; or
+(c)
+the investment firm is subject to a decision by the competent authority in accordance with Article 5 of Directive (EU) 2019/2034.
+Investment firms referred to in this paragraph shall be supervised for compliance with prudential requirements under Titles VII and VIII of Directive 2013/36/EU, including for the purposes of the determination of the consolidating supervisor where such investment firms belong to an investment firm group as defined in point (25) of Article 4(1) of this Regulation.
+3.   The derogation provided for in paragraph 2 does not apply where an investment firm no longer meets any of the thresholds set out in that paragraph, calculated over a period of 12 consecutive months, or where a competent authority so decides in accordance with Article 5 of Directive (EU) 2019/2034. The investment firm shall notify the competent authority without undue delay any breach of a threshold during that period.
+4.   Investment firms that meet the conditions set out in paragraph 2 shall remain subject to the requirements of Articles 55 and 59.
+5.   By way of derogation from paragraph 1, competent authorities may allow an investment firm authorised and supervised under Directive 2014/65/EU that carries out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU to apply the requirements of Regulation (EU) No 575/2013 where all of the following conditions are fulfilled:
+(a)
+the investment firm is a subsidiary and is included in the supervision on a consolidated basis of a credit institution, a financial holding company or a mixed financial holding company, in accordance with the provisions of Chapter 2 of Title II of Part One of Regulation (EU) No 575/2013;
+(b)
+the investment firm notifies the competent authority under this Regulation and the consolidating supervisor, if applicable;
+(c)
+the competent authority is satisfied that the application of the own funds requirements of Regulation (EU) No 575/2013 on an individual basis to the investment firm and on a consolidated basis to the group, as applicable, is prudentially sound, does not result in a reduction of the own funds requirements of the investment firm under this Regulation, and is not undertaken for the purposes of regulatory arbitrage.
+Competent authorities shall inform the investment firm of a decision to allow the application of Regulation (EU) No 575/2013 and Directive 2013/36/EU pursuant to the first subparagraph within two months from the receipt of a notification referred to in point (b) of the first subparagraph of this paragraph, and shall inform EBA thereof. Where a competent authority refuses to allow the application of Regulation (EU) No 575/2013 and Directive 2013/36/EU, it shall provide full reasons.
+Investment firms referred to in this paragraph shall be supervised for compliance with prudential requirements under Titles VII and VIII of Directive 2013/36/EU, including for the purposes of the determination of the consolidating supervisor where such investment firms belong to an investment firm group as defined in point (25) of Article 4(1) of this Regulation.
+For the purposes of this paragraph, Article 7 of Regulation (EU) No 575/2013 shall not apply.

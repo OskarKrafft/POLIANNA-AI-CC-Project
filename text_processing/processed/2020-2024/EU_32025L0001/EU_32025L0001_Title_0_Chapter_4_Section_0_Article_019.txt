@@ -1,0 +1,23 @@
+Article 19
+Conditions for resolution
+1.   Member States shall ensure that resolution authorities take a resolution action in relation to an insurance or reinsurance undertaking only where all of the following conditions are met:
+(a)
+the supervisory authority, after having consulted the resolution authority, or the resolution authority, after having consulted the supervisory authority, has determined that the insurance or reinsurance undertaking is failing or likely to fail;
+(b)
+there is no reasonable prospect that any alternative private sector measures or supervisory action, including preventive and corrective measures, would prevent the failure of the undertaking within a reasonable timeframe;
+(c)
+resolution action is necessary in the public interest.
+2.   Where a resolution authority takes a resolution action and until that resolution action has been terminated, the supervisory authority shall not adopt measures with respect to the undertaking under resolution unless the resolution authority agrees with such measures.
+3.   Member States shall ensure that resolution authorities have the necessary tools, in particular adequate access to any relevant information, for making the determination under paragraph 1, point (a), after having consulted the supervisory authority. The supervisory authority shall provide the resolution authority without delay with any relevant information that the latter requests in order to perform its assessment.
+4.   An insurance or reinsurance undertaking shall be deemed to be failing or likely to fail in any of the following circumstances:
+(a)
+the insurance or reinsurance undertaking is in breach or likely to be in breach of the Minimum Capital Requirement referred to in Title I, Chapter VI, Section 5, of Directive 2009/138/EC and there is no reasonable prospect of compliance being restored;
+(b)
+the insurance or reinsurance undertaking no longer fulfils the conditions for authorisation or fails seriously in its obligations under the laws and regulations to which it is subject, or there are objective elements to support that the undertaking will, in the near future, seriously fail its obligations in a way that would justify the withdrawal of the authorisation;
+(c)
+the assets of the insurance or reinsurance undertaking are or there are objective elements to support a determination that the assets of the undertaking will, in the near future, be less than its liabilities;
+(d)
+the insurance or reinsurance undertaking is unable to pay its debts or other liabilities, including payments to policy holders or beneficiaries, as they fall due, or there are objective elements to support a determination that the undertaking will, in the near future, be in such a situation;
+(e)
+extraordinary public financial support is required.
+5.   For the purposes of paragraph 1, point (c), a resolution action shall be in the public interest where such action is necessary for the achievement of, and is proportionate to, one or more of the resolution objectives and the winding-up of the undertaking under normal insolvency proceedings, including with the use of insurance guarantee schemes applicable to that undertaking if the conditions for normal insolvency proceedings are met, would not meet those objectives to the same extent.

@@ -1,0 +1,31 @@
+Article 48
+Threshold exemptions from deduction from Common Equity Tier 1 items
+1.   In making the deductions required pursuant to points (c) and (i) of Article 36(1), institutions are not required to deduct the amounts of the items listed in points (a) and (b) of this paragraph which in aggregate are equal to or less than the threshold amount referred to in paragraph 2:
+(a)
+deferred tax assets that are dependent on future profitability and arise from temporary differences, and in aggregate are equal to or less than 10 % of the Common Equity Tier 1 items of the institution calculated after applying the following:
+(i)
+Articles 32 to 35;
+(ii)
+points (a) to (h), points (k)(ii) to (v) and point (l) of Article 36(1), excluding deferred tax assets that rely on future profitability and arise from temporary differences.
+(b)
+where an institution has a significant investment in a financial sector entity, the direct, indirect and synthetic holdings of that institution of the Common Equity Tier 1 instruments of those entities that in aggregate are equal to or less than 10 % of the Common Equity Tier 1 items of the institution calculated after applying the following:
+(i)
+Article 32 to 35;
+(ii)
+points (a) to (h), points (k)(ii) to (v) and point (l), of Article 36(1) excluding deferred tax assets that rely on future profitability and arise from temporary differences.
+2.   For the purposes of paragraph 1, the threshold amount shall be equal to the amount referred to in point (a) of this paragraph multiplied by the percentage referred to in point (b) of this paragraph:
+(a)
+the residual amount of Common Equity Tier 1 items after applying the adjustments and deductions in Articles 32 to 36 in full and without applying the threshold exemptions specified in this Article;
+(b)
+17,65 %.
+3.   For the purposes of paragraph 1, an institution shall determine the portion of deferred tax assets in the total amount of items that is not required to be deducted by dividing the amount specified in point (a) of this paragraph by the amount specified in point (b) of this paragraph:
+(a)
+the amount of deferred tax assets that are dependent on future profitability and arise from temporary differences, and in aggregate are equal to or less than 10 % of the Common Equity Tier 1 items of the institution;
+(b)
+the sum of the following:
+(i)
+the amount referred to in point (a);
+(ii)
+the amount of direct, indirect and synthetic holdings by the institution of the own funds instruments of financial sector entities in which the institution has a significant investment, and in aggregate are equal to or less than 10 % of the Common Equity Tier 1 items of the institution.
+The proportion of significant investments in the total amount of items that is not required to be deducted is equal to one minus the proportion referred to in the first subparagraph.
+4.   The amounts of the items that are not deducted pursuant to paragraph 1 shall be risk weighted at 250 %.

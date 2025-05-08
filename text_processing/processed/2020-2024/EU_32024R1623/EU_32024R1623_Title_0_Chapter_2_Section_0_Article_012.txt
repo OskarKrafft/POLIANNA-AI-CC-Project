@@ -1,0 +1,34 @@
+Article 320
+Exclusion of losses
+1.   An institution may request permission from the competent authority to exclude from the calculation of its annual operational risk loss exceptional operational risk events that are no longer relevant to the institution’s risk profile, where all of the following conditions are met:
+(a)
+the institution can demonstrate to the satisfaction of the competent authority that the cause of the operational risk event at the origin of those operational risk losses will not occur again;
+(b)
+the aggregated net loss of the corresponding operational risk event is either of the following:
+(i)
+equal to or exceed 10 % of the institution’s average annual operational risk loss, calculated over the last 10 financial years and based on the threshold referred to in Article 319(1), where the operational risk loss event refers to activities that are still part of the business indicator;
+(ii)
+related to an operational risk event that refers to activities divested from the business indicator in accordance with Article 315(2);
+(c)
+the operational risk loss was in the loss database for a minimum period of one year, unless the operational risk loss is related to activities divested from the business indicator in accordance with Article 315(2).
+For the purposes of the first subparagraph, point (c), of this paragraph the minimum period of one year shall start from the date on which the operational risk event, included in the loss data set, first became greater than the materiality threshold provided for in Article 319(1).
+2.   An institution requesting the permission referred to in paragraph 1 shall provide the competent authority with documented justifications for the exclusion of an exceptional operational risk event, including:
+(a)
+a description of the operational risk event;
+(b)
+proof that the loss from the operational risk event is above the materiality threshold for loss exclusion referred to in paragraph 1, point (b)(i), including the date on which that operational risk event became greater than the materiality threshold;
+(c)
+the date on which the operational risk event concerned would be excluded, considering the minimum retention period set out in paragraph 1, point (c);
+(d)
+the reason why the operational risk event is no longer deemed relevant to the institution’s risk profile;
+(e)
+a demonstration that there are no similar or residual legal exposures and that the operational risk event to be excluded has no relevance to other activities or products;
+(f)
+reports of the institution’s independent review or validation, confirming that the operational risk event is no longer relevant and that there are no similar or residual legal exposures;
+(g)
+proof that competent bodies of the institution, through the institution’s approval processes, have approved the request for exclusion of the operational risk event and the date of such approval;
+(h)
+the impact of the exclusion of the operational risk event on the annual operational risk loss.
+3.   EBA shall develop draft regulatory technical standards to specify the conditions that the competent authority has to assess pursuant to paragraph 1, including how the average annual operational risk loss is to be computed and the specifications on the information to be collected pursuant to paragraph 2 or any further information deemed necessary to carry out the assessment.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2027.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

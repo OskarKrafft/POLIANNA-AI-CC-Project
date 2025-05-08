@@ -1,0 +1,29 @@
+Article 11
+1.   Member States shall establish and operate a network of the following services for the spatial data sets and services for which metadata have been created in accordance with this Directive:
+(a)
+discovery services making it possible to search for spatial data sets and services on the basis of the content of the corresponding metadata and to display the content of the metadata;
+(b)
+view services making it possible, as a minimum, to display, navigate, zoom in/out, pan, or overlay viewable spatial data sets and to display legend information and any relevant content of metadata;
+(c)
+download services, enabling copies of spatial data sets, or parts of such sets, to be downloaded and, where practicable, accessed directly;
+(d)
+transformation services, enabling spatial data sets to be transformed with a view to achieving interoperability;
+(e)
+services allowing spatial data services to be invoked.
+Those services shall take into account relevant user requirements and shall be easy to use, available to the public and accessible via the Internet or any other appropriate means of telecommunication.
+2.   For the purposes of the services referred to in point (a) of paragraph 1, as a minimum the following combination of search criteria shall be implemented:
+(a)
+keywords;
+(b)
+classification of spatial data and services;
+(c)
+the quality and validity of spatial data sets;
+(d)
+degree of conformity with the implementing rules provided for in Article 7(1);
+(e)
+geographical location;
+(f)
+conditions applying to the access to and use of spatial data sets and services;
+(g)
+the public authorities responsible for the establishment, management, maintenance and distribution of spatial data sets and services.
+3.   The transformation services referred to in point (d) of paragraph 1 shall be combined with the other services referred to in that paragraph in such a way as to enable all those services to be operated in conformity with the implementing rules provided for in Article 7(1).

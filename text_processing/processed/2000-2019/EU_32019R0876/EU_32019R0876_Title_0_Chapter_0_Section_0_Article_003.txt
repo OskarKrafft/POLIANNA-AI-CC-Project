@@ -1,0 +1,1346 @@
+Article 14
+Application of requirements of Article 5 of Regulation (EU) 2017/2402 on a consolidated basis
+1.   Parent undertakings and their subsidiaries that are subject to this Regulation shall be required to meet the obligations laid down in Article 5 of Regulation (EU) 2017/2402 on a consolidated or sub-consolidated basis, to ensure that their arrangements, processes and mechanisms required by those provisions are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced. In particular, they shall ensure that subsidiaries that are not subject to this Regulation implement arrangements, processes and mechanisms to ensure compliance with those provisions.
+2.   Institutions shall apply an additional risk weight in accordance with Article 270a of this Regulation when applying Article 92 of this Regulation on a consolidated or sub-consolidated basis if the requirements laid down in Article 5 of Regulation (EU) 2017/2402 are breached at the level of an entity established in a third country included in the consolidation in accordance with Article 18 of this Regulation if the breach is material in relation to the overall risk profile of the group.’;
+(10)
+in Article 15(1), the introductory phrase of the first subparagraph is replaced by the following:
+‘1.   The consolidating supervisor may waive, on a case-by-case basis, the application of Part Three, the associated reporting requirements in Part Seven A of this Regulation, and Chapter 4 of Title VII of Directive 2013/36/EU, with the exception of point (d) of Article 430(1) of this Regulation on a consolidated basis, provided that the following conditions exist:’;
+(11)
+Article 16 is replaced by the following:
+‘Article 16
+Derogation from the application of the leverage ratio requirements on a consolidated basis for groups of investment firms
+Where all entities in a group of investment firms, including the parent entity, are investment firms that are exempt from the application of the requirements laid down in Part Seven on an individual basis in accordance with Article 6(5), the parent investment firm may choose not to apply the requirements laid down in Part Seven and the associated leverage ratio reporting requirements in Part Seven A on a consolidated basis.’;
+(12)
+Article 18 is replaced by the following:
+‘Article 18
+Methods of prudential consolidation
+1.   Institutions, financial holding companies and mixed financial holding companies that are required to comply with the requirements referred to in Section 1 of this Chapter on the basis of their consolidated situation shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries. Paragraphs 3 to 6 and paragraph 9 of this Article shall not apply where Part Six and point (d) of Article 430(1) apply on the basis of the consolidated situation of an institution, financial holding company or mixed financial holding company or on the sub-consolidated situation of a liquidity sub-group as set out in Articles 8 and 10.
+For the purposes of Article 11(3a), institutions that are required to comply with the requirements referred to in Article 92a or 92b on a consolidated basis shall carry out a full consolidation of all institutions and financial institutions that are their subsidiaries in the relevant resolution groups.
+2.   Ancillary services undertakings shall be included in consolidation in the cases, and in accordance with the methods, laid down in this Article.
+3.   Where undertakings are related within the meaning of Article 22(7) of Directive 2013/34/EU, competent authorities shall determine how consolidation is to be carried out.
+4.   The consolidating supervisor shall require the proportional consolidation according to the share of capital held of participations in institutions and financial institutions managed by an undertaking included in the consolidation together with one or more undertakings not included in the consolidation, where the liability of those undertakings is limited to the share of the capital they hold.
+5.   In the case of participations or capital ties other than those referred to in paragraphs 1 and 4, competent authorities shall determine whether and how consolidation is to be carried out. In particular, they may permit or require the use of the equity method. That method shall not, however, constitute inclusion of the undertakings concerned in supervision on a consolidated basis.
+6.   Competent authorities shall determine whether and how consolidation is to be carried out in the following cases:
+(a)
+where, in the opinion of the competent authorities, an institution exercises a significant influence over one or more institutions or financial institutions, but without holding a participation or other capital ties in those institutions; and
+(b)
+where two or more institutions or financial institutions are placed under single management other than pursuant to a contract, clauses of their memoranda or articles of association.
+In particular, competent authorities may permit or require the use of the method provided for in Article 22(7), (8) and (9) of Directive 2013/34/EU. That method shall not, however, constitute inclusion of the undertakings concerned in consolidated supervision.
+7.   Where an institution has a subsidiary which is an undertaking other than an institution, a financial institution or an ancillary services undertaking or holds a participation in such an undertaking, it shall apply to that subsidiary or participation the equity method. That method shall not, however, constitute inclusion of the undertakings concerned in supervision on a consolidated basis.
+By way of derogation from the first subparagraph, competent authorities may allow or require institutions to apply a different method to such subsidiaries or participations, including the method required by the applicable accounting framework, provided that:
+(a)
+the institution does not already apply the equity method on 28 December 2020;
+(b)
+it would be unduly burdensome to apply the equity method or the equity method does not adequately reflect the risks that the undertaking referred to in the first subparagraph poses to the institution; and
+(c)
+the method applied does not result in full or proportional consolidation of that undertaking.
+8.   Competent authorities may require full or proportional consolidation of a subsidiary or an undertaking in which an institution holds a participation where that subsidiary or undertaking is not an institution, financial institution or ancillary services undertaking and where all the following conditions are met:
+(a)
+the undertaking is not an insurance undertaking, a third-country insurance undertaking, a reinsurance undertaking, a third-country reinsurance undertaking, an insurance holding company or an undertaking excluded from the scope of Directive 2009/138/EC in accordance with Article 4 of that Directive;
+(b)
+there is a substantial risk that the institution decides to provide financial support to that undertaking in stressed conditions, in the absence of, or in excess of any contractual obligations to provide such support.
+9.   EBA shall develop draft regulatory technical standards to specify conditions in accordance with which consolidation shall be carried out in the cases referred to in paragraphs 3 to 6 and paragraph 8.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’;
+(13)
+Article 22 is replaced by the following
+‘Article 22
+Sub-consolidation in case of entities in third countries
+1.   Subsidiary institutions shall apply the requirements laid down in Articles 89, 90 and 91 and Parts Three, Four and Seven and the associated reporting requirements laid down in Part Seven A on the basis of their sub-consolidated situation if those institutions have an institution or a financial institution as a subsidiary in a third country, or hold a participation in such an undertaking.
+2.   By way of derogation from paragraph 1 of this Article, subsidiary institutions may choose not to apply the requirements laid down in Articles 89, 90 and 91 and Parts Three, Four and Seven and the associated reporting requirements laid down in Part Seven A on the basis of their sub-consolidated situation where the total assets and off-balance-sheet items of their subsidiaries and participations in third countries are less than 10 % of the total amount of the assets and off-balance-sheet items of the subsidiary institution.’;
+(14)
+the title of Part Two is replaced by the following:
+
+                                    ‘
+                                    OWN FUNDS AND ELIGIBLE LIABILITIES
+                                    ’;
+(15)
+in Article 26, paragraph 3 is replaced by the following:
+‘3.   Competent authorities shall evaluate whether issuances of capital instruments meet the criteria set out in Article 28 or, where applicable, Article 29. Institutions shall classify issuances of capital instruments as Common Equity Tier 1 instruments only after permission is granted by the competent authorities.
+By way of derogation from the first subparagraph, institutions may classify as Common Equity Tier 1 instruments subsequent issuances of a form of Common Equity Tier 1 instruments for which they have already received that permission, provided that both of the following conditions are met:
+(a)
+the provisions governing those subsequent issuances are substantially the same as the provisions governing those issuances for which the institutions have already received permission;
+(b)
+institutions have notified those subsequent issuances to the competent authorities sufficiently in advance of their classification as Common Equity Tier 1 instruments.
+Competent authorities shall consult EBA before granting permission for new forms of capital instruments to be classified as Common Equity Tier 1 instruments. Competent authorities shall have due regard to EBA's opinion and, where they decide to deviate from it, shall write to EBA within three months from the date of receipt of EBA's opinion setting out the rationale for deviating from the relevant opinion. This subparagraph does not apply to the capital instruments referred to in Article 31.
+On the basis of information collected from competent authorities, EBA shall establish, maintain and publish a list of all forms of capital instruments in each Member State that qualify as Common Equity Tier 1 instruments. In accordance with Article 35 of Regulation (EU) No 1093/2010, EBA may collect any information in connection with Common Equity Tier 1 instruments that it considers necessary to establish compliance with the criteria set out in Article 28 or, where applicable, Article 29 of this Regulation and for the purpose of maintaining and updating the list referred to in this subparagraph.
+Following the review process set out in Article 80 and where there is sufficient evidence that the relevant capital instruments do not meet or have ceased to meet the criteria set out in Article 28 or, where applicable, Article 29, EBA may decide not to add those instruments to the list referred to in the fourth subparagraph or remove them from that list, as the case may be. EBA shall make an announcement to that effect that shall also refer to the relevant competent authority's position on the matter. This subparagraph does not apply to the capital instruments referred to in Article 31.’;
+(16)
+Article 28 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (b) is replaced by the following:
+‘(b)
+(ii)
+the following subparagraph is added:
+‘For the purposes of point (b) of the first subparagraph, only the part of a capital instrument that is fully paid up shall be eligible to qualify as a Common Equity Tier 1 instrument.’;
+(b)
+in paragraph 3, the following subparagraphs are added:
+
+                                             ‘The condition set out in point (h)(v) of the first subparagraph of paragraph 1 shall be considered to be met notwithstanding a subsidiary being subject to a profit and loss transfer agreement with its parent undertaking, according to which the subsidiary is obliged to transfer, following the preparation of its annual financial statements, its annual result to the parent undertaking, where all the following conditions are met:
+(a)
+the parent undertaking owns 90 % or more of the voting rights and capital of the subsidiary;
+(b)
+the parent undertaking and the subsidiary are located in the same Member State;
+(c)
+the agreement was concluded for legitimate taxation purposes;
+(d)
+in preparing the annual financial statement, the subsidiary has discretion to decrease the amount of distributions by allocating a part or all of its profits to its own reserves or funds for general banking risk before making any payment to its parent undertaking;
+(e)
+the parent undertaking is obliged under the agreement to fully compensate the subsidiary for all losses of the subsidiary;
+(f)
+the agreement is subject to a notice period according to which the agreement can be terminated only by the end of an accounting year, with such termination taking effect no earlier than the beginning of the following accounting year, leaving the parent undertaking's obligation to fully compensate the subsidiary for all losses incurred during the current accounting year unchanged.
+Where an institution has entered into a profit and loss transfer agreement, it shall notify the competent authority without delay and provide the competent authority with a copy of the agreement. The institution shall also notify the competent authority without delay of any changes to the profit and loss transfer agreement and the termination thereof. An institution shall not enter into more than one profit and loss transfer agreement.’;
+(17)
+in Article 33(1), point (c) is replaced by the following:
+‘(c)
+(18)
+Article 36 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (b) is replaced by the following:
+‘(b)
+(ii)
+the following point is added:
+‘(n)
+(b)
+the following paragraph is added:
+‘4.   EBA shall develop draft regulatory technical standards to specify the application of the deductions referred to in point (b) of paragraph 1, including the materiality of negative effects on the value which do not cause prudential concerns.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’;
+(19)
+in Article 37, the following point is added:
+‘(c)
+(20)
+in Article 39(2), in the first subparagraph the introductory phrase is replaced by the following:
+‘Deferred tax assets that do not rely on future profitability shall be limited to deferred tax assets which were created before 23 November 2016 and which arise from temporary differences, where all the following conditions are met:’;
+(21)
+in Article 45, point (a)(i) is replaced by the following:
+‘(i)
+(22)
+Article 49 is amended as follows:
+(a)
+in paragraph 2, the following subparagraph is added:
+‘This paragraph shall not apply when calculating own funds for the purposes of the requirements laid down in Articles 92a and 92b, which shall be calculated in accordance with the deduction framework set out in Article 72e(4).’;
+(b)
+paragraph 3 is amended as follows:
+(i)
+in point (a)(iv), the last sentence is replaced by the following:
+‘The consolidated balance sheet or the extended aggregated calculation shall be reported to the competent authorities with the frequency set out in the implementing technical standards referred to in Article 430(7)’;
+(ii)
+in point (a)(v), the first sentence is replaced by the following:
+‘(v)
+(23)
+Article 52(1) is amended as follows:
+(a)
+point (a) is replaced by the following:
+‘(a)
+(b)
+the introductory phrase of point (b) is replaced by the following:
+‘(b)
+(c)
+point (c) is replaced by the following:
+‘(c)
+(d)
+point (h) is replaced by the following:
+‘(h)
+(e)
+point (j) is replaced by the following:
+‘(j)
+(f)
+point (p) is replaced by the following:
+‘(p)
+where the issuer is established in a third country and has not been designated in accordance with Article 12 of Directive 2014/59/EU as part of a resolution group the resolution entity of which is established in the Union, the law or contractual provisions governing the instruments require that, upon a decision by the relevant third-country authority, the principal amount of the instruments is to be written down on a permanent basis or the instruments are to be converted into Common Equity Tier 1 instruments;’;
+(g)
+the following points are added:
+‘(q)
+where the issuer is established in a third country and has been designated in accordance with Article 12 of Directive 2014/59/EU as part of a resolution group the resolution entity of which is established in the Union or where the issuer is established in a Member State, the instruments may only be issued under, or be otherwise subject to the laws of a third country where, under those laws, the exercise of the write-down and conversion powers referred to in Article 59 of that Directive is effective and enforceable on the basis of statutory provisions or legally enforceable contractual provisions that recognise resolution or other write-down or conversion actions;
+(r)
+the instruments are not subject to set-off or netting arrangements that would undermine their capacity to absorb losses.’;
+(h)
+the following subparagraph is added:
+‘For the purposes of point (a) of the first subparagraph, only the part of a capital instrument that is fully paid up shall be eligible to qualify as an Additional Tier 1 instrument.’;
+(24)
+in Article 54(1), the following point is added:
+‘(e)
+(25)
+in Article 59, point (a)(i) is replaced by the following:
+‘(i)
+(26)
+in Article 62, point (a) is replaced by the following:
+‘(a)
+(27)
+Article 63 is amended as follows:
+(a)
+the introductory phrase is replaced by the following:
+
+                                          ‘Capital instruments shall qualify as Tier 2 instruments, provided that the following conditions are met:’;
+(b)
+point (a) is replaced by the following:
+‘(a)
+(c)
+in point (b), the introductory phrase is replaced by the following:
+‘(b)
+(d)
+points (c) and (d) are replaced by the following:
+‘(c)
+the acquisition of ownership of the instruments is not funded directly or indirectly by the institution;
+(d)
+the claim on the principal amount of the instruments under the provisions governing the instruments ranks below any claim from eligible liabilities instruments;’;
+(e)
+in point (e), the introductory phrase is replaced by the following:
+‘(e)
+(f)
+points (f) to (n) are replaced by the following:
+‘(f)
+the instruments are not subject to any arrangement that otherwise enhances the seniority of the claim under the instruments;
+(g)
+the instruments have an original maturity of at least five years;
+(h)
+the provisions governing the instruments do not include any incentive for their principal amount to be redeemed or repaid, as applicable by the institution prior to their maturity;
+(i)
+where the instruments include one or more early repayment options, including call options, the options are exercisable at the sole discretion of the issuer;
+(j)
+the instruments may be called, redeemed, repaid or repurchased early only where the conditions set out in Article 77 are met, and not before five years after the date of issuance, except where the conditions set out in Article 78(4) are met;
+(k)
+the provisions governing the instruments do not indicate explicitly or implicitly that the instruments would be called, redeemed, repaid or repurchased early, as applicable, by the institution other than in the case of the insolvency or liquidation of the institution and the institution does not otherwise provide such an indication;
+(l)
+the provisions governing the instruments do not give the holder the right to accelerate the future scheduled payment of interest or principal, other than in the case of the insolvency or liquidation of the institution;
+(m)
+the level of interest or dividends payments, as applicable, due on the instruments will not be amended on the basis of the credit standing of the institution or its parent undertaking;
+(n)
+where the issuer is established in a third country and has been designated in accordance with Article 12 of Directive 2014/59/EU as part of a resolution group the resolution entity of which is established in the Union or where the issuer is established in a Member State, the law or contractual provisions governing the instruments require that, upon a decision by the resolution authority to exercise the write-down and conversion powers referred to in Article 59 of that Directive, the principal amount of the instruments is to be written down on a permanent basis or the instruments are to be converted to Common Equity Tier 1 instruments;
+where the issuer is established in a third country and has not been designated in accordance with Article 12 of Directive 2014/59/EU as a part of a resolution group the resolution entity of which is established in the Union, the law or contractual provisions governing the instruments require that, upon a decision by the relevant third-country authority, the principal amount of the instruments is to be written down on a permanent basis or the instruments are to be converted into Common Equity Tier 1 instruments;’;
+(g)
+the following points are added:
+‘(o)
+where the issuer is established in a third country and has been designated in accordance with Article 12 of Directive 2014/59/EU as part of a resolution group the resolution entity of which is established in the Union or where the issuer is established in a Member State, the instruments may only be issued under, or be otherwise subject to the laws of a third country where, under those laws, the exercise of the write-down and conversion powers referred to in Article 59 of that Directive is effective and enforceable on the basis of statutory provisions or legally enforceable contractual provisions that recognise resolution or other write-down or conversion actions;
+(p)
+the instruments are not subject to set-off or netting arrangements that would undermine their capacity to absorb losses.’;
+(h)
+the following paragraph is added:
+‘For the purposes of point (a) of the first paragraph, only the part of the capital instrument that is fully paid up shall be eligible to qualify as a Tier 2 instrument.’;
+(28)
+Article 64 is replaced by the following:
+‘Article 64
+Amortisation of Tier 2 instruments
+1.   The full amount of Tier 2 instruments with a residual maturity of more than five years shall qualify as Tier 2 items.
+2.   The extent to which Tier 2 instruments qualify as Tier 2 items during the final five years of maturity of the instruments is calculated by multiplying the result derived from the calculation referred to in point (a) by the amount referred to in point (b) as follows:
+(a)
+the carrying amount of the instruments on the first day of the final five-year period of their contractual maturity divided by the number of days in that period;
+(b)
+the number of remaining days of contractual maturity of the instruments.’;
+(29)
+in Article 66, the following point is added:
+‘(e)
+(30)
+in Article 69, point (a)(i) is replaced by the following:
+‘(i)
+(31)
+the following chapter is inserted after Article 72:
+
+                                       ‘
+                                       CHAPTER 5a
+
+
+
+Eligible liabilities
+
+
+Article 72a
+Eligible liabilities items
+1.   Eligible liabilities items shall consist of the following, unless they fall into any of the categories of excluded liabilities laid down in paragraph 2 of this Article, and to the extent specified in Article 72c:
+(a)
+eligible liabilities instruments where the conditions set out in Article 72b are met, to the extent that they do not qualify as Common Equity Tier 1, Additional Tier 1 or Tier 2 items;
+(b)
+Tier 2 instruments with a residual maturity of at least one year, to the extent that they do not qualify as Tier 2 items in accordance with Article 64.
+2.   The following liabilities shall be excluded from eligible liabilities items:
+(a)
+covered deposits;
+(b)
+sight deposits and short term deposits with an original maturity of less than one year;
+(c)
+the part of eligible deposits from natural persons and micro, small and medium-sized enterprises which exceeds the coverage level referred to in Article 6 of Directive 2014/49/EU of the European Parliament and of the Council (*11);
+(d)
+deposits that would be eligible deposits from natural persons, micro, small and medium–sized enterprises if they were not made through branches located outside the Union of institutions established in the Union;
+(e)
+secured liabilities, including covered bonds and liabilities in the form of financial instruments used for hedging purposes that form an integral part of the cover pool and that in accordance with national law are secured in a manner similar to covered bonds, provided that all secured assets relating to a covered bond cover pool remain unaffected, segregated and with enough funding and excluding any part of a secured liability or a liability for which collateral has been pledged that exceeds the value of the assets, pledge, lien or collateral against which it is secured;
+(f)
+any liability that arises by virtue of the holding of client assets or client money including client assets or client money held on behalf of collective investment undertakings, provided that such a client is protected under the applicable insolvency law;
+(g)
+any liability that arises by virtue of a fiduciary relationship between the resolution entity or any of its subsidiaries (as fiduciary) and another person (as beneficiary), provided that such a beneficiary is protected under the applicable insolvency or civil law;
+(h)
+liabilities to institutions, excluding liabilities to entities that are part of the same group, with an original maturity of less than seven days;
+(i)
+liabilities with a remaining maturity of less than seven days, owed to:
+(i)
+systems or system operators designated in accordance with Directive 98/26/EC of the European Parliament and of the Council (*12);
+(ii)
+participants in a system designated in accordance with Directive 98/26/EC and arising from the participation in such a system; or
+(iii)
+third-country CCPs recognised in accordance with Article 25 of Regulation (EU) No 648/2012;
+(j)
+a liability to any of the following:
+(i)
+an employee in relation to accrued salary, pension benefits or other fixed remuneration, except for the variable component of the remuneration that is not regulated by a collective bargaining agreement, and except for the variable component of the remuneration of material risk takers as referred to in Article 92(2) of Directive 2013/36/EU;
+(ii)
+a commercial or trade creditor where the liability arises from the provision to the institution or the parent undertaking of goods or services that are critical to the daily functioning of the institution's or parent undertaking's operations, including IT services, utilities and the rental, servicing and upkeep of premises;
+(iii)
+tax and social security authorities, provided that those liabilities are preferred under the applicable law;
+(iv)
+deposit guarantee schemes where the liability arises from contributions due in accordance with Directive 2014/49/EU;
+(k)
+liabilities arising from derivatives;
+(l)
+liabilities arising from debt instruments with embedded derivatives.
+For the purposes of point (l) of the first subparagraph, debt instruments containing early redemption options exercisable at the discretion of the issuer or of the holder, and debt instruments with variable interests derived from a broadly used reference rate such as Euribor or Libor, shall not be considered as debt instruments with embedded derivatives solely because of such features.
+Article 72b
+Eligible liabilities instruments
+1.   Liabilities shall qualify as eligible liabilities instruments, provided that they comply with the conditions set out in this Article and only to the extent specified in this Article.
+2.   Liabilities shall qualify as eligible liabilities instruments, provided that all the following conditions are met:
+(a)
+the liabilities are directly issued or raised, as applicable, by an institution and are fully paid up;
+(b)
+the liabilities are not owned by any of the following:
+(i)
+the institution or an entity included in the same resolution group;
+(ii)
+an undertaking in which the institution has a direct or indirect participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of that undertaking;
+(c)
+the acquisition of ownership of the liabilities is not funded directly or indirectly by the resolution entity;
+(d)
+the claim on the principal amount of the liabilities under the provisions governing the instruments is wholly subordinated to claims arising from the excluded liabilities referred to in Article 72a(2); that subordination requirement shall be considered to be met in any of the following situations:
+(i)
+the contractual provisions governing the liabilities specify that in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim on the principal amount of the instruments ranks below claims arising from any of the excluded liabilities referred to in Article 72a(2) of this Regulation;
+(ii)
+the applicable law specifies that in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim on the principal amount of the instruments ranks below claims arising from any of the excluded liabilities referred to in Article 72a(2) of this Regulation;
+(iii)
+the instruments are issued by a resolution entity which does not have on its balance sheet any excluded liabilities as referred to in Article 72a(2) of this Regulation that rank pari passu or junior to eligible liabilities instruments;
+(e)
+the liabilities are neither secured, nor subject to a guarantee or any other arrangement that enhances the seniority of the claim by any of the following:
+(i)
+the institution or its subsidiaries;
+(ii)
+the parent undertaking of the institution or its subsidiaries;
+(iii)
+any undertaking that has close links with entities referred to in points (i) and (ii);
+(f)
+the liabilities are not subject to set-off or netting arrangements that would undermine their capacity to absorb losses in resolution;
+(g)
+the provisions governing the liabilities do not include any incentive for their principal amount to be called, redeemed or repurchased prior to their maturity or repaid early by the institution, as applicable, except in the cases referred to in Article 72c(3);
+(h)
+the liabilities are not redeemable by the holders of the instruments prior to their maturity, except in the cases referred to in Article 72c(2);
+(i)
+subject to Article 72c(3) and (4), where the liabilities include one or more early repayment options, including call options, the options are exercisable at the sole discretion of the issuer, except in the cases referred to in Article 72c(2);
+(j)
+the liabilities may only be called, redeemed, repaid or repurchased early where the conditions set out in Articles 77 and 78a are met;
+(k)
+the provisions governing the liabilities do not indicate explicitly or implicitly that the liabilities would be called, redeemed, repaid or repurchased early, as applicable by the resolution entity other than in the case of the insolvency or liquidation of the institution and the institution does not otherwise provide such an indication;
+(l)
+the provisions governing the liabilities do not give the holder the right to accelerate the future scheduled payment of interest or principal, other than in the case of the insolvency or liquidation of the resolution entity;
+(m)
+the level of interest or dividend payments, as applicable, due on the liabilities is not amended on the basis of the credit standing of the resolution entity or its parent undertaking;
+(n)
+for instruments issued after 28 June 2021 the relevant contractual documentation and, where applicable, the prospectus related to the issuance explicitly refer to the possible exercise of the write-down and conversion powers in accordance with Article 48 of Directive 2014/59/EU.
+For the purposes of point (a) of the first subparagraph, only the parts of liabilities that are fully paid up shall be eligible to qualify as eligible liabilities instruments.
+For the purposes of point (d) of the first subparagraph of this Article, where some of the excluded liabilities referred to in Article 72a(2) are subordinated to ordinary unsecured claims under national insolvency law, inter alia, due to being held by a creditor who has close links with the debtor, by being or having been a shareholder, in a control or group relationship, a member of the management body or related to any of those persons, subordination shall not be assessed by reference to claims arising from such excluded liabilities.
+3.   In addition to the liabilities referred to in paragraph 2 of this Article, the resolution authority may permit liabilities to qualify as eligible liabilities instruments up to an aggregate amount that does not exceed 3,5 % of the total risk exposure amount calculated in accordance with Article 92(3) and (4), provided that:
+(a)
+all the conditions set out in paragraph 2 except for the condition set out in point (d) of the first subparagraph of paragraph 2 are met;
+(b)
+the liabilities rank pari passu with the lowest ranking excluded liabilities referred to in Article 72a(2) with the exception of the excluded liabilities that are subordinated to ordinary unsecured claims under national insolvency law referred to in the third subparagraph of paragraph 2 of this Article; and
+(c)
+the inclusion of those liabilities in eligible liabilities items would not give rise to a material risk of a successful legal challenge or of valid compensation claims as assessed by the resolution authority in relation to the principles referred to in point (g) of Article 34(1) and Article 75 of Directive 2014/59/EU.
+4.   The resolution authority may permit liabilities to qualify as eligible liabilities instruments in addition to the liabilities referred to in paragraph 2, provided that:
+(a)
+the institution is not permitted to include in eligible liabilities items liabilities referred to in paragraph 3;
+(b)
+all the conditions set out in paragraph 2, except for the condition set out in point (d) of the first subparagraph of paragraph 2, are met;
+(c)
+the liabilities rank pari passu or are senior to the lowest ranking excluded liabilities referred to in Article 72a(2), with the exception of the excluded liabilities subordinated to ordinary unsecured claims under national insolvency law referred to in the third subparagraph of paragraph 2 of this Article;
+(d)
+on the balance sheet of the institution, the amount of the excluded liabilities referred to in Article 72a(2) which rank pari passu or below those liabilities in insolvency does not exceed 5 % of the amount of the own funds and eligible liabilities of the institution;
+(e)
+the inclusion of those liabilities in eligible liabilities items would not give rise to a material risk of a successful legal challenge or of valid compensation claims as assessed by the resolution authority in relation to the principles referred to in point (g) of Article 34(1) and Article 75 of Directive 2014/59/EU.
+5.   The resolution authority may only permit an institution to include liabilities referred to either in paragraph 3 or 4 as eligible liabilities items.
+6.   The resolution authority shall consult the competent authority when examining whether the conditions set out in this Article are fulfilled.
+7.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the applicable forms and nature of indirect funding of eligible liabilities instruments;
+(b)
+the form and nature of incentives to redeem for the purposes of the condition set out in point (g) of the first subparagraph of paragraph 2 of this Article and Article 72c(3).
+Those draft regulatory technical standards shall be fully aligned with the delegated act referred to in point (a) of Article 28(5) and in point (a) of Article 52(2).
+EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 72c
+Amortisation of eligible liabilities instruments
+1.   Eligible liabilities instruments with a residual maturity of at least one year shall fully qualify as eligible liabilities items.
+Eligible liabilities instruments with a residual maturity of less than one year shall not qualify as eligible liabilities items.
+2.   For the purposes of paragraph 1, where a eligible liabilities instrument includes a holder redemption option exercisable prior to the original stated maturity of the instrument, the maturity of the instrument shall be defined as the earliest possible date on which the holder can exercise the redemption option and request redemption or repayment of the instrument.
+3.   For the purposes of paragraph 1, where an eligible liabilities instrument includes an incentive for the issuer to call, redeem, repay or repurchase the instrument prior to the original stated maturity of the instrument, the maturity of the instrument shall be defined as the earliest possible date on which the issuer can exercise that option and request redemption or repayment of the instrument.
+4.   For the purposes of paragraph 1, where an eligible liabilities instrument includes early redemption options that are exercisable at the sole discretion of the issuer prior to the original stated maturity of the instrument, but where the provisions governing the instrument do not include any incentive for the instrument to be called, redeemed, repaid or repurchased prior to its maturity and do not include any option for redemption or repayment at the discretion of the holders, the maturity of the instrument shall be defined as the original stated maturity.
+Article 72d
+Consequences of the eligibility conditions ceasing to be met
+Where, in the case of an eligible liabilities instrument, the applicable conditions set out in Article 72b cease to be met, the liabilities shall immediately cease to qualify as eligible liabilities instruments.
+Liabilities referred to in Article 72b(2) may continue to count as eligible liabilities instruments as long as they qualify as eligible liabilities instruments under Article 72b(3) or (4).
+Article 72e
+Deductions from eligible liabilities items
+1.   Institutions that are subject to Article 92a shall deduct the following from eligible liabilities items:
+(a)
+direct, indirect and synthetic holdings by the institution of own eligible liabilities instruments, including own liabilities that that institution could be obliged to purchase as a result of existing contractual obligations;
+(b)
+direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities with which the institution has reciprocal cross holdings that the competent authority considers to have been designed to artificially inflate the loss absorption and recapitalisation capacity of the resolution entity;
+(c)
+the applicable amount determined in accordance with Article 72i of direct, indirect and synthetic holdings of eligible liabilities instruments of G-SII entities, where the institution does not have a significant investment in those entities;
+(d)
+direct, indirect and synthetic holdings by the institution of eligible liabilities instruments of G-SII entities, where the institution has a significant investment in those entities, excluding underwriting positions held for five business days or fewer.
+2.   For the purposes of this Section, all instruments ranking pari passu with eligible liabilities instruments shall be treated as eligible liabilities instruments, with the exception of instruments ranking pari passu with instruments recognised as eligible liabilities pursuant to Article 72b(3) and (4).
+3.   For the purposes of this Section, institutions may calculate the amount of holdings of the eligible liabilities instruments referred to in Article 72b(3) as follows:
+
+
+
+
+
+where:
+h
+=
+the amount of holdings of the eligible liabilities instruments referred to in Article 72b(3);
+i
+=
+the index denoting the issuing institution;
+Hi
+
+=
+the total amount of holdings of eligible liabilities of the issuing institution i referred to in Article 72b(3);
+li
+
+=
+the amount of liabilities included in eligible liabilities items by the issuing institution i within the limits specified in Article 72b(3) according to the latest disclosures by the issuing institution; and
+Li
+
+=
+the total amount of the outstanding liabilities of the issuing institution i referred to in Article 72b(3) according to the latest disclosures by the issuer.
+4.   Where an EU parent institution or a parent institution in a Member State that is subject to Article 92a has direct, indirect or synthetic holdings of own funds instruments or eligible liabilities instruments of one or more subsidiaries which do not belong to the same resolution group as that parent institution, the resolution authority of that parent institution, after duly considering the opinion of the resolution authorities of any subsidiaries concerned, may permit the parent institution to deduct such holdings by deducting a lower amount specified by the resolution authority of that parent institution. That adjusted amount shall be at least equal to the amount (m) calculated as follows:
+ 
+mi = max{0; OPi + LPi – max{0; β · [Oi + Li – ri · aRWAi]}}
+where:
+i
+=
+the index denoting the subsidiary;
+OPi
+
+=
+the amount of own funds instruments issued by subsidiary i and held by the parent institution;
+LPi
+
+=
+the amount of eligible liabilities items issued by subsidiary i and held by the parent institution;
+
+β
+
+=
+percentage of own funds instruments and eligible liabilities items issued by subsidiary i and held by the parent undertaking;
+Oi
+
+=
+the amount of own funds of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
+Li
+
+=
+the amount of eligible liabilities of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
+ri
+
+=
+the ratio applicable to subsidiary i at the level of its resolution group in accordance with point (a) of Article 92a(1) of this Regulation and Article 45d of Directive 2014/59/EU; and
+aRWAi
+
+=
+the total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3) and (4), taking into account the adjustments set out in Article 12a.
+Where the parent institution is allowed to deduct the adjusted amount in accordance with the first subparagraph, the difference between the amount of holdings of own funds instruments and eligible liabilities instruments referred to in the first subparagraph and that adjusted amount shall be deducted by the subsidiary.
+Article 72f
+Deduction of holdings of own eligible liabilities instruments
+For the purposes of point (a) of Article 72e(1), institutions shall calculate holdings on the basis of the gross long positions subject to the following exceptions:
+(a)
+institutions may calculate the amount of holdings on the basis of the net long position, provided that both the following conditions are met:
+(i)
+the long and short positions are in the same underlying exposure and the short positions involve no counterparty risk;
+(ii)
+either both the long and the short positions are held in the trading book or both are held in the non-trading book;
+(b)
+institutions shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by calculating the underlying exposure to own eligible liabilities instruments in those indices;
+(c)
+institutions may net gross long positions in own eligible liabilities instruments resulting from holdings of index securities against short positions in own eligible liabilities instruments resulting from short positions in underlying indices, including where those short positions involve counterparty risk, provided that both the following conditions are met:
+(i)
+the long and short positions are in the same underlying indices;
+(ii)
+either both the long and the short positions are held in the trading book or both are held in the non-trading book.
+Article 72g
+Deduction base for eligible liabilities items
+For the purposes of points (b), (c) and (d) of Article 72e(1), institutions shall deduct the gross long positions subject to the exceptions laid down in Articles 72h and 72i.
+Article 72h
+Deduction of holdings of eligible liabilities of other G-SII entities
+Institutions not making use of the exception set out in Article 72j shall make the deductions referred to in points (c) and (d) of Article 72e(1) in accordance with the following:
+(a)
+they may calculate direct, indirect and synthetic holdings of eligible liabilities instruments on the basis of the net long position in the same underlying exposure, provided that both the following conditions are met:
+(i)
+the maturity date of the short position is either the same as, or later than the maturity date of the long position or the residual maturity of the short position is at least one year;
+(ii)
+either both the long position and the short position are held in the trading book or both are held in the non-trading book;
+(b)
+they shall determine the amount to be deducted for direct, indirect and synthetic holdings of index securities by looking through to the underlying exposure to the eligible liabilities instruments in those indices.
+Article 72i
+Deduction of eligible liabilities where the institution does not have a significant investment in G-SII entities
+1.   For the purposes of point (c) of Article 72e(1), institutions shall calculate the applicable amount to be deducted by multiplying the amount referred to in point (a) of this paragraph by the factor derived from the calculation referred to in point (b) of this paragraph:
+(a)
+the aggregate amount by which the direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1, Tier 2 instruments of financial sector entities and eligible liabilities instruments of G-SII entities in none of which the institution has a significant investment exceeds 10 % of the Common Equity Tier 1 items of the institution after applying the following:
+(i)
+Articles 32 to 35;
+(ii)
+points (a) to (g), points (k)(ii) to (k)(v) and point (l) of Article 36(1), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;
+(iii)
+Articles 44 and 45;
+(b)
+the amount of direct, indirect and synthetic holdings by the institution of the eligible liabilities instruments of G-SII entities in which the institution does not have a significant investment divided by the aggregate amount of the direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1, Tier 2 instruments of financial sector entities and eligible liabilities instruments of G-SII entities in none of which the resolution entity has a significant investment.
+2.   Institutions shall exclude underwriting positions held for five business days or fewer from the amounts referred to in point (a) of paragraph 1 and from the calculation of the factor in accordance with point (b) of paragraph 1.
+3.   The amount to be deducted pursuant to paragraph 1 shall be apportioned across each eligible liabilities instrument of a G-SII entity held by the institution. Institutions shall determine the amount of each eligible liabilities instrument that is deducted pursuant to paragraph 1 by multiplying the amount specified in point (a) of this paragraph by the proportion specified in point (b) of this paragraph:
+(a)
+the amount of holdings required to be deducted pursuant to paragraph 1;
+(b)
+the proportion of the aggregate amount of direct, indirect and synthetic holdings by the institution of the eligible liabilities instruments of G-SII entities in which the institution does not have a significant investment represented by each eligible liabilities instrument held by the institution.
+4.   The amount of holdings referred to in point (c) of Article 72e(1) that is equal to or less than 10 % of the Common Equity Tier 1 items of the institution after applying the provisions laid down in points (a)(i), (a)(ii) and (a)(iii) of paragraph 1 of this Article shall not be deducted and shall be subject to the applicable risk weights in accordance with Chapter 2 or 3 of Title II of Part Three and the requirements laid down in Title IV of Part Three, as applicable.
+5.   Institutions shall determine the amount of each eligible liabilities instrument that is risk weighted pursuant to paragraph 4 by multiplying the amount of holdings required to be risk weighted pursuant to paragraph 4 by the proportion resulting from the calculation specified in point (b) of paragraph 3.
+Article 72j
+Trading book exception from deductions from eligible liabilities items
+1.   Institutions may decide not to deduct a designated part of their direct, indirect and synthetic holdings of eligible liabilities instruments, that in aggregate and measured on a gross long basis is equal to or less than 5 % of the Common Equity Tier 1 items of the institution after applying Articles 32 to 36, provided that all the following conditions are met:
+(a)
+the holdings are in the trading book;
+(b)
+the eligible liabilities instruments are held for no longer than 30 business days.
+2.   The amounts of the items that are not deducted pursuant to paragraph 1 shall be subject to own funds requirements for items in the trading book.
+3.   Where, in the case of holdings not deducted in accordance with paragraph 1, the conditions set out in that paragraph cease to be met, the holdings shall be deducted in accordance with Article 72g without applying the exceptions laid down in Articles 72h and 72i.
+Article 72k
+Eligible liabilities
+The eligible liabilities of an institution shall consist of the eligible liabilities items of the institution after the deductions referred to in Article 72e.
+Article 72l
+Own funds and eligible liabilities
+The own funds and eligible liabilities of an institution shall consist of the sum of its own funds and its eligible liabilities.
+
+(*11)  Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)."
+                        
+
+(*12)  Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45).’;"
+                        
+(32)
+in Title I of Part Two, the title of Chapter 6 is replaced by the following:
+
+                                    ‘
+                                    
+General requirements for own funds and eligible liabilities
+
+                                    ’;
+(33)
+Article 73 is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                                ‘
+                                                Distributions on instruments
+                                                ’;
+(b)
+paragraphs 1 to 4 are replaced by the following:
+‘1.   Capital instruments and liabilities for which an institution has the sole discretion to decide to pay distributions in a form other than cash or own funds instruments shall not be eligible to qualify as Common Equity Tier 1, Additional Tier 1, Tier 2 or eligible liabilities instruments, unless the institution has received the prior permission of the competent authority.
+2.   Competent authorities shall grant the prior permission referred to in paragraph 1 only where they consider all the following conditions to be met:
+(a)
+the ability of the institution to cancel payments under the instrument would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+(b)
+the ability of the capital instrument or of the liability to absorb losses would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+(c)
+the quality of the capital instrument or liability would not otherwise be reduced by the discretion referred to in paragraph 1, or by the form in which distributions could be made.
+The competent authority shall consult the resolution authority regarding an institution's compliance with those conditions before granting the prior permission referred to in paragraph 1.
+3.   Capital instruments and liabilities for which a legal person other than the institution issuing them has the discretion to decide or require that the payment of distributions on those instruments or liabilities shall be made in a form other than cash or own funds instruments shall not be eligible to qualify as Common Equity Tier 1, Additional Tier 1, Tier 2 or eligible liabilities instruments.
+4.   Institutions may use a broad market index as one of the bases for determining the level of distributions on Additional Tier 1, Tier 2 and eligible liabilities instruments.’;
+(c)
+paragraph 6 is replaced by the following:
+‘6.   Institutions shall report and disclose the broad market indices on which their capital instruments and eligible liabilities instruments rely.’;
+(34)
+in Article 75, the introductory phrase is replaced by the following:
+
+                              ‘The maturity requirements for short positions referred to in point (a) of Article 45, point (a) of Article 59, point (a) of Article 69 and point (a) of Article 72h shall be considered to be met in respect of positions held where all the following conditions are met:’;
+(35)
+in Article 76, paragraphs 1, 2 and 3 are replaced by the following:
+‘1.   For the purposes of point (a) of Article 42, point (a) of Article 45, point (a) of Article 57, point (a) of Article 59, point (a) of Article 67, point (a) of Article 69 and point (a) of Article 72h, institutions may reduce the amount of a long position in a capital instrument by the portion of an index that is made up of the same underlying exposure that is being hedged, provided that all the following conditions are met:
+(a)
+either both the long position being hedged and the short position in an index used to hedge that long position are held in the trading book or both are held in the non-trading book;
+(b)
+the positions referred to in point (a) are held at fair value on the balance sheet of the institution;
+(c)
+the short position referred to in point (a) qualifies as an effective hedge under the internal control processes of the institution;
+(d)
+the competent authorities assess the adequacy of the internal control processes referred to in point (c) on at least an annual basis and are satisfied with their continuing appropriateness.
+2.   Where the competent authority has granted its prior permission, an institution may use a conservative estimate of the underlying exposure of the institution to instruments included in indices as an alternative to an institution calculating its exposure to the items referred to in one or more of the following points:
+(a)
+own Common Equity Tier 1, Additional Tier 1, Tier 2 and eligible liabilities instruments included in indices;
+(b)
+Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments of financial sector entities, included in indices;
+(c)
+eligible liabilities instruments of institutions, included in indices.
+3.   Competent authorities shall grant the prior permission referred to in paragraph 2 only where the institution has demonstrated to their satisfaction that it would be operationally burdensome for the institution to monitor its underlying exposure to the items referred to in one or more of the points of paragraph 2, as applicable.’;
+(36)
+Article 77 is replaced by the following:
+‘Article 77
+Conditions for reducing own funds and eligible liabilities
+1.   An institution shall obtain the prior permission of the competent authority to do any of the following:
+(a)
+reduce, redeem or repurchase Common Equity Tier 1 instruments issued by the institution in a manner that is permitted under applicable national law;
+(b)
+reduce, distribute or reclassify as another own funds item the share premium accounts related to own funds instruments;
+(c)
+effect the call, redemption, repayment or repurchase of Additional Tier 1 or Tier 2 instruments prior to the date of their contractual maturity.
+2.   An institution shall obtain the prior permission of the resolution authority to effect the call, redemption, repayment or repurchase of eligible liabilities instruments that are not covered by paragraph 1, prior to the date of their contractual maturity.’;
+(37)
+Article 78 is replaced by the following:
+‘Article 78
+Supervisory permission to reduce own funds
+1.   The competent authority shall grant permission for an institution to reduce, call, redeem, repay or repurchase Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments, or to reduce, distribute or reclassify related share premium accounts, where either of the following conditions is met:
+(a)
+before or at the same time as any of the actions referred to in Article 77(1), the institution replaces the instruments or the related share premium accounts referred to in Article 77(1) with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+(b)
+the institution has demonstrated to the satisfaction of the competent authority that the own funds and eligible liabilities of the institution would, following the action referred to in Article 77(1) of this Regulation, exceed the requirements laid down in this Regulation and in Directives 2013/36/EU and 2014/59/EU by a margin that the competent authority considers necessary.
+Where an institution provides sufficient safeguards as to its capacity to operate with own funds above the amounts required in this Regulation and in Directive 2013/36/EU, the competent authority may grant that institution a general prior permission to take any of the actions set out in Article 77(1) of this Regulation, subject to criteria that ensure that any such future action will be in accordance with the conditions set out in points (a) and (b) of this paragraph. That general prior permission shall be granted only for a specified period, which shall not exceed one year, after which it may be renewed. The general prior permission shall be granted for a certain predetermined amount, which shall be set by the competent authority. In the case of Common Equity Tier 1 instruments, that predetermined amount shall not exceed 3 % of the relevant issue and shall not exceed 10 % of the amount by which Common Equity Tier 1 capital exceeds the sum of the Common Equity Tier 1 capital requirements laid down in this Regulation, in Directives 2013/36/EU and 2014/59/EU by a margin that the competent authority considers necessary. In the case of Additional Tier 1 or Tier 2 instruments, that predetermined amount shall not exceed 10 % of the relevant issue and shall not exceed 3 % of the total amount of outstanding Additional Tier 1 or Tier 2 instruments, as applicable.
+Competent authorities shall withdraw the general prior permission where an institution breaches any of the criteria provided for the purposes of that permission.
+2.   When assessing the sustainability of the replacement instruments for the income capacity of the institution referred to in point (a) of paragraph 1, competent authorities shall consider the extent to which those replacement capital instruments would be more costly for the institution than those capital instruments or share premium accounts they would replace.
+3.   Where an institution takes an action referred to in point (a) of Article 77(1) and the refusal of redemption of Common Equity Tier 1 instruments referred to in Article 27 is prohibited by applicable national law, the competent authority may waive the conditions set out in paragraph 1 of this Article, provided that the competent authority requires the institution to limit the redemption of such instruments on an appropriate basis.
+4.   Competent authorities may permit institutions to call, redeem, repay or repurchase Additional Tier 1 or Tier 2 instruments or related share premium accounts during the five years following their date of issuance where the conditions set out in paragraph 1 and one of the following conditions is met:
+(a)
+there is a change in the regulatory classification of those instruments that would be likely to result in their exclusion from own funds or reclassification as own funds of lower quality, and both the following conditions are met:
+(i)
+the competent authority considers such a change to be sufficiently certain;
+(ii)
+the institution demonstrates to the satisfaction of the competent authority that the regulatory reclassification of those instruments was not reasonably foreseeable at the time of their issuance;
+(b)
+there is a change in the applicable tax treatment of those instruments which the institution demonstrates to the satisfaction of the competent authority is material and was not reasonably foreseeable at the time of their issuance;
+(c)
+the instruments and related share premium accounts are grandfathered under Article 494b;
+(d)
+before or at the same time as the action referred to in Article 77(1), the institution replaces the instruments or related share premium accounts referred to in Article 77(1) with own funds instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution and the competent authority has permitted that action on the basis of the determination that it would be beneficial from a prudential point of view and justified by exceptional circumstances;
+(e)
+the Additional Tier 1 or Tier 2 instruments are repurchased for market making purposes.
+5.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the meaning of ‘sustainable for the income capacity of the institution’;
+(b)
+the appropriate bases of limitation of redemption referred to in paragraph 3;
+(c)
+the process including the limits and procedures for granting approval in advance by competent authorities for an action listed in Article 77(1), and data requirements for an application by an institution for the permission of the competent authority to carry out an action listed therein, including the process to be applied in the case of redemption of shares issued to members of cooperative societies, and the time period for processing such an application.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 July 2013.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’;
+(38)
+the following article is inserted:
+‘Article 78a
+Permission to reduce eligible liabilities instruments
+1.   The resolution authority shall grant permission for an institution to call, redeem, repay or repurchase eligible liabilities instruments where one of the following conditions is met:
+(a)
+before or at the same time as any of the actions referred to in Article 77(2), the institution replaces the eligible liabilities instruments with own funds or eligible liabilities instruments of equal or higher quality at terms that are sustainable for the income capacity of the institution;
+(b)
+the institution has demonstrated to the satisfaction of the resolution authority that the own funds and eligible liabilities of the institution would, following the action referred to in Article 77(2) of this Regulation, exceed the requirements for own funds and eligible liabilities laid down in this Regulation and in Directives 2013/36/EU and 2014/59/EU by a margin that the resolution authority, in agreement with the competent authority, considers necessary;
+(c)
+the institution has demonstrated to the satisfaction of the resolution authority that the partial or full replacement of the eligible liabilities with own funds instruments is necessary to ensure compliance with the own funds requirements laid down in this Regulation and in Directive 2013/36/EU for continuing authorisation.
+Where an institution provides sufficient safeguards as to its capacity to operate with own funds and eligible liabilities above the amount of the requirements laid down in this Regulation and in Directives 2013/36/EU and 2014/59/EU, the resolution authority, after consulting the competent authority, may grant that institution a general prior permission to effect calls, redemptions, repayments or repurchases of eligible liabilities instruments, subject to criteria that ensure that any such future action will be in accordance with the conditions set out in points (a) and (b) of this paragraph. That general prior permission shall be granted only for a specified period, which shall not exceed one year, after which it may be renewed. The general prior permission shall be granted for a certain predetermined amount, which shall be set by the resolution authority. Resolution authorities shall inform the competent authorities about any general prior permission granted.
+The resolution authority shall withdraw the general prior permission where an institution breaches any of the criteria provided for the purposes of that permission.
+2.   When assessing the sustainability of the replacement instruments for the income capacity of the institution referred to in point (a) of paragraph 1, resolution authorities shall consider the extent to which those replacement capital instruments or replacement eligible liabilities would be more costly for the institution than those they would replace.
+3.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the process of cooperation between the competent authority and the resolution authority;
+(b)
+the procedure, including the time limits and information requirements, for granting the permission in accordance with the first subparagraph of paragraph 1;
+(c)
+the procedure, including the time limits and information requirements, for granting the general prior permission in accordance with the second subparagraph of paragraph 1;
+(d)
+the meaning of ‘sustainable for the income capacity of the institution’.
+For the purposes of point (d) of the first subparagraph of this paragraph, the draft regulatory technical standards shall be fully aligned with the delegated act referred to in Article 78.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’;
+(39)
+Article 79 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Temporary waiver from deduction from own funds and eligible liabilities’;
+(b)
+paragraph 1 is replaced by the following:
+‘1.   Where an institution holds capital instruments or liabilities that qualify as own funds instruments in a financial sector entity or as eligible liabilities instruments in an institution and where the competent authority considers those holdings to be for the purposes of a financial assistance operation designed to reorganise and restore the viability of that entity or that institution, the competent authority may waive on a temporary basis the provisions on deduction that would otherwise apply to those instruments.’;
+(40)
+the following article is inserted:
+‘Article 79a
+Assessment of compliance with the conditions for own funds and eligible liabilities instruments
+Institutions shall have regard to the substantial features of instruments and not only their legal form when assessing compliance with the requirements laid down in Part Two. The assessment of the substantial features of an instrument shall take into account all arrangements related to the instruments, even where those are not explicitly set out in the terms and conditions of the instruments themselves, for the purpose of determining that the combined economic effects of such arrangements are compliant with the objective of the relevant provisions.’;
+(41)
+Article 80 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Continuing review of the quality of own funds and eligible liabilities instruments’;
+(b)
+paragraph 1 is replaced by the following:
+‘1.   EBA shall monitor the quality of own funds and eligible liabilities instruments issued by institutions across the Union and shall notify the Commission immediately where there is significant evidence that those instruments do not meet the respective eligibility criteria set out in this Regulation.
+Competent authorities shall, without delay and upon request by EBA, forward all information to EBA that EBA considers relevant concerning new capital instruments or new types of liabilities issued in order to enable EBA to monitor the quality of own funds and eligible liabilities instruments issued by institutions across the Union.’;
+(c)
+in paragraph 3, the introductory phrase is replaced by the following:
+‘3.   EBA shall provide technical advice to the Commission on any significant changes it considers to be required to the definition of own funds and eligible liabilities as a result of any of the following:’;
+(42)
+in Article 81, paragraph 1 is replaced by the following:
+‘1.   Minority interests shall comprise the sum of Common Equity Tier 1 items of a subsidiary where the following conditions are met:
+(a)
+the subsidiary is one of the following:
+(i)
+an institution;
+(ii)
+an undertaking that is subject by virtue of applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+(iii)
+an intermediate financial holding company in a third country that is subject to prudential requirements as stringent as those applied to credit institutions of that third country and where the Commission has decided in accordance with Article 107(4) that those prudential requirements are at least equivalent to those of this Regulation;
+(b)
+the subsidiary is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One;
+(c)
+the Common Equity Tier 1 items, referred to in the introductory part of this paragraph, are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.’;
+(43)
+Article 82 is replaced by the following:
+‘Article 82
+Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds
+Qualifying Additional Tier 1, Tier 1, Tier 2 capital and qualifying own funds shall comprise the minority interest, Additional Tier 1 or Tier 2 instruments, as applicable, plus the related retained earnings and share premium accounts, of a subsidiary where the following conditions are met:
+(a)
+the subsidiary is either of the following:
+(i)
+an institution;
+(ii)
+an undertaking that is subject by virtue of the applicable national law to the requirements of this Regulation and Directive 2013/36/EU;
+(iii)
+an intermediate financial holding company in a third country that is subject to prudential requirements as stringent as those applied to credit institutions of that third country and where the Commission has decided in accordance with Article 107(4) that those prudential requirements are at least equivalent to those of this Regulation;
+(b)
+the subsidiary is included fully in the scope of consolidation pursuant to Chapter 2 of Title II of Part One;
+(c)
+those instruments are owned by persons other than the undertakings included in the consolidation pursuant to Chapter 2 of Title II of Part One.’;
+(44)
+in Article 83(1), the introductory phrase is replaced by the following:
+‘1.   Additional Tier 1 and Tier 2 instruments issued by a special purpose entity, and the related share premium accounts, are included until 31 December 2021 in qualifying Additional Tier 1, Tier 1 or Tier 2 capital or qualifying own funds, as applicable, only where the following conditions are met:’;
+(45)
+the following article is inserted:
+‘Article 88a
+Qualifying eligible liabilities instruments
+Liabilities issued by a subsidiary established in the Union that belongs to the same resolution group as the resolution entity shall qualify for inclusion in the consolidated eligible liabilities instruments of an institution subject to Article 92a, provided that all the following conditions are met:
+(a)
+they are issued in accordance with point (a) of Article 45f(2) of Directive 2014/59/EU;
+(b)
+they are bought by an existing shareholder that is not part of the same resolution group as long as the exercise of the write-down or conversion powers in accordance with Articles 59 to 62 of Directive 2014/59/EU does not affect the control of the subsidiary by the resolution entity;
+(c)
+they do not exceed the amount determined by subtracting the amount referred to in point (i) from the amount referred to in point (ii):
+(i)
+the sum of the liabilities issued to and bought by the resolution entity either directly or indirectly through other entities in the same resolution group and the amount of own funds instruments issued in accordance with point (b) of Article 45f(2) of Directive 2014/59/EU;
+(ii)
+the amount required in accordance with Article 45f(1) of Directive 2014/59/EU.’;
+(46)
+Article 92 is amended as follows:
+(a)
+in paragraph 1, the following point is added:
+‘(d)
+(b)
+the following paragraph is inserted:
+‘1a.   In addition to the requirement laid down in point (d) paragraph 1 of this Article, a G-SII shall maintain a leverage ratio buffer equal to the G-SIIs total exposure measure referred to in Article 429(4) of this Regulation multiplied by 50 % of the G-SII buffer rate applicable to the G-SII in accordance with Article 131 of Directive 2013/36/EU.
+A G-SII shall meet the leverage ratio buffer requirement with Tier 1 capital only. Tier 1 capital that is used to meet the leverage ratio buffer requirement shall not be used towards meeting any of the leverage based requirements set out in this Regulation and in Directive 2013/36/EU, unless explicitly otherwise provided therein.
+Where a G-SII does not meet the leverage ratio buffer requirement, it shall be subject to the capital conservation requirement in accordance with Article 141b of Directive 2013/36/EU.
+Where a G-SII does not meet at the same time the leverage ratio buffer requirement and the combined buffer requirement as defined in point (6) of Article 128 of Directive 2013/36/EU, it shall be subject to the higher of the capital conservation requirements in accordance with Articles 141 and 141b of that Directive.’;
+(c)
+paragraph 3 is amended as follows:
+(i)
+points (b) and (c) are replaced by the following:
+‘(b)
+the own funds requirements for the trading-book business of an institution for the following:
+(i)
+market risk as determined in accordance with Title IV of this Part, excluding the approaches set out in Chapters 1a and 1b of that Title;
+(ii)
+large exposures exceeding the limits specified in Articles 395 to 401, to the extent that an institution is permitted to exceed those limits, as determined in accordance with Part Four;
+(c)
+the own funds requirements for market risk as determined in Title IV of this Part, excluding the approaches set out in Chapters 1a and 1b of that Title, for all business activities that are subject to foreign exchange risk or commodity risk;’;
+(ii)
+the following point is inserted:
+‘(ca)
+(47)
+the following articles are inserted:
+‘Article 92a
+Requirements for own funds and eligible liabilities for G-SIIs
+1.   Subject to Articles 93 and 94 and to the exceptions set out in paragraph 2 of this Article, institutions identified as resolution entities and that are a G-SII or part of a G-SII shall at all times satisfy the following requirements for own funds and eligible liabilities:
+(a)
+a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) and (4);
+(b)
+a non-risk-based ratio of 6,75 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total exposure measure referred to in Article 429(4).
+2.   The requirements laid down in paragraph 1 shall not apply in the following cases:
+(a)
+within the three years following the date on which the institution or the group of which the institution is part has been identified as a G-SII;
+(b)
+within the two years following the date on which the resolution authority has applied the bail-in tool in accordance with Directive 2014/59/EU;
+(c)
+within the two years following the date on which the resolution entity has put in place an alternative private sector measure referred to in point (b) of Article 32(1) of Directive 2014/59/EU by which capital instruments and other liabilities have been written down or converted into Common Equity Tier 1 items in order to recapitalise the resolution entity without the application of resolution tools.
+3.   Where the aggregate resulting from the application of the requirement laid down in point (a) of paragraph 1 of this Article to each resolution entity of the same G SII exceeds the requirement for own funds and eligible liabilities calculated in accordance with Article 12a of this Regulation, the resolution authority of the EU parent institution may, after having consulted the other relevant resolution authorities, act in accordance with Article 45d(4) or 45h(1) of Directive 2014/59/EU.
+Article 92b
+Requirement for own funds and eligible liabilities for non-EU G-SIIs
+1.   Institutions that are material subsidiaries of non-EU G-SIIs and that are not resolution entities shall at all times satisfy requirements for own funds and eligible liabilities equal to 90 % of the requirements for own funds and eligible liabilities laid down in Article 92a.
+2.   For the purpose of complying with paragraph 1, Additional Tier 1, Tier 2 and eligible liabilities instruments shall only be taken into account where those instruments are owned by the ultimate parent undertaking of the non-EU G-SII and have been issued directly or indirectly through other entities within the same group, provided that all such entities are established in the same third country as that ultimate parent undertaking or in a Member State.
+3.   An eligible liabilities instrument shall only be taken into account for the purpose of complying with paragraph 1 where it fulfils all the following additional conditions:
+(a)
+in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim resulting from the liability ranks below claims resulting from liabilities that do not fulfil the conditions set out in paragraph 2 of this Article and that do not qualify as own funds;
+(b)
+it is subject to the write-down or conversion powers in accordance with Articles 59 to 62 of Directive 2014/59/EU.’;
+(48)
+Article 94 is replaced by the following:
+‘Article 94
+Derogation for small trading book business
+1.   By way of derogation from point (b) of Article 92(3), institutions may calculate the own funds requirement for their trading-book business in accordance with paragraph 2 of this Article, provided that the size of the institutions' on- and off-balance-sheet trading-book business is equal to or less than both of the following thresholds on the basis of an assessment carried out on a monthly basis using the data as of the last day of the month:
+(a)
+5 % of the institution's total assets;
+(b)
+EUR 50 million.
+2.   Where both conditions set out in points (a) and (b) of paragraph 1 are met, institutions may calculate the own funds requirement for their trading-book business as follows:
+(a)
+for the contracts listed in point 1 of Annex II, contracts relating to equities which are referred to in point 3 of that Annex and credit derivatives, institutions may exempt those positions from the own funds requirement referred to in point (b) of Article 92(3);
+(b)
+for trading book positions other than those referred to in point (a) of this paragraph, institutions may replace the own funds requirement referred to in point (b) of Article 92(3) with the requirement calculated in accordance with point (a) of Article 92(3).
+3.   Institutions shall calculate the size of their on- and off-balance-sheet trading book business on the basis of data as of the last day of each month for the purposes of paragraph 1 in accordance with the following requirements:
+(a)
+all the positions assigned to the trading book in accordance with Article 104 shall be included in the calculation except for the following:
+(i)
+positions concerning foreign exchange and commodities;
+(ii)
+positions in credit derivatives that are recognised as internal hedges against non-trading book credit risk exposures or counterparty risk exposures and the credit derivate transactions that perfectly offset the market risk of those internal hedges as referred to in Article 106(3);
+(b)
+all positions included in the calculation in accordance with point (a) shall be valued at their market value on that given date; where the market value of a position is not available on a given date, institutions shall take a fair value for the position on that date; where the market value and fair value of a position are not available on a given date, institutions shall take the most recent of the market value or fair value for that position;
+(c)
+the absolute value of long positions shall be summed with the absolute value of short positions.
+4.   Where both conditions set out in points (a) and (b) of paragraph 1 of this Article are met, irrespective of the obligations set out in Articles 74 and 83 of Directive 2013/36/EU, Article 102(3) and (4), Articles 103 and 104b of this Regulation shall not apply.
+5.   Institutions shall notify the competent authorities when they calculate, or cease to calculate, the own funds requirements of their trading-book business in accordance with paragraph 2.
+6.   An institution that no longer meets one or more of the conditions set out in paragraph 1 shall immediately notify the competent authority thereof.
+7.   An institution shall cease to calculate the own funds requirements of its trading-book business in accordance with paragraph 2 within three months of one of the following occurring:
+(a)
+the institution does not meet the conditions set out in point (a) or (b) of paragraph 1 for three consecutive months;
+(b)
+the institution does not meet the conditions set out in point (a) or (b) of paragraph 1 during more than 6 out of the last 12 months.
+8.   Where an institution has ceased to calculate the own funds requirements of its trading-book business in accordance with this Article, it shall only be permitted to calculate the own funds requirements of its trading-book business in accordance with this Article where it demonstrates to the competent authority that all the conditions set out in paragraph 1 have been met for an uninterrupted full-year period.
+9.   Institutions shall not enter into, buy or sell a trading-book position for the sole purpose of complying with any of the conditions set out in paragraph 1 during the monthly assessment.’;
+(49)
+in Title I of Part Three, Chapter 2 is deleted;
+(50)
+Article 102 is amended as follows:
+(a)
+paragraphs 2, 3 and 4 are replaced by the following:
+‘2.   Trading intent shall be evidenced on the basis of the strategies, policies and procedures set up by the institution to manage the position or portfolio in accordance with Articles 103, 104 and 104a.
+3.   Institutions shall establish and maintain systems and controls to manage their trading book in accordance with Article 103.
+4.   For the purposes of the reporting requirements set out in Article 430b(3), trading book positions shall be assigned to trading desks established in accordance with Article 104b.’;
+(b)
+the following paragraphs are added:
+‘5.   Positions in the trading book shall be subject to the requirements for prudent valuation specified in Article 105.
+6.   Institutions shall treat internal hedges in accordance with Article 106.’;
+(51)
+Article 103 is replaced by the following:
+‘Article 103
+Management of the trading book
+1.   Institutions shall have in place clearly defined policies and procedures for the overall management of the trading book. Those policies and procedures shall at least address:
+(a)
+the activities which the institution considers to be trading business and as constituting part of the trading book for own funds requirement purposes;
+(b)
+the extent to which a position can be marked-to-market daily by reference to an active, liquid two-way market;
+(c)
+for positions that are marked-to-model, the extent to which the institution can:
+(i)
+identify all material risks of the position;
+(ii)
+hedge all material risks of the position with instruments for which an active, liquid two-way market exists;
+(iii)
+derive reliable estimates for the key assumptions and parameters used in the model;
+(d)
+the extent to which the institution can, and is required to, generate valuations for the position that can be validated externally in a consistent manner;
+(e)
+the extent to which legal restrictions or other operational requirements would impede the institution's ability to effect a liquidation or hedge of the position in the short term;
+(f)
+the extent to which the institution can, and is required to, actively manage the risks of positions within its trading operation;
+(g)
+the extent to which the institution may reclassify risk or positions between the non-trading and trading books and the requirements for such reclassifications as referred to in Article 104a.
+2.   In managing its positions or portfolios of positions in the trading book, the institution shall comply with all the following requirements:
+(a)
+the institution shall have in place a clearly documented trading strategy for the position or portfolios in the trading book, which shall be approved by senior management and include the expected holding period;
+(b)
+the institution shall have in place clearly defined policies and procedures for the active management of positions or portfolios in the trading book; those policies and procedures shall include the following:
+(i)
+which positions or portfolios of positions may be entered into by each trading desk or, as the case may be, by designated dealers;
+(ii)
+the setting of position limits and monitoring them for appropriateness;
+(iii)
+ensuring that dealers have the autonomy to enter into and manage the position within agreed limits and according to the approved strategy;
+(iv)
+ensuring that positions are reported to senior management as an integral part of the institution's risk management process;
+(v)
+ensuring that positions are actively monitored with reference to market information sources and an assessment is made of the marketability or hedgeability of the position or its component risks, including the assessment, the quality and availability of market inputs to the valuation process, level of market turnover, sizes of positions traded in the market;
+(vi)
+active anti-fraud procedures and controls;
+(c)
+the institution shall have in place clearly defined policies and procedures to monitor the positions against the institution's trading strategy, including the monitoring of turnover and positions for which the originally intended holding period has been exceeded.’;
+(52)
+in Article 104, paragraph 2 is deleted;
+(53)
+the following articles are inserted:
+‘Article 104a
+Reclassification of a position
+1.   Institutions shall have in place clearly defined policies for identifying the exceptional circumstances which justify the reclassification of a trading book position as a non-trading book position or, conversely, the reclassification of a non-trading book position as a trading book position, for the purpose of determining their own funds requirements to the satisfaction of the competent authorities. The institutions shall review those policies at least annually.
+EBA shall monitor the range of supervisory practices and shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 by 28 June 2024 on the meaning of exceptional circumstances for the purposes of the first subparagraph of this paragraph. Until EBA issues those guidelines, competent authorities shall notify EBA of, and shall provide a rationale for, their decisions on whether or not to permit an institution to reclassify a position as referred to in paragraph 2 of this Article.
+2.   Competent authorities shall grant permission to reclassify a trading book position as a non-trading book position or conversely a non-trading book position as a trading book position for the purpose of determining their own funds requirements only where the institution has provided the competent authorities with written evidence that its decision to reclassify that position is the result of an exceptional circumstance that is consistent with the policies the institution has in place in accordance with paragraph 1 of this Article. For that purpose, the institution shall provide sufficient evidence that the position no longer meets the condition to be classified as a trading book or non-trading book position pursuant to Article 104.
+The decision referred to in the first subparagraph shall be approved by the management body.
+3.   Where the competent authority has granted permission for the reclassification of a position in accordance with paragraph 2, the institution which received that permission shall:
+(a)
+publicly disclose, without delay,
+(i)
+information that its position has been reclassified, and
+(ii)
+where the effect of that reclassification is a reduction in the institution's own funds requirements, the size of that reduction; and
+(b)
+where the effect of that reclassification is a reduction in the institution's own funds requirements, not recognise that effect until the position matures, unless the institution's competent authority permits it to recognise that effect at an earlier date.
+4.   The institution shall calculate the net change in the amount of its own funds requirements arising from the reclassification of the position as the difference between the own funds requirements immediately after the reclassification and the own funds requirements immediately before the reclassification, each calculated in accordance with Article 92. The calculation shall not take into account the effects of any factors other than the reclassification.
+5.   The reclassification of a position in accordance with this Article shall be irrevocable.
+Article 104b
+Requirements for trading desk
+1.   For the purposes of the reporting requirements set out in Article 430b(3), institutions shall establish trading desks and shall assign each of their trading book positions to one of those trading desks. Trading book positions shall be attributed to the same trading desk only where they satisfy the agreed business strategy for the trading desk and are consistently managed and monitored in accordance with paragraph 2 of this Article.
+2.   Institutions' trading desks shall at all times meet all the following requirements:
+(a)
+each trading desk shall have a clear and distinctive business strategy and a risk management structure that is adequate for its business strategy;
+(b)
+each trading desk shall have a clear organisational structure; positions in a given trading desk shall be managed by designated dealers within the institution; each dealer shall have dedicated functions in the trading desk; each dealer shall be assigned to one trading desk only;
+(c)
+position limits shall be set within each trading desk according to the business strategy of that trading desk;
+(d)
+reports on the activities, profitability, risk management and regulatory requirements at the trading desk level shall be produced at least on a weekly basis and communicated to the management body on a regular basis;
+(e)
+each trading desk shall have a clear annual business plan including a well-defined remuneration policy on the basis of sound criteria used for performance measurement;
+(f)
+reports on maturing positions, intra-day trading limit breaches, daily trading limit breaches and actions taken by the institution to address those breaches, as well as assessments of market liquidity, shall be prepared for each trading desk on a monthly basis and made available to the competent authorities.
+3.   By way of derogation from point (b) of paragraph 2, an institution may assign a dealer to more than one trading desk, provided that the institution demonstrates to the satisfaction of its competent authority that the assignment has been made due to business or resource considerations and the assignment preserves the other qualitative requirements set out in this Article applicable to dealers and trading desks.
+4.   Institutions shall notify the competent authorities of the manner in which they comply with paragraph 2. Competent authorities may require an institution to change the structure or organisation of its trading desks to comply with this Article.’;
+(54)
+Article 105 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   All trading book positions and non-trading book positions measured at fair value shall be subject to the standards for prudent valuation specified in this Article. Institutions shall in particular ensure that the prudent valuation of their trading book positions achieves an appropriate degree of certainty having regard to the dynamic nature of trading book positions and non-trading book positions measured at fair value, the demands of prudential soundness and the mode of operation and purpose of capital requirements in respect of trading book positions and non-trading book positions measured at fair value.’;
+(b)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   Institutions shall revalue trading book positions at fair value at least on a daily basis. Changes in the value of those positions shall be reported in the profit and loss account of the institution.
+4.   Institutions shall mark their trading book positions and non-trading book positions measured at fair value to market whenever possible, including when applying the relevant capital treatment to those positions.’;
+(c)
+paragraph 6 is replaced by the following:
+‘6.   Where marking to market is not possible, institutions shall conservatively mark to model their positions and portfolios, including when calculating own funds requirements for positions in the trading book and positions measured at fair value in the non-trading book.’;
+(d)
+in paragraph 7, the second subparagraph is replaced by the following:
+‘For the purposes of point (d) of the first subparagraph, the model shall be developed or approved independently of the trading desks and shall be independently tested, including validation of the mathematics, assumptions and software implementation.’;
+(e)
+in paragraph 11, point (a) is replaced by the following:
+‘(a)
+(55)
+Article 106 is amended as follows:
+(a)
+paragraphs 2 and 3 are replaced by the following:
+‘2.   The requirements set out in paragraph 1 shall apply without prejudice to the requirements applicable to the hedged position in the non-trading book or in the trading book, where relevant.
+3.   Where an institution hedges a non-trading book credit risk exposure or counterparty risk exposure using a credit derivative booked in its trading book, that credit derivative position shall be recognised as an internal hedge of the non-trading book credit risk exposure or counterparty risk exposure for the purpose of calculating the risk-weighted exposure amounts referred to in point (a) of Article 92(3) where the institution enters into another credit derivative transaction with an eligible third party protection provider that meets the requirements for unfunded credit protection in the non-trading book and perfectly offsets the market risk of the internal hedge.
+Both an internal hedge recognised in accordance with the first subparagraph and the credit derivative entered into with the third party shall be included in the trading book for the purpose of calculating the own funds requirements for market risk.’;
+(b)
+the following paragraphs are added:
+‘4.   Where an institution hedges a non-trading book equity risk exposure using an equity derivative booked in its trading book, that equity derivative position shall be recognised as an internal hedge of the non-trading book equity risk exposure for the purpose of calculating the risk-weighted exposure amounts referred to in point (a) of Article 92(3) where the institution enters into another equity derivative transaction with an eligible third party protection provider that meets the requirements for unfunded credit protection in the non-trading book and perfectly offsets the market risk of the internal hedge.
+Both an internal hedge recognised in accordance with the first subparagraph and the equity derivative entered into with the eligible third party protection provider shall be included in the trading book for the purpose of calculating the own funds requirements for market risk.
+5.   Where an institution hedges non-trading book interest rate risk exposures using an interest rate risk position booked in its trading book, that interest rate risk position shall be considered to be an internal hedge for the purpose of assessing the interest rate risk arising from non-trading positions in accordance with Articles 84 and 98 of Directive 2013/36/EU where the following conditions are met:
+(a)
+the position has been assigned to a separate portfolio from the other trading book position, the business strategy of which is solely dedicated to manage and mitigate the market risk of internal hedges of interest rate risk exposure; for that purpose, the institution may assign to that portfolio other interest rate risk positions entered into with third parties, or its own trading book as long as the institution perfectly offsets the market risk of those interest rate risk positions entered into with its own trading book by entering into opposite interest rate risk positions with third parties;
+(b)
+for the purposes of the reporting requirements set out in Article 430b(3), the position has been assigned to a trading desk established in accordance with Article 104b the business strategy of which is solely dedicated to manage and mitigate the market risk of internal hedges of interest rate risk exposure; for that purpose, that trading desk may enter into other interest rate risk positions with third parties or other trading desks of the institution, as long as those other trading desks perfectly offset the market risk of those other interest rate risk positions by entering into opposite interest rate risk positions with third parties;
+(c)
+the institution has fully documented how the position mitigates the interest rate risk arising from non-trading book positions for the purposes of the requirements laid down in Articles 84 and 98 of Directive 2013/36/EU.
+6.   The own funds requirements for the market risk of all the positions assigned to a separate portfolio as referred to in point (a) of paragraph 5 shall be calculated on a stand-alone basis and shall be in addition to the own funds requirements for the other trading book positions.
+7.   For the purposes of the reporting requirements set out in Article 430b, the calculation of the own funds requirements for market risk of all the positions assigned to the separate portfolio as referred to in point (a) of paragraph 5 of this Article or to the trading desk or entered into by the trading desk referred to in point (b) of paragraph 5 of this Article, where appropriate, shall be calculated on a stand-alone basis as a separate portfolio and shall be additional to the calculation of own funds requirements for the other trading book positions.’;
+(56)
+in Article 107, paragraph 3 is replaced by the following:
+‘3.   For the purposes of this Regulation, exposures to a third-country investment firm, a third-country credit institution and a third-country exchange shall be treated as exposures to an institution only where the third country applies prudential and supervisory requirements to that entity that are at least equivalent to those applied in the Union.’;
+(57)
+in Article 117, paragraph 2 is amended as follows:
+(a)
+the following points are added:
+‘(o)
+the International Development Association;
+(p)
+the Asian Infrastructure Investment Bank.’;
+(b)
+the following subparagraph is added:
+‘The Commission is empowered to amend this Regulation by adopting delegated acts in accordance with Article 462 amending, in accordance with international standards, the list of multilateral development banks referred to in the first subparagraph.’;
+(58)
+in Article 118, point (a) is replaced by the following:
+‘(a)
+(59)
+in Article 123, the following paragraph is added:
+
+                                 ‘Exposures due to loans granted by a credit institution to pensioners or employees with a permanent contract against the unconditional transfer of part of the borrower's pension or salary to that credit institution shall be assigned a risk weight of 35 %, provided that all the following conditions are met:
+(a)
+in order to repay the loan, the borrower unconditionally authorises the pension fund or employer to make direct payments to the credit institution by deducting the monthly payments on the loan from the borrower's monthly pension or salary;
+(b)
+the risks of death, inability to work, unemployment or reduction of the net monthly pension or salary of the borrower are properly covered through an insurance policy underwritten by the borrower to the benefit of the credit institution;
+(c)
+the monthly payments to be made by the borrower on all loans that meet the conditions set out in points (a) and (b) do not in aggregate exceed 20 % of the borrower's net monthly pension or salary;
+(d)
+the maximum original maturity of the loan is equal to or less than ten years.’;
+(60)
+Article 124 is replaced by the following:
+‘Article 124
+Exposures secured by mortgages on immovable property
+1.   An exposure or any part of an exposure fully secured by mortgage on immovable property shall be assigned a risk weight of 100 %, where the conditions set out in Article 125 or 126 are not met, except for any part of the exposure which is assigned to another exposure class. The part of the exposure that exceeds the mortgage value of the immovable property shall be assigned the risk weight applicable to the unsecured exposures of the counterparty involved.
+The part of an exposure that is treated as fully secured by immovable property shall not be greater than the pledged amount of the market value or in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of the immovable property in question.
+1a.   Member States shall designate an authority to be responsible for the application of paragraph 2. That authority shall be the competent authority or the designated authority.
+Where the authority designated by the Member State for the application of this Article is the competent authority, it shall ensure that the relevant national bodies and authorities which have a macroprudential mandate are duly informed of the competent authority's intention to make use of this Article, and are appropriately involved in the assessment of financial stability concerns in its Member State in accordance with paragraph 2.
+Where the authority designated by the Member State for the application of this Article is different from the competent authority, the Member State shall adopt the necessary provisions to ensure proper coordination and exchange of information between the competent authority and the designated authority for the proper application of this Article. In particular, authorities shall be required to cooperate closely and to share all the information that may be necessary for the adequate performance of the duties imposed upon the designated authority pursuant to this Article. That cooperation shall aim at avoiding any form of duplicative or inconsistent action between the competent authority and the designated authority, as well as ensuring that the interaction with other measures, in particular measures taken under Article 458 of this Regulation and Article 133 of Directive 2013/36/EU, is duly taken into account.
+2.   Based on the data collected under Article 430a and on any other relevant indicators, the authority designated in accordance with paragraph 1a of this Article shall periodically, and at least annually, assess whether the risk weight of 35 % for exposures to one or more property segments secured by mortgages on residential property referred to in Article 125 located in one or more parts of the territory of the Member State of the relevant authority and the risk weight of 50 % for exposures secured by mortgages on commercial immovable property referred to in Article 126 located in one or more parts of the territory of the Member State of the relevant authority are appropriately based on:
+(a)
+the loss experience of exposures secured by immovable property;
+(b)
+forward-looking immovable property markets developments.
+Where, on the basis of the assessment referred to in the first subparagraph of this paragraph, the authority designated in accordance with paragraph 1a of this Article concludes that the risk weights set out in Article 125(2) or 126(2) do not adequately reflect the actual risks related to exposures to one or more property segments fully secured by mortgages on residential property or on commercial immovable property located in one or more parts of the territory of the Member State of the relevant authority, and if it considers that the inadequacy of the risk weights could adversely affect current or future financial stability in its Member State, it may increase the risk weights applicable to those exposures within the ranges determined in the fourth subparagraph of this paragraph or impose stricter criteria than those set out in Article 125(2) or 126(2).
+The authority designated in accordance with paragraph 1a of this Article shall notify EBA and the ESRB of any adjustments to risk weights and criteria applied pursuant to this paragraph. Within one month of receipt of that notification, EBA and the ESRB shall provide their opinion to the Member State concerned. EBA and the ESRB shall publish the risk weights and criteria for exposures referred to in Articles 125, 126 and point (a) of Article 199(1) as implemented by the relevant authority.
+For the purposes of the second subparagraph of this paragraph, the authority designated in accordance with paragraph 1a may set the risk weights within the following ranges:
+(a)
+35 % to 150 % for exposures secured by mortgages on residential property;
+(b)
+50 % to 150 % for exposures secured by mortgages on commercial immovable property.
+3.   Where the authority designated in accordance with paragraph 1a sets higher risk weights or stricter criteria pursuant to the second subparagraph of paragraph 2, institutions shall have a six-month transitional period to apply them.
+4.   EBA, in close cooperation with the ESRB, shall develop draft regulatory technical standards to specify the rigorous criteria for the assessment of the mortgage lending value referred to in paragraph 1 and the types of factors to be considered for the assessment of the appropriateness of the risk weights referred in the first subparagraph of paragraph 2.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+5.   The ESRB may, by means of recommendations in accordance with Article 16 of Regulation (EU) No 1092/2010, and in close cooperation with EBA, give guidance to authorities designated in accordance with paragraph 1a of this Article on the following:
+(a)
+factors which could ‘adversely affect current or future financial stability’ referred to in the second subparagraph of paragraph 2; and
+(b)
+indicative benchmarks that the authority designated in accordance with paragraph 1a is to take into account when determining higher risk weights.
+6.   The institutions of a Member State shall apply the risk weights and criteria that have been determined by the authorities of another Member State in accordance with paragraph 2 to all their corresponding exposures secured by mortgages on residential property or commercial immovable property located in one or more parts of that Member State.’;
+(61)
+in Article 128, paragraphs 1 and 2 are replaced by the following:
+‘1.   Institutions shall assign a 150 % risk weight to exposures that are associated with particularly high risks.
+2.   For the purposes of this Article, institutions shall treat any of the following exposures as exposures associated with particularly high risks:
+(a)
+investments in venture capital firms, except where those investments are treated in accordance with Article 132;
+(b)
+investments in private equity, except where those investments are treated in accordance with Article 132;
+(c)
+speculative immovable property financing.’;
+(62)
+Article 132 is replaced by the following:
+‘Article 132
+Own funds requirements for exposures in the form of units or shares in CIUs
+1.   Institutions shall calculate the risk-weighted exposure amount for their exposures in the form of units or shares in a CIU by multiplying the risk-weighted exposure amount of the CIU's exposures, calculated in accordance with the approaches referred to in the first subparagraph of paragraph 2, with the percentage of units or shares held by those institutions.
+2.   Where the conditions set out in paragraph 3 of this Article are met, institutions may apply the look-through approach in accordance with Article 132a(1) or the mandate-based approach in accordance with Article 132a(2).
+Subject to Article 132b(2), institutions that do not apply the look-through approach or the mandate-based approach shall assign a risk weight of 1 250 % (‘fall-back approach’) to their exposures in the form of units or shares in a CIU.
+Institutions may calculate the risk-weighted exposure amount for their exposures in the form of units or shares in a CIU by using a combination of the approaches referred to in this paragraph, provided that the conditions for using those approaches are met.
+3.   Institutions may determine the risk-weighted exposure amount of a CIU's exposures in accordance with the approaches set out in Article 132a where all the following conditions are met:
+(a)
+the CIU is one of the following:
+(i)
+an undertaking for collective investment in transferable securities (UCITS), governed by Directive 2009/65/EC;
+(ii)
+an AIF managed by an EU AIFM registered under Article 3(3) of Directive 2011/61/EU;
+(iii)
+an AIF managed by an EU AIFM authorised under Article 6 of Directive 2011/61/EU;
+(iv)
+an AIF managed by a non-EU AIFM authorised under Article 37 of Directive 2011/61/EU;
+(v)
+a non-EU AIF managed by a non-EU AIFM and marketed in accordance with Article 42 of Directive 2011/61/EU;
+(vi)
+a non-EU AIF not marketed in the Union and managed by a non-EU AIFM established in a third country that is covered by a delegated act referred to in Article 67(6) of Directive 2011/61/EU;
+(b)
+the CIU's prospectus or equivalent document includes the following:
+(i)
+the categories of assets in which the CIU is authorised to invest;
+(ii)
+where investment limits apply, the relative limits and the methodologies to calculate them;
+(c)
+reporting by the CIU or the CIU management company to the institution complies with the following requirements:
+(i)
+the exposures of the CIU are reported at least as frequently as those of the institution;
+(ii)
+the granularity of the financial information is sufficient to allow the institution to calculate the CIU's risk -weighted exposure amount in accordance with the approach chosen by the institution;
+(iii)
+where the institution applies the look-through approach, information about the underlying exposures is verified by an independent third party.
+By way of derogation from point (a) of the first subparagraph of this paragraph, multilateral and bilateral development banks and other institutions that co-invest in a CIU with multilateral or bilateral development banks may determine the risk-weighted exposure amount of that CIU's exposures in accordance with the approaches set out in Article 132a, provided that the conditions set out in points (b) and (c) of the first subparagraph of this paragraph are met and that the CIU's investment mandate limits the types of assets that the CIU can invest in to assets that promote sustainable development in developing countries.
+Institutions shall notify their competent authority of the CIUs to which they apply the treatment referred to in the second subparagraph.
+By way of derogation from point (c)(i) of the first subparagraph, where the institution determines the risk-weighted exposure amount of a CIU's exposures in accordance with the mandate-based approach, the reporting by the CIU or the CIU management company to the institution may be limited to the investment mandate of the CIU and any changes thereof and may be done only when the institution incurs the exposure to the CIU for the first time and when there is a change in the investment mandate of the CIU.
+4.   Institutions that do not have adequate data or information to calculate the risk-weighted exposure amount of a CIU's exposures in accordance with the approaches set out in Article 132a may rely on the calculations of a third party, provided that all the following conditions are met:
+(a)
+the third party is one of the following:
+(i)
+the depository institution or the depository financial institution of the CIU, provided that the CIU exclusively invests in securities and deposits all securities at that depository institution or depository financial institution;
+(ii)
+for CIUs not covered by point (i) of this point, the CIU management company, provided that the company meets the condition set out in point (a) of paragraph 3;
+(b)
+the third party carries out the calculation in accordance with the approaches set out in Article 132a(1), (2) or (3), as applicable;
+(c)
+an external auditor has confirmed the correctness of the third party's calculation.
+Institutions that rely on third-party calculations shall multiply the risk-weighted exposure amount of a CIU's exposures resulting from those calculations by a factor of 1,2.
+By way of derogation from the second subparagraph, where the institution has unrestricted access to the detailed calculations carried out by the third party, the factor of 1,2 shall not apply. The institution shall provide those calculations to its competent authority upon request.
+5.   Where an institution applies the approaches referred to in Article 132a for the purpose of calculating the risk-weighted exposure amount of a CIU's exposures (‘level 1 CIU’), and any of the underlying exposures of the level 1 CIU is an exposure in the form of units or shares in another CIU (‘level 2 CIU’), the risk-weighted exposure amount of the level 2 CIU's exposures may be calculated by using any of the three approaches described in paragraph 2 of this Article. The institution may use the look-through approach to calculate the risk-weighted exposure amounts of CIUs' exposures in level 3 and any subsequent level only where it used that approach for the calculation in the preceding level. In any other scenario it shall use the fall-back approach.
+6.   The risk-weighted exposure amount of a CIU's exposures calculated in accordance with the look-through approach and the mandate-based approach set out in Article 132a(1) and (2) shall be capped at the risk-weighted amount of that CIU's exposures calculated in accordance with the fall-back approach.
+7.   By way of derogation from paragraph 1 of this Article, institutions that apply the look-through approach in accordance with Article 132a(1) may calculate the risk-weighted exposure amount for their exposures in the form of units or shares in a CIU by multiplying the exposure values of those exposures, calculated in accordance with Article 111, with the risk weight (
+
+) calculated in accordance with the formula set out in Article 132c, provided that the following conditions are met:
+(a)
+the institutions measure the value of their holdings of units or shares in a CIU at historical cost but measure the value of the underlying assets of the CIU at fair value if they apply the look-through approach;
+(b)
+a change in the market value of the units or shares for which institutions measure the value at historical cost changes neither the amount of own funds of those institutions nor the exposure value associated with those holdings.’;
+(63)
+the following articles are inserted:
+‘Article 132a
+Approaches for calculating risk-weighted exposure amounts of CIUs
+1.   Where the conditions set out in Article 132(3) are met, institutions that have sufficient information about the individual underlying exposures of a CIU shall look through to those exposures to calculate the risk-weighted exposure amount of the CIU, risk weighting all underlying exposures of the CIU as if they were directly held by those institutions.
+2.   Where the conditions set out in Article 132(3) are met, institutions that do not have sufficient information about the individual underlying exposures of a CIU to use the look-through approach may calculate the risk-weighted exposure amount of those exposures in accordance with the limits set in the CIU's mandate and relevant law.
+Institutions shall carry out the calculations referred to in the first subparagraph under the assumption that the CIU first incurs exposures to the maximum extent allowed under its mandate or relevant law in the exposures attracting the highest own funds requirement and then continues incurring exposures in descending order until the maximum total exposure limit is reached, and that the CIU applies leverage to the maximum extent allowed under its mandate or relevant law, where applicable.
+Institutions shall carry out the calculations referred to in the first subparagraph in accordance with the methods set out in this Chapter, in Chapter 5, and in Section 3, 4 or 5 of Chapter 6 of this Title.
+3.   By way of derogation from point (d) of Article 92(3), institutions that calculate the risk-weighted exposure amount of a CIU's exposures in accordance with paragraph 1 or 2 of this Article may calculate the own funds requirement for the credit valuation adjustment risk of derivative exposures of that CIU as an amount equal to 50 % of the own funds requirement for those derivative exposures calculated in accordance with Section 3, 4 or 5 of Chapter 6 of this Title, as applicable.
+By way of derogation from the first subparagraph, an institution may exclude from the calculation of the own funds requirement for credit valuation adjustment risk derivative exposures which would not be subject to that requirement if they were incurred directly by the institution.
+4.   EBA shall develop draft regulatory technical standards to specify how institutions shall calculate the risk-weighted exposure amount referred to in paragraph 2 where one or more of the inputs required for that calculation are not available.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 132b
+Exclusions from the approaches for calculating risk-weighted exposure amounts of CIUs
+1.   Institutions may exclude from the calculations referred to in Article 132 Common Equity Tier 1, Additional Tier 1, Tier 2 instruments and eligible liabilities instruments held by a CIU which institutions shall deduct in accordance with Article 36(1) and Articles 56, 66 and 72e respectively.
+2.   Institutions may exclude from the calculations referred to in Article 132 exposures in the form of units or shares in CIUs referred to in points (g) and (h) of Article 150(1) and instead apply the treatment set out in Article 133 to those exposures.
+Article 132c
+Treatment of off-balance-sheet exposures to CIUs
+1.   Institutions shall calculate the risk-weighted exposure amount for their off-balance-sheet items with the potential to be converted into exposures in the form of units or shares in a CIU by multiplying the exposure values of those exposures calculated in accordance with Article 111, with the following risk weight:
+(a)
+for all exposures for which institutions use one of the approaches set out in Article 132a:
+
+
+
+
+
+where:
+
+
+
+
+
+=
+the risk weight;
+i
+=
+the index denoting the CIU:
+RWAEi
+
+=
+the amount calculated in accordance with Article 132a for a CIUi;
+
+
+
+
+
+=
+the exposure value of the exposures of CIUi;
+Ai
+
+=
+the accounting value of assets of CIUi; and
+EQi
+
+=
+the accounting value of the equity of CIUi.
+(b)
+
+
+
+
+
+2.   Institutions shall calculate the exposure value of a minimum value commitment that meets the conditions set out in paragraph 3 of this Article as the discounted present value of the guaranteed amount using a default risk-free discount factor. Institutions may reduce the exposure value of the minimum value commitment by any losses recognised with respect to the minimum value commitment under the applicable accounting standard.
+Institutions shall calculate the risk-weighted exposure amount for off-balance-sheet exposures arising from minimum value commitments that meet all the conditions set out in paragraph 3 of this Article by multiplying the exposure value of those exposures by a conversion factor of 20 % and the risk weight derived under Article 132 or 152.
+3.   Institutions shall determine the risk-weighted exposure amount for off-balance-sheet exposures arising from minimum value commitments in accordance with paragraph 2 where all the following conditions are met:
+(a)
+the off-balance-sheet exposure of the institution is a minimum value commitment for an investment into units or shares of one or more CIUs under which the institution is only obliged to pay out under the minimum value commitment where the market value of the underlying exposures of the CIU or CIUs is below a predetermined threshold at one or more points in time, as specified in the contract;
+(b)
+the CIU is any of the following:
+(i)
+a UCITS as defined in Directive 2009/65/EC; or
+(ii)
+an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU which solely invests in transferable securities or in other liquid financial assets referred to in Article 50(1) of Directive 2009/65/EC, where the mandate of the AIF does not allow a leverage higher than that allowed under Article 51(3) of Directive 2009/65/EC;
+(c)
+the current market value of the underlying exposures of the CIU underlying the minimum value commitment without considering the effect of the off-balance-sheet minimum value commitments covers or exceeds the present value of the threshold specified in the minimum value commitment;
+(d)
+when the excess of the market value of the underlying exposures of the CIU or CIUs over the present value of the minimum value commitment declines, the institution, or another undertaking in so far as it is covered by the supervision on a consolidated basis to which the institution itself is subject in accordance with this Regulation and Directive 2013/36/EU or Directive 2002/87/EC, can influence the composition of the underlying exposures of the CIU or CIUs or limit the potential for a further reduction of the excess in other ways;
+(e)
+the ultimate direct or indirect beneficiary of the minimum value commitment is typically a retail client as defined in point (11) of Article 4(1) of Directive 2014/65/EU.’;
+(64)
+in Article 144(1), point (g) is replaced by the following:
+‘(g)
+(65)
+Article 152 is replaced by the following:
+‘Article 152
+Treatment of exposures in the form of units or shares in CIUs
+1.   Institutions shall calculate the risk-weighted exposure amounts for their exposures in the form of units or shares in a CIU by multiplying the risk-weighted exposure amount of the CIU, calculated in accordance with the approaches set out in paragraphs 2 and 5, with the percentage of units or shares held by those institutions.
+2.   Where the conditions set out in Article 132(3) are met, institutions that have sufficient information about the individual underlying exposures of a CIU shall look through to those underlying exposures to calculate the risk-weighted exposure amount of the CIU, risk weighting all underlying exposures of the CIU as if they were directly held by the institutions.
+3.   By way of derogation from point (d) of Article 92(3), institutions that calculate the risk-weighted exposure amount of the CIU in accordance with paragraph 1 or 2 of this Article may calculate the own funds requirement for credit valuation adjustment risk of derivative exposures of that CIU as an amount equal to 50 % of the own funds requirement for those derivative exposures calculated in accordance with Section 3, 4 or 5 of Chapter 6 of this Title, as applicable.
+By way of derogation from the first subparagraph, an institution may exclude from the calculation of the own funds requirement for credit valuation adjustment risk derivative exposures which would not be subject to that requirement if they were incurred directly by the institution.
+4.   Institutions that apply the look-through approach in accordance with paragraphs 2 and 3 of this Article and that meet the conditions for permanent partial use in accordance with Article 150, or that do not meet the conditions for using the methods set out in this Chapter or one or more of the methods set out in Chapter 5 for all or parts of the underlying exposures of the CIU, shall calculate risk-weighted exposure amounts and expected loss amounts in accordance with the following principles:
+(a)
+for exposures assigned to the equity exposure class referred to in point (e) of Article 147(2), institutions shall apply the simple risk-weight approach set out in Article 155(2);
+(b)
+for exposures assigned to the items representing securitisation positions referred to in point (f) of Article 147(2), institutions shall apply the treatment set out in Article 254 as if those exposures were directly held by those institutions;
+(c)
+for all other underlying exposures, institutions shall apply the Standardised Approach laid down in Chapter 2 of this Title.
+For the purposes of point (a) of the first subparagraph, where the institution is unable to differentiate between private equity exposures, exchange-traded exposures and other equity exposures, it shall treat the exposures concerned as other equity exposures.
+5.   Where the conditions set out in Article 132(3) are met, institutions that do not have sufficient information about the individual underlying exposures of a CIU may calculate the risk-weighted exposure amount for those exposures in accordance with the mandate-based approach set out in Article 132a(2). However, for the exposures listed in points (a), (b) and (c) of paragraph 4 of this Article, institutions shall apply the approaches set out therein.
+6.   Subject to Article 132b(2), institutions that do not apply the look-through approach in accordance with paragraphs 2 and 3 of this Article or the mandate-based approach in accordance with paragraph 5 of this Article shall apply the fall-back approach referred to in Article 132(2).
+7.   Institutions may calculate the risk-weighted exposure amount for their exposures in the form of units or shares in a CIU by using a combination of the approaches referred to in this Article, provided that the conditions for using those approaches are met.
+8.   Institutions that do not have adequate data or information to calculate the risk-weighted amount of a CIU in accordance with the approaches set out in paragraphs 2, 3, 4 and 5 may rely on the calculations of a third party, provided that all the following conditions are met:
+(a)
+the third party is one of the following:
+(i)
+the depository institution or the depository financial institution of the CIU, provided that the CIU exclusively invests in securities and deposits all securities at that depository institution or depository financial institution;
+(ii)
+for CIUs not covered by point (i) of this point, the CIU management company, provided that the CIU management company meets the criteria set out in point (a) of Article 132(3);
+(b)
+for exposures other than those listed in points (a), (b) and (c) of paragraph 4 of this Article, the third party carries out the calculation in accordance with the look-through approach set out in Article 132a(1);
+(c)
+for exposures listed in points (a), (b) and (c) of paragraph 4, the third party carries out the calculation in accordance with the approaches set out therein;
+(d)
+an external auditor has confirmed the correctness of the third party's calculation.
+Institutions that rely on third-party calculations shall multiply the risk weighted exposure amounts of a CIU's exposures resulting from those calculations by a factor of 1,2.
+By way of derogation from the second subparagraph, where the institution has unrestricted access to the detailed calculations carried out by the third party, the 1,2 factor shall not apply. The institution shall provide those calculations to its competent authority upon request.
+9.   For the purposes of this Article, Article 132(5) and (6) and Article 132b shall apply. For the purposes of this Article, Article 132c shall apply, using the risk weights calculated in accordance with Chapter 3 of this Title.’;
+(66)
+in Article 158, the following paragraph is inserted:
+‘9a.   The expected loss amount for a minimum value commitment that meets all the requirements set out in Article 132c(3) shall be zero.’;
+(67)
+Article 164 is replaced by the following:
+‘Article 164
+Loss Given Default (LGD)
+1.   Institutions shall provide own estimates of LGDs subject to the requirements specified in Section 6 of this Chapter and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+2.   Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and the permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+3.   For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+4.   The exposure-weighted average LGD for all retail exposures secured by residential property and not benefiting from guarantees from central governments shall not be lower than 10 %.
+The exposure-weighted average LGD for all retail exposures secured by commercial immovable property and not benefiting from guarantees from central governments shall not be lower than 15 %.
+5.   Member States shall designate an authority to be responsible for the application of paragraph 6. That authority shall be the competent authority or the designated authority.
+Where the authority designated by the Member State for the application of this Article is the competent authority, it shall ensure that the relevant national bodies and authorities which have a macroprudential mandate are duly informed of the competent authority's intention to make use of this Article, and are appropriately involved in the assessment of financial stability concerns in its Member State in accordance with paragraph 6.
+Where the authority designated by the Member State for the application of this Article is different from the competent authority, the Member State shall adopt the necessary provisions to ensure proper coordination and exchange of information between the competent authority and the designated authority for the proper application of this Article. In particular, authorities shall be required to cooperate closely and to share all the information that may be necessary for the adequate performance of the duties imposed upon the designated authority pursuant to this Article. That cooperation shall aim at avoiding any form of duplicative or inconsistent action between the competent authority and the designated authority, as well as ensuring that the interaction with other measures, in particular measures taken under Article 458 of this Regulation and Article 133 of Directive 2013/36/EU, is duly taken into account.
+6.   Based on the data collected under Article 430a and on any other relevant indicators, and taking into account forward-looking immovable property market developments the authority designated in accordance with paragraph 5 of this Article shall periodically, and at least annually, assess whether the minimum LGD values referred to in paragraph 4 of this Article, are appropriate for exposures secured by mortgages on residential property or commercial immovable property located in one or more parts of the territory of the Member State of the relevant authority.
+Where, on the basis of the assessment referred to in the first subparagraph of this paragraph, the authority designated in accordance with paragraph 5 concludes that the minimum LGD values referred to in paragraph 4 are not adequate, and if it considers that the inadequacy of LGD values could adversely affect current or future financial stability in its Member State, it may set higher minimum LGD values for those exposures located in one or more parts of the territory of the Member State of the relevant authority. Those higher minimum values may also be applied at the level of one or more property segments of such exposures.
+The authority designated in accordance with paragraph 5 shall notify EBA and the ESRB before making the decision referred to in this paragraph. Within one month of receipt of that notification EBA and the ESRB shall provide their opinion to the Member State concerned. EBA and the ESRB shall publish those LGD values.
+7.   Where the authority designated in accordance with paragraph 5 sets higher minimum LGD values pursuant to paragraph 6, institutions shall have a six-month transitional period to apply them.
+8.   EBA, in close cooperation with the ESRB, shall develop draft regulatory technical standards to specify the conditions that the authority designated in accordance with paragraph 5 shall take into account when assessing the appropriateness of LGD values as part of the assessment referred to in paragraph 6.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+9.   The ESRB may, by means of recommendations in accordance with Article 16 of Regulation (EU) No 1092/2010, and in close cooperation with EBA, give guidance to authorities designated in accordance with paragraph 5 of this Article on the following:
+(a)
+factors which could ‘adversely affect current or future financial stability’ referred to in paragraph 6; and
+(b)
+indicative benchmarks that the authority designated in accordance with paragraph 5 is to take into account when determining higher minimum LGD values.
+10.   The institutions of a Member State shall apply the higher minimum LGD values that have been determined by the authorities of another Member State in accordance with paragraph 6 to all their corresponding exposures secured by mortgages on residential property or commercial immovable property located in one or more parts of that Member State.’;
+(68)
+in Article 201(1), point (h) is replaced by the following:
+‘(h)
+(69)
+the following article is inserted:
+‘Article 204a
+Eligible types of equity derivatives
+1.   Institutions may use equity derivatives which are total return swaps or economically effectively similar, as eligible credit protection only for the purpose of conducting internal hedges.
+Where an institution buys credit protection through a total return swap and records the net payments received on the swap as net income, but does not record the offsetting deterioration in the value of the asset that is protected either through reductions in fair value or by an addition to reserves, that credit protection shall not qualify as eligible credit protection.
+2.   Where an institution conducts an internal hedge using an equity derivative, in order for the internal hedge to qualify as eligible credit protection for the purposes of this Chapter, the credit risk transferred to the trading book shall be transferred out to a third party or parties.
+Where an internal hedge has been conducted in accordance with the first subparagraph and the requirements in this Chapter have been met, institutions shall apply the rules set out in Sections 4 to 6 of this Chapter for the calculation of risk-weighted exposure amounts and expected loss amounts where they acquire unfunded credit protection.’;
+(70)
+Article 223 is amended as follows:
+(a)
+in paragraph 3, the second subparagraph is replaced by the following:
+
+                                             ‘In the case of OTC derivative transactions, institutions using the method laid down in Section 6 of Chapter 6 shall calculate EVA as follows:
+ 
+EVA = E.’;
+(b)
+in paragraph 5, the following subparagraph is added:
+‘In the case of OTC derivative transactions, institutions using the methods laid down in Sections 3, 4 and 5 of Chapter 6 shall take into account the risk-mitigating effects of collateral in accordance with the provisions laid down in Sections 3, 4 and 5 of Chapter 6, as applicable.’;
+(71)
+Article 272 is amended as follows:
+(a)
+point (6) is replaced by the following:
+‘(6)
+‘hedging set’ means a group of transactions within a single netting set for which full or partial offsetting is allowed for determining the potential future exposure under the methods set out in Section 3 or 4 of this Chapter;’;
+(b)
+the following point is inserted:
+‘(7a)
+‘one way margin agreement’ means a margin agreement under which an institution is required to post variation margin to a counterparty but is not entitled to receive variation margin from that counterparty or vice-versa;’;
+(c)
+point (12) is replaced by the following:
+‘(12)
+‘current market value’ or ‘CMV’ means the net market value of all the transactions within a netting set gross of any collateral held or posted where positive and negative market values are netted in computing the CMV;’
+(d)
+the following point is inserted:
+‘(12a)
+‘net independent collateral amount’ or ‘NICA’ means the sum of the volatility-adjusted value of net collateral received or posted, as applicable, to the netting set other than variation margin;’;
+(72)
+Article 273 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Institutions shall calculate the exposure value for the contracts listed in Annex II on the basis of one of the methods set out in Sections 3 to 6 in accordance with this Article.
+An institution which does not meet the conditions set out in Article 273a(1) shall not use the method set out in Section 4. An institution which does not meet the conditions set out in Article 273a(2) shall not use the method set out in Section 5.
+Institutions may use in combination the methods set out in Sections 3 to 6 on a permanent basis within a group. A single institution shall not use in combination the methods set out in Sections 3 to 6 on a permanent basis.’;
+(b)
+paragraphs 6, 7 and 8 are replaced by the following:
+‘6.   Under the methods set out in Sections 3 to 6, the exposure value for a given counterparty shall be equal to the sum of the exposure values calculated for each netting set with that counterparty.
+By way of derogation from the first subparagraph, where one margin agreement applies to multiple netting sets with that counterparty and the institution is using one of the methods set out in Sections 3 to 6 to calculate the exposure value of those netting sets, the exposure value shall be calculated in accordance with the relevant Section.
+For a given counterparty, the exposure value for a given netting set of OTC derivative instruments listed in Annex II calculated in accordance with this Chapter shall be the greater of zero and the difference between the sum of exposure values across all netting sets with the counterparty and the sum of credit valuation adjustments for that counterparty being recognised by the institution as an incurred write-down. The credit valuation adjustments shall be calculated without taking into account any offsetting debit value adjustment attributed to the own credit risk of the firm that has been already excluded from own funds in accordance with point (c) of Article 33(1).
+7.   In calculating the exposure value in accordance with the methods set out in Sections 3, 4 and 5, institutions may treat two OTC derivative contracts included in the same netting agreement that are perfectly matching as if they were a single contract with a notional principal equal to zero.
+For the purposes of the first subparagraph, two OTC derivative contracts are perfectly matching when they meet all the following conditions:
+(a)
+their risk positions are opposite;
+(b)
+their features, with the exception of the trade date, are identical;
+(c)
+their cash flows fully offset each other.
+8.   Institutions shall determine the exposure value for exposures arising from long settlement transactions by any of the methods set out in Sections 3 to 6 of this Chapter, regardless of which method the institution has chosen for treating OTC derivatives and repurchase transactions, securities or commodities lending or borrowing transactions, and margin lending transactions. In calculating the own funds requirements for long settlement transactions, an institution that uses the approach set out in Chapter 3 may assign the risk weights under the approach set out in Chapter 2 on a permanent basis and irrespective of the materiality of those positions.’;
+(c)
+the following paragraph is added:
+‘9.   For the methods set out in Sections 3 to 6 of this Chapter, institutions shall treat transactions where Specific Wrong-Way risk has been identified in accordance with Article 291(2), (4), (5), and (6).’;
+(73)
+the following articles are inserted:
+‘Article 273a
+Conditions for using simplified methods for calculating the exposure value
+1.   An institution may calculate the exposure value of its derivative positions in accordance with the method set out in Section 4, provided that the size of its on- and off-balance-sheet derivative business is equal to or less than both of the following thresholds on the basis of an assessment carried out on a monthly basis using the data as of the last day of the month:
+(a)
+10 % of the institution's total assets;
+(b)
+EUR 300 million.
+2.   An institution may calculate the exposure value of its derivative positions in accordance with the method set out in Section 5, provided that the size of its on- and off-balance-sheet derivative business is equal to or less than both of the following thresholds on the basis of an assessment carried out on a monthly basis using the data as of the last day of the month:
+(a)
+5 % of the institution's total assets;
+(b)
+EUR 100 million.
+3.   For the purposes of paragraphs 1 and 2, institutions shall calculate the size of their on- and off-balance-sheet derivative business on the basis of data as of the last day of each month in accordance with the following requirements:
+(a)
+derivative positions shall be valued at their market values on that given date; where the market value of a position is not available on a given date, institutions shall take a fair value for the position on that date; where the market value and fair value of a position are not available on a given date, institutions shall take the most recent of the market value or fair value for that position;
+(b)
+the absolute value of long derivative positions shall be summed with the absolute value of short derivative positions;
+(c)
+all derivative positions shall be included, except credit derivatives that are recognised as internal hedges against non-trading book credit risk exposures.
+4.   By way of derogation from paragraph 1 or 2, as applicable, where the derivative business on a consolidated basis does not exceed the thresholds set out in paragraph 1 or 2, as applicable, an institution which is included in the consolidation and which would have to apply the method set out in Section 3 or 4 because it exceeds those thresholds on an individual basis, may, subject to the approval of competent authorities, instead choose to apply the method that would apply on a consolidated basis.
+5.   Institutions shall notify the competent authorities of the methods set out in Section 4 or 5 that they use, or cease to use, as applicable, to calculate the exposure value of their derivative positions.
+6.   Institutions shall not enter into a derivative transaction or buy or sell a derivative instrument for the sole purpose of complying with any of the conditions set out in paragraphs 1 and 2 during the monthly assessment.
+Article 273b
+Non-compliance with the conditions for using simplified methods for calculating the exposure value of derivatives
+1.   An institution that no longer meets one or more of the conditions set out in Article 273a(1) or (2) shall immediately notify the competent authority thereof.
+2.   An institution shall cease to calculate the exposure values of its derivative positions in accordance with Section 4 or 5, as applicable, within three months of one of the following occurring:
+(a)
+the institution does not meet the conditions set out in point (a) of Article 273a(1) or (2), as applicable, or the conditions set out in point (b) of Article 273a(1) or (2), as applicable, for three consecutive months;
+(b)
+the institution does not meet the conditions set out in point (a) of Article 273a(1) or (2), as applicable, or the conditions set out in point (b) of Article 273a(1) or (2), as applicable, for more than six of the preceding 12 months.
+3.   Where an institution has ceased to calculate the exposure values of its derivative positions in accordance with Section 4 or 5, as applicable, it shall only be permitted to resume calculating the exposure value of its derivative positions as set out in Section 4 or 5 where it demonstrates to the competent authority that all the conditions set out in Article 273a(1) or (2) have been met for an uninterrupted period of one year.’;
+(74)
+in Chapter 6 of Title II of Part Three, Sections 3, 4 and 5 are replaced by the following:
+
+                                       ‘
+                                       Section 3
+
+
+
+Standardised approach for counterparty credit risk
+
+

@@ -1,0 +1,18 @@
+Article 16
+Verification and calculation
+1.   Following the verification as set out in Articles 11, 12 and 13, the verifier shall assess the quality, completeness and accuracy of the FuelEU report. To that end, the verifier shall use any information contained in the FuelEU database, including information provided on port calls in accordance with Article 6.
+2.   Where the verification assessment referred to paragraph 1 concludes, with reasonable assurance from the verifier, that the FuelEU report is free from material misstatements or non-conformities, the verifier shall notify to the company concerned a verification report stating that the FuelEU report complies with this Regulation. The verification report shall specify all issues relevant to the work carried out by the verifier.
+3.   Where the verification assessment identifies misstatements or non-conformities with this Regulation, the verifier shall inform the company concerned thereof in a timely manner. The company shall without undue delay correct the misstatements or non-conformities so as to enable the verification process to be completed in time and shall submit to the verifier an amended FuelEU report and any other information necessary to correct the misstatements or non-conformities identified. In its verification report, the verifier shall state whether the amended FuelEU report complies with this Regulation. Where the communicated misstatements or non-conformities have not been corrected and lead to material misstatements, the verifier shall notify to the company a verification report stating that the FuelEU report does not comply with this Regulation.
+4.   On the basis of the FuelEU report that complies with this Regulation, the verifier shall calculate:
+(a)
+using the method specified in Annex I, the yearly average GHG intensity of the energy used on board by the ship concerned;
+(b)
+using the formula specified in Part A of Annex IV, the ship’s compliance balance;
+(c)
+the number of non-compliant port calls in the previous reporting period including the time spent moored at the quayside and, where applicable in accordance with Article 6(9), at anchorage, for each port call by the ship in non-compliance with the requirements set in out Article 6;
+(d)
+the amount of the yearly energy used on board by a ship, excluding energy from OPS;
+(e)
+the amount of the yearly energy used on board by a ship from the RFNBO.
+5.   By 31 March of the verification period, the verifier shall notify to the company the information referred to in paragraph 4 and record in the FuelEU database the FuelEU report that complies with this Regulation, the verification report and the information referred to in paragraph 4.
+All information recorded in the FuelEU database shall be accessible to the administering State.

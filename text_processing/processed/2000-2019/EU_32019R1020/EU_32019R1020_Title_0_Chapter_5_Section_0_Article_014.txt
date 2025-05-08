@@ -1,0 +1,39 @@
+Article 14
+Powers of market surveillance authorities
+1.   Member States shall confer on their market surveillance authorities the powers of market surveillance, investigation and enforcement necessary for the application of this Regulation and for the application of Union harmonisation legislation.
+2.   Market surveillance authorities shall exercise the powers set out in this Article efficiently and effectively, in accordance with the principle of proportionality, to the extent that such exercise relates to the subject matter and the purpose of the measures and the nature and the overall actual or potential harm resulting from the instance of non-compliance. Powers shall be conferred and exercised in accordance with Union and national law, including the principles of the Charter of Fundamental Rights of the European Union, as well as with principles of national law relating to freedom of expression and the freedom and pluralism of the media, with applicable procedural safeguards and with the Union rules on data protection, in particular Regulation (EU) 2016/679.
+3.   When conferring powers under paragraph 1, Member States may provide for the power to be exercisable in one of the following ways, as appropriate:
+(a)
+directly by the market surveillance authorities under their own authority;
+(b)
+by recourse to other public authorities in accordance with the division of powers and the institutional and administrative organisation of the Member State in question;
+(c)
+upon application to courts competent to grant the necessary decision to approve the exercise of that power, including, where appropriate, on appeal, if the application to grant the necessary decision was not successful.
+4.   The powers conferred on market surveillance authorities under paragraph 1 shall include at least the following:
+(a)
+the power to require economic operators to provide relevant documents, technical specifications, data or information on compliance and technical aspects of the product, including access to embedded software in so far as such access is necessary for the purpose of assessing the product's compliance with applicable Union harmonisation legislation, in any form or format and irrespective of the medium of storage or the place where such documents, technical specifications, data or information are stored, and to take or obtain copies thereof;
+(b)
+the power to require economic operators to provide relevant information on the supply chain, on the details of the distribution network, on quantities of products on the market and on other product models that have the same technical characteristics as the product in question, where relevant for compliance with the applicable requirements under Union harmonisation legislation;
+(c)
+the power to require economic operators to provide relevant information required for the purpose of ascertaining the ownership of websites, where the information in question is related to the subject matter of the investigation;
+(d)
+the power to carry out unannounced on-site inspections and physical checks of products;
+(e)
+the power to enter any premises, land or means of transport that the economic operator in question uses for purposes related to the economic operator's trade, business, craft or profession, in order to identify non-compliance and to obtain evidence;
+(f)
+the power to start investigations on market surveillance authorities' own initiative in order to identify non-compliances and bring them to an end;
+(g)
+the power to require economic operators to take appropriate action to bring an instance of non-compliance to an end or to eliminate the risk;
+(h)
+the power to take appropriate measures where an economic operator fails to take appropriate corrective action or where the non-compliance or the risk persists, including the power to prohibit or restrict the making available of a product on the market or to order that the product is withdrawn or recalled;
+(i)
+the power to impose penalties in accordance with Article 41;
+(j)
+the power to acquire product samples, including under a cover identity, to inspect those samples and to reverse-engineer them in order to identify non-compliance and to obtain evidence;
+(k)
+the power, where no other effective means are available to eliminate a serious risk:
+(i)
+to require the removal of content referring to the related products from an online interface or to require the explicit display of a warning to end users when they access an online interface; or
+(ii)
+where a request according to point (i) has not been complied with, to require information society service providers to restrict access to the online interface, including by requesting a relevant third party to implement such measures.
+5.   Market surveillance authorities may use any information, document, finding, statement, or any intelligence as evidence for the purpose of their investigations, irrespective of the format in which and medium on which they are stored.

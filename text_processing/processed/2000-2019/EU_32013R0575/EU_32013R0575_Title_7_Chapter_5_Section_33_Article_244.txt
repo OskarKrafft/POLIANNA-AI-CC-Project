@@ -1,0 +1,61 @@
+Article 244
+Synthetic securitisation
+1.   An originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, for the securitised exposures in accordance with Article 249, if either of the following is met:
+(a)
+significant credit risk is considered to have been transferred to third parties either through funded or unfunded credit protection;
+(b)
+the originator institution applies a 1 250 % risk weight to all securitisation positions it holds in this securitisation or deducts these securitisation positions from Common Equity Tier 1 items in accordance with Article 36(1)(k).
+2.   Significant credit risk shall be considered to have been transferred if either of the following conditions is met:
+(a)
+the risk-weighted exposure amounts of the mezzanine securitisation positions which are held by the originator institution in this securitisation do not exceed 50 % of the risk weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+(b)
+where there are no mezzanine securitisation positions in a given securitisation and the originator can demonstrate that the exposure value of the securitisation positions that would be subject to deduction from Common Equity Tier 1 or a 1 250 % risk weight exceeds a reasoned estimate of the expected loss on the securitised exposures by a substantial margin, the originator institution does not hold more than 20 % of the exposure values of the securitisation positions that would be subject to deduction from Common Equity Tier 1 or a 1 250 % risk weight;
+(c)
+where the possible reduction in risk weighted exposure amounts, which the originator institution would achieve by this securitisation, is not justified by a commensurate transfer of credit risk to third parties, competent authority may decide on a case- by-case basis that significant credit risk shall not be considered to have been transferred to third parties.
+3.   For the purposes of paragraph 2, mezzanine securitisation positions means securitisation positions to which a risk weight lower than 1 250 % applies and that are more junior than the most senior position in this securitisation and more junior than any securitisation positions in this securitisation to which either of the following is assigned in accordance with Section 4:
+(a)
+in the case of a securitisation position subject to Section 3, Sub-section 3 a credit quality step 1;
+(b)
+in the case of a securitisation position subject to Section 3, Sub-section 4 a credit quality step 1 or 2.
+4.   As an alternative to paragraphs 2 and 3, competent authorities shall grant permission to originator institutions to consider significant credit risk as having been transferred where the originator institution is able to demonstrate, in every case of a securitisation, that the reduction of own funds requirements which the originator achieves by the securitisation is justified by a commensurate transfer of credit risk to third parties.
+Permission shall be granted only where the institution meets all of the following conditions:
+(a)
+the institution has appropriately risk-sensitive policies and methodologies in place to assess the transfer of risk;
+(b)
+the institution has also recognised the transfer of credit risk to third parties in each case for purposes of the institution's internal risk management and its internal capital allocation.
+5.   In addition to the requirements set out in paragraphs 1 to 4, as applicable, the transfer shall comply with the following conditions:
+(a)
+the securitisation documentation reflects the economic substance of the transaction;
+(b)
+the credit protection by which the credit risk is transferred complies with Article 247(2);
+(c)
+the instruments used to transfer credit risk do not contain terms or conditions that:
+(i)
+impose significant materiality thresholds below which credit protection is deemed not to be triggered if a credit event occurs;
+(ii)
+allow for the termination of the protection due to deterioration of the credit quality of the underlying exposures;
+(iii)
+other than in the case of early amortisation provisions, require positions in the securitisation to be improved by the originator institution;
+(iv)
+increase the institution's cost of credit protection or the yield payable to holders of positions in the securitisation in response to a deterioration in the credit quality of the underlying pool;
+(d)
+an opinion is obtained from qualified legal counsel confirming the enforceability of the credit protection in all relevant jurisdictions;
+(e)
+the securitisation documentation shall make clear, where applicable, that any purchase or repurchase of securitisation positions by the originator or sponsor beyond its contractual obligations may only be made at arms' lengths conditions;
+(f)
+where there is a clean-up call option, that option meets all the following conditions:
+(i)
+it is exercisable at the discretion of the originator institution;
+(ii)
+it may only be exercised when 10 % or less of the original value of the exposures securitised remains unamortised;
+(iii)
+it is not structured to avoid allocating losses to credit enhancement positions or other positions held by investors and is not otherwise structured to provide credit enhancement.
+6.   The competent authorities shall keep EBA informed about the specific cases, referred to in paragraph 2, where the possible reduction in risk-weighted exposure amounts is not justified by a commensurate transfer of credit risk to third parties, and the use institutions make of paragraph 4. EBA shall monitor the range of practices in this area and shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines. EBA shall review Member States' implementation of those guidelines and provide advice to the Commission by 31 December 2017 on whether a binding technical standard is required.
+
+Sub-Section 1
+
+
+
+Principles
+
+

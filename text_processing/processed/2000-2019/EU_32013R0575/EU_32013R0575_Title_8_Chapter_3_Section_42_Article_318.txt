@@ -1,0 +1,21 @@
+Article 318
+Principles for business line mapping
+1.   Institutions shall develop and document specific policies and criteria for mapping the relevant indicator for current business lines and activities into the standardised framework set out in Article 317. They shall review and adjust those policies and criteria as appropriate for new or changing business activities and risks.
+2.   Institutions shall apply the following principles for business line mapping:
+(a)
+institutions shall map all activities into the business lines in a mutually exclusive and jointly exhaustive manner;
+(b)
+institutions shall allocate any activity which cannot be readily mapped into the business line framework, but which represents an ancillary activity to an activity included in the framework, to the business line it supports. Where more than one business line is supported through the ancillary activity, institutions shall use an objective-mapping criterion;
+(c)
+where an activity cannot be mapped into a particular business line then institutions shall use the business line yielding the highest percentage. The same business line equally applies to any ancillary activity associated with that activity;
+(d)
+institutions may use internal pricing methods to allocate the relevant indicator between business lines. Costs generated in one business line which are imputable to a different business line may be reallocated to the business line to which they pertain;
+(e)
+the mapping of activities into business lines for operational risk capital purposes shall be consistent with the categories institutions use for credit and market risks;
+(f)
+senior management shall be responsible for the mapping policy under the control of the management body of the institution;
+(g)
+institutions shall subject the mapping process to business lines to independent review.
+3.   EBA shall develop draft implementing technical standards to determine the conditions of application of the principles for business line mapping provided in this Article.
+EBA shall submit those draft implementing technical standards to the Commission by 31 December 2017.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

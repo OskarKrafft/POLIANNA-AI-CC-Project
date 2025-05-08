@@ -1,0 +1,13 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘customs authorities’ means the customs authorities as defined in point (1) of Article 5 of Regulation (EU) No 952/2013;
+(2)
+‘European electronic systems’ means electronic systems necessary for the customs union and for the execution of the mission of customs authorities, in particular the electronic systems referred to in Article 16(1) and Articles 278 and 280 of Regulation (EU) No 952/2013, Article 8 of Regulation (EU) 2019/880 of the European Parliament and of the Council (17), and in other provisions of Union law governing electronic systems for customs purposes, including international agreements, such as the Customs Convention on the international transport of goods under cover of TIR carnets (TIR Convention) (18);
+(3)
+‘common component’ means a component of the European electronic systems, developed at Union level, which is available for all Member States or identified as common by the Commission for reasons of efficiency, security and rationalisation;
+(4)
+‘national component’ means a component of the European electronic systems, developed at national level, which is available in the Member State that created that component or contributed to its joint creation;
+(5)
+‘third country’ means a country that is not a Member State of the Union.

@@ -1,0 +1,35 @@
+Article 23
+Mandatory contribution to a critical benchmark
+1.   This Article shall apply to critical benchmarks based on submissions by contributors the majority of which are supervised entities.
+2.   Administrators of one or more critical benchmarks shall, every two years, submit to their competent authority an assessment of the capability of each critical benchmark they provide to measure the underlying market or economic reality.
+3.   If a supervised contributor to a critical benchmark intends to cease contributing input data, it shall promptly notify in writing the benchmark administrator, which shall inform without delay its competent authority. Where the supervised contributor is located in another Member State, the competent authority of the administrator shall inform, without delay, the competent authority of that contributor. The benchmark administrator shall submit to its competent authority an assessment of the implications on the capability of the benchmark to measure the underlying market or economic reality as soon as possible but no later than 14 days after the notification made by the supervised contributor.
+4.   Upon receipt of an assessment of the benchmark administrator referred to in paragraphs 2 and 3 of this Article and on the basis of such assessment, the competent authority of the administrator shall promptly inform ESMA and, where applicable, the college established under Article 46, and make its own assessment on the capability of the benchmark to measure the underlying market and economic reality, taking into account the administrator's procedure for cessation of the benchmark established in accordance with Article 28(1).
+5.   From the date on which the competent authority of the administrator is notified of the intention of a contributor to cease contributing input data and until such time as the assessment referred to in paragraph 4 is complete, it shall have the power to require the contributors which made the notification in accordance with paragraph 3 to continue contributing input data, in any event for a period of no more than four weeks, without imposing an obligation on supervised entities to either trade or commit to trade.
+6.   In the event that the competent authority, after the period specified in paragraph 5 and on the basis of its own assessment referred to in paragraph 4, considers that the representativeness of a critical benchmark is put at risk, it shall have the power to:
+(a)
+require supervised entities selected in accordance with paragraph 7 of this Article, including entities that are not yet contributors to the relevant critical benchmark, to contribute input data to the administrator in accordance with the administrator's methodology, the code of conduct referred to in Article 15 and other rules. Such requirement shall be in place for an appropriate period of time not exceeding 12 months from the date on which the initial decision requiring mandatory contribution was taken pursuant to paragraph 5 or, for those entities that are not yet contributors, from the date on which the decision requiring mandatory contribution is taken under this point;
+(b)
+extend the period of mandatory contribution by an appropriate period of time not exceeding 12 months, following a review under paragraph 9 of any measures adopted pursuant to point (a) of this paragraph;
+(c)
+determine the form in which, and the time by which, any input data is to be contributed without imposing an obligation on supervised entities to either trade or commit to trade;
+(d)
+require the administrator to change the methodology, the code of conduct referred to in Article 15 or other rules of the critical benchmark.
+The maximum period of mandatory contribution under points (a) and (b) of the first subparagraph shall not exceed 24 months in total.
+7.   For the purposes of paragraph 6, supervised entities that are to be required to contribute input data shall be selected by the competent authority of the administrator, with the close cooperation of the competent authorities of the supervised entities, on the basis of the size of the supervised entity's actual and potential participation in the market that the benchmark intends to measure.
+8.   The competent authority of a supervised contributor that has been required to contribute to a benchmark through measures taken in accordance with point (a), (b) or (c) of paragraph 6 shall cooperate with the competent authority of the administrator in the enforcement of such measures.
+9.   By the end of the period referred to in point (a) of the first subparagraph of paragraph 6, the competent authority of the administrator shall review the measures adopted under paragraph 6. It shall revoke any of them if it considers that:
+(a)
+the contributors are likely to continue contributing input data for at least one year if the measure were revoked, which shall be evidenced by at least:
+(i)
+a written commitment by the contributors to the administrator and the competent authority to continue contributing input data to the critical benchmark for at least one year if the measure were revoked;
+(ii)
+a written report by the administrator to the competent authority providing evidence for its assessment that the critical benchmark's continued viability can be assured once mandatory contribution has been revoked;
+(b)
+the provision of the benchmark is able to continue once the contributors mandated to contribute input data have ceased contributing;
+(c)
+an acceptable substitute benchmark is available and users of the critical benchmark can switch to this substitute at minimal costs which shall be evidenced by at least a written report by the administrator detailing the means of transition to a substitute benchmark and the ability and costs to users of transitioning to this benchmark; or
+(d)
+no appropriate alternative contributors can be identified and the cessation of contributions from the relevant supervised entities would weaken the benchmark to such an extent to require the cessation of the benchmark.
+10.   In the event that a critical benchmark is to be ceased to be provided, each supervised contributor to that benchmark shall continue to contribute input data for a period of time determined by the competent authority, but not exceeding the maximum 24-month period laid down in the second subparagraph of paragraph 6.
+11.   The administrator shall notify the relevant competent authority in the event that any contributors breach the requirements set out in paragraph 6 as soon as reasonably possible.
+12.   In the event that a benchmark is recognised as critical in accordance with the procedure laid down in Article 20(2), (3), (4) and (5), the competent authority of the administrator shall have the power to require input data in accordance with paragraph 5, and points (a), (b) and (c) of paragraph 6, of this Article only from supervised contributors located in its Member State.

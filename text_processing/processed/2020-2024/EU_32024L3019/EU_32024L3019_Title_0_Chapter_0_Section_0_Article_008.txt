@@ -1,0 +1,50 @@
+Article 8
+Quaternary treatment
+1.   Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater with a load of 150 000 p.e. and above satisfy, before being discharged into receiving waters, the relevant requirements of quaternary treatment set out in Part B and Table 3 of Annex I in accordance with the methods of monitoring and evaluation of results laid down in Part C of Annex I by:
+(a)
+31 December 2033 for discharges from 20 % of those urban wastewater treatment plants;
+(b)
+31 December 2039 for discharges from 60 % of those urban wastewater treatment plants;
+(c)
+31 December 2045 for all discharges from those urban wastewater treatment plants.
+The maximum permitted number of samples which fail to conform to the parametric values of Table 3 of Annex I is set out in Part C and Table 4 of Annex I.
+2.   By 31 December 2030, Member States shall have established a list of areas on their national territory where the concentration or the accumulation of micropollutants from urban wastewater treatment plants represents a risk for the environment or human health. Member States shall review that list in 2033, and thereafter every six years and update it if necessary.
+The list referred to in the first subparagraph shall include the following areas:
+(a)
+catchment areas for abstraction points of water intended for human consumption as characterised in accordance with Article 8(2), point (a), of Directive (EU) 2020/2184 unless the risk assessment in accordance with Article 8(2), point (b), of that Directive indicates that the discharge of micropollutants from urban wastewater treatment plants does not constitute a potential risk that might cause a deterioration of the water quality to the extent that it could constitute a risk to human health;
+(b)
+bathing water falling within the scope of Directive 2006/7/EC unless the bathing water profile referred to in Article 6 of and Annex III to that Directive indicates that the discharge of micropollutants from urban wastewater neither affects bathing waters nor impairs bathers’ health;
+(c)
+areas where aquaculture activities, as defined in Article 4, point (25), of Regulation (EU) No 1380/2013 of the European Parliament and of the Council (37), take place unless the competent national authorities are satisfied that the discharge of micropollutants from urban wastewater cannot affect the safety of the foodstuff in its finished form.
+The list referred to in the first subparagraph shall also include the following areas on the basis of an assessment of the risks for the environment or human health posed by the discharge of micropollutants in urban wastewater:
+(a)
+lakes as defined in Article 2, point (5), of Directive 2000/60/EC;
+(b)
+rivers as defined in Article 2, point (4), of Directive 2000/60/EC or other water streams where the dilution ratio is below 10;
+(c)
+areas where additional treatment is necessary to meet the requirements set out in Directives 2000/60/EC, 2006/118/EC and 2008/105/EC;
+(d)
+special areas of conservation as defined in Article 1, point (l), of Council Directive 92/43/EEC (38) and special protection areas classified under Article 4(1), fourth subparagraph, of Directive 2009/147/EC of the European Parliament and of the Council (39) which form part of the Natura 2000 ecological network;
+(e)
+coastal waters as defined in Article 2, point (7), of Directive 2000/60/EC;
+(f)
+transitional waters as defined in Article 2, point (6), of Directive 2000/60/EC;
+(g)
+marine waters as defined in Article 3, point (1), of Directive 2008/56/EC.
+The risk assessment referred to in the third subparagraph shall be communicated to the Commission on request.
+3.   The Commission is empowered to adopt implementing acts establishing the format of the risk assessment referred to in paragraph 2, third subparagraph, and the method to be used for that risk assessment. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+4.   Without prejudice to paragraph 1, Member States shall ensure that discharges of urban wastewater from agglomerations of 10 000 p.e. and above satisfy, before being discharged into areas included in the list referred to in paragraph 2, the relevant requirements of quaternary treatment set out in Part B and Table 3 of Annex I in accordance with the methods of monitoring and evaluation of results laid down in Part C of Annex I by:
+(a)
+31 December 2033 for 10 % of those agglomerations;
+(b)
+31 December 2036 for 30 % of those agglomerations;
+(c)
+31 December 2039 for 60 % of those agglomerations;
+(d)
+31 December 2045 for 100 % of those agglomerations.
+The maximum permitted number of samples which fail to conform to the parametric values of Table 3 of Annex I is set out in Part C and Table 4 of Annex I.
+The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 27 to amend Part C of Annex I in order to adapt the methods for monitoring and evaluation of results in relation to quaternary treatment to scientific and technical progress.
+5.   Member States shall ensure that discharges of urban wastewater from urban wastewater treatment plants which are situated in an area included in the list referred to in paragraph 2, following one of the regular updates of that list required by that paragraph, fulfil the requirements laid down in paragraph 4 and in Part B and Table 3 of Annex I within seven years of the inclusion in that list, but not later than the deadlines set out in paragraph 4.
+6.   The Commission may adopt implementing acts to establish the monitoring and sampling methods to be used by the Member States to determine the presence and quantities in urban wastewater of the indicators set out in Table 3 of Annex I. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+7.   Where the number of urban wastewater treatment plants that need to be upgraded to meet the objectives referred to in paragraph 1, first subparagraph, points (a) and (b), at national level is not an integer, the number of urban wastewater treatment plants shall be rounded to the nearest integer. In the case of equidistance between two integers, the number shall be rounded down.
+8.   Without prejudice to the other provisions of this Article, to ensure that the reuse of treated urban wastewater is safe for the environment and human health, Member States shall ensure that, where appropriate, urban wastewater that is reused or planned to be reused is treated in accordance with the requirements for quaternary treatment set out in Part B and Table 3 of Annex I. Member States shall ensure that the outcome of the risk assessments carried out under Regulation (EU) 2020/741 is taken into account where treated urban wastewater is reused for agricultural purposes.

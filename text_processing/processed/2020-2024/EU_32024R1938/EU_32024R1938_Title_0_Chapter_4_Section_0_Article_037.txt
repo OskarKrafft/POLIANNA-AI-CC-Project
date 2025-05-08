@@ -1,0 +1,34 @@
+Article 37
+Quality management system
+1.   SoHO entities shall establish, maintain and update a quality management system that is appropriate, taking into account their SoHO activities and that achieves a high level of quality of SoHO.
+2.   SoHO entities shall design the quality management system in a way that ensures that SoHO activities are carried out in a consistent manner, by personnel that have documented and periodically assessed competence to perform the tasks allocated to them and that SoHO activities are carried out in facilities that are designed and maintained in a manner that prevents SoHO contamination, or cross-contamination between SoHO, or loss of traceability. In that respect, SoHO entities shall take into account the technical guidelines for quality management published by the EDQM, together with the EDQM good practice guidelines, as indicated on the EU SoHO Platform. Alternative approaches to the design of the quality management system may be applied where SoHO entities can demonstrate to their SoHO competent authorities that they achieve an equivalent level of quality.
+3.   SoHO entities shall put in place procedures and specifications covering, where applicable to their SoHO activities, the following:
+(a)
+documentation of roles, responsibilities of personnel and organisation;
+(b)
+selection, training and competence assessment of personnel;
+(c)
+the procurement qualification, validation and monitoring of premises, materials and equipment, including IT systems;
+(d)
+other documentation relevant for the quality management system put in place;
+(e)
+quality control, and monitoring of key performance indicators of SoHO activities;
+(f)
+quarantine and release;
+(g)
+withdrawal of SoHO from the inventory of released SoHO and recalls;
+(h)
+internal audits;
+(i)
+management of contracted third parties;
+(j)
+management of cases where procedures have not been followed or specifications have not been met;
+(k)
+complaints;
+(l)
+management of traceability and vigilance, pursuant to Articles 42, 43 and 44;
+(m)
+continuity planning.
+4.   SoHO entities shall review the quality management system at regular intervals to verify its effectiveness and introduce corrective and preventive actions, if deemed necessary.
+5.   The Commission may adopt implementing acts regarding selected elements and specifications of the quality management system in order to ensure uniform quality management.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).

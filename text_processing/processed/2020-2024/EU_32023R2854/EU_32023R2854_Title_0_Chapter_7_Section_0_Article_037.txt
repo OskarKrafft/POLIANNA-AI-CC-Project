@@ -1,0 +1,51 @@
+Article 37
+Competent authorities and data coordinators
+1.   Each Member State shall designate one or more competent authorities to be responsible for the application and enforcement of this Regulation (competent authorities). Member States may establish one or more new authorities or rely on existing authorities.
+2.   Where a Member State designates more than one competent authority, it shall designate a data coordinator from among them to facilitate cooperation between the competent authorities and to assist entities within the scope of this Regulation on all matters related to its application and enforcement. Competent authorities shall, in the exercise of the tasks and powers assigned to them under paragraph 5, cooperate with each other.
+3.   The supervisory authorities responsible for monitoring the application of Regulation (EU) 2016/679 shall be responsible for monitoring the application of this Regulation insofar as the protection of personal data is concerned. Chapters VI and VII of Regulation (EU) 2016/679 shall apply mutatis mutandis.
+The European Data Protection Supervisor shall be responsible for monitoring the application of this Regulation insofar as it concerns the Commission, the European Central Bank or Union bodies. Where relevant, Article 62 of Regulation (EU) 2018/1725 shall apply mutatis mutandis.
+The tasks and powers of the supervisory authorities referred to in this paragraph shall be exercised with regard to the processing of personal data.
+4.   Without prejudice to paragraph 1 of this Article:
+(a)
+for specific sectoral data access and use issues related to the application of this Regulation, the competence of sectoral authorities shall be respected;
+(b)
+the competent authority responsible for the application and enforcement of Articles 23 to 31 and Articles 34 and 35 shall have experience in the field of data and electronic communications services.
+5.   Member States shall ensure that the tasks and powers of the competent authorities are clearly defined and include:
+(a)
+promoting data literacy and awareness among users and entities falling within the scope of this Regulation of the rights and obligations under this Regulation;
+(b)
+handling complaints arising from alleged infringements of this Regulation, including in relation to trade secrets, and investigating, to the extent appropriate, the subject matter of complaints and regularly informing complainants, where relevant in accordance with national law, of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another competent authority is necessary;
+(c)
+conducting investigations into matters that concern the application of this Regulation, including on the basis of information received from another competent authority or other public authority;
+(d)
+imposing effective, proportionate and dissuasive financial penalties which may include periodic penalties and penalties with retroactive effect, or initiating legal proceedings for the imposition of fines;
+(e)
+monitoring technological and relevant commercial developments of relevance for the making available and use of data;
+(f)
+cooperating with competent authorities of other Member States and, where relevant, with the Commission or the EDIB, to ensure the consistent and efficient application of this Regulation, including the exchange of all relevant information by electronic means, without undue delay, including regarding paragraph 10 of this Article;
+(g)
+cooperating with the relevant competent authorities responsible for the implementation of other Union or national legal acts, including with authorities competent in the field of data and electronic communication services, with the supervisory authority responsible for monitoring the application of Regulation (EU) 2016/679 or with sectoral authorities to ensure that this Regulation is enforced consistently with other Union and national law;
+(h)
+cooperating with the relevant competent authorities to ensure that Articles 23 to 31 and Articles 34 and 35 are enforced consistently with other Union law and self-regulation applicable to providers of data processing services;
+(i)
+ensuring that switching charges are withdrawn in accordance with Article 29;
+(j)
+examining the requests for data made pursuant to Chapter V.
+Where designated, the data coordinator shall facilitate the cooperation referred to in points (f), (g) and (h) of the first subparagraph and shall assist the competent authorities upon their request.
+6.   The data coordinator, where such competent authority has been designated, shall:
+(a)
+act as the single point of contact for all issues related to the application of this Regulation;
+(b)
+ensure the online public availability of requests to make data available made by public sector bodies in the case of exceptional need under Chapter V and promote voluntary data sharing agreements between public sector bodies and data holders;
+(c)
+inform the Commission, on an annual basis, of the refusals notified under Article 4(2) and (8) and Article 5(11).
+7.   Member States shall notify the Commission of the names of the competent authorities and of their tasks and powers and, where applicable, the name of the data coordinator. The Commission shall maintain a public register of those authorities.
+8.   When carrying out their tasks and exercising their powers in accordance with this Regulation, competent authorities shall remain impartial and free from any external influence, whether direct or indirect, and shall neither seek nor take instructions for individual cases from any other public authority or any private party.
+9.   Member States shall ensure that the competent authorities are provided with sufficient human and technical resources and relevant expertise to effectively carry out their tasks in accordance with this Regulation.
+10.   Entities falling within the scope of this Regulation shall be subject to the competence of the Member State where the entity is established. Where the entity is established in more than one Member State, it shall be considered to be under the competence of the Member State in which it has its main establishment, that is, where the entity has its head office or registered office from which the principal financial functions and operational control are exercised.
+11.   Any entity falling within the scope of this Regulation that makes connected products available or offers services in the Union, and which is not established in the Union, shall designate a legal representative in one of the Member States.
+12.   For the purpose of ensuring compliance with this Regulation, a legal representative shall be mandated by an entity falling within the scope of this Regulation that makes connected products available or offers services in the Union to be addressed in addition to or instead of it by competent authorities with regard to all issues related to that entity. That legal representative shall cooperate with and comprehensively demonstrate to the competent authorities, upon request, the actions taken and provisions put in place by the entity falling within the scope of this Regulation that makes connected products available or offers services in the Union to ensure compliance with this Regulation.
+13.   An entity falling within the scope of this Regulation that makes connected products available or offers services in the Union, shall be considered to be under the competence of the Member State in which its legal representative is located. The designation of a legal representative by such an entity shall be without prejudice to the liability of, and any legal action that could be initiated against, such an entity. Until such time as an entity designates a legal representative in accordance with this Article, it shall be under the competence of all Member States, where applicable, for the purposes of ensuring the application and enforcement of this Regulation. Any competent authority may exercise its competence, including by imposing effective, proportionate and dissuasive penalties, provided that the entity is not subject to enforcement proceedings under this Regulation regarding the same facts by another competent authority.
+14.   Competent authorities shall have the power to request from users, data holders, or data recipients, or their legal representatives, falling under the competence of their Member State all information necessary to verify compliance with this Regulation. Any request for information shall be proportionate to the performance of the underlying task and shall be reasoned.
+15.   Where a competent authority in one Member State requests assistance or enforcement measures from a competent authority in another Member State, it shall submit a reasoned request. A competent authority shall, upon receiving such a request, provide a response, detailing the actions that have been taken or which are intended to be taken, without undue delay.
+16.   Competent authorities shall respect the principles of confidentiality and of professional and commercial secrecy and shall protect personal data in accordance with Union or national law. Any information exchanged in the context of a request for assistance and provided pursuant to this Article shall be used only in respect of the matter for which it was requested.

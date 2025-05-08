@@ -1,0 +1,73 @@
+Article 116
+Time limits for payments
+1.   Payments shall be made within:
+(a)
+90 calendar days for contribution agreements, contracts and grant agreements involving technical services or actions which are particularly complex to evaluate and for which payment depends on the approval of a report or a certificate;
+(b)
+60 calendar days for all other contribution agreements, contracts and grant agreements for which payment depends on the approval of a report or a certificate;
+(c)
+30 calendar days for all other contribution agreements, contracts and grant agreements.
+2.   The time allowed for making payments shall be understood to include validation, authorisation and the payment of expenditure.
+It shall begin to run from the date on which a payment request is received.
+3.   A payment request shall be registered by the authorised department of the authorising officer responsible as soon as possible and is deemed to be received on the date it is registered.
+The date of payment is deemed to be the date on which the Union institution’s account is debited.
+A payment request shall include the following essential elements:
+(a)
+the creditor’s identification;
+(b)
+the amount;
+(c)
+the currency;
+(d)
+the date.
+An electronic invoice in public procurement shall include the following essential elements:
+(a)
+process and invoice identifiers;
+(b)
+the invoice period;
+(c)
+contractor’s information;
+(d)
+contracting authority’s information;
+(e)
+contractor’s tax representative information;
+(f)
+contract reference;
+(g)
+delivery details;
+(h)
+payment instructions;
+(i)
+allowance or charge information;
+(j)
+invoice line item information;
+(k)
+invoice totals;
+(l)
+VAT breakdown (when applicable);
+(m)
+currency.
+Where at least one essential element is missing, the payment request shall be rejected.
+The creditor shall be informed in writing of a rejection and the reasons for it as soon as possible and in any case within 30 calendar days from the date on which the payment request was received.
+4.   The authorising officer responsible may suspend the time limit for payment where:
+(a)
+the amount of the payment request is not due; or
+(b)
+the appropriate supporting documents have not been produced.
+If information comes to the notice of the authorising officer responsible which puts in doubt the eligibility of expenditure in a payment request, he or she may suspend the time limit for payment for the purpose of verifying, including by means of on-the-spot-checks, that the expenditure is eligible. The remaining time allowed for payment shall begin to run from the date on which the requested information or revised documents are received or the necessary further verification, including on-the-spot checks, is carried out.
+The creditors concerned shall be informed in writing of the reasons for a suspension.
+5.   Except in the case of Member States, the EIB and the EIF, on the expiry of the time limits laid down in paragraph 1, the creditor shall be entitled to interest in accordance with the following conditions:
+(a)
+the interest rates shall be those referred to in Article 99(2);
+(b)
+the interest shall be payable for the period elapsing from the calendar day following expiry of the time limit for payment laid down in paragraph 1 up to the day of payment.
+However, in the event that the interest calculated in accordance with the first subparagraph is lower than or equal to EUR 200, it shall be paid to the creditor only on a request submitted within two months of receiving late payment.
+6.   Each Union institution shall submit to the European Parliament and Council a report on the compliance with and the suspension of the time limits laid down in paragraphs 1 to 4 of this Article. The report of the Commission shall be annexed to the summary of the annual activity reports referred to in Article 74(9).
+
+CHAPTER 8
+
+
+
+Internal auditor
+
+

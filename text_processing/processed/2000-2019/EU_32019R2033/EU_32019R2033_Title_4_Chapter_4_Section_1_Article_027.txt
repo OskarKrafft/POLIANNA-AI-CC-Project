@@ -1,0 +1,11 @@
+Article 27
+Calculation of exposure value
+The calculation of the exposure value shall be determined in accordance with the following formula:
+Exposure value = Max(0; RC + PFE – C)
+where:
+RC = replacement cost as determined in Article 28;
+PFE = potential future exposure as determined in Article 29; and
+C = collateral as determined in Article 30.
+The replacement cost (RC) and collateral (C) shall apply to all transactions referred to in Article 25.
+The potential future exposure (PFE) applies only to derivative contracts.
+An investment firm may calculate a single exposure value at netting level for all the transactions covered by a contractual netting agreement, subject to the conditions laid down in Article 31. Where any of those conditions is not met, the investment firm shall treat each transaction as if it was its own netting set.

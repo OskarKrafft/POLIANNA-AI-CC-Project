@@ -1,0 +1,26 @@
+Article 251
+Risk-weights
+Subject to Article 252, the institution shall calculate the risk-weighted exposure amount of a rated securitisation or re-securitisation position by applying the relevant risk weight to the exposure value.
+The relevant risk weight shall be the risk weight as laid down in Table 1, with which the credit assessment of the position is associated in accordance with Section 4.
+
+Table 1
+
+Credit Quality Step
+1
+2
+3
+4 (only for credit assessments other than short-term credit assessments)
+all other credit quality steps
+Securitisation positions
+20  %
+50  %
+100  %
+350  %
+1 250  %
+Re-securitisation positions
+40  %
+100  %
+225  %
+650  %
+1 250  %
+Subject to Articles 252 to 255, the risk-weighted exposure amount of an unrated securitisation position shall be calculated by applying a risk weight of 1 250 %.

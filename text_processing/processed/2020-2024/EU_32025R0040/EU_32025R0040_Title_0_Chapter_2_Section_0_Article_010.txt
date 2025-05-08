@@ -1,0 +1,17 @@
+Article 10
+Packaging minimisation
+1.   By 1 January 2030, the manufacturer or importer shall ensure that the packaging placed on the market is designed so that its weight and volume is reduced to the minimum necessary to ensure its functionality, taking account of the shape and material from which the packaging is made.
+2.   The manufacturer or importer shall ensure that packaging which does not comply with the performance criteria set out in Annex IV of this Regulation and packaging with characteristics that aim only to increase the perceived volume of the product, including double walls, false bottoms and unnecessary layers, is not placed on the market, unless:
+(a)
+the packaging design is protected by a Community design pursuant to Council Regulation (EC) No 6/2002 (64) or by design rights falling within the scope of Directive 98/71/EC of the European Parliament and of the Council (65), including international agreements having effect in one of the Member States, or its shape is a trademark falling within the scope of Regulation (EU) 2017/1001 of the European Parliament and of the Council (66) or Directive (EU) 2015/2436 of the European Parliament and of the Council (67), including trademarks registered under international agreements having effect in one of the Member States, the design rights and trademarks are protected before 11 February 2025, and the application of the requirements under this Article would affect the packaging design in a way that it would alter its novelty or its individual character, or would affect the trademark in a way that the trademark is no longer capable of distinguishing the marked product from those of other undertakings; or
+(b)
+the packaged product or beverage benefits from a geographical indication protected under Union law, such as under Regulation (EU) No 1308/2013 for wine, Regulation (EU) 2019/787 for spirit drinks or Regulation (EU) 2023/2411 for craft and industrial products, or is covered by a quality scheme as referred to in Regulation (EU) 2024/1143.
+3.   By 12 February 2027, the Commission shall request the European standardisation organisations to prepare or update, as appropriate, harmonised standards laying down the methodology for the calculation and measurement of compliance with the requirements concerning packaging minimisation under this Regulation. For most common packaging types and formats, such standards should specify maximum adequate weight and volume limits, and, where appropriate, wall thickness and maximum empty space.
+4.   Compliance with the requirements set out in paragraphs 1 and 2 of this Article shall be demonstrated in the technical documentation referred to in Annex VII, which shall contain the following elements:
+(a)
+an explanation of the technical specifications, standards and conditions used to assess the packaging against the performance criteria and methodology set out in Annex IV;
+(b)
+for each of those performance criteria, the identification of the design requirements which prevent further reduction of the packaging weight or volume;
+(c)
+any test results, studies or other relevant sources, such as modelling and simulations, used to assess the minimum necessary volume or weight of the packaging.
+For reusable packaging, the assessment of compliance with the requirements set out in paragraph 1 of this Article shall take into account the characteristics of reusable packaging, and in the first place the requirements set out in Article 11.

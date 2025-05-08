@@ -1,0 +1,157 @@
+Article 1
+Regulation (EU) 2019/631 is amended as follows:
+(1)
+Article 1 is amended as follows:
+(a)
+paragraph 5 is amended as follows:
+(i)
+in point (a), the figure ‘37,5 %’ is replaced by ‘55 %’;
+(ii)
+in point (b), the figure ‘31 %’ is replaced by ‘50 %’;
+(b)
+the following paragraph is inserted:
+‘5a.   From 1 January 2035, the following EU fleet-wide targets shall apply:
+(a)
+for the average emissions of the new passenger car fleet, an EU fleet-wide target equal to a 100 % reduction of the target in 2021 determined in accordance with Part A, point 6.1.3, of Annex I;
+(b)
+for the average emissions of the new light commercial vehicles fleet, an EU fleet-wide target equal to a 100 % reduction of the target in 2021 determined in accordance with Part B, point 6.1.3, of Annex I.’
+(c)
+paragraph 6 is replaced by the following:
+‘6.   From 1 January 2025 to 31 December 2029, a zero- and low-emission vehicles' benchmark equal to a 25 % share of the fleet of new passenger cars and equal to a 17 % share of the fleet of new light commercial vehicles shall apply in accordance with points 6.3 of Parts A and B of Annex I, respectively.’
+(d)
+paragraph 7 is deleted;
+(2)
+Article 2 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+in point (a), the reference to ‘Annex II to Directive 2007/46/EC’ is replaced by ‘Article 4(1), point (a)(i), of Regulation (EU) 2018/858’;
+(ii)
+point (b) is replaced by the following:
+‘(b)
+category N1 as defined in Article 4(1), point (b)(i), of Regulation (EU) 2018/858 and falling within the scope of Regulation (EC) No 715/2007 (“light commercial vehicles”), which are registered in the Union for the first time and which have not previously been registered outside the Union (“new light commercial vehicles”); in the case of zero-emission vehicles of category N with a reference mass exceeding 2 610 kg or 2 840 kg, as the case may be, they shall, from 1 January 2025, for the purposes of this Regulation and without prejudice to Regulation (EU) 2018/858 and Regulation (EC) No 715/2007, be counted as light commercial vehicles falling within the scope of this Regulation if the excess reference mass is due only to the mass of the energy storage system.’;
+(b)
+in paragraph 3, the reference to ‘point 5 of Part A of Annex II to Directive 2007/46/EC’ is replaced by ‘Part A, point 5, of Annex I to Regulation (EU) 2018/858’;
+(3)
+in Article 3, paragraph 1 is amended as follows:
+(a)
+the introductory sentence is replaced by the following:
+‘1.   For the purposes of this Regulation, the definitions in Regulation (EU) 2018/858 shall apply. The following definitions shall also apply:’
+(b)
+points (b) to (g) and (i) and (n) are deleted;
+(4)
+in Article 4(1), the following subparagraph is added:
+
+                              ‘For the purposes of the first subparagraph, point (c), where the specific emissions target determined in accordance with point 6.3 of Part A or B of Annex I is negative, the specific emissions target shall be 0 g/km.’;
+(5)
+Article 7 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘6a.   Where the Commission finds that the provisional data submitted by Member States in accordance with paragraph 2, or the data notified by the manufacturers in accordance with paragraph 5, is based on incorrect data in the type-approval documentation or in the certificates of conformity, the Commission shall inform the type-approval authority or, where applicable, the manufacturer, and shall request the type-approval authority or, where applicable, the manufacturer to issue a statement of correction specifying the corrected data. The statement of correction shall be transmitted to the Commission and the corrected data shall be used to amend the provisional calculations under paragraph 4.’
+(b)
+paragraphs 10 and 11 are deleted;
+(6)
+the following Article is inserted:
+‘Article 7a
+Life-cycle CO2 emissions
+1.   The Commission shall by 31 December 2025 publish a report setting out a methodology for the assessment and the consistent data reporting of the full life-cycle CO2 emissions of passenger cars and light commercial vehicles that are placed on the Union market. The Commission shall submit that report to the European Parliament and to the Council.
+2.   By 31 December 2025, the Commission shall adopt delegated acts in accordance with Article 17 in order to supplement this Regulation by laying down a common Union methodology for the assessment and the consistent data reporting of the full life-cycle CO2 emissions of passenger cars and light commercial vehicles.
+3.   From 1 June 2026, manufacturers may, on a voluntary basis, submit to the Commission the life-cycle CO2 emissions data for new passenger cars and new light commercial vehicles using the methodology referred to in paragraph 2.’
+(7)
+Article 10 is amended as follows:
+(a)
+in paragraph 2, the first sentence is replaced by the following:
+
+                                          ‘A derogation applied for under paragraph 1 may be granted from the specific emissions targets applicable until and including the calendar year 2035.’;
+(b)
+in paragraph 4, the first subparagraph is replaced by the following:
+‘4.   An application for a derogation from the specific emissions target calculated in accordance with points 1 to 4 and 6.3 of Part A of Annex I may be made for the years until and including the calendar year 2028 by a manufacturer which is responsible, together with all of its connected undertakings, for between 10 000 and 300 000 new passenger cars registered in the Union per calendar year.’
+(8)
+in Article 11, paragraph 1 is replaced by the following:
+‘1.   Upon application by a supplier or a manufacturer, CO2 savings achieved through the use of innovative technologies or a combination of innovative technologies (“innovative technology packages”) shall be considered.
+Such technologies shall be taken into consideration only if the methodology used to assess them is capable of producing verifiable, repeatable and comparable results.
+The total contribution of those technologies to reducing the average specific emissions of CO2 of a manufacturer may be up to:
+—
+7 g CO2/km until 2024;
+—
+6 g CO2/km from 2025 until 2029;
+—
+4 g CO2/km from 2030 until and including 2034.
+The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to amend this Regulation by adjusting downwards the values of the cap referred to in the third subparagraph of this paragraph with effect from 2025 onwards to take into account technological developments while ensuring a balanced proportion of the level of that cap in relation to the average specific emissions of CO2 of manufacturers.’
+(9)
+in Article 12, paragraph 3 is replaced by the following:
+‘3.   In order to prevent the real-world emissions gap from growing, the Commission shall, no later than 1 June 2023, assess how real-world fuel and energy consumption data collected pursuant to Commission Implementing Regulation (EU) 2021/392 (*1) may be used to ensure that the vehicle CO2 emissions and fuel or energy consumption values determined pursuant to Regulation (EC) No 715/2007 remain representative of real-world emissions over time for each manufacturer.
+The Commission shall monitor and report annually on how the gap referred to in the first subparagraph evolves from 2021 onwards and shall, as soon as sufficient data is available, and no later than 31 December 2026, publish a report setting out a methodology for a mechanism to adjust the average specific emissions of CO2 of the manufacturer as of 2030 using real-world data collected pursuant to Implementing Regulation (EU) 2021/392, and assessing the feasibility of such a mechanism.
+The Commission shall submit that report to the European Parliament and to the Council, including, where appropriate, proposals for follow-up measures, such as legislative proposals to put such a mechanism in place.
+
+(*1)  Commission Implementing Regulation (EU) 2021/392 of 4 March 2021 on the monitoring and reporting of data relating to CO2 emissions from passenger cars and light commercial vehicles pursuant to Regulation (EU) 2019/631 of the European Parliament and of the Council and repealing Commission Implementing Regulations (EU) No 1014/2010, (EU) No 293/2012, (EU) 2017/1152 and (EU) 2017/1153 (OJ L 77, 5.3.2021, p. 8).’;"
+                        
+(10)
+in Article 13(3), the following sentence is added:
+
+                              ‘Where the data in the type-approval documentation may not be corrected under Regulation (EU) 2018/858, the responsible type-approval authority shall issue a statement of correction with the corrected data and transmit that statement to the Commission and the parties concerned.’;
+(11)
+in Article 14, paragraph 2 is replaced by the following:
+‘2.   The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to amend Annex I as provided for in paragraph 1 of this Article.’
+(12)
+the following Article is inserted:
+‘Article 14a
+Progress report
+1.   By 31 December 2025, and every two years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the progress towards zero-emission road mobility. The report shall in particular monitor and assess the need for possible additional measures to facilitate a just transition, including through financial means.
+2.   In the report, the Commission shall consider all factors that contribute to a cost-efficient progress towards climate neutrality by 2050, including:
+(a)
+progress in the deployment of zero- and low-emission vehicles, in particular in the light commercial vehicles segment, as well as the measures at Union, Member State and local level to facilitate Member States’ transition to zero- emission light-duty vehicles;
+(b)
+progress in the energy efficiency and affordability of zero- and low-emission vehicles;
+(c)
+the impacts on consumers, particularly on low- and medium-income households, including on electricity prices;
+(d)
+analysis of the market for second-hand vehicles;
+(e)
+the potential contribution in terms of CO2 savings of additional measures aimed to lower the average age and thus the emissions of the light-duty vehicles fleet, such as measures to support the phase out of older vehicles in a socially just and environmentally sound manner;
+(f)
+impacts on employment in the automotive sector, especially on micro, small and medium-sized enterprises (SMEs), and the effectiveness of measures to support retraining and upskilling of the workforce;
+(g)
+the effectiveness of existing financial measures and the need for further action, including adequate financial measures, at Union, Member State or local level to ensure a just transition and to mitigate any negative socioeconomic impacts, in particular in the regions and the communities most affected;
+(h)
+progress in social dialogue, as well as aspects to further facilitate an economically viable and socially fair transition towards zero-emission road mobility;
+(i)
+progress in the roll-out of public and private recharging and refuelling infrastructure, including progress under a Regulation of the European Parliament and of the Council on the deployment of alternative fuels infrastructure, and repealing Directive 2014/94/EU of the European Parliament and of the Council and a recast of Directive 2010/31/EU of the European Parliament and of the Council (*2);
+(j)
+the potential contribution of innovation technologies and sustainable alternative fuels, including synthetic fuels, to reach climate neutral mobility;
+(k)
+life-cycle emissions of new passenger cars and new light commercial vehicles placed on the market, as reported in accordance with Article 7a;
+(l)
+the impact of this Regulation on the achievement of the Member States’ targets under Regulation (EU) 2018/842 and a recast of Directive 2008/50/EC of the European Parliament and of the Council (*3).
+3.   At the date of submission of the first progress report referred to in paragraph 1, the Commission shall also, in cooperation with Member States and all relevant stakeholders, submit a report to the European Parliament and to the Council which includes an analysis to identify any funding gaps in ensuring a just transition in the automotive supply chain, with particular attention for SMEs and the regions that are most affected by the transition. The report shall, where appropriate, be accompanied by proposals for adequate financial measures to address the needs identified.
+
+(*2)  Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings (OJ L 153, 18.6.2010, p. 13)."
+                        
+
+(*3)  Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe (OJ L 152, 11.6.2008, p. 1).’;"
+                        
+(13)
+Article 15 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   The Commission shall, in 2026, review the effectiveness and impact of this Regulation, building on the two-yearly reporting, and submit a report to the European Parliament and to the Council with the result of the review. The Commission shall in particular assess progress made under this Regulation towards achieving the reduction targets set out in Article 1(5a), taking into account the technological developments, including as regards plug-in hybrid technologies, and the importance of an economically viable and socially fair transition towards zero-emission mobility. Based on that assessment, the Commission shall assess the need to review the targets set out in Article 1(5a). The Commission shall also assess the impacts of establishing minimum energy efficiency thresholds for new zero-emission passenger cars and light commercial vehicles placed on the Union market.
+The report shall, where appropriate, be accompanied by a proposal to amend this Regulation.’
+(b)
+paragraphs 2 to 5 are deleted;
+(c)
+paragraph 6 is replaced by the following:
+‘6.   By 31 December 2024, the Commission shall review Directive 1999/94/EC considering the need to provide consumers with accurate, robust and comparable information on the fuel and energy consumption, CO2 emissions and air pollutant emissions of new passenger cars placed on the market, including under real-world conditions, as well as evaluate the options for introducing a fuel economy and CO2 emissions label for new light commercial vehicles.
+The review shall, where appropriate, be accompanied by a legislative proposal.’
+(d)
+the following paragraph is added:
+‘9.   The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to amend the formulae set out in Part B of Annex I, where such amendments are necessary in order to take into account the procedure for multi-stage N1 vehicles set out in Part A of Annex III.’
+(14)
+Article 17 is amended as follows:
+(a)
+in paragraph 2, the reference to ‘Article 7(8), Article 10(8), the fourth subparagraph of Article 11(1), Article 13(4), Article 14(2) and Article 15(8)’ is replaced by ‘Article 7(8), Article 7a(2), Article 10(8), Article 11(1), fourth subparagraph, Article 13(4), Article 14(2) and Article 15(8) and (9)’;
+(b)
+in paragraph 3, the reference to ‘Article 7(8), Article 10(8), the fourth subparagraph of Article 11(1), Article 13(4), Article 14(2) and Article 15(8)’ is replaced by ‘Article 7(8), Article 7a(2), Article 10(8), Article 11(1), fourth subparagraph, Article 13(4), Article 14(2) and Article 15(8) and (9)’;
+(c)
+in paragraph 6, the reference to ‘Article 7(8), Article 10(8), the fourth subparagraph of Article 11(1), Article 13(4), Article 14(2) and Article 15(8)’ is replaced by ‘Article 7(8), Article 7a(2), Article 10(8), Article 11(1), fourth subparagraph, Article 13(4), Article 14(2) and Article 15(8) and (9)’;
+(15)
+Annex I is amended in accordance with the Annex to this Regulation.

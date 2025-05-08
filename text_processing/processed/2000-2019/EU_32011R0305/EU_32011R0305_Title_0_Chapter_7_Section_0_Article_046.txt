@@ -1,0 +1,9 @@
+Article 46
+Use of facilities outside the testing laboratory of the notified body
+1.   On request of the manufacturer and where justified by technical, economic or logistic reasons, notified bodies may decide to carry out the tests referred to in Annex V, for the systems of assessment and verification of constancy of performance 1+, 1 and 3 or have such tests carried out under their supervision, either in the manufacturing plants using the test equipments of the internal laboratory of the manufacturer or, with the prior consent of the manufacturer, in an external laboratory, using the test equipments of that laboratory.
+Notified bodies carrying out such tests shall be specifically designated as competent to work away from their own accredited test facilities.
+2.   Before carrying out those tests, the notified body shall verify whether the requirements of the test method are satisfied and shall evaluate whether:
+(a)
+test equipment has an appropriate calibration system and the traceability of the measurements is guaranteed;
+(b)
+the quality of the test results is ensured.

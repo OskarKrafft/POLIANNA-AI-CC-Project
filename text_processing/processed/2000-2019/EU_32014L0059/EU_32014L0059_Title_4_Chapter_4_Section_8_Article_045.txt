@@ -1,0 +1,162 @@
+Article 45
+Application of the minimum requirement
+1.   Member States shall ensure that institutions meet, at all times, a minimum requirement for own funds and eligible liabilities. The minimum requirement shall be calculated as the amount of own funds and eligible liabilities expressed as a percentage of the total liabilities and own funds of the institution.
+For the purpose of the first subparagraph derivative liabilities shall be included in the total liabilities on the basis that full recognition is given to counterparty netting rights.
+2.   EBA shall draft technical regulatory standards which specify further the assessment criteria mentioned in points (a) to (f) of paragraph 6 on the basis of which, for each institution, a minimum requirement for own funds and eligible liabilities, including subordinated debt and senior unsecured debt with at least 12 months remaining on their terms that are subject to the bail-in power and those that qualify as own funds, is to be determined.
+EBA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Member States may provide for additional criteria on the basis of which the minimum requirement for own funds and eligible liabilities shall be determined.
+3.   Notwithstanding paragraph 1, resolution authorities shall exempt mortgage credit institutions financed by covered bonds which, according to national law are not allowed to receive deposits from the obligation to meet, at all times, a minimum requirement for own funds and eligible liabilities, as:
+(a)
+those institutions will be wound-up through national insolvency procedures, or other types of procedure implemented in accordance with Article 38, 40 or 42 of this Directive, provided for those institutions; and
+(b)
+such national insolvency procedures, or other types of procedure, will ensure that creditors of those institutions, including holders of covered bonds where relevant, will bear losses in a way that meets the resolution objectives.
+4.   Eligible liabilities shall be included in the amount of own funds and eligible liabilities referred to in paragraph 1 only if they satisfy the following conditions:
+(a)
+the instrument is issued and fully paid up;
+(b)
+the liability is not owed to, secured by or guaranteed by the institution itself;
+(c)
+the purchase of the instrument was not funded directly or indirectly by the institution;
+(d)
+the liability has a remaining maturity of at least one year;
+(e)
+the liability does not arise from a derivative;
+(f)
+the liability does not arise from a deposit which benefits from preference in the national insolvency hierarchy in accordance with Article 108.
+For the purpose of point (d) where a liability confers upon its owner a right to early reimbursement, the maturity of that liability shall be the first date where such a right arises.
+5.   Where a liability is governed by the law of a third-country, resolution authorities may require the institution to demonstrate that any decision of a resolution authority to write down or convert that liability would be effective under the law of that third country, having regard to the terms of the contract governing the liability, international agreements on the recognition of resolution proceedings and other relevant matters. If the resolution authority is not satisfied that any decision would be effective under the law of that third country, the liability shall not be counted towards the minimum requirement for own funds and eligible liabilities.
+6.   The minimum requirement for own funds and eligible liabilities of each institution pursuant to paragraph 1 shall be determined by the resolution authority, after consulting the competent authority, at least on the basis of the following criteria:
+(a)
+the need to ensure that the institution can be resolved by the application of the resolution tools including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
+(b)
+the need to ensure, in appropriate cases, that the institution has sufficient eligible liabilities to ensure that, if the bail-in tool were to be applied, losses could be absorbed and the Common Equity Tier 1 ratio of the institution could be restored to a level necessary to enable it to continue to comply with the conditions for authorisation and to continue to carry out the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU and to sustain sufficient market confidence in the institution or entity;
+(c)
+the need to ensure that, if the resolution plan anticipates that certain classes of eligible liabilities might be excluded from bail-in under Article 44(3) or that certain classes of eligible liabilities might be transferred to a recipient in full under a partial transfer, that the institution has sufficient other eligible liabilities to ensure that losses could be absorbed and the Common Equity Tier 1 ratio of the institution could be restored to a level necessary to enable it to continue to comply with the conditions for authorisation and to continue to carry out the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU;
+(d)
+the size, the business model, the funding model and the risk profile of the institution;
+(e)
+the extent to which the Deposit Guarantee Scheme could contribute to the financing of resolution in accordance with Article 109;
+(f)
+the extent to which the failure of the institution would have adverse effects on financial stability, including, due to its interconnectedness with other institutions or with the rest of the financial system through contagion to other institutions.
+7.   Institutions shall comply with the minimum requirements laid down in this Article on an individual basis.
+A resolution authority may, after consulting a competent authority, decide to apply the minimum requirement laid down in this Article to an entity referred to in point (b), (c) or (d) of Article 1(1).
+8.   In addition to paragraph 7, Union parent undertakings shall comply with the minimum requirements laid down in this Article on a consolidated basis.
+The minimum requirement for own funds and eligible liabilities at consolidated level of an Union parent undertaking shall be determined by the group-level resolution authority, after consulting the consolidating supervisor, in accordance with paragraph 9, at least on the basis of the criteria laid down in paragraph 6 and of whether the third-country subsidiaries of the group are to be resolved separately according to the resolution plan.
+9.   The group-level resolution authority and the resolution authorities responsible for the subsidiaries on an individual basis shall do everything within their power to reach a joint decision on the level of the minimum requirement applied at the consolidated level.
+The joint decision shall be fully reasoned and shall be provided to the Union parent undertaking by the group-level resolution authority.
+In the absence of such a joint decision within four months, a decision shall be taken on the consolidated minimum requirement by the group-level resolution authority after duly taking into consideration the assessment of subsidiaries performed by the relevant resolution authorities. If, at the end of the four-month period, any of the resolution authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the group-level resolution authority shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in accordance with the decision of EBA. The four-month period shall be deemed to be the conciliation period within the meaning of that Regulation. EBA shall take its decision within one month. The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached. In the absence of an EBA decision within one month, the decision of the group-level resolution authority shall apply.
+The joint decision and the decision taken by the group-level resolution authority in the absence of a joint decision shall be binding on the resolution authorities in the Member States concerned.
+The joint decision and any decision taken in the absence of a joint decision shall be reviewed and where relevant updated on a regular basis.
+10.   Resolution authorities shall set the minimum requirement to be applied to the group’s subsidiaries on an individual basis. Those minimum requirements shall be set at a level appropriate for the subsidiary having regard to:
+(a)
+the criteria listed in paragraph 6, in particular the size, business model and risk profile of the subsidiary, including its own funds; and
+(b)
+the consolidated requirement that has been set for the group under paragraph 9.
+The group-level resolution authority and the resolution authorities responsible for subsidiaries on an individual basis shall do everything within their power to reach a joint decision on the level of the minimum requirement to be applied to each respective subsidiary at an individual level.
+The joint decision shall be fully reasoned and shall be provided to the subsidiaries and to the Union parent institution by the resolution authority of the subsidiaries and by the group-level resolution authority, respectively.
+In the absence of such a joint decision between the resolution authorities within a period of four months the decision shall be taken by the respective resolution authorities of the subsidiaries duly considering the views and reservations expressed by the group-level resolution authority.
+If, at the end of the four-month period, the group-level resolution authority has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the resolution authorities responsible for the subsidiaries on an individual basis shall defer their decisions and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take their decisions in accordance with the decision of EBA. The four-month period shall be deemed to be the conciliation period within the meaning of that Regulation. EBA shall take its decision within one month. The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached. The group-level resolution authority shall not refer the matter to EBA for binding mediation where the level set by the resolution authority of the subsidiary is within one percentage point of the consolidated level set under paragraph 9 of this Article.
+In the absence of an EBA decision within one month, the decisions of the resolution authorities of the subsidiaries shall apply.
+The joint decision and any decisions taken by the resolution authorities of the subsidiaries in the absence of a joint decision shall be binding on the resolution authorities concerned.
+The joint decision and any decisions taken in the absence of a joint decision shall be reviewed and where relevant updated on a regular basis.
+11.   The group-level resolution authority may fully waive the application of the individual minimum requirement to an Union parent institution where:
+(a)
+the Union parent institution complies on a consolidated basis with the minimum requirement set under paragraph 8; and
+(b)
+the competent authority of the Union parent institution has fully waived the application of individual capital requirements to the institution in accordance with Article 7(3) of Regulation (EU) No 575/2013.
+12.   The resolution authority of a subsidiary may fully waive the application of paragraph 7 to that subsidiary where:
+(a)
+both the subsidiary and its parent undertaking are subject to authorisation and supervision by the same Member State;
+(b)
+the subsidiary is included in the supervision on a consolidated basis of the institution which is the parent undertaking;
+(c)
+the highest level group institution in the Member State of the subsidiary, where different to the Union parent institution, complies on a sub-consolidated basis with the minimum requirement set under paragraph 7;
+(d)
+there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities to the subsidiary by its parent undertaking;
+(e)
+either the parent undertaking satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of no significance;
+(f)
+the risk evaluation, measurement and control procedures of the parent undertaking cover the subsidiary;
+(g)
+the parent undertaking holds more than 50 % of the voting rights attached to shares in the capital of the subsidiary or has the right to appoint or remove a majority of the members of the management body of the subsidiary; and
+(h)
+the competent authority of the subsidiary has fully waived the application of individual capital requirements to the subsidiary under Article 7(1) of Regulation (EU) No 575/2013.
+13.   The decisions taken in accordance with this Article may provide that the minimum requirement for own funds and eligible liabilities is partially met at consolidated or individual level through contractual bail-in instruments.
+14.   To qualify as a contractual bail-in instrument under paragraph 13, the resolution authority shall be satisfied that the instrument:
+(a)
+contains a contractual term providing that, where a resolution authority decides to apply the bail-in tool to that institution, the instrument shall be written down or converted to the extent required before other eligible liabilities are written down or converted; and
+(b)
+is subject to a binding subordination agreement, undertaking or provision under which in the event of normal insolvency proceedings, it ranks below other eligible liabilities and cannot be repaid until other eligible liabilities outstanding at the time have been settled.
+15.   Resolution authorities, in coordination with competent authorities, shall require and verify that institutions meet the minimum requirement for own funds and eligible liabilities laid down in paragraph 1 and where relevant the requirement laid down in paragraph 13, and shall take any decision pursuant to this Article in parallel with the development and the maintenance of resolution plans.
+16.   Resolution authorities, in coordination with competent authorities, shall inform EBA of the minimum requirement for own funds and eligible liabilities, and where relevant the requirement laid down in paragraph 13, that have been set for each institution under their jurisdiction.
+17.   EBA shall develop draft implementing technical standards to specify uniform formats, templates and definitions for the identification and transmission of information by resolution authorities, in coordination with competent authorities, to EBA for the purposes of paragraph 16.
+EBA shall submit those draft implementing technical standards to the Commission by 3 July 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+18.   Based on the results of the report referred to in paragraph 19, the Commission shall, if appropriate, submit by 31 December 2016 to the European Parliament and the Council a legislative proposal on the harmonised application of the minimum requirement for own funds and eligible liabilities. That proposal shall include, where appropriate, proposals for the introduction of an appropriate number of minimum levels of the minimum requirement, taking account of the different business models of institutions and groups. The proposal shall include any appropriate adjustments to the parameters of the minimum requirement, and if necessary, appropriate amendments to the application of the minimum requirement to groups.
+19.   EBA shall submit a report to the Commission by 31 October 2016 on at least the following:
+(a)
+how the minimum requirement for own funds and eligible liabilities has been implemented at national level, and in particular whether there have been divergences in the levels set for comparable institutions across Member States;
+(b)
+how the power to require institutions to meet the minimum requirement through contractual bail-in instruments has been applied across Member States and whether there have been divergences in those approaches;
+(c)
+the identification of business models that reflect the overall risk profiles of the institution;
+(d)
+the appropriate level of the minimum requirement for each of the business models identified under point (c);
+(e)
+whether a range for the level of the minimum requirement of each business model should be established;
+(f)
+the appropriate transitional period for institutions to achieve compliance with any harmonised minimum levels prescribed;
+(g)
+whether the requirements laid down in Article 45 are sufficient to ensure that each institution has adequate loss-absorbing capacity and, if not, which further enhancements are needed in order to ensure that objective;
+(h)
+whether changes to the calculation methodology provided for in this Article are necessary to ensure that the minimum requirement can be used as an appropriate indicator of an institution’s loss-absorbing capacity;
+(i)
+whether it is appropriate to base the requirement on total liabilities and own funds and in particular whether it is more appropriate to use the institution’s risk-weighted assets as a denominator for the requirement;
+(j)
+whether the approach of this Article on the application of the minimum requirement to groups is appropriate, and in particular whether the approach adequately ensures that loss absorbing capacity in the group is located in, or accessible to, the entities where losses might arise;
+(k)
+whether the conditions for waivers from the minimum requirement are appropriate, and in particular whether such waivers should be available for subsidiaries on a cross-border basis;
+(l)
+whether it is appropriate that resolution authorities may require that the minimum requirement be met through contractual bail-in instruments, and whether further harmonisation of the approach to contractual bail-in instruments is appropriate;
+(m)
+whether the requirements for contractual bail-in instruments laid down in paragraph 14 are appropriate; and
+(n)
+whether it is appropriate for institutions and groups to be required to disclose their minimum requirement for own funds and eligible liabilities, or their level of own funds and eligible liabilities, and if so the frequency and format of such disclosure.
+20.   The report in paragraph 19 shall cover at least the period from 2 July 2014 until 30 June 2016 and shall take account of at least the following:
+(a)
+the impact of the minimum requirement, and any proposed harmonised levels of the minimum requirement on:
+(i)
+financial markets in general and markets for unsecured debt and derivatives in particular;
+(ii)
+business models and balance sheet structures of institutions, in particular the funding profile and funding strategy of institutions, and the legal and operational structure of groups;
+(iii)
+the profitability of institutions, in particular their cost of funding;
+(iv)
+the migration of exposures to entities which are not subject to prudential supervision;
+(v)
+financial innovation;
+(vi)
+the prevalence of contractual bail-in instruments, and the nature and marketability of such instruments;
+(vii)
+the risk-taking behaviour of institutions;
+(viii)
+the level of asset encumbrance of institutions;
+(ix)
+the actions taken by institutions to comply with minimum requirements, and in particular the extent to which minimum requirements have been met by asset deleveraging, long-term debt issuance and capital raising; and
+(x)
+the level of lending by credit institutions, with a particular focus on lending to micro, small and medium-sized enterprises, local authorities, regional governments and public sector entities and on trade financing, including lending under official export credit insurance schemes;
+(b)
+the interaction of the minimum requirements with the own funds requirements, leverage ratio and the liquidity requirements laid down in Regulation (EU) No 575/2013 and in Directive 2013/36/EU;
+(c)
+the capacity of institutions to independently raise capital or funding from markets in order to meet any proposed harmonised minimum requirements;
+(d)
+consistency with the minimum requirements relating to any international standards developed by international fora.
+
+Subsection 3
+
+
+
+Implementation of the bail-in tool
+
+

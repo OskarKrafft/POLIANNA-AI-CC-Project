@@ -1,0 +1,21 @@
+Article 2
+Scope
+1.   This Regulation applies to the following:
+(a)
+financial instruments admitted to trading on a regulated market or for which a request for admission to trading on a regulated market has been made;
+(b)
+financial instruments traded on an MTF, admitted to trading on an MTF or for which a request for admission to trading on an MTF has been made;
+(c)
+financial instruments traded on an OTF;
+(d)
+financial instruments not covered by point (a), (b) or (c), the price or value of which depends on or has an effect on the price or value of a financial instrument referred to in those points, including, but not limited to, credit default swaps and contracts for difference.
+This Regulation also applies to behaviour or transactions, including bids, relating to the auctioning on an auction platform authorised as a regulated market of emission allowances or other auctioned products based thereon, including when auctioned products are not financial instruments, pursuant to Regulation (EU) No 1031/2010. Without prejudice to any specific provisions referring to bids submitted in the context of an auction, any requirements and prohibitions in this Regulation referring to orders to trade shall apply to such bids.
+2.   Articles 12 and 15 also apply to:
+(a)
+spot commodity contracts, which are not wholesale energy products, where the transaction, order or behaviour has or is likely or intended to have an effect on the price or value of a financial instrument referred to in paragraph 1;
+(b)
+types of financial instruments, including derivative contracts or derivative instruments for the transfer of credit risk, where the transaction, order, bid or behaviour has or is likely to have an effect on the price or value of a spot commodity contract where the price or value depends on the price or value of those financial instruments; and
+(c)
+behaviour in relation to benchmarks.
+3.   This Regulation applies to any transaction, order or behaviour concerning any financial instrument as referred to in paragraphs 1 and 2, irrespective of whether or not such transaction, order or behaviour takes place on a trading venue.
+4.   The prohibitions and requirements in this Regulation shall apply to actions and omissions, in the Union and in a third country, concerning the instruments referred to in paragraphs 1 and 2.

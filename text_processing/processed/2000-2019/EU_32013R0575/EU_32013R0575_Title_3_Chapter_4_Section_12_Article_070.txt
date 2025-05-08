@@ -1,0 +1,33 @@
+Article 70
+Deduction of Tier 2 instruments where an institution does not have a significant investment in a relevant entity
+1.   For the purposes of point (c) of Article 66, institutions shall calculate the applicable amount to be deducted by multiplying the amount referred to in point (a) of this paragraph by the factor derived from the calculation referred to in point (b) of this paragraph:
+(a)
+the aggregate amount by which the direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments of financial sector entities exceeds 10 % of the Common Equity Tier 1 items of the institution calculated after applying the following:
+(i)
+Article 32 to 35;
+(ii)
+points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;
+(iii)
+Articles 44 and 45;
+(b)
+the amount of direct, indirect and synthetic holdings by the institution of the Tier 2 instruments of financial sector entities divided by the aggregate amount of all direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments of those financial sector entities.
+2.   Institutions shall exclude underwriting positions held for five working days or fewer from the amount referred to in point (a) of paragraph 1 and from the calculation of the factor referred to in point (b) of paragraph 1.
+3.   The amount to be deducted pursuant to paragraph 1 shall be apportioned across each Tier 2 instrument held. Institutions shall determine the portion of holdings of Tier 2 instruments that is deducted by multiplying the amount specified in point (a) of this paragraph by the proportion specified in point (b) of this paragraph:
+(a)
+the total amount of holdings required to be deducted pursuant to paragraph 1;
+(b)
+the amount specified in point (i) divided by the amount specified in point (ii):
+(i)
+the total amount of the Tier 2 instrument;
+(ii)
+the aggregate amount of direct, indirect and synthetic holdings by the institution of the Tier 2 instruments of financial sector entities in which the institution does not have a significant investment.
+4.   The amount of holdings referred to in point (c) of Article 66(1) that is equal to or less than 10 % of the Common Equity Tier 1 items of the institution after applying the provisions laid down in points (a)(i) to (iii) of paragraph 1 shall not be deducted and shall be subject to the applicable risk weights in accordance with Chapter 2 or 3 of Title II of Part Three and the requirements laid down in Title IV of Part Three, as applicable.
+5.   Institutions shall determine the portion of holdings of own funds instruments that is risk weighted by dividing the amount specified in point (a) by the amount specified in point (b):
+(a)
+the amount of holdings required to be risk weighted pursuant to paragraph 4;
+(b)
+the amount specified in point (i) divided by the amount specified in point (ii):
+(i)
+the total amount of the Common Equity Tier 1 instruments;
+(ii)
+the aggregate amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 instruments of financial sector entities in which the institution does not have a significant investment.

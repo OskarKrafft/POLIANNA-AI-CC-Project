@@ -1,0 +1,5 @@
+Article 26
+Conditions for issuing alerts on third-country nationals subject to a restrictive measure taken in accordance with Article 15 of the Treaty on European Union
+1.   Without prejudice to Article 25, alerts relating to third-country nationals who are the subject of a restrictive measure intended to prevent entry into or transit through the territory of Member States, taken in accordance with Article 15 of the Treaty on European Union, including measures implementing a travel ban issued by the Security Council of the United Nations, shall, insofar as data-quality requirements are satisfied, be entered in SIS II for the purpose of refusing entry or stay.
+2.   Article 23 shall not apply in respect of alerts entered on the basis of paragraph 1 of this Article.
+3.   The Member State responsible for entering, updating and deleting these alerts on behalf of all Member States shall be designated at the moment of the adoption of the relevant measure taken in accordance with Article 15 of the Treaty on European Union.

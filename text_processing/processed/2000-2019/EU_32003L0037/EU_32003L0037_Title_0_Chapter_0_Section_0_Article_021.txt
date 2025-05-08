@@ -1,0 +1,12 @@
+Article 21
+Notification of the EC type-approval authorities and technical services
+1. The Member States shall notify the Commission and the other Member States of the names and addresses of:
+(a) the EC type-approval authorities and, where appropriate, the fields for which they are responsible, and
+(b) the technical services which they have appointed, specifying for which test procedures each of these bodies has been appointed.
+The technical services notified must meet the harmonised standard on the operation of testing laboratories (EN - ISO/IEC 17025:2000) subject to the following conditions:
+(i) a manufacturer may be appointed as a technical service only where this is expressly provided for by separate directives or alternative regulations;
+(ii) the use of outside equipment by a technical service, with the agreement of the EC type-approval authority, is authorised.
+2. A notified technical service shall be presumed to meet the harmonised standard referred to in paragraph 1(b).
+However, where appropriate, the Commission may ask the Member States to provide supporting evidence.
+3. Services in third countries may be notified as appointed technical services only where this is provided for in a bilateral or multilateral agreement between the Community and the third country in question.
+

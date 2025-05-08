@@ -1,0 +1,20 @@
+Article 26
+Calculating K‐TCD
+For the purpose of calculating K‐TCD, the own funds requirement shall be determined by the following formula:
+Own funds requirement = α • EV • RF • CVA
+where:
+α = 1,2;
+EV = the exposure value calculated in accordance with Article 27;
+RF = the risk factor defined per counterparty type as set out in Table 2; and
+CVA = the credit valuation adjustment calculated in accordance with Article 32.
+
+Table 2
+
+Counterparty type
+Risk factor
+Central governments, central banks and public sector entities
+1,6 %
+Credit institutions and investment firms
+1,6 %
+Other counterparties
+8 %

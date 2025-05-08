@@ -1,0 +1,6 @@
+Article 14
+Reporting of infringements
+1.   An administrator shall establish adequate systems and effective controls to ensure the integrity of input data in order to be able to identify and report to the competent authority any conduct that may involve manipulation or attempted manipulation of a benchmark, under Regulation (EU) No 596/2014.
+2.   An administrator shall monitor input data and contributors in order to be able to notify the competent authority and provide all relevant information where the administrator suspects that, in relation to a benchmark, any conduct has taken place that may involve manipulation or attempted manipulation of the benchmark, under Regulation (EU) No 596/2014, including collusion to do so.
+The competent authority of the administrator shall, where applicable, transmit such information to the relevant authority under Regulation (EU) No 596/2014.
+3.   Administrators shall have procedures in place for their managers, employees and any other natural persons whose services are placed at their disposal or under their control to report internally infringements of this Regulation.

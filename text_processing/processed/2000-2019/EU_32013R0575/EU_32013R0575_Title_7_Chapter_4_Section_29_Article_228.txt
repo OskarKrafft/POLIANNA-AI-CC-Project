@@ -1,0 +1,19 @@
+Article 228
+Calculating risk-weighted exposure amounts and expected loss amounts under the Financial Collateral Comprehensive method
+1.   Under the Standardised Approach, institutions shall use E* as calculated under Article 223(5) as the exposure value for the purposes of Article 113. In the case of off-balance sheet items listed in Annex I, institutions shall use E* as the value to which the percentages indicated in Article 111(1) shall be applied to arrive at the exposure value.
+2.   Under the IRB Approach, institutions shall use the effective LGD (LGD*) as the LGD for the purposes of Chapter 3. Institutions shall calculate LGD* as follows:
+
+
+
+
+
+where:
+LGD
+=
+the LGD that would apply to the exposure under Chapter 3 where the exposure was not collateralised;
+E
+=
+the exposure value in accordance with Article 223(3);
+E*
+=
+the fully adjusted exposure value in accordance with Article 223(5).

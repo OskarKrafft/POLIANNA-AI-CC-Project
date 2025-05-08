@@ -1,0 +1,87 @@
+Article 3
+Definitions
+For the purposes of this Directive and of the regulatory acts listed in Annex IV, save as otherwise provided therein:
+1.
+‘regulatory act’ means a separate directive or regulation or a UNECE Regulation annexed to the Revised 1958 Agreement;
+2.
+‘separate directive or regulation’ means a directive or regulation listed in Part I of Annex IV. This term includes also their implementing acts;
+3.
+‘type-approval’ means the procedure whereby a Member State certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements;
+4.
+‘national type-approval’ means a type-approval procedure laid down by the national law of a Member State, the validity of such approval being restricted to the territory of that Member State;
+5.
+‘EC type-approval’ means the procedure whereby a Member State certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of this Directive and of the regulatory acts listed in Annex IV or XI;
+6.
+‘individual approval’ means the procedure whereby a Member State certifies that a particular vehicle, whether unique or not, satisfies the relevant administrative provisions and technical requirements;
+7.
+‘multi-stage type-approval’ means the procedure whereby one or more Member States certify that, depending on the state of completion, an incomplete or completed type of vehicle satisfies the relevant administrative provisions and technical requirements of this Directive;
+8.
+‘step-by-step type-approval’ means a vehicle approval procedure consisting in the step-by-step collection of the whole set of EC type-approval certificates for the systems, components and separate technical units relating to the vehicle, and which leads, at the final stage, to the approval of the whole vehicle;
+9.
+‘single-step type-approval’ means a procedure consisting in the approval of a vehicle as a whole by means of a single operation;
+10.
+‘mixed type-approval’ means a step-by-step type-approval procedure for which one or more system approvals are achieved during the final stage of the approval of the whole vehicle, without it being necessary to issue the EC type-approval certificates for those systems;
+11.
+‘motor vehicle’ means any power-driven vehicle which is moved by its own means, having at least four wheels, being complete, completed or incomplete, with a maximum design speed exceeding 25 km/h;
+12.
+‘trailer’ means any non-self-propelled vehicle on wheels which is designed and constructed to be towed by a motor vehicle;
+13.
+‘vehicle’ means any motor vehicle or its trailer as defined in points (11) and (12);
+14.
+‘hybrid motor vehicle’ means a vehicle with at least two different energy converters and two different energy storage systems (on-vehicle) for the purpose of vehicle propulsion;
+15.
+‘hybrid electric vehicle’ means a hybrid vehicle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy/power:
+—
+a consumable fuel,
+—
+an electrical energy/power storage device (e.g. battery, capacitor, flywheel/generator, etc.);
+16.
+‘mobile machinery’ means any self-propelled vehicle which is designed and constructed specifically to perform work which, because of its construction characteristics, is not suitable for carrying passengers or for transporting goods. Machinery mounted on a motor vehicle chassis shall not be considered as mobile machinery;
+17.
+‘type of vehicle’ means vehicles of a particular category which do not differ in at least the essential respects specified in Section B of Annex II. A type of vehicle may contain variants and versions as defined in Section B of Annex II;
+18.
+‘base vehicle’ means any vehicle which is used at the initial stage of a multi-stage type-approval process;
+19.
+‘incomplete vehicle’ means any vehicle which must undergo at least one further stage of completion in order to meet the relevant technical requirements of this Directive;
+20.
+‘completed vehicle’ means a vehicle, resulting from the process of multi-stage type-approval, which meets the relevant technical requirements of this Directive;
+21.
+‘complete vehicle’ means any vehicle which need not be completed in order to meet the relevant technical requirements of this Directive;
+22.
+‘end-of-series vehicle’ means any vehicle that is part of a stock which cannot be registered or sold or entered into service owing to the entry into force of new technical requirements against which it has not been approved;
+23.
+‘system’ means an assembly of devices combined to perform one or more specific functions in a vehicle and which is subject to the requirements of any of the regulatory acts;
+24.
+‘component’ means a device subject to the requirements of a regulatory act and intended to be part of a vehicle, which may be type-approved independently of a vehicle where the regulatory act makes express provisions for so doing;
+25.
+‘separate technical unit’ means a device subject to the requirements of a regulatory act and intended to be part of a vehicle, which may be type-approved separately, but only in relation to one or more specified types of vehicle where the regulatory act makes express provisions for so doing;
+26.
+‘original parts or equipment’ means parts or equipment which are manufactured according to the specifications and production standards provided by the vehicle manufacturer for the production of parts or equipment for the assembly of the vehicle in question. This includes parts or equipment which are manufactured on the same production line as these parts or equipment. It is presumed unless the contrary is proven, that parts constitute original parts if the part manufacturer certifies that the parts match the quality of the components used for the assembly of the vehicle in question and have been manufactured according to the specifications and production standards of the vehicle manufacturer;
+27.
+‘manufacturer’ means the person or body who is responsible to the approval authority for all aspects of the type-approval or authorisation process and for ensuring conformity of production. It is not essential that the person or body be directly involved in all stages of the construction of the vehicle, system, component or separate technical unit which is the subject of the approval process;
+28.
+‘manufacturer’s representative’ means any natural or legal person established in the Community who is duly appointed by the manufacturer to represent him before the approval authority and to act on his behalf in matters covered by this Directive, and where reference is made to the term ‘manufacturer’, it is to be understood as indicating either the manufacturer or his representative;
+29.
+‘approval authority’ means the authority of a Member State with competence for all aspects of the approval of a type of vehicle, system, component or separate technical unit or of the individual approval of a vehicle; for the authorisation process, for issuing and, if appropriate, withdrawing approval certificates; for acting as the contact point for the approval authorities of other Member States; for designating the technical services and for ensuring that the manufacturer meets his obligations regarding the conformity of production;
+30.
+‘competent authority’ in Article 42 means either the approval authority or a designated authority, or an accreditation body acting on their behalf;
+31.
+‘technical service’ means an organisation or body designated by the approval authority of a Member State as a testing laboratory to carry out tests, or as a conformity assessment body to carry out the initial assessment and other tests or inspections, on behalf of the approval authority, it being possible for the approval authority itself to carry out those functions;
+32.
+‘virtual testing method’ means computer simulations including calculations which demonstrate whether a vehicle, a system, a component or a separate technical unit fulfils the technical requirements of a regulatory act. For testing purposes, a virtual method does not require the use of a physical vehicle, system, component or separate technical unit;
+33.
+‘type-approval certificate’ means the document whereby the approval authority officially certifies that a type of vehicle, system, component or separate technical unit is approved;
+34.
+‘EC type-approval certificate’ means the certificate set out in Annex VI or in the corresponding annex to a separate directive or regulation, the communication form set out in the relevant Annex to one of the UNECE Regulations listed in Part I or Part II of Annex IV to this Directive, being deemed to be equivalent thereto;
+35.
+‘individual approval certificate’ means the document whereby the approval authority officially certifies that a particular vehicle is approved;
+36.
+‘certificate of conformity’ means the document set out in Annex IX, issued by the manufacturer and certifying that a vehicle belonging to the series of the type approved in accordance with this Directive complied with all regulatory acts at the time of its production;
+37.
+‘information document’ means the document set out in Annex I or Annex III, or in the corresponding Annex to a separate directive, or regulation, that prescribes the information to be supplied by an applicant, it being permissible to supply the information document in the form of an electronic file;
+38.
+‘information folder’ means the complete folder, including the information document, file, data, drawings, photographs, and so on, supplied by the applicant, it being permissible to supply the information folder in the form of an electronic file;
+39.
+‘information package’ means the information folder accompanied by the test reports and all other documents added by the technical service or by the approval authority to the information folder in the course of carrying out their functions, it being permissible to supply the information package in the form of an electronic file;
+40.
+‘index to the information package’ means the document listing the contents of the information package, suitably numbered or otherwise marked so as to identify clearly all the pages, the format of that document being such as to present a record of the successive steps in the management of the EC type-approval, in particular the dates of the revisions and updating.

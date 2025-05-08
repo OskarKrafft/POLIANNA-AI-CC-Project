@@ -1,0 +1,33 @@
+Article 19
+Amendments to Regulation (EU) 2018/956
+Regulation (EU) 2018/956 is amended as follows:
+(1)
+Article 3 is replaced by the following:
+‘Article 3
+Definitions
+For the purposes of this Regulation, the definitions set out in Directive 2007/46/EC of the European Parliament and of the Council (*3), in Regulation (EC) No 595/2009 and in Regulation (EU) 2019/1242 of the European Parliament and of the Council (*4) apply.
+
+(*3)  Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1)."
+                        
+
+(*4)  Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;"
+                        
+(2)
+in Article 4, paragraph 1 is replaced by the following:
+‘1.   Starting from 1 January 2019, Member States shall monitor the data specified in Part A of Annex I relating to new heavy-duty vehicles registered for the first time in the Union.
+By 30 September each year, starting in 2020, the competent authorities of the Member States shall report those data of the previous reporting period of 1 July to 30 June to the Commission in accordance with the reporting procedure set out in Annex II.
+With regard to 2019, the data reported by 30 September 2020 shall include data monitored from 1 January 2019 to 30 June 2020.
+Data relating to new heavy-duty vehicles that were registered previously outside the Union shall not be monitored and reported, unless that registration was made less than three months before registration in the Union.’;
+(3)
+in Article 5, paragraph 1 is replaced by the following:
+‘1.   From the starting years set out in point 1 of Part B of Annex I, manufacturers of heavy-duty vehicles shall monitor the data specified in point 2 of Part B of Annex I, for each new heavy-duty vehicle.
+By 30 September each year, from the starting years set out in point 1 of Part B of Annex I, manufacturers of heavy-duty vehicles shall report those data for each new heavy-duty vehicle with a date of simulation falling within the preceding reporting period of 1 July to 30 June to the Commission in accordance with the reporting procedure set out in Annex II.
+With regard to 2019, manufacturers shall report the data for each new heavy-duty vehicle with a date of simulation falling within the period 1 January 2019 to 30 June 2020.
+The date of simulation shall be the date reported in accordance with data entry 71 in point 2 of Part B of Annex I.’;
+(4)
+in Article 10, paragraph 1 is replaced by the following:
+‘1.   By 30 April every year, the Commission shall publish an annual report with its analysis of the data transmitted by Member States and manufacturers for the preceding reporting period.’;
+(5)
+in Annex II, point 3.2 is replaced by the following:
+‘3.2.
+The data relating to heavy-duty vehicles registered in the preceding reporting period and recorded in the Register shall be made public by 30 April each year, starting from 2021, with the exception of the data entries specified in Article 6(1).’.

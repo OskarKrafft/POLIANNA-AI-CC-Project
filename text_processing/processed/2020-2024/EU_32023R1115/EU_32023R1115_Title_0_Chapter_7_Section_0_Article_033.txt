@@ -1,0 +1,29 @@
+Article 33
+Information system
+1.   By 30 December 2024, the Commission shall establish and subsequently shall maintain an information system which shall contain the due diligence statements made available pursuant to Article 4(2).
+2.   Without prejudice to the fulfilment of obligations established in Chapters 2 and 3, the information system shall provide at least the following functionalities:
+(a)
+registration of operators and traders and their authorised representatives in the Union; for operators placing relevant products under the customs procedure ‘release for free circulation’ or ‘export’, the Economic Operators Registration and Identification (EORI) number established pursuant to Article 9 of Regulation (EU) No 952/2013, shall be included in their registration profile;
+(b)
+registration of due diligence statements including the communication to the operator or trader concerned of a reference number for each due diligence statement submitted through the information system;
+(c)
+making available the reference number of existing due diligence statements pursuant to Article 4(8) and (9);
+(d)
+where possible, the conversion of data from relevant systems to identify the geolocation;
+(e)
+registration of the outcome of checks on due diligence statements;
+(f)
+interconnection with customs through the European Union Single Window Environment for Customs, in accordance with Article 28, including to allow the notifications and requests referred to in Article 26(6) to (9);
+(g)
+provision of relevant information to support the risk-profiling for the plan of checks referred to in Article 16(5), including results of checks, the risk-profiling of operators, traders and relevant commodities and relevant products for the purpose of identifying, based on electronic data-processing techniques, operators and traders to be checked as referred to in Article 16(5), and relevant products to be checked by competent authorities;
+(h)
+facilitation of administrative assistance and cooperation between competent authorities, and between competent authorities and the Commission, to exchange information and data;
+(i)
+support communication between competent authorities and operators and traders for the purposes of implementation of this Regulation, including, where appropriate, through the use of digital supply management tools.
+3.   The Commission shall, by means of implementing acts, establish rules for the functioning of the information system under this Article, including rules for the protection of personal data and exchange of data with other IT systems. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 36(2).
+4.   The Commission shall provide access to that information system to customs authorities, competent authorities, operators and traders and, if applicable, their authorised representatives, in accordance with their respective obligations under this Regulation.
+5.   In line with the Union’s Open Data Policy, the Commission shall provide access to the wider public to the complete anonymised datasets of the information system in an open format that can be machine-readable and that ensures interoperability, re-use and accessibility.
+CHAPTER 8
+
+REVIEW
+

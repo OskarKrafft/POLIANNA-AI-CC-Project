@@ -1,0 +1,44 @@
+Article 54
+Authorisation and designation to provide banking-type ancillary services
+1.   A CSD shall not itself provide any banking-type ancillary services set out in Section C of the Annex unless it has obtained an additional authorisation to provide such services in accordance with this Article.
+2.   A CSD that intends to settle the cash leg of all or part of its securities settlement system in accordance with Article 40(2) or otherwise wishes to provide any banking-type ancillary services referred to in paragraph 1 shall be authorised either:
+(a)
+to offer such services itself under the conditions specified in this Article; or
+(b)
+to designate for that purpose one or more credit institutions authorised in accordance with Article 8 of Directive 2013/36/EU.
+3.   Where a CSD seeks to provide any banking-type ancillary services from within the same legal entity as the legal entity operating the securities settlement system the authorisation referred to in paragraph 2 shall be granted only where the following conditions are met:
+(a)
+the CSD is authorised as a credit institution as provided for in Article 8 of Directive 2013/36/EU;
+(b)
+the CSD meets the prudential requirements laid down in Article 59(1), (3) and (4) and the supervisory requirements laid down in Article 60;
+(c)
+the authorisation referred to in point (a) of this subparagraph is used only to provide the banking-type ancillary services referred to in Section C of the Annex and not to carry out any other activities;
+(d)
+the CSD is subject to an additional capital surcharge that reflects the risks, including credit and liquidity risks, resulting from the provision of intra-day credit, inter alia, to the participants in a securities settlement system or other users of CSD services;
+(e)
+the CSD reports at least monthly to the competent authority and annually as a part of its public disclosure as required under Part Eight of Regulation (EU) No 575/2013 on the extent and management of intra-day liquidity risk in accordance with point (j) of Article 59(4) of this Regulation;
+(f)
+the CSD has submitted to the competent authority an adequate recovery plan to ensure continuity of its critical operations, including in situations where liquidity or credit risk crystallises as a result of the provision of banking-type ancillary services.
+In the case of conflicting provisions laid down in this Regulation, in Regulation (EU) No 575/2013 and in Directive 2013/36/EU, the CSD referred to in point (a) of the first subparagraph shall comply with the stricter requirements on prudential supervision. The regulatory technical standards referred to in Articles 47 and 59 of this Regulation shall clarify the cases of conflicting provisions.
+4.   Where a CSD seeks to designate a credit institution to provide any banking-type ancillary services from within a separate legal entity which may be part of the same group of undertakings ultimately controlled by the same parent undertaking or not, the authorisation referred to in paragraph 2 shall be granted only where the following conditions are met:
+(a)
+the separate legal entity is authorised as a credit institution as provided for in Article 8 of Directive 2013/36/EU;
+(b)
+the separate legal entity meets the prudential requirements laid down in Article 59(1), (3) and (4) and supervisory requirements laid down in Article 60;
+(c)
+the separate legal entity does not itself carry out any of the core services referred to in Section A of the Annex;
+(d)
+the authorisation referred to in point (a) is used only to provide the banking-type ancillary services referred to in Section C of the Annex and not to carry out any other activities;
+(e)
+the separate legal entity is subject to an additional capital surcharge that reflects the risks, including credit and liquidity risks, resulting from the provision of intra-day credit, inter alia, to the participants in a securities settlement system or other users of CSD services;
+(f)
+the separate legal entity reports at least monthly to the competent authority and annually as a part of its public disclosure as required under Part Eight of Regulation (EU) No 575/2013 on the extent and management of intra-day liquidity risk in accordance with point (j) of Article 59(4) of this Regulation; and
+(g)
+the separate legal entity has submitted to the competent authority an adequate recovery plan to ensure continuity of its critical operations, including in situations where liquidity or credit risk crystallises as a result of the provision of banking-type ancillary services from within a separate legal entity.
+5.   Paragraph 4 shall not apply to credit institutions referred to in point (b) of paragraph 2 that offer to settle the cash payments for part of the CSD’s securities settlement system, if the total value of such cash settlement through accounts opened with those credit institutions, calculated over a one-year period, is less than one per cent of the total value of all securities transactions against cash settled in the books of the CSD and does not exceed a maximum of EUR 2,5 billion per year.
+The competent authority shall monitor at least once per year that the threshold defined in the first subparagraph is respected and report its findings to ESMA. Where the competent authority determines that the threshold has been exceeded, it shall require the CSD concerned to seek authorisation in accordance with paragraph 4. The CSD concerned shall submit its application for authorisation within six months.
+6.   The competent authority may require a CSD to designate more than one credit institution, or to designate a credit institution in addition to providing services itself in accordance with point (a) of paragraph 2 of this Article where it considers that the exposure of one credit institution to the concentration of risks under Article 59(3) and (4) is not sufficiently mitigated. The designated credit institutions shall be considered to be settlement agents.
+7.   A CSD authorised to provide any banking-type ancillary services and a credit institution designated in accordance with point (b) of paragraph 2 shall comply at all times with the conditions necessary for authorisation under this Regulation and shall, without delay, notify the competent authorities of any substantive changes affecting the conditions for authorisation.
+8.   EBA shall, in close cooperation with ESMA and the members of the ESCB, develop draft regulatory technical standards to determine the additional risk based capital surcharge referred to in point (d) of paragraph 3 and point (e) of paragraph 4.
+EBA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

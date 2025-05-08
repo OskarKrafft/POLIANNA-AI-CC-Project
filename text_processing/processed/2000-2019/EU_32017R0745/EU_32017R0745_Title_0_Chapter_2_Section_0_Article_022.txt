@@ -1,0 +1,20 @@
+Article 22
+Systems and procedure packs
+1.   Natural or legal persons shall draw up a statement if they combine devices bearing a CE marking with the following other devices or products, in a manner that is compatible with the intended purpose of the devices or other products and within the limits of use specified by their manufacturers, in order to place them on the market as a system or procedure pack:
+(a)
+other devices bearing the CE marking;
+(b)
+
+in vitro diagnostic medical devices bearing the CE marking in conformity with Regulation (EU) 2017/746;
+(c)
+other products which are in conformity with legislation that applies to those products only where they are used within a medical procedure or their presence in the system or procedure pack is otherwise justified.
+2.   In the statement made pursuant to paragraph 1, the natural or legal person concerned shall declare that:
+(a)
+they verified the mutual compatibility of the devices and, if applicable other products, in accordance with the manufacturers' instructions and have carried out their activities in accordance with those instructions;
+(b)
+they packaged the system or procedure pack and supplied relevant information to users incorporating the information to be supplied by the manufacturers of the devices or other products which have been put together;
+(c)
+the activity of combining devices and, if applicable, other products as a system or procedure pack was subject to appropriate methods of internal monitoring, verification and validation.
+3.   Any natural or legal person who sterilises systems or procedure packs referred to in paragraph 1 for the purpose of placing them on the market shall, at their choice, apply one of the procedures set out in Annex IX or the procedure set out in Part A of Annex XI. The application of those procedures and the involvement of the notified body shall be limited to the aspects of the procedure relating to ensuring sterility until the sterile packaging is opened or damaged. The natural or legal person shall draw up a statement declaring that sterilisation has been carried out in accordance with the manufacturer's instructions.
+4.   Where the system or procedure pack incorporates devices which do not bear the CE marking or where the chosen combination of devices is not compatible in view of their original intended purpose, or where the sterilisation has not been carried out in accordance with the manufacturer's instructions, the system or procedure pack shall be treated as a device in its own right and shall be subject to the relevant conformity assessment procedure pursuant to Article 52. The natural or legal person shall assume the obligations incumbent on manufacturers.
+5.   The systems or procedure packs referred to in paragraph 1 of this Article shall not themselves bear an additional CE marking but they shall bear the name, registered trade name or registered trade mark of the person referred to in paragraphs 1 and 3 of this Article as well as the address at which that person can be contacted, so that the person's location can be established. Systems or procedure packs shall be accompanied by the information referred to in Section 23 of Annex I. The statement referred to in paragraph 2 of this Article shall be kept at the disposal of the competent authorities, after the system or procedure pack has been put together, for the period that is applicable under Article 10(8) to the devices that have been combined. Where those periods differ, the longest period shall apply.

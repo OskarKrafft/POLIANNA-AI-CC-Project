@@ -1,0 +1,4 @@
+Article 85
+Operational risk
+1.   Competent authorities shall ensure that institutions implement policies and processes to evaluate and manage the exposure to operational risk, including model risk, and to cover low-frequency high-severity events. Institutions shall articulate what constitutes operational risk for the purposes of those policies and procedures.
+2.   Competent authorities shall ensure that contingency and business continuity plans are in place to ensure an institution's ability to operate on an ongoing basis and limit losses in the event of severe business disruption.

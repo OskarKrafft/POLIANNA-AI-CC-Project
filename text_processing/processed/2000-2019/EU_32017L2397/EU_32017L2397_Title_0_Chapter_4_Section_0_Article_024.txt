@@ -1,0 +1,13 @@
+Article 24
+Protection of personal data
+1.   Member States shall carry out all processing of personal data provided for in this Directive in accordance with Union law on the protection of personal data, in particular Regulation (EU) 2016/679.
+2.   The Commission shall carry out all processing of personal data provided for in this Directive in accordance with Regulation (EC) No 45/2001.
+3.   Member States shall ensure that personal data are processed only for the purposes of:
+(a)
+implementing, enforcing and evaluating this Directive;
+(b)
+exchanging information between the authorities that have access to the database referred to in Article 25 and the Commission;
+(c)
+producing statistics.
+Anonymised information derived from such data may be used to support policies that promote inland waterway transport.
+4.   Member States shall ensure that the persons referred to in Articles 4 and 5 whose personal data, and in particular health data, are processed in the registers referred to in Article 25(1), and in the database referred to in Article 25(2), are informed ex ante. Member States shall grant such persons access to their personal data, and shall provide such persons with a copy of that data on request at any time.

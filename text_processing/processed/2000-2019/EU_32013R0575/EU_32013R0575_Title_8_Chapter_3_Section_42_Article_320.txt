@@ -1,0 +1,9 @@
+Article 320
+Criteria for the Standardised Approach
+The criteria referred to in the first subparagraph of Article 312(1) are the following:
+(a)
+an institution shall have in place a well-documented assessment and management system for operational risk with clear responsibilities assigned for this system. It shall identify its exposures to operational risk and track relevant operational risk data, including material loss data. This system shall be subject to regular independent review carried out by an internal or external party possessing the necessary knowledge to carry out such review;
+(b)
+an institution's operational risk assessment system shall be closely integrated into the risk management processes of the institution. Its output shall be an integral part of the process of monitoring and controlling the institution's operational risk profile;
+(c)
+an institution shall implement a system of reporting to senior management that provides operational risk reports to relevant functions within the institution. An institution shall have in place procedures for taking appropriate action according to the information within the reports to management.

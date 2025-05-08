@@ -1,0 +1,27 @@
+Article 78
+Technical design and operation of the battery passport
+The technical design and operation of the battery passport shall comply with the following essential requirements:
+(a)
+the battery passport shall be fully interoperable with other digital product passports required by Union law concerning eco-design, in relation to the technical, semantic and organisational aspects of end-to-end communication and data transfer;
+(b)
+consumers, economic operators and other relevant actors shall have access to the battery passport free of charge and based on their respective access rights set out in Annex XIII and the implementing act adopted pursuant to Article 77(9);
+(c)
+the data included in the battery passport shall be stored by the economic operator responsible for the fulfilment of the obligations under Article 77(4) or (7), or by operators authorised to act on their behalf;
+(d)
+if the data included in the battery passport are stored or otherwise processed by operators authorised to act on behalf of the economic operator responsible for the fulfilment of the obligations under Article 77(4) or (7), those operators shall not be allowed to sell, re-use or process such data, in whole or in part, beyond what is necessary for the provision of the relevant storing or processing services;
+(e)
+the battery passport shall remain available after the economic operator responsible for the fulfilment of the obligations under Article 77(4) or (7) ceases to exist or ceases its activity in the Union;
+(f)
+the rights to access, introduce, modify or update information in the battery passport shall be restricted based on the access rights specified in Annex XIII and the implementing act adopted pursuant to Article 77(9);
+(g)
+data authentication, reliability and integrity shall be ensured;
+(h)
+the battery passport shall be such that a high level of security and privacy is ensured and fraud is avoided.
+
+CHAPTER X
+
+
+
+Union market surveillance and Union safeguard procedures
+
+

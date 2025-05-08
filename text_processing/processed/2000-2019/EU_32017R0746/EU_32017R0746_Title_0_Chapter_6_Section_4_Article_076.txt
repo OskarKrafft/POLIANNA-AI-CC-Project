@@ -1,0 +1,26 @@
+Article 76
+Recording and reporting of adverse events that occur during performance studies
+1.   The sponsor shall fully record all of the following:
+(a)
+any adverse event of a type identified in the performance study plan as being critical to the evaluation of the results of that performance study;
+(b)
+any serious adverse event;
+(c)
+any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fortunate;
+(d)
+any new findings in relation to any event referred to in points (a) to (c).
+2.   The sponsor shall report without delay to all Member States in which a performance study is being conducted all of the following by means of the electronic system referred to in Article 69:
+(a)
+any serious adverse event that has a causal relationship with the device, the comparator or the study procedure or where such causal relationship is reasonably possible;
+(b)
+any device deficiency that might have led to a serious adverse event if appropriate action had not been taken, intervention had not occurred, or circumstances had been less fortunate;
+(c)
+any new findings in relation to any event referred to in points (a) and (b).
+The period for reporting shall take account of the severity of the event. Where necessary to ensure timely reporting, the sponsor may submit an initial report that is incomplete followed up by a complete report.
+Upon request by any Member State in which the performance study is being conducted, the sponsor shall provide all information referred to in paragraph 1.
+3.   The sponsor shall also report to the Member States in which the performance study is being conducted any event referred to in paragraph 2 of this Article that occurred in third countries in which a performance study is performed under the same clinical performance study plan as the one applying to a performance study covered by this Regulation by means of the electronic system referred to in Article 69.
+4.   In the case of a performance study for which the sponsor has used the single application referred to in Article 74, the sponsor shall report any event as referred to in paragraph 2 of this Article by means of the electronic system referred to in Article 69. Upon receipt, this report shall be transmitted electronically to all Member States in which the performance study is being conducted.
+Under the direction of the coordinating Member State referred to in Article 74(2), the Member States shall coordinate their assessment of serious adverse events and device deficiencies to determine whether to modify, suspend or terminate the performance study or whether to revoke the authorisation for that performance study.
+This paragraph shall not affect the rights of the other Member States to perform their own evaluation and to adopt measures in accordance with this Regulation in order to ensure the protection of public health and patient safety. The coordinating Member State and the Commission shall be kept informed of the outcome of any such evaluation and the adoption of any such measures.
+5.   In the case of PMPF studies referred to in Article 70(1), the provisions on vigilance laid down in Articles 82 to 85 and in the implementing acts adopted pursuant to Article 86 shall apply instead of this Article.
+6.   Notwithstanding paragraph 5, this Article shall apply where a causal relationship between the serious adverse event and the preceding performance study has been established.

@@ -1,0 +1,20 @@
+Article 6
+Obligations of third parties receiving data at the request of the user
+1.   A third party shall process the data made available to it pursuant to Article 5 only for the purposes and under the conditions agreed with the user and subject to Union and national law on the protection of personal data including the rights of the data subject insofar as personal data are concerned. The third party shall erase the data when they are no longer necessary for the agreed purpose, unless otherwise agreed with the user in relation to non-personal data.
+2.   The third party shall not:
+(a)
+make the exercise of choices or rights under Article 5 and this Article by the user unduly difficult, including by offering choices to the user in a non-neutral manner, or by coercing, deceiving or manipulating the user, or by subverting or impairing the autonomy, decision-making or choices of the user, including by means of a user digital interface or a part thereof;
+(b)
+notwithstanding Article 22(2), points (a) and (c), of Regulation (EU) 2016/679, use the data it receives for the profiling, unless it is necessary to provide the service requested by the user;
+(c)
+make the data it receives available to another third party, unless the data is made available on the basis of a contract with the user, and provided that the other third party takes all necessary measures agreed between the data holder and the third party to preserve the confidentiality of trade secrets;
+(d)
+make the data it receives available to an undertaking designated as a gatekeeper pursuant to Article 3 of Regulation (EU) 2022/1925;
+(e)
+use the data it receives to develop a product that competes with the connected product from which the accessed data originate or share the data with another third party for that purpose; third parties shall also not use any non-personal product data or related service data made available to them to derive insights about the economic situation, assets and production methods of, or use by, the data holder;
+(f)
+use the data it receives in a manner that has an adverse impact on the security of the connected product or related service;
+(g)
+disregard the specific measures agreed with a data holder or with the trade secrets holder pursuant to Article 5(9) and undermine the confidentiality of trade secrets;
+(h)
+prevent the user that is a consumer, including on the basis of a contract, from making the data it receives available to other parties.

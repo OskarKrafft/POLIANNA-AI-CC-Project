@@ -1,0 +1,17 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+1. "ambient air" means outdoor air in the troposphere, excluding work places;
+2. "pollutant" means any substance introduced directly or indirectly by man into the ambient air and likely to have harmful effects on human health and/or the environment as a whole;
+3. "ozone precursor substances", means substances which contribute to the formation of ground-level ozone, some of which are listed in Annex VI;
+4. "level" means the concentration of a pollutant in ambient air or the deposition thereof on surfaces in a given time;
+5. "assessment" means any method used to measure, calculate, predict or estimate the level of a pollutant in the ambient air;
+6. "fixed measurements" means measurements taken in accordance with Article 6(5) of Directive 96/62/EC;
+7. "zone" means part of the territory of a Member State as delimited by it;
+8. "agglomeration" means a zone with a population concentration in excess of 250000 inhabitants or, where the population concentration is 250000 inhabitants or less, a population density per km² which for the Member State justifies the need for ambient air quality to be assessed and managed;
+9. "target value" means a level fixed with the aim, in the long term, of avoiding harmful effects on human health and/or the environment as a whole, to be attained where possible over a given period;
+10. "long-term objective" means an ozone concentration in the ambient air below which, according to current scientific knowledge, direct adverse effects on human health and/or the environment as a whole are unlikely. This objective is to be attained in the long term, save where not achievable through proportionate measures, with the aim of providing effective protection of human health and the environment;
+11. "alert threshold" means a level beyond which there is a risk to human health from brief exposure for the general population and at which immediate steps shall be taken by the Member States as laid down in Articles 6 and 7;
+12. "information threshold" means a level beyond which there is a risk to human health from brief exposure for particularly sensitive sections of the population and at which up-to-date information is necessary;
+13. "volatile organic compounds" (VOC) means all organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight.
+

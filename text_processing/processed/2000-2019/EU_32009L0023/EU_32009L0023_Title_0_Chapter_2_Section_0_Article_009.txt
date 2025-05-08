@@ -1,0 +1,10 @@
+Article 9
+1.   The conformity of instruments to the essential requirements set out in Annex I may be certified by either of the following procedures as selected by the applicant:
+(a)
+EC type examination as referred to in Annex II, point 1, followed either by the EC declaration of type conformity (guarantee of production quality) as referred to in Annex II, point 2, or by the EC verification as referred to in Annex II, point 3.
+However, EC type examination shall not be compulsory for instruments which do not use electronic devices and the load-measuring device of which does not use a spring to balance the load;
+(b)
+EC unit verification as referred to in Annex II, point 4.
+2.   The documents and correspondence relating to the procedures referred to in paragraph 1 shall be drafted in an official language of the Member State where the said procedures are carried out, or in a language accepted by the body notified in accordance with Article 10(1).
+3.   Where the instruments are subject to other Directives covering other aspects and which also provide for the affixing of the ‘CE’ conformity marking, that marking shall indicate that the instruments in question are also presumed to conform to the provisions of those other Directives.
+However, where one or more of the Directives which apply to the instruments allow the manufacturer, during a transitional period, to choose which arrangements to apply, the ‘CE’ conformity marking shall indicate conformity only to the Directives applied by the manufacturer. In this case, particulars of publication in the Official Journal of the European Union of the Directives applied must be given in the documents, notices or instructions required by the Directives and accompanying such instruments.

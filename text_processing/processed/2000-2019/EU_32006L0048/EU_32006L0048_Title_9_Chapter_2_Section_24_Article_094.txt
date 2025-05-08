@@ -1,0 +1,3 @@
+Article 94
+Where a credit institution uses the Standardised Approach set out in Articles 78 to 83 for the calculation of risk-weighted exposure amounts for the exposure class to which the securitised exposures would be assigned under Article 79, it shall calculate the risk-weighted exposure amount for a securitisation position in accordance with Annex IX, Part 4, points 1 to 36.
+In all other cases, it shall calculate the risk-weighted exposure amount in accordance with Annex IX, Part 4, points 1 to 5 and 37 to 76.

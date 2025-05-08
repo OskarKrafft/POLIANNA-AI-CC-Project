@@ -1,0 +1,11 @@
+Article 119
+Exposures to institutions
+1.   Exposures to institutions for which a credit assessment by a nominated ECAI is available shall be risk-weighted in accordance with Article 120. Exposures to institutions for which a credit assessment by a nominated ECAI is not available shall be risk-weighted in accordance with Article 121.
+2.   Exposures to institutions of a residual maturity of three months or less denominated and funded in the national currency of the borrower shall be assigned a risk weight that is one category less favourable than the preferential risk weight, as described in Article 114(4) to (7), assigned to exposures to the central government in which the institution is incorporated.
+3.   No exposures with a residual maturity of three months or less denominated and funded in the national currency of the borrower shall be assigned a risk weight less than 20 %.
+4.   Exposure to an institution in the form of minimum reserves required by the ECB or by the central bank of a Member State to be held by an institution may be risk-weighted as exposures to the central bank of the Member State in question provided:
+(a)
+the reserves are held in accordance with Regulation (EC) No 1745/2003 of the European Central Bank of 12 September 2003 on the application of minimum reserves (29) or in accordance with national requirements in all material respects equivalent to that Regulation;
+(b)
+in the event of the bankruptcy or insolvency of the institution where the reserves are held, the reserves are fully repaid to the institution in a timely manner and are not made available to meet other liabilities of the institution.
+5.   Exposures to financial institutions authorised and supervised by the competent authorities and subject to prudential requirements comparable to those applied to institutions in terms of robustness shall be treated as exposures to institutions.

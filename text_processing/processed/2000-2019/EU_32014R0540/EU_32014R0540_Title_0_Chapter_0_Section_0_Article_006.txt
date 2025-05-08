@@ -1,0 +1,13 @@
+Article 6
+Additional sound emission provisions (ASEP)
+1.   This Article shall apply to vehicles of categories M1 and N1 equipped with an internal combustion engine fitted with original equipment manufacturer silencing systems, as well as to replacement silencing systems intended for such categories of vehicles in accordance with Annex IX.
+2.   Vehicles and replacement silencing systems shall meet the requirements of Annex VII.
+3.   Vehicles and replacement silencing systems shall be deemed to comply with the requirements of Annex VII, without further testing, if the manufacturer provides technical documents to the approval authority showing that the difference between the maximum and minimum engine speed of the vehicles at BB' as referred to in Figure 1 of the Appendix to Annex II, for any test condition inside the ASEP control range defined in point 2.3 of Annex VII, with respect to conditions set out in Annex II, does not exceed 0,15 x S.
+4.   The sound emission of the vehicle or replacement silencing system under typical on-road driving conditions, which are different from those under which the type-approval test set out in Annex II and Annex VII was carried out, shall not deviate from the test result in a significant manner.
+5.   The manufacturer shall not intentionally alter, adjust, or introduce any mechanical, electrical, thermal, or other device or procedure which is not operational during typical on-road driving conditions solely for the purpose of complying with the sound emission requirements under this Regulation.
+6.   In the application for type-approval, the manufacturer shall provide a statement, established in accordance with the model set out in the Appendix to Annex VII, that the vehicle type or replacement silencing system to be approved complies with the requirements of this Article.
+7.   Paragraphs 1 to 6 shall not apply to vehicles of category N1 if one of the following conditions is met:
+(a)
+the engine capacity does not exceed 660 cm3 and the power-to-mass ratio calculated by using the technically permissible maximum laden mass does not exceed 35;
+(b)
+the payload is at least 850 kg and the power-to-mass ratio calculated by using the technically permissible maximum laden mass does not exceed 40.

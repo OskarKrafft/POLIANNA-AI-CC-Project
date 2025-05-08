@@ -1,0 +1,39 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(1)
+‘standard’ means a technical specification, adopted by a recognised standardisation body, for repeated or continuous application, with which compliance is not compulsory, and which is one of the following:
+(a)
+‘international standard’ means a standard adopted by an international standardisation body;
+(b)
+‘European standard’ means a standard adopted by a European standardisation organisation;
+(c)
+‘harmonised standard’ means a European standard adopted on the basis of a request made by the Commission for the application of Union harmonisation legislation;
+(d)
+‘national standard’ means a standard adopted by a national standardisation body;
+(2)
+‘European standardisation deliverable’ means any other technical specification than a European standard, adopted by a European standardisation organisation for repeated or continuous application and with which compliance is not compulsory;
+(3)
+‘draft standard’ means a document containing the text of the technical specifications concerning a given subject, which is being considered for adoption in accordance with the relevant standards procedure, as that document stands after the preparatory work and as circulated for public comment or scrutiny;
+(4)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, process, service or system and which lays down one or more of the following:
+(a)
+the characteristics required of a product including levels of quality, performance, interoperability, environmental protection, health, safety or dimensions, and including the requirements applicable to the product as regards the name under which the product is sold, terminology, symbols, testing and test methods, packaging, marking or labelling and conformity assessment procedures;
+(b)
+production methods and processes used in respect of agricultural products as defined in Article 38(1) TFEU, products intended for human and animal consumption, and medicinal products, as well as production methods and processes relating to other products, where these have an effect on their characteristics;
+(c)
+the characteristics required of a service including levels of quality, performance, interoperability, environmental protection, health or safety, and including the requirements applicable to the provider as regards the information to be made available to the recipient, as specified in Article 22(1) to (3) of Directive 2006/123/EC;
+(d)
+the methods and the criteria for assessing the performance of construction products, as defined in point 1 of Article 2 of Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products (37), in relation to their essential characteristics;
+(5)
+‘ICT technical specification’ means a technical specification in the field of information and communication technologies;
+(6)
+‘product’ means any industrially manufactured product and any agricultural product, including fish products;
+(7)
+‘service’ means any self-employed economic activity normally provided for remuneration, as defined in Article 57 TFEU;
+(8)
+‘European standardisation organisation’ means an organisation listed in Annex I;
+(9)
+‘international standardisation body’ means the International Organisation for Standardisation (ISO), the International Electrotechnical Commission (IEC) and the International Telecommunication Union (ITU);
+(10)
+‘national standardisation body’ means a body notified to the Commission by a Member State in accordance with Article 27 of this Regulation.

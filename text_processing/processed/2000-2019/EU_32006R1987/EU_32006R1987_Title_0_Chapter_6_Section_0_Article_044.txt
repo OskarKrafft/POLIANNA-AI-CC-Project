@@ -1,0 +1,5 @@
+Article 44
+Supervision of N.SIS II
+1.   The authority or authorities designated in each Member State and endowed with the powers referred to in Article 28 of Directive 95/46/EC (the ‘National Supervisory Authority’) shall monitor independently the lawfulness of the processing of SIS II personal data on their territory and its transmission from that territory, and the exchange and further processing of supplementary information.
+2.   The National Supervisory Authority shall ensure that an audit of the data processing operations in its N.SIS II is carried out in accordance with international auditing standards at least every four years.
+3.   Member States shall ensure that their National Supervisory Authority has sufficient resources to fulfil the tasks entrusted to it under this Regulation.

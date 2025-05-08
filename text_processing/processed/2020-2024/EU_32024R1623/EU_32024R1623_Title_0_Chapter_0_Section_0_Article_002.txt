@@ -1,0 +1,35 @@
+Article 125
+Exposures secured by mortgages on residential property
+1.   For an exposure secured by residential property as referred to in Article 124(2), point (a)(i) or (ii), the part of the exposure up to 55 % of the property value shall be assigned a risk weight of 20 %.
+Where an institution holds a junior lien and there are more senior liens not held by that institution, to determine the part of the institution’s exposure that is eligible for the 20 % risk weight, the amount of 55 % of the property value shall be reduced by the amount of the more senior liens not held by the institution.
+Where liens not held by the institution rank pari passu with the lien held by the institution, to determine the part of the institution’s exposure that is eligible for the 20 % risk weight, the amount of 55 % of the property value, reduced by the amount of any more senior liens not held by the institution, shall be reduced by the product of:
+(a)
+55 % of the property value, reduced by the amount of more senior liens, if any, both held by the institution and held by other institutions; and
+(b)
+the amount of liens not held by the institution that rank pari passu with the lien held by the institution divided by the sum of all pari passu liens.
+Where, in accordance with Article 124(9), the competent authority or designated authority has set a higher risk weight or a lower percentage of the property value than those referred to in this paragraph, institutions shall use the risk weight or percentage set in accordance with Article 124(9).
+The remaining part of the exposure referred to in the first subparagraph, if any, shall be risk weighted as an exposure to the counterparty that is not secured by residential property.
+2.   An exposure as referred to in Article 124(2), point (a)(iii), shall be assigned the risk weight set in accordance with the respective exposure-to-value risk weight bucket in Table 1.
+For the purposes of this paragraph, where, in accordance with Article 124(9), the competent authority or designated authority, has set a higher risk weight or a lower exposure-to-value percentage than those referred to in this paragraph, institutions shall use the risk weight or percentage set in accordance with Article 124(9).
+Table 1
+ETV
+ETV ≤ 50 %
+50 % < ETV ≤ 60 %
+60 % < ETV ≤ 80 %
+80 % < ETV ≤ 90 %
+90 % < ETV ≤ 100 %
+ETV > 100 %
+Risk weight
+30 %
+35 %
+45 %
+60 %
+75 %
+105 %
+By way of derogation from the first subparagraph of this paragraph, institutions may apply the treatment referred to in paragraph 1 of this Article to exposures secured by residential property which is situated within the territory of a Member State, where the competent authority of that Member State has published in accordance with Article 430a(3) loss rates for such exposures which, based on the aggregate data reported by institutions in that Member State for that national immovable property market, do not exceed any of the following limits for losses aggregated across such exposures existing in the previous year:
+(a)
+the aggregated amount reported by institutions under Article 430a(1), point (a), divided by the aggregated amount reported by institutions under Article 430a(1), point (c), does not exceed 0,3 %;
+(b)
+the aggregated amount reported by institutions under Article 430a(1), point (b), divided by the aggregated amount reported by institutions under Article 430a(1), point (c), does not exceed 0,5 %.
+3.   Institutions may also apply the derogation referred to in paragraph 2, third subparagraph, of this Article in cases where the competent authority of a third country which applies supervisory and regulatory arrangements at least equivalent to those applied in the Union as determined in a decision of the Commission adopted in accordance with Article 107(4), publishes corresponding loss rates for exposures secured by residential property situated within the territory of that third country.
+Where a competent authority of a third country does not publish corresponding loss rates for exposures secured by residential property situated within the territory of that third country, EBA may publish such information for that third country, provided that valid statistical data, that are statistically representative of the corresponding residential property market, are available.

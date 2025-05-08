@@ -1,0 +1,17 @@
+Article 5
+Reporting by operators
+1.   The operator of each facility that undertakes one or more of the activities specified in Annex I above the applicable capacity thresholds specified therein shall report the amounts annually to its competent authority, along with an indication of whether the information is based on measurement, calculation or estimation, of the following:
+(a)
+releases to air, water and land of any pollutant specified in Annex II for which the applicable threshold value specified in Annex II is exceeded;
+(b)
+off-site transfers of hazardous waste exceeding 2 tonnes per year or of non hazardous waste exceeding 2 000 tonnes per year, for any operations of recovery or disposal with the exception of the disposal operations of land treatment and deep injection referred to in Article 6, indicating with ‘R’ or ‘D’ respectively whether the waste is destined for recovery or disposal and, for transboundary movements of hazardous waste, the name and address of the recoverer or the disposer of the waste and the actual recovery or disposal site;
+(c)
+off-site transfers of any pollutant specified in Annex II in waste water destined for waste-water treatment for which the threshold value specified in Annex II, column 1b is exceeded.
+The operator of each facility that undertakes one or more of the activities specified in Annex I above the applicable capacity thresholds specified therein shall communicate to its competent authority the information identifying the facility in accordance with Annex III unless that information is already available to the competent authority.
+In the case of data indicated as being based on measurement or calculation the analytical method and/or the method of calculation shall be reported.
+The releases referred to in Annex II reported under point (a) of this paragraph shall include all releases from all sources included in Annex I at the site of the facility.
+2.   The information referred to in paragraph 1 shall include information on releases and transfers resulting as totals of all deliberate, accidental, routine and non-routine activities.
+In providing this information operators shall specify, where available, any data that relate to accidental releases.
+3.   The operator of each facility shall collect with appropriate frequency the information needed to determine which of the facility's releases and off-site transfers are subject to reporting requirements under paragraph 1.
+4.   When preparing the report, the operator concerned shall use the best available information, which may include monitoring data, emission factors, mass balance equations, indirect monitoring or other calculations, engineering judgements and other methods in line with Article 9(1) and in accordance with internationally approved methodologies, where these are available.
+5.   The operator of each facility concerned shall keep available for the competent authorities of the Member State the records of the data from which the reported information was derived for a period of five years, starting from the end of the reporting year concerned. These records shall also describe the methodology used for data gathering.

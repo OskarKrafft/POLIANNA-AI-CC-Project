@@ -1,0 +1,95 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘machinery’ means:
+(a)
+an assembly, fitted with or intended to be fitted with a drive system other than directly applied human or animal effort, consisting of linked parts or components, at least one of which moves, and which are joined together for a specific application;
+(b)
+an assembly referred to in point (a), missing only the components to connect it on site or to sources of energy and motion;
+(c)
+an assembly referred to points (a) and (b), ready to be installed and able to function as it stands only if mounted on a means of transport, or installed in a building or a structure;
+(d)
+assemblies of machinery referred to in points (a), (b) and (c), or of partly completed machinery, which, in order to achieve the same end, are arranged and controlled so that they function as an integral whole;
+(e)
+an assembly of linked parts or components, at least one of which moves, and which are joined together, intended for lifting loads and whose only power source is directly applied human effort;
+(f)
+an assembly as referred to in points (a) to (e) missing only the uploading of the software intended for the specific application foreseen by the manufacturer;
+(2)
+‘interchangeable equipment’ means a device which, after the putting into service of machinery or an agricultural or forestry tractor, is assembled with that machinery or agricultural or forestry tractor by the operator in order to change its function or to attribute a new function to it, provided that the device is not a tool;
+(3)
+‘safety component’ means a physical or digital component, including software, of a product within the scope of this Regulation, which is designed or intended to fulfil a safety function and which is independently placed on the market, the failure or malfunction of which endanger the safety of persons, but which is not necessary in order for that product to function or for which normal components may be substituted in order for that product to function;
+(4)
+‘safety function’ means a function that serves to fulfil a protective measure designed to eliminate, or, if that is not possible, to reduce, a risk, which, if it fails, could result in an increase of that risk;
+(5)
+‘lifting accessory’ means a component or equipment, not attached to the lifting machinery, which enables the load to be held, which is placed between the machinery and the load or on the load itself, or which is intended to constitute an integral part of the load and which is independently placed on the market, including slings and their components;
+(6)
+‘chains’ means chains designed and constructed for lifting purposes as part of lifting machinery or lifting accessories;
+(7)
+‘ropes’ means ropes designed and constructed for lifting purposes as part of lifting machinery or lifting accessories;
+(8)
+‘webbing’ means webbing designed and constructed for lifting purposes as part of lifting machinery or lifting accessories;
+(9)
+‘removable mechanical transmission device’ means a removable component for transmitting power between self-propelled machinery or a tractor and other machinery or related products by joining them at the first fixed bearing; when it is placed on the market with a guard, the device and the guard are to be regarded as one item;
+(10)
+‘partly completed machinery’ means an assembly which is not yet machinery as it cannot in itself perform a specific application and which is only intended to be incorporated into or assembled with machinery or other partly completed machinery or equipment, thereby forming machinery;
+(11)
+‘making available on the market’ means any supply of a product within the scope of this Regulation for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(12)
+‘placing on the market’ means the first making available of a product within the scope of this Regulation on the Union market;
+(13)
+‘putting into service’ means the first use, for its intended purpose, in the Union, of machinery or related products;
+(14)
+‘essential health and safety requirements’ means the mandatory provisions, set out in Annex III, relating to the design and construction of products within the scope of this Regulation to ensure a high level of protection of the health and safety of persons, and, where appropriate, domestic animals and property, and, where applicable, of the environment;
+(15)
+‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+(16)
+‘substantial modification’ means a modification of machinery or a related product, by physical or digital means after that machinery or related product has been placed on the market or put into service, which is not foreseen or planned by the manufacturer, and which affects the safety of that machinery or related product, by creating a new hazard, or by increasing an existing risk, which requires:
+(a)
+the addition of guards or protective devices to that machinery or related product the processing of which necessitates the modification of the existing safety control system; or
+(b)
+the adoption of additional protective measures to ensure the stability or mechanical strength of that machinery or related product;
+(17)
+‘instructions for use’ means the information, provided by the manufacturer when the machinery or related product is placed on the market or put into service, to inform the user of the machinery or related product, of the intended and proper use of that machinery or related product, as well as information on any precautions to be taken when using or installing the machinery or related product, including information on the safety aspects, and on how to keep that machinery or related product safe, and to ensure that it remains fit for purpose during its entire lifetime;
+(18)
+‘manufacturer’ means any natural or legal person who:
+(a)
+manufactures products within the scope of this Regulation or who has those products designed or manufactured, and markets those products under its name or trademark; or
+(b)
+manufactures products within the scope of this Regulation, and puts those products into service for its own use;
+(19)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks;
+(20)
+‘importer’ means any natural or legal person established within the Union who places a product within the scope of this Regulation from a third country on the Union market;
+(21)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product within the scope of this Regulation available on the market;
+(22)
+‘economic operator’ means the manufacturer, the authorised representative, the importer or the distributor;
+(23)
+‘technical specifications’ means a document that prescribes technical requirements to be fulfilled by products within the scope of this Regulation;
+(24)
+‘harmonised standard’ means a harmonised standard as defined in Article 2, point 1, point (c), of Regulation (EU) No 1025/2012;
+(25)
+‘CE marking’ means a marking by which the manufacturer indicates that machinery or a related product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+(26)
+‘accreditation’ means accreditation as defined in Article 2, point (10), of Regulation (EC) No 765/2008;
+(27)
+‘national accreditation body’ means a national accreditation body as defined in Article 2, point (11), of Regulation (EC) No 765/2008;
+(28)
+‘conformity assessment’ means the process for demonstrating whether the applicable essential health and safety requirements in this Regulation relating to machinery or related products have been fulfilled;
+(29)
+‘conformity assessment body’ means a body that performs conformity assessment activities, including calibration, testing, certification and inspection;
+(30)
+‘notified body’ means a conformity assessment body notified in accordance with this Regulation;
+(31)
+‘market surveillance authority’ means a ‘market surveillance authority’ as defined in Article 3, point (4), of Regulation (EU) 2019/1020;
+(32)
+‘recall’ means any measure aimed at achieving the return of a product within the scope of this Regulation that has already been made available to a user;
+(33)
+‘withdrawal’ means, for a product, any measure aimed at preventing a product within the scope of this Regulation that is in the supply chain from being made available on the market;
+(34)
+‘lifetime’ means the period from the moment that machinery or a related product is placed on the market or put into service until the moment that it is discarded, including the effective time when the machinery or related product is capable of being used and the phases of transport, assembly, dismantling, disabling, scrapping or other physical or digital modifications foreseen by the manufacturer;
+(35)
+‘source code’ means the currently installed version of the software of a product within the scope of this Regulation, written in a programming language so that it is unambiguous and understandable to humans;
+(36)
+‘professional user’ means a natural person who uses or operates machinery or a related product in the course of his or her professional activity or work.

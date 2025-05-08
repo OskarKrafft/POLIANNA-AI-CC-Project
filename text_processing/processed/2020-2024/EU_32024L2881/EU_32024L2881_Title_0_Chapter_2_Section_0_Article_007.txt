@@ -1,0 +1,7 @@
+Article 7
+Assessment regime
+1.   The assessment thresholds specified in Annex II shall apply to sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), benzene, carbon monoxide, arsenic, cadmium, lead, nickel, benzo(a)pyrene and ozone in ambient air.
+Each zone shall be classified in relation to those assessment thresholds.
+2.   Member States shall review the classification referred to in paragraph 1 at least every 5 years in accordance with the procedure laid down in paragraph 3. However, classifications shall be reviewed more frequently in the event of significant changes in activities impacting the ambient concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), benzene, carbon monoxide, arsenic, cadmium, lead, nickel, benzo(a)pyrene or ozone.
+3.   Exceedances of the assessment thresholds specified in Annex II shall be determined on the basis of concentrations during the previous 5 years where sufficient data are available. An assessment threshold shall be deemed to have been exceeded if it has been exceeded during at least 3 separate years out of those previous 5 years.
+Where data are available for less than 5 years, Member States may combine measurement campaigns of short duration during the period of the year and at locations likely to be typical of the highest pollution levels, with information from emission inventories and results obtained from modelling applications to determine exceedances of the assessment thresholds.

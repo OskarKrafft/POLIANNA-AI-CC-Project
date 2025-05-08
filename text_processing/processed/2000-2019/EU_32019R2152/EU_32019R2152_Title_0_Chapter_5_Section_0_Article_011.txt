@@ -1,0 +1,10 @@
+Article 11
+Exchange of confidential data
+1.   The exchange of confidential data between Member States on intra-Union exports of goods shall take place, exclusively for statistical purposes, between the NSAs contributing to the development, production and dissemination of intra-Union trade in goods statistics.
+The technical specifications for data requirements as referred to in the Article 7(1) and (2) shall also apply to the exchange of confidential data in accordance with this Chapter.
+2.   The NSAs of the Member State of export shall provide to the NSAs of the Member State of import the statistical information on its intra-Union exports of goods to that Member State as set out in Article 12.
+3.   The NSAs of Member States of export shall provide to the NSAs of the Member State of import, metadata relevant for the use of the data exchanged in the compilation of statistics.
+4.   The Commission may adopt implementing acts specifying the information to be considered as relevant metadata as referred to in paragraph 3 as well as the timetable for providing this information and the statistical information referred to in paragraph 2.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+5.   Without prejudice to paragraph 1 of this Article, the Member State providing the confidential data exchanged shall authorise its use for the production of other statistics by NSAs of the Member State of import, provided that those data are used exclusively for statistical purposes in accordance with Articles 20 to 26 of Regulation (EC) No 223/2009.
+6.   At the request of the NSAs of the Member State of export, the Member State of import may provide to the NSAs of the Member State of export the microdata collected on its intra-Union imports of goods from that Member State of export.

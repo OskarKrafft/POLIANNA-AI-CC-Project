@@ -1,0 +1,11 @@
+Article 26
+Liability of issuers of asset-referenced tokens for the information given in a crypto-asset white paper
+1.   Where an issuer has infringed Article 19 by providing in its crypto-asset white paper or in a modified crypto-asset white paper information that is not complete, fair or clear, or that is misleading, that issuer and the members of its administrative, management or supervisory body shall be liable to a holder of such asset-referenced token for any loss incurred due to that infringement.
+2.   Any contractual exclusion or limitation of civil liability as referred to in paragraph 1 shall be deprived of legal effect.
+3.   It shall be the responsibility of the holder of the asset-referenced token to present evidence indicating that the issuer of that asset-referenced token has infringed Article 19 by providing in its crypto-asset white paper or in a modified crypto-asset white paper information that is not complete, fair or clear, or that is misleading and that reliance on such information had an impact on the holder’s decision to purchase, sell or exchange that asset-referenced token.
+4.   The issuer and the members of its administrative, management or supervisory body shall not be liable for loss suffered as a result of reliance on the information provided in a summary pursuant to Article 19, including any translation thereof, except where the summary:
+(a)
+is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or
+(b)
+does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders when considering whether to purchase the asset-referenced token.
+5.   This Article is without prejudice to any other civil liability pursuant to national law.

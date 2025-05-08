@@ -1,0 +1,26 @@
+Article 42
+Traceability and coding
+1.   SoHO entities shall implement a traceability system, in order to unambiguously link each SoHO donor or the person from whom SoHO are collected for autologous or within-relationship use, to their SoHO and to all the documents, samples, SoHO preparations and SoHO entities that are associated with that SoHO at any point.
+Importing SoHO establishments shall ensure an equivalent level of traceability with regard to imported SoHO.
+2.   The traceability system referred to in paragraph 1 of this Article shall be able to:
+(a)
+identify the SoHO donor or the person from whom SoHO are collected for autologous or within-relationship use and the SoHO establishment releasing the SoHO;
+(b)
+identify the SoHO recipient at the SoHO entity applying the SoHO to the SoHO recipient, or the manufacturer of products regulated by other Union legislation, as referred to in Article 2(6);
+(c)
+locate and identify all relevant data relating to the quality and safety of the SoHO and any materials or equipment that have come into contact with those SoHO that might pose a risk to their quality or safety.
+3.   SoHO entities distributing SoHO shall apply a code that contains the information required by the traceability system referred to in paragraph 1 of this Article. SoHO entities shall ensure that the code generated:
+(a)
+is unique within the Union;
+(b)
+is machine-readable, unless the size or storage conditions mean that a machine-readable code cannot be applied;
+(c)
+does not reveal the identity of the SoHO donor or the person from whom SoHO are collected in the case of autologous use;
+(d)
+complies with technical rules for the Single European Code referred to in Article 43, where applicable as indicated in that Article.
+The first subparagraph shall not apply in the context of autologous or within-relationship use of SoHO collected in the same SoHO entity where they are applied.
+4.   SoHO entities shall include the codes referred to in paragraph 3, on the labels applied to the SoHO, prior to its distribution, or on the documents accompanying the distributed SoHO, where it can be guaranteed that such documents will not be separated from the SoHO or will be kept digitally linked to the SoHO concerned.
+5.   SoHO entities shall use a labelling system that meets the labelling requirements set out in the relevant technical guidelines referred to in Article 56(4) and Article 59(4).
+6.   SoHO entities shall keep the data necessary to ensure traceability, appropriately safeguarded and accessible to the SoHO competent authority, for a minimum of 30 years from the SoHO distribution date or, where applicable, from the date of disposal or export. They may store the data in electronic form. Where a SoHO entity ceases its activity, the traceability data shall be transferred to a contracted SoHO entity for the remaining part of the traceability period, after informing the SoHO competent authority.
+7.   The Commission shall adopt implementing acts concerning the minimum SoHO donor and SoHO recipient data to be kept to ensure traceability.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).

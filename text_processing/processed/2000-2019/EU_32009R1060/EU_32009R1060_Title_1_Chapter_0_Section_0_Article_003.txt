@@ -1,0 +1,40 @@
+Article 3
+Definitions
+1.   For the purpose of this Regulation, the following definitions shall apply:
+(a)
+‘credit rating’ means an opinion regarding the creditworthiness of an entity, a debt or financial obligation, debt security, preferred share or other financial instrument, or of an issuer of such a debt or financial obligation, debt security, preferred share or other financial instrument, issued using an established and defined ranking system of rating categories;
+(b)
+‘credit rating agency’ means a legal person whose occupation includes the issuing of credit ratings on a professional basis;
+(c)
+‘home Member State’ means the Member State in which the credit rating agency has its registered office;
+(d)
+‘rating analyst’ means a person who performs analytical functions that are necessary for the issuing of a credit rating;
+(e)
+‘lead rating analyst’ means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
+(f)
+‘rated entity’ means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
+(g)
+‘regulatory purposes’ means the use of credit ratings for the specific purpose of complying with Community law, as implemented by the national legislation of the Member States;
+(h)
+‘rating category’ means a rating symbol, such as a letter or numerical symbol which might be accompanied by appending identifying characters, used in a credit rating to provide a relative measure of risk to distinguish the different risk characteristics of the types of rated entities, issuers and financial instruments or other assets;
+(i)
+‘related third party’ means the originator, arranger, sponsor, servicer or any other party that interacts with a credit rating agency on behalf of a rated entity, including any person directly or indirectly linked to that rated entity by control;
+(j)
+‘control’ means the relationship between a parent undertaking and a subsidiary, as described in Article 1 of Council Directive 83/349/EEC of 13 June 1983 on consolidated accounts (16), or a close link between any natural or legal person and an undertaking;
+(k)
+‘financial instrument’ means any of the instruments listed in Section C of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (17);
+(l)
+‘structured finance instrument’ means a financial instrument or other assets resulting from a securitisation transaction or scheme referred to in Article 4(36) of Directive 2006/48/EC;
+(m)
+‘group of credit rating agencies’ means a group of undertakings established in the Community consisting of a parent undertaking and its subsidiaries within the meaning of Articles 1 and 2 of Directive 83/349/EEC as well as undertakings linked to each other by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC and whose occupation includes the issuing of credit ratings. For the purposes of Article 4(3)(a), a group of credit rating agencies shall also include credit rating agencies established in third countries;
+(n)
+‘senior management’ means the person or persons who effectively direct the business of the credit rating agency and the member or members of its administrative or supervisory board;
+(o)
+‘credit rating activities’ means data and information analysis and the evaluation, approval, issuing and review of credit ratings.
+2.   For the purposes of paragraph 1(a), the following shall not be considered to be credit ratings:
+(a)
+recommendations within the meaning of Article 1(3) of Commission Directive 2003/125/EC (18);
+(b)
+investment research as defined in Article 24(1) of Directive 2006/73/EC (19) and other forms of general recommendation, such as ‘buy’, ‘sell’ or ‘hold’, relating to transactions in financial instruments or to financial obligations; or
+(c)
+opinions about the value of a financial instrument or a financial obligation.

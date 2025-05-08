@@ -1,0 +1,11 @@
+Article 6
+Access to information
+1.   Manufacturers shall provide unrestricted and standardised access to vehicle OBD information, diagnostic and other equipment, tools including any relevant software and vehicle repair and maintenance information to independent operators.
+Manufacturers shall provide a standardised, secure and remote facility to enable independent repairers to complete operations which involve access to the vehicle security system.
+In the case of multi-stage type-approval, the manufacturer responsible for the respective type-approval shall also be responsible for communicating repair information relating to the particular stage to both the final manufacturer and independent operators. The final manufacturer shall be responsible for communicating information about the whole vehicle to independent operators.
+Articles 6 and 7 of Regulation (EC) No 715/2007 shall apply mutatis mutandis.
+Until the adoption of the relevant standard, for example through the work of CEN, the vehicle OBD and vehicle repair and maintenance information shall be presented in an easily accessible, non-discriminatory manner.
+That information shall be made available on the websites of manufacturers, or, if this is not feasible due to the nature of the information, in another appropriate format.
+2.   The Commission shall establish and update, for the implementation of paragraph 1, the appropriate technical specifications relating to the way in which vehicle OBD and vehicle repair and maintenance information shall be provided. The Commission shall take into account current information technology, foreseeable vehicle technology developments, existing ISO standards and the possibility of a worldwide ISO standard.
+The Commission may adopt other measures necessary for the implementation of paragraph 1.
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(2).

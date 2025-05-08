@@ -1,0 +1,6 @@
+Article 5
+Intended settlement date
+1.   Any participant in a securities settlement system that settles in that system on its own account or on behalf of a third party transactions in transferable securities, money-market instruments, units in collective investment undertakings and emission allowances shall settle such transactions on the intended settlement date.
+2.   As regards transactions in transferable securities referred to in paragraph 1 which are executed on trading venues, the intended settlement date shall be no later than on the second business day after the trading takes place. That requirement shall not apply to transactions which are negotiated privately but executed on a trading venue, to transactions which are executed bilaterally but reported to a trading venue or to the first transaction where the transferable securities concerned are subject to initial recording in book-entry form pursuant to Article 3(2).
+3.   The competent authorities shall ensure that paragraph 1 is applied.
+The authorities competent for the supervision of trading venues shall ensure that paragraph 2 is applied.

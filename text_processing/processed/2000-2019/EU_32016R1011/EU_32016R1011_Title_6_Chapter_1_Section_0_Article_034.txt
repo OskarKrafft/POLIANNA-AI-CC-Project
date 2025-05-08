@@ -1,0 +1,23 @@
+Article 34
+Authorisation and registration of an administrator
+1.   A natural or legal person located in the Union that intends to act as an administrator shall apply to the competent authority designated under Article 40 of the Member State in which that person is located in order to receive:
+(a)
+authorisation if it provides or intends to provide indices which are used or intended to be used as benchmarks within the meaning of this Regulation;
+(b)
+registration if it is a supervised entity, other than an administrator, that provides or intends to provide indices which are used or intended to be used as benchmarks within the meaning of this Regulation, on condition that the activity of provision of a benchmark is not prevented by the sectoral discipline applying to the supervised entity and that none of the indices provided would qualify as a critical benchmark; or
+(c)
+registration if it provides or intends to provide only indices which would qualify as non-significant benchmarks.
+2.   An authorised or registered administrator shall comply at all times with the conditions laid down in this Regulation and shall notify the competent authority of any material changes thereof.
+3.   The application referred to in paragraph 1 shall be made within 30 working days of any agreement entered into by a supervised entity to use an index provided by the applicant as a reference to a financial instrument or financial contract or to measure the performance of an investment fund.
+4.   The applicant shall provide all information necessary to satisfy the competent authority that the applicant has established, at the time of authorisation or registration, all the necessary arrangements to meet the requirements laid down in this Regulation.
+5.   Within 15 working days of receipt of the application, the relevant competent authority shall assess whether the application is complete and shall notify the applicant accordingly. If the application is incomplete, the applicant shall submit the additional information required by the relevant competent authority. The time limit referred to in this paragraph shall apply from the date on which such additional information is provided by the applicant.
+6.   The relevant competent authority shall:
+(a)
+examine the application for authorisation and adopt a decision to authorise or refuse to authorise the applicant within four months of receipt of a complete application;
+(b)
+examine the application for registration and adopt a decision to register or refuse to register the applicant within 45 working days of receipt of a complete application.
+Within five working days of the adoption of a decision referred to in the first subparagraph, the competent authority shall notify it to the applicant. Where the competent authority refuses to authorise or to register the applicant, it shall give reasons for its decision.
+7.   The competent authority shall notify ESMA of any decision to authorise or to register an applicant within five working days of the date of adoption of said decision.
+8.   ESMA shall develop draft regulatory technical standards to specify further the information to be provided in the application for authorisation and in the application for registration, taking into account that authorisation and registration are distinct processes where authorisation requires a more extensive assessment of the administrator's application, the principle of proportionality, the nature of the supervised entities applying for registration under point (b) of paragraph 1 and the costs to the applicants and competent authorities.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.

@@ -1,0 +1,41 @@
+Article 37
+Powers and resources of national supervisors
+1.   Each Member State shall ensure that all obliged entities established in its territory, except for the circumstances covered in Article 38, are subject to adequate and effective supervision. To that end, each Member State shall appoint one or more supervisors to monitor effectively, and to take the measures necessary to ensure compliance by the obliged entities with Regulations (EU) 2024/1624 and (EU) 2023/1113.
+Where, for reasons of overriding general interest, Member States have introduced specific authorisations requirements for obliged entities to operate in their territory under the freedom to provide services, they shall ensure that the activities carried out by the obliged entities under those specific authorisations are subject to supervision by their national supervisors, regardless of whether the authorised activities are carried out through an infrastructure in their territory or remotely. Member States shall also ensure that supervision under this subparagraph is notified to the supervisors of the Member State where the head office of the obliged entity is located.
+This paragraph shall not apply when AMLA acts as a supervisor.
+2.   Member States shall ensure that supervisors have adequate financial, human and technical resources to perform their tasks as listed in paragraph 5. Member States shall ensure that staff of those authorities are of high integrity and appropriately skilled, and maintain high professional standards, including standards of confidentiality, data protection and standards addressing conflicts of interest.
+3.   In the case of the obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624, Member States may allow the function referred to in paragraph 1 of this Article to be performed by self-regulatory bodies, provided that those self-regulatory bodies have the powers referred to in paragraph 6 of this Article and have adequate financial, human and technical resources to perform their functions. Member States shall ensure that staff of those bodies are of high integrity and appropriately skilled, and that they maintain high professional standards, including standards of confidentiality, data protection and standards addressing conflicts of interest.
+4.   Where a Member State has entrusted the supervision of a category of obliged entities to more than one supervisor, it shall ensure that those supervisors supervise obliged entities in a consistent and efficient manner across the sector. To that end, the Member State shall appoint a leading supervisor or establish a coordination mechanism among those supervisors.
+Where a Member State has entrusted the supervision of all obliged entities to more than one supervisor, it shall establish a coordination mechanism among those supervisors to ensure that obliged entities are effectively supervised to the highest standards. Such a coordination mechanism shall include all supervisors, except where:
+(a)
+supervision is entrusted to a self-regulatory body, in which case the public authority referred to in Article 52 shall participate in the coordination mechanism;
+(b)
+supervision of a category of obliged entities is entrusted to several supervisors, in which case the lead supervisor shall participate in the coordination mechanism; where no lead supervisor has been appointed, supervisors shall designate a representative among them.
+5.   For the purposes of paragraph 1, Member States shall ensure that the national supervisors perform the following tasks:
+(a)
+to disseminate relevant information to obliged entities pursuant to Article 39;
+(b)
+to decide on those cases where the specific risks inherent in a sector are clear and understood and individual documented risk assessments pursuant to Article 10 of Regulation (EU) 2024/1624 are not required;
+(c)
+to verify the adequacy and implementation of the internal policies, procedures and controls of obliged entities pursuant to Chapter II of Regulation (EU) 2024/1624 and of the human resources allocated to the performance of the tasks required under that Regulation, as well as, for supervisors of collective investment undertakings, to decide on those cases where the collective investment undertaking may outsource the reporting of suspicious activities pursuant to Article 18(7) of Regulation (EU) 2024/1624 to a service provider;
+(d)
+to regularly assess and monitor the money laundering and terrorist financing risks as well as the risks of non-implementation and evasion of targeted financial sanctions the obliged entities are exposed to;
+(e)
+to monitor compliance by obliged entities with regard to their obligations in relation to targeted financial sanctions;
+(f)
+to conduct all the necessary off-site investigations, on-site inspections and thematic checks and any other inquiries, assessments and analyses necessary to verify that obliged entities comply with Regulation (EU) 2024/1624, and with any administrative measures taken pursuant to Article 56 of this Directive;
+(g)
+to take appropriate supervisory measures to address any breaches of applicable requirements by the obliged entities identified in the process of supervisory assessments and follow up on the implementation of such measures.
+6.   Member States shall ensure that supervisors have adequate powers to perform their tasks as provided for in paragraph 5, including the power to:
+(a)
+compel the production of any information from obliged entities which is relevant for monitoring and verifying compliance with Regulation (EU) 2024/1624 or Regulation (EU) 2023/1113 and to perform checks, including from service providers to whom the obliged entity has outsourced part of its tasks to meet the requirements of those Regulations;
+(b)
+apply appropriate and proportionate administrative measures to remedy the situation in the case of breaches, including through the imposition of pecuniary sanctions in accordance with Section 4 of this Chapter.
+7.   Member States shall ensure that financial supervisors and supervisors in charge of gambling service providers have powers additional to those referred to in paragraph 6, including the power to inspect the business premises of the obliged entity without prior announcement where the proper conduct and efficiency of an inspection so require, and that they have all the necessary means to carry out such inspection.
+For the purposes of the first subparagraph, the supervisors shall at least be able to:
+(a)
+examine the books and records of the obliged entity and take copies or extracts from such books and records;
+(b)
+obtain access to any software, databases, IT tools or other electronic means of recording information used by the obliged entity;
+(c)
+obtain written or oral information from any person responsible for AML/CFT internal policies, procedures and controls or their representatives or staff, as well as any representative or staff of entities to which the obliged entity has outsourced tasks pursuant to Article 18 of Regulation (EU) 2024/1624, and interview any other person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation.

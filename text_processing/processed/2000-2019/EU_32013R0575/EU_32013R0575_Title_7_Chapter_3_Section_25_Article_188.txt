@@ -1,0 +1,24 @@
+Article 188
+Validation and documentation
+Institutions shall have robust systems in place to validate the accuracy and consistency of their internal models and modelling processes. All material elements of the internal models and the modelling process and validation shall be documented.
+The validation and documentation of institutions' internal models and modelling processes shall be subject to the following requirements:
+(a)
+institutions shall use the internal validation process to assess the performance of its internal models and processes in a consistent and meaningful way;
+(b)
+the methods and data used for quantitative validation shall be consistent through time. Changes in estimation and validation methods and data both data sources and periods covered shall be documented;
+(c)
+institutions shall regularly compare actual equity returns computed using realised and unrealised gains and losses with modelled estimates. Such comparisons shall make use of historical data that cover as long a period as possible. The institution shall document the methods and data used in such comparisons. This analysis and documentation shall be updated at least annually;
+(d)
+institutions shall make use of other quantitative validation tools and comparisons with external data sources. The analysis shall be based on data that are appropriate to the portfolio, are updated regularly, and cover a relevant observation period. Institutions' internal assessments of the performance of their models shall be based on as long a period as possible;
+(e)
+institutions shall have sound internal standards for addressing situations where comparison of actual equity returns with the models estimates calls the validity of the estimates or of the models as such into question. These standards shall take account of business cycles and similar systematic variability in equity returns. All adjustments made to internal models in response to model reviews shall be documented and consistent with the institution's model review standards;
+(f)
+the internal model and the modelling process shall be documented, including the responsibilities of parties involved in the modelling, and the model approval and model review processes.
+
+Sub-Section 5
+
+
+
+Internal governance and oversight
+
+

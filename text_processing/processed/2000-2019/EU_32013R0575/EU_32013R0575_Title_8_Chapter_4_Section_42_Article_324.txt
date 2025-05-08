@@ -1,0 +1,22 @@
+Article 324
+Loss event type classification
+The loss events types referred to in point (b) of Article 322(3) are the following:
+
+Table 3
+
+Event-Type Category
+Definition
+Internal fraud
+Losses due to acts of a type intended to defraud, misappropriate property or circumvent regulations, the law or company policy, excluding diversity/discrimination events, which involves at least one internal party
+External fraud
+Losses due to acts of a type intended to defraud, misappropriate property or circumvent the law, by a third party
+Employment Practices and Workplace Safety
+Losses arising from acts inconsistent with employment, health or safety laws or agreements, from payment of personal injury claims, or from diversity/discrimination events
+Clients, Products & Business Practices
+Losses arising from an unintentional or negligent failure to meet a professional obligation to specific clients (including fiduciary and suitability requirements), or from the nature or design of a product
+Damage to Physical Assets
+Losses arising from loss or damage to physical assets from natural disaster or other events
+Business disruption and system failures
+Losses arising from disruption of business or system failures
+Execution, Delivery & Process Management
+Losses from failed transaction processing or process management, from relations with trade counterparties and vendors

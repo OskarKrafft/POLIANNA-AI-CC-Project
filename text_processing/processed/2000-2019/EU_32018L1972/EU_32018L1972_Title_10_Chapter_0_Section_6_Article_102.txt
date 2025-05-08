@@ -1,0 +1,32 @@
+Article 103
+Transparency, comparison of offers and publication of information
+1.   Competent authorities in coordination, where relevant, with national regulatory authorities shall ensure that, where providers of internet access services or publicly available interpersonal communication services make the provision of those services subject to terms and conditions, the information referred to in Annex IX is published in a clear, comprehensive, machine-readable manner and in an accessible format for end-users with disabilities in accordance with Union law harmonising accessibility requirements for products and services, by all such providers, or by the competent authority itself in coordination, where relevant, with the national regulatory authority. Such information shall be updated regularly. Competent authorities in coordination, where relevant, with national regulatory authorities may specify additional requirements regarding the form in which such information is to be published. That information shall, on request, be supplied to the competent authority and, where relevant, to the national regulatory authority before its publication.
+2.   Competent authorities shall, in coordination, where relevant, with national regulatory authorities, ensure that end-users have access free of charge to at least one independent comparison tool which enables them to compare and evaluate different internet access services and publicly available number-based interpersonal communications services, and, where applicable, publicly available number-independent interpersonal communications services, with regard to:
+(a)
+prices and tariffs of services provided against recurring or consumption-based direct monetary payments; and
+(b)
+the quality of service performance, where minimum quality of service is offered or the undertaking is required to publish such information pursuant to Article 104.
+3.   The comparison tool referred to in paragraph 2 shall:
+(a)
+be operationally independent from the providers of such services, thereby ensuring that those providers are given equal treatment in search results;
+(b)
+clearly disclose the owners and operators of the comparison tool;
+(c)
+set out clear and objective criteria on which the comparison is to be based;
+(d)
+use plain and unambiguous language;
+(e)
+provide accurate and up-to-date information and state the time of the last update;
+(f)
+be open to any provider of internet access services or publicly available interpersonal communications services making available the relevant information, and include a broad range of offers covering a significant part of the market and, where the information presented is not a complete overview of the market, a clear statement to that effect, before displaying results;
+(g)
+provide an effective procedure to report incorrect information;
+(h)
+include the possibility to compare prices, tariffs and quality of service performance between offers available to consumers and, if required by Member States, between those offers and the standard offers publicly available to other end-users.
+Comparison tools fulfilling the requirements in points (a) to (h) shall, upon request by the provider of the tool, be certified by competent authorities in coordination, where relevant, with national regulatory authorities.
+Third parties shall have a right to use, free of charge and in open data formats, the information published by providers of internet access services or publicly available interpersonal communications services, for the purposes of making available such independent comparison tools.
+4.   Member States may require that providers of internet access services or publicly available number-based interpersonal communications services, or both, distribute public interest information free of charge to existing and new end-users, where appropriate, by the means that they ordinarily use in their communications with end-users. In such a case, that public interest information shall be provided by the relevant public authorities in a standardised format and shall, inter alia, cover the following topics:
+(a)
+the most common uses of internet access services and publicly available number-based interpersonal communications services to engage in unlawful activities or to disseminate harmful content, in particular where it may prejudice respect for the rights and freedoms of others, including infringements of data protection rights, copyright and related rights, and their legal consequences; and
+(b)
+the means of protection against risks to personal security, privacy and personal data when using internet access services and publicly available number-based interpersonal communications services.

@@ -1,0 +1,88 @@
+Article 44
+Scope of bail-in tool
+1.   Member States shall ensure that the bail-in tool may be applied to all liabilities of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) that are not excluded from the scope of that tool pursuant to paragraphs 2 or 3 of this Article.
+2.   Resolution authorities shall not exercise the write down or conversion powers in relation to the following liabilities whether they are governed by the law of a Member State or of a third country:
+(a)
+covered deposits;
+(b)
+secured liabilities including covered bonds and liabilities in the form of financial instruments used for hedging purposes which form an integral part of the cover pool and which according to national law are secured in a way similar to covered bonds;
+(c)
+any liability that arises by virtue of the holding by the institution or entity referred to in point (b), (c) or (d) of Article 1(1) of this Directive of client assets or client money including client assets or client money held on behalf of UCITS as defined in Article 1(2) of Directive 2009/65/EC or of AIFs as defined in point (a) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council (31), provided that such a client is protected under the applicable insolvency law;
+(d)
+any liability that arises by virtue of a fiduciary relationship between the institution or entity referred to in point (b), (c) or (d) of Article 1(1) (as fiduciary) and another person (as beneficiary) provided that such a beneficiary is protected under the applicable insolvency or civil law;
+(e)
+liabilities to institutions, excluding entities that are part of the same group, with an original maturity of less than seven days;
+(f)
+liabilities with a remaining maturity of less than seven days, owed to systems or operators of systems designated according to Directive 98/26/EC or their participants and arising from the participation in such a system;
+(g)
+a liability to any one of the following:
+(i)
+an employee, in relation to accrued salary, pension benefits or other fixed remuneration, except for the variable component of remuneration that is not regulated by a collective bargaining agreement;
+(ii)
+a commercial or trade creditor arising from the provision to the institution or entity referred to in point (b), (c) or (d) of Article 1(1) of goods or services that are critical to the daily functioning of its operations, including IT services, utilities and the rental, servicing and upkeep of premises;
+(iii)
+tax and social security authorities, provided that those liabilities are preferred under the applicable law;
+(iv)
+deposit guarantee schemes arising from contributions due in accordance with Directive 2014/49/EU.
+Point (g)(i) of the first subparagraph shall not apply to the variable component of the remuneration of material risk takers as identified in Article 92(2) of Directive 2013/36/EU.
+Member States shall ensure that all secured assets relating to a covered bond cover pool remain unaffected, segregated and with enough funding. Neither that requirement nor point (b) of the first subparagraph shall prevent resolution authorities, where appropriate, from exercising those powers in relation to any part of a secured liability or a liability for which collateral has been pledged that exceeds the value of the assets, pledge, lien or collateral against which it is secured.
+Point (a) of the first subparagraph shall not prevent resolution authorities, where appropriate, from exercising those powers in relation to any amount of a deposit that exceeds the coverage level provided for in Article 6 of Directive 2014/49/EU.
+Without prejudice to the large exposure rules in Regulation (EU) No 575/2013 and Directive 2013/36/EU, Member States shall ensure that in order to provide for the resolvability of institutions and groups, resolution authorities limit, in accordance with point (b) of Article 17(5) of this Directive, the extent to which other institutions hold liabilities eligible for a bail-in tool, save for liabilities that are held at entities that are part of the same group.
+3.   In exceptional circumstances, where the bail-in tool is applied, the resolution authority may exclude or partially exclude certain liabilities from the application of the write-down or conversion powers where:
+(a)
+it is not possible to bail-in that liability within a reasonable time notwithstanding the good faith efforts of the resolution authority;
+(b)
+the exclusion is strictly necessary and is proportionate to achieve the continuity of critical functions and core business lines in a manner that maintains the ability of the institution under resolution to continue key operations, services and transactions;
+(c)
+the exclusion is strictly necessary and proportionate to avoid giving rise to widespread contagion, in particular as regards eligible deposits held by natural persons and micro, small and medium sized enterprises, which would severely disrupt the functioning of financial markets, including of financial market infrastructures, in a manner that could cause a serious disturbance to the economy of a Member State or of the Union; or
+(d)
+the application of the bail-in tool to those liabilities would cause a destruction in value such that the losses borne by other creditors would be higher than if those liabilities were excluded from bail-in.
+Where a resolution authority decides to exclude or partially exclude an eligible liability or class of eligible liabilities under this paragraph, the level of write down or conversion applied to other eligible liabilities may be increased to take account of such exclusions, provided that the level of write down and conversion applied to other eligible liabilities complies with the principle in point (g) of Article 34(1).
+4.   Where a resolution authority decides to exclude or partially exclude an eligible liability or class of eligible liabilities pursuant to this Article, and the losses that would have been borne by those liabilities have not been passed on fully to other creditors, the resolution financing arrangement may make a contribution to the institution under resolution to do one or both of the following:
+(a)
+cover any losses which have not been absorbed by eligible liabilities and restore the net asset value of the institution under resolution to zero in accordance with point (a) of Article 46(1);
+(b)
+purchase shares or other instruments of ownership or capital instruments in the institution under resolution, in order to recapitalise the institution in accordance with point (b) of Article 46(1).
+5.   The resolution financing arrangement may make a contribution referred to in paragraph 4 only where:
+(a)
+a contribution to loss absorption and recapitalisation equal to an amount not less than 8 % of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 36, has been made by the shareholders and the holders of other instruments of ownership, the holders of relevant capital instruments and other eligible liabilities through write down, conversion or otherwise; and
+(b)
+the contribution of the resolution financing arrangement does not exceed 5 % of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 36.
+6.   The contribution of the resolution financing arrangement referred to in paragraph 4 may be financed by:
+(a)
+the amount available to the resolution financing arrangement which has been raised through contributions by institutions and Union branches in accordance with Article 100(6) and Article 103;
+(b)
+the amount that can be raised through ex-post contributions in accordance with Article 104 within three years; and
+(c)
+where the amounts referred to (a) and (b) of this paragraph are insufficient, amounts raised from alternative financing sources in accordance with Article 105.
+7.   In extraordinary circumstances, the resolution authority may seek further funding from alternative financing sources after:
+(a)
+the 5 % limit specified in paragraph 5(b) has been reached; and
+(b)
+all unsecured, non-preferred liabilities, other than eligible deposits, have been written down or converted in full.
+As an alternative or in addition, where the conditions laid down in the first subparagraph are met, the resolution financing arrangement may make a contribution from resources which have been raised through ex-ante contributions in accordance with Article 100(6) and Article 103 and which have not yet been used.
+8.   By way of derogation from paragraph 5 (a), the resolution financing arrangement may also make a contribution as referred to in paragraph 4 provided that:
+(a)
+the contribution to loss absorption and recapitalisation referred to in point (a) of paragraph 5 is equal to an amount not less than 20 % of the risk weighted assets of the institution concerned;
+(b)
+the resolution financing arrangement of the Member State concerned has at its disposal, by way of ex-ante contributions (not including contributions to a deposit guarantee scheme) raised in accordance with Article 100(6) and Article 103, an amount which is at least equal to 3 % of covered deposits of all the credit institutions authorised in the territory of that Member State; and
+(c)
+the institution concerned has assets below EUR 900 billion on a consolidated basis.
+9.   When exercising the discretions under paragraph 3, resolution authorities shall give due consideration to:
+(a)
+the principle that losses should be borne first by shareholders and next, in general, by creditors of the institution under resolution in order of preference;
+(b)
+the level of loss absorbing capacity that would remain in the institution under resolution if the liability or class of liabilities were excluded; and
+(c)
+the need to maintain adequate resources for resolution financing.
+10.   Exclusions under paragraph 3 may be applied either to completely exclude a liability from write down or to limit the extent of the write down applied to that liability.
+11.   The Commission shall be empowered to adopt delegated acts in accordance with Article 115 in order to specify further the circumstances when exclusion is necessary to achieve the objectives specified in paragraph 3 of this Article.
+12.   Before exercising the discretion to exclude a liability under paragraph 3, the resolution authority shall notify the Commission. Where the exclusion would require a contribution by the resolution financing arrangement or an alternative financing source under paragraphs 4 to 8, the Commission may, within 24 hours of receipt of such a notification, or a longer period with the agreement of the resolution authority, prohibit or require amendments to the proposed exclusion if the requirements of this Article and delegated acts are not met in order to protect the integrity of the internal market. This is without prejudice to the application by the Commission of the Union State aid framework.
+
+Subsection 2
+
+
+
+Minimum requirement for own funds and eligible liabilities
+
+

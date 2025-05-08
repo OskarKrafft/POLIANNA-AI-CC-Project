@@ -1,0 +1,12 @@
+Article 189
+Corporate Governance
+1.   All material aspects of the rating and estimation processes shall be approved by the institution's management body or a designated committee thereof and senior management. These parties shall possess a general understanding of the rating systems of the institution and detailed comprehension of its associated management reports.
+2.   Senior management shall be subject to the following requirements:
+(a)
+they shall provide notice to the management body or a designated committee thereof of material changes or exceptions from established policies that will materially impact the operations of the institution's rating systems;
+(b)
+they shall have a good understanding of the rating systems designs and operations;
+(c)
+they shall ensure, on an ongoing basis that the rating systems are operating properly.
+Senior management shall be regularly informed by the credit risk control units about the performance of the rating process, areas needing improvement, and the status of efforts to improve previously identified deficiencies.
+3.   Internal ratings-based analysis of the institution's credit risk profile shall be an essential part of the management reporting to these parties. Reporting shall include at least risk profile by grade, migration across grades, estimation of the relevant parameters per grade, and comparison of realised default rates, and to the extent that own estimates are used of realised LGDs and realised conversion factors against expectations and stress-test results. Reporting frequencies shall depend on the significance and type of information and the level of the recipient.

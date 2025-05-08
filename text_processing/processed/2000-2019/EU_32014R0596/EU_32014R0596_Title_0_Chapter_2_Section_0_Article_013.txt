@@ -1,0 +1,32 @@
+Article 13
+Accepted market practices
+1.   The prohibition in Article 15 shall not apply to the activities referred to in Article 12(1)(a), provided that the person entering into a transaction, placing an order to trade or engaging in any other behaviour establishes that such transaction, order or behaviour have been carried out for legitimate reasons, and conform with an accepted market practice as established in accordance with this Article.
+2.   A competent authority may establish an accepted market practice, taking into account the following criteria:
+(a)
+whether the market practice provides for a substantial level of transparency to the market;
+(b)
+whether the market practice ensures a high degree of safeguards to the operation of market forces and the proper interplay of the forces of supply and demand;
+(c)
+whether the market practice has a positive impact on market liquidity and efficiency;
+(d)
+whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;
+(e)
+whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;
+(f)
+the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice infringed rules or regulations designed to prevent market abuse, or codes of conduct, irrespective of whether it concerns the relevant market or directly or indirectly related markets within the Union; and
+(g)
+the structural characteristics of the relevant market, inter alia, whether it is regulated or not, the types of financial instruments traded and the type of market participants, including the extent of retail-investor participation in the relevant market.
+A market practice that has been established by a competent authority as an accepted market practice in a particular market shall not be considered to be applicable to other markets unless the competent authorities of those other markets have accepted that practice pursuant to this Article.
+3.   Before establishing an accepted market practice in accordance with paragraph 2, the competent authority shall notify ESMA and the other competent authorities of its intention to establish an accepted market practice and shall provide the details of that assessment made in accordance with the criteria laid down in paragraph 2. Such a notification shall be made at least three months before the accepted market practice is intended to take effect.
+4.   Within two months following receipt of the notification, ESMA shall issue an opinion to the notifying competent authority assessing the compatibility of the accepted market practice with paragraph 2 and with the regulatory technical standards adopted pursuant to paragraph 7. ESMA shall also assess whether the establishment of the accepted market practice would not threaten the market confidence in the Union’s financial market. The opinion shall be published on ESMA’s website.
+5.   Where a competent authority establishes an accepted market practice contrary to the opinion of ESMA issued in accordance with paragraph 4, it shall publish on its website within 24 hours of establishing the accepted market practice a notice setting out in full its reasons for doing so, including why the accepted market practice does not threaten market confidence.
+6.   Where a competent authority considers that another competent authority has established an accepted market practice that does not meet the criteria set out in paragraph 2, ESMA shall assist the authorities concerned in reaching an agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.
+If the competent authorities concerned fail to reach an agreement, ESMA may take a decision in accordance with Article 19(3) of Regulation (EU) No 1095/2010.
+7.   In order to ensure consistent harmonisation of this Article, ESMA shall develop draft regulatory technical standards specifying the criteria, the procedure and the requirements for establishing an accepted market practice under paragraphs 2, 3 and 4, and the requirements for maintaining it, terminating it, or modifying the conditions for its acceptance.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+8.   Competent authorities shall review regularly, and at least every two years, the accepted market practices that they have established, in particular by taking into account significant changes to the relevant market environment, such as changes to trading rules or to market infrastructures, with a view to deciding whether to maintain it, to terminate it, or to modify the conditions for its acceptance.
+9.   ESMA shall publish on its website a list of accepted market practices and in which Member States they are applicable.
+10.   ESMA shall monitor the application of accepted market practices and shall submit an annual report to the Commission on how they are applied in the markets concerned.
+11.   Competent authorities shall notify accepted market practices that they have established before 2 July 2014 to ESMA within three months of the entry into force of the regulatory technical standards referred to in paragraph 7.
+The accepted market practices referred to in the first subparagraph of this paragraph shall continue to apply in the Member State concerned until the competent authority has made a decision regarding the continuation of that practice following ESMA’s opinion under paragraph 4.

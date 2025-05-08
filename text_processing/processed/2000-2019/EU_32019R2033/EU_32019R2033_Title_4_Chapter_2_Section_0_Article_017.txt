@@ -1,0 +1,8 @@
+Article 17
+Measuring AUM for the purpose of calculating K‐AUM
+1.   For the purpose of calculating K‐AUM, AUM shall be the rolling average of the value of the total monthly assets under management, measured on the last business day of each of the previous 15 months converted into the entities’ functional currency at that time, excluding the three most recent monthly values.
+AUM shall be the arithmetic mean of the remaining 12 monthly values.
+K‐AUM shall be calculated on the first business day of each month.
+2.   Where the investment firm has formally delegated the management of assets to another financial entity, those assets shall be included in the total amount of AUM measured in accordance with paragraph 1.
+Where another financial entity has formally delegated the management of assets to the investment firm, those assets shall be excluded from the total amount of assets under management measured in accordance with paragraph 1.
+Where an investment firm has been managing assets for less than 15 months, or where it has done so for a longer period as a small and non‐interconnected investment firm and now exceeds the threshold for AUM, it shall use historical data for AUM for the period specified under paragraph 1 as soon as such data becomes available to calculate K‐AUM. The competent authority may replace missing historical data points by regulatory determinations based on the business projections of the investment firm submitted in accordance with Article 7 of Directive 2014/65/EU.

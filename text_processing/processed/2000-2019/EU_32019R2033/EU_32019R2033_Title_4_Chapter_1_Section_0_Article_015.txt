@@ -1,0 +1,49 @@
+Article 15
+K‐factor requirement and applicable coefficients
+1.   For the purposes of point (c) of Article 11(1), the K‐factor requirement shall amount to at least the sum of the following:
+(a)
+Risk‐to‐Client (RtC) K‐factors calculated in accordance with Chapter 2;
+(b)
+Risk‐to‐Market (RtM) K‐factors calculated in accordance with Chapter 3;
+(c)
+Risk‐to‐Firm (RtF) K‐factors calculated in accordance with Chapter 4.
+2.   The following coefficients shall apply to the corresponding K‐factors:
+
+Table 1
+
+K‐FACTORS
+COEFFICIENT
+Assets under management under both discretionary portfolio management and nondiscretionary advisory arrangements of an ongoing nature
+K‐AUM
+0,02 %
+Client money held
+K‐CMH (on segregated accounts)
+0,4 %
+K‐CMH (on non‐segregated accounts)
+0,5 %
+Assets safeguarded and administered
+K‐ASA
+0,04 %
+Client orders handled
+K‐COH cash trades
+0,1 %
+ 
+K‐COH derivatives
+0,01 %
+Daily trading flow
+K‐DTF cash trades
+0,1 %
+ 
+K‐DTF derivatives
+0,01 %
+3.   Investment firms shall monitor the value of their K‐factors for any trends that could leave them with a materially different own funds requirement for the purposes of Article 11 for the following reporting period under Part Seven and shall notify their competent authority of that materially different own funds requirement.
+4.   Where competent authorities consider that there has been a material change in the business activities of an investment firm that impacts the amount of a relevant K‐factor, they may adjust the corresponding amount in accordance with point (a) of Article 39(2) of Directive (EU) 2019/2034.
+5.   In order to ensure the uniform application of this Regulation and to take account of developments in financial markets, EBA shall, in consultation with ESMA, develop draft regulatory technical standards to:
+(a)
+specify the methods for measuring the K‐factors in Title II of Part Three;
+(b)
+specify the notion of segregated accounts for the purposes of this Regulation for the conditions that ensure the protection of client money in the event of the failure of an investment firm;
+(c)
+specify adjustments to the K‐DTF coefficients referred to in Table 1 of paragraph 2 of this Article in the event that, in stressed market condition as referred to in Commission Delegated Regulation (EU) 2017/578 (25), the K‐DTF requirements seem overly restrictive and detrimental to financial stability.
+EBA shall submit those draft regulatory technical standards to the Commission by 26 December 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

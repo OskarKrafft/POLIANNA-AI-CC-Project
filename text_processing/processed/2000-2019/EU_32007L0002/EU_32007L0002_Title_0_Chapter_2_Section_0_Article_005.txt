@@ -1,0 +1,15 @@
+Article 5
+1.   Member States shall ensure that metadata are created for the spatial data sets and services corresponding to the themes listed in Annexes I, II and III, and that those metadata are kept up to date.
+2.   Metadata shall include information on the following:
+(a)
+the conformity of spatial data sets with the implementing rules provided for in Article 7(1);
+(b)
+conditions applying to access to, and use of, spatial data sets and services and, where applicable, corresponding fees;
+(c)
+the quality and validity of spatial data sets;
+(d)
+the public authorities responsible for the establishment, management, maintenance and distribution of spatial data sets and services;
+(e)
+limitations on public access and the reasons for such limitations, in accordance with Article 13.
+3.   Member States shall take the necessary measures to ensure that metadata are complete and of a quality sufficient to fulfil the purpose set out in point (6) of Article 3.
+4.   Rules for the implementation of this Article shall be adopted by 15 May 2008 in accordance with the regulatory procedure referred to in Article 22(2). These rules shall take account of relevant, existing international standards and user requirements, in particular with relation to validation metadata.

@@ -1,0 +1,23 @@
+Article 5
+Use of Renewable Fuels of Non-Biological Origin
+1.   For the calculation of the GHG intensity of the energy used on board by a ship, from 1 January 2025 to 31 December 2033 a multiplier of ‘2’ can be used to reward the ship for the use of RFNBO. The methodology for this calculation is set out in Annex I.
+2.   The Commission shall monitor, calculate and annually publish, on the basis of the data recorded in the FuelEU database referred to in Article 19 and at the latest 18 months after the end of each reporting period, the share of RFNBO in the yearly energy used on board by ships falling under the scope of this Regulation.
+3.   If the share of RFNBO referred to in paragraph 2 is less than 1 % for the reporting period 2031, a subtarget of 2 % shall apply for such fuels in the yearly energy used on board by a ship from 1 January 2034, subject to paragraph 5.
+4.   Paragraph 3 shall not apply where the monitoring results provided for in paragraph 2 that are available before 1 January 2033 demonstrate that the share referred to in paragraph 2 is more than 2 %.
+5.   If, based on the monitoring activities referred to in paragraph 2 and following the Commission’s assessment, there is evidence of insufficient production capacity and availability of RFNBO to the maritime sector, uneven geographical distribution or a too high price of those fuels, the subtarget provided for in paragraph 3 shall not apply.
+6.   The Commission shall adopt implementing acts specifying the criteria for the assessment provided for in paragraph 5 and the method for calculating the factor of price difference between RFNBO and fossil fuels used in cell 14 of the table in Part B of Annex IV. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).
+7.   The Commission is empowered to adopt delegated acts in accordance with Article 28 to:
+(a)
+supplement paragraph 5 of this Article with additional elements;
+(b)
+inform about the non-applicability of the subtarget referred to in paragraph 3 of this Article, resulting from the monitoring referred to in paragraph 2 of this Article or the assessment referred to in paragraph 5 of this Article.
+8.   Where the subtarget referred to in paragraph 3 of this Article applies, the Commission shall adopt, by 31 December 2033, implementing acts to further specify the rules for the application of paragraph 3 of this Article as regards:
+(a)
+verification and calculation as referred to in Article 16;
+(b)
+applicable flexibility mechanisms set out in Articles 20 and 21;
+(c)
+applicable FuelEU penalties as referred to in Article 23 and Annex IV.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(3).
+9.   The subtarget referred to in paragraph 3 of this Article, if applicable, shall not apply to a ship which demonstrates that the same share of the yearly energy used on board is met by other fuels that provide equivalent GHG emissions savings and are certified pursuant to Article 10 of this Regulation, excluding biofuels referred to in Part B of Annex IX to Directive (EU) 2018/2001.
+10.   This Article shall not apply to the share of yearly energy used on board by ships from OPS.

@@ -1,0 +1,33 @@
+Article 114
+Exposures to central governments or central banks
+1.   Exposures to central governments and central banks shall be assigned a 100 % risk weight, unless the treatments set out in paragraphs 2 to 7 apply.
+2.   Exposures to central governments and central banks for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 1 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+
+Table 1
+
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+0  %
+20  %
+50  %
+100  %
+100  %
+150  %
+3.   Exposures to the ECB shall be assigned a 0 % risk weight.
+4.   Exposures to Member States' central governments, and central banks denominated and funded in the domestic currency of that central government and central bank shall be assigned a risk weight of 0 %.
+5.   Until 31 December 2017, the same risk weight shall be assigned in relation to exposures to the central governments or central banks of Member States denominated and funded in the domestic currency of any Member State as would be applied to such exposures denominated and funded in their domestic currency.
+6.   For exposures indicated in paragraph 5:
+(a)
+in 2018 the calculated risk weighted exposure amounts shall be 20 % of the risk weight assigned to these exposures in accordance with Article 114(2);
+(b)
+in 2019 the calculated risk weighted exposure amounts shall be 50 % of the risk weight assigned to these exposures in accordance with Article 114(2);
+(c)
+in 2020 and onwards the calculated risk weighted exposure amounts shall be 100 % of the risk weight assigned to these exposures in accordance with Article 114(2).
+7.   When the competent authorities of a third country which apply supervisory and regulatory arrangements at least equivalent to those applied in the Union assign a risk weight which is lower than that indicated in paragraphs 1 to 2 to exposures to their central government and central bank denominated and funded in the domestic currency, institutions may risk weight such exposures in the same manner.
+For the purposes of this paragraph, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to whether a third country applies supervisory and regulatory arrangements at least equivalent to those applied in the Union. In the absence of such a decision, until 1 January 2015, institutions may continue to apply the treatment set out in this paragraph to the exposures to the central government or central bank of the third country where the relevant competent authorities had approved the third country as eligible for that treatment before 1 January 2014.

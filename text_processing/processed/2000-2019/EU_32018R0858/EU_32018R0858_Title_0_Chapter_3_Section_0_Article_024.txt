@@ -1,0 +1,14 @@
+Article 24
+Information folder
+1.   The information folder shall include the following:
+(a)
+an information document, in accordance with the template laid down in the implementing acts referred to in paragraph 4, for single-step type-approval or mixed whole-vehicle type-approval or for step-by-step whole-vehicle type-approval or, in the case of the type-approval of a system, component or separate technical unit, in accordance with the relevant regulatory act listed in Annex II;
+(b)
+all data, drawings, photographs and other relevant information;
+(c)
+for vehicles, an indication of the procedure or procedures chosen in accordance with Article 22(1);
+(d)
+any additional information requested by the approval authority in the context of the EU type-approval procedure.
+2.   The information document referred to in point (a) of paragraph 1 for whole-vehicle type-approval shall contain a complete set of information on the characteristics of the type of vehicle that is necessary for the approval authority to identify the type of vehicle and to properly conduct the type-approval procedure.
+3.   The manufacturer shall submit the information folder to the approval authority in an electronic format that is acceptable to that authority. The approval authority may also accept the information folders that are submitted in paper format.
+4.   The Commission shall adopt implementing acts laying down the template for the information document and any other part of the information folder, and a harmonised electronic format for the purposes of paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted by 5 July 2020.

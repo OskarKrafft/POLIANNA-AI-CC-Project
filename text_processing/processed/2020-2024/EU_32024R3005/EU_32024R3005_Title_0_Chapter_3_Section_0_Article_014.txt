@@ -1,0 +1,61 @@
+Article 14
+Register of ESG rating providers and accessibility of information on the European single access point
+1.   ESMA shall establish and maintain a register that contains the following information:
+(a)
+the identities of the ESG rating providers authorised pursuant to Article 8 or registered under the temporary regime for small ESG rating providers pursuant to Article 5(1);
+(b)
+the identities of the ESG rating providers established outside the Union that comply with the conditions laid down in Article 10 and the third-country competent authorities responsible for the supervision of those ESG rating providers;
+(c)
+the identities of the endorsing ESG rating providers and the endorsed ESG rating providers established outside the Union referred to in Article 11, and, where applicable, the third-country competent authorities responsible for the supervision of the endorsed ESG rating providers;
+(d)
+the identities of the ESG rating providers established outside the Union that have been recognised in accordance with Article 12, the legal representatives established in the Union of those ESG rating providers and, where applicable, the third-country competent authorities responsible for the supervision of those ESG rating providers.
+2.   The register referred to in paragraph 1 shall be publicly accessible on the website of ESMA and shall be updated without delay, as necessary.
+3.   From 1 January 2028, when making public any information referred to in Article 19(1) and Article 23(1) of this Regulation, the ESG rating provider shall submit that information at the same time to the collection body referred to in paragraph 6 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859.
+4.   That information shall comply with the following requirements:
+(a)
+be prepared in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required under Union law, in a machine-readable format, as defined in Article 2, point (4), of Regulation (EU) 2023/2859;
+(b)
+be accompanied by the following metadata:
+(i)
+a full business name and, if applicable, the name used for marketing purposes and the abbreviation of the name of the ESG rating provider to which that information relates;
+(ii)
+where available, the legal entity identifier of the ESG rating provider as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+(iii)
+the type of information as classified pursuant to Article 7(4), point (c), of Regulation (EU) 2023/2859;
+(iv)
+the size of the ESG rating provider as specified pursuant to Article 7(4), point (d), of Regulation (EU) 2023/2859;
+(v)
+an indication of whether the information contains personal data.
+5.   For the purposes of paragraph 4, point (b)(ii), the ESG rating provider shall obtain a legal entity identifier.
+6.   For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.
+7.   From 1 January 2028, the information referred to in paragraph 1 and in Article 11(3), Article 35(6) and Article 38(1) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.
+That information shall:
+(a)
+be prepared in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+(b)
+be accompanied by the following metadata:
+(i)
+all the names of the ESG rating providers to which the information relates;
+(ii)
+where available, the legal entity identifier of the ESG rating provider as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+(iii)
+the type of information as classified pursuant to Article 7(4), point (c), of Regulation (EU) 2023/2859;
+(iv)
+an indication of whether the information contains personal data.
+8.   For the purpose of ensuring an efficient collection and management of information submitted in accordance with paragraph 3, ESMA shall develop draft implementing technical standards to specify:
+(a)
+any other metadata to accompany the information;
+(b)
+the structuring of data in the information;
+(c)
+for which information a machine-readable format is required and which machine-readable format is to be used.
+For the purposes of the first subparagraph, point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests, in consultation with relevant stakeholders.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+9.   Where necessary, ESMA shall adopt guidelines for entities to ensure that the metadata submitted in accordance with paragraph 8, first subparagraph, point (a), are correct.
+
+TITLE III
+
+
+INTEGRITY AND RELIABILITY OF ESG RATING ACTIVITIES
+

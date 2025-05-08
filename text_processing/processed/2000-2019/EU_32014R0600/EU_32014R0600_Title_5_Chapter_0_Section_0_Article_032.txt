@@ -1,0 +1,31 @@
+Article 32
+Trading obligation procedure
+1.   ESMA shall develop draft regulatory technical standards to specify the following:
+(a)
+which of the class of derivatives declared subject to the clearing obligation in accordance with Article 5(2) and (4) of Regulation (EU) No 648/2012 or a relevant subset thereof shall be traded on the venues referred to in Article 28(1) of this Regulation;
+(b)
+the date or dates from which the trading obligation takes effect, including any phase-in and the categories of counterparties to which the obligation applies where such phase-in and such categories of counterparties have been provided for in regulatory technical standards in accordance with Article 5(2)(b) of Regulation (EU) No 648/2012.
+ESMA shall submit those draft regulatory technical standards to the Commission within six months after the adoption of the regulatory technical standards in accordance with Article 5(2) of Regulation (EU) No 648/2012 by the Commission.
+Before submitting the draft regulatory technical standards to the Commission for adoption, ESMA shall conduct a public consultation and, where appropriate, may consult third-country competent authorities.
+Power is conferred to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+2.   In order for the trading obligation to take effect:
+(a)
+the class of derivatives pursuant to paragraph 1(a) or a relevant subset thereof must be admitted to trading or traded on at least one trading venue as referred to in Article 28(1), and
+(b)
+there must be sufficient third-party buying and selling interest in the class of derivatives or a relevant subset thereof so that such a class of derivatives is considered sufficiently liquid to trade only on the venues referred to in Article 28(1).
+3.   In developing the draft regulatory technical standards referred to in paragraph 1, ESMA shall consider the class of derivatives or a relevant subset thereof as sufficiently liquid pursuant to the following criteria:
+(a)
+the average frequency and size of trades over a range of market conditions, having regard to the nature and lifecycle of products within the class of derivatives;
+(b)
+the number and type of active market participants including the ratio of market participants to products/contracts traded in a given product market;
+(c)
+the average size of the spreads.
+In preparing those draft regulatory technical standards, ESMA shall take into consideration the anticipated impact that trading obligation might have on the liquidity of a class of derivatives or a relevant subset thereof and the commercial activities of end users which are not financial entities.
+ESMA shall determine whether the class of derivatives or relevant subset thereof is only sufficiently liquid in transactions below a certain size.
+4.   ESMA shall, on its own initiative, in accordance with the criteria set out in paragraph 2 and after conducting a public consultation, identify and notify to the Commission the classes of derivatives or individual derivative contracts that should be subject to the obligation to trade on the venues referred to in Article 28(1), but for which no CCP has yet received authorisation under Article 14 or 15 of Regulation (EU) No 648/2012 or which is not admitted to trading or traded on a trading venue referred to in Article 28(1).
+Following the notification by ESMA referred to in the first subparagraph, the Commission may publish a call for development of proposals for the trading of those derivatives on the venues referred to in Article 28(1).
+5.   ESMA shall in accordance with paragraph 1, submit to the Commission draft regulatory technical standards to amend, suspend or revoke existing regulatory technical standards whenever there is a material change in the criteria set out in paragraph 2. Before doing so, ESMA may, where appropriate, consult the competent authorities of third countries.
+Power is conferred to the Commission to adopt regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+6.   ESMA shall develop draft regulatory technical standards to specify the criteria referred to in paragraph 2(b).
+ESMA shall submit drafts for those regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

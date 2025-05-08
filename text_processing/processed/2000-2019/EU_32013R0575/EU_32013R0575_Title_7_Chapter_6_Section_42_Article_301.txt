@@ -1,0 +1,19 @@
+Article 301
+Material scope
+1.   This Section applies to the following contracts and transactions for as long as they are outstanding with a CCP:
+(a)
+the contracts listed in Annex II and credit derivatives;
+(b)
+repurchase transactions;
+(c)
+securities or commodities lending or borrowing transactions;
+(d)
+long settlement transactions;
+(e)
+margin lending transactions.
+2.   Institutions may choose whether to apply one of the following two treatments to the contracts and transactions outstanding with a QCCP listed in paragraph 1:
+(a)
+the treatment for trade exposures and exposures from default fund contributions set out in Article 306, except for the treatment set out in paragraph 1(b) of that Article, and in Article 307, respectively;
+(b)
+the treatment set out in Article 310.
+3.   Institutions shall apply the treatment set out in Article 306, except for the treatment set out in paragraph (1)(a) of that Article, and in Article 309, as applicable, to the contracts and transactions outstanding with a non-qualifying CCP listed in paragraph 1 of this Article.

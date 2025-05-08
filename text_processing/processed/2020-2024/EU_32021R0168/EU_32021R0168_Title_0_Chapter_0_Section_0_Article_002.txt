@@ -1,0 +1,14 @@
+Article 2
+Amendment to Regulation (EU) No 648/2012
+Article 13a of Regulation (EU) No 648/2012 is replaced by the following:
+‘Article 13a
+Amendments to legacy contracts for the purpose of the implementation of benchmark reforms
+1.   Counterparties may continue to apply the risk-management procedures referred to in Article 11(3) that they have in place on 13 February 2021 in respect of OTC derivative contracts which are not cleared by a CCP and that are entered into or novated before the date on which the obligation to have risk-management procedures in place pursuant to Article 11(3) takes effect where, after 13 February 2021, those contracts are subsequently amended or novated for the sole purpose of replacing a reference benchmark or introducing a fallback provision in relation to any benchmark referenced in that contract.
+2.   Contracts which are entered into or novated before the date on which the clearing obligation takes effect pursuant to Article 4 and which, after 13 February 2021, are subsequently amended or novated for the sole purpose of replacing a reference benchmark or introducing a fallback provision in relation to any benchmark referenced in that contract, shall not, for that reason, become subject to the clearing obligation referred to in Article 4.
+3.   Paragraphs 1 and 2 shall apply only to OTC derivative contracts the amendment or novation of which:
+(a)
+is necessary for the purpose of replacing a benchmark in the context of benchmark reforms;
+(b)
+does not change the economic substance or risk factor represented by the reference to a benchmark in such contract; and
+(c)
+does not encompass other changes to any legal term of that contract that does not relate to the benchmark referenced and thus potentially amends the contract in a way that effectively requires it to be considered a new contract.’.

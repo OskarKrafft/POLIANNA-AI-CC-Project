@@ -1,0 +1,190 @@
+Article 93
+National register on infringements
+1.   Member States shall enter in a national register all confirmed infringements of the rules of the common fisheries policy committed by fishing vessels flying their flag or by their nationals, and by fishing vessels flying the flag of a third country or by nationals of a third country having committed infringements within the waters under their jurisdiction or on their territory, including all decisions and sanctions they incurred and the number of points assigned. Infringements by fishing vessels flying their flag or by their nationals subject to proceedings in other Member States shall also be entered by Member States in their national register on infringements, upon notification of the definitive ruling by the Member State having jurisdiction pursuant to Article 92b.
+2.   When following up an infringement of the rules of the common fisheries policy, a Member State may request other Member States to provide information contained in their national register on the fishing vessels and persons suspected by the requesting Member State of having committed the infringement in question or caught in the act of committing the infringement in question.
+3.   Where a Member State requests information from another Member State in relation to an infringement, that other Member State shall provide without delay the relevant information on the fishing vessels and natural or legal persons involved in the infringement.
+4.   The data contained in the national register of infringements shall be stored only for as long as necessary for the purposes of this Regulation, but in any case for a minimum of five calendar years, starting from the year following that in which the information is recorded.
+
+(*13)  Regulation (EU) 2023/2053 of the European Parliament and of the Council of 13 September 2023 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean, amending Regulations (EC) No 1936/2001, (EU) 2017/2107, and (EU) 2019/833 and repealing Regulation (EU) 2016/1627 (OJ L 238, 27.9.2023, p. 1)."
+                        
+
+(*14)  Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)."
+                        
+
+(*15)  Regulation (EU) 2016/1139 of the European Parliament and of the Council of 6 July 2016 establishing a multiannual plan for the stocks of cod, herring and sprat in the Baltic Sea and the fisheries exploiting those stocks, amending Council Regulation (EC) No 2187/2005 and repealing Council Regulation (EC) No 1098/2007 (OJ L 191, 15.7.2016, p. 1).’."
+                        
+(76)
+In Title IX, the following articles are inserted:
+‘Article 93a
+National control programmes
+1.   Member States shall establish annual or multiannual national control programmes for the inspections and the control of the rules of the common fisheries policy.
+National control programmes shall be risk-based and shall be updated once a year, if necessary, in particular taking into account newly adopted conservation and control measures and any additional data.
+Member States shall notify their national control programmes to the Commission no later than three months from their establishment or update.
+2.   The Commission may, by means of implementing acts, lay down detailed rules on national control programmes and benchmarks for control and inspections taking into account the objectives of the common fisheries policy and technical progress and scientific developments. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+Article 93b
+Member State annual report on control and inspections
+1.   By 30 June of each year, Member States shall submit to the Commission and publish on their website an annual report on control and inspections performed in the previous year. For that purpose, Member States may refer to information provided under the implementing act referred to in Article 95.
+2.   The report referred to in paragraph 1 shall contain the following information:
+(a)
+existing resources available for control and inspections: the number of inspection vessels, official aircraft and official remotely piloted aircraft systems (RPAS); other control and inspection means; the number of employees (full-time equivalent); the budgetary allocation;
+(b)
+the number and type of control and inspections performed;
+(c)
+the number and type of detected and confirmed infringements, including serious infringements;
+(d)
+the number of follow-up actions, per each type of infringement, such as administrative sanction, criminal sanction, immediate enforcement measure or number of points assigned for confirmed infringements.
+3.   By 31 December of each year, the Commission shall make publicly available on its website a compilation of information from the reports referred to in paragraph 1, covering the previous year. The Commission may request EFCA to assist in the compilation of such information.
+4.   The Commission may, by means of implementing acts, lay down detailed rules on the format and submission of reports referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(77)
+In Article 95, paragraphs 1 and 2 are replaced by the following:
+‘1.   Certain fisheries may be made subject to specific control and inspection programmes. The Commission may, by means of implementing acts and in concert with the Member States concerned, determine which fisheries shall be subject to the specific control and inspection programmes, on the basis of the need for specific and coordinated control of the fisheries in question. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).
+2.   The implementing acts adopted under paragraph 1 shall state the objectives, priorities and procedures as well as benchmarks for inspection activities. Such benchmarks shall be established based on risk management and revised periodically after an analysis has been made of the results achieved.’.
+(78)
+In Article 102, paragraphs 3 and 4 are replaced by the following:
+‘3.   The Member States concerned shall inform the Commission of the results of the inquiry and forward a report to the Commission drawn up not more than three months after the Commission’s request. That period may be extended by the Commission, by means of implementing acts, on a duly reasoned request from the Member State, for a reasonable delay.
+4.   If the administrative inquiry referred to in paragraph 2 does not lead to the removal of the irregularities or if the Commission identifies shortcomings in the control system of a Member State during the verifications or autonomous inspections referred to in Articles 98 and 99 or in the audit referred to in Article 100, the Commission shall, by means of implementing acts, establish an action plan with that Member State. The Member State shall take all necessary measures to implement that action plan.’.
+(79)
+Article 104 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Where a Member State does not respect its obligations for the implementation of a multiannual plan, and where the Commission has evidence that the failure to respect those obligations constitutes a serious threat to the conservation of a stock or group of stocks, the Commission may, by means of implementing acts, provisionally close the fisheries affected by those shortcomings for the Member State concerned.’
+(b)
+paragraph 4 is replaced by the following:
+‘4.   The Commission shall, by means of implementing acts, lift the closure after the Member State has demonstrated in writing to the satisfaction of the Commission that the fisheries can be safely exploited.’.
+(80)
+In Chapter III of Title XI, the heading is replaced by the following:
+
+                                       ‘
+                                       Chapter III
+
+
+Deduction and adjustments of quotas and fishing effort
+                                       ’.
+(81)
+Article 105 is amended as follows:
+(a)
+in paragraph 2, first subparagraph, the introductory part is replaced by the following:
+‘2.   In the case of overfishing of a quota, allocation or share of a stock or a group of stocks available to a Member State in a given year, the Commission shall, by means of implementing acts and after consulting the Member State concerned, operate deductions in the following year or years from the annual quota, allocation or share of the Member State which has overfished, by applying a multiplying factor according to the following table:’
+(b)
+the following paragraph is inserted:
+‘2a.   By way of derogation from paragraph 2, in the case of overfishing by one or more Member States of a quota, allocation or share of a stock or a group of stocks available to the Union under an international agreement, the Commission shall, by means of implementing acts and after consulting the Member State concerned, operate deductions from the quota, allocation or share of the Member State which has overfished in the same time frame as the deduction applied under the international agreement and by applying a multiplying factor according to paragraphs 2 and 3.’
+(c)
+the following paragraph is inserted:
+‘3a.   By way of derogation from paragraphs 2 and 3, in the event that a multiplying factor is also applicable under a relevant international agreement on the Union share, the multiplying factor to be applied on the Member State quota deduction set pursuant to paragraph 2a shall be the highest of the two applicable multiplying factors.’
+(d)
+paragraphs 4, 5 and 6 are replaced by the following:
+‘4.   In the case of overfishing of a quota, allocation or share of a stock or a group of stocks available to a Member State in earlier years, the Commission may, by means of implementing acts and after consulting the Member State concerned, deduct quotas from future quotas of that Member State to take account of the level of overfishing.
+5.   If a deduction cannot be operated in accordance with paragraphs 1 and 2 on the quota, allocation or share of a stock or a group of stocks that was overfished, because that quota, allocation or share of a stock or group of stocks is not or not sufficiently available to the Member State concerned, the Commission may, by means of implementing acts and after consulting the Member State concerned, deduct in the following year or years quotas for other stocks or groups of stocks available to that Member State in the same geographical area or with the same commercial value in accordance with paragraph 1.
+6.   The Commission may, by means of implementing acts, lay down detailed rules concerning the adapted quota against which the excess of utilisation shall be calculated, the deductions of quotas and the time period of the deductions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(82)
+Article 106 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   When the Commission has established that a Member State has exceeded the fishing effort which has been allocated to it, the Commission shall, by means of implementing acts and after consulting the Member State concerned, operate deductions from future fishing effort of that Member State.’
+(b)
+in paragraph 2, the introductory part is replaced by the following:
+‘2.   If the fishing effort available to a Member State in a geographical area or in a fishery is exceeded, the Commission shall, by means of implementing acts and after consulting the Member State concerned, operate deductions in the following year or years from the fishing effort available to that Member State for the geographical area or the fishery concerned by applying a multiplying factor according to the following table:’
+(c)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   If a deduction according to paragraph 2 cannot be operated on the maximum allowable fishing effort for a stock that was exceeded as such because such maximum allowable fishing effort for that stock is not or not sufficiently available to the Member State concerned, the Commission may, by means of implementing acts and after consulting the Member State concerned, deduct in the following year or years fishing effort available to that Member State in the same geographical area in accordance with paragraph 2.
+4.   The Commission may, by means of implementing acts, lay down detailed rules concerning the maximum allowable fishing effort against which the excess of utilisation shall be calculated, the deduction of fishing effort and the time period of the deductions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(83)
+Article 107 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Where there is evidence that the rules of the common fisheries policy are not being complied with by a Member State and that this may lead to a serious threat to the conservation of stocks subject to fishing opportunities or a fishing effort regime, the Commission may, by means of implementing acts, operate deductions in the following year or years from the annual quotas, allocations or shares of a stock or a group of stocks, or from the fishing effort, available to that Member State, applying the proportionality principle by taking into account the damage caused to the stocks concerned.’
+(b)
+paragraph 4 is replaced by the following:
+‘4.   The Commission is empowered to adopt delegated acts in accordance with Article 119a supplementing this Regulation concerning the deadline for Member States to demonstrate that the fisheries can be safely exploited, the material to be included by Member States in their reply and the determination of the quantities to be deducted by taking into account:
+(a)
+the extent and nature of non-compliance;
+(b)
+the gravity of the threat to the conservation of stocks;
+(c)
+the damage caused to the stock by non-compliance.’.
+(84)
+The following article is inserted:
+‘Article 107a
+Adjustment of fishing opportunities in the event of a reduction of the Union share under international agreements
+Where overfishing by one or more Member States of a quota, allocation or share of a stock or a group of stocks available to the Union under an international agreement leads to a reduction of the Union share under that international agreement, the Council shall, when allocating the fishing opportunities for that stock or group of stocks under Article 43(3) TFEU and Article 16 of Regulation (EU) No 1380/2013 for the year for which that reduction is made, adjust the quotas of the Member States which have not overfished by increasing them to the quotas which those Member States would have received if the Union share under the international agreement had not been reduced. If such adjustment cannot be made in a given year due to an insufficient Union share, the remaining quantities shall be adjusted in the following year.’.
+(85)
+Article 109 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Member States shall set up an electronic database for the purpose of validation of data recorded in accordance with this Regulation. The validation of the data recorded shall include the cross-checking, analysis and verification of the data.
+2.   Member States shall ensure that all data recorded in accordance with this Regulation are accurate, complete and submitted by operators, masters or other persons authorised under this Regulation within deadlines laid down in the rules of the common fisheries policy.’
+(b)
+the following paragraph is inserted:
+‘2a.   For the purposes of paragraphs 1 and 2:
+(a)
+Member States shall validate the following data, including data recorded in the context of fisheries agreements referred to in Article 3(1), through automated computerised algorithms and mechanisms:
+(i)
+vessel position data;
+(ii)
+fishing activity data, in particular data on entries into and exits from fishing areas, fishing logbooks, landing declarations, transhipment declarations and prior notifications;
+(iii)
+data on fishing effort;
+(iv)
+data from take-over declarations, transport documents and sales notes;
+(v)
+data from fishing licences and fishing authorisations;
+(vi)
+data on control of engine power;
+(b)
+Member States shall validate the data listed in point (a) using in particular the following data, where available:
+(i)
+vessel detection system data;
+(ii)
+data on sightings;
+(iii)
+AIS data;
+(iv)
+data from inspection reports;
+(v)
+data from control observer reports;
+(vi)
+data from REM systems.’
+(c)
+paragraph 5 is replaced by the following:
+‘5.   If an inconsistency in the data has been identified, the Member State concerned shall undertake and document the necessary investigations, analyses and cross-checks. The results of the investigations and corresponding documentation shall be transmitted to the Commission on request. If there are reasons to suspect that an infringement has been committed, the Member State shall also carry out investigations and take the necessary immediate measures in accordance with Articles 85 and 91.’
+(d)
+paragraph 8 is replaced by the following:
+‘8.   Member States shall establish and keep up to date a national plan for the implementation of the validation system covering the data listed under paragraph 2a, points (a) and (b), and the follow-up of inconsistencies. The plan shall define the Member State priorities for the validation of data and subsequent follow-up on inconsistencies, following a risk-based approach. Member States shall submit that national plan to the Commission within two months from its adoption or update.’
+(86)
+Articles 110 and 111 are replaced by the following:
+‘Article 110
+Access to, storage and processing of data
+1.   Member States shall ensure the remote access at all time and without prior notice, for the Commission or the body designated by it, of the following data in a non-aggregated form:
+(a)
+fishing activity data, including data relating to fishing activity in the context of fisheries agreements referred to in Article 3(1):
+(i)
+vessel position data;
+(ii)
+fishing activity data, in particular data on entries into and exits from fishing areas, fishing logbooks, landing declarations, transhipment declarations and prior notifications;
+(iii)
+data on fishing effort;
+(iv)
+data from take-over declarations, transport documents and sales notes;
+(b)
+other control data:
+(i)
+data on sightings;
+(ii)
+data from fishing licences and fishing authorisations;
+(iii)
+data from inspection reports;
+(iv)
+data on control of engine power;
+(v)
+data from control observer reports;
+(vi)
+national control programmes;
+(vii)
+list of national officials;
+(c)
+the electronic database for the purpose of the verification of the completeness and the quality of the data collected as referred to in Article 109.
+2.   The Commission or the body designated by it may process the data referred to in paragraph 1, in order to fulfil their duties under the rules of the common fisheries policy, in particular for carrying out inspections, verifications, audits and enquiries, or under the rules of agreements with third countries or international organisations. In addition, the Commission may use data referred in paragraph 1 for the development, production and dissemination of European statistics, in particular by Eurostat in accordance with Regulation (EC) No 223/2009 of the European Parliament and of the Council (*16) and according to its mission.
+3.   For the purpose of performing scientific research or provide scientific advice, data listed in paragraph 1, point (a)(i) to (iv), and data concerning catches, discards and landings listed in paragraph 1, point (b)(iii) and (v), may, where necessary, be provided to independent scientific bodies that are recognised at Union, national or international level. Before transferring such data, Member States shall consider whether the scientific research can be conducted on the basis of pseudonymised or anonymised data.
+In any advice or publication based on such data, those data shall be anonymised.
+4.   Member States shall establish, implement and host the relevant fisheries databases containing the data referred to in paragraph 1.
+5.   Member States shall upon a reasoned request by the Commission transmit data on infringements to the Commission or the body designated by it. The data shall include, in particular, the date of the infringement, the date of the definitive decision and the applied sanctions and measures, including assigned points.

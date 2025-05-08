@@ -1,0 +1,75 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘urban wastewater’ means any of the following:
+(a)
+domestic wastewater;
+(b)
+the mixture of domestic wastewater and non-domestic wastewater;
+(c)
+the mixture of domestic wastewater and urban runoff;
+(d)
+the mixture of domestic wastewater, non-domestic wastewater and urban runoff;
+(2)
+‘domestic wastewater’ means wastewater from residential settlements, services and institutions which originates predominantly from the human metabolism or from household activities, or from both;
+(3)
+‘non-domestic wastewater’ means wastewater, other than domestic wastewater and urban runoff, which is discharged from premises used for the exercise of a trade or industrial or economic activities;
+(4)
+‘agglomeration’ means an area where the population expressed in population equivalent, combined or not with economic activities, is sufficiently concentrated for urban wastewater to be collected and conducted to one or more urban wastewater treatment plants or to one or more final discharge points;
+(5)
+‘urban runoff’ means precipitation in agglomerations collected by combined or separate sewers;
+(6)
+‘storm water overflow’ means discharge of untreated urban wastewater into receiving waters from combined sewers caused by precipitation or system failures;
+(7)
+‘collecting system’ means a system of conduits which collects and conducts urban wastewater;
+(8)
+‘combined sewer’ means a single conduit that collects and conducts urban wastewater, including urban runoff;
+(9)
+‘separate sewer’ means a conduit that separately collects and conducts one of the following:
+(a)
+domestic wastewater;
+(b)
+non-domestic wastewater;
+(c)
+a mixture of domestic and non-domestic wastewater;
+(d)
+urban runoff;
+(10)
+‘1 population equivalent’ or ‘(1 p.e.)’ means the organic biodegradable load per day, having a five-day biochemical oxygen demand (BOD5) of 60 g of oxygen per day;
+(11)
+‘primary treatment’ means treatment of urban wastewater by a physical or chemical process, or both, involving settlement of suspended solids, or other processes in which the BOD5 of the incoming wastewater is reduced by at least 20 % before discharge and the total suspended solids of the incoming wastewater are reduced by at least 50 %;
+(12)
+‘secondary treatment’ means treatment of urban wastewater by a process generally involving biological treatment with a secondary settlement or another process which reduces biodegradable organic matter from urban wastewater;
+(13)
+‘tertiary treatment’ means treatment of urban wastewater by a process which reduces nitrogen or phosphorus, or both, in urban wastewater;
+(14)
+‘quaternary treatment’ means treatment of urban wastewater by a process which reduces a broad spectrum of micropollutants in urban wastewater;
+(15)
+‘sludge’ means organic and inorganic residue resulting from the treatment of urban wastewater from an urban wastewater treatment plant, excluding grit, grease, other debris and any other screenings and residues from the pre-treatment step;
+(16)
+‘eutrophication’ means the enrichment of water by nutrients, especially compounds of nitrogen or phosphorus, or both, causing an accelerated growth of algae and higher forms of plant life to produce an undesirable disturbance to the balance of organisms present in the water and to the quality of the water concerned;
+(17)
+‘micropollutant’ means a substance as defined in Article 3(1) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council (32), including its breakdown products, that is usually present in the aquatic environment, urban wastewater or sludge and that can be considered hazardous to the environment or human health on the basis of the relevant criteria set out in Parts 3 and 4 of Annex I to Regulation (EC) No 1272/2008, even in low concentrations;
+(18)
+‘dilution ratio’ means the ratio of the average over the last five years of annual flow of the receiving waters at the point of discharge to the average over the last five years of the annual discharge volume of urban wastewater into surface waters;
+(19)
+‘producer’ means any manufacturer, importer or distributor that on a professional basis places products on the market of a Member State, including by means of distance contracts as defined in Article 2(7) of Directive 2011/83/EU of the European Parliament and of the Council (33);
+(20)
+‘producer responsibility organisation’ means a nationally recognised organisation established to enable producers to fulfil their obligations under Articles 9 and 10;
+(21)
+‘sanitation’ means facilities and services for the safe, hygienic, secure, and socially and culturally acceptable management and disposal of human urine and faeces, and for the changing and disposal of menstrual products, that provide privacy and ensure dignity;
+(22)
+‘antimicrobial resistance’ means the ability of micro-organisms to survive or to grow in the presence of a concentration of an antimicrobial agent which is usually sufficient to inhibit or kill micro-organisms of the same species;
+(23)
+‘One Health’ means One Health as defined in Article 3, point (7), of Regulation (EU) 2022/2371 of the European Parliament and of the Council (34);
+(24)
+‘public concerned’ means the public affected or likely to be affected by, or having an interest in, the taking of a decision for the implementation of the obligations laid down in Article 6, 7 or 8 of this Directive; for the purposes of this definition, non-governmental organisations promoting the protection of the environment or human health and meeting any requirements under national law are deemed to have an interest;
+(25)
+‘biomedia’ means any support, usually made of plastic, used for the development of the bacteria needed for the treatment of urban wastewater;
+(26)
+‘placing on the market’ means the first making available of a product on the market of a Member State;
+(27)
+‘load’ means the amount of organic biodegradable matter measured as BOD5 in urban wastewater, expressed in p.e., or of any pollutant or nutrient, expressed in mass units per time;
+(28)
+‘individual system’ means a sanitation facility that collects, stores, treats or disposes of domestic wastewater from buildings or parts of buildings not connected to a collecting system.

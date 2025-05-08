@@ -1,0 +1,48 @@
+Article 17
+Public disclosure of inside information
+1.   An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
+The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council (24). The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
+2.   An emission allowance market participant shall publicly, effectively and in a timely manner disclose inside information concerning emission allowances which it holds in respect of its business, including aviation activities as specified in Annex I to Directive 2003/87/EC or installations within the meaning of Article 3(e) of that Directive which the participant concerned, or its parent undertaking or related undertaking, owns or controls or for the operational matters of which the participant, or its parent undertaking or related undertaking, is responsible, in whole or in part. With regard to installations, such disclosure shall include information relevant to the capacity and utilisation of installations, including planned or unplanned unavailability of such installations.
+The first subparagraph shall not apply to a participant in the emission allowance market where the installations or aviation activities that it owns, controls or is responsible for, in the preceding year have had emissions not exceeding a minimum threshold of carbon dioxide equivalent and, where they carry out combustion activities, have had a rated thermal input not exceeding a minimum threshold.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 35 establishing a minimum threshold of carbon dioxide equivalent and a minimum threshold of rated thermal input for the purposes of the application of the exemption provided for in the second subparagraph of this paragraph.
+3.   The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the competent authority for the notifications of paragraphs 4 and 5 of this Article.
+4.   An issuer or an emission allowance market participant, may, on its own responsibility, delay disclosure to the public of inside information provided that all of the following conditions are met:
+(a)
+immediate disclosure is likely to prejudice the legitimate interests of the issuer or emission allowance market participant;
+(b)
+delay of disclosure is not likely to mislead the public;
+(c)
+the issuer or emission allowance market participant is able to ensure the confidentiality of that information.
+In the case of a protracted process that occurs in stages and that is intended to bring about, or that results in, a particular circumstance or a particular event, an issuer or an emission allowance market participant may on its own responsibility delay the public disclosure of inside information relating to this process, subject to points (a), (b) and (c) of the first subparagraph.
+Where an issuer or emission allowance market participant has delayed the disclosure of inside information under this paragraph, it shall inform the competent authority specified under paragraph 3 that disclosure of the information was delayed and shall provide a written explanation of how the conditions set out in this paragraph were met, immediately after the information is disclosed to the public. Alternatively, Member States may provide that a record of such an explanation is to be provided only upon the request of the competent authority specified under paragraph 3.
+5.   In order to preserve the stability of the financial system, an issuer that is a credit institution or a financial institution, may, on its own responsibility, delay the public disclosure of inside information, including information which is related to a temporary liquidity problem and, in particular, the need to receive temporary liquidity assistance from a central bank or lender of last resort, provided that all of the following conditions are met:
+(a)
+the disclosure of the inside information entails a risk of undermining the financial stability of the issuer and of the financial system;
+(b)
+it is in the public interest to delay the disclosure;
+(c)
+the confidentiality of that information can be ensured; and
+(d)
+the competent authority specified under paragraph 3 has consented to the delay on the basis that the conditions in points (a), (b) and (c) are met.
+6.   For the purposes of points (a) to (d) of paragraph 5, an issuer shall notify the competent authority specified under paragraph 3 of its intention to delay the disclosure of the inside information and provide evidence that the conditions set out in points (a), (b) and (c) of paragraph 5 are met. The competent authority specified under paragraph 3 shall consult, as appropriate, the national central bank or the macro-prudential authority, where instituted, or, alternatively, the following authorities:
+(a)
+where the issuer is a credit institution or an investment firm the authority designated in accordance with Article 133(1) of Directive 2013/36/EU of the European Parliament and of the Council (25);
+(b)
+in cases other than those referred to in point (a), any other national authority responsible for the supervision of the issuer.
+The competent authority specified under paragraph 3 shall ensure that disclosure of the inside information is delayed only for a period as is necessary in the public interest. The competent authority specified under paragraph 3 shall evaluate at least on a weekly basis whether the conditions set out in points (a), (b) and (c) of paragraph 5 are still met.
+If the competent authority specified under paragraph 3 does not consent to the delay of disclosure of the inside information, the issuer shall disclose the inside information immediately.
+This paragraph shall apply to cases where the issuer does not decide to delay the disclosure of inside information in accordance with paragraph 4.
+Reference in this paragraph to the competent authority specified under paragraph 3 is without prejudice to the ability of the competent authority to exercise its functions in any of the ways referred to in Article 23(1).
+7.   Where disclosure of inside information has been delayed in accordance with paragraph 4 or 5 and the confidentiality of that inside information is no longer ensured, the issuer or the emission allowance market participant shall disclose that inside information to the public as soon as possible.
+This paragraph includes situations where a rumour explicitly relates to inside information the disclosure of which has been delayed in accordance with paragraph 4 or 5, where that rumour is sufficiently accurate to indicate that the confidentiality of that information is no longer ensured.
+8.   Where an issuer or an emission allowance market participant, or a person acting on their behalf or for their account, discloses any inside information to any third party in the normal course of the exercise of an employment, profession or duties as referred to in Article 10(1), they must make complete and effective public disclosure of that information, simultaneously in the case of an intentional disclosure, and promptly in the case of a non-intentional disclosure. This paragraph shall not apply if the person receiving the information owes a duty of confidentiality, regardless of whether such duty is based on a law, on regulations, on articles of association, or on a contract.
+9.   Inside information relating to issuers whose financial instruments are admitted to trading on an SME growth market, may be posted on the trading venue’s website instead of on the website of the issuer where the trading venue chooses to provide this facility for issuers on that market.
+10.   In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine:
+(a)
+the technical means for appropriate public disclosure of inside information as referred to in paragraphs 1, 2, 8 and 9; and
+(b)
+the technical means for delaying the public disclosure of inside information as referred to in paragraphs 4 and 5.
+ESMA shall submit those draft implementing technical standards to the Commission by 3 July 2016.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+11.   ESMA shall issue guidelines to establish a non-exhaustive indicative list of the legitimate interests of issuers, as referred to in point (a) of paragraph 4, and of situations in which delay of disclosure of inside information is likely to mislead the public as referred to in point (b) of paragraph 4.

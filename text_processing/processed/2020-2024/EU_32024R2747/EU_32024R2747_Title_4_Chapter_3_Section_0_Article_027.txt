@@ -1,0 +1,70 @@
+Article 27
+Information requests to economic operators
+1.   The Commission may invite the relevant economic operators in the supply chains of crisis-relevant goods or crisis-relevant services to provide, on a voluntary basis within a set time limit, specific information in the following circumstances:
+(a)
+there are severe shortages of crisis-relevant goods or crisis-relevant services or an imminent threat thereof;
+(b)
+the information sought is strictly necessary for assessing whether any of the measures laid down in Article 28, or Articles 34 to 39 is capable of reducing such shortages or the imminent threat thereof;
+(c)
+the information provided through the Board or obtained through other means from the Member States in the contingency phase or internal market vigilance mode is not sufficient; and
+(d)
+the Commission is not able to obtain such information from other sources.
+The Commission, after consulting the Board, shall assess the existence of the conditions referred to in the first subparagraph.
+2.   The Commission may make a request for information, by means of an implementing act in the event that:
+(a)
+no information is provided to the Commission on a voluntary basis within the set time limit pursuant to paragraph 1; or
+(b)
+the information received by the Commission, through the voluntary provision of information pursuant to paragraph 1, or from any other sources available during the contingency phase or internal market vigilance mode, is still insufficient for assessing whether the deployment of the measures laid down in Article 28 or Articles 34 to 39 would reduce the severe shortages of crisis-relevant goods or crisis-relevant services or the imminent threat of such shortages and whether any such measures should be taken.
+3.   Before adopting an implementing act as referred to in paragraph 2, and taking into consideration the opinion of the Board, the Commission shall:
+(a)
+assess the necessity and the proportionality of such an information request for the achievement of the objectives laid down in paragraph 1, point (b); and
+(b)
+take due account of the administrative burden that such a request could entail for the economic operators concerned, in particular SMEs, and set the time limit for submitting the information accordingly.
+4.   The information requests referred to in paragraphs 1 and 2 shall be limited to targeted information about the following:
+(a)
+the production capacities and possible existing stocks of the crisis-relevant goods in production facilities located in the Union or in countries outside the Union which the relevant economic operator operates, contracts with or purchases supply from, while fully respecting trade and business secrets;
+(b)
+where available, the schedule of the expected output of crisis-relevant goods in production facilities, located in the Union and in countries outside the Union which the relevant economic operator operates or contracts with, for the three months following receipt of the information request;
+(c)
+any relevant disruptions to or shortages in supply chains of crisis-relevant goods or crisis-relevant services.
+5.   The implementing act providing for an information request by the Commission to economic operators pursuant to paragraph 2 shall:
+(a)
+specify the crisis-relevant goods and services that are relevant for the information request;
+(b)
+specify the relevant economic operators that operate along the supply chains of crisis-relevant goods or crisis-relevant services and that are concerned by the information request;
+(c)
+specify the information that is sought, including providing, where necessary, a template with questions that could be addressed to the individual relevant economic operators;
+(d)
+demonstrate the existence of the exceptional need referred to in paragraph 1, point (b), for which the information is requested and include the assessment referred to in paragraph 3, point (a);
+(e)
+explain the purpose of the request, the intended use of the information requested, and the duration of that use; and
+(f)
+specify the period during which the economic operator can ask the Commission to modify the request.
+The information request provided for by the implementing act referred to in the first subparagraph shall be expressed in a clear, concise and understandable language and take into account the protection of trade secrets and the effort required on the part of the economic operator in order to make the information available on a voluntary basis, especially if it is an SME.
+6.   Following the Commission’s request for information from the economic operators by means of an implementing act pursuant to paragraph 2, the Commission shall address an individual decision to each of the economic operators concerned from the category specified in that implementing act, requesting them to either provide the information specified in that implementing act or to explain why they cannot provide such information. The Commission shall rely, where possible, on the relevant and available inventory of the relevant economic operators, compiled by the Member States in accordance with Article 16(3). The Commission may also, where relevant, obtain the necessary information on the economic operators concerned from the Member States.
+7.   The Commission decisions containing individual information requests adopted pursuant to paragraph 6 shall be duly justified and proportionate in terms of the volume, nature and granularity of the data requested, as well as the frequency of access to that data, and shall be necessary for the management of the emergency.
+Such decisions shall contain all of the following elements:
+(a)
+a reference to the implementing act referred to in paragraph 2 on which they are based;
+(b)
+a description of the situations of severe crisis-related shortages or an imminent threat thereof which has given rise to the decision;
+(c)
+safeguards for the protection of personal data in accordance with Article 42, for the non-disclosure of sensitive business information, for the non-disclosure of trade secrets and for the protection of intellectual property contained in the reply in accordance with Article 43;
+(d)
+information on the possibility of contesting the decision before the Court of Justice of the European Union in line with relevant Union law;
+(e)
+a reasonable time limit not exceeding 20 working days within which the information or the justification for the refusal to supply such information is to be provided.
+When setting the time limit referred to in point (e) of the second subparagraph, the Commission shall take into consideration, in particular, the size of the economic operator concerned in terms of employees and the effort necessary to collect and make information available.
+The economic operator may request a one-time extension to the time limit until two days prior to its expiration in the event that the gravity of the situation requires such extension. The Commission shall respond, within one working day, to any such request for an extension to the time limit.
+8.   When the processing of an information request by an economic operator has the potential to significantly disrupt its operations, that economic operator may refuse to supply the requested information and shall provide the reasons for such refusal to the Commission. The Commission shall not disclose any such refusal to supply the requested information or the reasons for such refusal.
+9.   The Commission shall forward, without delay, a copy of any request for information referred to in paragraphs 1 and 2 to the relevant competent authority of the Member State in whose territory the economic operator is situated. If that competent authority so requests, the Commission shall transmit the information acquired from the respective economic operator in accordance with Union law.
+10.   The Commission, after receiving information pursuant to a request for information referred to in paragraphs 1 and 2, shall:
+(a)
+only use the information in a manner that is compatible with the purpose for which the information was requested;
+(b)
+ensure, insofar as the processing of personal data is necessary, the implementation of technical and organisational measures that preserve the confidentiality and integrity of the requested information, in particular personal data, and that safeguard the rights and freedoms of data subjects;
+(c)
+erase the information as soon as it is no longer necessary for the stated purpose and inform the economic operator and the relevant competent authority of the Member State concerned without undue delay that the information has been erased, unless archiving of the information is required for transparency purposes in accordance with national law.
+11.   Each economic operator concerned, or anyone duly authorised to represent that economic operator, shall provide the requested information on an individual basis in accordance with the Union competition rules governing the exchange of information.
+12.   The implementing acts referred to in paragraph 2 of this Article shall be adopted in accordance with the examination procedure referred to in Article 45(2). On duly justified imperative grounds of urgency relating to the impact of the crisis on the internal market, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 45(3).
+13.   The information requests issued pursuant to this Article shall not relate to information the disclosure of which would be contrary to the essential interests of Member States’ national security.

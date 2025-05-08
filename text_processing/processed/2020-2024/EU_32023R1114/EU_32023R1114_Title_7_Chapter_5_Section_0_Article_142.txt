@@ -1,0 +1,12 @@
+Article 142
+Report on latest developments in crypto-assets
+1.   By 30 December 2024 and after consulting EBA and ESMA, the Commission shall present a report to the European Parliament and the Council on the latest developments with respect to crypto-assets, in particular on matters that are not addressed in this Regulation, accompanied, where appropriate, by a legislative proposal.
+2.   The report referred to in paragraph 1 shall contain at least the following:
+(a)
+an assessment of the development of decentralised-finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems without an issuer or crypto-asset service provider, including an assessment of the necessity and feasibility of regulating decentralised finance;
+(b)
+an assessment of the necessity and feasibility of regulating lending and borrowing of crypto-assets;
+(c)
+an assessment of the treatment of services associated to the transfer of e-money tokens, where not addressed in the context of the review of Directive (EU) 2015/2366;
+(d)
+an assessment of the development of markets in unique and non-fungible crypto-assets and of the appropriate regulatory treatment of such crypto-assets, including an assessment of the necessity and feasibility of regulating offerors of unique and non-fungible crypto-assets as well as providers of services related to such crypto-assets.

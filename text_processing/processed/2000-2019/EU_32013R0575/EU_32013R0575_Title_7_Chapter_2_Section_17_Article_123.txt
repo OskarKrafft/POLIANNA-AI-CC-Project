@@ -1,0 +1,12 @@
+Article 123
+Retail exposures
+Exposures that comply with the following criteria shall be assigned a risk weight of 75 %:
+(a)
+the exposure shall be either to an natural person or persons, or to a small or medium-sized enterprise (SME);
+(b)
+the exposure shall be one of a significant number of exposures with similar characteristics such that the risks associated with such lending are substantially reduced;
+(c)
+the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding exposures fully and completely secured on residential property collateral that have been assigned to the exposure class laid down in point (i) of Article 112, shall not, to the knowledge of the institution, exceed EUR 1 million. The institution shall take reasonable steps to acquire this knowledge.
+Securities shall not be eligible for the retail exposure class.
+Exposures that do not comply with the criteria referred to in points (a) to (c) of the first subparagraph shall not be eligible for the retail exposures class.
+The present value of retail minimum lease payments is eligible for the retail exposure class.

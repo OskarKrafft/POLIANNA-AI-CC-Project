@@ -1,0 +1,23 @@
+Article 40
+Multi-fuel firing combustion plants
+1.   In the case of a multi-fuel firing combustion plant involving the simultaneous use of two or more fuels, the competent authority shall set the emission limit values in accordance with the following steps:
+(a)
+taking the emission limit value relevant for each individual fuel and pollutant corresponding to the total rated thermal input of the entire combustion plant as set out in Parts 1 and 2 of Annex V;
+(b)
+determining fuel-weighted emission limit values, which are obtained by multiplying the individual emission limit value referred to in point (a) by the thermal input delivered by each fuel, and dividing the product of multiplication by the sum of the thermal inputs delivered by all fuels,
+(c)
+aggregating the fuel-weighted emission limit values.
+2.   In the case of multi-fuel firing combustion plants covered by Article 30(2), which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, the following emission limit values may be applied instead of the emission limit values set according to paragraph 1:
+(a)
+where, during the operation of the combustion plant, the proportion contributed by the determinative fuel to the sum of the thermal inputs delivered by all fuels is 50 % or more, the emission limit value set in Part 1 of Annex V for the determinative fuel;
+(b)
+where the proportion contributed by the determinative fuel to the sum of the thermal inputs delivered by all fuels is less than 50 %, the emission limit value determined in accordance with the following steps:
+(i)
+taking the emission limit values set out in Part 1 of Annex V for each of the fuels used, corresponding to the total rated thermal input of the combustion plant;
+(ii)
+calculating the emission limit value of the determinative fuel by multiplying the emission limit value, determined for that fuel according to point (i), by a factor of two, and subtracting from this product the emission limit value of the fuel used with the lowest emission limit value as set out in Part 1 of Annex V, corresponding to the total rated thermal input of the combustion plant;
+(iii)
+determining the fuel-weighted emission limit value for each fuel used by multiplying the emission limit value determined under points (i) and (ii) by the thermal input of the fuel concerned and by dividing the product of this multiplication by the sum of the thermal inputs delivered by all fuels;
+(iv)
+aggregating the fuel-weighted emission limit values determined under point (iii).
+3.   In the case of multi-fuel firing combustion plants covered by Article 30(2), which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, the average emission limit values for sulphur dioxide set out in Part 7 of Annex V may be applied instead of the emission limit values set according to paragraphs 1 or 2 of this Article.

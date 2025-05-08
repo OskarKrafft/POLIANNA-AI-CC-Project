@@ -1,0 +1,18 @@
+Article 2
+1. For the purpose of this Directive, the following definitions shall apply:
+(a) "biofuels" means liquid or gaseous fuel for transport produced from biomass;
+(b) "biomass" means the biodegradable fraction of products, waste and residues from agriculture (including vegetal and animal substances), forestry and related industries, as well as the biodegradable fraction of industrial and municipal waste;
+(c) "other renewable fuels" means renewable fuels, other than biofuels, which originate from renewable energy sources as defined in Directive 2001/77/EC(8) and used for transport purposes;
+(d) "energy content" means the lower calorific value of a fuel.
+2. At least the products listed below shall be considered biofuels:
+(a) "bioethanol": ethanol produced from biomass and/or the biodegradable fraction of waste, to be used as biofuel;
+(b) "biodiesel": a methyl-ester produced from vegetable or animal oil, of diesel quality, to be used as biofuel;
+(c) "biogas": a fuel gas produced from biomass and/or from the biodegradable fraction of waste, that can be purified to natural gas quality, to be used as biofuel, or woodgas;
+(d) "biomethanol": methanol produced from biomass, to be used as biofuel;
+(e) "biodimethylether": dimethylether produced from biomass, to be used as biofuel;
+(f) "bio-ETBE (ethyl-tertio-butyl-ether)": ETBE produced on the basis of bioethanol. The percentage by volume of bio-ETBE that is calculated as biofuel is 47 %;
+(g) "bio-MTBE (methyl-tertio-butyl-ether)": a fuel produced on the basis of biomethanol. The percentage by volume of bio-MTBE that is calculated as biofuel is 36 %;
+(h) "synthetic biofuels": synthetic hydrocarbons or mixtures of synthetic hydrocarbons, which have been produced from biomass;
+(i) "biohydrogen": hydrogen produced from biomass, and/or from the biodegradable fraction of waste, to be used as biofuel;
+(j) "pure vegetable oil": oil produced from oil plants through pressing, extraction or comparable procedures, crude or refined but chemically unmodified, when compatible with the type of engines involved and the corresponding emission requirements.
+

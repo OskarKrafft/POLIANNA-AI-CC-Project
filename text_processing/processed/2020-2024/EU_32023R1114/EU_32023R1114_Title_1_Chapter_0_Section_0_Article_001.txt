@@ -1,0 +1,14 @@
+Article 1
+Subject matter
+1.   This Regulation lays down uniform requirements for the offer to the public and admission to trading on a trading platform of crypto-assets other than asset-referenced tokens and e-money tokens, of asset-referenced tokens and of e-money tokens, as well as requirements for crypto-asset service providers.
+2.   In particular, this Regulation lays down the following:
+(a)
+transparency and disclosure requirements for the issuance, offer to the public and admission of crypto-assets to trading on a trading platform for crypto-assets (‘admission to trading’);
+(b)
+requirements for the authorisation and supervision of crypto-asset service providers, issuers of asset-referenced tokens and issuers of e-money tokens, as well as for their operation, organisation and governance;
+(c)
+requirements for the protection of holders of crypto-assets in the issuance, offer to the public and admission to trading of crypto-assets;
+(d)
+requirements for the protection of clients of crypto-asset service providers;
+(e)
+measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets, in order to ensure the integrity of markets in crypto-assets.

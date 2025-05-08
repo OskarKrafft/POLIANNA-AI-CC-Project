@@ -1,0 +1,41 @@
+Article 3
+Amendment to Directive (EU) 2019/520
+In Annex I to Directive (EU) 2019/520, Section ‘Data elements provided as a result of the automated search conducted pursuant to Article 23(1)’, Part I ‘Data relating to vehicles’, the Table is replaced by the following:
+‘Part I.   Data relating to vehicles
+Item
+M/O (14)
+
+Remarks
+Registration number
+M
+ 
+Chassis number/Vehicle identification number (VIN)
+M
+ 
+Member State of registration
+M
+ 
+Make
+M
+(D.1 (15)) e.g. Ford, Opel, Renault
+Commercial type of the vehicle
+M
+(D.3) e.g. Focus, Astra, Megane
+EU Category Code
+M
+(J) e.g. mopeds, motorbikes, cars
+Euro emissions class
+M
+e.g. Euro 4, Euro 6
+CO2 emission class
+O
+applicable to heavy-duty vehicles
+Date of reclassification
+O
+applicable to heavy-duty vehicles
+CO2 in g/tkm
+O
+applicable to heavy-duty vehicles
+Technically permissible maximum laden mass of the vehicle
+M
+ 

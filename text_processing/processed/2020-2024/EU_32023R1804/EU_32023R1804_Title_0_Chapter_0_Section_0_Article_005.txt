@@ -1,0 +1,34 @@
+Article 5
+Recharging infrastructure
+1.   Operators of recharging points shall, at the publicly accessible recharging points operated by them, provide end users with the possibility to recharge their electric vehicle on an ad hoc basis.
+At publicly accessible recharging points deployed from 13 April 2024, recharging on an ad hoc basis shall be possible using a payment instrument that is widely used in the Union. To that end, operators of recharging points shall accept electronic payments at those points through terminals and devices used for payment services, including at least one of the following:
+(a)
+payment card readers;
+(b)
+devices with a contactless functionality that is at least able to read payment cards;
+(c)
+for publicly accessible recharging points with a power output below 50 kW, devices using an internet connection and allowing for secure payment transactions such as those generating a specific Quick Response code.
+From 1 January 2027, operators of recharging points shall ensure that all publicly accessible recharging points operated by them, with a power output equal to or more than 50 kW deployed along the TEN-T road network or deployed on a safe and secure parking area, including recharging points deployed before 13 April 2024, comply with the requirements set out in points (a) or (b).
+A single payment terminal or device referred to in the second subparagraph may serve a number of publicly accessible recharging points within a recharging pool.
+The requirements laid down in this paragraph shall not apply to publicly accessible recharging points that do not require payment for the recharging service.
+2.   Operators of recharging points shall ensure that when they offer automatic authentication at a publicly accessible recharging point operated by them, end users always have the right to not make use of the automatic authentication and instead either to recharge their vehicle on an ad hoc basis, as provided for in paragraph 1, or to use another contract-based recharging solution offered at that recharging point. Operators of recharging points shall clearly show that option to end users and offer it to them in a convenient manner at each publicly accessible recharging point operated by them, at which they make available automatic authentication.
+3.   Prices charged by operators of publicly accessible recharging points shall be reasonable, easily and clearly comparable, transparent and non-discriminatory. Operators of publicly accessible recharging points shall not discriminate, through the prices charged, between end users and mobility service providers or between different mobility service providers. However, the level of prices may be differentiated, but only if the differentiation is proportionate and objectively justified.
+4.   At publicly accessible recharging points with a power output equal to or more than 50 kW, the ad hoc price charged by the operator shall be based on the price per kWh for the electricity delivered. In addition, the operators of those recharging points can charge an occupancy fee as a price per minute to discourage long occupancy of the recharging point.
+Operators of publicly accessible recharging points with a power output equal to or more than 50 kW shall, at the recharging stations, show the ad hoc price per kWh and any possible occupancy fee expressed in price per minute so that that information is known to end users before they initiate a recharging session and price comparison is facilitated.
+Operators of publicly accessible recharging points with a power output of less than 50 kW shall, at the recharging stations operated by them, make the information on the ad hoc price clearly and easily available, with all its price components, so that that information is known to end users before they initiate a recharging session and price comparison is facilitated. The applicable price components shall be presented in the following order:
+—
+price per kWh;
+—
+price per minute;
+—
+price per session; and
+—
+any other price component that applies.
+The first and second subparagraphs shall apply to all recharging points deployed from 13 April 2024.
+5.   Prices charged by mobility service providers to end users shall be reasonable, transparent and non-discriminatory. Mobility service providers shall make available to end users, prior to the start of an intended recharging session, all price information specific to that recharging session, through freely available, widely supported electronic means, clearly distinguishing all price components, including applicable e-roaming costs and other fees or charges applied by the mobility service provider. The fees shall be reasonable, transparent and non-discriminatory. Mobility service providers shall not apply any extra charges for cross-border e-roaming.
+6.   Member States shall ensure that their authorities regularly monitor the recharging infrastructure market, and in particular, that they monitor the compliance of operators of recharging points and mobility service providers with paragraphs 3 and 5. Member States shall also seek to ensure that their authorities regularly monitor possibly unfair commercial practices affecting consumers.
+7.   By 14 October 2024, operators of recharging points shall ensure that all publicly accessible recharging points operated by them are digitally-connected recharging points.
+8.   Operators of recharging points shall ensure that all publicly accessible recharging points operated by them and built after 13 April 2024 or renovated after 14 October 2024 are capable of smart recharging.
+9.   Member States shall take the necessary measures to ensure that within parking and rest areas along the TEN-T road network where alternative fuels infrastructure is deployed, the exact location of the alternative fuels infrastructure is adequately signposted.
+10.   By 14 April 2025, the operators of publicly accessible recharging points shall ensure that all direct current (DC) publicly accessible recharging points operated by them have a fixed recharging cable installed.
+11.   Where the operator of a recharging point is not the owner of that point, the owner shall make available to the operator, in accordance with the arrangements between them, a recharging point with the technical characteristics which enable the operator to comply with the obligations set out in paragraphs 2, 7, 8 and 10.

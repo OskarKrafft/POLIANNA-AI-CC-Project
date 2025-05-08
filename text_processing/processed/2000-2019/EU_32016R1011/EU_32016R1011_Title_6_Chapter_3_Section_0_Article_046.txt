@@ -1,0 +1,45 @@
+Article 46
+Colleges
+1.   Within 30 working days from the inclusion of a benchmark referred to in points (a) and (c) of Article 20(1) in the list of critical benchmarks, with the exception of benchmarks where the majority of contributors are non-supervised entities, the competent authority shall establish a college.
+2.   The college shall comprise the competent authority of the administrator, ESMA, and the competent authorities of supervised contributors.
+3.   Competent authorities of other Member States shall have the right to be members of the college where, if the critical benchmark in question were to cease to be provided, it would have a significant adverse impact on the market integrity, financial stability, consumers, real economy, or financing of households and businesses of those Member States.
+Where a competent authority intends to become a member of a college, it shall submit a request to the competent authority of the administrator containing evidence that the requirements of the first subparagraph of this paragraph are fulfilled. The relevant competent authority of the administrator shall consider the request and notify the requesting authority within 20 working days of receipt of the request whether or not it considers those requirements to be fulfilled. Where it considers those requirements not to be fulfilled, the requesting authority may refer the matter to ESMA in accordance with paragraph 9.
+4.   ESMA shall contribute to promoting and monitoring the efficient, effective and consistent functioning of colleges referred to in this Article in accordance with Article 21 of Regulation (EU) No 1095/2010. To that end, ESMA shall participate as appropriate and shall be considered to be a competent authority for that purpose.
+Where ESMA acts in accordance with Article 17(6) of Regulation (EU) No 1095/2010 regarding a critical benchmark, it shall ensure appropriate exchange of information and cooperation with the other members of the college.
+5.   The competent authority of an administrator shall chair the meetings of the college, coordinate the actions of the college and ensure efficient exchange of information among members of the college.
+Where an administrator provides more than one critical benchmark, the competent authority of that administrator may establish a single college in respect of all the benchmarks provided by that administrator.
+6.   The competent authority of an administrator shall establish written arrangements within the framework of the college regarding the following matters:
+(a)
+the information to be exchanged between competent authorities;
+(b)
+the decision-making process between the competent authorities and the time frame within which each decision has to be taken;
+(c)
+the cases in which the competent authorities must consult each other;
+(d)
+the cooperation to be provided under Article 23(7) and (8).
+7.   The competent authority of an administrator shall give due consideration to any advice provided by ESMA concerning the written arrangements under paragraph 6 before agreeing their final text. The written arrangements shall be set out in a single document containing full reasons for any significant deviation from the advice of ESMA. The competent authority of the administrator shall transmit the written arrangements to the members of the college and to ESMA.
+8.   Before taking any measures referred to in Article 23(6), (7) and (9), and Articles 34, 35 and 42, the competent authority of an administrator shall consult the members of the college. The members of the college shall do everything reasonable within their power to reach an agreement within the time frame specified in the written arrangements referred to in paragraph 6 of this Article.
+Any decision of the competent authority of the administrator to take such measures shall take into account the impact on the other Member States concerned, in particular the potential impact on the stability of their financial systems.
+With regard to the decision to withdraw the authorisation or registration of an administrator in accordance with Article 35, whenever the cessation of a benchmark would result in a force majeure event, frustrate or otherwise breach the terms of any financial contract or financial instrument, or the rules of any investment fund, which references that benchmark in the Union, within the meaning specified by the Commission in any delegated act adopted pursuant to Article 51(6), the competent authorities within the college shall consider whether to adopt measures to mitigate the effects referred to in this paragraph, including:
+(a)
+a change to the code of conduct referred to in Article 15, the methodology or other rules of the benchmark;
+(b)
+a transitional period, during which the procedures envisaged under Article 28(2) shall apply.
+9.   In the absence of agreement between the members of a college, competent authorities may refer to ESMA any of the following situations:
+(a)
+where a competent authority has not communicated essential information;
+(b)
+where, following a request made under paragraph 3, the competent authority of the administrator has notified the requesting authority that the requirements of that paragraph are not fulfilled or where it has not acted upon such request within a reasonable time;
+(c)
+where the competent authorities have failed to reach an agreement on the matters set out in paragraph 6;
+(d)
+where there is a disagreement concerning the measures to be taken in accordance with Articles 34, 35 and 42;
+(e)
+where there is a disagreement concerning the measures to be taken in accordance with Article 23(6);
+(f)
+where there is a disagreement concerning the measures to be taken in accordance with the third subparagraph of paragraph 8 of this Article.
+10.   In the situations referred to in points (a), (b), (c), (d) and (f) of paragraph 9, if the issue is not settled within 30 days after referral to ESMA, the competent authority of an administrator shall take the final decision and provide a detailed explanation of its decision in writing to the competent authorities referred to in that paragraph and to ESMA.
+The period of time referred to in point (a) of Article 34(6) shall be suspended from the date of referral to ESMA until such time as a decision is taken in accordance with the first subparagraph of this paragraph.
+Where ESMA considers that the competent authority of the administrator has taken any measures referred to in paragraph 8 of this Article which may not be in conformity with Union law it shall act in accordance with Article 17 of Regulation (EU) No 1095/2010.
+11.   In the situation referred to in point (e) of paragraph 9 of this Article, and without prejudice to Article 258 TFEU, ESMA may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+The power of the competent authority of an administrator under Article 23(6) may be exercised until such time as ESMA publishes its decision.

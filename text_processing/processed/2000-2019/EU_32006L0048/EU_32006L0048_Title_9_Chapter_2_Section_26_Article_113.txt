@@ -1,0 +1,53 @@
+Article 113
+1.   Member States may impose limits more stringent than those laid down in Article 111.
+2.   Member States may fully or partially exempt from the application of Article 111(1), (2) and (3) exposures incurred by a credit institution to its parent undertaking, to other subsidiaries of that parent undertaking or to its own subsidiaries, in so far as those undertakings are covered by the supervision on a consolidated basis to which the credit institution itself is subject, in accordance with this Directive or with equivalent standards in force in a third country.
+3.   Member States may fully or partially exempt the following exposures from the application of Article 111:
+(a)
+asset items constituting claims on central governments or central banks which, unsecured, would be assigned a 0 % risk weight under Articles 78 to 83;
+(b)
+asset items constituting claims on international organisations or multilateral development banks which, unsecured, would be assigned a 0 % risk weight under Articles 78 to 83;
+(c)
+asset items constituting claims carrying the explicit guarantees of central governments, central banks, international organisations, multilateral development banks or public sector entities, where unsecured claims on the entity providing the guarantee would be assigned a 0 % risk weight under Articles 78 to 83;
+(d)
+other exposures attributable to, or guaranteed by, central governments, central banks, international organisations, multilateral development banks or public sector entities, where unsecured claims on the entity to which the exposure is attributable or by which it is guaranteed would be assigned a 0 % risk weight under Articles 78 to 83;
+(e)
+asset items constituting claims on and other exposures to central governments or central banks not mentioned in point (a) which are denominated and, where applicable, funded in the national currencies of the borrowers;
+(f)
+asset items and other exposures secured, to the satisfaction of the competent authorities, by collateral in the form of debt securities issued by central governments or central banks, international organisations, multilateral development banks, Member States' regional governments, local authorities or public sector entities, which securities constitute claims on their issuer which would be assigned a 0 % risk weighting under Articles 78 to 83;
+(g)
+asset items and other exposures secured, to the satisfaction of the competent authorities, by collateral in the form of cash deposits placed with the lending credit institution or with a credit institution which is the parent undertaking or a subsidiary of the lending institution;
+(h)
+asset items and other exposures secured, to the satisfaction of the competent authorities, by collateral in the form of certificates of deposit issued by the lending credit institution or by a credit institution which is the parent undertaking or a subsidiary of the lending credit institution and lodged with either of them;
+(i)
+asset items constituting claims on and other exposures to institutions, with a maturity of one year or less, but not constituting such institutions" own funds;
+(j)
+asset items constituting claims on and other exposures to those institutions which are not credit institutions but which fulfil the conditions referred to in Annex VI, Part 1, point 85, with a maturity of one year or less, and secured in accordance with the same point;
+(k)
+bills of trade and other similar bills, with a maturity of one year or less, bearing the signatures of other credit institutions;
+(l)
+covered bonds falling within the terms of Annex VI, Part 1, points 68 to 70;
+(m)
+pending subsequent coordination, holdings in the insurance companies referred to in Article 122(1) up to 40 % of the own funds of the credit institution acquiring such a holding;
+(n)
+asset items constituting claims on regional or central credit institutions with which the lending credit institution is associated in a network in accordance with legal or statutory provisions and which are responsible, under those provisions, for cash‐clearing operations within the network;
+(o)
+exposures secured, to the satisfaction of the competent authorities, by collateral in the form of securities other than those referred to in point (f);
+(p)
+loans secured, to the satisfaction of the competent authorities, by mortgages on residential property or by shares in Finnish residential housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation and leasing transactions under which the lessor retains full ownership of the residential property leased for as long as the lessee has not exercised his option to purchase, in all cases up to 50 % of the value of the residential property concerned;
+(q)
+the following, where they would receive a 50 % risk weight under Articles 78 to 83, and only up to 50 % of the value of the property concerned:
+(i)
+exposures secured by mortgages on offices or other commercial premises, or by shares in Finnish housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation, in respect of offices or other commercial premises; and
+(ii)
+exposures related to property leasing transactions concerning offices or other commercial premises;
+for the purposes of point (ii), until 31 December 2011, the competent authorities of each Member State may allow credit institutions to recognise 100 % of the value of the property concerned. At the end of this period, this treatment shall be reviewed. Member States shall inform the Commission of the use they make of this preferential treatment;
+(r)
+50 % of the medium/low‐risk off‐balance‐sheet items referred to in Annex II;
+(s)
+subject to the competent authorities' agreement, guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions, subject to a weighting of 20 % of their amount; and
+(t)
+the low‐risk off‐balance‐sheet items referred to in Annex II, to the extent that an agreement has been concluded with the client or group of connected clients under which the exposure may be incurred only if it has been ascertained that it will not cause the limits applicable under Article 111(1) to (3) to be exceeded.
+Cash received under a credit linked note issued by the credit institution and loans and deposits of a counterparty to or with the credit institution which are subject to an on‐balance sheet netting agreement recognised under Articles 90 to 93 shall be deemed to fall under point (g).
+For the purposes of point (o), the securities used as collateral shall be valued at market price, have a value that exceeds the exposures guaranteed and be either traded on a stock exchange or effectively negotiable and regularly quoted on a market operated under the auspices of recognised professional operators and allowing, to the satisfaction of the competent authorities of the Member State of origin of the credit institution, for the establishment of an objective price such that the excess value of the securities may be verified at any time. The excess value required shall be 100 %. It shall, however, be 150 % in the case of shares and 50 % in the case of debt securities issued by institutions, Member State regional governments or local authorities other than those referred to in sub‐point (f), and in the case of debt securities issued by multilateral development banks other than those assigned a 0 % risk weight under Articles 78 to 83. Where there is a mismatch between the maturity of the exposure and the maturity of the credit protection, the collateral shall not be recognised. Securities used as collateral may not constitute credit institutions' own funds.
+For the purposes of point (p), the value of the property shall be calculated, to the satisfaction of the competent authorities, on the basis of strict valuation standards laid down by law, regulation or administrative provisions. Valuation shall be carried out at least once a year. For the purposes of point (p), residential property shall mean a residence to be occupied or let by the borrower.
+Member States shall inform the Commission of any exemption granted under point (s) in order to ensure that it does not result in a distortion of competition.

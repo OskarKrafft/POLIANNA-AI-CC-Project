@@ -1,0 +1,15 @@
+Article 18
+Report on the state of cybersecurity in the Union
+1.   ENISA shall adopt, in cooperation with the Commission and the Cooperation Group, a biennial report on the state of cybersecurity in the Union and shall submit and present that report to the European Parliament. The report shall, inter alia, be made available in machine-readable data and include the following:
+(a)
+a Union-level cybersecurity risk assessment, taking account of the cyber threat landscape;
+(b)
+an assessment of the development of cybersecurity capabilities in the public and private sectors across the Union;
+(c)
+an assessment of the general level of cybersecurity awareness and cyber hygiene among citizens and entities, including small and medium-sized enterprises;
+(d)
+an aggregated assessment of the outcome of the peer reviews referred to in Article 19;
+(e)
+an aggregated assessment of the level of maturity of cybersecurity capabilities and resources across the Union, including those at sector level, as well as of the extent to which the Member States’ national cybersecurity strategies are aligned.
+2.   The report shall include particular policy recommendations, with a view to addressing shortcomings and increasing the level of cybersecurity across the Union, and a summary of the findings for the particular period from the EU Cybersecurity Technical Situation Reports on incidents and cyber threats prepared by ENISA in accordance with Article 7(6) of Regulation (EU) 2019/881.
+3.   ENISA, in cooperation with the Commission, the Cooperation Group and the CSIRTs network, shall develop the methodology, including the relevant variables, such as quantitative and qualitative indicators, of the aggregated assessment referred to in paragraph 1, point (e).

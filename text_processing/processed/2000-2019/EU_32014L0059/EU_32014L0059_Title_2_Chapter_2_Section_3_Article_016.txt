@@ -1,0 +1,13 @@
+Article 16
+Assessment of resolvability for groups
+1.   Member States shall ensure that group-level resolution authorities, together with the resolution authorities of subsidiaries, after consulting the consolidating supervisor and the competent authorities of such subsidiaries, and the resolution authorities of the jurisdictions in which significant branches are located insofar as is relevant to the significant branch, assess the extent to which groups are resolvable without the assumption of any of the following:
+(a)
+any extraordinary public financial support besides the use of the financing arrangements established in accordance with Article 100;
+(b)
+any central bank emergency liquidity assistance;
+(c)
+any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms.
+A group shall be deemed to be resolvable if it is feasible and credible for the resolution authorities to either wind up group entities under normal insolvency proceedings or to resolve group entities by applying resolution tools and powers to group entities while avoiding to the maximum extent possible any significant adverse effect on the financial system, including in circumstances of broader financial instability or system wide events, of the Member States in which group entities are established, or other Member States or the Union and with a view to ensuring the continuity of critical functions carried out by the group entities, where they can be easily separated in a timely manner or by other means. Group-level resolution authorities shall notify EBA in a timely manner whenever a group is deemed not to be resolvable.
+The assessment of group resolvability shall be taken into consideration by the resolution colleges referred to in Article 88.
+2.   For the purposes of the assessment of group resolvability, resolution authorities shall, as a minimum, examine the matters specified in Section C of the Annex.
+3.   The assessment of group resolvability under this Article shall be made at the same time as, and for the purposes of drawing up and updating of the group resolution plans in accordance with Article 12. The assessment shall be made under the decision-making procedure laid down in Article 13.

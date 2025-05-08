@@ -1,0 +1,10 @@
+Article 11
+Cooperation between Member States
+1.   Whenever appropriate, Member States shall consult one another regarding critical entities for the purpose of ensuring that this Directive is applied in a consistent manner. Such consultations shall take place, in particular, regarding critical entities that:
+(a)
+use critical infrastructure which is physically connected between two or more Member States;
+(b)
+are part of corporate structures that are connected with, or linked to, critical entities in other Member States;
+(c)
+have been identified as critical entities in one Member State and provide essential services to or in other Member States.
+2.   The consultations referred to in paragraph 1 shall aim at enhancing the resilience of critical entities and, where possible, reducing the administrative burden on them.

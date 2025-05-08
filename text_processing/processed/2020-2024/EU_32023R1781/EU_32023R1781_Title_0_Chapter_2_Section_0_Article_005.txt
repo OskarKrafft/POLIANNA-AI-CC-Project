@@ -1,0 +1,41 @@
+Article 5
+Content of the Initiative
+The Initiative shall:
+(a)
+under its operational objective 1:
+(i)
+build up and maintain a virtual design platform, available across the Union, integrating existing and new design facilities with extended libraries and electronic design automation (EDA) tools;
+(ii)
+extend the design capabilities by fostering innovative developments, such as open-source processor architectures and other innovative architectures, chiplets, programmable chips, new types of memory, processors, accelerators or low power chips, that are built in accordance with security-by-design principles;
+(iii)
+enlarge the semiconductor ecosystem by integrating the vertical market sectors, such as health, mobility, energy, telecommunications, security, defence and space, contributing to the green, digital and innovation agendas of the Union;
+(b)
+under its operational objective 2:
+(i)
+strengthen capabilities in next-generation chip production technologies and manufacturing equipment, by integrating research and innovation activities and preparing the development of future technology nodes, such as leading-edge nodes, fully depleted silicon on insulator technologies, new semiconductors materials or heterogeneous systems integration and advanced module assembly and packaging for high, medium or low volumes;
+(ii)
+support innovation at a large scale through access to new or existing pilot lines for experimentation, test, process control, final device reliability and validation of new design concepts integrating key functionalities;
+(iii)
+provide support to integrated production facilities and open EU foundries through preferential access to the new pilot lines, as well as ensure access on fair terms to new pilot lines for a wide range of users of the Union’s semiconductor ecosystem;
+(c)
+under its operational objective 3:
+(i)
+develop innovative design libraries for quantum chips;
+(ii)
+support the development of new or existing pilot lines, clean rooms and foundries for prototyping and producing quantum chips for the integration of quantum circuits and control electronics;
+(iii)
+develop facilities for testing and validating advanced quantum chips produced by the pilot lines, with a view to closing the innovation feedback loop between designers, producers and users of quantum components;
+(d)
+under its operational objective 4:
+(i)
+strengthen capacities and offer a wide range of expertise to the stakeholders, including end-user start-ups and SMEs, facilitating access to and the effective use of the capacities and facilities referred to in this Article;
+(ii)
+address the knowledge and skills shortage and mismatch by attracting, mobilising and retaining new talent on research, design and production and supporting the emergence of a suitably skilled workforce in science, technology, engineering and mathematics (STEM) subjects up to the postdoctoral level for strengthening the semiconductor ecosystem, including by offering suitable training opportunities for students, for example dual study programmes and student orientation, in addition to reskilling and upskilling of workers;
+(e)
+under its operational objective 5:
+(i)
+improve the leverage effect of the Union budget spending and achieving a higher multiplier effect in terms of attracting private-sector financing;
+(ii)
+provide support to companies facing difficulties in accessing finance, and address the need to underpin the economic resilience throughout the Union and the Member States;
+(iii)
+accelerate and improve accessibility to investment in the field of chip design, semiconductor manufacturing and integration technologies, and leverage funding from both the public and the private sectors, while increasing the security of supply and the resilience of the semiconductor ecosystem for the whole semiconductor value chain.

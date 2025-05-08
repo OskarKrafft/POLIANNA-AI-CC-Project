@@ -1,0 +1,43 @@
+Article 42
+Amendments of Annexes
+1.   The Commission is empowered to adopt delegated acts in accordance with Article 44 amending Annex I, with the exception of cadmium limit values and the definitions, or other elements relating to the scope, of product function categories, and amending Annexes II, III and IV, for the purposes of adapting those Annexes to technical progress and of facilitating internal market access and free movement for EU fertilising products:
+(a)
+which have the potential to be the subject of significant trade on the internal market, and
+(b)
+for which there is scientific evidence that they:
+(i)
+do not present a risk to human, animal or plant health, to safety or to the environment, and
+(ii)
+ensure agronomic efficiency.
+When adopting delegated acts which introduce new contaminant limit values in Annex I, the Commission shall take into account scientific opinions of the European Food Safety Authority, the European Chemicals Agency or the Commission’s Joint Research Centre, as relevant.
+Where the Commission adopts delegated acts in order to add or review component material categories so as to include materials that can be considered to be recovered waste or by-products within the meaning of Directive 2008/98/EC, those delegated acts shall explicitly exclude such materials from component material categories 1 and 11 of Annex II to this Regulation.
+When adopting delegated acts under this paragraph, the Commission shall prioritise in particular animal by-products, by-products within the meaning of Directive 2008/98/EC, and recovered waste, in particular from the agricultural sector and the agro-food industry, as well as materials and products already lawfully placed on the market in one or more Member States.
+2.   Without undue delay after 15 July 2019, the Commission shall assess struvite, biochar and ash-based products. If that assessment concludes that the criteria in point (b) of paragraph 1 are fulfilled, the Commission shall adopt delegated acts pursuant to paragraph 1 to include those materials in Annex II.
+3.   The Commission may only adopt delegated acts pursuant to paragraph 1 amending Annex II to this Regulation to include in the component material categories materials that cease to be waste following a recovery operation if recovery rules in that Annex, adopted no later than the inclusion, ensure that the materials comply with the conditions laid down in Article 6 of Directive 2008/98/EC.
+4.   The Commission may only adopt delegated acts pursuant to paragraph 1 amending Annex II to add new micro-organisms or strains of micro-organisms, or additional processing methods to the component material category for such organisms after having verified which strains of the additional micro-organism fulfil the criteria in point (b) of paragraph 1, on the basis of the following data:
+(a)
+name of the micro-organism;
+(b)
+taxonomic classification of the micro-organism: genus, species, strain and procurement method;
+(c)
+scientific literature reporting about safe production, conservation and use of the micro-organism;
+(d)
+taxonomic relation to micro-organism species fulfilling the requirements for a Qualified Presumption of Safety as established by the European Food Safety Authority;
+(e)
+information on the production process, including, where relevant, processing methods such as spray drying, fluid-bed drying, static drying, centrifugation, deactivation by heat, filtration and grinding;
+(f)
+information on the identity and residue levels of residual intermediates, toxins or microbial metabolites in the component material; and
+(g)
+natural occurrence, survival and mobility in the environment.
+5.   The Commission may only adopt delegated acts pursuant to paragraph 1 amending Annex II to this Regulation to add derived products within the meaning of Regulation (EC) No 1069/2009 in the component material categories where an end point in the manufacturing chain has been determined in accordance with Article 5(2) of that Regulation.
+The Commission shall assess such derived products with respect to relevant aspects not taken into account for the purpose of determining an end point in the manufacturing chain in accordance with Regulation (EC) No 1069/2009. If that assessment concludes that the criteria in point (b) of paragraph 1 of this Article are fulfilled, the Commission shall adopt delegated acts pursuant to paragraph 1 of this Article to include those materials in the table in component material category 10 in Part II of Annex II to this Regulation without undue delay whenever such an end point is determined.
+6.   By 16 July 2024, the Commission shall assess biodegradability criteria for polymers referred to in point 2 of component material category 9 in Part II of Annex II and test methods to verify compliance with those criteria and, where appropriate, shall adopt delegated acts pursuant to paragraph 1 which lay down those criteria.
+Such criteria shall ensure that:
+(a)
+the polymer is capable of undergoing physical and biological decomposition in natural soil conditions and aquatic environments across the Union, so that it ultimately decomposes only into carbon dioxide, biomass and water;
+(b)
+the polymer has at least 90 % of the organic carbon converted into carbon dioxide in a maximum period of 48 months after the end of the claimed functionality period of the EU fertilising product indicated on the label, and as compared to an appropriate standard in the biodegradation test; and
+(c)
+the use of polymers does not lead to accumulation of plastics in the environment.
+7.   By 16 July 2022, the Commission shall adopt delegated acts in accordance with Article 44 supplementing point 3 of component material category 11 in Part II of Annex II to this Regulation by laying down criteria on agronomic efficiency and safety for the use of by-products within the meaning of Directive 2008/98/EC in EU fertilising products. Such criteria shall reflect present product manufacturing practices, technological developments and the latest scientific evidence.
+8.   The Commission is empowered to adopt delegated acts in accordance with Article 44 amending Annex I, with the exception of cadmium limit values, and Annexes II, III and IV in the light of new scientific evidence. The Commission shall use this empowerment where, based on a risk assessment, an amendment proves necessary to ensure that any EU fertilising product complying with the requirements of this Regulation does not, under normal conditions of use, present a risk to human, animal, or plant health, to safety or to the environment.

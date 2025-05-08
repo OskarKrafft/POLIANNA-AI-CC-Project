@@ -1,0 +1,9 @@
+Article 22
+Specific rules for photographs and fingerprints
+The use of photographs and fingerprints as referred to in Article 20(2)(e) and (f) shall be subject to the following provisions:
+(a)
+photographs and fingerprints shall only be entered following a special quality check to ascertain the fulfilment of a minimum data quality standard. The specification of the special quality check shall be established in accordance with the procedure referred to in Article 51(2), without prejudice to the provisions of the instrument setting up the Management Authority;
+(b)
+photographs and fingerprints shall only be used to confirm the identity of a third-country national who has been located as a result of an alphanumeric search made in SIS II;
+(c)
+as soon as this becomes technically possible, fingerprints may also be used to identify a third-country national on the basis of his biometric identifier. Before this functionality is implemented in SIS II, the Commission shall present a report on the availability and readiness of the required technology, on which the European Parliament shall be consulted.

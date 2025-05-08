@@ -1,0 +1,39 @@
+Article 39
+Calculating K‐CON
+1.   The K‐CON own funds requirement shall be the aggregate amount of the own funds requirement calculated for each client or group of connected clients as the own funds requirement of the appropriate line in Column 1 in Table 6 that accounts for a part of the total individual excess, multiplied by:
+(a)
+200 %, where the excess has not persisted for more than 10 days;
+(b)
+the corresponding factor in Column 2 of Table 6, after the period of 10 days calculated from the date on which the excess has occurred, by allocating each proportion of the excess to the appropriate line in Column 1 of Table 6.
+2.   The own funds requirement of the excess referred to in paragraph 1 shall be calculated in accordance with the following formula:
+
+
+
+
+
+where:
+OFRE = own funds requirement for the excess;
+OFR = own funds requirement of exposures to an individual client or groups of connected clients, calculated by adding together the own funds requirements of the exposures to the individual clients within the group, which shall be treated as a single exposure;
+EV = exposure value calculated in the manner laid down in Article 36;
+EVE = exposure value excess calculated in the manner laid down in Article 37(2).
+For the purpose of calculating K‐CON, the own funds requirements of exposures arising from the positive excess of an investment firm’s long positions over its short positions in all the trading book financial instruments issued by the client in question, the net position of each instrument calculated in accordance with the provisions referred to in points (a), (b) and (c) of Article 22 shall only include specific‐risk requirements.
+An investment firm that, for the purposes of the RtM K‐factor requirement, calculates own funds requirements for trading book positions in accordance with the approach specified in Article 23 shall calculate the own funds requirement of the exposure for the purposes of the concentration risk of those positions in accordance with the provisions referred to in point (a) of Article 22.
+
+Table 6
+
+Column 1:
+Exposure value excess as a percentage of own funds
+Column 2:
+Factors
+Up to 40 %
+200 %
+From 40 % to 60 %
+300 %
+From 60 % to 80 %
+400 %
+From 80 % to 100 %
+500 %
+From 100 % to 250 %
+600 %
+Over 250 %
+900 %

@@ -1,0 +1,13 @@
+Article 20
+Post-trade disclosure by investment firms, including systematic internalisers, in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments
+1.   Investment firms which, either on own account or on behalf of clients, conclude transactions in shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue, shall make public the volume and price of those transactions and the time at which they were concluded. That information shall be made public through an APA.
+2.   The information which is made public in accordance with paragraph 1 of this Article and the time-limits within which it is published shall comply with the requirements adopted pursuant to Article 6, including the regulatory technical standards adopted in accordance with Article 7(2)(a). Where the measures adopted pursuant to Article 7 provide for deferred publication for certain categories of transaction in shares, depositary receipts, ETFs, certificates and other similar financial instruments traded on a trading venue, that possibility shall also apply to those transactions when undertaken outside trading venues.
+3.   ESMA shall develop draft regulatory technical standards to specify the following:
+(a)
+identifiers for the different types of transactions published under this Article, distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;
+(b)
+the application of the obligation under paragraph 1 to transactions involving the use of those financial instruments for collateral, lending or other purposes where the exchange of financial instruments is determined by factors other than the current market valuation of the financial instrument;
+(c)
+the party to a transaction that has to make the transaction public in accordance with paragraph 1 if both parties to the transaction are investment firms.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

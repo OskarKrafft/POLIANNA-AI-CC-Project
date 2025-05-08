@@ -1,0 +1,17 @@
+Article 11
+Requirements and procedure for group resolution plans
+1.   Member States shall ensure that ultimate parent undertakings submit to the group-level resolution authority the information that may be required under Article 12. That information shall concern the ultimate parent undertaking and to the extent required each of the group entities including the entities referred to in Article 1(1), points (b) to (e).
+The group-level resolution authority shall, provided that the confidentiality requirements laid down in this Directive are complied with, transmit the relevant information provided in accordance with this paragraph to:
+(a)
+EIOPA;
+(b)
+the resolution authorities which are members of the resolution college;
+(c)
+the relevant supervisory authorities which are members of or participate in the college of supervisors as referred to in Article 248(3) of Directive 2009/138/EC.
+2.   Member States shall ensure that, in resolution colleges, group-level resolution authorities, acting jointly with the resolution authorities referred to in paragraph 1, second subparagraph, point (b), and after having consulted the supervisory authorities concerned which are members of or participate in the college of supervisors as referred to in Article 248(3) of Directive 2009/138/EC, draw up and maintain group resolution plans. Group-level resolution authorities may, at their discretion, and subject to them meeting the confidentiality requirements laid down in Article 80 of this Directive, involve in the drawing up and maintenance of group resolution plans third-country resolution authorities of jurisdictions in which the group has established subsidiary insurance or reinsurance undertakings or insurance holding companies, or significant branches as defined pursuant to Article 248(8) of Directive 2009/138/EC.
+3.   Member States shall ensure that group resolution plans are reviewed, and where appropriate updated, at least every two years, and in any case:
+(a)
+after any change to the legal or organisational structure, to the business, or to the financial position of the group including any group entity, that could have a material effect on or necessitate a change to the plan;
+(b)
+when a material change to its financial position that could have a material effect on the effectiveness of the plan or otherwise necessitate a revision of the resolution plan, becomes foreseeable.
+4.   The adoption of the group resolution plan shall take the form of a joint decision, as referred to in Article 17, of the group-level resolution authority and the resolution authorities of the subsidiary insurance and reinsurance undertakings and of the entities referred to in Article 1(1), points (b) to (e).

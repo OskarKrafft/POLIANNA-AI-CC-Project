@@ -1,0 +1,134 @@
+Article 2
+Definitions
+For the purposes of this Regulation:
+1.
+‘waste’ is as defined in Article 1(1)(a) of Directive 2006/12/EC;
+2.
+‘hazardous waste’ is as defined in Article 1(4) of Council Directive 91/689/EEC of 12 December 1991 on hazardous waste (16);
+3.
+‘mixture of wastes’ means waste that results from an intentional or unintentional mixing of two or more different wastes and for which mixture no single entry exists in Annexes III, IIIB, IV and IVA. Waste shipped in a single shipment of wastes, consisting of two or more wastes, where each waste is separated, is not a mixture of wastes;
+4.
+‘disposal’ is as defined in Article 1(1)(e) of Directive 2006/12/EC;
+5.
+‘interim disposal’ means disposal operations D 13 to D 15 as defined in Annex II A to Directive 2006/12/EC;
+6.
+‘recovery’ is as defined in Article 1(1)(f) of Directive 2006/12/EC;
+7.
+‘interim recovery’ means recovery operations R 12 and R 13 as defined in Annex II B to Directive 2006/12/EC;
+8.
+‘environmentally sound management’ means taking all practicable steps to ensure that waste is managed in a manner that will protect human health and the environment against adverse effects which may result from such waste;
+9.
+‘producer’ is anyone whose activities produce waste (original producer) and/or anyone who carries out pre-processing, mixing or other operations resulting in a change in the nature or composition of this waste (new producer) (as defined in Article 1(1)(b) of Directive 2006/12/EC);
+10.
+‘holder’ is the producer of the waste or the natural or legal person who is in possession of it (and as defined in Article 1(1)(c) of Directive 2006/12/EC);
+11.
+‘collector’ is anyone carrying out waste collection as defined in Article 1(1)(g) of Directive 2006/12/EC;
+12.
+‘dealer’ is anyone who acts in the role of principal to purchase and subsequently sell waste, including such dealers who do not take physical possession of the waste, and as referred to in Article 12 of Directive 2006/12/EC;
+13.
+‘broker’ is anyone arranging the recovery or disposal of waste on behalf of others, including such brokers who do not take physical possession of the waste, as referred to in Article 12 of Directive 2006/12/EC;
+14.
+‘consignee’ means the person or undertaking under the jurisdiction of the country of destination to whom or to which the waste is shipped for recovery or disposal;
+15.
+‘notifier’ means:
+(a)
+in the case of a shipment originating from a Member State, any natural or legal person under the jurisdiction of that Member State who intends to carry out a shipment of waste or intends to have a shipment of waste carried out and to whom the duty to notify is assigned. The notifier is one of the persons or bodies listed below, selected in accordance with the ranking established in this listing:
+(i)
+the original producer, or
+(ii)
+the licensed new producer who carries out operations prior to shipment, or
+(iii)
+a licensed collector who, from various small quantities of the same type of waste collected from a variety of sources, has assembled the shipment which is to start from a single notified location, or
+(iv)
+a registered dealer who has been authorised in writing by the original producer, new producer or licensed collector specified in (i), (ii) and (iii) to act on his/her behalf as notifier,
+(v)
+a registered broker who has been authorised in writing by the original producer, new producer or licensed collector specified in (i), (ii) and (iii) to act on his/her behalf as notifier,
+(vi)
+where all of the persons specified in (i), (ii), (iii), (iv) and (v) if applicable, are unknown or insolvent, the holder.
+Should a notifier specified in (iv) or (v) fail to fulfil any of the take-back obligations set out in Articles 22 to 25, the original producer, new producer or licensed collector specified in (i), (ii) or (iii) respectively who authorised that dealer or broker to act on his/her behalf shall be deemed to be the notifier for the purposes of the said take-back obligations. In circumstances of illegal shipment notified by a dealer or broker specified in (iv) or (v), the person specified in (i), (ii) or (iii) who authorised that dealer or broker to act on his/her behalf shall be deemed to be the notifier for the purposes of this Regulation;
+(b)
+in the case of import into, or transit through, the Community of waste that does not originate in a Member State, any of the following natural or legal persons under the jurisdiction of the country of destination who intends to carry out a shipment of waste or intends to have, or who has had, a shipment of waste carried out, being either:
+(i)
+the person designated by the law of the country of destination; or, in the absence of any such designation,
+(ii)
+the holder at the time the export took place;
+16.
+‘Basel Convention’ means the Basel Convention of 22 March 1989 on the control of transboundary movements of hazardous wastes and their disposal;
+17.
+‘OECD Decision’ means Decision C(2001)107/Final of the OECD Council concerning the revision of Decision C(92)39/Final on control of transboundary movements of wastes destined for recovery operations;
+18.
+‘competent authority’ means:
+(a)
+in the case of Member States, the body designated by the Member State concerned in accordance with Article 53; or
+(b)
+in the case of a non-Member State that is a Party to the Basel Convention, the body designated by that country as the competent authority for the purposes of that Convention in accordance with Article 5 thereof; or
+(c)
+in the case of any country not referred to in either (a) or (b), the body that has been designated as the competent authority by the country or region concerned or, in the absence of such designation, the regulatory authority for the country or region, as appropriate, which has jurisdiction over shipments of waste for recovery or disposal or transit, as the case may be;
+19.
+‘competent authority of dispatch’ means the competent authority for the area from which the shipment is planned to be initiated or is initiated;
+20.
+‘competent authority of destination’ means the competent authority for the area to which the shipment is planned or takes place, or in which waste is loaded prior to recovery or disposal in an area not under the national jurisdiction of any country;
+21.
+‘competent authority of transit’ means the competent authority for any country, other than that of the competent authority of dispatch or destination, through which the shipment is planned or takes place;
+22.
+‘country of dispatch’ means any country from which a shipment of waste is planned to be initiated or is initiated;
+23.
+‘country of destination’ means any country to which a shipment of waste is planned or takes place for recovery or disposal therein, or for the purpose of loading prior to recovery or disposal in an area not under the national jurisdiction of any country;
+24.
+‘country of transit’ means any country, other than the country of dispatch or destination, through which a shipment of waste is planned or takes place;
+25.
+‘area under the national jurisdiction of a country’ means any land or marine area within which a state exercises administrative and regulatory responsibility in accordance with international law as regards the protection of human health or the environment;
+26.
+‘overseas countries and territories’ means the overseas countries and territories as listed in Annex IA to Decision 2001/822/EC;
+27.
+‘customs office of export from the Community’ is the customs office as defined in Article 161(5) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (17);
+28.
+‘customs office of exit from the Community’ is the customs office as defined in Article 793(2) of Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (18);
+29.
+‘customs office of entry into the Community’ is the customs office where waste brought into the customs territory of the Community shall be conveyed to in accordance with Article 38(1) of Regulation (EEC) No 2913/92;
+30.
+‘import’ means any entry of waste into the Community but excluding transit through the Community;
+31.
+‘export’ means the action of waste leaving the Community but excluding transit through the Community;
+32.
+‘transit’ means a shipment of waste or a planned shipment of waste through one or more countries other than the country of dispatch or destination;
+33.
+‘transport’ means the carriage of waste by road, rail, air, sea or inland waterways;
+34.
+‘shipment’ means the transport of waste destined for recovery or disposal which is planned or takes place:
+(a)
+between a country and another country; or
+(b)
+between a country and overseas countries and territories or other areas, under that country's protection; or
+(c)
+between a country and any land area which is not part of any country under international law; or
+(d)
+between a country and the Antarctic; or
+(e)
+from one country through any of the areas referred to above; or
+(f)
+within a country through any of the areas referred to above and which originates in and ends in the same country; or
+(g)
+from a geographic area not under the jurisdiction of any country, to a country;
+35.
+‘illegal shipment’ means any shipment of waste effected:
+(a)
+without notification to all competent authorities concerned pursuant to this Regulation; or
+(b)
+without the consent of the competent authorities concerned pursuant to this Regulation; or
+(c)
+with consent obtained from the competent authorities concerned through falsification, misrepresentation or fraud; or
+(d)
+in a way which is not specified materially in the notification or movement documents; or
+(e)
+in a way which results in recovery or disposal in contravention of Community or international rules; or
+(f)
+contrary to Articles 34, 36, 39, 40, 41 and 43; or
+(g)
+which, in relation to shipments of waste as referred to in Article 3(2) and (4), has resulted from:
+(i)
+the waste being discovered not to be listed in Annexes III, IIIA or IIIB, or
+(ii)
+non-compliance with Article 3(4),
+(iii)
+the shipment being effected in a way which is not specified materially in the document set out in Annex VII.

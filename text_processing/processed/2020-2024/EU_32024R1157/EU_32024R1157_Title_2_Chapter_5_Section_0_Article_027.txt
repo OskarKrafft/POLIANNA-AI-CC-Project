@@ -1,0 +1,56 @@
+Article 27
+Electronic submission and exchange of information
+1.   The following information and documents shall be submitted and exchanged by electronic means, via the hub of the central system referred to in paragraph 3 or via other available interoperable systems or software in accordance with paragraph 4:
+(a)
+for waste as referred to in Article 4(1), (2) and (3):
+(i)
+notification of a shipment pursuant to Articles 5 and 13;
+(ii)
+requests for information and documentation pursuant to Articles 5 and 8;
+(iii)
+information and documentation pursuant to Articles 5 and 8;
+(iv)
+information and decisions pursuant to Article 8;
+(v)
+decisions regarding a notified shipment and, if applicable a withdrawal of a consent pursuant to Article 9;
+(vi)
+information and conditions for a shipment pursuant to Article 10;
+(vii)
+information pursuant to Article 11;
+(viii)
+information and objections to a shipment pursuant to Article 12;
+(ix)
+information on decisions to issue pre-consents to specific recovery facilities pursuant to Article 14(8) and (10);
+(x)
+information and decisions pursuant to Article 14(12) and (15);
+(xi)
+confirmations of receipt of waste pursuant to Articles 15 and 16;
+(xii)
+certificates for recovery or disposal pursuant to Articles 15 and 16;
+(xiii)
+prior information regarding the start of a shipment pursuant to Article 16;
+(xiv)
+the documents to be made available in accordance with Article 16;
+(xv)
+information pursuant to Article 17;
+(b)
+for waste referred to in Article 4(4) and (5), information and documentation, confirmation and certificates pursuant to Article 18;
+(c)
+information and documents related to the procedure of prior written notification and consent and to the general information requirements pursuant to Articles 34 and 35 and Titles IV, V and VI, where applicable.
+2.   In order to keep the list of information and documentation, required under paragraph 1, up to date with any changes to the systems for the exchange and submission by electronic means, the Commission is empowered to adopt delegated acts in accordance with Article 80 to amend paragraph 1 in order to amend the list of information and documentation.
+3.   The Commission shall operate a central system that allows for the electronic submission and exchange of information and documents referred to in paragraph 1. That central system shall provide a hub to be used for the exchange in real time of the information and documents referred to in paragraph 1 between available systems or software for electronic data interchange.
+The hub referred to in the first subparagraph shall also be used for the exchange in real time of information and documents as referred to in paragraph 1 for shipments within the Union with transit via third countries, export from the Union, import into the Union and transit through the Union, where the competent authorities, customs offices of export, exit and entry, authorities involved in inspections and economic operators in third countries connect with that hub via an available system or software, in which case paragraph 4 shall apply mutatis mutandis, or via the website referred to in the third subparagraph of this paragraph.
+That central system shall also provide a website for preparing and processing the information and documents referred to in paragraph 1 for shipments within the Union, for shipments within the Union with transit via third countries, exporting from the Union, importing into the Union and transiting through the Union. Such website may be used by the competent authorities, authorities involved in inspections and economic operators in the Member States and in third countries that do not use systems or software for electronic data interchange, to submit and exchange directly, by electronic means, the information and documents referred to in paragraph 1.
+Software referred to in the first, second and third subparagraphs shall be interoperable with the central system referred to in paragraph 3, exchange information and documents via that central system in real time and be operated in accordance with the requirements and rules laid down in the implementing acts adopted by the Commission pursuant to paragraph 5.
+The central system shall facilitate the keeping of documents in accordance with Article 20.
+That central system shall also provide for its interoperability with the environment for electronic freight transport information established under Regulation (EU) 2020/1056.
+Within four years of the adoption of the implementing act referred to in paragraph 5, the Commission shall ensure the interconnection of that central system with the European Union Single Window Environment for Customs through the European Union Customs Single Window — Certificate Exchange System established by Regulation (EU) 2022/2399.
+4.   Member States may operate their own available systems or software allowing for the preparation and processing of the information and documents referred to in paragraph 1 by competent authorities, authorities involved in inspections and, where appropriate, economic operators in the Member States and for the electronic submission and exchange of information and documents referred to in paragraph 1. The Member States shall ensure that those systems and software are interoperable with the central system referred to in paragraph 3, are operated in accordance with the requirements and rules laid down in the implementing acts adopted by the Commission pursuant to paragraph 5 and allow for the exchange of information and documents via the hub of the central system in real time.
+The systems referred to in the first subparagraph shall facilitate the keeping of documents in accordance with Article 20.
+5.   At the latest by 21 May 2025, the Commission shall adopt implementing acts to establish:
+(a)
+the requirements necessary for the interoperability between the central system referred to in paragraph 3 and other systems or software referred to in paragraph 4, including a protocol for data exchange and a data model for the exchange of data referred to in Annexes IA, IB and VII, as well as the certificate referred to in Article 15;
+(b)
+any other technical and organisational requirements, including on security aspects, data governance and data confidentiality, which are necessary for the practical implementation of the electronic submission and exchange of information and documents referred to in paragraph 1, taking into account Regulation (EU) 2016/679 of the European Parliament and of the Council (42).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 81(2).
+6.   The functionality of the central system shall be reviewed by the Commission every two years. The findings of those reviews shall be communicated to the European Parliament and the Member States. The review shall take into account feedback from users, such as competent authorities and notifiers.

@@ -1,0 +1,24 @@
+Article 16
+Amendment to Regulation (EC) No 450/2003
+Regulation (EC) No 450/2003 is hereby amended as follows:
+(1)
+‘NACE Rev. 1’ shall be replaced by ‘NACE Rev. 2’ throughout the text.
+(2)
+Article 3 shall be replaced by the following:
+‘Article 3
+Scope
+1.   This Regulation shall apply to all activities defined in sections B to S of NACE Rev. 2.
+2.   The inclusion of economic activities defined by NACE Rev. 2 sections O to S in the scope of this Regulation shall be determined in accordance with the procedure referred to in Article 12(2), taking into account the feasibility studies defined in Article 10.’.
+(3)
+Article 5 shall be replaced by the following:
+‘Article 5
+Frequency and back data
+1.   The data for the LCI shall first be compiled according to NACE Rev. 2 for the first quarter of 2009, and thereafter for each quarter (ending on 31 March, 30 June, 30 September and 31 December of each year).
+2.   Back data from the first quarter of 2000 to the fourth quarter of 2008 shall be made available by the Member States. The back data shall be provided for each of the NACE Rev. 2 sections B to N and for the labour cost items mentioned in Article 4(1).’.
+(4)
+Article 6(3) shall be replaced by the following:
+‘3.   The back data referred to in Article 5 shall be transmitted to the Commission (Eurostat) at the same time as the LCI for the first quarter of 2009.’.
+(5)
+In Article 11 point (c) shall be replaced by the following:
+‘(c)
+inclusion of NACE Rev. 2 sections O to S (Article 3);’.

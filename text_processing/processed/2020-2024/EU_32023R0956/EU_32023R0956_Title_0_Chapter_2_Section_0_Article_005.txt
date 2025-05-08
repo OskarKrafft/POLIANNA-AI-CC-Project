@@ -1,0 +1,27 @@
+Article 5
+Application for authorisation
+1.   Any importer established in a Member State shall, prior to importing goods into the customs territory of the Union, apply for the status of authorised CBAM declarant (‘application for an authorisation’). Where such an importer appoints an indirect customs representative in accordance with Article 18 of Regulation (EU) No 952/2013 and the indirect customs representative agrees to act as an authorised CBAM declarant, the indirect customs representative shall submit the application for an authorisation.
+2.   Where an importer is not established in a Member State, the indirect customs representative shall submit the application for an authorisation.
+3.   The application for an authorisation shall be submitted via the CBAM registry established in accordance with Article 14.
+4.   By way of derogation from paragraph 1, where transmission capacity for the import of electricity is allocated through explicit capacity allocation, the person to whom capacity has been allocated for import and who nominates that capacity for import shall, for the purposes of this Regulation, be regarded as an authorised CBAM declarant in the Member State where the person has declared the importation of electricity in the customs declaration. Imports are to be measured per border for time periods no longer than one hour and no deduction of export or transit in the same hour shall be possible.
+The competent authority of the Member State in which the customs declaration has been lodged shall register the person in the CBAM registry.
+5.   The application for an authorisation shall include the following information about the applicant:
+(a)
+name, address and contact information;
+(b)
+EORI number;
+(c)
+main economic activity carried out in the Union;
+(d)
+certification by the tax authority in the Member State where the applicant is established that the applicant is not subject to an outstanding recovery order for national tax debts;
+(e)
+declaration of honour that the applicant was not involved in any serious infringements or repeated infringements of customs legislation, taxation rules or market abuse rules during the five years preceding the year of the application, including that it has no record of serious criminal offences relating to its economic activity;
+(f)
+information necessary to demonstrate the applicant’s financial and operational capacity to fulfil its obligations under this Regulation and, if decided by the competent authority on the basis of a risk assessment, supporting documents confirming that information, such as the profit and loss account and the balance sheet for up to the last three financial years for which the accounts were closed;
+(g)
+estimated monetary value and volume of imports of goods into the customs territory of the Union by type of goods, for the calendar year during which the application is submitted, and for the following calendar year;
+(h)
+names and contact information of the persons on behalf of whom the applicant is acting, if applicable.
+6.   The applicant may withdraw its application at any time.
+7.   The authorised CBAM declarant shall inform without delay the competent authority, via the CBAM registry, of any changes to the information provided under paragraph 5 of this Article that have occurred after the decision granting the status of the authorised CBAM declarant has been adopted pursuant to Article 17 that may influence that decision or the content of the authorisation granted thereunder.
+8.   The Commission is empowered to adopt implementing acts on communications between the applicant, the competent authority and the Commission, on the standard format of the application for an authorisation and the procedures to submit such an application via the CBAM registry, on the procedure to be followed by the competent authority and the deadlines for processing applications for authorisation in accordance with paragraph 1 of this Article, and on the rules for identification by the competent authority of the authorised CBAM declarants for the importation of electricity. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).

@@ -1,0 +1,10 @@
+Article 90
+Financing of universal service obligations
+1.   Where, on the basis of the net cost calculation referred to in Article 89, national regulatory authorities find that a provider is subject to an unfair burden, Member States shall, upon request from the provider concerned, decide to do one or both of the following:
+(a)
+introduce a mechanism to compensate that provider for the determined net costs under transparent conditions from public funds;
+(b)
+share the net cost of universal service obligations between providers of electronic communications networks and services.
+2.   Where the net cost is shared in accordance with point (b) of paragraph 1 of this Article, Member States shall establish a sharing mechanism administered by the national regulatory authority or a body independent from the beneficiaries under the supervision of the national regulatory authority. Only the net cost, as determined in accordance with Article 89, of the obligations laid down in Articles 84 to 87 may be financed.
+The sharing mechanism shall respect the principles of transparency, least market distortion, non-discrimination and proportionality, in accordance with the principles set out in Part B of Annex VII. Member States may choose not to require contributions from undertakings the national turnover of which is less than a set limit.
+Any charges related to the sharing of the cost of universal service obligations shall be unbundled and identified separately for each undertaking. Such charges shall not be imposed on, or collected from, undertakings that are not providing services in the territory of the Member State that has established the sharing mechanism.

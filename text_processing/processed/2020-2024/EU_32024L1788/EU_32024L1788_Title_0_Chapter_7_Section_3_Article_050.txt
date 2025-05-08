@@ -1,0 +1,22 @@
+Article 50
+Tasks of hydrogen network, storage and terminal operators
+1.   Each operator of a hydrogen network, storage or terminal shall be responsible for:
+(a)
+operating, maintaining and developing, including repurposing, under economic conditions a secure and reliable infrastructure for hydrogen transport or storage with due regard to the environment, in close cooperation with connected and neighbouring hydrogen network operators in order to optimise co-location of production and use of hydrogen and on the basis of the ten-year network development plan referred to in Article 55;
+(b)
+ensuring the long-term ability of the hydrogen system to meet reasonable demands identified for the transport and storage of hydrogen in accordance with the ten-year network development plan referred to in Article 55;
+(c)
+ensuring adequate means to meet its obligations;
+(d)
+providing to the operator of other networks or systems with which its system is interconnected sufficient information, including on hydrogen quality, to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system;
+(e)
+not discriminating between hydrogen system users or classes of infrastructure users, specifically in favour of its related undertakings;
+(f)
+providing hydrogen system users with the information they need for efficient access to the infrastructure;
+(g)
+taking all reasonable measures available to prevent and minimise hydrogen emissions in their operations and carrying out, at regular intervals, a hydrogen leak detection and repair survey of all relevant components under the operator responsibility;
+(h)
+submitting a hydrogen leak detection report and, where necessary, a repair or replacement programme to the competent authorities, making public statistical information on hydrogen leak detection and repair on an annual basis.
+2.   Hydrogen transmission network operators shall aim to ensure sufficient cross-border capacity to integrate European hydrogen infrastructure accommodating all economically reasonable and technically feasible demands for capacity identified in the ten-year network development plan referred to in Article 55 of this Directive and the Union-wide ten-year network development plan for hydrogen referred to in Article 60 of Regulation (EU) 2024/1789 and taking into account security of hydrogen supply. Upon their certification pursuant to Article 71 of this Directive and Article 14 of Regulation (EU) 2024/1789, competent authorities of Member States may decide to task one or a limited number of hydrogen transmission network operators with the responsibility for ensuring cross-border capacity.
+3.   Where appropriate for system management and end-users, the regulatory authority shall entrust hydrogen network operators with the responsibility for ensuring efficient hydrogen quality management and stable hydrogen quality in their networks in line with applicable hydrogen quality standards.
+4.   Hydrogen network operators shall be responsible for balancing in their networks as from 1 January 2033, or as from an earlier date where so provided by the regulatory authority. Rules adopted by hydrogen network operators for balancing the hydrogen network shall be objective, transparent and non-discriminatory, including rules for the charging of users of their networks for energy imbalance.

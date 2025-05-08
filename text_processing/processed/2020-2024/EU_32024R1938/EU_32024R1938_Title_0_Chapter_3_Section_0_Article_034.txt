@@ -1,0 +1,15 @@
+Article 34
+SoHO rapid alerts
+1.   SoHO competent authorities shall, upon receipt of a SAR or SAE notification or other information with implications for quality, safety or supply of SoHO in more than one Member State, inform their SoHO national authority, which shall in turn launch a SoHO rapid alert on the EU SoHO Platform.
+2.   SoHO national authorities shall launch a SoHO rapid alert in particular in the following circumstances:
+(a)
+a risk to the quality or safety of SoHO has been identified concerning SoHO that have been distributed from their Member State to at least one other Member State;
+(b)
+an outbreak of a communicable disease has occurred in their Member State and they have put in place SoHO donor deferral or testing measures to mitigate the risks of transmission by SoHO;
+(c)
+a defect or serious supply interruption has occurred concerning equipment, devices, materials or reagents that are critical for the collection, processing, storage or distribution of SoHO and that might be used in other Member States;
+(d)
+other information is available to the SoHO national authorities that could reasonably be considered useful in other Member States to reduce risks to the quality or safety of SoHO and where the launch of a SoHO rapid alert is proportionate and necessary.
+3.   The ECDC, with the support of its SoHO expert network, may also launch a SoHO rapid alert on the EU SoHO Platform when surveillance of communicable diseases indicates a new risk to the safety of SoHO. The ECDC may indicate in such a SoHO rapid alert that it has provided guidelines on the mitigation of risks associated with communicable disease outbreaks, in particular concerning the eligibility and testing of SoHO donors.
+4.   SoHO national authorities that receive a SoHO rapid alert shall communicate relevant information to SoHO competent authorities in their Member State and to the relevant SoHO entities without undue delay with a view to ensuring that risk mitigating actions can be taken promptly and that relevant information available among professionals in the SoHO sector can be shared with the SoHO competent authorities. SoHO national authorities may also supplement the information provided in the SoHO rapid alert with further information such as details of relevant risk mitigating actions taken in their Member State.
+5.   SoHO national authorities and the ECDC shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d), when launching and handling a SoHO rapid alert.

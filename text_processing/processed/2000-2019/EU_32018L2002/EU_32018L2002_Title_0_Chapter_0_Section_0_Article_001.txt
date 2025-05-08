@@ -1,0 +1,225 @@
+Article 1
+Directive 2012/27/EU is amended as follows:
+(1)
+in Article 1, paragraph 1 is replaced by the following:
+‘1.   This Directive establishes a common framework of measures to promote energy efficiency within the Union in order to ensure that the Union's 2020 headline targets on energy efficiency of 20 % and its 2030 headline targets on energy efficiency of at least 32,5 % are met and paves the way for further energy efficiency improvements beyond those dates.
+This Directive lays down rules designed to remove barriers in the energy market and overcome market failures that impede efficiency in the supply and use of energy, and provides for the establishment of indicative national energy efficiency targets and contributions for 2020 and 2030.
+This Directive contributes to the implementation of the energy efficiency first principle.’;
+(2)
+in Article 3, the following paragraphs are added:
+‘4.   By 31 October 2022, the Commission shall assess whether the Union has achieved its 2020 headline targets on energy efficiency.
+5.   Each Member State shall set indicative national energy efficiency contributions towards the Union's 2030 targets set in Article 1(1) of this Directive in accordance with Articles 4 and 6 of Regulation (EU) 2018/1999 (*1). When setting those contributions, Member States shall take into account that the Union's 2030 energy consumption has to be no more than 1 273 Mtoe of primary energy and/or no more than 956 Mtoe of final energy. Member States shall notify those contributions to the Commission as part of their integrated national energy and climate plans as referred to in, and in accordance with, Articles 3 and 7 to 12 of Regulation (EU) 2018/1999.
+6.   The Commission shall assess the Union's 2030 headline targets on energy efficiency set in Article 1(1) with a view to submitting a legislative proposal by 2023 to revise those targets upwards in the event of substantial cost reductions resulting from economic or technological developments, or where needed to meet the Union's international commitments for decarbonisation.
+
+(*1)  Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).’;"
+                        
+(3)
+Article 7 is replaced by the following:
+‘Article 7
+Energy savings obligation
+1.   Member States shall achieve cumulative end-use energy savings at least equivalent to:
+(a)
+new savings each year from 1 January 2014 to 31 December 2020 of 1,5 % of annual energy sales to final customers by volume, averaged over the most recent three-year period prior to 1 January 2013. Sales of energy, by volume, used in transport may be excluded, in whole or in part, from that calculation;
+(b)
+new savings each year from 1 January 2021 to 31 December 2030 of 0,8 % of annual final energy consumption, averaged over the most recent three-year period prior to 1 January 2019. By way of derogation from that requirement, Cyprus and Malta shall achieve new savings each year from 1 January 2021 to 31 December 2030 equivalent to 0,24 % of annual final energy consumption, averaged over the most recent three-year period prior to 1 January 2019.
+Member States may count energy savings that stem from policy measures, whether introduced by 31 December 2020 or after that date, provided that those measures result in new individual actions that are carried out after 31 December 2020.
+Member States shall continue to achieve new annual savings in accordance with point (b) of the first subparagraph for ten-year periods after 2030, unless reviews by the Commission by 2027 and every 10 years thereafter conclude that this is not necessary to achieve the Union's long-term energy and climate targets for 2050.
+Member States shall decide how to phase the calculated quantity of new savings over each period referred to in points (a) and (b) of the first subparagraph, provided that the required total cumulative end-use energy savings have been achieved by the end of each obligation period.
+2.   Provided that Member States achieve at least their cumulative end-use energy savings obligation referred to in point (b) of the first subparagraph of paragraph 1, they may calculate the required amount of energy savings by one or more of the following means:
+(a)
+applying an annual savings rate on energy sales to final customers or on final energy consumption, averaged over the most recent three-year period prior to 1 January 2019;
+(b)
+excluding, in whole or in part, energy used in transport from the calculation baseline;
+(c)
+making use of any of the options set out in paragraph 4.
+3.   Where Member States make use of the possibilities provided for in point (a), (b) or (c) of paragraph 2, they shall establish:
+(a)
+their own annual savings rate that will be applied in the calculation of their cumulative end-use energy savings, which shall ensure that the final amount of their net energy savings is no lower than those required under point (b) of the first subparagraph of paragraph 1; and
+(b)
+their own calculation baseline, which may exclude, in whole or in part, energy used in transport.
+4.   Subject to paragraph 5, each Member State may:
+(a)
+carry out the calculation required under point (a) of the first subparagraph of paragraph 1 using values of 1 % in 2014 and 2015; 1,25 % in 2016 and 2017; and 1,5 % in 2018, 2019 and 2020;
+(b)
+exclude from the calculation all or part of the sales of energy used, by volume, with respect to the obligation period referred to in point (a) of the first subparagraph of paragraph 1, or final energy consumed, with respect to the obligation period referred to in point (b) of that subparagraph, by industrial activities listed in Annex I to Directive 2003/87/EC;
+(c)
+count towards the amount of required energy savings, energy savings achieved in the energy transformation, distribution and transmission sectors, including efficient district heating and cooling infrastructure, as a result of implementing the requirements set out in Article 14(4), point (b) of Article 14(5), and Article 15(1) to (6) and (9). Member States shall inform the Commission about their intended policy measures under this point for the period from 1 January 2021 to 31 December 2030 as part of their integrated national energy and climate plans. The impact of those measures shall be calculated in accordance with Annex V and included in those plans;
+(d)
+count towards the amount of required energy savings, energy savings resulting from individual actions newly implemented since 31 December 2008 that continue to have an impact in 2020 with respect to the obligation period referred to in point (a) of the first subparagraph of paragraph 1 and beyond 2020 with respect to the period referred to in point (b) of the first subparagraph of paragraph 1, and which can be measured and verified;
+(e)
+count towards the amount of required energy savings, energy savings that stem from policy measures, provided that it can be demonstrated that those measures result in individual actions carried out from 1 January 2018 to 31 December 2020 which deliver savings after 31 December 2020;
+(f)
+exclude from the calculation of the amount of required energy savings, 30 % of the verifiable amount of energy generated on or in buildings for own use as a result of policy measures promoting new installation of renewable energy technologies;
+(g)
+count towards the amount of required energy savings, energy savings that exceed the energy savings required for the obligation period from 1 January 2014 to 31 December 2020, provided that those savings result from individual actions carried out under policy measures referred to in Articles 7a and 7b, notified by Member States in their National Energy Efficiency Action Plans and reported in their progress reports in accordance with Article 24.
+5.   Member States shall apply and calculate the effect of the options chosen under paragraph 4 for the periods referred to in points (a) and (b) of the first subparagraph of paragraph 1 separately:
+(a)
+for the calculation of the amount of energy savings required for the obligation period referred to in point (a) of the first subparagraph of paragraph 1, Member States may make use of points (a) to (d) of paragraph 4. All the options chosen under paragraph 4 taken together shall amount to no more than 25 % of the amount of energy savings referred to in point (a) of the first subparagraph of paragraph 1;
+(b)
+for the calculation of the amount of energy savings required for the obligation period referred to in point (b) of the first subparagraph of paragraph 1, Member States may make use of points (b) to (g) of paragraph 4, provided individual actions referred to in point (d) of paragraph 4 continue to have a verifiable and measurable impact after 31 December 2020. All the options chosen under paragraph 4 taken together shall not lead to a reduction of more than 35 % of the amount of energy savings calculated in accordance with paragraphs 2 and 3.
+Regardless of whether Member States exclude, in whole or in part, energy used in transport from their calculation baseline or make use of any of the options listed in paragraph 4, they shall ensure that the calculated net amount of new savings to be achieved in final energy consumption during the obligation period from 1 January 2021 to 31 December 2030 is not lower than the amount resulting from applying the annual savings rate referred to in point (b) of the first subparagraph of paragraph 1.
+6.   Member States shall describe in their integrated national energy and climate plans in accordance with Annex III to Regulation (EU) 2018/1999, the calculation of the amount of energy savings to be achieved over the period from 1 January 2021 to 31 December 2030 referred to in point (b) of the first subparagraph of paragraph 1 of this Article and shall, if relevant, explain how the annual savings rate and the calculation baseline were established, and how and to what extent the options referred to in paragraph 4 of this Article were applied.
+7.   Energy savings achieved after 31 December 2020 shall not count towards the amount of required energy savings for the period from 1 January 2014 to 31 December 2020.
+8.   By way of derogation from paragraph 1 of this Article, Member States that allow obligated parties to use the option referred to in point (b) of Article 7a(6) may, for the purpose of point (a) of the first subparagraph of paragraph 1 of this Article, count energy savings obtained in any given year after 2010 and before the obligation period referred to in point (a) of the first subparagraph of paragraph 1 of this Article as if those energy savings had instead been obtained after 31 December 2013 and before 1 January 2021, provided that all of the following circumstances apply:
+(a)
+the energy efficiency obligation scheme was in force at any point between 31 December 2009 and 31 December 2014 and was included in the Member State's first National Energy Efficiency Action Plan submitted under Article 24(2);
+(b)
+the savings were generated under the obligation scheme;
+(c)
+the savings are calculated in accordance with Annex V;
+(d)
+the years for which the savings are counted as having been obtained have been reported in the National Energy Efficiency Action Plans in accordance with Article 24(2).
+9.   Member States shall ensure that savings resulting from policy measures referred to in Articles 7a and 7b and Article 20(6) are calculated in accordance with Annex V.
+10.   Member States shall achieve the amount of energy savings required under paragraph 1 of this Article either by establishing an energy efficiency obligation scheme referred to in Article 7a or by adopting alternative policy measures referred to in Article 7b. Member States may combine an energy efficiency obligation scheme with alternative policy measures.
+11.   In designing policy measures to fulfil their obligations to achieve energy savings, Member States shall take into account the need to alleviate energy poverty in accordance with criteria established by them, taking into consideration their available practices in the field, by requiring, to the extent appropriate, a share of energy efficiency measures under their national energy efficiency obligation schemes, alternative policy measures, or programmes or measures financed under an Energy Efficiency National Fund, to be implemented as a priority among vulnerable households, including those affected by energy poverty and, where appropriate, in social housing.
+Member States shall include information about the outcome of measures to alleviate energy poverty in the context of this Directive in the integrated national energy and climate progress reports in accordance with Regulation (EU) 2018/1999.
+12.   Member States shall demonstrate that where there is an overlap in the impact of policy measures or individual actions, there is no double counting of energy savings.’;
+(4)
+the following Articles are inserted:
+‘Article 7a
+Energy efficiency obligation schemes
+1.   Where Member States decide to fulfil their obligations to achieve the amount of savings required under Article 7(1) by way of an energy efficiency obligation scheme, they shall ensure that obligated parties as referred to in paragraph 2 of this Article operating in each Member State's territory achieve, without prejudice to Article 7(4) and (5), their cumulative end-use energy savings requirement as set out in Article 7(1).
+Where applicable, Member States may decide that obligated parties fulfil those savings, in whole or in part, as a contribution to the Energy Efficiency National Fund in accordance with Article 20(6).
+2.   Member States shall designate, on the basis of objective and non-discriminatory criteria, obligated parties among energy distributors, retail energy sales companies and transport fuel distributors or transport fuel retailers operating in their territory. The amount of energy savings needed to fulfil the obligation shall be achieved by the obligated parties among final customers, designated by the Member State, independently of the calculation made pursuant to Article 7(1) or, if Member States so decide, through certified savings stemming from other parties as described in point (a) of paragraph 6 of this Article.
+3.   Where retail energy sales companies are designated as obligated parties under paragraph 2, Member States shall ensure that, in fulfilling their obligation, retail energy sales companies do not create any barriers that impede consumers from switching from one supplier to another.
+4.   Member States shall express the amount of energy savings required of each obligated party in terms of either final or primary energy consumption. The method chosen to express the amount of energy savings required shall also be used to calculate the savings claimed by obligated parties. The conversion factors set out in Annex IV shall apply.
+5.   Member States shall put in place measurement, control and verification systems under which documented verification is carried out on at least a statistically significant proportion and representative sample of the energy efficiency improvement measures put in place by the obligated parties. The measurement, control and verification shall be carried out independently of the obligated parties.
+6.   Within the energy efficiency obligation scheme, Member States may do one or both of the following:
+(a)
+permit obligated parties to count towards their obligation certified energy savings achieved by energy service providers or other third parties, including when obligated parties promote measures through other State-approved bodies or through public authorities that may involve formal partnerships and may be in combination with other sources of finance. Where Member States so permit, they shall ensure that the certification of energy savings follows an approval process that is put in place in the Member States, that is clear, transparent, and open to all market participants, and that aims to minimise the costs of certification;
+(b)
+allow obligated parties to count savings obtained in a given year as if they had instead been obtained in any of the four previous or three following years as long as this is not beyond the end of the obligation periods set out in Article 7(1).
+Member States shall assess and, if appropriate, take measures to minimise the impact of the direct and indirect costs of energy efficiency obligation schemes on the competitiveness of energy-intensive industries exposed to international competition.
+7.   Member States shall, on an annual basis, publish the energy savings achieved by each obligated party, or each sub-category of obligated party, and in total under the scheme.
+Article 7b
+Alternative policy measures
+1.   Where Member States decide to fulfil their obligations to achieve the savings required under Article 7(1) by way of alternative policy measures, they shall ensure, without prejudice to Article 7(4) and (5), that the energy savings required under Article 7(1) are achieved among final customers.
+2.   For all measures other than those relating to taxation, Member States shall put in place measurement, control and verification systems under which documented verification is carried out on at least a statistically significant proportion and representative sample of the energy efficiency improvement measures put in place by the participating or entrusted parties. The measurement, control and verification shall be carried out independently of the participating or entrusted parties.’;
+(5)
+Article 9 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Metering for gas and electricity’;
+(b)
+in paragraph 1, the first subparagraph is replaced by the following;
+‘1.   Member States shall ensure that, in so far as it is technically possible, financially reasonable and proportionate in relation to the potential energy savings, for electricity and natural gas final customers are provided with competitively priced individual meters that accurately reflect their actual energy consumption and that provide information on the actual time of use.’;
+(c)
+paragraph 3 is deleted;
+(6)
+the following Articles are inserted:
+‘Article 9a
+Metering for heating, cooling and domestic hot water
+1.   Member States shall ensure that, for district heating, district cooling and domestic hot water, final customers are provided with competitively priced meters that accurately reflect their actual energy consumption.
+2.   Where heating, cooling or domestic hot water is supplied to a building from a central source that services multiple buildings or from a district heating or district cooling system, a meter shall be installed at the heat exchanger or point of delivery.
+Article 9b
+Sub-metering and cost allocation for heating, cooling and domestic hot water
+1.   In multi-apartment and multi-purpose buildings with a central heating or central cooling source or supplied from a district heating or district cooling system, individual meters shall be installed to measure the consumption of heating, cooling or domestic hot water for each building unit, where technically feasible and cost effective in terms of being proportionate in relation to the potential energy savings.
+Where the use of individual meters is not technically feasible or where it is not cost-efficient to measure heat consumption in each building unit, individual heat cost allocators shall be used to measure heat consumption at each radiator unless it is shown by the Member State in question that the installation of such heat cost allocators would not be cost-efficient. In those cases, alternative cost-efficient methods of heat consumption measurement may be considered. The general criteria, methodologies and/or procedures to determine technical non-feasibility and non-cost effectiveness shall be clearly set out and published by each Member State.
+2.   In new multi-apartment buildings and in residential parts of new multi-purpose buildings that are equipped with a central heating source for domestic hot water or are supplied from district heating systems, individual meters shall, notwithstanding the first subparagraph of paragraph 1, be provided for domestic hot water.
+3.   Where multi-apartment or multi-purpose buildings are supplied from district heating or district cooling, or where own common heating or cooling systems for such buildings are prevalent, Member States shall ensure they have in place transparent, publicly available national rules on the allocation of the cost of heating, cooling and domestic hot water consumption in such buildings to ensure transparency and accuracy of accounting for individual consumption. Where appropriate, such rules shall include guidelines on the manner in which to allocate cost for energy that is used as follows:
+(a)
+domestic hot water;
+(b)
+heat radiated from the building installation and for the purpose of heating the common areas, where staircases and corridors are equipped with radiators;
+(c)
+for the purpose of heating or cooling apartments.
+Article 9c
+Remote reading requirement
+1.   For the purposes of Articles 9a and 9b, meters and heat cost allocators installed after 25 October 2020 shall be remotely readable devices. The conditions of technical feasibility and cost effectiveness set out in Article 9b(1) shall continue to apply.
+2.   Meters and heat cost allocators which are not remotely readable but which have already been installed shall be rendered remotely readable or replaced with remotely readable devices by 1 January 2027, save where the Member State in question shows that this is not cost-efficient.’;
+(7)
+Article 10 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Billing information for gas and electricity’;
+(b)
+in paragraph 1, the first subparagraph is replaced by the following:
+‘1.   Where final customers do not have smart meters as referred to in Directives 2009/72/EC and 2009/73/EC, Member States shall ensure, by 31 December 2014, that billing information is reliable, accurate and based on actual consumption, in accordance with point 1.1 of Annex VII, for electricity and gas, where that is technically possible and economically justified.’;
+(8)
+the following Article is inserted:
+‘Article 10a
+Billing and consumption information for heating, cooling and domestic hot water
+1.   Where meters or heat cost allocators are installed, Member States shall ensure that billing and consumption information is reliable, accurate and based on actual consumption or heat cost allocator readings, in accordance with points 1 and 2 of Annex VIIa for all final users, namely for natural or legal persons purchasing heating, cooling or domestic hot water for their own end-use, or natural or legal persons occupying an individual building or a unit in a multi-apartment or multi-purpose building supplied with heating, cooling or domestic hot water from a central source who has no direct or individual contract with the energy supplier.
+This obligation may, where a Member State so provides, save in the case of sub-metered consumption based on heat cost allocators under Article 9b, be fulfilled by a system of regular self-reading by the final customer or final user whereby they communicate readings from their meter. Only where the final customer or final user has not provided a meter reading for a given billing interval shall billing be based on estimated consumption or a flat rate.
+2.   Member States shall:
+(a)
+require that, if information on the energy billing and historical consumption or heat cost allocator readings of final users is available, it be made available upon request by the final user, to an energy service provider designated by the final user;
+(b)
+ensure that final customers are offered the option of electronic billing information and bills;
+(c)
+ensure that clear and comprehensible information is provided with the bill to all final users in accordance with point 3 of Annex VIIa; and
+(d)
+promote cybersecurity and ensure the privacy and data protection of final users in accordance with applicable Union law.
+Member States may provide that, at the request of the final customer, the provision of billing information shall not be considered to constitute a request for payment. In such cases, Member States shall ensure that flexible arrangements for actual payment are offered.
+3.   Member States shall decide who is to be responsible for providing the information referred to in paragraphs 1 and 2 to final users without a direct or individual contract with an energy supplier.’;
+(9)
+Article 11 is replaced by the following:
+‘Article 11
+Cost of access to metering and billing information for electricity and gas
+Member States shall ensure that final customers receive all their bills and billing information for energy consumption free of charge and that final customers have access to their consumption data in an appropriate way and free of charge.’;
+(10)
+the following Article is inserted:
+‘Article 11a
+Cost of access to metering and billing and consumption information for heating, cooling and domestic hot water
+1.   Member States shall ensure that final users receive all their bills and billing information for energy consumption free of charge and that final users have access to their consumption data in an appropriate way and free of charge.
+2.   Notwithstanding paragraph 1 of this Article, the distribution of costs of billing information for the individual consumption of heating, cooling and domestic hot water in multi-apartment and multi-purpose buildings pursuant to Article 9b shall be carried out on a non-profit basis. Costs resulting from the assignment of that task to a third party, such as a service provider or the local energy supplier, covering the measuring, allocation and accounting for actual individual consumption in such buildings, may be passed onto the final users to the extent that such costs are reasonable.
+3.   In order to ensure reasonable costs for sub-metering services as referred to in paragraph 2, Member States may stimulate competition in that service sector by taking appropriate measures, such as recommending or otherwise promoting the use of tendering and/or the use of interoperable devices and systems facilitating switching between service providers.’;
+(11)
+in Article 15, the following paragraph is inserted:
+‘2a.   By 31 December 2020, the Commission shall, after consulting relevant stakeholders, prepare a common methodology in order to encourage network operators to reduce losses, implement a cost-efficient and energy-efficient infrastructure investment programme and properly account for the energy efficiency and flexibility of the grid.’;
+(12)
+in Article 20, the following paragraphs are inserted:
+‘3a.   In order to mobilise private financing for energy efficiency measures and energy renovation, in accordance with Directive 2010/31/EU, the Commission shall conduct a dialogue with both public and private financial institutions in order to map out possible actions it can take.
+3b.   The actions referred to in paragraph 3a shall include the following:
+(a)
+mobilising capital investment into energy efficiency by considering the wider impacts of energy savings for financial risk management;
+(b)
+ensuring better energy and finance performance data by:
+(i)
+examining further how energy efficiency investments improve underlying asset values;
+(ii)
+supporting studies to assess the monetisation of the non-energy benefits of energy efficiency investments.
+3c.   For the purpose of mobilising private financing of energy efficiency measures and energy renovation, Member States shall, when implementing this Directive:
+(a)
+consider ways to make better use of energy audits under Article 8 to influence decision-making;
+(b)
+make optimal use of the possibilities and tools proposed in the smart finance for smart buildings initiative.
+3d.   By 1 January 2020, the Commission shall provide guidance for Member States on how to unlock private investment.’;
+(13)
+in Article 22, paragraph 2 is replaced by the following:
+‘2.   The Commission is empowered to adopt delegated acts in accordance with Article 23 to amend this Directive by adapting to technical progress the values, calculation methods, default primary energy coefficient and requirements in Annexes I to V, VII to X, and XII.’;
+(14)
+Article 23 is amended as follows:
+(a)
+paragraph 2 is replaced by the following:
+‘2.   The power to adopt delegated acts referred to in Article 22 shall be conferred on the Commission for a period of five years from 24 December 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.’;
+(b)
+the following paragraph is inserted:
+‘3a.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*2).
+
+(*2)  
+                                                   OJ L 123, 12.5.2016, p. 1.’;"
+                        
+(15)
+Article 24 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘4a.   In the context of the State of the Energy Union report, the Commission shall report on the functioning of the carbon market in accordance with Article 35(1) and point (c) of Article 35(2) of Regulation (EU) 2018/1999, taking into consideration the effects of the implementation of this Directive.’;
+(b)
+the following paragraphs are added:
+‘12.   By 31 December 2019, the Commission shall assess the effectiveness of the implementation of the definition of small and medium-sized enterprises for the purposes of Article 8(4), and shall submit a report to the European Parliament and to the Council. As soon as possible after submission of that report, the Commission shall, if appropriate, adopt legislative proposals.
+13.   By 1 January 2021, the Commission shall carry out an assessment of the potential for energy efficiency in conversion, transformation, transmission, transportation and storage of energy, and shall submit a report to the European Parliament and to the Council. That report shall, if appropriate, be accompanied by legislative proposals.
+14.   By 31 December 2021, the Commission, shall, unless changes to the retail market provisions of Directive 2009/73/EC on common rules for the internal market in gas have meanwhile been proposed, carry out an assessment, and submit a report to the European Parliament and to the Council, on the provisions related to metering, billing and consumer information for natural gas, with the aim of aligning them, where appropriate, with the relevant provisions for electricity in Directive 2009/72/EC, in order to strengthen consumer protection and enable final customers to receive more frequent, clear and up-to-date information about their natural gas consumption and to regulate their energy use. As soon as possible after submission of that report, the Commission shall, if appropriate, adopt legislative proposals.
+15.   By 28 February 2024, and every five years thereafter, the Commission shall evaluate this Directive and submit a report to the European Parliament and to the Council.
+That evaluation shall include:
+(a)
+an examination of whether to adapt, after 2030, the requirements and the alternative approach laid down in Article 5;
+(b)
+an assessment of the general effectiveness of this Directive and the need to adjust further the Union's energy efficiency policy in accordance with the objectives of the 2015 Paris Agreement on climate change following the 21st Conference of the Parties to the United Nations Framework Convention on Climate Change (*3) and in the light of economic and innovation developments.
+That report shall be accompanied, if appropriate, by proposals for further measures.
+
+(*3)  
+                                                               OJ L 282, 19.10.2016, p. 4.’;"
+                        
+(16)
+the Annexes are amended in accordance with the Annex to this Directive.

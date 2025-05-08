@@ -1,0 +1,11 @@
+Article 21
+Sharing of data obtained in the context of an exceptional need with research organisations or statistical bodies
+1.   A public sector body, the Commission, the European Central Bank or a Union body shall be entitled to share data received under this Chapter:
+(a)
+with individuals or organisations in view of carrying out scientific research or analytics compatible with the purpose for which the data was requested; or
+(b)
+with national statistical institutes and Eurostat for the production of official statistics.
+2.   Individuals or organisations receiving the data pursuant to paragraph 1 shall act on a not-for-profit basis or in the context of a public-interest mission recognised in Union or national law. They shall not include organisations upon which commercial undertakings have a significant influence which is likely to result in preferential access to the results of the research.
+3.   Individuals or organisations receiving the data pursuant to paragraph 1 of this Article shall comply with the same obligations that are applicable to the public sector bodies, the Commission, the European Central Bank or Union bodies pursuant to Article 17(3) and Article 19.
+4.   Notwithstanding Article 19(1), point (c), individuals or organisations receiving the data pursuant to paragraph 1 of this Article may keep the data received for the purpose for which the data was requested for up to six months following erasure of the data by the public sector bodies, the Commission, the European Central Bank and Union bodies.
+5.   Where a public sector body, the Commission, the European Central Bank or a Union body intends to transmit or make data available under paragraph 1 of this Article, it shall notify without undue delay the data holder from whom the data was received, stating the identity and contact details of the organisation or the individual receiving the data, the purpose of the transmission or making available of the data, the period for which the data is to be used and the technical protection and organisational measures taken, including where personal data or trade secrets are involved. Where the data holder disagrees with the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article 37 of the Member State where the data holder is established.

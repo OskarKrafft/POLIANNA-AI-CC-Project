@@ -1,0 +1,133 @@
+Article 4
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘credit institution’ means:
+(a)
+an undertaking whose business is to receive deposits or other repayable funds from the public and to grant credits for its own account; or
+(b)
+an electronic money institution within the meaning of Directive 2000/46/EC (13);
+(2)
+‘authorisation’ means an instrument issued in any form by the authorities by which the right to carry on the business of a credit institution is granted;
+(3)
+‘branch’ means a place of business which forms a legally dependent Part of a credit institution and which carries out directly all or some of the transactions inherent in the business of credit institutions;
+(4)
+‘competent authorities’ means the national authorities which are empowered by law or regulation to supervise credit institutions;
+(5)
+‘financial institution’ means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to carry on one or more of the activities listed in points 2 to 12 of Annex I;
+(6)
+‘institutions’, for the purposes of Sections 2 and 3 of Title V, Chapter 2, means institutions as defined in Article 3(1)(c) of Directive 2006/49/EC;
+(7)
+‘home Member State’ means the Member State in which a credit institution has been authorised in accordance with Articles 6 to 9 and 11 to 14;
+(8)
+‘host Member State’ means the Member State in which a credit institution has a branch or in which it provides services;
+(9)
+‘control’ means the relationship between a parent undertaking and a subsidiary, as defined in Article 1 of Directive 83/349/EEC, or a similar relationship between any natural or legal person and an undertaking;
+(10)
+‘participation’ for the purposes of points (o) and (p) of Article 57, Articles 71 to 73 and Title V, Chapter 4 means participation within the meaning of the first sentence of Article 17 of Fourth Council Directive 78/660/EEC of 25 July 1978 on the annual accounts of certain types of companies (14), or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;
+(11)
+‘qualifying holding’ means a direct or indirect holding in an undertaking which represents 10 % or more of the capital or of the voting rights or which makes it possible to exercise a significant influence over the management of that undertaking;
+(12)
+‘parent undertaking’ means:
+(a)
+a parent undertaking as defined in Articles 1 and 2 of Directive 83/349/EEC; or
+(b)
+for the purposes of Articles 71 to 73, Title V, Chapter 2, Section 5 and Chapter 4, a parent undertaking within the meaning of Article 1(1) of Directive 83/349/EEC and any undertaking which, in the opinion of the competent authorities, effectively exercises a dominant influence over another undertaking;
+(13)
+‘subsidiary’ means:
+(a)
+a subsidiary undertaking as defined in Articles 1 and 2 of Directive 83/349/EEC; or
+(b)
+for the purposes of Articles 71 to 73, Title V, Chapter 2, Section 5, and Chapter 4 a subsidiary undertaking within the meaning of Article 1(1) of Directive 83/349/EEC and any undertaking over which, in the opinion of the competent authorities, a parent undertaking effectively exercises a dominant influence.
+All subsidiaries of subsidiary undertakings shall also be considered subsidiaries of the undertaking that is their original parent;
+(14)
+‘parent credit institution in a Member State’ means a credit institution which has a credit institution or a financial institution as a subsidiary or which holds a participation in such an institution, and which is not itself a subsidiary of another credit institution authorised in the same Member State, or of a financial holding company set up in the same Member State;
+(15)
+‘parent financial holding company in a Member State’ means a financial holding company which is not itself a subsidiary of a credit institution authorised in the same Member State, or of a financial holding company set up in the same Member State;
+(16)
+‘EU parent credit institution’ means a parent credit institution in a Member State which is not a subsidiary of another credit institution authorised in any Member State, or of a financial holding company set up in any Member State;
+(17)
+‘EU parent financial holding company’ means a parent financial holding company in a Member State which is not a subsidiary of a credit institution authorised in any Member State or of another financial holding company set up in any Member State;
+(18)
+‘public sector entities’ means non-commercial administrative bodies responsible to central governments, regional governments or local authorities, or authorities that in the view of the competent authorities exercise the same responsibilities as regional and local authorities, or non‐commercial undertakings owned by central governments that have explicit guarantee arrangements, and may include self administered bodies governed by law that are under public supervision;
+(19)
+‘financial holding company’ means a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiaries being a credit institution, and which is not a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC (15);
+(20)
+‘mixed-activity holding company’ means a parent undertaking, other than a financial holding company or a credit institution or a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC, the subsidiaries of which include at least one credit institution;
+(21)
+‘ancillary services undertaking’ means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or any other similar activity which is ancillary to the principal activity of one or more credit institutions;
+(22)
+‘operational risk’ means the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events, and includes legal risk;
+(23)
+‘central banks’ include the European Central Bank unless otherwise indicated;
+(24)
+‘dilution risk’ means the risk that an amount receivable is reduced through cash or non‐cash credits to the obligor;
+(25)
+‘probability of default’ means the probability of default of a counterparty over a one year period;
+(26)
+‘loss’, for the purposes of Title V, Chapter 2, Section 3, means economic loss, including material discount effects, and material direct and indirect costs associated with collecting on the instrument;
+(27)
+‘loss given default (LGD)’ means the ratio of the loss on an exposure due to the default of a counterparty to the amount outstanding at default;
+(28)
+‘conversion factor’ means the ratio of the currently undrawn amount of a commitment that will be drawn and outstanding at default to the currently undrawn amount of the commitment, the extent of the commitment shall be determined by the advised limit, unless the unadvised limit is higher;
+(29)
+‘expected loss (EL)’, for the purposes of Title V, Chapter 2, Section 3, shall mean the ratio of the amount expected to be lost on an exposure from a potential default of a counterparty or dilution over a one year period to the amount outstanding at default;
+(30)
+‘credit risk mitigation’ means a technique used by a credit institution to reduce the credit risk associated with an exposure or exposures which the credit institution continues to hold;
+(31)
+‘funded credit protection’ means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of a credit institution derives from the right of the credit institution — in the event of the default of the counterparty or on the occurrence of other specified credit events relating to the counterparty — to liquidate, or to obtain transfer or appropriation of, or to retain certain assets or amounts, or to reduce the amount of the exposure to, or to replace it with, the amount of the difference between the amount of the exposure and the amount of a claim on the credit institution;
+(32)
+‘unfunded credit protection’ means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of a credit institution derives from the undertaking of a third party to pay an amount in the event of the default of the borrower or on the occurrence of other specified credit events;
+(33)
+‘repurchase transaction’ means any transaction governed by an agreement falling within the definition of ‘repurchase agreement’ or ‘reverse repurchase agreement’ as defined in Article 3(1)(m) of Directive 2006/49/EC;
+(34)
+‘securities or commodities lending or borrowing transaction’ means any transaction falling within the definition of ‘securities or commodities lending’ or ‘securities or commodities borrowing’ as defined in Article 3(1)(n) of Directive 2006/49/EC;
+(35)
+‘cash assimilated instrument’ means a certificate of deposit or other similar instrument issued by the lending credit institution;
+(36)
+‘securitisation’ means a transaction or scheme, whereby the credit risk associated with an exposure or pool of exposures is tranched, having the following characteristics:
+(a)
+payments in the transaction or scheme are dependent upon the performance of the exposure or pool of exposures; and
+(b)
+the subordination of tranches determines the distribution of losses during the ongoing life of the transaction or scheme;
+(37)
+‘traditional securitisation’ means a securitisation involving the economic transfer of the exposures being securitised to a securitisation special purpose entity which issues securities. This shall be accomplished by the transfer of ownership of the securitised exposures from the originator credit institution or through sub-participation. The securities issued do not represent payment obligations of the originator credit institution;
+(38)
+‘synthetic securitisation’ means a securitisation where the tranching is achieved by the use of credit derivatives or guarantees, and the pool of exposures is not removed from the balance sheet of the originator credit institution;
+(39)
+‘tranche’ means a contractually established segment of the credit risk associated with an exposure or number of exposures, where a position in the segment entails a risk of credit loss greater than or less than a position of the same amount in each other such segment, without taking account of credit protection provided by third parties directly to the holders of positions in the segment or in other segments;
+(40)
+‘securitisation position’ shall mean an exposure to a securitisation;
+(41)
+‘originator’ means either of the following:
+(a)
+an entity which, either itself or through related entities, directly or indirectly, was involved in the original agreement which created the obligations or potential obligations of the debtor or potential debtor giving rise to the exposure being securitised; or
+(b)
+an entity which purchases a third party's exposures onto its balance sheet and then securitises them;
+(42)
+‘sponsor’ means a credit institution other than an originator credit institution that establishes and manages an asset-backed commercial paper programme or other securitisation scheme that purchases exposures from third party entities;
+(43)
+‘credit enhancement’ means a contractual arrangement whereby the credit quality of a position in a securitisation is improved in relation to what it would have been if the enhancement had not been provided, including the enhancement provided by more junior tranches in the securitisation and other types of credit protection;
+(44)
+‘securitisation special purpose entity (SSPE)’ means a corporation trust or other entity, other than a credit institution, organised for carrying on a securitisation or securitisations, the activities of which are limited to those appropriate to accomplishing that objective, the structure of which is intended to isolate the obligations of the SSPE from those of the originator credit institution, and the holders of the beneficial interests in which have the right to pledge or exchange those interests without restriction;
+(45)
+‘group of connected clients’ means:
+(a)
+two or more natural or legal persons who, unless it is shown otherwise, constitute a single risk because one of them, directly or indirectly, has control over the other or others; or
+(b)
+two or more natural or legal persons between whom there is no relationship of control as set out in point (a) but who are to be regarded as constituting a single risk because they are so interconnected that, if one of them were to experience financial problems, the other or all of the others would be likely to encounter repayment difficulties;
+(46)
+‘close links’ means a situation in which two or more natural or legal persons are linked in any of the following ways:
+(a)
+participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of an undertaking;
+(b)
+control; or
+(c)
+the fact that both or all are permanently linked to one and the same third person by a control relationship;
+(47)
+‘recognised exchanges’ means exchanges which are recognised as such by the competent authorities and which meet the following conditions:
+(a)
+they function regularly;
+(b)
+they have rules, issued or approved by the appropriate authorities of the home country of the exchange, defining the conditions for the operation of the exchange, the conditions of access to the exchange as well as the conditions that shall be satisfied by a contract before it can effectively be dealt on the exchange; and
+(c)
+they have a clearing mechanism whereby contracts listed in Annex IV are subject to daily margin requirements which, in the opinion of the competent authorities, provide appropriate protection.

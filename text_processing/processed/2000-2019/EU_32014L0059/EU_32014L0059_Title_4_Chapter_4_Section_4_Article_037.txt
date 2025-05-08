@@ -1,0 +1,34 @@
+Article 37
+General principles of resolution tools
+1.   Member States shall ensure that resolution authorities have the necessary powers to apply the resolution tools to institutions and to entities referred to in point (b), (c) or (d) of Article 1(1) that meet the applicable conditions for resolution.
+2.   Where a resolution authority decides to apply a resolution tool to an institution or entity referred to in point (b), (c) or (d) of Article 1(1), and that resolution action would result in losses being borne by creditors or their claims being converted, the resolution authority shall exercise the power to write down and convert capital instruments in accordance with Article 59 immediately before or together with the application of the resolution tool.
+3.   The resolution tools referred to in paragraph 1 are the following:
+(a)
+the sale of business tool;
+(b)
+the bridge institution tool;
+(c)
+the asset separation tool;
+(d)
+the bail-in tool.
+4.   Subject to paragraph 5, resolution authorities may apply the resolution tools individually or in any combination.
+5.   Resolution authorities may apply the asset separation tool only together with another resolution tool.
+6.   Where only the resolution tools referred to in point (a) or (b) of paragraph 3 of this Article are used, and they are used to transfer only part of the assets, rights or liabilities of the institution under resolution, the residual institution or entity referred to in point (b), (c) or (d) of Article 1(1) from which the assets, rights or liabilities have been transferred, shall be wound up under normal insolvency proceedings. Such winding up shall be done within a reasonable timeframe, having regard to any need for that institution or entity referred to in point (b), (c) or (d) of Article 1(1) to provide services or support pursuant to Article 65 in order to enable the recipient to carry out the activities or services acquired by virtue of that transfer, and any other reason that the continuation of the residual institution or entity referred to in point (b), (c) or (d) of Article 1(1) is necessary to achieve the resolution objectives or comply with the principles referred to in Article 34.
+7.   The resolution authority and any financing arrangement acting pursuant to Article 101 may recover any reasonable expenses properly incurred in connection with the use of the resolution tools or powers or government financial stabilisation tools in one or more of the following ways:
+(a)
+as a deduction from any consideration paid by a recipient to the institution under resolution or, as the case may be, to the owners of the shares or other instruments of ownership;
+(b)
+from the institution under resolution, as a preferred creditor; or
+(c)
+from any proceeds generated as a result of the termination of the operation of the bridge institution or the asset management vehicle, as a preferred creditor.
+8.   Member States shall ensure that rules under national insolvency law relating to the voidability or unenforceability of legal acts detrimental to creditors do not apply to transfers of assets, rights or liabilities from an institution under resolution to another entity by virtue of the application of a resolution tool or exercise of a resolution power, or use of a government financial stabilisation tool.
+9.   Member States may confer upon resolution authorities additional tools and powers exercisable where an institution or entity referred to in point (b), (c) or (d) of Article 1(1) meets the conditions for resolution, provided that:
+(a)
+when applied to a cross-border group, those additional powers do not pose obstacles to effective group resolution; and
+(b)
+they are consistent with the resolution objectives and the general principles governing resolution referred to in Articles 31 and 34.
+10.   In the very extraordinary situation of a systemic crisis, the resolution authority may seek funding from alternative financing sources through the use of government stabilisation tools provided for in Articles 56 to 58 when the following conditions are met:
+(a)
+a contribution to loss absorption and recapitalisation equal to an amount not less than 8 % of total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 36, has been made by the shareholders and the holders of other instruments of ownership, the holders of relevant capital instruments and other eligible liabilities through write down, conversion or otherwise;
+(b)
+it shall be conditional on prior and final approval under the Union State aid framework.

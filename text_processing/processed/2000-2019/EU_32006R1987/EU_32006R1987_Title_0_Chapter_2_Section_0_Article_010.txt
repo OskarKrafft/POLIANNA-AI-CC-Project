@@ -1,0 +1,26 @@
+Article 10
+Security – Member States
+1.   Each Member State shall, in relation to its N.SIS II, adopt the necessary measures, including a security plan, in order to:
+(a)
+physically protect data, including by making contingency plans for the protection of critical infrastructure;
+(b)
+deny unauthorised persons access to data-processing facilities used for processing personal data (facilities access control);
+(c)
+prevent the unauthorised reading, copying, modification or removal of data media (data media control);
+(d)
+prevent the unauthorised input of data and the unauthorised inspection, modification or deletion of stored personal data (storage control);
+(e)
+prevent the use of automated data-processing systems by unauthorised persons using data communication equipment (user control);
+(f)
+ensure that persons authorised to use an automated data-processing system have access only to the data covered by their access authorisation, by means of individual and unique user identities and confidential access modes only (data access control);
+(g)
+ensure that all authorities with a right of access to SIS II or to the data processing facilities create profiles describing the functions and responsibilities of persons who are authorised to access, enter, update, delete and search the data and make these profiles available to the national supervisory authorities referred to in Article 44(1) without delay upon their request (personnel profiles);
+(h)
+ensure that it is possible to verify and establish to which bodies personal data may be transmitted using data communication equipment (communication control);
+(i)
+ensure that it is subsequently possible to verify and establish which personal data have been input into automated data-processing systems, when, by whom and for what purpose the data were input (input control);
+(j)
+prevent the unauthorised reading, copying, modification or deletion of personal data during transfers of personal data or during transportation of data media, in particular by means of appropriate encryption techniques (transport control);
+(k)
+monitor the effectiveness of the security measures referred to in this paragraph and take the necessary organisational measures related to internal monitoring to ensure compliance with this Regulation (self-auditing).
+2.   Member States shall take measures equivalent to those referred to in paragraph 1 as regards security in respect of the exchange of supplementary information.

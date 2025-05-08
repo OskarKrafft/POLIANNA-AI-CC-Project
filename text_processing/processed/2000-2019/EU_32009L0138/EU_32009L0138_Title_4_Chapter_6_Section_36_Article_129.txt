@@ -1,0 +1,26 @@
+Article 129
+Calculation of the Minimum Capital Requirement
+1.   The Minimum Capital Requirement shall be calculated in accordance with the following principles:
+(a)
+it shall be calculated in a clear and simple manner, and in such a way as to ensure that the calculation can be audited;
+(b)
+it shall correspond to an amount of eligible basic own funds below which policy holders and beneficiaries are exposed to an unacceptable level of risk were insurance and reinsurance undertakings allowed to continue their operations;
+(c)
+the linear function referred to in paragraph 2 used to calculate the Minimum Capital Requirement shall be calibrated to the Value-at-Risk of the basic own funds of an insurance or reinsurance undertaking subject to a confidence level of 85 % over a one-year period;
+(d)
+it shall have an absolute floor of:
+(i)
+EUR 2 200 000 for non-life insurance undertakings, including captive insurance undertakings, save in the case where all or some of the risks included in one of the classes 10 to 15 listed in Part A of Annex 1 are covered, in which case it shall be no less than EUR 3 200 000,
+(ii)
+EUR 3 200 000 for life insurance undertakings, including captive insurance undertakings,
+(iii)
+EUR 3 200 000 for reinsurance undertakings, except in the case of captive reinsurance undertakings, in which case the Minimum Capital Requirement shall be no less than EUR 1 000 000,
+(iv)
+the sum of the amounts set out in points (i) and (ii) for insurance undertakings as referred to in Article 73(5).
+2.   Subject to paragraph 3, the Minimum Capital Requirement shall be calculated as a linear function of a set or sub-set of the following variables: the undertaking’s technical provisions, written premiums, capital-at-risk, deferred tax and administrative expenses. The variables used shall be measured net of reinsurance.
+3.   Without prejudice to paragraph 1(d), the Minimum Capital Requirement shall neither fall below 25 % nor exceed 45 % of the undertaking’s Solvency Capital Requirement, calculated in accordance with Chapter VI, Section 4, Subsections 2 or 3, and including any capital add-on imposed in accordance with Article 37.
+Member States shall allow their supervisory authorities, for a period ending no later than 31 October 2014, to require an insurance or reinsurance undertaking to apply the percentages referred to in the first subparagraph exclusively to the undertaking’s Solvency Capital Requirement calculated in accordance with Chapter VI, Section 4, Subsection 2.
+4.   Insurance and reinsurance undertakings shall calculate the Minimum Capital Requirement at least quarterly and report the results of that calculation to supervisory authorities.
+Where either of the limits referred to in paragraph 3 determines an undertaking’s Minimum Capital Requirement, the undertaking shall provide to the supervisory authority information allowing a proper understanding of the reasons therefor.
+5.   The Commission shall submit to the European Parliament and the European Insurance and Occupational Pensions Committee established by Commission Decision 2004/9/EC (35), by 31 October 2017, a report on Member States’ rules and supervisory authorities’ practices adopted pursuant to paragraphs 1 to 4.
+That report shall address, in particular, the use and level of the cap and the floor set out in paragraph 3 as well as any problems faced by supervisory authorities and by undertakings in the application of this Article.

@@ -1,0 +1,10 @@
+Article 70
+Processing of certain categories of personal data
+1.   To the extent that it is necessary for the purposes of this Directive, competent authorities may process special categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679 and personal data relating to criminal convictions and offences referred to in Article 10 of that Regulation subject to appropriate safeguards for the rights and freedoms of the data subject, in addition to the following safeguards:
+(a)
+processing of such data shall be performed only on a case-by-case basis by the staff of each competent authority that have been specifically designated and authorised to perform those tasks;
+(b)
+staff of the competent authorities shall maintain high professional standards of confidentiality and data protection, they shall be of high integrity and are appropriately skilled, including in relation to the ethical handling of big data sets;
+(c)
+technical and organisational measures shall be in place to ensure the security of the data to high technological standards.
+2.   The safeguards referred to in paragraph 1 of this Article shall also apply to the processing for the purposes of this Directive of special categories of data referred to in Article 10(1) of Regulation (EU) 2018/1725 and personal data relating to criminal convictions and offences referred to in Article 11 of that Regulation by Union institutions, bodies, offices or agencies.

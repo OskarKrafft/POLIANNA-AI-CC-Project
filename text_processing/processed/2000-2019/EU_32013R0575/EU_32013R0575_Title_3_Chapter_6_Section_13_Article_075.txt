@@ -1,0 +1,7 @@
+Article 75
+Deduction and maturity requirements for short positions
+The maturity requirements for short positions referred to in point (a) of Article 45, point (a) of Article 59 and point (a) of Article 69 shall be deemed to be met in respect of positions held where the following conditions are met:
+(a)
+the institution has the contractual right to sell on a specific future date to the counterparty providing the hedge the long position that is being hedged;
+(b)
+the counterparty providing the hedge to the institution is contractually obliged to purchase from the institution on that specific future date the long position referred to in point (a).

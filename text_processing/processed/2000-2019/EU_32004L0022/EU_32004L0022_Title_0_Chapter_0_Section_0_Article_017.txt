@@ -1,0 +1,9 @@
+Article 17
+Markings
+1. The "CE" marking referred to in Article 7 consists of the symbol "CE" according to the design laid down in paragraph I.B(d) of the Annex to Decision 93/465/EEC. The "CE" marking shall be at least 5 mm high.
+2. The supplementary metrology marking consists of the capital letter "M" and the last two digits of the year of its affixing, surrounded by a rectangle. The height of the rectangle shall be equal to the height of the "CE" marking. The supplementary metrology marking shall immediately follow the "CE" marking.
+3. The identification number of the notified body concerned referred to in Article 11, if prescribed by the conformity assessment procedure, shall follow the "CE" marking and supplementary metrology marking.
+4. When a measuring instrument consists of a set of devices, not being sub-assemblies, operating together, the markings shall be affixed on the instrument's main device.
+When a measuring instrument is too small or too sensitive to carry the "CE" marking and supplementary metrology marking, the markings shall be carried by the packaging, if any, and by the accompanying documents required by this Directive.
+5. The "CE" marking and supplementary metrology marking shall be indelible. The identification number of the notified body concerned shall be indelible or self destructive upon removal. All markings shall be clearly visible or easily accessible.
+

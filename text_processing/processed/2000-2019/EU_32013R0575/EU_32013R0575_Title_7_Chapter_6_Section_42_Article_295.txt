@@ -1,0 +1,10 @@
+Article 295
+Recognition of contractual netting as risk-reducing
+Institutions may treat as risk reducing in accordance with Article 298 only the following types of contractual netting agreements where the netting agreement has been recognised by competent authorities in accordance with Article 296 and where the institution meets the requirements set out in Article 297:
+(a)
+bilateral contracts for novation between an institution and its counterparty under which mutual claims and obligations are automatically amalgamated in such a way that the novation fixes one single net amount each time it applies so as to create a single new contract that replaces all former contracts and all obligations between parties pursuant to those contracts and is binding on the parties;
+(b)
+other bilateral agreements between an institution and its counterparty;
+(c)
+contractual cross-product netting agreements for institutions that have received the approval to use the method set out in Section 6 for transactions falling under the scope of that method. Competent authorities shall report to EBA a list of the contractual cross-product netting agreements approved.
+Netting across transactions entered into by different legal entities of a group shall not be recognised for the purposes of calculating the own funds requirements.

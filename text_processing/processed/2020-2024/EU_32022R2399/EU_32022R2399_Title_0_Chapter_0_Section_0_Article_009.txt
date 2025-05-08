@@ -1,0 +1,11 @@
+Article 9
+Personal data processing within the national single window environments for customs
+1.   The processing of personal data within the national single window environments for customs, in accordance with Regulation (EU) 2016/679, shall take place separately from the processing operations referred to in Article 6 of this Regulation.
+2.   Each Member State shall designate one or more competent authorities to act as the controller of the data processing operations taking place within its national single window environment for customs.
+3.   With the exception of breaches that do not concern data exchanged with EU CSW-CERTEX, each Member State shall notify the Commission of personal data breaches that compromise the security, confidentiality, availability or integrity of the personal data processed within its national single window environment for customs.
+
+Chapter IV
+
+
+Digital cooperation – information exchange and other procedural rules
+

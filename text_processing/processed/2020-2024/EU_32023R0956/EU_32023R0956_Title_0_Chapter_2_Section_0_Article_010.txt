@@ -1,0 +1,22 @@
+Article 10
+Registration of operators and of installations in third countries
+1.   The Commission shall, upon request by an operator of an installation located in a third country, register the information on that operator and on its installation in the CBAM registry referred to in Article 14.
+2.   The request for registration referred to in paragraph 1 shall contain the following information to be included in the CBAM registry upon registration:
+(a)
+the name, address and contact information of the operator;
+(b)
+the location of each installation including the complete address and geographical coordinates expressed in longitude and latitude, including six decimals;
+(c)
+the main economic activity of the installation.
+3.   The Commission shall notify the operator of the registration in the CBAM registry. The registration shall be valid for a period of five years from the date of its notification to the operator of the installation.
+4.   The operator shall inform the Commission without delay of any changes in the information referred to in paragraph 2 arising after the registration, and the Commission shall update the relevant information in the CBAM registry.
+5.   The operator shall:
+(a)
+determine the embedded emissions calculated in accordance with the methods set out in Annex IV, by type of goods produced at the installation referred to in paragraph 1 of this Article;
+(b)
+ensure that the embedded emissions referred to in point (a) of this paragraph are verified in accordance with the verification principles set out in Annex VI by a verifier accredited pursuant to Article 18;
+(c)
+keep a copy of the verification report as well as records of the information required to calculate the embedded emissions in goods in accordance with the requirements laid down in Annex V for a period of four years after the verification has been performed.
+6.   The records referred to in paragraph 5, point (c), of this Article shall be sufficiently detailed to enable the verification of the embedded emissions in accordance with Article 8 and Annex VI, and to enable the review, in accordance with Article 19, of the CBAM declaration made by an authorised CBAM declarant to whom the relevant information was disclosed in accordance with paragraph 7 of this Article.
+7.   An operator may disclose the information on the verification of embedded emissions referred to in paragraph 5 of this Article to an authorised CBAM declarant. The authorised CBAM declarant shall be entitled to use that disclosed information in order to fulfil the obligation referred to in Article 8.
+8.   The operator may, at any time, ask to be deregistered from the CBAM registry. The Commission shall, upon such request, and after notifying the competent authorities, deregister the operator and delete the information on that operator and on its installation from the CBAM registry, provided that such information is not necessary for the review of CBAM declarations that have been submitted. The Commission may, after having given the operator concerned the possibility to be heard and having consulted with the relevant competent authorities, also deregister the information if the Commission finds that the information on that operator is no longer accurate. The Commission shall inform the competent authorities of such deregistrations.

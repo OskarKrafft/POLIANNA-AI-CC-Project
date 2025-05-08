@@ -1,0 +1,21 @@
+Article 13
+1.   By way of derogation from Article 11(1), Member States may limit public access to spatial data sets and services through the services referred to in point (a) of Article 11(1) where such access would adversely affect international relations, public security or national defence.
+By way of derogation from Article 11(1), Member States may limit public access to spatial data sets and services through the services referred to in points (b) to (e) of Article 11(1), or to the e-commerce services referred to in Article 14(3), where such access would adversely affect any of the following:
+(a)
+the confidentiality of the proceedings of public authorities, where such confidentiality is provided for by law;
+(b)
+international relations, public security or national defence;
+(c)
+the course of justice, the ability of any person to receive a fair trial or the ability of a public authority to conduct an enquiry of a criminal or disciplinary nature;
+(d)
+the confidentiality of commercial or industrial information, where such confidentiality is provided for by national or Community law to protect a legitimate economic interest, including the public interest in maintaining statistical confidentiality and tax secrecy;
+(e)
+intellectual property rights;
+(f)
+the confidentiality of personal data and/or files relating to a natural person where that person has not consented to the disclosure of the information to the public, where such confidentiality is provided for by national or Community law;
+(g)
+the interests or protection of any person who supplied the information requested on a voluntary basis without being under, or capable of being put under, a legal obligation to do so, unless that person has consented to the release of the information concerned;
+(h)
+the protection of the environment to which such information relates, such as the location of rare species.
+2.   The grounds for limiting access, as provided for in paragraph 1, shall be interpreted in a restrictive way, taking into account for the particular case the public interest served by providing this access. In every particular case, the public interest served by disclosure shall be weighed against the interest served by limiting or conditioning the access. Member States may not, by virtue of points (a), (d), (f), (g) and (h) of paragraph 1, limit access to information on emissions into the environment.
+3.   Within this framework, and for the purposes of the application of point (f) of paragraph 1, Member States shall ensure that the requirements of Directive 95/46/EC are complied with.

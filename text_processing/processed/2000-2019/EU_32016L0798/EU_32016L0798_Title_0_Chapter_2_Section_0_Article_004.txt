@@ -1,0 +1,44 @@
+Article 4
+Role of actors in the Union rail system in developing and improving railway safety
+1.   With the aim of developing and improving railway safety, Member States, within the limits of their competences, shall:
+(a)
+ensure that railway safety is generally maintained and, where reasonably practicable, continuously improved, taking into consideration the development of Union law and international rules and of technical and scientific progress, and giving priority to the prevention of accidents;
+(b)
+ensure that all applicable legislation is enforced in an open and non-discriminatory manner, fostering the development of a single European rail transport system;
+(c)
+ensure that measures to develop and improve railway safety take account of the need for a system-based approach;
+(d)
+ensure that the responsibility for the safe operation of the Union rail system and the control of risks associated with it is laid upon the infrastructure managers and railway undertakings, each for its part of the system, obliging them to:
+(i)
+implement necessary risk control measures as referred to in point (a) of Article 6(1), where appropriate in cooperation with each other;
+(ii)
+apply Union and national rules;
+(iii)
+establish safety management systems in accordance with this Directive;
+(e)
+without prejudice to civil liability in accordance with the legal requirements of the Member States, ensure that each infrastructure manager and each railway undertaking is made responsible for its part of the system and its safe operation, including supply of materials and contracting of services vis-à-vis users, customers, the workers concerned and other actors referred to in paragraph 4;
+(f)
+develop and publish annual safety plans setting out the measures envisaged to achieve the CSTs; and
+(g)
+where appropriate, support the Agency in its work to monitor the development of railway safety at Union level.
+2.   The Agency shall ensure, within the limits of its competences, that railway safety is generally maintained and, where reasonably practicable, continuously improved, taking into consideration the development of Union law and of technical and scientific progress and giving priority to the prevention of serious accidents.
+3.   Railway undertakings and infrastructure managers shall:
+(a)
+implement the necessary risk control measures referred to in point (a) of Article 6(1), where appropriate in cooperation with each other and with other actors;
+(b)
+take account in their safety management systems of the risks associated with the activities of other actors and third parties;
+(c)
+where appropriate, contractually oblige the other actors referred to in paragraph 4 having a potential impact on the safe operation of the Union rail system to implement risk control measures; and
+(d)
+ensure that their contractors implement risk control measures through the application of the CSMs for monitoring processes set out in the CSMs on monitoring referred to in point (c) of Article 6(1), and that this is stipulated in contractual arrangements to be disclosed on request of the Agency or of the national safety authority.
+4.   Without prejudice to the responsibilities of railway undertakings and infrastructure managers referred to in paragraph 3, entities in charge of maintenance and all other actors having a potential impact on the safe operation of the Union rail system, including manufacturers, maintenance suppliers, keepers, service providers, contracting entities, carriers, consignors, consignees, loaders, unloaders, fillers and unfillers, shall:
+(a)
+implement the necessary risk control measures, where appropriate in cooperation with other actors;
+(b)
+ensure that subsystems, accessories, equipment and services supplied by them comply with specified requirements and conditions for use so that they can be safely operated by the railway undertaking and/or the infrastructure manager concerned.
+5.   Railway undertakings, infrastructure managers and any actor referred to in paragraph 4 who identifies or is informed of a safety risk relating to defects and construction non-conformities or malfunctions of technical equipment, including those of structural subsystems, shall, within the limits of their respective competence:
+(a)
+take any necessary corrective measure to tackle the safety risk identified;
+(b)
+report those risks to the relevant parties involved, in order to enable them to take any necessary further corrective action to ensure continuous achievement of the safety performance of the Union rail system. The Agency may establish a tool that facilitates this exchange of information among the relevant actors, taking into account the privacy of the users involved, the results of a cost-benefit analysis as well as the IT applications and registers already set up by the Agency.
+6.   In the case of exchange of vehicles between railway undertakings, any involved actor shall exchange all information relevant to safe operation including, but not limited to, the status and history of the vehicle concerned, elements of the maintenance files for the purpose of traceability, traceability of loading operations and consignment notes.

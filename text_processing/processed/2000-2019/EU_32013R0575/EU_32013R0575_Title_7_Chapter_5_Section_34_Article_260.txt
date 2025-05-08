@@ -1,0 +1,3 @@
+Article 260
+Maximum risk-weighted exposure amounts
+An originator institution, a sponsor institution, or other institutions which can calculate KIRB may limit the risk-weighted exposure amounts calculated in respect of its positions in a securitisation to that which would produce a own funds requirement under Article 92(3) equal to the sum of 8 % of the risk-weighted exposure amounts which would be produced if the securitised assets had not been securitised and were on the balance sheet of the institution plus the expected loss amounts of those exposures.

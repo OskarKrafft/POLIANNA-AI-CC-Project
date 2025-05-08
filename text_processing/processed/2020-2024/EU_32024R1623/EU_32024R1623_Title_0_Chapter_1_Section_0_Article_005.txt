@@ -1,0 +1,13 @@
+Article 313
+Business indicator component
+Institutions shall calculate their business indicator component in accordance with the following formula:
+
+
+
+
+
+where:
+BIC
+= the business indicator component;
+BI
+= the business indicator, expressed in billions of euro, calculated in accordance with Article 314.

@@ -1,0 +1,12 @@
+Article 81
+Periodic safety update report
+1.   Manufacturers of class C and class D devices shall prepare a periodic safety update report (‘PSUR’) for each device and where relevant for each category or group of devices summarising the results and conclusions of the analyses of the post-market surveillance data gathered as a result of the post-market surveillance plan referred to in Article 79 together with a rationale and description of any preventive and corrective actions taken. Throughout the lifetime of the device concerned, that PSUR shall set out:
+(a)
+the conclusions of the benefit-risk determination;
+(b)
+the main findings of the PMPF; and
+(c)
+the volume of sales of the device and an estimate of the size and other characteristics of the population using the device and, where practicable, the usage frequency of the device.
+Manufacturers of class C and D devices shall update the PSUR at least annually. That PSUR shall be part of the technical documentation as specified in Annexes II and III.
+2.   Manufacturers of class D devices shall submit PSUR by means of the electronic system referred to in Article 87 to the notified body involved in the conformity assessment of such devices in accordance with Article 48. The notified body shall review the report and add its evaluation to that electronic system with details of any action taken. Such PSUR and the evaluation by the notified body shall be made available to competent authorities through that electronic system.
+3.   For class C devices, manufacturers shall make PSURs available to the notified body involved in the conformity assessment and, upon request, to competent authorities.

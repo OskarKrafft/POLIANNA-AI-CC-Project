@@ -1,0 +1,17 @@
+Article 6
+Control framework requirements
+1.   Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.
+2.   The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.
+3.   The control framework shall include:
+(a)
+management of operational risk;
+(b)
+adequate and effective business continuity and disaster recovery plans;
+(c)
+contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.
+4.   An administrator shall establish measures to:
+(a)
+ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;
+(b)
+monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.
+5.   The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.

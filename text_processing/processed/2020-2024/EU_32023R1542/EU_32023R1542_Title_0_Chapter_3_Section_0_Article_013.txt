@@ -1,0 +1,23 @@
+Article 13
+Labelling and marking of batteries
+1.   From 18 August 2026 or 18 months after the date of entry into force of the implementing act referred to in paragraph 10, whichever is the latest, batteries shall bear a label containing the general information on batteries set out in Part A of Annex VI.
+2.   From 18 August 2026 or 18 months after the date of entry into force of the implementing act referred to in paragraph 10, whichever is the latest, rechargeable portable batteries, LMT batteries and SLI batteries shall bear a label containing information on their capacity.
+3.   From 18 August 2026 or 18 months after the date of entry into force of the implementing act referred to in paragraph 10, whichever is the latest, non-rechargeable portable batteries shall bear a label containing information on their minimum average duration when used in specific applications and a label indicating ‘non-rechargeable’.
+4.   From 18 August 2025, all batteries shall be marked with the symbol for separate collection of batteries (‘separate collection symbol’) as shown in Part B of Annex VI.
+The separate collection symbol shall cover at least 3 % of the area of the largest side of the battery up to a maximum size of 5 × 5 cm.
+In the case of cylindrical battery cells, the separate collection symbol shall cover at least 1,5 % of the surface area of the battery and shall have a maximum size of 5 × 5 cm.
+Where the size of the battery is such that the separate collection symbol would be smaller than 0,47 × 0,47 cm, the battery does not need to be marked with that symbol. Instead, a separate collection symbol measuring at least 1 × 1 cm shall be printed on the packaging.
+5.   All batteries containing more than 0,002 % cadmium or more than 0,004 % lead, shall be marked with the chemical symbol for the metal concerned: Cd or Pb.
+The relevant chemical symbol indicating the heavy metal content shall be printed beneath the separate collection symbol and shall cover an area of at least one-quarter the size of that symbol.
+6.   From 18 February 2027, all batteries shall be marked with a QR code as described in Part C of Annex VI. The QR code shall provide access to the following:
+(a)
+for LMT batteries, industrial batteries with a capacity greater than 2kWh and electric vehicles batteries, the battery passport in accordance with Article 77;
+(b)
+for other batteries, the applicable information referred to in paragraphs 1 to 5 of this Article, the declaration of conformity referred to in Article 18, the report referred to in Article 52(3) and the information regarding the prevention and management of waste batteries laid down in Article 74(1), points (a) to (f);
+(c)
+for SLI batteries, the amount of cobalt, lead, lithium or nickel recovered from waste and present in active materials in the battery, calculated in accordance with Article 8.
+This information shall be complete, up-to-date and accurate.
+7.   The labels and the QR code referred to in paragraphs 1 to 6 shall be printed or engraved visibly, legibly and indelibly on the battery. Where this is not possible or not warranted on account of the nature and size of the battery, the labels and the QR code shall be affixed to the packaging and to the documents accompanying the battery.
+8.   The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend this Regulation to provide for alternative types of smart labels for use instead of or in addition to the QR code, in view of technical and scientific progress.
+9.   Batteries that have been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing shall bear new labels or shall be marked with markings in accordance with this Article, and containing information on their change of status in accordance with point 4 of Annex XIII, which shall be accessible through the QR code.
+10.   The Commission shall, by 18 August 2025, adopt implementing acts to establish harmonised specifications for the labelling requirements referred to in paragraphs 1, 2 and 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).

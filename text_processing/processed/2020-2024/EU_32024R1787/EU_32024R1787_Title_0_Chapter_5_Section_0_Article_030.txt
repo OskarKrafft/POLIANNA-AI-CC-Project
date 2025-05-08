@@ -1,0 +1,40 @@
+Article 30
+Methane transparency database and methane performance profiles
+1.   By 5 February 2026, the Commission shall establish and maintain a methane transparency database, including relevant information on Member States and third countries, undertakings, importers and volumes of crude oil, natural gas and coal placed on the Union market, in particular the information submitted to it pursuant to Article 12(8), Article 18(10), Article 20(7), Article 23(2), Article 25(8), Article 27(2), Article 28(4) and Article 29(3).
+2.   In addition to the information referred to in paragraph 1, the database shall include at least the following information:
+(a)
+a list of third countries where crude oil, natural gas or coal is produced and from which it is exported to the Union;
+(b)
+for each Member State or third country referred in point (a) the following information:
+(i)
+whether it has mandatory regulatory measures in place on energy sector methane emissions, covering the measures set out in this Regulation regarding measurement, reporting, verification and mitigation of methane emissions in the energy sector, in particular restrictions on venting and flaring;
+(ii)
+whether it has signed the Paris Agreement adopted under the United Nations Framework Convention on Climate Change (UNFCCC) and whether it has joined the Global Methane Pledge;
+(iii)
+whether it submits national inventory reports in accordance with the requirements of the UNFCCC, where applicable;
+(iv)
+whether the national inventory reports submitted pursuant to the UNFCCC include tier 3 reporting of methane emissions in the energy sector, where applicable, and specifying the categories of methane emissions reported at tier 3;
+(v)
+the amount of methane emissions in the energy sector specified in the national inventory reports submitted pursuant to the UNFCCC, where applicable, and whether that data was subject to independent verification;
+(vi)
+where available, electronic links to national data sources with information on methane emissions in the energy sector;
+(c)
+for each Member State, a list of importers placing crude oil, natural gas or coal on the Union market;
+(d)
+for each third country referred to in point (a) the following information:
+(i)
+a list of producers or exporters of crude oil, natural gas or coal into the Union, as applicable, and whether they are part of any global initiatives for the reduction of methane emissions, such as the OGMP and the Zero Routine Flaring Initiative;
+(ii)
+indicative values estimating the methane emissions related to the transport of crude oil, natural gas and coal.
+The methane transparency database shall serve as an information tool that is to be publicly available free of charge.
+The methane transparency database shall indicate where the quality and reliability of the submitted information have been verified by independent third parties.
+3.   By 5 August 2026, on the basis of the information available in the methane transparency database, the Commission shall publish the methane performance profiles of Member States and of Union producers or importers, as applicable, which place crude oil, natural gas or coal on the Union market, as well as of third countries from which the Union imports crude oil, natural gas or coal and of third-country producers or exporters which supply them to the Union.
+4.   The methane performance profiles published in accordance with paragraph 3 shall be updated annually and shall contain, at least and as applicable:
+(a)
+methane emissions related to crude oil, natural gas and coal placed on the Union market and a data quality assessment for reported methane emissions, including the level of OGMP 2.0 reporting, where relevant;
+(b)
+an assessment of the efforts undertaken to monitor, report and reduce methane emissions by Union producers or importers, as well as by third-country producers or exporters, placing crude oil, natural gas or coal on the Union market, including by region where relevant;
+(c)
+analysis of super-emitting events that occurred in Member States or in third countries from which the Union imports crude oil, natural gas or coal and how those events were addressed.
+5.   The methane performance profiles published in accordance with paragraph 3 shall be made publicly available online free of charge.
+6.   This Article shall apply without prejudice to Directive (EU) 2016/943.

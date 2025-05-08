@@ -1,0 +1,25 @@
+Article 4
+Governance and conflict of interest requirements
+1.   An administrator shall have in place robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent roles and responsibilities for all persons involved in the provision of a benchmark.
+Administrators shall take adequate steps to identify and to prevent or manage conflicts of interest between themselves, including their managers, employees or any person directly or indirectly linked to them by control, and contributors or users, and to ensure that, where any judgement or discretion in the benchmark determination process is required, it is independently and honestly exercised.
+2.   The provision of a benchmark shall be operationally separated from any part of an administrator's business that may create an actual or potential conflict of interest.
+3.   Where a conflict of interest arises within an administrator due to the latter's ownership structure, controlling interests or other activities conducted by any entity owning or controlling the administrator or by an entity that is owned or controlled by the administrator or any of the administrator's affiliates, that cannot be adequately mitigated, the relevant competent authority may require the administrator to establish an independent oversight function which shall include a balanced representation of stakeholders, including users and contributors.
+4.   If such a conflict of interest cannot be adequately managed, the relevant competent authority may require the administrator to either cease the activities or relationships that create the conflict of interest or cease providing the benchmark.
+5.   An administrator shall publish or disclose all existing or potential conflicts of interest to users of a benchmark, to the relevant competent authority and, where relevant, to contributors, including conflicts of interest arising from the ownership or control of the administrator.
+6.   An administrator shall establish and operate adequate policies and procedures, as well as effective organisational arrangements, for the identification, disclosure, prevention, management and mitigation of conflicts of interest in order to protect the integrity and independence of benchmark determinations. Such policies and procedures shall be regularly reviewed and updated. The policies and procedures shall take into account and address conflicts of interest, the degree of discretion exercised in the benchmark determination process and the risks that the benchmark poses, and shall:
+(a)
+ensure the confidentiality of information contributed to or produced by the administrator, subject to the disclosure and transparency obligations under this Regulation; and
+(b)
+specifically mitigate conflicts of interest due to the administrator's ownership or control, or due to other interests in the administrator's group or as a result of other persons that may exercise influence or control over the administrator in relation to determining the benchmark.
+7.   Administrators shall ensure that their employees and any other natural persons whose services are placed at their disposal or under their control and who are directly involved in the provision of a benchmark:
+(a)
+have the necessary skills, knowledge and experience for the duties assigned to them and are subject to effective management and supervision;
+(b)
+are not subject to undue influence or conflicts of interest and that the compensation and performance evaluation of those persons do not create conflicts of interest or otherwise impinge upon the integrity of the benchmark determination process;
+(c)
+do not have any interests or business connections that compromise the activities of the administrator concerned;
+(d)
+are prohibited from contributing to a benchmark determination by way of engaging in bids, offers and trades on a personal basis or on behalf of market participants, except where such way of contribution is explicitly required as part of the benchmark methodology and is subject to specific rules therein; and
+(e)
+are subject to effective procedures to control the exchange of information with other employees involved in activities that may create a risk of conflicts of interest or with third parties, where that information may affect the benchmark.
+8.   An administrator shall establish specific internal control procedures to ensure the integrity and reliability of the employee or person determining the benchmark, including at least internal sign-off by management before the dissemination of the benchmark.

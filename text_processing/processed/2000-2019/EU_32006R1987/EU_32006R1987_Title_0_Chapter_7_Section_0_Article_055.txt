@@ -1,0 +1,16 @@
+Article 55
+Entry into force, applicability and migration
+1.   This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+2.   It shall apply to the Member States participating in SIS 1+ from dates to be fixed by the Council, acting by the unanimity of its Members representing the governments of the Member States participating in SIS 1+.
+3.   The dates referred to in paragraph 2 shall be fixed after:
+(a)
+the necessary implementing measures have been adopted;
+(b)
+all Member States fully participating in SIS 1+ have notified the Commission that they have made the necessary technical and legal arrangements to process SIS II data and exchange supplementary information;
+(c)
+the Commission has declared the successful completion of a comprehensive test of SIS II, which shall be conducted by the Commission together with the Member States, and the preparatory bodies of the Council have validated the proposed test result and confirmed that the level of performance of SIS II is at least equivalent to that achieved with SIS 1+;
+(d)
+the Commission has made the necessary technical arrangements for allowing Central SIS II to be connected to the N.SIS II of the Member States concerned.
+4.   The Commission shall inform the European Parliament of the results of the tests carried out in accordance with paragraph 3(c).
+5.   Any Decision of the Council taken in accordance with paragraph 2 shall be published in the Official Journal of the European Union.
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.

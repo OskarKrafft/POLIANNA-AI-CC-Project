@@ -1,0 +1,134 @@
+Article 66
+Completion and submission of the take-over declaration
+1.   Where fishery products are intended for sale at a later stage, operators which are responsible for the storage of fishery products landed in a Member State shall record by electronic means the information referred to in paragraph 4 and shall submit by electronic means, within 24 hours after landing, a take-over declaration containing such information to the competent authorities of the Member State in whose territory the take-over takes place. Those operators shall be responsible for the accuracy of the take-over declaration.
+2.   Where the Member State in whose territory the take-over takes place is not the flag Member State of the fishing vessel that landed the fish, it shall ensure that a copy of the take-over declaration, upon receipt thereof, is submitted by electronic means to the competent authorities of the flag Member State.
+3.   Where the take-over takes place outside the Union, the master of the Union fishing vessel, or a representative of the master, shall forward by electronic means a copy of the take-over declaration or any other equivalent document containing the same level of information to the competent authority of the flag Member State within 48 hours after the take-over.
+4.   The take-over declaration referred to in paragraph 1 shall have a unique identification number and contain at least the following information:
+(a)
+the unique fishing trip identification number;
+(b)
+the CFR number or, where that number is not available, another catching vessel identification number, and the name of the catching vessel;
+(c)
+the port of landing or landing site and date of the completion of the landing;
+(d)
+the name of the operator or master of the catching vessel;
+(e)
+the FAO alpha-3 code of each species and the relevant geographical area in which the catches were taken;
+(f)
+the quantities of each species stored in kilograms in product weight, broken down by type of product presentation and state of processing, or, where appropriate, the number of individuals;
+(g)
+the name or an identification number of the operator referred to in Article 60(5);
+(h)
+the name and address of the facilities where the products are stored and its unique identifier;
+(i)
+where applicable, reference to the transport document referred to in Article 68;
+(j)
+for fishery products below the minimum conservation reference size, the quantities in kilograms expressed in net weight, or, where appropriate, the number of individuals.
+5.   By way of derogation from paragraph 4, in the case of fishing without a vessel, the take-over declaration shall contain at least the following information:
+(a)
+the unique identifier in the system referred to in Article 54d(2), point (a);
+(b)
+the unique fishing day identification number(s);
+(c)
+the information referred to in paragraph 4, points (e), (f), (h), (i) and (j), of this Article.
+6.   The Commission may, by means of implementing acts, lay down detailed rules on the format and submission of the take-over declaration. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(61)
+Article 67 is deleted.
+(62)
+Article 68 is replaced by the following:
+‘Article 68
+Transport of fishery products and completion and submission of the transport document
+1.   Where fishery products are transported before their first sale, including in the cases referred to in points (c) and (d) of Article 60(3), or before their first sale in a third country, they shall be accompanied by a transport document indicating the fishery products and quantities transported.
+2.   Before the transportation referred to in paragraph 1 begins, the transporter shall submit by electronic means the transport document to the competent authorities of the flag Member State, the Member State of landing, the Member State(s) of transit and the Member State of destination of the fishery products, as appropriate.
+3.   The transporter shall be responsible for the accuracy of the transport document.
+4.   The transport document referred to in paragraph 1 shall have a unique identification number and shall contain at least the following information:
+(a)
+the place(s) and address(es) of destination of the consignment(s) and the identification of the transport vehicle and of the transporter;
+(b)
+the unique fishing trip identification number(s);
+(c)
+the CFR number or, where that number is not available, another catching vessel identification number, and the name of the catching vessel;
+(d)
+the FAO alpha-3 code of each species and the relevant geographical area in which the catches were taken;
+(e)
+the quantities of each species transported in kilograms in product weight, broken down by type of product presentation and state of processing or, where appropriate, the number of individuals and, where appropriate, by places of destination;
+(f)
+the name or an identification number of the operator referred to in Article 60(5), if applicable;
+(g)
+the name(s), unique identifier(s) and address(es) of the consignee(s);
+(h)
+the place and date and time of loading;
+(i)
+for fishery products below the applicable minimum conservation reference size, the quantities in kilograms expressed in net weight, or, where appropriate, the number of individuals.
+5.   By way of derogation from paragraph 4, in the case of fishing without a vessel, the transport document shall contain at least the following information:
+(a)
+the unique identifier in the system referred to in Article 54d(2), point (a);
+(b)
+the unique fishing day identification number(s);
+(c)
+the information referred to in paragraph 4, points (a), (d), (e), (g), (h) and (i), of this Article.
+6.   The competent authorities of Member States may grant exemptions from the obligation set out in paragraphs 1 and 2 if the fishery products are transported within a port area or not more than 25 km from the place of landing.
+7.   Where fishery products that have been declared as sold in a sales note are transported to a location other than the place of landing, the transporter shall be able to prove that a sales transaction has taken place.
+8.   Member States may provide that the obligations and responsibilities of a transporter under paragraphs 2, 3 and 7 shall apply to any other operator.
+9.   The transport document referred to in paragraph 1 of this Article may be replaced by a copy of the landing declaration referred to in Article 23 or any equivalent document pertaining to the quantities of fishery products being transported, provided that the document replacing the transport document contains the same information provided for in paragraph 4 or 5 of this Article, as applicable.
+10.   The Commission may, by means of implementing acts, lay down detailed rules on the format and submission of the transport document. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(63)
+Chapter III of Title V is deleted.
+(64)
+Article 71 is amended as follows:
+(a)
+in paragraph 1, point (a) is replaced by the following:
+‘(a)
+sightings of fishing vessels by inspection vessels, surveillance aircraft or other surveillance means;’;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   If the sighting or detection refers to a fishing vessel of another Member State or a third country and the information does not correspond to any other information that is available to the coastal Member State, and if that coastal Member State is not in a position to undertake further action, it shall record its findings in a surveillance report and shall transmit that report without delay, if possible by electronic means, to the flag Member State or to the third country concerned. In the case of a third-country vessel, the surveillance report shall also be sent to the Commission and to EFCA.’
+(c)
+paragraph 5 is replaced by the following:
+‘5.   The Commission may, by means of implementing acts, lay down rules on the format and content of the surveillance report. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 119(2).’.
+(65)
+Article 73 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Where a Union control observer scheme has been established in accordance with the Treaty, control observers on board fishing vessels designated by Member States shall monitor the fishing vessel’s compliance with the rules of the common fisheries policy. They shall fulfil all the tasks of the observer scheme and in particular record the vessel’s fishing activities and examine relevant documents.
+2.   Control observers shall:
+(a)
+be qualified for their tasks and receive regular training by Member States or, as appropriate, by EFCA;
+(b)
+be independent of the owner, licence holder, the master of the fishing vessel and any crew member;
+(c)
+have no economic link with the operator;
+(d)
+accomplish their tasks in a non-discriminatory manner;
+(e)
+be equipped with a two way communication device independent from the vessel at sea.’
+(b)
+paragraph 4 is replaced by the following:
+‘4.   In the event control observers notice a serious infringement, including the act of obstructing or otherwise preventing the performance by control observers of their duties, they shall inform without delay the competent authorities of the flag Member State.’
+(c)
+paragraphs 8 and 9 are replaced by the following:
+‘8.   All costs arising from the operation of control observers under this Article shall be borne by the flag Member States. In accordance with Article 39 of Regulation (EU) No 1380/2013, Member States may require the operators of the fishing vessels flying their flag involved in the relevant fishery to contribute to those costs, without prejudice to paragraph 2, point (b).
+9.   The Commission is empowered to adopt delegated acts in accordance with Article 119a concerning:
+(a)
+the methodology to be used for identifying vessels for the application of a control observer scheme;
+(b)
+format and content of observer reports;
+(c)
+the communication system for control observers;
+(d)
+rules pertaining to the security of control observers on vessels;
+(e)
+measures to ensure independence of control observers, including arrangements for their remuneration;
+(f)
+the duties of control observers, including in the event of suspicion of a serious infringement;
+(g)
+minimum requirements relating to the qualification and training of control observers.’.
+(66)
+In Title VII, Chapter I is replaced by the following:
+
+                                       ‘
+                                       Chapter I
+
+
+General provisions
+

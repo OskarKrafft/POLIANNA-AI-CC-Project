@@ -1,0 +1,20 @@
+Article 3
+Components of the Programme
+1.   The Programme shall consist of the following components:
+(a)
+‘Galileo’, an autonomous civil global navigation satellite system (GNSS) under civil control, which consists of a constellation of satellites, centres and a global network of stations on the ground, offering positioning, navigation and timing services and integrating the needs and requirements of security;
+(b)
+‘European Geostationary Navigation Overlay Service’ (EGNOS), a civil regional satellite navigation system under civil control which consists of centres and stations on the ground and several transponders installed on geosynchronous satellites and which augments and corrects the open signals emitted by Galileo and other GNSSs, inter alia for air-traffic management, for air navigation services and for other transport systems;
+(c)
+‘Copernicus’, an operational, autonomous, user-driven, civil Earth observation system under civil control, building on the existing national and European capacities, offering geo-information data and services, comprising satellites, ground infrastructure, data and information processing facilities, and distribution infrastructure, based on a free, full and open data policy and, where appropriate, integrating the needs and requirements of security;
+(d)
+‘Space Situational Awareness’ or ‘SSA’, which includes the following sub-components:
+(i)
+‘SST sub-component’, a space surveillance and tracking system aiming to improve, operate and provide data, information and services related to the surveillance and tracking of space objects that orbit the Earth;
+(ii)
+‘SWE sub-component’, observational parameters related to space weather events; and
+(iii)
+‘NEO sub-component’, the risk monitoring of near-Earth objects approaching the Earth;
+(e)
+‘GOVSATCOM’, a satellite communications service under civil and governmental control enabling the provision of satellite communications capacities and services to Union and Member State authorities managing security critical missions and infrastructures.
+2.   The Programme shall include additional measures to ensure efficient and autonomous access to space for the Programme and to foster an innovative and competitive European space sector, upstream and downstream, to strengthen the Union’s space ecosystem and to reinforce the Union as a global player.

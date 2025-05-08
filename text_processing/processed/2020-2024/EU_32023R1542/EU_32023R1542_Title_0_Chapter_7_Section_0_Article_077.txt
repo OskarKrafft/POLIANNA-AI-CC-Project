@@ -1,0 +1,35 @@
+Article 77
+Battery passport
+1.   From 18 February 2027 each LMT battery, each industrial battery with a capacity greater than 2 kWh and each electric vehicle battery placed on the market or put into service shall have an electronic record (‘battery passport’).
+2.   The battery passport shall contain information relating to the battery model and information specific to the individual battery, including resulting from the use of that battery, as set out in Annex XIII.
+The information in the battery passport shall comprise:
+(a)
+information accessible to the general public in accordance with point 1 of Annex XIII;
+(b)
+information accessible only to notified bodies, market surveillance authorities and the Commission in accordance with points 2 and 3 of Annex XIII; and
+(c)
+information accessible only to any natural or legal person with a legitimate interest in accessing and processing that information for the purposes referred to in points (a) and (b) of the third subparagraph in accordance with points 2 and 4 of Annex XIII.
+The purposes for accessing and processing the information as referred to in point (c) of the second subparagraph, shall:
+(a)
+concern dismantling of the battery, including safety measures to be taken during the dismantling, and the detailed composition of the battery model and be essential to allow repairers, remanufacturers, second-life operators and recyclers to conduct their respective economic activities in accordance with this Regulation; or
+(b)
+in the case of individual batteries, be essential to the purchaser of the battery or parties acting on the purchaser’s behalf, for the purpose of making the individual battery available to independent energy aggregators or energy market participants.
+The information referred to in the second subparagraph shall be included in the battery passport to the extent applicable to the category or sub-category of battery concerned.
+The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend Annex XIII as regards the information to be included in the battery passport in view of technical and scientific progress.
+3.   The battery passport shall be accessible through the QR code referred to in Article 13(6) which links to a unique identifier that the economic operator placing the battery on the market shall attribute to it.
+The QR code and the unique identifier shall comply with the ISO/IEC standards 15459-1:2014, 15459-2:2015, 15459-3:2014, 15459-4:2014, 15459-5:2014 and 15459-6:2014 or their equivalent.
+The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the second subparagraph of this paragraph in light of technical and scientific progress by replacing the standards referred to in that subparagraph or adding other European or international standards with which the QR code and the unique identifier shall comply.
+4.   The economic operator placing the battery on the market shall ensure that the information in the battery passport is accurate, complete and up to date. It may give written authorisation to any other operator to act on its behalf.
+5.   All information included in the battery passport shall be based on open standards and be in an interoperable format, transferable through an open interoperable data exchange network without vendor lock-in, machine-readable, structured and searchable, in accordance with the essential requirements laid down in Article 78.
+6.   The access to information included in the battery passport shall be regulated in accordance with the essential requirements laid down in Article 78.
+7.   For a battery that has been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred to the economic operator that has placed that battery on the market or has put it into service. Such battery shall have a new battery passport linked to the battery passport or passports of the original battery or batteries.
+Where the status of a battery changes to that of a waste battery, the responsibility for the fulfilment of the obligations under paragraph 4 of this Article shall be transferred either to the producer or, where appointed in accordance with Article 57(1), the producer responsibility organisation, or the waste management operator selected in accordance with Article 57(8).
+8.   A battery passport shall cease to exist after the battery has been recycled.
+9.   By 18 August 2026, the Commission shall adopt implementing acts specifying which persons are to be considered persons with a legitimate interest as referred to in points 2 and 4 respectively of Annex XIII for the purposes of paragraph 2, point (c), of this Article and to which information listed in those points they shall have access, and to what extent they can download, share, publish and re-use that information. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).
+The criteria for specifying the persons referred to in paragraph 2, point (c), and for determining the extent to which they can download, share, publish and re-use the information referred to in points 2 and 4 of Annex XIII shall be the following:
+(a)
+the necessity of having such information in order to evaluate the status and residual value of the battery and its capability for further use;
+(b)
+the necessity of having such information for the purpose of preparation for re-use, preparation for repurposing, repurposing, remanufacturing or recycling of the battery, or for choosing between those operations;
+(c)
+the need to ensure that the accessing and processing of information in the battery passport that is commercially sensitive is limited to the minimum necessary in accordance with applicable Union law.

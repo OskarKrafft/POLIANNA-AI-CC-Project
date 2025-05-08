@@ -1,0 +1,5 @@
+Article 38
+Purpose and retention period of supplementary information
+1.   Member States shall keep a reference to the decisions giving rise to an alert at the SIRENE Bureau to support the exchange of supplementary information.
+2.   Personal data held in files by the SIRENE Bureau as a result of information exchanged, shall be kept only for such time as may be required to achieve the purposes for which they were supplied. They shall in any event be deleted at the latest one year after the related alert has been deleted from SIS II.
+3.   Paragraph 2 shall not prejudice the right of a Member State to keep in national files data relating to a particular alert which that Member State has issued or to an alert in connection with which action has been taken on its territory. The period for which such data may be held in such files shall be governed by national law.

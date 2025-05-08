@@ -1,0 +1,43 @@
+Article 2
+Scope
+1.   This Regulation applies to goods listed in Annex I originating in a third country, where those goods, or processed products from those goods resulting from the inward processing procedure referred to in Article 256 of Regulation (EU) No 952/2013, are imported into the customs territory of the Union.
+2.   This Regulation also applies to goods listed in Annex I to this Regulation originating in a third country, where those goods, or processed products from those goods resulting from the inward processing procedure referred to in Article 256 of Regulation (EU) No 952/2013, are brought to an artificial island, a fixed or floating structure, or any other structure on the continental shelf or in the exclusive economic zone of a Member State that is adjacent to the customs territory of the Union.
+The Commission shall adopt implementing acts laying down detailed conditions for the application of the CBAM to such goods, in particular as regards the notions equivalent to those of importation into the customs territory of the Union and of release for free circulation, as regards the procedures relating to the submission of the CBAM declaration in respect of such goods and the controls to be carried out by customs authorities. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2) of this Regulation.
+3.   By way of derogation from paragraphs 1 and 2, this Regulation shall not apply to:
+(a)
+goods listed in Annex I to this Regulation which are imported into the customs territory of the Union provided that the intrinsic value of such goods does not exceed, per consignment, the value specified for goods of negligible value as referred to in Article 23 of Council Regulation (EC) No 1186/2009 (22);
+(b)
+goods contained in the personal luggage of travellers coming from a third country provided that the intrinsic value of such goods does not exceed the value specified for goods of negligible value as referred to in Article 23 of Regulation (EC) No 1186/2009;
+(c)
+goods to be moved or used in the context of military activities pursuant to Article 1, point (49), of Commission Delegated Regulation (EU) 2015/2446 (23).
+4.   By way of derogation from paragraphs 1 and 2, this Regulation shall not apply to goods originating in the third countries and territories listed in point 1 of Annex III.
+5.   Imported goods shall be considered as originating in third countries in accordance with the rules for non-preferential origin as referred to in Article 59 of Regulation (EU) No 952/2013.
+6.   Third countries and territories shall be listed in point 1 of Annex III where they fulfil all the following conditions:
+(a)
+the EU ETS applies to that third country or territory or an agreement has been concluded between that third country or territory and the Union fully linking the EU ETS and the emission trading system of that third country or territory;
+(b)
+the carbon price paid in the country in which the goods originate is effectively charged on the greenhouse gas emissions embedded in those goods without any rebates beyond those also applied in accordance with the EU ETS.
+7.   If a third country or territory has an electricity market which is integrated with the Union internal market for electricity through market coupling, and there is no technical solution for the application of the CBAM to the importation of electricity into the customs territory of the Union from that third country or territory, such importation of electricity from that country or territory shall be exempt from the application of the CBAM, provided that the Commission has assessed that all of the following conditions have been fulfilled in accordance with paragraph 8:
+(a)
+the third country or territory has concluded an agreement with the Union which sets out an obligation to apply Union law in the field of electricity, including the legislation on the development of renewable energy sources, as well as other rules in the field of energy, environment and competition;
+(b)
+the domestic legislation in that third country or territory implements the main provisions of Union electricity market legislation, including on the development of renewable energy sources and the market coupling of electricity markets;
+(c)
+the third country or territory has submitted a roadmap to the Commission which contains a timetable for the adoption of measures to implement the conditions set out in points (d) and (e);
+(d)
+the third country or territory has committed to climate neutrality by 2050 and, where applicable, has accordingly formally formulated and communicated to the United Nations Framework Convention on Climate Change (UNFCCC) a mid-century, long-term low greenhouse gas emissions development strategy aligned with that objective, and has implemented that commitment in its domestic legislation;
+(e)
+the third country or territory has, when implementing the roadmap referred to in point (c), demonstrated its fulfilment of the set deadlines and the substantial progress towards the alignment of domestic legislation with Union law in the field of climate action on the basis of that roadmap, including towards carbon pricing at a level equivalent to that in the Union in particular insofar as the generation of electricity is concerned; the implementation of an emissions trading system for electricity, with a price equivalent to the EU ETS, is to be finalised by 1 January 2030;
+(f)
+the third country or territory has put in place an effective system to prevent indirect import of electricity into the Union from other third countries or territories that do not fulfil the conditions set out in points (a) to (e).
+8.   A third country or territory that fulfils all the conditions set out in paragraph 7, shall be listed in point 2 of Annex III, and shall submit two reports on the fulfilment of those conditions, the first report by 1 July 2025 and the second by 31 December 2027. By 31 December 2025 and by 1 July 2028, the Commission shall assess, in particular on the basis of the roadmap referred to in paragraph 7, point (c), and the reports received from the third country or territory, if that third country or territory continues to fulfil the conditions set out in paragraph 7.
+9.   A third country or territory listed in point 2 of Annex III shall be removed from that list where one or more of the following conditions applies:
+(a)
+the Commission has reasons to consider that that third country or territory has not shown sufficient progress to comply with one of the conditions set out in paragraph 7, or that third country or territory has taken action that is incompatible with the objectives set out in the Union climate and environmental legislation;
+(b)
+that third country or territory has taken steps that are contrary to its decarbonisation objectives, such as providing public support for the establishment of new generation capacity that emits more than 550 grammes of carbon dioxide (‘CO2’) of fossil fuel origin per kilowatt-hour of electricity;
+(c)
+the Commission has evidence that, as a result of increased exports of electricity to the Union, the emissions per kilowatt-hour of electricity produced in that third country or territory have increased by at least 5 % compared to 1 January 2026.
+10.   The Commission is empowered to adopt delegated acts in accordance with Article 28 in order to supplement this Regulation by laying down requirements and procedures for third countries or territories that have been removed from the list in point 2 of Annex III, to ensure the application of this Regulation to those countries or territories with regard to electricity. If in such cases market coupling remains incompatible with the application of this Regulation, the Commission may decide to exclude those third countries or territories from Union market coupling and require explicit capacity allocation at the border between the Union and those third countries or territories, so that the CBAM can apply.
+11.   The Commission is empowered to adopt delegated acts in accordance with Article 28 in order to amend the lists of third countries or territories listed in point 1 or 2 of Annex III by adding or removing a third country or territory, depending on whether the conditions set out in paragraph 6, 7 or 9 of this Article are fulfilled in respect of that third country or territory.
+12.   The Union may conclude agreements with third countries or territories with a view to taking into account carbon pricing mechanisms in such countries or territories for the purposes of the application of Article 9.

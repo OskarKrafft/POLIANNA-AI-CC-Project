@@ -1,0 +1,14 @@
+Article 61
+Amendments to Directive 97/68/EC
+Directive 97/68/EC is amended as follows:
+(1)
+in Article 9(4a), the following subparagraphs are added:
+‘By way of derogation from the first subparagraph, Member States may authorise, on request by an OEM, the placing on the market of engines that meet Stage III A emission limit values, provided that those engines are intended for installation in non-road mobile machinery to be used in potentially explosive atmospheres, as defined in point (5) of Article 2 of Directive 2014/34/EU of the European Parliament and of the Council (*1).
+Manufacturers shall provide the approval authority with evidence that the engines are installed exclusively in non-road mobile machinery certified as fulfilling those requirements. A label bearing the text “Engine for restricted use in machinery manufactured by”, followed by the name of the OEM and the unique reference of the associated derogation shall be affixed to any such engines, beside the engine statutory marking set out in section 3 of Annex I.
+By way of derogation from the first subparagraph, Member States may grant EU type-approval and authorise the placing on the market of engines of category RLL with a maximum net power greater than 2 000 kW that do not comply with the emission limits set out in Annex II, that are to be installed in locomotives which only run on a technically isolated 1 520 mm railway network. Those engines shall, as a minimum, comply with the emission limits that engines had to meet to be placed on the market on 31 December 2011.
+
+(*1)  Directive 2014/34/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, 29.3.2014, p. 309).’;"
+                        
+(2)
+in Article 10, the following paragraph is added:
+‘8.   Member States may decide not to apply this Directive to engines installed in cotton harvesting machinery.’.

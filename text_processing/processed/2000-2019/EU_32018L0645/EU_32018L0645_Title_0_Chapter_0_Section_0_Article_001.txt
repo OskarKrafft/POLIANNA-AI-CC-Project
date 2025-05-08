@@ -1,0 +1,89 @@
+Article 1
+Directive 2003/59/EC is amended as follows:
+(1)
+Article 1 is replaced by the following:
+‘Article 1
+Scope
+This Directive shall apply to the activity of driving carried out by:
+(a)
+nationals of a Member State, and
+(b)
+nationals of third countries who are employed or used by an undertaking established in a Member State,
+hereinafter referred to as “drivers”, engaged in road transport within the Union, on roads open to the public, using:
+—
+vehicles for which a driving licence of category C1, C1 + E, C or C + E, as defined in Directive 2006/126/EC of the European Parliament and of the Council (*1), or a driving licence recognised as equivalent, is required,
+—
+vehicles for which a driving licence of category D1, D1 + E, D or D + E, as defined in Directive 2006/126/EC, or a driving licence recognised as equivalent, is required.
+For the purposes of this Directive, the references to categories of driving licences containing a plus sign (“+”) shall be read in accordance with the correspondence table set out in Annex III.
+
+(*1)  Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences (OJ L 403, 30.12.2006, p. 18).’."
+                        
+(2)
+Article 2 is replaced by the following:
+‘Article 2
+Exemptions
+1.   This Directive shall not apply to the drivers of vehicles:
+(a)
+with a maximum authorised speed not exceeding 45 km/h;
+(b)
+used by, or under the control of, the armed forces, civil defence, the fire service, forces responsible for maintaining public order, and emergency ambulance services, when the carriage is undertaken as a consequence of the tasks assigned to those services;
+(c)
+undergoing road tests for technical development, repair or maintenance purposes, or the drivers of new or rebuilt vehicles which have not yet been put into service;
+(d)
+for which a driving licence of category D or D1 is required and which are driven without passengers by maintenance personnel to or from a maintenance centre situated in the vicinity of the nearest maintenance base which is used by the transport operator, provided that driving the vehicle does not constitute the driver's principal activity;
+(e)
+used in states of emergency or assigned to rescue missions, including vehicles used in the non-commercial transport of humanitarian aid;
+(f)
+used for driving instruction for, and examination of, any person wishing to obtain a driving licence or a Certificate of Professional Competence (CPC), in accordance with Article 6 and Article 8(1), provided that they are not being used for the commercial carriage of goods and passengers;
+(g)
+used for non-commercial carriage of passengers or goods;
+(h)
+carrying material, equipment or machinery to be used by the drivers in the course of their work, provided that driving the vehicles is not the drivers' principal activity.
+With regard to point (f) of this paragraph, this Directive shall not apply to any person wishing to obtain a driving licence or a CPC, in accordance with Article 6 and Article 8(1), when that person is undergoing additional driving training during work-based learning, where that person is accompanied by another person certified by a CPC, or a driving instructor, for the category of vehicle used for the purpose set out in that point.
+2.   This Directive shall not apply where all the following conditions are met:
+(a)
+drivers of vehicles operate in rural areas to supply the driver's own business,
+(b)
+drivers do not offer transport services, and
+(c)
+Member States consider that the transport is occasional and does not have an impact on road safety.
+3.   This Directive shall not apply to drivers of vehicles used, or hired without a driver, by agricultural, horticultural, forestry, farming or fishery undertakings for carrying goods as part of their own entrepreneurial activity, except if driving is part of the driver's principal activity or the driving exceeds a distance set in national law from the base of the undertaking which owns, hires or leases the vehicle.’.
+(3)
+Article 7 is replaced by the following:
+‘Article 7
+Periodic training
+Periodic training shall consist of training to enable holders of a CPC to update the knowledge which is essential for their work, with specific emphasis on road safety, health and safety at work, and the reduction of the environmental impact of driving.
+That training shall be organised by an approved training centre, in accordance with section 5 of Annex I. Training shall consist of classroom teaching, practical training and, if available, training by means of information and communication technology (ICT) tools or on top-of-the-range simulators. If a driver moves to another undertaking, the periodic training already undergone must be taken into account.
+Periodic training shall be designed to expand on, and to revise, some of the subjects referred in section 1 of Annex I. It shall cover a variety of subjects and shall always include at least one road safety related subject. The training subjects shall take into account developments in the relevant legislation and technology, and shall, as far as possible, take into account the specific training needs of the driver.’.
+(4)
+in Article 9, the first paragraph is replaced by the following:
+‘Drivers referred to in point (a) of Article 1 of this Directive shall obtain the initial qualification referred to in Article 5 of this Directive in the Member State in which they have their normal residence, as defined in Article 12 of Directive 2006/126/EC.’.
+(5)
+Article 10 is replaced by the following:
+‘Article 10
+Union code
+1.   On the basis of the CPC certifying an initial qualification and the CPC certifying periodic training, Member States' competent authorities shall, taking into account the provisions of Article 5(2) and (3) of this Directive and Article 8 of this Directive, mark the harmonised Union code, “95”, provided for in Annex I to Directive 2006/126/EC, alongside the corresponding categories of licence:
+—
+on the driving licence, or
+—
+on the driver qualification card drawn up in accordance with the model shown in Annex II to this Directive.
+If the competent authorities of the Member State where the CPC was obtained cannot mark the Union code on the driving licence, they shall issue the driver with a driver qualification card.
+The driver qualification card issued by a Member State shall be mutually recognised. When the card is issued, the competent authorities shall check the validity of the driving licence for the category of vehicle concerned.
+2.   A driver referred to in point (b) of Article 1 who drives vehicles used for the carriage of goods by road shall also be allowed to prove that he or she has the qualification and training provided for in this Directive by means of the driver attestation provided for in Regulation (EC) No 1072/2009 of the European Parliament and of the Council (*2), provided that it bears the Union code, “95”. For the purposes of this Directive, the issuing Member State shall indicate the Union code, “95” in the remarks section of the attestation if the driver concerned has fulfilled the qualification requirements and training requirements provided for in this Directive.
+3.   Driver attestations that do not bear the Union code, “95”, and that were issued before 23 May 2020 in accordance with Article 5 of Regulation (EC) No 1072/2009, and in particular with paragraph 7 thereof, with a view to certifying compliance with training requirements under this Directive shall be accepted as a proof of qualification until their date of expiry.
+
+(*2)  Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (OJ L 300, 14.11.2009, p. 72).’."
+                        
+(6)
+the following Article is inserted:
+‘Article 10a
+Enforcement network
+1.   For enforcement purposes, Member States shall exchange information on CPCs issued or withdrawn. For this purpose Member States shall, in cooperation with the Commission, develop an electronic network or work on an extension of an existing network, taking into account the assessment by the Commission of the most cost-effective option.
+2.   The network may contain information contained in the CPCs as well as information relating to administrative procedures related to CPCs.
+3.   Member States shall ensure that the processing of personal data is carried out solely for the purposes of verifying compliance with this Directive, in particular the training requirements laid down in this Directive, in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council (*3).
+4.   Access to the network shall be secured. Member States may grant access only to the competent authorities responsible for the implementation of, and for the control of compliance with, this Directive.
+
+(*3)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).’."
+                        
+(7)
+Annexes I and II are amended in accordance with the Annex to this Directive.

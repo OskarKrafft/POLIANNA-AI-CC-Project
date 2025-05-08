@@ -1,0 +1,10 @@
+Article 20
+Banking and borrowing of compliance surplus between reporting periods
+1.   On the basis of the calculations undertaken in accordance with Article 16(4), where the ship has, for the reporting period, a compliance surplus on its GHG intensity as referred to in Article 4(2) or, if applicable, on the RFNBO subtarget as referred to in Article 5(3), the company may bank it to the same ship’s compliance balance for the following reporting period. The company shall record the banking of the compliance surplus to the following reporting period in the FuelEU database subject to approval by its verifier. The company may no longer bank the compliance surplus once the FuelEU document of compliance has been issued.
+2.   On the basis of the calculations undertaken in accordance with Article 16(4), where the ship has, for the reporting period, a compliance deficit, the company may borrow an advance compliance surplus of the corresponding amount from the following reporting period. The advance compliance surplus shall be added to the ship’s compliance balance in the reporting period and the advance compliance surplus multiplied by 1,1 shall be subtracted from the same ship’s compliance balance in the following reporting period. The advance compliance surplus may not be borrowed:
+(a)
+for an amount exceeding by more than 2 % the limit set out in Article 4(2), multiplied by the energy consumption of the ship calculated in accordance with Annex I;
+(b)
+for two consecutive reporting periods.
+3.   By 30 April of the verification period, the company shall record the advance compliance surplus, following approval by its verifier, in the FuelEU database.
+4.   Where a ship does not have any port call in the Union during the reporting period and borrowed an advance compliance surplus in the previous reporting period, the competent authority of the administering State shall notify by 1 June of the verification period to the company concerned the amount of the FuelEU penalty as referred to in Article 23(2) that it initially avoided by means of borrowing that advance compliance surplus, multiplied by 1,1.

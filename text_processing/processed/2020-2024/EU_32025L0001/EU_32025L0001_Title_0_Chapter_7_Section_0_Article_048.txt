@@ -1,0 +1,23 @@
+Article 48
+Exclusion of certain contractual terms
+1.   A crisis prevention measure or a crisis management measure taken in relation to an entity, including the occurrence of any event directly linked to the application of such a measure, shall not, per se, under a contract entered into by the entity concerned, be deemed to be an enforcement event within the meaning of Directive 2002/47/EC or insolvency proceedings within the meaning of Directive 98/26/EC, provided that the substantive obligations under that contract, including payment and delivery obligations and the provision of collateral, continue to be performed.
+In addition, a crisis prevention measure or a crisis management measure shall not, per se, be deemed to be an enforcement event within the meaning of Directive 2002/47/EC or insolvency proceedings within the meaning of Directive 98/26/EC under a contract entered into by:
+(a)
+a subsidiary undertaking, where the parent undertaking or any group entity guarantees or otherwise supports the obligations under that contract; or
+(b)
+any entity of a group, where the contract contains cross-default provisions.
+2.   Where third-country resolution proceedings are recognised pursuant to Article 76, or, in the absence of such recognition, where a resolution authority so decides, third-country resolution proceedings shall for the purposes of this Article constitute a crisis management measure.
+3.   Provided that the substantive obligations under the contract, including payment and delivery obligations, and provision of collateral, continue to be performed, a crisis prevention measure, or a crisis management measure, including any event directly linked to the application of such a measure, shall not, per se, make it possible for anyone to:
+(a)
+exercise any termination, suspension, modification, netting or set-off rights, including in relation to a contract entered into by:
+(i)
+a subsidiary undertaking, where the obligations under the contract are guaranteed or otherwise supported by a group entity;
+(ii)
+any group entity, where the contract contains cross-default provisions;
+(b)
+obtain possession, exercise control or enforce any security over any property of any of the entities referred to in Article 1(1), points (a) to (e), concerned or any group entity in relation to a contract which contains cross-default provisions;
+(c)
+affect any contractual rights of any of the entities referred to in Article 1(1), points (a) to (e), concerned or any group entity in relation to a contract which contains cross-default provisions.
+4.   Paragraphs 1, 2 and 3 shall not affect the right of a person to take an action as referred to in paragraph 3, point (a), (b) or (c), where that right arises by virtue of an event other than the crisis prevention measure, the crisis management measure, or by virtue of any event directly linked to the application of such a measure.
+5.   A suspension or restriction under Article 49 or 50 shall not constitute non-performance of a contractual obligation for the purposes of paragraphs 1 and 3 of this Article and of Article 51(1).
+6.   The provisions contained in this Article shall be considered to be overriding mandatory provisions within the meaning of Article 9 of Regulation (EC) No 593/2008 of the European Parliament and of the Council (23).

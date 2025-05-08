@@ -1,0 +1,34 @@
+Article 11
+Notification by data intermediation services providers
+1.   Any data intermediation services provider who intends to provide the data intermediation services referred to in Article 10 shall submit a notification to the competent authority for data intermediation services.
+2.   For the purposes of this Regulation, a data intermediation services provider with establishments in more than one Member State shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment, without prejudice to Union law regulating cross-border actions for damages and related proceedings.
+3.   A data intermediation services provider that is not established in the Union, but which offers the data intermediation services referred to in Article 10 within the Union, shall designate a legal representative in one of the Member States in which those services are offered.
+For the purpose of ensuring compliance with this Regulation, the legal representative shall be mandated by the data intermediation services provider to be addressed in addition to or instead of it by competent authorities for data intermediation services or data subjects and data holders, with regard to all issues related to the data intermediation services provided. The legal representative shall cooperate with and comprehensively demonstrate to the competent authorities for data intermediation services, upon request, the actions taken and provisions put in place by the data intermediation services provider to ensure compliance with this Regulation.
+The data intermediation services provider shall be deemed to be under the jurisdiction of the Member State in which the legal representative is located. The designation of a legal representative by the data intermediation services provider shall be without prejudice to any legal actions which could be initiated against the data intermediation services provider.
+4.   After having submitted a notification in accordance with paragraph 1, the data intermediation services provider may start the activity subject to the conditions laid down in this Chapter.
+5.   The notification referred to in paragraph 1 shall entitle the data intermediation services provider to provide data intermediation services in all Member States.
+6.   The notification referred to in paragraph 1 shall include the following information:
+(a)
+the name of the data intermediation services provider;
+(b)
+the data intermediation services provider’s legal status, form, ownership structure, relevant subsidiaries and, where the data intermediation services provider is registered in a trade or other similar public national register, registration number;
+(c)
+the address of the data intermediation services provider’s main establishment in the Union, if any, and, where applicable, of any secondary branch in another Member State or that of the legal representative;
+(d)
+a public website where complete and up-to-date information on the data intermediation services provider and the activities can be found, including as a minimum the information referred to in points (a), (b), (c) and (f);
+(e)
+the data intermediation services provider’s contact persons and contact details;
+(f)
+a description of the data intermediation service the data intermediation services provider intends to provide, and an indication of the categories listed in Article 10 under which such data intermediation service falls;
+(g)
+the estimated date for starting the activity, if different from the date of the notification.
+7.   The competent authority for data intermediation services shall ensure that the notification procedure is non-discriminatory and does not distort the competition.
+8.   At the request of the data intermediation services provider, the competent authority for data intermediation services shall, within one week of a duly and fully completed notification, issue a standardised declaration, confirming that the data intermediation services provider has submitted the notification referred to in paragraph 1 and that the notification contains the information referred to in paragraph 6.
+9.   At the request of the data intermediation services provider, the competent authority for data intermediation services shall confirm that the data intermediation services provider complies with this Article and Article 12. Upon receipt of such a confirmation, that data intermediation services provider may use the label ‘data intermediation services provider recognised in the Union’ in its written and spoken communication, as well as a common logo.
+In order to ensure that data intermediation services providers recognised in the Union are easily identifiable throughout the Union, the Commission shall, by means of implementing acts, establish a design for the common logo. Data intermediation services providers recognised in the Union shall display the common logo clearly on every online and offline publication that relates to their data intermediation activities.
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+10.   The competent authority for data intermediation services shall notify the Commission of each new notification by electronic means without delay. The Commission shall keep and regularly update a public register of all data intermediation services providers providing their services in the Union. The information referred to in paragraph 6, points (a), (b), (c), (d), (f) and (g), shall be published in the public register.
+11.   The competent authority for data intermediation services may charge fees for the notification in accordance with national law. Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authority for data intermediation services in relation to notifications of data intermediation services providers. In the case of SMEs and start-ups, the competent authority for data intermediation services may charge a discounted fee or waive the fee.
+12.   Data intermediation services providers shall notify the competent authority for data intermediation services of any changes to the information provided pursuant to paragraph 6 within 14 days of the date of the change.
+13.   Where a data intermediation services provider ceases its activities, it shall notify the relevant competent authority for data intermediation services determined pursuant to paragraphs 1, 2 and 3 within 15 days.
+14.   The competent authority for data intermediation services shall notify the Commission of each notification referred to in paragraphs 12 and 13 by electronic means without delay. The Commission shall update the public register of the data intermediation services providers in the Union accordingly.

@@ -1,0 +1,21 @@
+Article 164
+Loss Given Default (LGD)
+1.   Institutions shall provide own estimates of LGDs subject to requirements as specified in Section 6 and permission of the competent authorities granted in accordance with Article 143. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If an institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the institution may use its own LGD estimate.
+2.   Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to requirements as specified in Article 183(1), (2) and (3) and permission of the competent authorities either in support of an individual exposure or a pool of exposures. An institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+3.   For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+4.   The exposure weighted average LGD for all retail exposures secured by residential property and not benefiting from guarantees from central governments shall not be lower than 10 %.
+The exposure weighted average LGD for all retail exposures secured by commercial immovable property and not benefiting from guarantees from central governments shall not be lower than 15 %.
+5.   Based on the data collected under Article 101 and taking into account forward-looking property market developments and any other relevant indicators, the competent authorities shall periodically, and at least annually, assess whether the minimum LGD values in paragraph 4 of this Article are appropriate for exposures secured by residential or commercial immovable property located in their territory. Competent authorities may, where appropriate on the basis of financial stability considerations, set higher minimum values of exposure weighted average LGD for exposures secured by property in their territory.
+Competent authorities shall notify EBA of any changes to the minimum LGD values that they make in accordance with the first subparagraph and EBA shall publish these LGD values.
+6.   EBA shall develop draft regulatory technical standards to specify the conditions that competent authorities shall take into account when determining higher minimum LGD values.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+7.   The institutions of one Member State shall apply the higher minimum LGD values that have been determined by the competent authorities of another Member State to exposures secured by property located in that Member State.
+
+Sub-Section 3
+
+
+
+Equity exposures subject to PD/LGD method
+
+

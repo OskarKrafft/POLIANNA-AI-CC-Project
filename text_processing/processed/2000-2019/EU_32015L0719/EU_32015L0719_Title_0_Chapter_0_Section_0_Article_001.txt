@@ -1,0 +1,201 @@
+Article 1
+Directive 96/53/EC is amended as follows:
+(1)
+point (a) of Article 1(1) is replaced by the following:
+‘(a)
+
+(*1)  Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).’
+                                    "
+                        
+(2)
+Article 2 is amended as follows:
+(a)
+in the first paragraph, the following definitions are added:
+‘—
+“alternative fuels” shall mean fuels or power sources which serve, at least partly, as a substitute for fossil oil sources in the energy supply to transport and which have the potential to contribute to its decarbonisation and enhance the environmental performance of the transport sector, consisting of:
+(a)
+electricity consumed in all types of electric vehicles;
+(b)
+hydrogen;
+(c)
+natural gas, including biomethane, in gaseous form (Compressed Natural Gas — CNG) and liquefied form (Liquefied Natural Gas — LNG);
+(d)
+Liquefied Petroleum Gas (LPG);
+(e)
+mechanical energy from on-board storage/on-board sources, including waste heat;
+—
+“alternatively fuelled vehicle” shall mean a motor vehicle powered wholly or in part by an alternative fuel and which has been approved under the framework of Directive 2007/46/EC,
+—
+“intermodal transport operation” shall mean:
+(a)
+the combined transport operations defined in Article 1 of Council Directive 92/106/EEC (*2) engaged in the transport of one or more containers or swap bodies, up to a total maximum length of 45 feet; or
+(b)
+transport operations engaged in the transport of one or more containers or swap bodies, up to a total maximum length of 45 feet, using waterborne transport, provided that the length of the initial or the final road leg does not exceed 150 km in the territory of the Union. The distance of 150 km referred to above may be exceeded in order to reach the nearest suitable transport terminal for the envisaged service in the case of:
+(i)
+vehicles complying with point 2.2.2(a) or (b) of Annex I; or
+(ii)
+vehicles complying with point 2.2.2(c) or (d) of Annex I, in cases where such distances are permitted in the relevant Member State.
+For intermodal transport operations, the nearest suitable transport terminal providing a service may be located in a Member State other than the Member State in which the shipment was loaded or unloaded,
+—
+“shipper” shall mean a legal entity or a natural or legal person who is named on the bill of lading or on an equivalent transport document, such as a “through” bill of lading, as the shipper and/or in whose name or on whose behalf a contract of carriage has been concluded with the transport company.
+
+(*2)  Council Directive 92/106/EEC of 7 December 1992 on the establishment of common rules for certain types of combined transport of goods between Member States (OJ L 368, 17.12.1992, p. 38).’
+                                                                  "
+                        
+(b)
+in the second paragraph, the reference ‘Directive 70/156/EEC’ is replaced by the following:
+
+                                    ‘Directive 2007/46/EC’;
+(3)
+Article 4 is amended as follows:
+(a)
+the third and fourth subparagraphs of paragraph 4 are deleted;
+(b)
+paragraph 6 is deleted;
+(4)
+Article 5 is replaced by the following:
+‘Article 5
+Articulated vehicles put into circulation before 1 January 1991 which do not comply with the specifications contained in points 1.6 and 4.4 of Annex I shall be deemed to comply with such specifications for the purposes of Article 3 if they do not exceed a total length of 15,50 m.’
+(5)
+Articles 8, 8a and 9 are deleted;
+(6)
+the following Articles are inserted:
+‘Article 8b
+1.   With the aim of improving their energy efficiency, vehicles or vehicle combinations which are equipped with aerodynamic devices meeting the requirements laid down in paragraphs 2 and 3, and which comply with Directive 2007/46/EC, may exceed the maximum lengths provided for in point 1.1 of Annex I to this Directive, to allow the addition of such devices to the rear of vehicles or vehicle combinations. Vehicles or vehicle combinations equipped with such devices shall comply with point 1.5 of Annex I to this Directive, and any exceeding of the maximum lengths shall not result in an increase in the loading length of those vehicles or vehicle combinations.
+2.   Before being placed on the market, the aerodynamic devices referred to in paragraph 1 exceeding 500 mm in length shall be type-approved in accordance with the rules on type-approval within the framework of Directive 2007/46/EC.
+By 27 May 2017, the Commission shall assess the need to adopt or amend any technical requirements for type-approval of aerodynamic devices laid down within that framework taking into account the need to ensure road safety and the safety of intermodal transport operations, and in particular:
+(a)
+the secure attachment of the devices in such a way as to reduce the risk of their becoming detached over time, including during an intermodal transport operation;
+(b)
+the safety of other road users, especially vulnerable road users, by ensuring, inter alia, the visibility of contour markings when aerodynamic devices are fitted, by adapting the indirect vision requirements and, in the event of a collision with the rear of a vehicle or a vehicle combination, by not compromising rear underrun protection.
+To that end, the Commission shall submit, as appropriate, a legislative proposal to amend the relevant rules on type-approval within the framework of Directive 2007/46/EC.
+3.   The aerodynamic devices referred to in paragraph 1 shall fulfil the following operational conditions:
+(a)
+in circumstances where the safety of other road users or of the driver is at risk, they shall be folded, retracted or removed by the driver;
+(b)
+their use on urban and inter urban road infrastructures shall take into account the special characteristics of areas where the speed limit is less than or equal to 50 km/h and where vulnerable road users are more likely to be present; and
+(c)
+their use shall be compatible with intermodal transport operations and, in particular, when retracted/folded, they shall not exceed the maximum authorised length by more than 20 cm.
+4.   The Commission shall adopt implementing acts laying down detailed provisions ensuring uniform conditions for the implementation of paragraph 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 10i(2).
+5.   Paragraph 1 shall apply from the date of transposition or application of the necessary amendments to the instruments referred to in paragraph 2, and after the adoption of the implementing acts referred to in paragraph 4, as appropriate.
+Article 9a
+1.   With the aim of improving energy efficiency, in particular as regards the aerodynamic performance of cabs, as well as road safety, vehicles or vehicle combinations which fulfil the requirements laid down in paragraph 2 and which comply with Directive 2007/46/EC may exceed the maximum lengths laid down in point 1.1 of Annex I to this Directive provided that their cabs deliver improved aerodynamic performance, energy efficiency and safety performance. Vehicles or vehicle combinations equipped with such cabs shall comply with point 1.5 of Annex I to this Directive and any exceeding of the maximum lengths shall not result in an increase in the load capacity of those vehicles.
+2.   Before being placed on the market, the vehicles referred to in paragraph 1 shall be approved in accordance with the rules on type-approval within the framework of Directive 2007/46/EC. By 27 May 2017, the Commission shall assess the need to develop the technical requirements for type-approval of vehicles equipped with such cabs as laid down within that framework, taking into account the following:
+(a)
+the improved aerodynamic performance of vehicles or vehicle combinations;
+(b)
+vulnerable road users, and improvement of their visibility to drivers, in particular by reducing drivers' blind spots;
+(c)
+the reduction in damage or injury caused to other road users in the event of a collision;
+(d)
+the safety and comfort of drivers.
+To that end, the Commission shall submit, as appropriate, a legislative proposal to amend the relevant rules on type-approval within the framework of Directive 2007/46/EC.
+3.   Paragraph 1 shall apply from 3 years after the date of transposition or application of the necessary amendments to the instruments referred to in paragraph 2, as appropriate.’
+(7)
+Article 10a is deleted;
+(8)
+the following Articles are inserted:
+‘Article 10b
+The maximum authorised weights of alternatively fuelled vehicles shall be those set out in points 2.3.1, 2.3.2 and 2.4 of Annex I.
+Alternatively fuelled vehicles shall also comply with the maximum authorised axle weight limits set out in point 3 of Annex I.
+The additional weight required by alternatively fuelled vehicles shall be defined on the basis of the documentation provided by the manufacturer when the vehicle in question is approved. That additional weight shall be indicated in the official proof required in accordance with Article 6.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 10h to update, for the purposes of this Directive, the list of alternative fuels referred to in Article 2 that require additional weight. It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States' experts, before adopting those delegated acts.
+Article 10c
+The maximum lengths laid down in point 1.1 of Annex I, subject where applicable to Article 9a(1), and the maximum distance laid down in point 1.6 of Annex I, may be exceeded by 15 cm for vehicles or vehicle combinations engaged in the transport of 45-foot containers or 45-foot swap bodies, empty or loaded, provided that the road transport of the container or swap body in question is part of an intermodal transport operation.
+Article 10d
+1.   By 27 May 2021, Member States shall take specific measures to identify vehicles or vehicle combinations in circulation that are likely to have exceeded the maximum authorised weight and that should therefore be checked by their competent authorities in order to ensure compliance with the requirements of this Directive. Those measures may be taken with the aid of automatic systems set up on the road infrastructure, or by means of on-board weighing equipment installed in vehicles in accordance with paragraph 4.
+A Member State shall not require on-board weighing equipment to be installed on vehicles or vehicle combinations which are registered in another Member State.
+Without prejudice to Union and national law, where automatic systems are used to establish infringements of this Directive and to impose penalties, such automatic systems shall be certified. Where automatic systems are used only for identification purposes, they need not be certified.
+2.   Each Member State shall carry out each calendar year an appropriate number of checks on the weight of vehicles or vehicle combinations in circulation, proportionate to the total number of vehicles inspected each year in its territory.
+3.   Member States shall, in accordance with Article 18 of Regulation (EC) No 1071/2009 of the European Parliament and of the Council (1), ensure that their competent authorities exchange information about infringements and penalties relating to this Article.
+4.   The on-board weighing equipment referred to in paragraph 1 shall be accurate and reliable, fully interoperable and compatible with all vehicle types.
+5.   By 27 May 2016, the Commission shall adopt implementing acts, laying down detailed provisions ensuring uniform conditions for the implementation of the rules on interoperability and compatibility set out in paragraph 4.
+In order to ensure interoperability, those detailed provisions shall enable the weight data to be communicated at any time from a moving vehicle to the competent authorities, as well as to its driver. That communication shall be done through the interface defined by the CEN DSRC standards EN 12253, EN 12795, EN 12834, EN 13372 and ISO 14906. In addition, such communication shall ensure that the competent authorities of the Member States can communicate and exchange information in the same way with vehicles and vehicle combinations registered in any Member State and using on-board weighing equipment.
+In order to ensure compatibility with all vehicle types, on-board systems of motor vehicles shall have the capability to receive and process any data coming from any type of trailer or semi-trailer attached to the motor vehicle.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 10i(2).
+Article 10e
+Member States shall lay down rules on penalties applicable to infringements of this Directive and shall take all measures necessary to ensure that they are implemented. Those penalties shall be effective, non-discriminatory, proportionate and dissuasive. Member States shall notify those rules to the Commission.
+Article 10f
+1.   For the transport of containers and swap bodies, Member States shall lay down rules that require:
+(a)
+the shipper to give to the haulier to whom it entrusts the transport of a container or swap body a statement indicating the weight of the container or swap body transported; and
+(b)
+the haulier to provide access to all relevant documentation provided by the shipper.
+2.   Member States shall lay down rules on the liability of both the shipper and the haulier as appropriate in cases where the information referred to in paragraph 1 is missing or is incorrect and the vehicle or vehicle combination is overloaded.
+Article 10g
+Every 2 years, and at the latest by 30 September of the year following the end of the 2-year period concerned, Member States shall send to the Commission the necessary information concerning:
+(a)
+the number of checks carried out in the previous 2 calendar years; and
+(b)
+the number of overloaded vehicles or vehicle combinations detected.
+This information may be part of the information submitted under Article 17 of Regulation (EC) No 561/2006 of the European Parliament and of the Council (2).
+The Commission shall analyse the information received pursuant to this Article, and shall include such analysis in the report to be forwarded to the European Parliament and to the Council pursuant to Regulation (EC) No 561/2006.
+Article 10h
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 10b shall be conferred on the Commission for a period of 5 years from 26 May 2015. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+3.   The delegation of power referred to in Article 10b may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+5.   A delegated act adopted pursuant to Article 10b shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+Article 10i
+1.   The Commission shall be assisted by the Road Transport Committee referred to in Article 42 of Regulation (EU) No 165/2014 of the European Parliament and of the Council (3). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (4).
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+3.   Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+Article 10j
+By 8 May 2020, the Commission shall submit, as appropriate, a report to the European Parliament and the Council on the implementation of the amendments to this Directive introduced by Directive (EU) 2015/719 of the European Parliament and of the Council (5), including taking into consideration specific characteristics of certain market segments. On the basis of that report, the Commission shall, if appropriate, make a legislative proposal duly accompanied by an impact assessment. The report shall be made available at least 6 months prior to the submission of any legislative proposal.
+  
+(1)*
+"
+                        
+  
+(2)*
+"
+                        
+  
+(3)*
+"
+                        
+  
+(4)*
+"
+                        
+  
+(5)*
+"
+                        
+(9)
+Annex I is amended as follows:
+(a)
+point 1.2(a) is replaced by the following:
+‘(a)
+;
+(b)
+point 1.2(b) is replaced by the following:
+‘(b)
+;
+(c)
+point 2.2.2(c) is replaced by the following:
+‘(c)
+;
+(d)
+in point 2.2.2, the following point is added:
+‘(d)
+;
+(e)
+point 2.3.1 is replaced by the following:
+‘2.3.1.
+Two-axle alternatively fuelled motor vehicles other than buses: the maximum authorised weight of 18 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
+Two-axle buses: 19,5 tonnes’
+                                          
+;
+(f)
+point 2.3.2 is replaced by the following:
+‘2.3.2.
+Three-axle alternatively fuelled motor vehicles: the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the Union as defined in Annex II, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne’
+                                          
+;
+(g)
+point 2.4 is replaced by the following:
+‘2.4.
+Three-axle articulated buses alternatively fuelled: the maximum authorised weight of 28 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne’
+                                          
+.

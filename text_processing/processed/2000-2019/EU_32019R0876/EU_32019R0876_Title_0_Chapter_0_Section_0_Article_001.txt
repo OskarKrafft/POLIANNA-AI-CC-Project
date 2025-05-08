@@ -1,0 +1,20 @@
+Article 1
+Amendments to Regulation (EU) No 575/2013
+Regulation (EU) No 575/2013 is amended as follows:
+(1)
+Articles 1 and 2 are replaced by the following:
+‘Article 1
+Scope
+This Regulation lays down uniform rules concerning general prudential requirements that institutions, financial holding companies and mixed financial holding companies supervised under Directive 2013/36/EU shall comply with in relation to the following items:
+(a)
+own funds requirements relating to entirely quantifiable, uniform and standardised elements of credit risk, market risk, operational risk, settlement risk and leverage;
+(b)
+requirements limiting large exposures;
+(c)
+liquidity requirements relating to entirely quantifiable, uniform and standardised elements of liquidity risk;
+(d)
+reporting requirements related to points (a), (b) and (c);
+(e)
+public disclosure requirements.
+This Regulation lays down uniform rules concerning the own funds and eligible liabilities requirements that resolution entities that are global systemically important institutions (G-SIIs) or part of G-SIIs and material subsidiaries of non-EU G-SIIs shall comply with.
+This Regulation does not govern publication requirements for competent authorities in the field of prudential regulation and supervision of institutions as set out in Directive 2013/36/EU.

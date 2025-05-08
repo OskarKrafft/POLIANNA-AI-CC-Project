@@ -1,0 +1,41 @@
+Article 9
+Statistics
+1.   Member States shall maintain comprehensive statistics on matters relevant to the effectiveness of their AML/CFT frameworks in order to review the effectiveness of those frameworks.
+2.   The statistics referred to in paragraph 1 of this Article shall include:
+(a)
+data measuring the size and importance of the different sectors which fall within the scope of this Directive, including the number of natural and legal persons and the economic importance of each sector;
+(b)
+data measuring the reporting, investigation and judicial phases of the national AML/CFT regime, including the number of suspicious transaction reports made to the FIU, the follow-up given to those reports, the information on cross-border physical transfers of cash transmitted to the FIU in accordance with Article 9 of Regulation (EU) 2018/1672 together with the follow-up given to the information submitted and, on an annual basis, the number of cases investigated, the number of persons prosecuted, the number of persons convicted for money laundering or terrorist financing offences, the types of predicate offences identified in accordance with Article 2 of Directive (EU) 2018/1673 of the European Parliament and of the Council (38) where such information is available, and the value in euro of property that has been frozen, seized or confiscated;
+(c)
+the number and percentage of suspicious transaction reports resulting in dissemination to other competent authorities and, if available, the number and percentage of reports resulting in further investigation, together with the annual report drawn up by FIUs pursuant to Article 27;
+(d)
+data regarding the number of cross-border requests for information that were made, received, refused and partially or fully answered by the FIU, broken down by counterpart country;
+(e)
+the number of mutual legal assistance or other international requests for information relating to beneficial ownership and bank account information as referred to in Chapter IV of Regulation (EU) 2024/1624 and Sections 1 and 2 of Chapter II of this Directive received from or made to counterparts outside the Union, broken down by competent authority and counterpart country;
+(f)
+human resources allocated to supervisors as well as human resources allocated to the FIU to fulfil the tasks specified in Article 19;
+(g)
+the number of on-site and off-site supervisory actions, the number of breaches identified on the basis of supervisory actions and pecuniary sanctions and periodic penalty payments imposed or administrative measures applied by supervisory authorities and self-regulatory bodies pursuant to Section 4 of Chapter IV;
+(h)
+the number and type of breaches identified in relation to the obligations of Chapter IV of Regulation (EU) 2024/1624 and pecuniary sanctions imposed or administrative measures applied in relation to those breaches, the number of discrepancies reported to the central register referred to in Article 10 of this Directive, as well as the number of checks carried out by the entity in charge of the central register or on its behalf pursuant to Article 10(11) of this Directive;
+(i)
+the following information regarding the implementation of Article 12:
+(i)
+the number of requests to access beneficial ownership information in central registers on the basis of the categories laid down in Article 12(2);
+(ii)
+the percentage of requests for access to information which is refused under each category laid down in Article 12(2);
+(iii)
+a summary of the categories of persons granted access to beneficial ownership information under Article 12(2), second subparagraph;
+(j)
+the number of searches of bank account registers or data retrieval mechanisms made by competent authorities, broken down by category of competent authority, and the number of searches of the interconnection of bank account registers made by FIUs and supervisory authorities;
+(k)
+the following data regarding implementation of targeted financial sanctions:
+(i)
+the value of funds or other assets frozen, broken down by type;
+(ii)
+human resources allocated to authorities competent for implementation and enforcement of targeted financial sanctions.
+3.   Member States shall ensure that the statistics referred to in paragraph 2 are collected and transmitted to the Commission on an annual basis. The statistics referred to in paragraph 2, points (a), (c), (d) and (f), shall also be transmitted to AMLA.
+AMLA shall store those statistics in its database in accordance with Article 11 of Regulation (EU) 2024/1620.
+4.   By 10 July 2029, AMLA shall adopt an opinion addressed to the Commission on the methodology for the collection of the statistics referred to in paragraph 2, points (a), (c), (d), (f) and (g).
+5.   The Commission may lay down, by means of implementing acts, the methodology for the collection of the statistics referred to in paragraph 2 of this Article and the arrangements for their transmission to the Commission and to AMLA. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+6.   By 10 July 2030 and every 2 years thereafter, the Commission shall publish a report summarising and explaining the statistics referred to in paragraph 2, and make it available on its website.

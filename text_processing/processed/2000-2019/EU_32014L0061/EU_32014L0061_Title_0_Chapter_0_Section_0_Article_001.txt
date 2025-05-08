@@ -1,0 +1,6 @@
+Article 1
+Subject matter and scope
+1.   This Directive aims to facilitate and incentivise the roll-out of high-speed electronic communications networks by promoting the joint use of existing physical infrastructure and by enabling a more efficient deployment of new physical infrastructure so that such networks can be rolled out at lower cost.
+2.   This Directive establishes minimum requirements relating to civil works and physical infrastructure, with a view to approximating certain aspects of the laws, regulations and administrative provisions of the Member States in those areas.
+3.   Member States may maintain or introduce measures in conformity with Union law which go beyond the minimum requirements established by this Directive with a view to better achieving the aim referred to in paragraph 1.
+4.   If any provision of this Directive conflicts with a provision of Directive 2002/21/EC, Directive 2002/19/EC, Directive 2002/20/EC, Directive 2002/22/EC or Directive 2002/77/EC, the relevant provision of those Directives shall prevail.

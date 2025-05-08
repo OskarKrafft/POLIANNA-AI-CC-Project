@@ -1,0 +1,12 @@
+Article 2
+NACE Rev. 2
+1.   NACE Rev. 2 shall include:
+(a)
+a first level consisting of headings identified by an alphabetical code (sections);
+(b)
+a second level consisting of headings identified by a two-digit numerical code (divisions);
+(c)
+a third level consisting of headings identified by a three-digit numerical code (groups); and
+(d)
+a fourth level consisting of headings identified by a four-digit numerical code (classes).
+2.   NACE Rev. 2 is set out in Annex I.

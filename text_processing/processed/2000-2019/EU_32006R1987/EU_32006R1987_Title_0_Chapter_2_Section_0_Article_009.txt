@@ -1,0 +1,4 @@
+Article 9
+Technical compliance
+1.   To ensure the prompt and effective transmission of data, each Member State shall observe, when setting up its N.SIS II, the protocols and technical procedures established to ensure the compatibility of its N.SIS II with CS-SIS. Those protocols and technical procedures shall be established in accordance with the procedure referred to in Article 51(2), without prejudice to the provisions of the instrument setting up the management authority.
+2.   If a Member State uses a national copy it shall ensure, by means of the services provided by CS-SIS, that data stored in the national copy are, by means of the automatic updates referred to in Article 4(4), identical to and consistent with the SIS II database, and that a search in its national copy produces a result equivalent to that of a search in the SIS II database.

@@ -1,0 +1,15 @@
+Article 33
+Measuring DTF for the purpose of calculating K‐DTF
+1.   For the purpose of calculating K‐DTF, DTF shall be the rolling average of the value of the total daily trading flow, measured throughout each business day over the previous nine months, excluding the three most recent months.
+DTF shall be the arithmetic mean of the daily values from the remaining six months.
+K‐DTF shall be calculated on the first business day of each month.
+2.   DTF shall be measured as the sum of the absolute value of buys and the absolute value of sells for both cash trades and derivatives in accordance with the following:
+(a)
+for cash trades, the value is the amount paid or received on each trade;
+(b)
+for derivatives, the value of the trade is the notional amount of the contract.
+The notional amount of interest rate derivatives shall be adjusted for the time to maturity (in years) of those contracts. The notional amount shall be multiplied by the duration set out in the following formula:
+Duration = time to maturity(in years) / 10
+3.   DTF shall exclude transactions executed by an investment firm for the purpose of providing portfolio management services on behalf of investment funds.
+DTF shall include transactions executed by an investment firm in its own name either for itself or on behalf of a client.
+4.   Where an investment firm has had a daily trading flow for less than nine months, it shall use historical data for DTF for the period specified under paragraph 1 as soon as such data becomes available to calculate K‐DTF. The competent authority may replace missing historical data points by regulatory determinations based on the business projections of the investment firm submitted in accordance with Article 7 of Directive 2014/65/EU.

@@ -1,0 +1,59 @@
+Article 4
+Quantification
+1.   A permanent carbon removal activity shall provide a permanent net carbon removal benefit, which shall be quantified using the following formula:
+permanent net carbon removal benefit = CRbaseline – CRtotal – GHGassociated > 0,
+where:
+(a)
+CRbaseline is the amount of carbon removals under the baseline;
+(b)
+CRtotal is the total amount of carbon removals of the activity;
+(c)
+GHGassociated is the increase in direct and indirect greenhouse gas emissions over the entire lifecycle of the activity which are attributable to its implementation, including indirect land use change, calculated, where applicable, in accordance with the protocols set forth in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories and any further refinement to these 2006 IPCC Guidelines.
+2.   A carbon farming activity shall provide a temporary net carbon removal benefit or a net soil emission reduction benefit, which shall be quantified using the following formulas:
+(a)
+temporary net carbon removal benefit = CRbaseline – CRtotal – GHGassociated > 0,
+where:
+(i)
+CRbaseline is the amount of carbon removals under the baseline;
+(ii)
+CRtotal is the total amount of carbon removals of the activity;
+(iii)
+GHGassociated is the increase in direct and indirect greenhouse gas emissions over the entire lifecycle of the activity which are attributable to its implementation, including indirect land use change, calculated, where applicable, in accordance with the protocols set forth in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories and any further refinement to these 2006 IPCC Guidelines;
+(b)
+net soil emission reduction benefit = LSEbaseline – LSEtotal + ASEbaseline – ASEtotal – GHGassociated > 0,
+where:
+(i)
+LSEbaseline is the amount of LULUCF soil emissions under the baseline;
+(ii)
+LSEtotal is the total amount of LULUCF soil emissions of the activity;
+(iii)
+ASEbaseline is the amount of agricultural soil emissions under the baseline;
+(iv)
+ASEtotal is the total amount of agricultural soil emissions of the activity;
+(v)
+GHGassociated is the increase in direct and indirect greenhouse gas emissions over the entire lifecycle of the activity which are attributable to its implementation, including indirect land use change, calculated, where applicable, in accordance with the protocols set forth in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories and any further refinement to these 2006 IPCC Guidelines.
+The scope of the quantities referred to in CRbaseline and CRtotal corresponds to the net greenhouse gas removals included in the scope of Regulation (EU) 2018/841.
+The scope of the quantities referred to in LSEbaseline and LSEtotal corresponds to the net greenhouse gas emissions from biogenic carbon pools as listed in Section B, points (e) and (f), of Annex I to Regulation (EU) 2018/841.
+The scope of the quantities referred to in ASEbaseline and ASEtotal corresponds to the emissions from the IPCC source category of agriculture, subcategory of 3.D agricultural soils.
+3.   The applicable certification methodologies shall require a breakdown by greenhouse gas of all quantities referred to in paragraph 2.
+4.   If soil emissions increase as a consequence of an activity that results in a temporary carbon removal through carbon farming, they shall be quantified and accounted for in the net carbon removal benefit. In particular, emissions from biogenic carbon pools as listed in Section B, points (e) and (f), of Annex I to Regulation (EU) 2018/841 shall be quantified and reported as part of CRtotal, and emissions from the IPCC source category of agriculture, subcategory of 3.D agricultural soils, shall be quantified and reported as GHGassociated.
+If soil emissions decrease as a consequence of an activity that results in a temporary carbon removal through carbon farming, they shall be quantified, reported and accounted for as a net soil emission reduction benefit.
+Where an activity results in both a temporary net carbon removal benefit and a net soil emission reduction benefit, the relevant methodology shall specify the allocation rules for the associated direct and indirect greenhouse gas emissions which are attributable to that activity.
+5.   A carbon storage in product activity shall provide a temporary net carbon removal benefit, which shall be quantified using the following formula:
+temporary net carbon removal benefit = CRbaseline – CRtotal – GHGassociated > 0,
+where:
+(a)
+CRbaseline is the amount of carbon removals under the baseline;
+(b)
+CRtotal is the total amount of carbon removals of the activity;
+(c)
+GHGassociated is the increase in direct and indirect greenhouse gas emissions over the entire lifecycle of the activity which are attributable to its implementation, including indirect land use change, calculated, where applicable, in accordance with the protocols set forth in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories and any further refinement to these 2006 IPCC Guidelines.
+6.   Quantities referred to in paragraphs 1 to 5 shall be attributed a negative sign (–) if they are net greenhouse gas removals and a positive sign (+) if they are net greenhouse gas emissions; they shall be expressed in tonnes of CO2 equivalent.
+7.   Permanent carbon removals, temporary carbon removals through carbon farming and carbon storage in products, soil emission reductions and associated greenhouse gas emissions shall be quantified in a relevant, conservative, accurate, complete, consistent, transparent and comparable manner, in accordance with the latest available scientific evidence. The monitoring shall be based on an appropriate combination of on-site measurements with remote sensing or modelling in accordance with the rules set out in the applicable certification methodologies.
+8.   The baseline referred to in paragraphs 1, 2 and 5 shall be highly representative of the standard performance of comparable practices and processes in similar social, economic, environmental, technological and regulatory circumstances and take into account the geographical context, including local pedoclimatic and regulatory conditions (‘standardised baseline’).
+9.   The standardised baseline shall be established by the Commission in the applicable certification methodologies set out in the delegated acts adopted pursuant to Article 8.
+The Commission shall review at least every five years and update, where appropriate, the standardised baseline in light of evolving regulatory circumstances and of the latest available scientific evidence. The updated standardised baseline shall apply only to an activity for which the activity period starts after the entry into force of the applicable certification methodology.
+10.   By way of derogation from paragraph 8, where duly justified in the applicable certification methodology, including due to the lack of data or the absence of sufficient comparable activities, an operator shall use a baseline that corresponds to the individual performance of a specific activity (‘activity-specific baseline’).
+11.   The activity-specific baselines shall be periodically updated, at the beginning of each activity period, unless otherwise stated in the applicable certification methodologies set out in the delegated acts adopted pursuant to Article 8.
+12.   The quantification of permanent carbon removals, temporary carbon removals through carbon farming and carbon storage in products, and soil emission reductions shall account for uncertainties in a conservative manner and in accordance with recognised statistical approaches. Uncertainties in the quantification of carbon removals and soil emission reductions shall be duly reported.
+13.   To support the quantification of temporary carbon removals and soil emission reductions generated by a carbon farming activity, the operator or group of operators shall, where feasible, gather data on carbon removals and greenhouse gas emissions based on the use of tier 3 methodologies in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories and the refinements to these 2006 IPCC Guidelines, and in a manner compatible with national greenhouse gas inventories under Regulation (EU) 2018/841 and Part 3 of Annex V to Regulation (EU) 2018/1999.

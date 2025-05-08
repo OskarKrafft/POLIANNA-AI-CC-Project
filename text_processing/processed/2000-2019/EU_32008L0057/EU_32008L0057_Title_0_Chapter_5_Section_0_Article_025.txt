@@ -1,0 +1,22 @@
+Article 25
+Additional authorisations for placing in service of non-TSI conform vehicles
+1.   In the case of vehicles that have been authorised to be placed in service in one Member State in accordance with Article 21(12) or Article 24, other Member States may decide in accordance with this Article whether additional authorisations to place in service are necessary on their territory.
+2.   The applicant shall submit to the national safety authority a technical file on the vehicle or type of vehicle, together with details of planned use on the network. The file shall contain the following information:
+(a)
+documentary evidence that the placing in service of the vehicle has been authorised in another Member State together with documentation on the procedure followed in order to show that the vehicle complied with the safety requirements in force, including, where applicable, information on derogations enjoyed or granted in accordance with Article 9;
+(b)
+the technical data, the maintenance programme and the operational characteristics. This shall include, in the case of vehicles equipped with data recorders, information on the data collection procedure, permitting read out and evaluation as provided for in Article 20(2)(c) of Directive 2004/49/EC;
+(c)
+records showing the vehicle's history of operation, maintenance and, where applicable, technical modifications undertaken after the authorisation;
+(d)
+evidence on technical and operational characteristics that shows that the vehicle is compatible with the infrastructures and fixed installations, including climate conditions, energy supply system, control-command and signalling system, track gauge and infrastructure gauges, maximum permitted axle load and other constraints of the network.
+3.   The information referred to in paragraph 2(a) and (b) may not be called into question by the national safety authority, save where the latter is able to demonstrate without prejudice to Article 16 the existence of a substantial safety risk. After the adoption of the reference document referred to in Article 27, the national safety authority may not invoke in this regard any Group A rule listed in that document.
+4.   The national safety authority may request additional information to be supplied, risk analyses to be carried out in accordance with Article 6(3)(a) of Directive 2004/49/EC or tests to be conducted on the network in order to verify that the information referred to in paragraph 2(c) and (d) of this Article complies with the national rules in force as notified to the Commission pursuant to Article 8 of Directive 2004/49/EC or to Article 17 of this Directive. However, after the adoption of the reference document referred to in Article 27 of this Directive, the national safety authority may only carry out such verification on the basis of the national rules relating to Group B or C listed in that document.
+The national safety authority shall define, after consultation with the applicant, the scope and content of the additional information, the risk analyses or the tests requested. The infrastructure manager, in consultation with the applicant, shall make every effort to ensure that any tests take place within three months of the applicant's request. Where appropriate, the national safety authority shall take measures to ensure that the tests take place.
+5.   All applications for an authorisation to place in service submitted in accordance with this Article shall be the subject of a decision by the national safety authority, to be taken as soon as possible and not later than:
+(a)
+four months after submission of the technical file referred to in paragraph 2;
+(b)
+where applicable, two months after provision of the additional information or risk analyses requested by the national safety authority pursuant to paragraph 4;
+(c)
+where applicable, two months after provision of the results of the tests requested by the national safety authority pursuant to paragraph 4.

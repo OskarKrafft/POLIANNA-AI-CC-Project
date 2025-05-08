@@ -1,0 +1,34 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘average specific emissions of CO2’ means, in relation to a manufacturer, the average of the specific emissions of CO2 of all new passenger cars of which it is the manufacturer;
+(b)
+‘certificate of conformity’ means the certificate referred to in Article 18 of Directive 2007/46/EC;
+(c)
+‘manufacturer’ means the person or body responsible to the approval authority for all aspects of the EC type-approval procedure in accordance with Directive 2007/46/EC and for ensuring conformity of production;
+(d)
+‘mass’ means the mass of the car with bodywork in running order as stated in the certificate of conformity and defined in section 2.6 of Annex I to Directive 2007/46/EC;
+(e)
+‘footprint’ means the track width multiplied by the wheelbase as stated in the certificate of conformity and defined in sections 2.1 and 2.3 of Annex I to Directive 2007/46/EC;
+(f)
+‘specific emissions of CO2’ means the CO2 emissions of a passenger car measured in accordance with Regulation (EC) No 715/2007 and specified as the CO2 mass emissions (combined) in the certificate of conformity. For passenger cars which are not type-approved in accordance with Regulation (EC) No 715/2007, ‘specific emissions of CO2’ means the CO2 emissions measured in accordance with the same measurement procedure as specified for passenger cars in Regulation (EC) No 692/2008, or in accordance with procedures adopted by the Commission to establish the CO2 emissions for such passenger cars;
+(g)
+‘specific emissions target’ means, in relation to a manufacturer, the average of the specific emissions of CO2 permitted in accordance with Annex I in respect of each new passenger car of which it is the manufacturer or, where the manufacturer is granted a derogation under Article 11, the specific emissions target determined in accordance with that derogation.
+2.   For the purposes of this Regulation ‘a group of connected manufacturers’ means a manufacturer and its connected undertakings. In relation to a manufacturer, ‘connected undertakings’ means:
+(a)
+undertakings in which the manufacturer has, directly or indirectly:
+—
+the power to exercise more than half the voting rights;
+—
+the power to appoint more than half the members of the supervisory board, board of management or bodies legally representing the undertaking; or
+—
+the right to manage the undertaking's affairs;
+(b)
+undertakings which directly or indirectly have, over the manufacturer, the rights or powers listed in point (a);
+(c)
+undertakings in which an undertaking referred to in point (b) has, directly or indirectly, the rights or powers listed in point (a);
+(d)
+undertakings in which the manufacturer together with one or more of the undertakings referred to in points (a), (b) or (c), or in which two or more of the latter undertakings, jointly have the rights or powers listed in point (a);
+(e)
+undertakings in which the rights or the powers listed in (a) are jointly held by the manufacturer or one or more of its connected undertakings referred to in points (a) to (d) and one or more third parties.

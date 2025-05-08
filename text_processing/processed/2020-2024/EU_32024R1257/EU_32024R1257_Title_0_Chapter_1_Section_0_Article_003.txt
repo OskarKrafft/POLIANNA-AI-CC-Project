@@ -1,0 +1,164 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the relevant definitions in Regulation (EU) 2018/858 apply.
+In addition, for the purposes of this Regulation, the following definitions apply:
+(1)
+‘emission type-approval’ means an EU type-approval complying with the administrative provisions and technical requirements of this Regulation as regards CO2 and pollutant emissions, fuel and electric energy consumption and battery durability;
+(2)
+‘granting type-approval authority’ means the approval authority that grants the emission type approval;
+(3)
+‘conformity of production’ or ‘CoP’ means the activities carried out on new vehicles, separate technical units or components selected at the manufacturer’s premises to ensure that the products placed on the market comply with the requirements set out in this Regulation;
+(4)
+‘in-service conformity’ or ‘ISC’ means the activities carried out on vehicles in circulation, systems, separate technical units or components with the purpose of verifying compliance with the durability requirements set out in this Regulation;
+(5)
+‘engine’ means the internal combustion engine of a vehicle;
+(6)
+‘emissions’ means the exhaust and non-exhaust emissions of a motor vehicle;
+(7)
+‘exhaust emissions’ means the emission from the tailpipe of the motor vehicle or engine of all of the following: CO2, gaseous, solid, liquid compounds and crankcase emissions;
+(8)
+‘gaseous pollutants’ means the emissions of gaseous chemical species, excluding CO2;
+(9)
+‘CO2’ means the carbon dioxide emitted from the tailpipe;
+(10)
+‘nitrogen oxides’ or ‘NOx’ means the sum of nitric oxide (NO) and nitrogen dioxide (NO2) emitted from the tailpipe;
+(11)
+‘nitrous oxide’ or ‘N2O’ means nitrous oxide emitted from the tailpipe;
+(12)
+‘particulate matter’ or ‘PM’ means any material emitted from the tailpipe or the brakes and collected on a filter media;
+(13)
+‘particulate matter less than 10 μm’ or ‘PM10’ means the particulate matter with a diameter of less than 10 μm;
+(14)
+‘particle number’ or ‘PN’ means the total number of solid particles emitted from the tailpipe or the brakes;
+(15)
+‘PN10’ means the total number of solid particles emitted from the tailpipe or the brakes that have a diameter larger or equal to 10 nm;
+(16)
+‘carbon monoxide’ or ‘CO’ means the carbon monoxide emitted from the tailpipe;
+(17)
+‘methane’ or ‘CH4’ means the methane emitted from the tailpipe;
+(18)
+‘total hydrocarbons’ or ‘THC’ means the total hydrocarbons emitted from the tailpipe;
+(19)
+‘non-methane hydrocarbons’ or ‘NMHC’ means the total hydrocarbons, excluding methane, emitted from the tailpipe;
+(20)
+‘non-methane organic gases’ or ‘NMOG’ means the sum of non-oxygenated and oxygenated hydrocarbons, excluding methane, emitted from the tailpipe;
+(21)
+‘ammonia’ or ‘NH3’ means the ammonia emitted from the tailpipe;
+(22)
+‘formaldehyde’ or ‘HCHO’ means the formaldehyde emitted from the tailpipe;
+(23)
+‘WHTC’ means the worldwide harmonised transient driving cycle in accordance with paragraph 7.2.1. of Annex 4 to UN Regulation No 49 (24);
+(24)
+‘WHSC’ means the worldwide harmonised steady state driving cycle in accordance with paragraph 7.2.2. of Annex 4 to UN Regulation No 49;
+(25)
+‘electric energy consumption’ is the rate at which a vehicle uses electric energy from its traction battery or batteries under specified conditions of use;
+(26)
+‘fuel consumption’ is the rate at which a vehicle uses fuel under specified conditions of use;
+(27)
+‘vehicle energy consumption calculation tool’ or ‘VECTO’ means a simulation tool used in determining CO2 emissions, fuel consumption, electric energy consumption and the electric range from heavy-duty vehicles;
+(28)
+‘evaporative emissions’ means the hydrocarbon vapours emitted from the fuel system of a vehicle, excluding those from exhaust emissions;
+(29)
+‘crankcase emissions’ means the gaseous pollutants from the spaces in, or external to, an engine which are connected to the oil sump by internal or external ducts;
+(30)
+‘brake particle emissions’ means the particles emitted from the brake system of a vehicle;
+(31)
+‘tyre abrasion’ means the mass of material lost from the tyre due to the abrasion process and emitted into the environment;
+(32)
+‘non-exhaust emissions’ means evaporative, tyre abrasion and brake emissions;
+(33)
+‘pollutant emissions’ means exhaust and non-exhaust emissions other than CO2 emissions;
+(34)
+‘pollution control device’ means a device of a vehicle that controls or limits pollutant emissions;
+(35)
+‘pollution control systems’ means the pollution control devices installed in a vehicle, including all control units and software that govern their use;
+(36)
+‘original pollution control systems’ means a pollution control system or an assembly of such systems covered by the type-approval granted for the vehicle concerned;
+(37)
+‘replacement pollution control systems’ means a pollution control system or an assembly of such systems which is intended to replace an original pollution control system and which can be approved as a separate technical unit;
+(38)
+‘on-board diagnostic system’ or ‘OBD system’ means a system on board a vehicle that can generate vehicle on-board diagnostic (OBD) information, as defined in Article 3, point 49, of Regulation (EU) 2018/858 and is capable of communicating that information off-board;
+(39)
+‘on-board monitoring system’ or ‘OBM system’ means a system on board a vehicle that is capable of monitoring exhaust emissions, detecting exhaust emission exceedances and capable of communicating that information together with the state-of-health information off-board;
+(40)
+‘on-board fuel and electric energy consumption monitoring device’ or ‘OBFCM device’ means any software or hardware on board a vehicle that detects and uses vehicle, engine, fuel or electric energy and payload/mass parameters to determine and store in the vehicle the fuel and electric energy consumption data and other parameters relevant in determining the fuel or electric energy consumption and energy efficiency of the vehicle;
+(41)
+‘manipulation device’ means any element of design that results in a vehicle not complying with the requirements of this Regulation when driven but not under a regulatory test, despite it resulting in the vehicle appearing to be compliant when tested, or that manipulates data related to sensors, fuel or electric energy consumption, electric range or battery durability;
+(42)
+‘manipulation strategy’ means a strategy that results in a vehicle not complying with the requirements of this Regulation when driven but not under regulatory test, despite it resulting in the vehicle appearing to be compliant when tested, or that manipulates data related to sensors, fuel or electric energy consumption, electric range or battery durability;
+(43)
+‘real-driving emissions’ or ‘RDE’ means the emissions of a vehicle under the conditions specified in Tables 1 and 2 of Annex III;
+(44)
+‘odometer’ means an instrument indicating the total distance driven by the vehicle since its production;
+(45)
+‘tampering’ means the inactivation, or modification of the engine or electric motor, vehicle pollution control devices and system, propulsion system, traction battery, odometer, OBFCM device, OBD or OBM system, including any software or other logical control elements of those systems and their data, resulting in the vehicle not complying with this Regulation;
+(46)
+‘own production facility’ means a manufacturing or assembly plant used by the manufacturer for the purpose of manufacturing or assembling new vehicles for that manufacturer, including, where relevant, vehicles which are intended for export;
+(47)
+‘own design centre’ means a facility in which the whole vehicle is designed and developed, and which is under the control and use of the manufacturer;
+(48)
+‘small-volume manufacturer’ means a manufacturer of fewer than 10 000 new motor vehicles of category M1, or 22 000 new motor vehicles of category N1, or 450 new motor vehicles of categories M2 and M3 combined, or 6 000 new motor vehicles of categories N2 and N3 combined, that are registered in the Union each calendar year, and which:
+(a)
+is not part of a group of connected manufacturers; or
+(b)
+is part of a group of connected manufacturers that is responsible in total for fewer than 10 000 new motor vehicles of category M1, or 22 000 new motor vehicles of category N1, or 450 new motor vehicles of categories M2 and M3 combined, or 6 000 new motor vehicles of categories N2 and N3 combined, that are registered in the Union each calendar year; or
+(c)
+is part of a group of connected manufacturers but operates its own production facilities and own design centre;
+(49)
+‘ultra-small-volume manufacturer’ means a small-volume manufacturer that produces fewer than 1 000 new motor vehicles of category M1 or fewer than 1 000 new motor vehicles of category N1 that are registered in the Union in the previous calendar year;
+(50)
+‘pure internal combustion engine vehicle’ or ‘ICEV’ means a vehicle where all of the propulsion energy converters are internal combustion engines, including hydrogen powered ones;
+(51)
+‘pure electric vehicle’ or ‘PEV’ means a vehicle equipped with a powertrain containing exclusively electric machines as propulsion energy converters and exclusively rechargeable electric energy storage systems as propulsion energy storage systems;
+(52)
+‘fuel cell’ means an energy converter transforming chemical energy (input) into electrical energy (output) or vice versa;
+(53)
+‘fuel cell vehicle’ or ‘FCV’ means a vehicle equipped with a powertrain containing exclusively fuel cell(s) and electric machine(s) as propulsion energy converter(s);
+(54)
+‘fuel cell hybrid vehicle’ or ‘FCHV’ means a fuel cell vehicle equipped with a powertrain containing at least one fuel storage system and at least one rechargeable electric energy storage system as propulsion energy storage systems;
+(55)
+‘hybrid vehicle’ or ‘HV’ means a vehicle equipped with a powertrain containing at least two different categories of propulsion energy converters and at least two different categories of propulsion energy storage systems;
+(56)
+‘hybrid electric vehicle’ or ‘HEV’ means a hybrid vehicle where one of the propulsion energy converters is an electric machine;
+(57)
+‘off-vehicle charging hybrid electric vehicle’ or ‘OVC-HEV’ means a hybrid electric vehicle that can be charged from an external source;
+(58)
+‘not off-vehicle charging hybrid electric vehicle’ or ‘NOVC-HEV’ means a vehicle with at least two different energy converters and two different energy storage systems that are used for the purpose of vehicle propulsion and that cannot be charged from an external source;
+(59)
+‘geofencing technologies’ means technologies that do not allow a hybrid vehicle to run with the use of the internal combustion engine, i.e. to enable zero-emission mode, when driven inside a specific geographic area;
+(60)
+‘zero-emission mode’ means a selectable mode, whereby a hybrid vehicle is driven without the use of the internal combustion engine;
+(61)
+‘mass in running order’ means the mass of the vehicle, with its fuel tank(s) filled to at least 90 per cent of their capacities, including the mass of the driver, fuel and liquids, fitted with the standard equipment in accordance with the manufacturer’s specifications and, when they are fitted, the mass of the bodywork, the cabin, the coupling and the spare wheels as well as the tools;
+(62)
+‘traction battery’ means a battery system that stores energy with the main purpose of propelling the vehicle;
+(63)
+‘electric range’ means the distance travelled in charge-depleting operation condition until the traction battery is depleted;
+(64)
+‘zero-emission range’ means the maximum distance a vehicle can travel with zero exhaust emissions, which for PEVs corresponds to the electric range;
+(65)
+‘durability’ means the ability of a system or device, component or any part of the vehicle to maintain its required performance over a given time;
+(66)
+‘battery durability’ means in-vehicle durability of a traction battery measured in terms of its state of health;
+(67)
+‘state of health’ or ‘SOH’ means the measured or estimated state of a specific performance metric of a vehicle or traction battery at a specific point in its lifetime, expressed as a percentage of the performance that was determined when certified or new;
+(68)
+‘environmental vehicle passport’ or ‘EVP’ means a record in digital form that contains information on the environmental performance of a vehicle at the moment of registration, including the level of pollutant emission limits, CO2 emissions, fuel consumption, electric energy consumption, electric range and engine or electric motor power, and battery durability and other related values;
+(69)
+‘excess exhaust emissions driver warning system’ means a system designed, constructed and installed in a vehicle to provide information to the user about excess exhaust emissions and to ensure repairs before further use;
+(70)
+‘low-reagent driver warning system’ means a system designed, constructed and installed in a vehicle to warn the user of the low level of the consumable reagent and to ensure the use of the reagent;
+(71)
+‘declaration of compliance’ or ‘declaration’ means a declaration by the manufacturer that a specific type or group of vehicles, component or separate technical unit is in compliance with the requirements of this Regulation;
+(72)
+‘energy efficiency of a trailer’ means the performance of a trailer with regard to its influence on the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and engine or electric motor power of a towing motor vehicle;
+(73)
+‘snow tyre’ means a tyre whose tread pattern, tread compound or construction is primarily designed to achieve in mud and snow conditions a performance better than that of a normal tyre with regard to its ability to initiate and control vehicle motion;
+(74)
+‘tyre for use in severe snow conditions’ means a snow tyre or a special use tyre whose tread pattern, tread compound or structure is specifically designed to be used in severe snow conditions;
+(75)
+‘ice grip tyre’ means a C1 class snow tyre for use in severe snow conditions, that is additionally designed to be used on road surfaces covered with ice and that fulfils the requirements provided for in UN Regulation No 117;
+(76)
+‘special use tyre’ means a tyre intended for mixed use both on- and off-road or for other special duty and that is primarily designed to initiate and maintain the vehicle in motion in off-road conditions;
+(77)
+‘option’ means a set of additional requirements laid down in this Regulation, which manufacturers may choose to comply with in order to be able to use the corresponding designation for the vehicles they manufacture.

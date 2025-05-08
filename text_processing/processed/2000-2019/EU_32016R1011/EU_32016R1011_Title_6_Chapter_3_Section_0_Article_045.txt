@@ -1,0 +1,20 @@
+Article 45
+Publication of decisions
+1.   Subject to paragraph 2, a competent authority shall publish any decision imposing an administrative sanction or other administrative measure in relation to infringements of this Regulation on its official website immediately after the person subject to that decision has been informed of that decision. Such publication shall include at least information on the type and nature of the infringement and the identity of the persons subject to the decision.
+The first subparagraph does not apply to decisions imposing measures that are of an investigatory nature.
+2.   Where a competent authority considers that the publication of the identity of the legal person or of the personal data of a natural person, would be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where such publication would jeopardise the stability of financial markets or an on-going investigation, it shall do any of the following:
+(a)
+defer publication of the decision until such time as the reasons for that deferral cease to exist;
+(b)
+publish the decision on an anonymous basis in accordance with national law where such anonymous publication ensures an effective protection of the personal data concerned;
+(c)
+not publish the decision at all in the event that the competent authority is of the opinion that publication in accordance with point (a) or (b) will be insufficient to ensure:
+(i)
+that the stability of financial markets is not jeopardised; or
+(ii)
+the proportionality of the publication of such decisions with regard to measures which are deemed to be of a minor nature.
+Where a competent authority decides to publish a decision on an anonymous basis as referred to in point (b) of the first subparagraph, it may postpone the publication of the relevant data for a reasonable period of time where it is foreseeable that the reasons for anonymous publication shall cease to exist during that period.
+3.   Where the decision is subject to an appeal before a national judicial, administrative or other authority, the competent authority shall also publish, immediately, on its official website such information and any subsequent information on the outcome of such appeal. Any decision annulling a previous decision to impose a sanction or a measure shall also be published.
+4.   The competent authority shall ensure that any decision that is published in accordance with this Article shall remain accessible on its official website for a period of at least five years after its publication. Personal data contained in the publication shall only be kept on the official website of the competent authority for the period which is necessary in accordance with the applicable data protection rules.
+5.   Member States shall annually provide ESMA with aggregated information regarding all administrative sanctions and other administrative measures imposed pursuant to Article 42. That obligation does not apply to measures of an investigatory nature. ESMA shall publish that information in an annual report.
+Where Member States have chosen, in accordance with Article 42, to lay down criminal sanctions for infringements of the provisions referred to in that Article, their competent authorities shall annually provide ESMA with anonymised and aggregated data regarding all criminal investigations undertaken and criminal sanctions imposed. ESMA shall publish data on criminal sanctions imposed in an annual report.

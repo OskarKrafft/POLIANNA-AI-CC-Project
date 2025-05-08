@@ -1,0 +1,29 @@
+Article 37
+Non-discriminatory access to and obligation to licence benchmarks
+1.   Where the value of any financial instrument is calculated by reference to a benchmark, a person with proprietary rights to the benchmark shall ensure that CCPs and trading venues are permitted, for the purposes of trading and clearing, non-discriminatory access to:
+(a)
+relevant price and data feeds and information on the composition, methodology and pricing of that benchmark for the purposes of clearing and trading; and
+(b)
+licences.
+A licence including access to information shall be granted on a fair, reasonable and non-discriminatory basis within three months following the request by a CCP or a trading venue.
+Access shall be given at a reasonable commercial price taking into account the price at which access to the benchmark is granted or the intellectual property rights are licensed on equivalent terms to another CCP, trading venues or any related persons for the purposes of clearing and trading. Different prices can be charged to different CCPs, trading venues or any related persons only where objectively justified having regard to reasonable commercial grounds such as the quantity, scope or field of use demanded.
+2.   Where a new benchmark is developed after 3 January 2017 the obligation to licence starts no later than 30 months after a financial instrument referencing that benchmark commenced trading or was admitted to trading. Where a person with proprietary rights to a new benchmark owns an existing benchmark, that person shall establish that compared to any such existing benchmark the new benchmark meets the following cumulative criteria:
+(a)
+the new benchmark is not a mere copy or adaptation of any such existing benchmark and the methodology, including the underlying data, of the new benchmark is meaningfully different from any such existing benchmark; and
+(b)
+the new benchmark is not a substitute for any such existing benchmark.
+This paragraph shall be without prejudice to the application of competition rules and, in particular, Article 101 and 102 TFEU.
+3.   No CCP, trading venue or related entity may enter into an agreement with any provider of a benchmark the effect of which would be either:
+(a)
+to prevent any other CCP or trading venue from obtaining access to such information or rights as referred to in paragraph 1; or
+(b)
+to prevent any other CCP or trading venue from obtaining access to such a licence, as referred to in paragraph 1.
+4.   ESMA shall develop draft regulatory technical standards to specify:
+(a)
+the information through licensing to be made available under paragraph 1(a) for the sole use of the CCP or trading venue;
+(b)
+other conditions under which access is granted, including confidentiality of information provided;
+(c)
+the standards guiding how a benchmark may be proven to be new in accordance with paragraph 2(a) and (b).
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

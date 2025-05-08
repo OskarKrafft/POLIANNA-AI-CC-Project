@@ -1,0 +1,22 @@
+Article 6
+Procedures to be followed for the EC type-approval of vehicles
+1.   The manufacturer may choose one of the following procedures:
+(a)
+step-by-step type-approval;
+(b)
+single-step type-approval;
+(c)
+mixed type-approval.
+2.   An application for step-by-step type-approval shall consist of the information folder containing the information required under Annex III and shall be accompanied by the complete set of type-approval certificates required pursuant to each of the applicable regulatory acts listed in Annex IV or Annex XI. In the case of the type-approval of a system or separate technical unit, pursuant to the applicable regulatory acts, the approval authority shall have access to the related information package until such time as the approval is either issued or refused.
+3.   An application for single-step type-approval shall consist of the information folder containing the relevant information required under Annex I, in relation to the regulatory acts specified in Annex IV or Annex XI and, where applicable, in Part II of Annex III.
+4.   In the case of a mixed type-approval procedure, the approval authority may exempt a manufacturer from the obligation to produce one or more EC system type-approval certificates, provided that the information folder is supplemented by the particulars, specified in Annex I, required for the approval of those systems during the vehicle approval phase, in which case each of the EC type-approval certificates thus waived shall be replaced by a test report.
+5.   Without prejudice to paragraphs 2, 3 and 4, the following information shall be supplied for the purposes of multi-stage type-approval:
+(a)
+at the first stage, those parts of the information folder and the EC type-approval certificates required for a complete vehicle which are relevant to the state of completion of the base vehicle;
+(b)
+at the second and subsequent stages, those parts of the information folder and the EC type-approval certificates which are relevant to the current stage of construction, together with a copy of the EC type-approval certificate for the vehicle issued at the preceding stage of construction; in addition, the manufacturer shall supply full details of any changes or additions that he has made to the vehicle.
+The information specified in points (a) and (b) may be supplied in accordance with the mixed type-approval procedure set out in paragraph 4.
+6.   The manufacturer shall submit the application to the approval authority. Only one application may be submitted in respect of a particular type of vehicle and it may be submitted in only one Member State.
+A separate application shall be submitted for each type to be approved.
+7.   The approval authority may, by reasoned request, call upon the manufacturer to supply any additional information needed to enable a decision to be taken on what tests are required or to facilitate the execution of those tests.
+8.   The manufacturer shall make available to the approval authority as many vehicles as are necessary to enable the type-approval procedure to be conducted satisfactorily.

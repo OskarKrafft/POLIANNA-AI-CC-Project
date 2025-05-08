@@ -1,0 +1,9 @@
+Article 19
+Repository for links
+1.   The Commission, in close cooperation with the Member States, shall establish and maintain an electronic repository for links to the information, procedures and assistance and problem-solving services referred to in Article 2(2) allowing the connection between such services and the common user interface.
+2.   The Commission shall provide the repository for links with the links to the information, procedures and assistance and problem-solving services accessible on the webpages managed at Union level, and it shall keep those links accurate and up-to-date.
+3.   The national coordinators shall provide the repository for links with the links to the information, procedures and assistance and problem-solving services accessible on the webpages managed by competent authorities, or by private or semi-private entities as referred to in Article 7(3), and they shall keep those links accurate and up-to-date.
+4.   Where technically possible, the provision, referred to in paragraph 3, of the links may be carried out automatically between the relevant systems of the Member States and the repository for links.
+5.   The Commission shall make the information included in the repository for links publicly available in an open and machine-readable format.
+6.   The Commission and the national coordinators shall ensure that the links to information, procedures and assistance or problem-solving services offered through the gateway do not contain any unnecessary full or partial duplication and overlaps that are likely to confuse users.
+7.   Where the making available of information referred to in Article 4 is provided for in other provisions of Union law, the Commission and the national coordinators may provide links to that information in order to comply with the requirements of that Article.

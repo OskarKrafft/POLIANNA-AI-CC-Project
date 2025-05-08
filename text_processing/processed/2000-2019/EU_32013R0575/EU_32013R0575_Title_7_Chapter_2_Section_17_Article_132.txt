@@ -1,0 +1,45 @@
+Article 132
+Exposures in the form of units or shares in CIUs
+1.   Exposures in the form of units or shares in CIUs shall be assigned a risk weight of 100 %, unless the institution applies the credit risk assessment method under paragraph 2, or the look-through approach in paragraph 4 or the average risk weight approach under paragraph 5 when the conditions in paragraph 3 are met.
+2.   Exposures in the form of units or shares in CIUs for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 8 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+
+Table 8
+
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20  %
+50  %
+100  %
+100  %
+150  %
+150  %
+3.   Institutions may determine the risk weight for a CIU in accordance with paragraphs 4 and 5, if the following eligibility criteria are met:
+(a)
+the CIU is managed by a company that is subject to supervision in a Member State or, in the case of third country CIU, where the following conditions are met:
+(i)
+the CIU is managed by a company which is subject to supervision that is considered equivalent to that laid down in Union law;
+(ii)
+cooperation between competent authorities is sufficiently ensured;
+(b)
+the CIU's prospectus or equivalent document includes the following:
+(i)
+the categories of assets in which the CIU is authorised to invest;
+(ii)
+if investment limits apply, the relative limits and the methodologies to calculate them;
+(c)
+the business of the CIU is reported on at least an annual basis to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period.
+For the purposes of point (a), the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to whether a third country applies supervisory and regulatory arrangements at least equivalent to those applied in the Union. In the absence of such a decision, until 1 January 2015, institutions may continue to apply the treatment set out in this paragraph to exposures in the form of units or shares of CIUs from third countries where the relevant competent authorities had approved the third country as eligible for that treatment before 1 January 2014.
+4.   Where the institution is aware of the underlying exposures of a CIU, it may look through to those underlying exposures in order to calculate an average risk weight for its exposures in the form of units or shares in the CIUs in accordance with the methods set out in this Chapter. Where an underlying exposure of the CIU is itself an exposure in the form of shares in another CIU which fulfils the criteria of paragraph 3, the institution may look through to the underlying exposures of that other CIU.
+5.   Where the institution is not aware of the underlying exposures of a CIU, it may calculate an average risk weight for its exposures in the form of a unit or share in the CIU in accordance with the methods set out in this Chapter subject to the assumption that the CIU first invests, to the maximum extent allowed under its mandate, in the exposure classes attracting the highest capital requirement, and then continues making investments in descending order until the maximum total investment limit is reached.
+Institutions may rely on the following third parties to calculate and report, in accordance with the methods set out in paragraphs 4 and 5, a risk weight for the CIU:
+(a)
+the depository institution or the depository financial institution of the CIU provided that the CIU exclusively invests in securities and deposits all securities at that depository institution or the financial institution;
+(b)
+for CIUs not covered by point (a), the CIU management company, provided that the CIU management company meets the criteria set out in paragraph 3(a).
+The correctness of the calculation referred to in the first subparagraph shall be confirmed by an external auditor.

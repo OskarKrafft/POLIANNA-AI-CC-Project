@@ -1,0 +1,5 @@
+Article 3
+Object
+This Directive establishes the requirements that the devices and systems referred to in Article 1 have to satisfy with a view to their being placed on the market and/or put into use for those tasks mentioned in Article 2(1).
+This Directive is a specific Directive in respect of requirements for electromagnetic immunity in the sense of Article 2(2) of Directive 89/336/EEC. Directive 89/336/EEC continues to apply with regard to emission requirements.
+

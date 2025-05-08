@@ -1,0 +1,53 @@
+Article 63
+New interconnectors
+1.   New direct current interconnectors may, upon request, be exempted, for a limited period, from Article 19(2) and (3) of this Regulation and from Articles 6 and 43, Article 59(7) and Article 60(1) of Directive (EU) 2019/944 provided that the following conditions are met:
+(a)
+the investment enhances competition in electricity supply;
+(b)
+the level of risk attached to the investment is such that the investment would not take place unless an exemption is granted;
+(c)
+the interconnector is owned by a natural or legal person which is separate, at least in terms of its legal form, from the system operators in whose systems that interconnector is to be built;
+(d)
+charges are levied on users of that interconnector;
+(e)
+since the partial market opening referred to in Article 19 of Directive 96/92/EC of the European Parliament and of the Council (24), no part of the capital or operating costs of the interconnector has been recovered from any component of charges made for the use of transmission or distribution systems linked by the interconnector; and
+(f)
+an exemption would not be to the detriment of competition or the effective functioning of the internal market for electricity, or the efficient functioning of the regulated system to which the interconnector is linked.
+2.   Paragraph 1 shall also apply, in exceptional cases, to alternating current interconnectors provided that the costs and risks of the investment in question are particularly high when compared with the costs and risks normally incurred when connecting two neighbouring national transmission systems by an alternating current interconnector.
+3.   Paragraph 1 shall also apply to significant increases of capacity in existing interconnectors.
+4.   The decision granting an exemption as referred to in paragraphs 1, 2 and 3 shall be taken on a case-by-case basis by the regulatory authorities of the Member States concerned. An exemption may cover all or part of the capacity of the new interconnector, or of the existing interconnector with significantly increased capacity.
+Within two months of receipt of the request for exemption by the last of the regulatory authorities concerned, ACER may provide those regulatory authorities with an opinion. The regulatory authorities may base their decision on that opinion.
+In deciding to grant an exemption, regulatory authorities shall take into consideration, on a case-by-case basis, the need to impose conditions regarding the duration of the exemption and non-discriminatory access to the interconnector. When deciding on those conditions, regulatory authorities shall, in particular, take account of additional capacity to be built or the modification of existing capacity, the time-frame of the project and national circumstances.
+Before granting an exemption, the regulatory authorities of the Member States concerned shall decide on the rules and mechanisms for management and allocation of capacity. Those congestion-management rules shall include the obligation to offer unused capacity on the market and users of the facility shall be entitled to trade their contracted capacities on the secondary market. In the assessment of the criteria referred to in points (a), (b) and (f) of paragraph 1, the results of the capacity-allocation procedure shall be taken into account.
+Where all the regulatory authorities concerned have reached agreement on the exemption decision within six months of receipt of the request, they shall inform ACER of that decision.
+The exemption decision, including any conditions referred to in the third subparagraph of this paragraph, shall be duly reasoned and published.
+5.   The decision referred to in paragraph 4 shall be taken by ACER:
+(a)
+where the regulatory authorities concerned have not been able to reach an agreement within six months from the date on which the last of those regulatory authorities received the exemption request; or
+(b)
+upon a joint request from the regulatory authorities concerned.
+Before taking such a decision, ACER shall consult the regulatory authorities concerned and the applicants.
+6.   Notwithstanding paragraphs 4 and 5, Member States may provide for the regulatory authority or ACER, as the case may be, to submit, for a formal decision, to the relevant body in the Member State, its opinion on the request for an exemption. That opinion shall be published together with the decision.
+7.   A copy of every request for exemption shall be transmitted for information without delay by the regulatory authorities to the Commission and ACER on receipt. The decision shall be notified, without delay, by the regulatory authorities concerned or by ACER (the notifying bodies), to the Commission, together with all the relevant information with respect to the decision. That information may be submitted to the Commission in aggregate form, enabling the Commission to reach a well-founded decision. In particular, the information shall contain:
+(a)
+the detailed reasons on the basis of which the exemption was granted or refused, including the financial information justifying the need for the exemption;
+(b)
+the analysis undertaken of the effect on competition and the effective functioning of the internal market for electricity resulting from the grant of the exemption;
+(c)
+the reasons for the time period and the share of the total capacity of the interconnector in question for which the exemption is granted; and
+(d)
+the result of the consultation of the regulatory authorities concerned.
+8.   Within 50 working days of the day following that of receipt of the notification under paragraph 7, the Commission may take a decision requesting the notifying bodies to amend or withdraw the decision to grant an exemption. That period may be extended by an additional 50 working days where further information is requested by the Commission. The additional period shall begin on the day following receipt of the complete information. The initial period may also be extended by consent of both the Commission and the notifying bodies.
+Where the requested information is not provided within the period set out in the Commission's request, the notification shall be deemed to be withdrawn unless, before the expiry of that period, either the period is extended by consent of both the Commission and the notifying bodies, or the notifying bodies, in a duly reasoned statement, inform the Commission that they consider the notification to be complete.
+The notifying bodies shall comply with a Commission decision to amend or withdraw the exemption decision within one month of receipt and shall inform the Commission accordingly.
+The Commission shall protect the confidentiality of commercially sensitive information.
+The Commission's approval of an exemption decision shall expire two years after the date of its adoption in the event that construction of the interconnector has not started by that date, and five years after the date of its adoption if the interconnector has not become operational by that date, unless the Commission decides, on the basis of a reasoned request by the notifying bodies, that any delay is due to major obstacles beyond the control of the person to whom the exemption has been granted.
+9.   Where the regulatory authorities of the Member States concerned decide to modify an exemption decision, they shall notify their decision to the Commission without delay, together with all the relevant information with respect to the decision. Paragraphs 1 to 8 shall apply to the decision to modify an exemption decision, taking into account the particularities of the existing exemption.
+10.   The Commission may, on request or on its own initiative, reopen proceedings relating to an exemption request where:
+(a)
+taking due account of the legitimate expectations of the parties and of the economic balance achieved in the original exemption decision, there has been a material change in any of the facts on which the decision was based;
+(b)
+the undertakings concerned act contrary to their commitments; or
+(c)
+the decision was based on incomplete, incorrect or misleading information, which was provided by the parties.
+11.   The Commission is empowered to adopt delegated acts in accordance with Article 68 supplementing this Regulation by specifying guidelines for the application of the conditions laid down in paragraph 1 of this Article and setting out the procedure to be followed for the application of paragraphs 4 and 7 to 10 of this Article.

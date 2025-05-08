@@ -1,0 +1,24 @@
+Article 5
+Identification of operators of essential services
+1.   By 9 November 2018, for each sector and subsector referred to in Annex II, Member States shall identify the operators of essential services with an establishment on their territory.
+2.   The criteria for the identification of the operators of essential services, as referred to in point (4) of Article 4, shall be as follows:
+(a)
+an entity provides a service which is essential for the maintenance of critical societal and/or economic activities;
+(b)
+the provision of that service depends on network and information systems; and
+(c)
+an incident would have significant disruptive effects on the provision of that service.
+3.   For the purposes of paragraph 1, each Member State shall establish a list of the services referred to in point (a) of paragraph 2.
+4.   For the purposes of paragraph 1, where an entity provides a service as referred to in point (a) of paragraph 2 in two or more Member States, those Member States shall engage in consultation with each other. That consultation shall take place before a decision on identification is taken.
+5.   Member States shall, on a regular basis, and at least every two years after 9 May 2018, review and, where appropriate, update the list of identified operators of essential services.
+6.   The role of the Cooperation Group shall be, in accordance with the tasks referred to in Article 11, to support Member States in taking a consistent approach in the process of identification of operators of essential services.
+7.   For the purpose of the review referred to in Article 23 and by 9 November 2018, and every two years thereafter, Member States shall submit to the Commission the information necessary to enable the Commission to assess the implementation of this Directive, in particular the consistency of Member States' approaches to the identification of operators of essential services. That information shall include at least:
+(a)
+national measures allowing for the identification of operators of essential services;
+(b)
+the list of services referred to in paragraph 3;
+(c)
+the number of operators of essential services identified for each sector referred to in Annex II and an indication of their importance in relation to that sector;
+(d)
+thresholds, where they exist, to determine the relevant supply level by reference to the number of users relying on that service as referred to in point (a) of Article 6(1) or to the importance of that particular operator of essential services as referred to in point (f) of Article 6(1).
+In order to contribute to the provision of comparable information, the Commission, taking the utmost account of the opinion of ENISA, may adopt appropriate technical guidelines on parameters for the information referred to in this paragraph.

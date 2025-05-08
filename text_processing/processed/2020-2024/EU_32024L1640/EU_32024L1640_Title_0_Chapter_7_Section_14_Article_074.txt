@@ -1,0 +1,23 @@
+Article 74
+Amendments to Directive (EU) 2015/849
+Directive (EU) 2015/849 is amended as follows:
+(1)
+in Article 30(5), the first and second subparagraphs are replaced by the following:
+‘5.   Member States shall ensure that the information on the beneficial ownership is accessible in all cases to:
+(a)
+competent authorities and FIUs, without any restriction;
+(b)
+obliged entities, within the framework of customer due diligence in accordance with Chapter II;
+(c)
+any person or organisation that can demonstrate a legitimate interest.
+The persons or organisations referred to in point (c) of the first subparagraph shall be permitted to access at least the name, the month and year of birth and the country of residence and nationality of the beneficial owner as well as the nature and extent of the beneficial interest held.’
+(2)
+in Article 31(4), the first and second subparagraphs are replaced by the following:
+‘4.   Member States shall ensure that the information on the beneficial ownership of a trust or a similar legal arrangement is accessible in all cases to:
+(a)
+competent authorities and FIUs, without any restriction;
+(b)
+obliged entities, within the framework of customer due diligence in accordance with Chapter II;
+(c)
+any natural or legal person that can demonstrate a legitimate interest to access beneficial ownership information.
+The information accessible to natural or legal persons referred to in point (c) of the first subparagraph shall consist of the name, the month and year of birth and the country of residence and nationality of the beneficial owner, as well as nature and extent of beneficial interest held.’.

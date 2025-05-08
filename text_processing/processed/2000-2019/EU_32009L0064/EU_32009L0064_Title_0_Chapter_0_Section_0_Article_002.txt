@@ -1,0 +1,25 @@
+Article 2
+1.   Member States may not, on grounds relating to electromagnetic compatibility:
+—
+refuse to grant EC type-approval or national type-approval in respect of any given type of vehicle,
+—
+refuse to grant EC component or technical unit type-approval in respect of any given type of component or separate technical unit,
+—
+prohibit the registration, sale or entry into service of vehicles,
+—
+prohibit the sale or use of components or separate technical units,
+if the vehicles, components or separate technical units comply with the requirements of this Directive.
+2.   Member States
+—
+may not grant EC vehicle type-approval, EC component type-approval or EC separate technical unit type-approval, and
+—
+may refuse to grant national type-approval,
+for any type of vehicle, component or separate technical unit, if the requirements of this Directive are not fulfilled.
+3.   Paragraph 2 shall not apply to vehicle types approved before 1 October 2002 pursuant to Council Directive 77/537/EEC of 28 June 1977 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of pollutants from diesel engines for use in wheeled agricultural or forestry tractors (6) or to any subsequent extensions to those approvals.
+4.   Member States:
+—
+shall consider certificates of conformity which accompany new vehicles in accordance with Directive 2003/37/EC to be not valid for the purposes of Article 7(1) of that Directive, and
+—
+may refuse the sale and entry into service of new electrical or electronic sub-assemblies as components or separate technical units,
+if the requirements of this Directive are not fulfilled.
+5.   Without prejudice to paragraphs 2 and 4, in the case of replacement parts, Member States shall continue to grant EC type-approval and to permit the sale and entry into service of components or separate technical units intended for use on vehicle types which have been approved before 1 October 2002 pursuant to Directive 75/322/EEC or Directive 77/537/EEC and, where applicable, subsequent extensions to those approvals.

@@ -1,0 +1,18 @@
+Article 87
+Hydrogen networks in isolated regions
+1.   Member States may grant derogations from the application of Article 46, 68 or 71 to hydrogen networks located in outermost regions within the meaning of Article 349 TFEU and in isolated regions with the following NUTS 2 and NUTS 3 codes of Nomenclature for Territorial Units for Statistics (NUTS) established by Regulation (EC) No 1059/2003 of the European Parliament and of the Council (52):
+(i)
+Cyprus (NUTS 2 CY00);
+(ii)
+Kainuu (NUTS 3 FI1D8);
+(iii)
+Lapland (NUTS 3 FI1D7);
+(iv)
+Malta (NUTS 2 MT00);
+(v)
+Northern Ostrobothnia (NUTS 3 FI1D9);
+(vi)
+Upper Norrland (NUTS 2 SE33).
+2.   Any derogation granted pursuant to paragraph 1 shall be made public and notified to the Commission.
+3.   Derogations granted pursuant to paragraph 1 shall expire 15 years from the date on which they are granted, and in any event no later than 31 December 2044. Such derogations shall not be renewed. Member States shall withdraw a derogation granted pursuant to paragraph 1 where a hydrogen network benefitting from such derogation is extended beyond the isolated region or becomes connected to hydrogen networks located outside the region.
+4.   Every seven years from the date of granting of a derogation pursuant to paragraph 1, or upon a reasoned request by the Commission, the regulatory authority of the Member State which granted that derogation shall publish an assessment of the impact of that derogation on competition, infrastructure development and market functioning. If the regulatory authority concludes after such assessment that the continued application of the derogation would carry the risk of impeding competition or adversely affecting the efficient deployment of hydrogen infrastructure or the development of the market for hydrogen in the Member State or the Union, the Member State shall withdraw the derogation.

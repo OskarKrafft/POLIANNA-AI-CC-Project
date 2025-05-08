@@ -1,0 +1,8 @@
+Article 95
+1.   Where significant credit risk associated with securitised exposures has been transferred from the originator credit institution in accordance with the terms of Annex IX, Part 2, that credit institution may:
+(a)
+in the case of a traditional securitisation, exclude from its calculation of risk‐weighted exposure amounts, and, as relevant, expected loss amounts, the exposures which it has securitised; and
+(b)
+in the case of a synthetic securitisation, calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, in respect of the securitised exposures in accordance with Annex IX, Part 2.
+2.   Where paragraph 1 applies, the originator credit institution shall calculate the risk‐weighted exposure amounts prescribed in Annex IX for the positions that it may hold in the securitisation.
+Where the originator credit institution fails to transfer significant credit risk in accordance with paragraph 1, it need not calculate risk-weighted exposure amounts for any positions it may have in the securitisation in question.

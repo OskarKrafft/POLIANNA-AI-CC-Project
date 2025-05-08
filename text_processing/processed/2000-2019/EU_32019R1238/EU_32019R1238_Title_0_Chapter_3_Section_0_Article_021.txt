@@ -1,0 +1,25 @@
+Article 21
+Provision of information on portability to the competent authorities
+1.   The PEPP provider wishing to open a new sub-account for a host Member State for the first time shall notify the competent authorities of the home Member State.
+2.   The PEPP provider shall include in the notification the following information and documents:
+(a)
+standard contract terms of the PEPP contract, as referred to in Article 4, including the annex for the new sub-account;
+(b)
+the PEPP KID, containing the specific requirements for the sub-account corresponding to the new sub-account in accordance with point (g) of Article 28(3);
+(c)
+the PEPP Benefit Statement referred to in Article 36;
+(d)
+information about contractual arrangements referred to in Article 19(2), where applicable.
+3.   The competent authorities of the home Member State shall verify whether the documentation provided is complete and transmit it within 10 working days of receipt of the complete documentation to the competent authorities of the host Member State.
+4.   The competent authorities of the host Member State shall without delay acknowledge the receipt of the information and documents referred to in paragraph 2.
+5.   The competent authorities of the home Member State shall then inform the PEPP provider that the information has been received by the competent authorities of the host Member State and that the PEPP provider can open the sub-account for that Member State.
+In the absence of acknowledgment of receipt as referred to in paragraph 4 within 10 working days of the date of the transmission of the documentation as referred to in paragraph 3, the competent authorities of the home Member State shall inform the PEPP provider that the sub-account for that Member State can be opened.
+6.   In the event of a change in any of the information and documents referred to in paragraph 2, the PEPP provider shall notify that change to the competent authorities of the home Member State at least one month before implementing the change. The competent authorities of the home Member State shall inform the competent authorities of the host Member State about the change as soon as possible and no later than one month from receipt of the notification.
+
+SECTION I
+
+
+
+General provisions
+
+

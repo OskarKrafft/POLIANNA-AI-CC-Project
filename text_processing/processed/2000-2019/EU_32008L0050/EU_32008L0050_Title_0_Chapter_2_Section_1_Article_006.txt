@@ -1,0 +1,16 @@
+Article 6
+Assessment criteria
+1.   Member States shall assess ambient air quality with respect to the pollutants referred to in Article 5 in all their zones and agglomerations, in accordance with the criteria laid down in paragraphs 2, 3 and 4 of this Article and in accordance with the criteria laid down in Annex III.
+2.   In all zones and agglomerations where the level of pollutants referred to in paragraph 1 exceeds the upper assessment threshold established for those pollutants, fixed measurements shall be used to assess the ambient air quality. Those fixed measurements may be supplemented by modelling techniques and/or indicative measurements to provide adequate information on the spatial distribution of the ambient air quality.
+3.   In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the upper assessment threshold established for those pollutants, a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess the ambient air quality.
+4.   In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the lower assessment threshold established for those pollutants, modelling techniques or objective-estimation techniques or both shall be sufficient for the assessment of the ambient air quality.
+5.   In addition to the assessments referred to in paragraphs 2, 3 and 4, measurements shall be made, at rural background locations away from significant sources of air pollution, for the purposes of providing, as a minimum, information on the total mass concentration and the chemical speciation concentrations of fine particulate matter (PM2,5) on an annual average basis and shall be conducted using the following criteria:
+(a)
+one sampling point shall be installed every 100 000 km2;
+(b)
+each Member State shall set up at least one measuring station or may, by agreement with adjoining Member States, set up one or several common measuring stations, covering the relevant neighbouring zones, to achieve the necessary spatial resolution;
+(c)
+where appropriate, monitoring shall be coordinated with the monitoring strategy and measurement programme of the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP);
+(d)
+Sections A and C of Annex I shall apply in relation to the data quality objectives for mass concentration measurements of particulate matter and Annex IV shall apply in its entirety.
+Member States shall inform the Commission of the measurement methods used in the measurement of the chemical composition of fine particulate matter (PM2,5).

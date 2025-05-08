@@ -1,0 +1,22 @@
+Article 6
+Copernicus space component
+1.   The Copernicus space component shall provide spaceborne observations, serving primarily the services referred to in Article 5(1).
+2.   The Copernicus space component shall consist of dedicated missions and contributing mission data, and include the following activities:
+(a)
+provision of spaceborne observations, including:
+(i)
+completion, maintenance and operation of dedicated missions, including tasking of the satellites, monitoring and control of the satellites, reception, processing, archiving and dissemination of data, permanent calibration and validation;
+(ii)
+provision of in situ data for calibration and validation of dedicated mission observations;
+(iii)
+provision, archiving and dissemination of contributing mission data complementing dedicated mission data;
+(b)
+activities in response to evolving needs of the users, including:
+(i)
+identification of observation gaps and specification of new dedicated missions on the basis of user requirements;
+(ii)
+developments aiming at modernising and complementing the dedicated missions, including design and procurement of new elements of the related space infrastructure;
+(c)
+protection of satellites against the risk of collision taking into account the Union space surveillance and tracking support framework;
+(d)
+safe decommissioning of the satellites at the end of life.

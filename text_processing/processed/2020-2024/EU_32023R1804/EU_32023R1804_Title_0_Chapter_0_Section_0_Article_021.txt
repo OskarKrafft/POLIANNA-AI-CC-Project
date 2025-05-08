@@ -1,0 +1,12 @@
+Article 21
+Common technical specifications
+1.   The technical specifications set out in Annex II shall apply.
+2.   In accordance with Article 10 of Regulation (EU) No 1025/2012, the Commission may request European standardisation organisations to draft European standards setting technical specifications for areas referred to in Annex II to this Regulation for which no common technical specifications have been adopted by the Commission.
+3.   The Commission shall adopt delegated acts in accordance with Article 22 to:
+(a)
+amend Annex II by introducing technical specifications for the areas listed in that Annex to enable full technical interoperability of the recharging and refuelling infrastructure in terms of physical connections, communication exchanges and access for persons with reduced mobility to those areas; and
+(b)
+without undue delay and at the latest 12 months after the adoption of the relevant standards, amend Annex II by updating the references to the standards referred to in the technical specifications set out in that Annex.
+4.   Where delegated acts referred to in paragraph 3 are to apply to existing infrastructures, those delegated acts shall be based on a cost-benefit analysis to be submitted to the European Parliament and the Council together with those delegated acts.
+5.   Where European standards setting the technical specifications of a fuel are developed after the adoption by the Commission of an implementing act referred to in Article 19(4), second subparagraph, and they include provisions requiring labelling to indicate compliance with the standards concerned and refer to a graphical expression, including colour coding schemes, the amendments of Annex II adopted by the delegated acts referred to in paragraph 3 of this Article shall include an indication of which of those standards or implementing acts are to apply and, where appropriate, repeal the relevant implementing acts.
+6.   The amendments of Annex II adopted by the delegated acts referred to in paragraph 3 shall include reasonable transitional periods for any technical specifications that those delegated acts introduce or amend, during which they shall not be binding in respect of the infrastructure concerned.

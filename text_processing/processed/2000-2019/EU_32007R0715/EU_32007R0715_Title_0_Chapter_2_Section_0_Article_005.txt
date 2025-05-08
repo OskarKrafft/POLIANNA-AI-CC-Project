@@ -1,0 +1,32 @@
+Article 5
+Requirements and tests
+1.   The manufacturer shall equip vehicles so that the components likely to affect emissions are designed, constructed and assembled so as to enable the vehicle, in normal use, to comply with this Regulation and its implementing measures.
+2.   The use of defeat devices that reduce the effectiveness of emission control systems shall be prohibited. The prohibition shall not apply where:
+(a)
+the need for the device is justified in terms of protecting the engine against damage or accident and for safe operation of the vehicle;
+(b)
+the device does not function beyond the requirements of engine starting;
+or
+(c)
+the conditions are substantially included in the test procedures for verifying evaporative emissions and average tailpipe emissions.
+3.   The specific procedures, tests and requirements for type approval set out in this paragraph, as well as requirements for the implementation of paragraph 2, which are designed to amend non-essential elements of this Regulation, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 15(3). This shall include establishing the requirements relating to:
+(a)
+tailpipe emissions, including test cycles, low ambient temperature emissions, emissions at idling speed, smoke opacity and correct functioning and regeneration of after-treatment systems;
+(b)
+evaporative emissions and crankcase emissions;
+(c)
+OBD systems and in-use performance of pollution control devices;
+(d)
+durability of pollution control devices, replacement pollution control devices, in-service conformity, conformity of production and roadworthiness;
+(e)
+measurement of greenhouse gas emissions and fuel consumption;
+(f)
+hybrid vehicles and alternative fuel vehicles;
+(g)
+extension of type approvals and requirements for small volume manufacturers;
+(h)
+test equipment;
+and
+(i)
+reference fuels, such as petrol, diesel, gaseous fuels and biofuels, such as bioethanol, biodiesel and biogas.
+The above requirements shall, where relevant, apply to vehicles regardless of the type of fuel by which they are powered.

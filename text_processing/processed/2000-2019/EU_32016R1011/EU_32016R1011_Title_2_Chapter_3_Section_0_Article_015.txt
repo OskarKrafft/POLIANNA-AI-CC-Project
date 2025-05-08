@@ -1,0 +1,31 @@
+Article 15
+Code of conduct
+1.   Where a benchmark is based on input data from contributors, its administrator shall develop a code of conduct for each benchmark clearly specifying contributors' responsibilities with respect to the contribution of input data and shall ensure that such code of conduct complies with this Regulation. The administrator shall be satisfied that contributors adhere to the code of conduct on a continuous basis and at least annually and in case of changes to it.
+2.   The code of conduct shall include at least the following elements:
+(a)
+a clear description of the input data to be provided and the requirements necessary to ensure that input data is provided in accordance with Articles 11 and 14;
+(b)
+identification of the persons that may contribute input data to the administrator and procedures to verify the identity of a contributor and any submitters, as well as authorisation of any submitters that contribute input data on behalf of a contributor;
+(c)
+policies to ensure that a contributor provides all relevant input data;
+(d)
+the systems and controls that a contributor is required to establish, including:
+(i)
+procedures for contributing input data, including requirements for the contributor to specify whether input data is transaction data and whether input data conforms to the administrator's requirements;
+(ii)
+policies on the use of discretion in contributing input data;
+(iii)
+any requirement for the validation of input data before it is provided to the administrator;
+(iv)
+record-keeping policies;
+(v)
+reporting requirements concerning suspicious input data;
+(vi)
+requirements concerning the management of conflicts of interest.
+3.   Administrators may develop a single code of conduct for each family of benchmarks they provide.
+4.   In the event that a relevant competent authority, in the use of its powers referred to in Article 41, finds that there are elements of a code of conduct which do not comply with this Regulation, it shall notify the administrator concerned. The administrator shall adjust the code of conduct to ensure that it complies with this Regulation within 30 days of such a notification.
+5.   Within 15 working days from the date of application of the decision to include a critical benchmark in the list referred to in Article 20(1), the administrator of that critical benchmark shall notify the code of conduct to the relevant competent authority. The relevant competent authority shall verify within 30 days whether the content of the code of conduct complies with this Regulation. In the event that the relevant competent authority finds elements which do not comply with this Regulation, paragraph 4 of this Article shall apply.
+6.   ESMA shall develop draft regulatory technical standards to specify further the elements of the code of conduct referred to in paragraph 2 for different types of benchmarks, and in order to take account of developments in benchmarks and financial markets.
+ESMA shall take into account the different characteristics of benchmarks and contributors, in particular in terms of differences in input data and methodologies, the risks of input data of being manipulated and international convergence of supervisory practices in relation to benchmarks.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.

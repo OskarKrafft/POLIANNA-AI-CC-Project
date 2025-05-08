@@ -1,0 +1,3 @@
+Article 82
+BEREC guidelines on very high capacity networks
+By 21 December 2020, BEREC shall, after consulting stakeholders and in close cooperation with the Commission, issue guidelines on the criteria that a network is to fulfil in order to be considered a very high capacity network, in particular in terms of down- and uplink bandwidth, resilience, error-related parameters, and latency and its variation. The national regulatory authorities shall take those guidelines into utmost account. BEREC shall update the guidelines by 31 December 2025, and regularly thereafter.

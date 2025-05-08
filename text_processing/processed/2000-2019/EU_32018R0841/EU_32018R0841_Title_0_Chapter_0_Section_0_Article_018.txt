@@ -1,0 +1,32 @@
+Article 18
+Amendments to Regulation (EU) No 525/2013
+Regulation (EU) No 525/2013 is amended as follows:
+(1)
+In Article 7, paragraph 1 is amended as follows:
+(a)
+the following point is inserted:
+‘(da)
+as of 2023, their emissions and removals covered by Article 2 of Regulation (EU) 2018/841 of the European Parliament and of the Council (*1) in accordance with the methodologies specified in Annex IIIa to this Regulation;
+
+(*1)  Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework and amending Regulation (EU) No 525/2013 and Decision No 529/2013/EU (OJ L 156, 19.6.2018, p. 1).’;"
+                        
+(b)
+the following subparagraph is added:
+‘A Member State may request to be granted a derogation by the Commission from point (da) of the first subparagraph to apply a different methodology from that specified in Annex IIIa where the methodology improvement required cannot be achieved in time for the improvement to be taken into account in the greenhouse gas inventories for the period from 2021 to 2030, or where the cost of the methodology improvement would be disproportionately high compared to the benefits of applying such methodology to improve accounting for emissions and removals due to the low significance of the emissions and removals from the carbon pools concerned. Member States wishing to benefit from this derogation shall submit a reasoned request to the Commission by 31 December 2020, indicating by which time the methodology improvement could be implemented, the alternative methodology proposed or both, and an assessment of the potential impacts on the accuracy of accounting. The Commission may request additional information to be submitted within a specific, reasonable time period. Where the Commission considers that the request is justified, it shall grant the derogation. If the Commission rejects the request, it shall give reasons for its decision.’.
+(2)
+In point (c) of Article 13(1), the following point is added:
+‘(viii)
+as of 2023, information on national policies and measures implemented to meet their obligations under Regulation (EU) 2018/841 and information on additional national policies and measures planned with a view to limiting greenhouse gas emissions or enhancing sinks beyond their commitments under that Regulation;’.
+(3)
+In Article 14(1), the following point is inserted:
+‘(ba)
+as of 2023, total greenhouse gas projections and separate estimates for the projected greenhouse gas emissions and removals covered by Regulation (EU) 2018/841’.
+(4)
+The following Annex is inserted:
+
+                                       ‘ANNEX IIIA
+Methodologies for monitoring and reporting referred to in point (da) of Article 7(1)
+Approach 3: Geographically-explicit land-use conversion data in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+Tier 1 methodology in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+For emissions and removals for a carbon pool that accounts for at least 25-30 % of emissions or removals in a source or sink category which is prioritised within a Member State’s national inventory system because its estimate has a significant influence on a country’s total inventory of greenhouse gases in terms of the absolute level of emissions and removals, the trend in emissions and removals, or the uncertainty in emissions and removals in the land-use categories, at least Tier 2 methodology in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.
+Member States are encouraged to apply Tier 3 methodology, in accordance with the 2006 IPCC Guidelines for National Greenhouse Gas Inventories.’.

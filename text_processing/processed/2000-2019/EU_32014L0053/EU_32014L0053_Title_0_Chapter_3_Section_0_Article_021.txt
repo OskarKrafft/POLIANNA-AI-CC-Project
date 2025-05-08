@@ -1,0 +1,6 @@
+Article 21
+Technical documentation
+1.   The technical documentation shall contain all relevant data or details of the means used by the manufacturer to ensure that radio equipment complies with the essential requirements set out in Article 3. It shall, at least, contain the elements set out in Annex V.
+2.   The technical documentation shall be drawn up before radio equipment is placed on the market and shall be continuously updated.
+3.   The technical documentation and correspondence relating to any EU-type examination procedure shall be drawn up in an official language of the Member State in which the notified body is established or in a language acceptable to that body.
+4.   Where the technical documentation does not comply with paragraphs 1, 2 or 3 of this Article, and in so doing fails to present sufficient relevant data or means used to ensure compliance of radio equipment with the essential requirements set out in Article 3, the market surveillance authority may ask the manufacturer or the importer to have a test performed by a body acceptable to the market surveillance authority at the expense of the manufacturer or the importer within a specified period in order to verify compliance with the essential requirements set out in Article 3.

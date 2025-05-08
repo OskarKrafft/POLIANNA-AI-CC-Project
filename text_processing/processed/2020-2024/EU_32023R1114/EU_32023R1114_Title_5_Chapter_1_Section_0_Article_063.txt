@@ -1,0 +1,38 @@
+Article 63
+Assessment of the application for authorisation and grant or refusal of authorisation
+1.   Competent authorities shall promptly, and in any event within five working days of receipt of an application under Article 62(1), acknowledge receipt thereof in writing to the applicant crypto-asset service provider.
+2.   Competent authorities shall, within 25 working days of receipt of an application under Article 62(1), assess whether that application is complete by checking that the information listed in Article 62(2) has been submitted.
+Where the application is not complete, competent authorities shall set a deadline by which the applicant crypto-asset service provider is to provide any missing information.
+3.   Competent authorities may refuse to review applications where such applications remain incomplete after the expiry of the deadline set by them in accordance with paragraph 2, second subparagraph.
+4.   Once an application is complete, competent authorities shall promptly notify the applicant crypto-asset service provider thereof.
+5.   Before granting or refusing authorisation as a crypto-asset service provider, competent authorities shall consult the competent authorities of another Member State where the applicant crypto-asset service provider is in one of the following positions in relation to a credit institution, a central securities depository, an investment firm, a market operator, a UCITS management company, an alternative investment fund manager, a payment institution, an insurance undertaking, an electronic money institution or an institution for occupational retirement provision, authorised in that other Member State:
+(a)
+it is its subsidiary;
+(b)
+it is a subsidiary of the parent undertaking of that entity; or
+(c)
+it is controlled by the same natural or legal persons who control that entity.
+6.   Before granting or refusing an authorisation as a crypto-asset service provider, competent authorities:
+(a)
+may consult the competent authorities for anti-money laundering and counter-terrorist financing, and financial intelligence units, in order to verify that the applicant crypto-asset service provider has not been the subject of an investigation into conduct relating to money laundering or terrorist financing;
+(b)
+shall ensure that the applicant crypto-asset service provider that operates establishments or relies on third parties established in high-risk third countries identified pursuant to Article 9 of Directive (EU) 2015/849 complies with the provisions of national law transposing Articles 26(2), 45(3) and 45(5) of that Directive;
+(c)
+shall, where appropriate, ensure that the applicant crypto-asset service provider has put in place appropriate procedures to comply with the provisions of national law transposing Article 18a(1) and (3) of Directive (EU) 2015/849.
+7.   Where close links exist between the applicant crypto-asset service provider and other natural or legal persons, competent authorities shall grant authorisation only if those links do not prevent the effective exercise of their supervisory functions.
+8.   Competent authorities shall refuse authorisation if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the applicant crypto-asset service provider has close links, or difficulties involved in their enforcement, prevent the effective exercise of their supervisory functions.
+9.   Competent authorities shall, within 40 working days from the date of receipt of a complete application, assess whether the applicant crypto-asset service provider complies with this Title and shall adopt a fully reasoned decision granting or refusing an authorisation as a crypto-asset service provider. Competent authorities shall notify the applicant of their decision within five working days of the date of that decision. That assessment shall take into account the nature, scale and complexity of the crypto-asset services that the applicant crypto-asset service provider intends to provide.
+10.   Competent authorities shall refuse authorisation as a crypto-asset service provider where there are objective and demonstrable grounds that:
+(a)
+the management body of the applicant crypto-asset service provider poses a threat to its effective, sound and prudent management and business continuity, and to the adequate consideration of the interest of its clients and the integrity of the market, or exposes the applicant crypto-asset service provider to a serious risk of money laundering or terrorist financing;
+(b)
+the members of the management body of the applicant crypto-asset service provider do not meet the criteria set out in Article 68(1);
+(c)
+the shareholders or members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider do not meet the criteria of sufficiently good repute set out in Article 68(2);
+(d)
+the applicant crypto-asset service provider fails to meet or is likely to fail to meet any of the requirements of this Title.
+11.   ESMA and EBA shall jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 and Article 16 of Regulation (EU) No 1093/2010, respectively, on the assessment of the suitability of the members of the management body of the applicant crypto-asset service provider and of the shareholders or members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider.
+ESMA and EBA shall issue the guidelines referred to in the first subparagraph by 30 June 2024.
+12.   Competent authorities may, during the assessment period provided for in paragraph 9, and no later than on the 20th working day of that period, request any further information that is necessary to complete the assessment. Such request shall be made in writing to the applicant crypto-asset service provider and shall specify the additional information needed.
+The assessment period under paragraph 9 shall be suspended for the period between the date of request for missing information by the competent authorities and the receipt by them of a response thereto from the applicant crypto-asset service provider. The suspension shall not exceed 20 working days. Any further requests by the competent authorities for completion or clarification of the information shall be at their discretion but shall not result in a suspension of the assessment period under paragraph 9.
+13.   Competent authorities shall, within two working days of granting authorisation, communicate to ESMA the information specified in Article 109(5). Competent authorities shall also inform ESMA of any refusals of authorisations. ESMA shall make the information referred to in Article 109(5) available in the register referred to in that Article by the starting date of the provision of crypto-asset services.

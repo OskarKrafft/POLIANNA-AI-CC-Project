@@ -1,0 +1,19 @@
+Article 1
+Subject matter and scope
+1.   This Directive lays down measures with a view to achieving a high common level of security of network and information systems within the Union so as to improve the functioning of the internal market.
+2.   To that end, this Directive:
+(a)
+lays down obligations for all Member States to adopt a national strategy on the security of network and information systems;
+(b)
+creates a Cooperation Group in order to support and facilitate strategic cooperation and the exchange of information among Member States and to develop trust and confidence amongst them;
+(c)
+creates a computer security incident response teams network (‘CSIRTs network’) in order to contribute to the development of trust and confidence between Member States and to promote swift and effective operational cooperation;
+(d)
+establishes security and notification requirements for operators of essential services and for digital service providers;
+(e)
+lays down obligations for Member States to designate national competent authorities, single points of contact and CSIRTs with tasks related to the security of network and information systems.
+3.   The security and notification requirements provided for in this Directive shall not apply to undertakings which are subject to the requirements of Articles 13a and 13b of Directive 2002/21/EC, or to trust service providers which are subject to the requirements of Article 19 of Regulation (EU) No 910/2014.
+4.   This Directive applies without prejudice to Council Directive 2008/114/EC (14) and Directives 2011/93/EU (15) and 2013/40/EU (16) of the European Parliament and of the Council.
+5.   Without prejudice to Article 346 TFEU, information that is confidential pursuant to Union and national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities only where such exchange is necessary for the application of this Directive. The information exchanged shall be limited to that which is relevant and proportionate to the purpose of such exchange. Such exchange of information shall preserve the confidentiality of that information and protect the security and commercial interests of operators of essential services and digital service providers.
+6.   This Directive is without prejudice to the actions taken by Member States to safeguard their essential State functions, in particular to safeguard national security, including actions protecting information the disclosure of which Member States consider contrary to the essential interests of their security, and to maintain law and order, in particular to allow for the investigation, detection and prosecution of criminal offences.
+7.   Where a sector-specific Union legal act requires operators of essential services or digital service providers either to ensure the security of their network and information systems or to notify incidents, provided that such requirements are at least equivalent in effect to the obligations laid down in this Directive, those provisions of that sector-specific Union legal act shall apply.

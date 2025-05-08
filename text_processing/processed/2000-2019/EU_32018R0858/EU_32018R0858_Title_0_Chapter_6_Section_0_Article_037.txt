@@ -1,0 +1,25 @@
+Article 37
+Certificate of conformity in electronic format
+1.   Without prejudice to Article 36(1), from 5 July 2026, the manufacturer shall, free of charge and without undue delay after the date of manufacture of the vehicle, make the certificate of conformity available to the approval authority that has granted the whole-vehicle type-approval as structured data in electronic format in accordance with the implementing acts referred to in paragraph 8 of this Article.
+2.   Without prejudice to Article 36(1), any manufacturer may make available certificates of conformity in accordance with paragraph 1 of this Article before 5 July 2026.
+3.   The approval authority shall make available the certificate of conformity as structured data in electronic format in accordance with the implementing acts referred to in paragraph 8, so that the certificate of conformity can be accessed by the approval authorities, market surveillance authorities and registration authorities of the Member States and by the Commission.
+4.   Member States may exempt manufacturers from the obligation set out in paragraph 1 of this Article with respect to types of vehicles which have national small series vehicle type-approval, in accordance with Article 42.
+5.   The approval authority receiving the certificate of conformity as structured data in electronic format in accordance with the implementing acts referred to in paragraph 8 of this Article, shall give read-only access to the certificate of conformity as laid down in Article 12(2). In the case of vehicles built in multiple stages such access shall be given to the manufacturer of the subsequent stage.
+6.   All data exchange in accordance with this Article shall be performed by means of secure data exchange protocols.
+7.   Member States shall establish the organisation and structure of their data network to enable data reception of the certificates of conformity as structured data in electronic format in accordance with the implementing acts referred to in paragraph 8 as from 1 September 2025, preferably by making use of existing systems for the exchange of structured data.
+8.   Taking into account the data that are required to be provided on the certificate of conformity in paper format, the Commission shall adopt implementing acts concerning certificates of conformity as structured data in electronic format setting out, in particular:
+(a)
+the basic format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange;
+(b)
+minimum requirements for secure data exchange, including the prevention of data corruption and data misuse, and measures to guarantee the authenticity of the electronic data, such as the use of digital signature;
+(c)
+the means of exchange of the data of the certificate of conformity in electronic format;
+(d)
+the minimum requirements for a vehicle-specific unique identifier and the form of information for the buyer in accordance with paragraph 5;
+(e)
+the read-only access referred to in paragraph 5;
+(f)
+exemptions for manufacturers of particular vehicle categories and types of vehicle that are produced in small series.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted before 1 September 2020.
+9.   Member States shall be able to exchange certificates of conformity in electronic format in accordance with this Article with the other Member States at the latest from 5 July 2026.
+10.   From 5 July 2026, where, in exceptional cases, a national authority so requests, the manufacturer shall issue a duplicate of the certificate of conformity in paper format.

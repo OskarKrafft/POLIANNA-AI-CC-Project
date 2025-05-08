@@ -1,0 +1,50 @@
+Article 42
+Asset separation tool
+1.   In order to give effect to the asset separation tool, Member States shall ensure that resolution authorities have the power to transfer assets, rights or liabilities of an institution under resolution or a bridge institution to one or more asset management vehicles.
+Subject to Article 85, the transfer referred to in the first subparagraph may take place without obtaining the consent of the shareholders of the institutions under resolution or any third party other than the bridge institution, and without complying with any procedural requirements under company or securities law.
+2.   For the purposes of the asset separation tool, an asset management vehicle shall be a legal person that meets all of the following requirements:
+(a)
+it is wholly or partially owned by one or more public authorities which may include the resolution authority or the resolution financing arrangement and is controlled by the resolution authority;
+(b)
+it has been created for the purpose of receiving some or all of the assets, rights and liabilities of one or more institutions under resolution or a bridge institution.
+3.   The asset management vehicle shall manage the assets transferred to it with a view to maximising their value through eventual sale or orderly wind down.
+4.   Member States shall ensure that the operation of an asset management vehicle respects the following provisions:
+(a)
+the contents of the asset management vehicle’s constitutional documents are approved by the resolution authority;
+(b)
+subject to the asset management vehicle’s ownership structure, the resolution authority either appoints or approves the vehicle’s management body;
+(c)
+the resolution authority approves the remuneration of the members of the management body and determines their appropriate responsibilities;
+(d)
+the resolution authority approves the strategy and risk profile of the asset management vehicle.
+5.   Resolution authorities may exercise the power specified in paragraph 1 to transfer assets, rights or liabilities only if:
+(a)
+the situation of the particular market for those assets is of such a nature that the liquidation of those assets under normal insolvency proceedings could have an adverse effect on one or more financial markets.
+(b)
+such a transfer is necessary to ensure the proper functioning of the institution under resolution or bridge institution; or
+(c)
+such a transfer is necessary to maximise liquidation proceeds.
+6.   When applying the asset separation tool, resolution authorities shall determine the consideration for which assets, rights and liabilities are transferred to the asset management vehicle in accordance with the principles established in Article 36 and in accordance with the Union State aid framework. This paragraph does not prevent the consideration having nominal or negative value.
+7.   Subject to Article 37(7), any consideration paid by the asset management vehicle in respect of the assets, rights or liabilities acquired directly from the institution under resolution shall benefit the institution under resolution. Consideration may be paid in the form of debt issued by the asset management vehicle.
+8.   Where the bridge institution tool has been applied, an asset management vehicle may, subsequent to the application of the bridge institution tool, acquire assets, rights or liabilities from the bridge institution.
+9.   Resolution authorities may transfer assets, rights or liabilities from the institution under resolution to one or more asset management vehicles on more than one occasion and transfer assets, rights or liabilities back from one or more asset management vehicles to the institution under resolution provided that the conditions specified in paragraph 10 are met.
+The institution under resolution shall be obliged to take back any such assets, rights or liabilities.
+10.   Resolution authorities may transfer rights, assets or liabilities back from the asset management vehicle to the institution under resolution in one of the following circumstances:
+(a)
+the possibility that the specific rights, assets or liabilities might be transferred back is stated expressly in the instrument by which the transfer was made;
+(b)
+the specific rights, assets or liabilities do not in fact fall within the classes of, or meet the conditions for transfer of, rights, assets or liabilities specified in the instrument by which the transfer was made.
+In either of the cases referred in points (a) and (b), the transfer back may be made within any period, and shall comply with any other conditions, stated in that instrument for the relevant purpose.
+11.   Transfers between the institution under resolution and the asset management vehicle shall be subject to the safeguards for partial property transfers specified in Chapter VII of Title IV.
+12.   Without prejudice to Chapter VII of Title IV shareholders or creditors of the institution under resolution and other third parties whose assets, rights or liabilities are not transferred to the asset management vehicle shall not have any rights over or in relation to the assets, rights or liabilities transferred to the asset management vehicle or its management body or senior management.
+13.   The objectives of an asset management vehicle shall not imply any duty or responsibility to shareholders or creditors of the institution under resolution, and the management body or senior management shall have no liability to such shareholders or creditors for acts and omissions in the discharge of their duties unless the act or omission implies gross negligence or serious misconduct in accordance with national law which directly affects rights of such shareholders or creditors.
+Member States may further limit the liability of an asset management vehicle and its management body or senior management in accordance with national law for acts and omissions in the discharge of their duties.
+14.   EBA shall, by 3 July 2015, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to promote the convergence of supervisory and resolution practices regarding the determination when, in accordance to paragraph 5 of this Article the liquidation of the assets or liabilities under normal insolvency proceeding could have an adverse effect on one or more financial markets.
+
+Subsection 1
+
+
+
+Objective and scope of the bail-in tool
+
+

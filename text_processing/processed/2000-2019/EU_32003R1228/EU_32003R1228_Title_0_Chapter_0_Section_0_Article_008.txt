@@ -1,0 +1,22 @@
+Article 8
+Guidelines
+1.   Where appropriate, the Commission shall, acting in accordance with the procedure referred to in Article 13(2), adopt and amend guidelines on the issues listed under paragraph 2 and 3 and relating to the inter-transmission system operator compensation mechanism, in accordance with the principles set out in Articles 3 and 4. When adopting these guidelines for the first time the Commission shall ensure that they cover in a single draft measure at least the issues referred to in paragraph 2(a) and (d), and paragraph 3.
+2.   The guidelines shall specify:
+(a)
+details of the procedure for determining which transmission system operators are liable to pay compensation for cross-border flows including as regards the split between the operators of national transmission systems from which cross-border flows originate and the systems where those flows end, in accordance with Article 3(2);
+(b)
+details of the payment procedure to be followed, including the determination of the first period of time for which compensation is to be paid, in accordance with the second subparagraph of Article 3(3);
+(c)
+details of methodologies for determining the cross-border flows hosted for which compensation is to be paid under Article 3, in terms of both quantity and type of flows, and the designation of the magnitudes of such flows as originating and/or ending in transmission systems of individual Member States, in accordance with Article 3(5);
+(d)
+details of the methodology for determining the costs and benefits incurred as a result of hosting cross-border flows, in accordance with Article 3(6);
+(e)
+details of the treatment in the context of the inter-TSO compensation mechanism of electricity flows originating or ending in countries outside the European Economic Area;
+(f)
+the participation of national systems which are interconnected through direct current lines, in accordance with Article 3.
+3.   The guidelines shall also determine appropriate rules leading to a progressive harmonisation of the underlying principles for the setting of charges applied to producers and consumers (load) under national tariff systems, including the reflection of the inter-TSO compensation mechanism in national network charges and the provision of appropriate and efficient locational signals, in accordance with the principles set out in Article 4.
+The guidelines shall make provision for appropriate and efficient harmonised locational signals at European level.
+Any harmonisation in this respect shall not prevent Member States from applying mechanisms to ensure that network access charges borne by consumers (load) are comparable throughout their territory.
+4.   Where appropriate, the Commission shall, acting in accordance with the procedure referred to in Article 13(2), amend the guidelines on the management and allocation of available transfer capacity of interconnections between national systems set out in the Annex, in accordance with the principles set out in Articles 5 and 6, in particular so as to include detailed guidelines on all capacity allocation methodologies applied in practice and to ensure that congestion management mechanisms evolve in a manner compatible with the objectives of the internal market. Where appropriate, in the course of such amendments common rules on minimum safety and operational standards for the use and operation of the network, as referred to in Article 5(2) shall be set.
+When adopting or amending guidelines, the Commission shall ensure that they provide the minimum degree of harmonisation required to achieve the aims of this Regulation and do not go beyond what is necessary for that purpose.
+When adopting or amending guidelines, the Commission shall indicate what actions it has taken with respect to the conformity of rules in third countries, which form part of the European electricity system, with the guidelines in question.

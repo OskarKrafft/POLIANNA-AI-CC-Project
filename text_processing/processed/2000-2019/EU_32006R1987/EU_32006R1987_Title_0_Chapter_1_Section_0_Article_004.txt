@@ -1,0 +1,22 @@
+Article 4
+Technical architecture and ways of operating SIS II
+1.   SIS II shall be composed of:
+(a)
+a central system (‘Central SIS II’) composed of:
+—
+a technical support function (‘CS-SIS’) containing a database, the ‘SIS II database’;
+—
+a uniform national interface (‘NI-SIS’);
+(b)
+a national system (the ‘N.SIS II’) in each of the Member States, consisting of the national data systems which communicate with Central SIS II. An N.SIS II may contain a data file (a ‘national copy’), containing a complete or partial copy of the SIS II database;
+(c)
+a communication infrastructure between CS-SIS and NI-SIS (the ‘Communication Infrastructure’) that provides an encrypted virtual network dedicated to SIS II data and the exchange of data between SIRENE Bureaux as referred to in Article 7(2).
+2.   SIS II data shall be entered, updated, deleted and searched via the various N.SIS II systems. A national copy shall be available for the purpose of carrying out automated searches in the territory of each of the Member States using such a copy. It shall not be possible to search the data files of other Member States' N.SIS II.
+3.   CS-SIS, which performs technical supervision and administration functions, shall be located in Strasbourg (France) and a backup CS-SIS, capable of ensuring all functionalities of the principal CS-SIS in the event of failure of this system, shall be located in Sankt Johann im Pongau (Austria).
+4.   CS-SIS shall provide the services necessary for the entry and processing of SIS II data, including searches in the SIS II database. For the Member States which use a national copy, CS-SIS shall:
+(a)
+provide the on-line update of the national copies;
+(b)
+ensure the synchronisation of and consistency between the national copies and the SIS II database;
+(c)
+provide the operations for initialisation and restoration of the national copies.

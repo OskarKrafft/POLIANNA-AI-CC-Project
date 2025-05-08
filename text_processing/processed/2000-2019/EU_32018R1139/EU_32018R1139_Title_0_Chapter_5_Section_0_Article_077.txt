@@ -1,0 +1,25 @@
+Article 77
+Airworthiness and environmental certification
+1.   With regard to the products, parts, non-installed equipment and equipment to control unmanned aircraft remotely, referred to in points (a) and (b)(i) of Article 2(1), the Agency shall, where applicable and as specified in the Chicago Convention or the Annexes thereto, carry out on behalf of Member States the functions and tasks of the state of design, manufacture or registry, when those functions and tasks are related to design certification and mandatory continuing airworthiness information. To that end, it shall in particular:
+(a)
+for each design of a product and equipment to control unmanned aircraft remotely for which a type certificate, a restricted type certificate, a change to a type certificate or to a restricted type certificate, including a supplemental type certificate, an approval of repair design, or an approval of operational suitability data has been applied for in accordance with Article 11 or Article 56(1) establish and notify to the applicant the certification basis;
+(b)
+for each design of a part or non-installed equipment for which a certificate has been applied for in accordance with Article 12, 13 or Article 56(1) respectively, establish and notify to the applicant the certification basis;
+(c)
+for aircraft for which a permit to fly has been applied for in accordance with point (b) of the first subparagraph of Article 18(2) or Article 56(1), issue the approval for associated flight conditions related to the design;
+(d)
+establish and make available the airworthiness and environmental compatibility specifications applicable to the design of products, parts, non-installed equipment and equipment to control unmanned aircraft remotely which are subject to a declaration in accordance with point (a) of Article 18(1) or Article 56(5);
+(e)
+be responsible for the tasks related to certification, oversight and enforcement in accordance with Article 62(2) with respect to the type certificates, restricted type certificates, certificates of changes, including supplemental type certificates, and approvals of repair designs and approvals of operational suitability data for the design of products in accordance with Article 11, point (b) of Article 18(1) or Article 56(1);
+(f)
+be responsible for the tasks related to certification, oversight and enforcement in accordance with Article 62(2) with respect to the certificates for the design of parts, for non-installed equipment and equipment to control unmanned aircraft remotely in accordance with Articles 12, 13 and 56(1);
+(g)
+issue the appropriate environmental data sheets on the design of products which it certifies in accordance with Articles 11 and 56(1);
+(h)
+ensure the continuing airworthiness functions associated with the design of products, the design of parts, non-installed equipment and equipment to control unmanned aircraft remotely it has certified and in respect of which it performs oversight, including reacting without undue delay to a safety or security problem and issuing and disseminating the applicable mandatory information.
+2.   The Agency shall be responsible for the tasks related to certification, oversight and enforcement in accordance with Article 62(2) with respect to:
+(a)
+the approvals of and the declarations made by the organisations responsible for the design of products, parts, non-installed equipment and equipment to control unmanned aircraft remotely, in accordance with Article 15(1), point (g) of Article 19(1) and Article 56(1) and (5);
+(b)
+the approvals of and the declarations made by the organisations responsible for the production, maintenance and continuing airworthiness management of products, parts, non-installed equipment and equipment to control unmanned aircraft remotely and by the organisations involved in the training of personnel responsible for the release of a product, part, non-installed equipment or equipment to control unmanned aircraft remotely after maintenance in accordance with Article 15, point (g) of Article 19(1) and Article 56(1) and (5), where those organisations have their principal place of business outside the territories for which Member States are responsible under the Chicago Convention.
+3.   The Agency shall be responsible for the tasks related to oversight and enforcement in accordance with Article 62(2) with respect to the declarations made by organisations, in accordance with point (a) of Article 18(1) and Article 56(5) and concerning the compliance of a design of a product, part, non-installed equipment or equipment to control unmanned aircraft remotely with detailed technical specifications.

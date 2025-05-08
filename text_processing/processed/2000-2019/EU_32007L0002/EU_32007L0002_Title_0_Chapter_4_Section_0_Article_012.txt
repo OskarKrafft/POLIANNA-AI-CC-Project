@@ -1,0 +1,2 @@
+Article 12
+Member States shall ensure that public authorities are given the technical possibility to link their spatial data sets and services to the network referred to in Article 11(1). This service shall also be made available upon request to third parties whose spatial data sets and services comply with implementing rules laying down obligations with regard, in particular, to metadata, network services and interoperability.

@@ -1,0 +1,23 @@
+Article 10
+Group resolution plans
+1.   Member States shall ensure that group-level resolution authorities have the power to draw up group resolution plans for groups that are subject to resolution planning on the basis of the conditions laid down in Article 9(2).
+2.   The group resolution plan shall:
+(a)
+set out the resolution actions that are to be taken in respect of each entity where measures will be necessary to ensure the continuity of critical functions;
+(b)
+examine the extent to which the resolution tools could be applied and the resolution powers exercised in a coordinated manner and identify any potential impediments to a coordinated resolution;
+(c)
+where a group contains entities incorporated in third countries, identify appropriate arrangements for cooperation and coordination with the relevant authorities of those third countries and the implications for resolution within the Union;
+(d)
+identify measures, including the legal and economic separation of particular functions or business lines, that are necessary to facilitate group resolution, taking into account intra-group interdependencies;
+(e)
+identify available sources of funding to finance the group resolution actions and, where the use of insurance guarantee schemes or of any financing arrangement would be required, set out principles for sharing responsibility for that financing between sources of funding in different Member States, while not assuming any extraordinary public financial support;
+(f)
+contain the elements laid down in Article 9(6).
+3.   The group-level resolution authority shall transmit group resolution plans and any changes thereto to the supervisory authorities concerned and, where the group is, or is part of, a financial conglomerate, to the relevant resolution authority designated in accordance with Article 3 of Directive 2014/59/EU and the competent authority as defined in Article 4(1), point (40), of Regulation (EU) No 575/2013.
+4.   Resolution authorities may draw up resolution plans for subsidiary insurance or reinsurance undertakings or the entities referred to in Article 1(1), points (c) and (d), where no group resolution plan exists.
+5.   When drawing up resolution plans, the resolution authorities of Union subsidiary undertakings may take into account the resolution strategy pursued by the third-country authorities concerned for the groups for which those resolution authorities are responsible.
+If the resolution authority considers such resolution strategy to be credible and feasible, it may appropriately reflect that resolution strategy and its possible consequences for the Union subsidiary undertaking concerned in its resolution plan. This shall not put at risk the achievement of resolution objectives referred to in Article 18.
+6.   EIOPA shall develop draft regulatory technical standards specifying the contents of group resolution plans, taking into account the diversity of business models of groups in the internal market.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 29 July 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.

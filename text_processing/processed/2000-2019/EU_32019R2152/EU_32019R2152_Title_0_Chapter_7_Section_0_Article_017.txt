@@ -1,0 +1,17 @@
+Article 17
+Quality
+1.   Member States shall take all necessary measures to ensure the quality of the European business statistics transmitted and of the national statistical business registers and the EuroGroups Register.
+2.   For the purposes of this Regulation, the quality criteria set out in Article 12(1) of Regulation (EC) No 223/2009 shall apply.
+3.   The Commission (Eurostat) shall assess the quality of the data and metadata transmitted in a transparent and verifiable manner.
+4.   For the purpose of paragraph 3, Member States shall transmit annually the following to the Commission (Eurostat):
+(a)
+quality and metadata reports for the data transmitted under this Regulation;
+(b)
+quality and metadata reports related to the national statistical business registers.
+In the case of multiannual statistics, the periodicity of the quality and metadata reports referred to in point (a) of the first subparagraph shall be the same as for the statistics concerned.
+5.   The Commission (Eurostat) shall provide annual quality and metadata reports related to the EuroGroups Register to Member States.
+6.   The Commission may adopt implementing acts specifying the arrangements for, content of and deadlines for the transmission of the quality and metadata reports.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2). They shall not impose a significant additional cost or burden on the Member States or on the respondents.
+The content of the reporting shall be limited to the most important and essential aspects of quality.
+7.   Member States shall inform the Commission (Eurostat) as soon as possible of any relevant information or change with regard to the implementation of this Regulation that would influence the quality of the data transmitted. Member States shall inform the Commission (Eurostat) of major methodological or other changes impacting the quality of the national statistical business registers. The information shall be given as soon as possible and not later than six months after any such change enters into force.
+8.   Following a duly reasoned request from the Commission (Eurostat), Member States shall provide the additional information necessary to evaluate the quality of the statistical information, which shall not impose a significant additional cost or burden on the Member States or on the respondents.

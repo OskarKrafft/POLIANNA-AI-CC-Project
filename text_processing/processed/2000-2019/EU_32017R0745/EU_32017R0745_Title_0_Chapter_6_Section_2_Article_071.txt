@@ -1,0 +1,29 @@
+Article 71
+Assessment by Member States
+1.   Member States shall ensure that the persons validating and assessing the application, or deciding on it, do not have conflicts of interest, are independent of the sponsor, the investigators involved and of natural or legal persons financing the clinical investigation, as well as free of any other undue influence.
+2.   Member States shall ensure that the assessment is done jointly by an appropriate number of persons who collectively have the necessary qualifications and experience.
+3.   Member States shall assess whether the clinical investigation is designed in such a way that potential remaining risks to subjects or third persons, after risk minimization, are justified, when weighed against the clinical benefits to be expected. They shall, while taking into account applicable CS or harmonised standards, examine in particular:
+(a)
+the demonstration of compliance of the investigational device(s) with the applicable general safety and performance requirements, apart from the aspects covered by the clinical investigation, and whether, with regard to those aspects, every precaution has been taken to protect the health and safety of the subjects. This includes, where appropriate, assurance of technical and biological safety testing and pre-clinical evaluation;
+(b)
+whether the risk-minimisation solutions employed by the sponsor are described in harmonised standards and, in those cases where the sponsor does not use harmonised standards, whether the risk-minimisation solutions provide a level of protection that is equivalent to that provided by harmonised standards;
+(c)
+whether the measures planned for the safe installation, putting into service and maintenance of the investigational device are adequate;
+(d)
+the reliability and robustness of the data generated in the clinical investigation, taking account of statistical approaches, design of the investigation and methodological aspects, including sample size, comparator and endpoints;
+(e)
+whether the requirements of Annex XV are met;
+(f)
+in the case of devices for sterile use, evidence of the validation of the manufacturer's sterilisation procedures or information on the reconditioning and sterilisation procedures which have to be conducted by the investigation site;
+(g)
+the demonstration of the safety, quality and usefulness of any components of animal or human origin or of substances, which may be considered medicinal products in accordance with Directive 2001/83/EC.
+4.   Member States shall refuse the authorisation of the clinical investigation if:
+(a)
+the application dossier submitted pursuant to Article 70(1) remains incomplete;
+(b)
+the device or the submitted documents, especially the investigation plan and the investigator's brochure, do not correspond to the state of scientific knowledge, and the clinical investigation, in particular, is not suitable for providing evidence for the safety, performance characteristics or benefit of the device on subjects or patients,
+(c)
+the requirements of Article 62 are not met, or
+(d)
+any assessment under paragraph 3 is negative.
+Member States shall provide for an appeal procedure in respect of a refusal pursuant to the first subparagraph.

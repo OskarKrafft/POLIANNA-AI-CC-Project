@@ -1,0 +1,11 @@
+Article 13
+Procedure for ‘EC’ declaration of conformity or suitability for use
+1.   In order to establish the ‘EC’ declaration of conformity or suitability for use of an interoperability constituent, the manufacturer or his authorised representative established in the Community shall apply the provisions laid down by the relevant TSIs.
+2.   Where the corresponding TSI so requires, assessment of the conformity or suitability for use of an interoperability constituent shall be carried out by the notified body with which the manufacturer or his authorised representative established in the Community has lodged the application.
+3.   Where interoperability constituents are the subject of other Community directives covering other aspects, the ‘EC’ declaration of conformity or suitability for use shall, in such cases, state that the interoperability constituents also meet the requirements of those other directives.
+4.   Where neither the manufacturer nor his authorised representative established in the Community has met the obligations of paragraphs 1 and 3, those obligations shall be incumbent on any person who places interoperability constituents on the market. The same obligations shall apply to whomsoever assembles interoperability constituents or parts of interoperability constituents having diverse origins or manufactures interoperability constituents for his own use, for the purposes of this Directive.
+5.   Without prejudice to the provisions of Article 14:
+(a)
+in each instance where the Member State finds that the ‘EC’ declaration of conformity has been drawn up improperly, the manufacturer or his authorised representative established in the Community shall be required, if necessary, to restore the interoperability constituent to a state of conformity and to terminate the infringement under the conditions laid down by that Member State;
+(b)
+where non-conformity persists, the Member State shall take all appropriate steps to restrict or prohibit the placing on the market of the interoperability constituent in question, or to ensure that it is withdrawn from the market in accordance with the procedures provided for in Article 14.

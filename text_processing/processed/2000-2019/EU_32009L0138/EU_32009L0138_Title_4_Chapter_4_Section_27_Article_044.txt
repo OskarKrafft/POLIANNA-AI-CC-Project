@@ -1,0 +1,32 @@
+Article 44
+Risk management
+1.   Insurance and reinsurance undertakings shall have in place an effective risk-management system comprising strategies, processes and reporting procedures necessary to identify, measure, monitor, manage and report, on a continuous basis the risks, at an individual and at an aggregated level, to which they are or could be exposed, and their interdependencies.
+That risk-management system shall be effective and well integrated into the organisational structure and in the decision-making processes of the insurance or reinsurance undertaking with proper consideration of the persons who effectively run the undertaking or have other key functions.
+2.   The risk-management system shall cover the risks to be included in the calculation of the Solvency Capital Requirement as set out in Article 101(4) as well as the risks which are not or not fully included in the calculation thereof.
+The risk-management system shall cover at least the following areas:
+(a)
+underwriting and reserving;
+(b)
+asset–liability management;
+(c)
+investment, in particular derivatives and similar commitments;
+(d)
+liquidity and concentration risk management;
+(e)
+operational risk management;
+(f)
+reinsurance and other risk-mitigation techniques.
+The written policy on risk management referred to in Article 41(3) shall comprise policies relating to points (a) to (f) of the second subparagraph of this paragraph.
+3.   As regards investment risk, insurance and reinsurance undertakings shall demonstrate that they comply with Chapter VI, Section 6.
+4.   Insurance and reinsurance undertakings shall provide for a risk-management function which shall be structured in such a way as to facilitate the implementation of the risk-management system.
+5.   For insurance and reinsurance undertakings using a partial or full internal model approved in accordance with Articles 112 and 113 the risk-management function shall cover the following additional tasks:
+(a)
+to design and implement the internal model;
+(b)
+to test and validate the internal model;
+(c)
+to document the internal model and any subsequent changes made to it;
+(d)
+to analyse the performance of the internal model and to produce summary reports thereof;
+(e)
+to inform the administrative, management or supervisory body about the performance of the internal model, suggesting areas needing improvement, and up-dating that body on the status of efforts to improve previously identified weaknesses.

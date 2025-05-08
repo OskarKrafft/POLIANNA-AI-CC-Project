@@ -1,0 +1,15 @@
+Article 52
+Procedure for CSD links
+1.   When a CSD submits a request for access to another CSD pursuant to Articles 50 and 51, the latter shall treat such request promptly and shall provide a response to the requesting CSD within three months.
+2.   A CSD shall deny access to a requesting CSD only where such access would threaten the smooth and orderly functioning of the financial markets or cause systemic risk. Such a refusal shall be based only on a comprehensive risk assessment.
+Where a CSD refuses access, it shall provide the requesting CSD with full reasons for its refusal.
+In the case of a refusal, the requesting CSD has the right to complain to the competent authority of the CSD that has refused access.
+The competent authority of the receiving CSD shall duly examine the complaint by assessing the reasons for refusal and shall provide the requesting CSD with a reasoned reply.
+The competent authority of the receiving CSD shall consult the competent authority of the requesting CSD and the relevant authority of the requesting CSD referred to in point (a) of Article 12(1) on its assessment of the complaint. Where any of the authorities of the requesting CSD disagrees with the assessment provided, any one of the authorities may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+Where the refusal by the CSD to grant access to the requesting CSD is deemed to be unjustified, the competent authority of the receiving CSD shall issue an order requiring that CSD to grant access to the requesting CSD.
+3.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and by competent authorities when assessing the reasons for refusal in accordance with paragraph 2, and the elements of the procedure referred to in paragraph 2.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+4.   ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedures referred to in paragraphs 1 and 2.
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

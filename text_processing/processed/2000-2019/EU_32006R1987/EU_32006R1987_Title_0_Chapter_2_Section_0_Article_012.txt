@@ -1,0 +1,8 @@
+Article 12
+Keeping of records at national level
+1.   Member States not using national copies shall ensure that every access to and all exchanges of personal data within CS-SIS are recorded in their N.SIS II for the purposes of checking whether or not a search is lawful, monitoring the lawfulness of data processing, self-monitoring and ensuring the proper functioning of N.SIS II, data integrity and security.
+2.   Member States using national copies shall ensure that every access to and all exchanges of SIS II data are recorded for the purposes mentioned in paragraph 1. This does not apply to the processes referred to in Article 4(4).
+3.   The records shall show, in particular, the history of the alerts, the date and time of the data transmission, the data used to perform a search, a reference to the data transmitted and the name of both the competent authority and the person responsible for processing the data.
+4.   The records may be used only for the purpose mentioned in paragraph 1 and 2 and shall be deleted at the earliest one year, and at the latest three years, after their creation. The records which include the history of alerts shall be erased one to three years after deletion of the alerts.
+5.   Records may be kept longer if they are required for monitoring procedures that are already under way.
+6.   The competent national authorities in charge of checking whether or not searches are lawful, monitoring the lawfulness of data processing, self-monitoring and ensuring the proper functioning of N.SIS II, data integrity and security, shall have access, within the limits of their competence and at their request, to these records for the purpose of fulfilling their duties.

@@ -1,0 +1,15 @@
+Article 8
+Methodologies, models and key rating assumptions
+1.   A credit rating agency shall disclose to the public the methodologies, models and key rating assumptions it uses in its credit rating activities as defined in point 5 of Part I of Section E of Annex I.
+2.   A credit rating agency shall adopt, implement and enforce adequate measures to ensure that the credit ratings it issues are based on a thorough analysis of all the information that is available to it and that is relevant to its analysis according to its rating methodologies. It shall adopt all necessary measures so that the information it uses in assigning a credit rating is of sufficient quality and from reliable sources.
+3.   A credit rating agency shall use rating methodologies that are rigorous, systematic, continuous and subject to validation based on historical experience, including back-testing.
+4.   Where a credit rating agency is using an existing credit rating prepared by another credit rating agency with respect to underlying assets or structured finance instruments, it shall not refuse to issue a credit rating of an entity or a financial instrument because a portion of the entity or the financial instrument had been previously rated by another credit rating agency.
+A credit rating agency shall record all instances where in its credit rating process it departs from existing credit ratings prepared by another credit rating agency with respect to underlying assets or structured finance instruments providing a justification for the differing assessment.
+5.   A credit rating agency shall monitor credit ratings and review its credit ratings and methodologies on an ongoing basis and at least annually, in particular where material changes occur that could have an impact on a credit rating. A credit rating agency shall establish internal arrangements to monitor the impact of changes in macroeconomic or financial market conditions on credit ratings.
+6.   When methodologies, models or key rating assumptions used in credit rating activities are changed, a credit rating agency shall:
+(a)
+immediately, using the same means of communication as used for the distribution of the affected credit ratings, disclose the likely scope of credit ratings to be affected;
+(b)
+review the affected credit ratings as soon as possible and no later than six months after the change, in the meantime placing those ratings under observation; and
+(c)
+re-rate all credit ratings that have been based on those methodologies, models or key rating assumptions if, following the review, the overall combined effect of the changes affects those credit ratings.

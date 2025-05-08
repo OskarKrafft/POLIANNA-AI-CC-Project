@@ -1,0 +1,34 @@
+Article 74
+Group resolution involving an ultimate parent undertaking
+1.   A group-level resolution authority that decides that an ultimate parent undertaking for which it is responsible meets the conditions referred to in Article 19(1) or Article 20(3) shall notify the information referred to in Article 73(2) to the group supervisor and to the other members of the resolution college of the group in question without delay.
+The resolution actions or insolvency measures referred to in Article 73(2), point (c), may include the implementation of a group resolution scheme drawn up in accordance with Article 73(7) in any of the following circumstances:
+(a)
+the resolution actions or measures at parent level notified in accordance with Article 73(2), point (c), make it likely that the conditions laid down in Article 19(1) or Article 20(3) would be fulfilled in relation to a group entity in another Member State;
+(b)
+resolution actions or other measures at parent level only are not sufficient to stabilise the situation or are not likely to provide an optimum outcome;
+(c)
+the resolution authorities have determined that one or more subsidiary undertakings for which they are responsible meet the conditions referred to in Article 19(1) or Article 20(3);
+(d)
+resolution actions or other measures at group level will benefit the subsidiary undertakings of the group in a way that makes a group resolution scheme appropriate.
+2.   Where the actions or measures proposed by the group-level resolution authority do not contain a group resolution scheme, the group-level resolution authority shall take its decision after having consulted the members of the resolution college.
+3.   Where the actions or measures proposed by the group-level resolution authority do contain a group resolution scheme, the group resolution scheme shall take the form of a joint decision of the group-level resolution authority and the resolution authorities responsible for the subsidiary undertakings that are covered by the group resolution scheme.
+EIOPA may, at the request of a resolution authority, assist the resolution authorities in reaching a joint decision in accordance with Article 31(2), point (c), of Regulation (EU) No 1094/2010.
+4.   A resolution authority that disagrees with or departs from the group resolution scheme proposed by the group-level resolution authority or considers that, for reasons of financial stability, it needs to take independent resolution actions or measures other than those proposed in the group resolution scheme in relation to an entity as referred to in Article 1(1), points (a) to (e) shall:
+(a)
+set out in detail the reasons for the disagreement or the reasons to depart from the group resolution scheme;
+(b)
+notify the group-level resolution authority and the other resolution authorities that are covered by the group resolution scheme of the reasons referred to in point (a);
+(c)
+inform the group-level resolution authority and the other resolution authorities that are covered by the group resolution scheme about the actions or measures it intends to take.
+When setting out the reasons for its disagreement, the resolution authority concerned shall give due consideration to the group resolution plans, the potential impact of the independent resolution actions or measures it will take on financial stability, fiscal resources, insurance guarantee schemes and any financing arrangements in the Member States concerned and the potential effect of the resolution actions or other measures on other parts of the group.
+5.   Resolution authorities that agree with the group resolution scheme proposed by the group-level resolution authority may reach a joint decision on a group resolution scheme covering group entities in their respective Member States without the participation of the disagreeing resolution authorities.
+6.   The joint decision referred to in paragraph 3 or 5 and the resolution actions and measures referred to in paragraph 4 shall be recognised as conclusive and applied by the resolution authorities in the Member States concerned.
+7.   Authorities shall perform all resolution actions and measures referred to in paragraphs 1 to 6 without delay, and with due regard to the urgency of the situation.
+8.   Where a group resolution scheme is not implemented, resolution authorities shall, when taking resolution action in relation to any group entity, cooperate closely within the resolution college to achieve a coordinated resolution strategy for all affected group entities.
+9.   Resolution authorities that take resolution action in relation to any group entity shall inform the members of the resolution college regularly and fully about those actions or measures and their on-going progress.
+
+TITLE V
+
+
+RELATIONS WITH THIRD COUNTRIES
+

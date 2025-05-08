@@ -1,0 +1,25 @@
+Article 15
+Review and report
+1.   By 31 December 2022, the Commission shall submit a report to the European Parliament and to the Council on the effectiveness of this Regulation, on the CO2 emissions reduction target and the level of the incentive mechanism for zero- and low-emission heavy-duty vehicles applicable from 2030, on setting CO2 emissions reduction targets for other types of heavy-duty vehicles, including trailers, buses and coaches, and vocational vehicles, and on the introduction of binding CO2 emissions reduction targets for heavy-duty vehicles for 2035 and 2040 onwards. The 2030 target shall be assessed in accordance with the European Union commitments under the Paris Agreement.
+2.   The report referred to in paragraph 1 of this Article shall also, in particular, include the following:
+(a)
+an assessment of the effectiveness of the system of emission credits and emission debts referred to in Article 7 and the appropriateness of extending its application to 2030 and beyond;
+(b)
+an assessment of the deployment of zero- and low-emission heavy-duty vehicles, taking into account the targets set out in Directive 2009/33/EC, as well as relevant parameters and conditions affecting the placing on the market of such heavy-duty vehicles;
+(c)
+an assessment of the effectiveness of the incentive mechanism for zero- and low-emission heavy-duty vehicles set out in Article 5 and the appropriateness of its different elements, with a view to adjusting it for the period after 2025 towards a possible differentiation by zero-emission driving range and vehicle sub-group, combined with mileage payload weighting factors, with a date of application that provides at least three years of lead time;
+(d)
+an assessment of the roll-out of the necessary recharging and refuelling infrastructure, of the possibility of introducing engine CO2 emission performance standards, in particular for vocational vehicles, and of the real-world representativeness of the CO2 emission and fuel consumption values determined in accordance with Regulation (EU) 2017/2400;
+(e)
+strictly for the purpose of this Regulation, considerations of heavy-duty vehicles and vehicle combinations taking into account weights and dimensions applicable to national transport, for example modular and intermodal concepts, while also assessing possible transport safety and efficiency aspects, intermodal, environmental, infrastructural and rebound effects as well as the geographical situation of Member States;
+(f)
+an assessment of the VECTO simulation tool to ensure that this tool is updated continually and in a timely manner;
+(g)
+an assessment of the possibility of developing a specific methodology to include the potential contribution to CO2 emissions reductions of the use of synthetic and advanced alternative liquid and gaseous renewable fuels, including e-fuels, produced with renewable energy and meeting the sustainability and greenhouse gas emissions saving criteria referred to in Directive (EU) 2018/2001 of the European Parliament and of the Council (17);
+(h)
+an assessment of the feasibility of introducing an open, transparent and non-discriminatory pooling mechanism between manufacturers;
+(i)
+an assessment of the level of the excess CO2 emissions premium to ensure that it exceeds the average marginal costs of the technologies needed to meet the CO2 emissions targets.
+3.   The report referred to in paragraph 1 shall, where appropriate, be accompanied by a legislative proposal to amend this Regulation.
+4.   As part of the evaluation pursuant to Article 15(5) of Regulation (EU) 2019/631, the Commission shall evaluate the possibility to assign the revenues from the excess CO2 emissions premiums to a specific fund or a relevant programme, with the objective of ensuring a just transition towards a climate-neutral economy as referred to in Article 4.1 of the Paris Agreement, in particular to support re-skilling, up-skilling and other skills training and reallocation of workers in the automotive sector in all affected Member States, in particular in the regions and the communities most affected by the transition. The Commission shall, if appropriate, submit a legislative proposal to that effect by 2027 at the latest.
+5.   The Commission shall, not later than 2023, evaluate the possibility of developing a common Union methodology for the assessment, and the consistent data reporting, of the full life-cycle CO2 emissions of new heavy-duty vehicles that are placed on the Union market. The Commission shall transmit that evaluation, including where appropriate proposals for follow-up measures, such as legislative proposals, to the European Parliament and to the Council.

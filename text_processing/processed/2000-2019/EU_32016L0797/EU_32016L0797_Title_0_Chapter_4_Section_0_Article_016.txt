@@ -1,0 +1,9 @@
+Article 16
+Non-compliance of subsystems with essential requirements
+1.   Where a Member State finds that a structural subsystem covered by the ‘EC’ declaration of verification accompanied by the technical file does not fully comply with this Directive and, in particular, does not meet the essential requirements, it may request that additional checks be carried out.
+2.   The Member State making the request shall forthwith inform the Commission of any additional checks requested and set out the reasons therefor. The Commission shall consult the interested parties.
+3.   The Member State making the request shall state whether the failure to fully comply with this Directive is due to:
+(a)
+non-compliance with the essential requirements or with a TSI, or incorrect application of a TSI, in which case the Commission shall forthwith inform the Member State where the person who drew up the ‘EC’ declaration of verification in error resides and shall request that Member State to take the appropriate measures;
+(b)
+inadequacy of a TSI, in which case the procedure for amending the TSI as referred to in Article 6 shall apply.

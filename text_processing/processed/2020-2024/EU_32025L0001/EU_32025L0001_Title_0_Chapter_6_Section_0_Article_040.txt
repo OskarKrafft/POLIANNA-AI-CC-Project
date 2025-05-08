@@ -1,0 +1,14 @@
+Article 40
+Write-down or conversion of liabilities arising from derivatives
+1.   Member States shall ensure that resolution authorities exercise the write-down or conversion powers in relation to a liability arising from a derivative only upon or after closing out the derivatives. Upon entry into resolution, resolution authorities shall be empowered to terminate and close out any derivative contract for that purpose. Where a derivative liability has been excluded from the application of the write-down or conversion tool under Article 35(8), resolution authorities shall not be obliged to terminate or close out the derivative contract.
+2.   Where derivative transactions are subject to a netting agreement, the resolution authority or an independent valuer shall determine, as part of the valuation under Article 23, the liability arising from those transactions on a net basis in accordance with the terms of the netting agreement.
+3.   Resolution authorities shall determine the value of liabilities arising from derivatives in accordance with all of the following:
+(a)
+appropriate methodologies for determining the value of classes of derivatives, including transactions that are subject to netting agreements;
+(b)
+principles for establishing the relevant point in time at which the value of a derivative position should be established;
+(c)
+appropriate methodologies for comparing the destruction in value that would arise from the closeout and write-down or conversion of derivatives with the amount of losses that would be borne by derivatives in a write-down or conversion.
+4.   EIOPA, after consulting ESMA, shall develop draft regulatory technical standards specifying the methodologies and principles laid down in paragraph 3 on the valuation of liabilities arising from derivatives. In relation to derivative transactions that are subject to a netting agreement, EIOPA shall take into account the methodology for closeout set out in the netting agreement.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 29 July 2027.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.

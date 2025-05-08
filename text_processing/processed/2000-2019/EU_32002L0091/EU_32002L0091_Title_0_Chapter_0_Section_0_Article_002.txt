@@ -1,0 +1,12 @@
+Article 2
+Definitions
+For the purpose of this Directive, the following definitions shall apply:
+1. "building": a roofed construction having walls, for which energy is used to condition the indoor climate; a building may refer to the building as a whole or parts thereof that have been designed or altered to be used separately;
+2. "energy performance of a building": the amount of energy actually consumed or estimated to meet the different needs associated with a standardised use of the building, which may include, inter alia, heating, hot water heating, cooling, ventilation and lighting. This amount shall be reflected in one or more numeric indicators which have been calculated, taking into account insulation, technical and installation characteristics, design and positioning in relation to climatic aspects, solar exposure and influence of neighbouring structures, own-energy generation and other factors, including indoor climate, that influence the energy demand;
+3. "energy performance certificate of a building": a certificate recognised by the Member State or a legal person designated by it, which includes the energy performance of a building calculated according to a methodology based on the general framework set out in the Annex;
+4. "CHP" (combined heat and power): the simultaneous conversion of primary fuels into mechanical or electrical and thermal energy, meeting certain quality criteria of energy efficiency;
+5. "air-conditioning system": a combination of all components required to provide a form of air treatment in which temperature is controlled or can be lowered, possibly in combination with the control of ventilation, humidity and air cleanliness;
+6. "boiler": the combined boiler body and burner-unit designed to transmit to water the heat released from combustion;
+7. "effective rated output (expressed in kW)": the maximum calorific output specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;
+8. "heat pump": a device or installation that extracts heat at low temperature from air, water or earth and supplies the heat to the building.
+

@@ -1,0 +1,19 @@
+Article 20
+Procedures for EU type-approval
+1.   When applying for a whole-vehicle type-approval, the manufacturer may choose one of the following procedures:
+(a)
+step-by-step type-approval;
+(b)
+single-step type-approval;
+(c)
+mixed type-approval.
+In addition, the manufacturer may choose multi-stage type-approval.
+Only the single-step type-approval procedure is applicable for the type-approval of systems, components or separate technical units.
+2.   Step-by-step type-approval shall consist of the step-by-step collection of the whole set of EU type-approval certificates for the systems, components and separate technical units forming part of the vehicle, and which leads, at the final stage, to the whole-vehicle type approval.
+3.   Single-step type-approval shall consist of the approval of a vehicle as a whole by means of a single operation.
+4.   Mixed type-approval is a step-by-step type-approval procedure for which one or more system approvals are achieved during the final stage of the approval of the whole vehicle, without it being necessary to issue the EU type-approval certificates for those systems.
+5.   In a multi-stage type-approval procedure, one or more approval authorities certify that, depending on the state of completion, an incomplete or completed type of vehicle satisfies the relevant administrative provisions and technical requirements of this Regulation.
+Multi-stage type-approval shall be granted in respect of a type of incomplete or completed vehicle which conforms to the particulars in the information folder provided for in Article 22 and which meets the technical requirements laid down in the relevant acts listed in Annex I, having regard to the state of completion of the vehicle.
+6.   The type-approval for the final stage of completion shall be granted only after the approval authority has verified that the vehicle type-approved at the final stage meets at that time all applicable technical requirements. That shall include a documentary check of all requirements covered by a type-approval for an incomplete vehicle granted in the course of a multistage procedure, even where granted for a different (sub)category of vehicle.
+7.   The choice of approval procedure shall not affect the applicable substantive requirements with which the approved vehicle type has to comply at the time of issuing of the whole-vehicle type-approval.
+8.   The Commission shall be empowered to adopt delegated acts in accordance with Article 71 concerning detailed arrangements with regard to type-approval procedures. The first such delegated acts shall be adopted by 31 December 2014.

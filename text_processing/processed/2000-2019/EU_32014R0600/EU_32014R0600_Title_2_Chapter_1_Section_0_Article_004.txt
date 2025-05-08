@@ -1,0 +1,48 @@
+Article 4
+Waivers for equity instruments
+1.   Competent authorities shall be able to waive the obligation for market operators and investment firms operating a trading venue to make public the information referred to in Article 3(1) for:
+(a)
+systems matching orders based on a trading methodology by which the price of the financial instrument referred to in Article 3(1) is derived from the trading venue where that financial instrument was first admitted to trading or the most relevant market in terms of liquidity, where that reference price is widely published and is regarded by market participants as a reliable reference price. The continued use of that waiver shall be subject to the conditions set out in Article 5.
+(b)
+systems that formalise negotiated transactions which are:
+(i)
+made within the current volume weighted spread reflected on the order book or the quotes of the market makers of the trading venue operating that system, subject to the conditions set out in Article 5;
+(ii)
+in an illiquid share, depositary receipt, ETF, certificate or other similar financial instrument that does not fall within the meaning of a liquid market, and are dealt within a percentage of a suitable reference price, being a percentage and a reference price set in advance by the system operator; or
+(iii)
+subject to conditions other than the current market price of that financial instrument;
+(c)
+orders that are large in scale compared with normal market size;
+(d)
+orders held in an order management facility of the trading venue pending disclosure.
+2.   The reference price referred to in paragraph 1(a) shall be established by obtaining:
+(a)
+the midpoint within the current bid and offer prices of the trading venue where that financial instrument was first admitted to trading or the most relevant market in terms of liquidity; or
+(b)
+when the price referred to in point (a) is not available, the opening or closing price of the relevant trading session.
+Orders shall only reference the price referred to in point (b) outside the continuous trading phase of the relevant trading session.
+3.   Where trading venues operate systems which formalise negotiated transactions in accordance with paragraph 1(b)(i):
+(a)
+those transactions shall be carried out in accordance with the rules of the trading venue;
+(b)
+the trading venue shall ensure that arrangements, systems and procedures are in place to prevent and detect market abuse or attempted market abuse in relation to such negotiated transactions in accordance with Article 16 of Regulation (EU) No 596/2014;
+(c)
+the trading venue shall establish, maintain and implement systems to detect any attempt to use the waiver to circumvent other requirements of this Regulation or Directive 2014/65/EU and to report attempts to the competent authority.
+Where a competent authority grants a waiver in accordance with paragraph 1(b)(i) or (iii), that competent authority shall monitor the use of the waiver by the trading venue to ensure that the conditions for use of the waiver are respected.
+4.   Before granting a waiver in accordance with paragraph 1, competent authorities shall notify ESMA and other competent authorities of the intended use of each individual waiver and provide an explanation regarding its functioning, including the details of the trading venue where the reference price is established as referred to in paragraph 1(a). Notification of the intention to grant a waiver shall be made not less than four months before the waiver is intended to take effect. Within two months following receipt of the notification, ESMA shall issue a non-binding opinion to the competent authority in question assessing the compatibility of each waiver with the requirements established in paragraph 1 and specified in the regulatory technical standard adopted pursuant to paragraph 6. Where that competent authority grants a waiver and a competent authority of another Member State disagrees, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010. ESMA shall monitor the application of the waivers and shall submit an annual report to the Commission on how they are applied in practice.
+5.   A competent authority may, either on its own initiative or upon request by another competent authority, withdraw a waiver granted under paragraph 1 as specified under paragraph 6,if it observes that the waiver is being used in a way that deviates from its original purpose or if it believes that the waiver is being used to circumvent the requirements established in this Article.
+Competent authorities shall notify ESMA and other competent authorities of such withdrawal providing full reasons for their decision.
+6.   ESMA shall develop draft regulatory technical standards to specify the following:
+(a)
+the range of bid and offer prices or designated market-maker quotes, and the depth of trading interest at those prices, to be made public for each class of financial instrument concerned in accordance with Article 3(1), taking into account the necessary calibration for different types of trading systems as referred to in Article 3(2);
+(b)
+the most relevant market in terms of liquidity of a financial instrument in accordance with paragraph 1(a);
+(c)
+the specific characteristics of a negotiated transaction in relation to the different ways the member or participant of a trading venue can execute such a transaction;
+(d)
+the negotiated transactions that do not contribute to price formation which avail of the waiver provided for under paragraph 1(b)(iii);
+(e)
+the size of orders that are large in scale and the type and the minimum size of orders held in an order management facility of a trading venue pending disclosure for which pre-trade disclosure may be waived under paragraph 1 for each class of financial instrument concerned;
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+7.   Waivers granted by competent authorities in accordance with Article 29(2) and Article 44(2) of Directive 2004/39/EC and Articles 18, 19 and 20 of Regulation (EC) No 1287/2006 before 3 January 2017 shall be reviewed by ESMA by 3 January 2019. ESMA shall issue an opinion to the competent authority in question assessing the continued compatibility of each of those waivers with the requirements established in this Regulation and any delegated act and regulatory technical standard based on this Regulation.

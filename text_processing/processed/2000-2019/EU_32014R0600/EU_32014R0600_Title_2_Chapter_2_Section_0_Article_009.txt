@@ -1,0 +1,33 @@
+Article 9
+Waivers for non-equity instruments
+1.   Competent authorities shall be able to waive the obligation for market operators and investment firms operating a trading venue to make public the information referred to in Article 8(1) for:
+(a)
+orders that are large in scale compared with normal market size and orders held in an order management facility of the trading venue pending disclosure;
+(b)
+actionable indications of interest in request-for-quote and voice trading systems that are above a size specific to the financial instrument, which would expose liquidity providers to undue risk and takes into account whether the relevant market participants are retail or wholesale investors;
+(c)
+derivatives which are not subject to the trading obligation specified in Article 28 and other financial instruments for which there is not a liquid market.
+2.   Before granting a waiver in accordance with paragraph 1, competent authorities shall notify ESMA and other competent authorities of the intended use of each individual waiver and provide an explanation regarding their functioning. Notification of the intention to grant a waiver shall be made not less than four months before the waiver is intended to take effect. Within two months following receipt of the notification, ESMA shall issue an opinion to the competent authority in question assessing the compatibility of the waiver with the requirements established in paragraph 1 and specified in the regulatory technical standards adopted pursuant to paragraph 5. Where that competent authority grants a waiver and a competent authority of another Member State disagrees, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010. ESMA shall monitor the application of the waivers and submit an annual report to the Commission on how they are applied in practice.
+3.   Competent authorities, may, either on their own initiative or upon request by other competent authorities, withdraw a waiver granted under paragraph 1 if they observe that the waiver is being used in a way that deviates from its original purpose or if they consider that the waiver is being used to circumvent the requirements established in this Article.
+Competent authorities shall notify ESMA and other competent authorities of such withdrawal without delay and before it takes effect, providing full reasons for their decision.
+4.   The competent authority responsible for supervising one or more trading venues on which a class of bond, structured finance product, emission allowance or derivative is traded may, where the liquidity of that class of financial instrument falls below a specified threshold, temporarily suspend the obligations referred to in Article 8. The specified threshold shall be defined on the basis of objective criteria specific to the market for the financial instrument concerned. Notification of such temporary suspension shall be published on the website of the relevant competent authority.
+The temporary suspension shall be valid for an initial period not exceeding three months from the date of its publication on the website of the relevant competent authority. Such a suspension may be renewed for further periods not exceeding three months at a time if the grounds for the temporary suspension continue to be applicable. Where the temporary suspension is not renewed after that three-month period, it shall automatically lapse.
+Before suspending or renewing the temporary suspension under this paragraph of the obligations referred to in Article 8, the relevant competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary suspension is justified in accordance with the first and second subparagraphs.
+5.   ESMA shall develop draft regulatory technical standards to specify the following:
+(a)
+the parameters and methods for calculating the threshold of liquidity referred to in paragraph 4 in relation to the financial instrument. The parameters and methods for Member States to calculate the threshold shall be set in such a way that when the threshold is reached, it represents a significant decline in liquidity across all venues within the Union for the financial instrument concerned based on the criteria used under Article 2(1)(17);
+(b)
+the range of bid and offer prices or quotes and the depth of trading interests at those prices, or indicative pre-trade bid and offer prices which are close to the price of the trading interest, to be made public for each class of financial instrument concerned in accordance with Article 8(1) and (4), taking into account the necessary calibration for different types of trading systems as referred to in Article 8(2);
+(c)
+the size of orders that are large in scale and the type and the minimum size of orders held in an order management facility pending disclosure for which pre-trade disclosure may be waived under paragraph 1 for each class of financial instrument concerned;
+(d)
+the size specific to the financial instrument referred to in paragraph 1(b) and the definition of request-for-quote and voice trading systems for which pre-trade disclosure may be waived under paragraph 1;
+When determining the size specific to the financial instrument that would expose liquidity providers to undue risk and takes into account whether the relevant market participants are retail or wholesale investors, in accordance with paragraph 1(b), ESMA shall take the following factors into account:
+(i)
+whether, at such sizes, liquidity providers would be able to hedge their risks;
+(ii)
+where a market in the financial instrument, or a class of financial instruments, consists in part of retail investors, the average value of transactions undertaken by those investors;
+(e)
+the financial instruments or the classes of financial instruments for which there is not a liquid market where pre-trade disclosure may be waived under paragraph 1.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

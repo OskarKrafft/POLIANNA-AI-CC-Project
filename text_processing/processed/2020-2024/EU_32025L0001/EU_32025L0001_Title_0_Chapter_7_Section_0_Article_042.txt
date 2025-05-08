@@ -1,0 +1,42 @@
+Article 42
+General powers
+1.   Member States shall ensure that resolution authorities have all the powers necessary to apply resolution tools to the entities referred to in Article 1(1), points (a) to (e), that meet the conditions for resolution laid down in Article 19(1) or 20(3), as applicable. In particular, resolution authorities shall have the following resolution powers, which they may exercise individually or in any combination:
+(a)
+the power to require any person to provide any information required for the resolution authority to decide upon and prepare a resolution action, including updates and supplements of information provided in the resolution plans and including information to be provided through on-site inspections;
+(b)
+the power to take control of an undertaking under resolution and exercise all the rights and powers conferred upon the shareholders, other owners and the administrative, management or supervisory body of the undertaking under resolution;
+(c)
+the power to prohibit to underwrite new insurance or reinsurance business and to place an undertaking under resolution into an orderly solvent run-off procedure and terminate its activities;
+(d)
+the power to authorise a bridge undertaking established and authorised without complying with Directive 2009/138/EC during the short period referred to in Article 33(1), second subparagraph, of this Directive to underwrite new insurance or reinsurance business, or renew existing business;
+(e)
+the power to transfer shares or other instruments of ownership issued by an undertaking under resolution;
+(f)
+the power to transfer to another entity, with the consent of that entity, rights, assets or liabilities of an undertaking under resolution;
+(g)
+the power to restructure insurance claims or reduce, including to reduce to zero, the principal amount of or outstanding amount due in respect of debt instruments and eligible liabilities, including insurance claims, of an undertaking under resolution;
+(h)
+the power to convert debt instruments and eligible liabilities, including insurance claims, of an undertaking under resolution into ordinary shares or other instruments of ownership of an entity referred to in Article 1(1), points (a) to (e), of a relevant parent undertaking or of a bridge undertaking to which assets, rights or liabilities of the entity referred to in Article 1(1), points (a) to (e), are transferred;
+(i)
+the power to cancel debt instruments issued by an undertaking under resolution, except for secured liabilities subject to Article 35(5);
+(j)
+the power to reduce, including to reduce to zero, the nominal amount of shares or other instruments of ownership of an undertaking under resolution and to cancel such shares or other instruments of ownership;
+(k)
+the power to require an undertaking under resolution or a relevant parent undertaking to issue new shares or other instruments of ownership or other capital instruments, including preference shares and contingent convertible instruments;
+(l)
+the power to amend or alter the maturity of debt instruments and other eligible liabilities issued by an undertaking under resolution or amend the amount of interest payable under such instruments and other eligible liabilities, or the date on which the interest becomes payable, including by suspending payment for a temporary period;
+(m)
+the power to close out and terminate financial contracts or derivatives;
+(n)
+the power to remove or replace the administrative, management or supervisory body and senior management of an undertaking under resolution;
+(o)
+the power to require the supervisory authority to assess the buyer of a qualifying holding in a timely manner by way of derogation from the time-limits laid down in Article 58 of Directive 2009/138/EC.
+2.   Member States shall ensure that the measures taken by the supervisory authority are terminated, if their continuation would hinder the use of resolution tools.
+3.   Member States shall take all measures necessary to ensure that, when applying resolution tools and exercising resolution powers, resolution authorities are not subject to any of the following requirements that would otherwise apply by virtue of national law or contract or otherwise:
+(a)
+subject to Article 3(8) and Article 67(1), requirements to obtain approval or consent from any person either public or private, including the shareholders, the creditors or the policy holders of the undertaking under resolution;
+(b)
+prior to the exercise of the power, procedural requirements to notify any person, including any requirement to publish any notice or prospectus or to file or register any document with any other authority.
+Point (b) of the first subparagraph is without prejudice to the requirements laid down in Articles 63 and 65 and any notification requirements under the Union State aid framework.
+4.   Member States shall ensure that, to the extent that any of the powers listed in paragraph 1 of this Article is not applicable to an entity within the scope of Article 1(1) as a result of its specific legal form of mutual undertaking or cooperative society, resolution authorities have powers which are as similar as possible to those listed in paragraph 1 of this Article, including in terms of their effects.
+5.   Member States shall ensure that, when resolution authorities exercise the powers laid down in paragraph 4, the safeguards provided for in Chapter V of this Directive, or safeguards that deliver the same effect, are applied to the persons affected, including shareholders, creditors, policy holders and counterparties.

@@ -1,0 +1,5 @@
+Article 42
+Personal data protection
+1.   This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Regulation (EU) 2016/679 and Directive 2002/58/EC of the European Parliament and of the Council (57) on privacy and electronic communications, or the obligations of the Commission and, where appropriate, other Union institutions, bodies, offices and agencies relating to their processing of personal data under Regulation (EU) 2018/1725, when fulfilling their responsibilities.
+2.   Personal data shall not be processed or communicated except in cases where it is strictly necessary for the purposes of this Regulation. In such cases, the conditions of Regulations (EU) 2016/679 and (EU) 2018/1725 shall apply as appropriate.
+3.   Where processing of personal data is not strictly necessary for the application of the mechanisms established by this Regulation, personal data shall be rendered anonymous in such a manner that the data subject is not identifiable.

@@ -1,0 +1,33 @@
+Article 30
+Equivalence
+1.   In order for a benchmark or a combination of benchmarks provided by an administrator located in a third country to be used in the Union in accordance with Article 29(1), the benchmark and the administrator shall be included in the register referred to in Article 36. The following conditions shall be complied with in order to be included in the register:
+(a)
+an equivalence decision is adopted by the Commission in accordance with paragraph 2 or 3 of this Article;
+(b)
+the administrator is authorised or registered, and is subject to supervision, in the third country in question;
+(c)
+ESMA is notified by the administrator of its consent that its actual or prospective benchmarks may be used by supervised entities in the Union, of the list of the benchmarks for which they have given consent to be used in the Union and of the competent authority responsible for its supervision in the third country; and
+(d)
+the cooperation arrangements referred to in paragraph 4 of this Article are operational.
+2.   The Commission may adopt an implementing decision stating that the legal framework and supervisory practice of a third country ensures that:
+(a)
+administrators authorised or registered in that third country comply with binding requirements which are equivalent to the requirements under this Regulation, in particular taking account of whether the legal framework and supervisory practice of a third country ensures compliance with the IOSCO principles for financial benchmarks or, where applicable, with the IOSCO principles for PRAs; and
+(b)
+the binding requirements are subject to effective supervision and enforcement on an on-going basis in that third country.
+Such implementing decision shall be adopted in accordance with the examination procedure referred to in Article 50(2).
+3.   Alternatively, the Commission may adopt an implementing decision stating that:
+(a)
+binding requirements in a third country with respect to specific administrators or specific benchmarks or families of benchmarks are equivalent to the requirements under this Regulation, in particular taking account of whether the legal framework and supervisory practice of a third country ensures compliance with the IOSCO principles for financial benchmarks or, where applicable, with the IOSCO principles for PRAs; and
+(b)
+such specific administrators or specific benchmarks or families of benchmarks are subject to effective supervision and enforcement on an on-going basis in that third country.
+Such implementing decision shall be adopted in accordance with the examination procedure referred to in Article 50(2).
+4.   ESMA shall establish cooperation arrangements with the competent authorities of third countries whose legal framework and supervisory practices have been recognised as equivalent in accordance with paragraph 2 or 3. Such arrangements shall specify at least:
+(a)
+the mechanism for the exchange of information between ESMA and the competent authorities of third countries concerned, including access to all relevant information regarding the administrator authorised in that third country that is requested by ESMA;
+(b)
+the mechanism for prompt notification to ESMA where a third country competent authority deems that the administrator authorised in that third country that it is supervising is in breach of the conditions of its authorisation or other national legislation in the third country;
+(c)
+the procedures concerning the coordination of supervisory activities, including on-site inspections.
+5.   ESMA shall develop draft regulatory technical standards to determine the minimum content of the cooperation arrangements referred to in paragraph 4 so as to ensure that the competent authorities and ESMA are able to exercise all their supervisory powers under this Regulation.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.

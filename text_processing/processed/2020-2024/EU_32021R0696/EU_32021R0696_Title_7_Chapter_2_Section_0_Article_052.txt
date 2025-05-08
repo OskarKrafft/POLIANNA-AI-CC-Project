@@ -1,0 +1,4 @@
+Article 52
+Eligible actions for data and information access and distribution
+1.   Copernicus shall include actions to provide enhanced access to all Copernicus data and Copernicus information and, where appropriate, provide additional infrastructure and services to foster the distribution, access and use of those data and information.
+2.   Where Copernicus data or Copernicus information are considered to be security sensitive within the meaning of Articles 12 to 16 of Delegated Regulation (EU) No 1159/2013, the Commission may entrust the procurement, the supervision of the acquisition, the access to and the distribution of those data and information to one or more fiduciary entities. Such entities shall set up and maintain a registry of accredited users and grant access to the restricted data through a segregated workflow.

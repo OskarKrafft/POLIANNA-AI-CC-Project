@@ -1,0 +1,5 @@
+Article 3
+Data sources
+1.   Member States shall collect the information required pursuant to this Regulation using all the sources they consider relevant and appropriate. These may include administrative data sources such as business registers.
+2.   Natural and legal persons required to supply information shall, when responding, comply with the time limits and definitions set by the national institutions responsible for the collection of data within the Member States in accordance with this Regulation.
+3.   Where the required data cannot be collected at a reasonable cost, best estimates may be transmitted (zero values included).

@@ -1,0 +1,11 @@
+Article 1
+Subject matter and general objectives
+1.   This Regulation establishes a framework for strengthening the semiconductor ecosystem at Union level, in particular through the following measures:
+(a)
+the establishment of the Chips for Europe Initiative (the ‘Initiative’);
+(b)
+setting the criteria to recognise and to support integrated production facilities and open EU foundries that are first-of-a-kind facilities and that foster the security of supply and the resilience of the Union’s semiconductor ecosystem;
+(c)
+setting up a coordination mechanism between the Member States and the Commission for mapping and monitoring the Union’s semiconductor sector as well as crisis prevention and response to semiconductor shortages and, where relevant, consulting stakeholders from the semiconductor sector.
+2.   The first general objective of this Regulation is to ensure the conditions necessary for the competitiveness and innovation capacity of the Union and to ensure the adjustment of the industry to structural changes.
+3.   The second general objective, separate from and complementary to the first general objective set out in paragraph 2, is to improve the functioning of the internal market by laying down a uniform Union legal framework for increasing the Union’s resilience and security of supply in the field of semiconductor technologies.

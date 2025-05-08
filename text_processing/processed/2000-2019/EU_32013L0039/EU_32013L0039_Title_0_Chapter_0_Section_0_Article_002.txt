@@ -1,0 +1,127 @@
+Article 2
+Directive 2008/105/EC is amended as follows:
+(1)
+Article 2 is replaced by the following:
+‘Article 2
+Definitions
+For the purposes of this Directive, the definitions laid down in Article 2 of Directive 2000/60/EC and in Article 2 of Commission Directive 2009/90/EC of 31 July 2009 laying down, pursuant to Directive 2000/60/EC of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status (*1) shall apply.
+In addition, the following definitions shall apply:
+(1)
+“matrix” means a compartment of the aquatic environment, namely water, sediment or biota;
+(2)
+“biota taxon” means a particular aquatic taxon within the taxonomic rank “sub-phylum”, “class” or their equivalent.
+
+(*1)  
+                                       OJ L 201, 1.8.2009, p. 36.’;"
+                        
+(2)
+Article 3 is replaced by the following:
+‘Article 3
+Environmental quality standards
+1.   Without prejudice to paragraph 1a, Member States shall apply the EQS laid down in Part A of Annex I for bodies of surface water, and shall apply those EQS in accordance with the requirements laid down in Part B of Annex I.
+1a.   Without prejudice to the obligations arising under this Directive in the version in force on 13 January 2009 and in particular the achievement of good surface water chemical status in relation to the substances and the EQS listed therein, Member States shall implement the EQS laid down in Part A of Annex I as regards:
+(i)
+the substances numbered 2, 5, 15, 20, 22, 23, 28 in Part A of Annex I, for which revised EQS are set, with effect from 22 December 2015, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2021 by means of programmes of measures included in the 2015 river basin management plans produced in accordance with Article 13(7) of Directive 2000/60/EC; and
+(ii)
+the newly identified substances numbered 34 to 45 in Part A of Annex I, with effect from 22 December 2018, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2027 and preventing deterioration in the chemical status of surface water bodies in relation to those substances. For this purpose, Member States shall, by 22 December 2018, establish and submit to the Commission a supplementary monitoring programme and a preliminary programme of measures covering those substances. A final programme of measures in accordance with Article 11 of Directive 2000/60/EC shall be established by 22 December 2021 and shall be implemented and made fully operational as soon as possible after that date and not later than 22 December 2024.
+Article 4(4) to (9) of Directive 2000/60/EC shall apply mutatis mutandis to the substances listed in points (i) and (ii) of the first subparagraph.
+2.   For the substances numbered 5, 15, 16, 17, 21, 28, 34, 35, 37, 43 and 44 in Part A of Annex I, Member States shall apply the biota EQS laid down in Part A of Annex I.
+For substances other than those referred to in the first subparagraph, Member States shall apply the water EQS laid down in Part A of Annex I.
+3.   Member States may opt, in relation to one or more categories of surface water, to apply an EQS for a matrix other than that specified in paragraph 2, or, where relevant, for a biota taxon other than those specified in Part A of Annex I.
+Member States that make use of the option referred to in the first subparagraph shall apply the relevant EQS laid down in Part A of Annex I or, if none is included for the matrix or biota taxon, establish an EQS that offers at least the same level of protection as the EQS laid down in Part A of Annex I.
+Member States may use the option referred to in the first subparagraph only where the method of analysis used for the chosen matrix or biota taxon fulfils the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC. Where those criteria are not met for any matrix, Member States shall ensure that monitoring is carried out using best available techniques not entailing excessive costs and that the method of analysis performs at least as well as that available for the matrix specified in paragraph 2 of this Article for the relevant substance.
+3a.   Where a potential risk to, or via, the aquatic environment from acute exposure has been identified as a result of measured or estimated environmental concentrations or emissions and where a biota or sediment EQS is being applied, Member States shall ensure that monitoring in surface water is also carried out and shall apply the MAC-EQS laid down in Part A of Annex I to this Directive where such EQS have been established.
+3b.   Where, pursuant to Article 5 of Directive 2009/90/EC, the calculated mean value of a measurement, when carried out using the best available technique not entailing excessive costs, is referred to as “less than limit of quantification”, and the limit of quantification of that technique is above the EQS, the result for the substance being measured shall not be considered for the purposes of assessing the overall chemical status of that water body.
+4.   For substances for which an EQS for sediment and/or biota is applied, Member States shall monitor the substance in the relevant matrix at least once every year, unless technical knowledge and expert judgment justify another interval.
+5.   Member States shall include the following information in the updated river basin management plans produced in accordance with Article 13(7) of Directive 2000/60/EC:
+(a)
+a table presenting the limits of quantification of the methods of analysis applied, and information on the performance of those methods in relation to the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC;
+(b)
+for the substances for which the option in paragraph 3 of this Article is used:
+(i)
+the reasons and basis for using that option;
+(ii)
+where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS laid down in Part A of Annex I, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply;
+(iii)
+for comparison with the information referred to in point (a) of this paragraph, the limits of quantification of the methods of analysis for the matrices specified in Part A of Annex I to this Directive, including information on the performance of those methods in relation to the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC;
+(c)
+justification for the frequency of monitoring applied in accordance with paragraph 4, if monitoring intervals are longer than one year.
+5a.   Member States shall take the necessary measures to ensure that the updated river basin management plans, produced in accordance with Article 13(7) of Directive 2000/60/EC, containing the results and impact of the measures taken to prevent chemical pollution of surface water, and the interim report describing progress in the implementation of the planned programme of measures in accordance with Article 15(3) of Directive 2000/60/EC, are provided through a central portal which is accessible to the public electronically in accordance with Article 7(1) of Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information (*2).
+6.   Member States shall arrange for the long-term trend analysis of concentrations of those priority substances listed in Part A of Annex I that tend to accumulate in sediment and/or biota, giving particular consideration to the substances numbered 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28, 30, 34, 35, 36, 37, 43 and 44 listed in Part A of Annex I, on the basis of the monitoring of surface water status carried out in accordance with Article 8 of Directive 2000/60/EC. Member States shall take measures aimed at ensuring, subject to Article 4 of Directive 2000/60/EC, that such concentrations do not significantly increase in sediment and/or relevant biota.
+Member States shall determine the frequency of monitoring in sediment and/or biota so as to provide sufficient data for a reliable long-term trend analysis. As a guideline, monitoring should take place every three years, unless technical knowledge and expert judgment justify another interval.
+7.   The Commission shall examine technical and scientific progress, including the conclusions of risk assessments as referred to in points (a) and (b) of Article 16(2) of Directive 2000/60/EC and information from the registration of substances made publicly available in accordance with Article 119 of Regulation (EC) No 1907/2006, and, if necessary, propose that the EQS laid down in Part A of Annex I to this Directive be revised in accordance with the procedure laid down in Article 294 TFEU in line with the timetable provided for in Article 16(4) of Directive 2000/60/EC.
+8.   The Commission shall be empowered to adopt delegated acts in accordance with Article 10, where necessary in order to adapt point 3 of Part B of Annex I to this Directive to scientific or technical developments.
+8a.   In order to facilitate the implementation of this Article, technical guidelines on monitoring strategies and analytical methods for substances, including sampling and monitoring of biota, shall be developed, to the extent possible, by 22 December 2014, as part of the existing implementation process of Directive 2000/60/EC.
+In particular, the guidelines shall cover:
+(a)
+the monitoring of substances in biota as provided for in paragraphs 2 and 3 of this Article;
+(b)
+in the case of newly identified substances (numbered 34 to 45 in Part A of Annex I) and substances for which stricter EQS are established (numbered 2, 5, 15, 20, 22, 23 and 28 in Part A of Annex I), analytical methods compliant with the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC.
+8b.   In the case of substances for which technical guidelines have not been adopted by 22 December 2014, the deadline of 22 December 2015 referred to in point (i) of paragraph (1a) shall be extended to 22 December 2018, and the deadline of 22 December 2021 referred to in that point shall be extended to 22 December 2027.
+
+(*2)  
+                                          OJ L 41, 14.2.2003, p. 26.’;"
+                        
+(3)
+Article 4(4) and Article 5(6) are deleted;
+(4)
+the following Article is inserted:
+‘Article 7a
+Coordination
+1.   For priority substances that fall within the scope of Regulations (EC) No 1907/2006, (EC) No 1107/2009 (*3), (EU) No 528/2012 (*4) or Directive 2010/75/EU (*5), the Commission shall, as part of the regular review of Annex X to Directive 2000/60/EC pursuant to Article 16(4) of that Directive, assess whether the measures in place at Union and Member State level are sufficient to achieve the EQS for priority substances and the cessation or phasing-out objective for discharges, emissions and losses of priority hazardous substances in accordance with point (a) of Article 4(1) and Article 16(6) of Directive 2000/60/EC.
+2.   The Commission shall report to the European Parliament and to the Council on the outcome of the assessment referred to in paragraph 1 of this Article in accordance with the timetable laid down in Article 16(4) of Directive 2000/60/EC and shall accompany its report with any appropriate proposals including for control measures.
+3.   Where the results of the report show that additional measures at Union or Member State level may be necessary in order to facilitate compliance with Directive 2000/60/EC in relation to a particular substance approved pursuant to Regulation (EC) No 1107/2009 or Regulation (EU) No 528/2012, Member States or the Commission shall apply Articles 21 or 44 of Regulation (EC) No 1107/2009 or Articles 15 or 48 of Regulation (EU) No 528/2012, as appropriate, to that substance, or products containing that substance.
+In the case of substances falling within the scope of Regulation (EC) No 1907/2006, the Commission shall initiate, where appropriate, the procedure referred to in Articles 59, 61 or 69 of that Regulation.
+In applying the provisions of the Regulations referred to in the first and second subparagraphs, Member States and the Commission shall take into account any risk evaluations and socio-economic or cost-benefit analyses required under those Regulations, including as regards the availability of alternatives.
+
+(*3)  Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market (OJ L 309, 24.11.2009, p. 1)."
+                        
+
+(*4)  Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1)."
+                        
+
+(*5)  Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).’;"
+                        
+(5)
+Articles 8 and 9 are replaced by the following:
+‘Article 8
+Review of Annex X to Directive 2000/60/EC
+The Commission shall report to the European Parliament and to the Council on the outcome of the regular review of Annex X to Directive 2000/60/EC provided for in Article 16(4) of that Directive. It shall accompany the report, where appropriate, with legislative proposals to amend Annex X including, in particular, proposals to identify new priority substances or priority hazardous substances or to identify certain priority substances as priority hazardous substances and to set corresponding EQS for surface water, sediment or biota, as appropriate.
+Article 8a
+Specific provisions for certain substances
+1.   In the river basin management plans produced in accordance with Article 13 of Directive 2000/60/EC, without prejudice to the requirements of Section 1.4.3 of Annex V thereof regarding the presentation of the overall chemical status and the objectives and obligations laid down in point (a) of Article 4(1), in point (k) of Article 11(3) and in Article 16(6) of that Directive, Member States may provide additional maps that present the chemical status information for one or more of the following substances separately from the information for the rest of the substances identified in Part A of Annex I to this Directive:
+(a)
+substances numbered 5, 21, 28, 30, 35, 37, 43 and 44 (substances behaving like ubiquitous PBTs);
+(b)
+substances numbered 34 to 45 (newly identified substances);
+(c)
+substances numbered 2, 5, 15, 20, 22, 23 and 28 (substances for which revised, stricter EQS are established).
+Member States may also present the extent of any deviation from the EQS value for the substances referred to in points (a) to (c) of the first subparagraph in the river basin management plans. Member States providing such additional maps shall seek to ensure their inter-comparability at river basin and Union level.
+2.   Member States may monitor the substances numbered 5, 21, 28, 30, 35, 37, 43 and 44 in Part A of Annex I less intensively than is required for priority substances in accordance with Article 3(4) of this Directive and Annex V to Directive 2000/60/EC, provided that the monitoring is representative and a statistically robust baseline is available regarding the presence of those substances in the aquatic environment. As a guideline, in accordance with the second subparagraph of Article 3(6) of this Directive, monitoring should take place every three years, unless technical knowledge and expert judgment justify another interval.
+Article 8b
+Watch list
+1.   The Commission shall establish a watch list of substances for which Union-wide monitoring data are to be gathered for the purpose of supporting future prioritisation exercises in accordance with Article 16(2) of Directive 2000/60/EC, to complement data from, inter alia, analyses and reviews under Article 5 and monitoring programmes under Article 8 of that Directive.
+The first watch list shall contain a maximum of 10 substances or groups of substances and shall indicate the monitoring matrices and the possible methods of analysis not entailing excessive costs for each substance. Subject to the availability of methods of analysis not entailing excessive costs, the maximum number of substances or groups of substances that the Commission is allowed to include in the list shall increase by one at each update of the list in accordance with paragraph 2 of this Article, up to a maximum number of 14. The substances to be included in the watch list shall be selected from amongst those for which the information available indicates that they may pose a significant risk at Union level to, or via, the aquatic environment and for which monitoring data are insufficient.
+Diclofenac (CAS 15307-79-6), 17-beta-estradiol (E2) (CAS 50-28-2) and 17-alpha-ethinylestradiol (EE2) (CAS 57-63-6) shall be included in the first watch list, in order to gather monitoring data for the purpose of facilitating the determination of appropriate measures to address the risk posed by those substances.
+In selecting the substances for the watch list, the Commission shall take into account all available information including:
+(a)
+the results of the most recent regular review of Annex X to Directive 2000/60/EC provided for in Article 16(4) of that Directive;
+(b)
+research projects;
+(c)
+recommendations from the stakeholders referred to in Article 16(5) of Directive 2000/60/EC;
+(d)
+Member States’ characterisation of river basin districts and the results of monitoring programmes, under Articles 5 and 8 of Directive 2000/60/EC respectively;
+(e)
+on production volumes, use patterns, intrinsic properties (including, where relevant, particle size), concentrations in the environment and effects, including information gathered in accordance with Directives 98/8/EC, 2001/82/EC (*6) and 2001/83/EC (*7), and with Regulations (EC) No 1907/2006 and (EC) No 1107/2009.
+2.   The Commission shall establish the first watch list as referred to in paragraph 1 by 14 September 2014 and shall update it every 24 months thereafter. When updating the watch list, the Commission shall remove any substance for which a risk-based assessment as referred to in Article 16(2) of Directive 2000/60/EC can be concluded without additional monitoring data. The duration of a continuous watch list monitoring period for any individual substance shall not exceed four years.
+3.   Member States shall monitor each substance in the watch list at selected representative monitoring stations over at least a 12-month period. For the first watch list, the monitoring period shall commence by 14 September 2015 or within six months of the establishment of the watch list, whichever is the later. For each substance included in subsequent lists, Member States shall commence monitoring within six months of its inclusion in the list.
+Each Member State shall select at least one monitoring station, plus one station if it has more than one million inhabitants, plus the number of stations equal to its geographical area in km2 divided by 60 000 (rounded to the nearest integer), plus the number of stations equal to its population divided by five million(rounded to the nearest integer).
+In selecting the representative monitoring stations, the monitoring frequency and timing for each substance, Member States shall take into account the use patterns and possible occurrence of the substance. The frequency of monitoring shall be no less than once per year.
+Where a Member State provides sufficient, comparable, representative and recent monitoring data for a particular substance from existing monitoring programmes or studies, it may decide not to undertake additional monitoring under the watch list mechanism for that substance, provided also that the substance was monitored using a methodology that satisfies the requirements of the technical guidelines developed by the Commission in accordance with Article 8b(5).
+4.   Member States shall report to the Commission the results of the monitoring carried out pursuant to paragraph 3. For the first watch list, the monitoring results shall be reported within 15 months of 14 September 2015 or within 21 months of the establishment of the watch list, whichever is the later, and every 12 months thereafter while the substance is kept on the list. For each substance included in subsequent lists, Member States shall report the results of the monitoring to the Commission within 21 months of the inclusion of the substance in the watch list, and every 12 months thereafter while the substance is kept on the list. The report shall include information on the representativeness of the monitoring stations and monitoring strategy.
+5.   The Commission shall adopt implementing acts establishing and updating the watch list as referred to in paragraphs 1 and 2. It may also adopt technical formats for reporting the monitoring results and related information to the Commission. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9(2).
+The Commission shall develop guidelines, including technical specifications, with a view to facilitating the monitoring of the substances in the watch list and is invited to promote coordination of such monitoring.
+Article 8c
+Specific provisions for pharmaceutical substances
+Pursuant to Article 16(9) of Directive 2000/60/EC, and where appropriate on the basis of the outcome of its 2013 study on the risks posed by medicinal products in the environment and of other relevant studies and reports, the Commission shall, as far as possible within two years from 13 September 2013 develop a strategic approach to pollution of water by pharmaceutical substances. That strategic approach shall, where appropriate, include proposals enabling, to the extent necessary, the environmental impacts of medicines to be taken into account more effectively in the procedure for placing medicinal products on the market. In the framework of that strategic approach, the Commission shall, where appropriate, by 14 September 2017 propose measures to be taken at Union and/or Member State level, as appropriate, to address the possible environmental impacts of pharmaceutical substances, particularly those referred to in Article 8b(1), with a view to reducing discharges, emissions and losses of such substances into the aquatic environment, taking into account public health needs and the cost-effectiveness of the measures proposed.

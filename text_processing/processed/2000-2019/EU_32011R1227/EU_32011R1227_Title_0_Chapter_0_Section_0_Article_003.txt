@@ -1,0 +1,34 @@
+Article 3
+Prohibition of insider trading
+1.   Persons who possess inside information in relation to a wholesale energy product shall be prohibited from:
+(a)
+using that information by acquiring or disposing of, or by trying to acquire or dispose of, for their own account or for the account of a third party, either directly or indirectly, wholesale energy products to which that information relates;
+(b)
+disclosing that information to any other person unless such disclosure is made in the normal course of the exercise of their employment, profession or duties;
+(c)
+recommending or inducing another person, on the basis of inside information, to acquire or dispose of wholesale energy products to which that information relates.
+2.   The prohibition set out in paragraph 1 applies to the following persons who possess inside information in relation to a wholesale energy product:
+(a)
+members of the administrative, management or supervisory bodies of an undertaking;
+(b)
+persons with holdings in the capital of an undertaking;
+(c)
+persons with access to the information through the exercise of their employment, profession or duties;
+(d)
+persons who have acquired such information through criminal activity;
+(e)
+persons who know, or ought to know, that it is inside information.
+3.   Points (a) and (c) of paragraph 1 of this Article shall not apply to transmission system operators when purchasing electricity or natural gas in order to ensure the safe and secure operation of the system in accordance with their obligations under points (d) and (e) of Article 12 of Directive 2009/72/EC or points (a) and (c) of Article 13(1) of Directive 2009/73/EC.
+4.   This Article shall not apply to:
+(a)
+transactions conducted in the discharge of an obligation that has become due to acquire or dispose of wholesale energy products where that obligation results from an agreement concluded, or an order to trade placed, before the person concerned came into possession of inside information;
+(b)
+transactions entered into by electricity and natural gas producers, operators of natural gas storage facilities or operators of LNG import facilities the sole purpose of which is to cover the immediate physical loss resulting from unplanned outages, where not to do so would result in the market participant not being able to meet existing contractual obligations or where such action is undertaken in agreement with the transmission system operator(s) concerned in order to ensure safe and secure operation of the system. In such a situation, the relevant information relating to the transactions shall be reported to the Agency and the national regulatory authority. This reporting obligation is without prejudice to the obligation set out in Article 4(1);
+(c)
+market participants acting under national emergency rules, where national authorities have intervened in order to secure the supply of electricity or natural gas and market mechanisms have been suspended in a Member State or parts thereof. In this case the authority competent for emergency planning shall ensure publication in accordance with Article 4.
+5.   Where the person who possesses inside information in relation to a wholesale energy product is a legal person, the prohibitions laid down in paragraph 1 shall also apply to the natural persons who take part in the decision to carry out the transaction for the account of the legal person concerned.
+6.   When information is disseminated for the purposes of journalism or artistic expression such dissemination of information shall be assessed taking into account the rules governing the freedom of the press and freedom of expression in other media, unless:
+(a)
+those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question; or
+(b)
+the disclosure or dissemination is made with the intention of misleading the market as to the supply of, demand for, or price of wholesale energy products.

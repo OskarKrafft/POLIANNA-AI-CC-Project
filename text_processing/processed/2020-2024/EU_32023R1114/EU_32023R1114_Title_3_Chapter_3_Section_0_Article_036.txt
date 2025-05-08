@@ -1,0 +1,69 @@
+Article 36
+Obligation to have a reserve of assets, and composition and management of such reserve of assets
+1.   Issuers of asset-referenced tokens shall constitute and at all times maintain a reserve of assets.
+The reserve of assets shall be composed and managed in such a way that:
+(a)
+the risks associated to the assets referenced by the asset-referenced tokens are covered; and
+(b)
+the liquidity risks associated to the permanent rights of redemption of the holders are addressed.
+2.   The reserve of assets shall be legally segregated from the issuers’ estate, as well as from the reserve of assets of other asset-referenced tokens, in the interests of the holders of asset-referenced tokens in accordance with applicable law, so that creditors of the issuers have no recourse to the reserve of assets, in particular in the event of insolvency.
+3.   Issuers of asset-referenced tokens shall ensure that the reserve of assets is operationally segregated from their estate, as well as from the reserve of assets of other tokens.
+4.   EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards further specifying the liquidity requirements, taking into account the size, complexity and nature of the reserve of assets and of the asset-referenced token itself.
+The regulatory technical standards shall establish in particular:
+(a)
+the relevant percentage of the reserve of assets according to daily maturities, including the percentage of reverse repurchase agreements that are able to be terminated by giving prior notice of one working day, or the percentage of cash that is able to be withdrawn by giving prior notice of one working day;
+(b)
+the relevant percentage of the reserve of assets according to weekly maturities, including the percentage of reverse repurchase agreements that are able to be terminated by giving prior notice of five working days, or the percentage of cash that is able to be withdrawn by giving prior notice of five working days;
+(c)
+other relevant maturities, and overall techniques for liquidity management;
+(d)
+the minimum amounts in each official currency referenced to be held as deposits in credit institutions, which cannot be lower than 30 % of the amount referenced in each official currency.
+For the purposes of points (a), (b) and (c) of the second subparagraph, EBA shall take into account, amongst others, the relevant thresholds laid down in Article 52 of Directive 2009/65/EC.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+5.   Issuers that offer two or more asset-referenced tokens to the public shall operate and maintain segregated pools of reserves of assets for each asset-referenced token. Each of those pools of reserves of assets shall be managed separately.
+Where different issuers of asset-referenced tokens offer the same asset-referenced token to the public, those issuers shall operate and maintain only one reserve of assets for that asset-referenced token.
+6.   The management bodies of issuers of asset-referenced tokens shall ensure the effective and prudent management of the reserve of assets. The issuers shall ensure that the issuance and redemption of asset-referenced tokens is always matched by a corresponding increase or decrease in the reserve of assets.
+7.   The issuer of an asset-referenced token shall determine the aggregate value of the reserve of assets by using market prices. Its aggregate value shall be at least equal to the aggregate value of the claims against the issuer from the holders of the asset-referenced token in circulation.
+8.   Issuers of asset-referenced tokens shall have a clear and detailed policy describing the stabilisation mechanism of such tokens. That policy shall in particular:
+(a)
+list the assets referenced by the asset-referenced tokens and the composition of those assets;
+(b)
+describe the type of assets and the precise allocation of assets that are included in the reserve of assets;
+(c)
+contain a detailed assessment of the risks, including credit risk, market risk, concentration risk and liquidity risk resulting from the reserve of assets;
+(d)
+describe the procedure by which the asset-referenced tokens are issued and redeemed, and the procedure by which such issuance and redemption will result in a corresponding increase and decrease in the reserve of assets;
+(e)
+mention whether a part of the reserve of assets is invested as provided in Article 38;
+(f)
+where issuers of asset-referenced tokens invest a part of the reserve of assets as provided in Article 38, describe in detail the investment policy and contain an assessment of how that investment policy can affect the value of the reserve of assets;
+(g)
+describe the procedure to purchase asset-referenced tokens and to redeem such tokens against the reserve of assets, and list the persons or categories of persons who are entitled to do so.
+9.   Without prejudice to Article 34(12), issuers of asset-referenced tokens shall mandate an independent audit of the reserve of assets every six months, assessing compliance with the rules of this Chapter, as of the date of their authorisation pursuant to Article 21 or as of the date of approval of the crypto-asset white paper pursuant to Article 17.
+10.   The issuer shall notify the results of the audit referred to in paragraph 9 to the competent authority without delay, and at the latest within six weeks of the reference date of the valuation. The issuer shall publish the result of the audit within two weeks of the date of notification to the competent authority. The competent authority may instruct an issuer to delay the publication of the results of the audit in the event that:
+(a)
+the issuer has been required to implement a recovery arrangement or measures in accordance with Article 46(3);
+(b)
+the issuer has been required to implement a redemption plan in accordance with Article 47;
+(c)
+it is deemed necessary to protect the economic interests of holders of the asset-referenced token;
+(d)
+it is deemed necessary to avoid a significant adverse effect on the financial system of the home Member State or another Member State.
+11.   The valuation at market prices referred to in paragraph 7 of this Article shall be made by using mark-to-market, as defined in Article 2, point (8), of Regulation (EU) 2017/1131 of the European Parliament and of the Council (38) whenever possible.
+When using mark-to-market valuation the reserve asset shall be valued at the more prudent side of the bid and offer unless the reserve asset can be closed out at mid-market. Only market data of good quality shall be used, and such data shall be assessed based on all of the following factors:
+(a)
+the number and quality of the counterparties;
+(b)
+the volume and turnover in the market of the reserve asset;
+(c)
+the size of the reserve of assets.
+12.   Where use of mark-to-market as referred to in paragraph 11 of this Article is not possible or the market data is not of sufficiently good quality, the reserve asset shall be valued conservatively by using mark-to-model, as defined in Article 2, point (9), of Regulation (EU) 2017/1131.
+The model shall accurately estimate the intrinsic value of the reserve asset, based on all of the following up-to-date key factors:
+(a)
+the volume and turnover in the market of that reserve asset;
+(b)
+the size of the reserve of assets;
+(c)
+the market risk, interest rate risk and credit risk attached to the reserve asset.
+When using mark-to-model, the amortised cost method, as defined in Article 2, point (10), of Regulation (EU) 2017/1131, shall not be used.

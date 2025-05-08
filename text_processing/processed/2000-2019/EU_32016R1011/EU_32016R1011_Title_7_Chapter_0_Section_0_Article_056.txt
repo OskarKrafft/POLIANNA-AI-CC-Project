@@ -1,0 +1,29 @@
+Article 56
+Amendments to Regulation (EU) No 596/2014
+Regulation (EU) No 596/2014 is amended as follows:
+(1)
+Article 19 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘1a.   The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
+(a)
+the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
+(b)
+the financial instrument provides exposure to a portfolio of assets in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the portfolio's assets;
+(c)
+the financial instrument is a unit or share in a collective investment undertaking or provides exposure to a portfolio of assets and the person discharging managerial responsibilities or person closely associated with such a person does not know, and could not know, the investment composition or exposure of such collective investment undertaking or portfolio of assets in relation to the issuer's shares or debt instruments, and furthermore there is no reason for that person to believe that the issuer's shares or debt instruments exceed the thresholds in point (a) or (b).
+If information regarding the investment composition of the collective investment undertaking or exposure to the portfolio of assets is available, then the person discharging managerial responsibility or person closely associated with such a person shall make all reasonable efforts to avail themselves of that information.’;
+(b)
+in paragraph 7, the following subparagraph is inserted after the second subparagraph:
+‘For the purposes of point (b), transactions executed in shares or debt instruments of an issuer or derivatives or other financial instruments linked thereto by managers of a collective investment undertaking in which the person discharging managerial responsibilities or a person closely associated with them has invested do not need to be notified where the manager of the collective investment undertaking operates with full discretion, which excludes the manager receiving any instructions or suggestions on portfolio composition directly or indirectly from investors in that collective investment undertaking.’.
+(2)
+Article 35 is amended as follows:
+(a)
+in paragraphs (2) and (3), the phrase ‘and Article 19(13) and (14)’ is replaced by ‘, Article 19(13) and (14) and Article 38’;
+(b)
+paragraph (5) is replaced by the following:
+‘5.   A delegated act adopted pursuant to Article 6(5) or (6), Article 12(5), the third subparagraph of Article 17(2), Article 17(3), Article 19(13) or (14) or Article 38, shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.’.
+(3)
+In Article 38, the following paragraphs are added:
+‘By 3 July 2019, the Commission shall, after consulting ESMA, submit a report to the European Parliament and to the Council on the level of the thresholds set out in Article 19(1a)(a) and (b) in relation to managers' transactions where the issuer's shares or debt instruments form part of a collective investment undertaking or provide exposure to a portfolio of assets, with a view to assessing whether that level is appropriate or should be adjusted.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 35 adjusting the thresholds in Article 19(1a)(a) and (b), if it determines in that report that those thresholds should be adjusted.’.

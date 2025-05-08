@@ -1,0 +1,26 @@
+Article 18
+Transfer of responsibility
+1.   Where a storage site has been closed pursuant to points (a) or (b) of Article 17(1), all legal obligations relating to monitoring and corrective measures pursuant to the requirements laid down in this Directive, the surrender of allowances in the event of leakages pursuant to Directive 2003/87/EC and preventive and remedial action pursuant to Articles 5(1) and 6(1) of Directive 2004/35/EC, shall be transferred to the competent authority on its own initiative or upon request from the operator, if the following conditions are met:
+(a)
+all available evidence indicates that the stored CO2 will be completely and permanently contained;
+(b)
+a minimum period, to be determined by the competent authority has elapsed. This minimum period shall be no shorter than 20 years, unless the competent authority is convinced that the criterion referred to in point (a) is complied with before the end of that period;
+(c)
+the financial obligations referred to in Article 20 have been fulfilled;
+(d)
+the site has been sealed and the injection facilities have been removed.
+2.   The operator shall prepare a report documenting that the condition referred to in paragraph 1(a) has been met and shall submit it to the competent authority for the latter to approve the transfer of responsibility. This report shall demonstrate, at least:
+(a)
+the conformity of the actual behaviour of the injected CO2 with the modelled behaviour;
+(b)
+the absence of any detectable leakage;
+(c)
+that the storage site is evolving towards a situation of long-term stability.
+The Commission may adopt guidelines on the assessment of the matters referred to in points (a), (b) and (c) of the first subparagraph, highlighting therein any implications for the technical criteria relevant to the determination of the minimum periods referred to in paragraph 1(b).
+3.   Where the competent authority is satisfied that the conditions referred to in points (a) and (b) of paragraph 1 are met, it shall prepare a draft decision of approval of the transfer of responsibility. The draft decision shall specify the method for determining that the conditions referred to in paragraph 1(d) have been met as well as any updated requirements for the sealing of the storage site and for the removal of injection facilities.
+If the competent authority considers that the conditions referred to in points (a) and (b) of paragraph 1 are not met, it shall inform the operator of its reasons.
+4.   Member States shall make the reports referred to in paragraph 2 available to the Commission within one month after receipt. They shall also make available other related material that shall be taken into account by the competent authority when it prepares a draft decision of approval on the transfer of responsibility. They shall inform the Commission of all draft decisions of approval prepared by the competent authority pursuant to paragraph 3, including any other material taken into consideration for arriving at its conclusion. Within four months after receipt of the draft decision of approval, the Commission may issue a non-binding opinion on it. If the Commission decides not to issue an opinion, it shall inform the Member State within one month of submission of the draft decision of approval and state its reasons.
+5.   Where the competent authority is satisfied that the conditions referred to in points (a) to (d) of paragraph 1 are complied with, it shall adopt the final decision and notify that decision to the operator. The competent authority shall also notify the final decision to the Commission, and where it departs from the Commission opinion it shall state its reasons.
+6.   After the transfer of responsibility, routine inspections provided for in Article 15(3) shall cease and monitoring may be reduced to a level which allows for detection of leakages or significant irregularities. If any leakages or significant irregularities are detected, monitoring shall be intensified as required to assess the scale of the problem and the effectiveness of corrective measures.
+7.   In cases where there has been fault on the part of the operator, including cases of deficient data, concealment of relevant information, negligence, wilful deceit or a failure to exercise due diligence, the competent authority shall recover from the former operator the costs incurred after the transfer of responsibility has taken place. Without prejudice to Article 20, there shall be no further recovery of costs after the transfer of responsibility.
+8.   Where a storage site has been closed pursuant to Article 17(1)(c), transfer of responsibility shall be deemed to take place if and when all available evidence indicates that the stored CO2 will be completely and permanently contained, and after the site has been sealed and the injection facilities have been removed.

@@ -1,0 +1,11 @@
+Article 1
+Subject matter
+1.   This Regulation lays down rules for:
+(a)
+the establishment and operation of a single digital gateway to provide citizens and businesses with easy access to high quality information, to efficient procedures and to effective assistance and problem-solving services with regard to Union and national rules applicable to citizens and businesses exercising or intending to exercise their rights derived from Union law in the field of the internal market, within the meaning of Article 26(2) TFEU;
+(b)
+the use of procedures by cross-border users and the implementation of the ‘once-only’ principle in connection with the procedures listed in Annex II to this Regulation and the procedures provided for in Directives 2005/36/EC, 2006/123/EC, 2014/24/EU and 2014/25/EU;
+(c)
+the reporting on obstacles in the internal market based on the collection of user feedback and statistics from the services covered by the gateway.
+2.   Where this Regulation conflicts with a provision of another Union act governing specific aspects of the subject matter covered by this Regulation, the provision of that other Union act shall prevail.
+3.   This Regulation shall not affect the substance of, or the rights granted through, any procedure laid down at Union or national level in any of the areas covered by this Regulation. Furthermore, this Regulation shall not affect measures taken in accordance with Union law to safeguard cybersecurity and to prevent fraud.

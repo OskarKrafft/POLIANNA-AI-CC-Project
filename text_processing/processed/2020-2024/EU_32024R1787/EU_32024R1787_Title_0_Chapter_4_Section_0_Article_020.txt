@@ -1,0 +1,21 @@
+Article 20
+Monitoring and reporting
+1.   For underground coal mines, mine operators shall take continuous source-level direct measurements and quantification on all exhaust ventilation shafts. Mine operators shall report to the competent authorities methane emissions per ventilation shaft per year in kilotonne of methane, using equipment and methodologies resulting in a measurement accuracy with a tolerance of 0,5 kilotonne of methane per year or of 5 % of the reported amount, whichever value is lower.
+2.   Drainage station operators shall take continuous source-level direct measurements and quantification of total releases of vented and flared methane, regardless of the reasons for such venting and flaring.
+3.   For surface coal mines, mine operators shall use deposit-specific coal mine methane emission factors to quantify methane emissions resulting from mining operations. Mine operators shall establish those emission factors on a quarterly basis, in accordance with appropriate scientific standards and taking into account methane emissions from surrounding strata.
+4.   The measurements and quantification referred to in paragraphs 1, 2 and 3 shall be undertaken in accordance with the applicable standards or technical prescriptions established pursuant to Article 32. Until the date of application of those standards or technical prescriptions, mine operators shall follow state-of-the-art industry practices and use the best available technologies for the measurement and quantification of methane emissions. Mine operators shall provide competent authorities and verifiers with information on the standards, including international standards, or methodologies used.
+As regards continuous source-level direct measurements and quantification referred to in paragraphs 1 and 2, where part of the measuring equipment is not operating for a certain period, readings taken during periods when the equipment was operating may be used to estimate data on a pro rata basis for the period that the equipment was not operating.
+The equipment used for continuous source-level direct measurements and quantification referred to in paragraphs 1 and 2 shall operate for more than 90 % of the period for which it is used to monitor methane emissions, excluding downtime taken for re-calibration and repairs.
+5.   Where relevant, mine operators shall estimate coal post-mining methane emissions using coal post-mining emission factors, updated annually, based on deposit-specific coal samples and in accordance with appropriate scientific standards.
+6.   By 5 August 2025 and by 31 May every year thereafter, mine operators and drainage station operators shall submit a report to the competent authorities containing data on yearly source-level methane emissions in accordance with this Article.
+That report shall cover the last available calendar year period and include the elements set out in Part 1 of Annex VI for active underground coal mines, Part 2 of Annex VI for active surface coal mines and Part 3 of Annex VI for drainage stations.
+Before submission to the competent authorities, mine operators and drainage station operators shall ensure that the reports referred to in this paragraph are assessed by a verifier and include a verification statement issued in accordance with Article 8.
+7.   The competent authorities shall make the reports referred to in this Article available to the public and the Commission in accordance with Article 5(4), within 3 months from submission by mine operators.
+
+Section II
+
+
+
+Mitigation of methane emissions resulting from active underground coal mines
+
+

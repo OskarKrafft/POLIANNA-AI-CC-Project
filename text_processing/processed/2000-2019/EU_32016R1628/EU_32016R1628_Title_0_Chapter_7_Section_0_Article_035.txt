@@ -1,0 +1,28 @@
+Article 35
+Exemptions for new technologies or new concepts
+1.   A manufacturer may apply for an EU type-approval in respect of an engine type or engine family that incorporates new technologies or new concepts and that, as a result of those new technologies or new concepts, is incompatible with one or more requirements of this Regulation.
+2.   The approval authority shall grant the EU type-approval referred to in paragraph 1 where all of the following conditions are met:
+(a)
+the application states the reasons why the new technologies or new concepts make the engine type or engine family incompatible with one or more of the requirements of this Regulation;
+(b)
+the application describes the environmental implications of the new technologies or new concepts and the measures taken in order to ensure a level of environmental protection that is at least equivalent to the level provided by the requirements of this Regulation from which exemption is sought;
+(c)
+test descriptions and results are presented which prove that the condition in point (b) is met.
+3.   The granting of the EU type-approval referred to in paragraph 1 shall be subject to authorisation by the Commission.
+Where appropriate, the authorisation by the Commission shall specify whether it is subject to any restrictions.
+The authorisation shall be given by means of an implementing act.
+4.   Pending the decision on authorisation by the Commission pursuant to paragraph 3, the approval authority may issue a provisional EU type-approval which shall be valid:
+(a)
+only in the territory of that Member State;
+(b)
+only in respect of an engine type or engine family covered by the exemption sought; and
+(c)
+for at least 36 months.
+Where a provisional EU type-approval is issued, the approval authority shall inform the Commission and the other Member States thereof without delay, by means of a file containing the information referred to in paragraph 2.
+The provisional nature and the limited territorial validity of such a provisional EU type-approval shall be apparent from the heading of the EU type-approval certificate and the heading of the corresponding statement of conformity.
+5.   Where an approval authority decides to accept a provisional EU type-approval referred to in paragraph 4 within its territory, it shall inform the relevant approval authority and the Commission thereof in writing.
+6.   Where the Commission decides not to give the authorisation referred to in paragraph 3 the approval authority shall immediately notify the holder of the provisional EU type-approval referred to in paragraph 4 that the provisional EU type-approval will be revoked six months after the date of the Commission's refusal.
+Notwithstanding the Commission's decision not to give the authorisation referred to in paragraph 3, engines manufactured in conformity with the provisional EU type-approval before it ceases to be valid may be placed on the market in any Member State the approval authorities of which accepted the provisional EU type-approval.
+7.   The requirements referred to in the second subparagraph of paragraph 4 and in paragraph 5 shall be deemed to be fulfilled where the relevant information has been uploaded onto IMI.
+8.   The Commission may adopt implementing acts laying down the authorisation referred to in paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 56(2).
+9.   The Commission may adopt implementing acts laying down the harmonised templates for the EU type-approval certificate and the statement of conformity referred to in paragraph 4 of this Article, including their mandatory essential information. Those implementing acts shall be adopted, by 31 December 2016, in accordance with the examination procedure referred to in Article 56(2).

@@ -1,0 +1,20 @@
+Article 131
+Exposures to institutions and corporates with a short-term credit assessment
+Exposures to institutions and exposures to corporates for which a short-term credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 7 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+
+Table 7
+
+Credit Quality Step
+1
+2
+3
+4
+5
+6
+Risk weight
+20  %
+50  %
+100  %
+150  %
+150  %
+150  %

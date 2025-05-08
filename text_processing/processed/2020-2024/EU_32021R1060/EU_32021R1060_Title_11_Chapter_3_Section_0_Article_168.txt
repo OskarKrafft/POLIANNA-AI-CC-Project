@@ -1,0 +1,47 @@
+Article 49
+Responsibilities of the managing authority
+1.   The managing authority shall ensure that, within 6 months of the decision approving the programme, there is a website where information on programmes under its responsibility is available, covering the programme’s objectives, activities, available funding opportunities and achievements.
+2.   The managing authority shall ensure the publication on the website referred to in paragraph 1, or on the single website portal referred to in point (b) of Article 46, of a timetable of the planned calls for proposals, that is updated at least three times a year, with the following indicative data:
+(a)
+geographical area covered by the call for proposal;
+(b)
+policy objective or specific objective concerned;
+(c)
+type of eligible applicants;
+(d)
+total amount of support for the call;
+(e)
+start and end date of the call.
+3.   The managing authority shall make the list of operations selected for support by the Funds publicly available on the website in at least one of the official languages of the institutions of the Union and shall update that list at least every 4 months. Each operation shall have a unique code. The list shall contain the following data:
+(a)
+in the case of legal entities, the beneficiary’s and, in the case of public procurement, the contractor’s name;
+(b)
+where the beneficiary is a natural person the first name and the surname;
+(c)
+for EMFAF operations linked to a fishing vessel, the Union fishing fleet register identification number as referred to in Commission Implementing Regulation (EU) 2017/218 (47);
+(d)
+name of the operation;
+(e)
+the purpose of the operation and its expected or actual achievements;
+(f)
+start date of the operation;
+(g)
+expected or actual date of completion of the operation;
+(h)
+total cost of the operation;
+(i)
+fund concerned;
+(j)
+specific objective concerned;
+(k)
+Union co-financing rate;
+(l)
+location indicator or geolocation for the operation and country concerned;
+(m)
+for mobile operations or operations covering several locations the location of the beneficiary where the beneficiary is a legal entity; or the NUTS 2 level region where the beneficiary is a natural person;
+(n)
+type of intervention for the operation in accordance with point (g) of Article 73(2).
+For data referred to in points (b) and (c) of the first subparagraph, the data shall be removed 2 years from the date of the initial publication on the website.
+4.   The data referred to in paragraphs 2 and 3 of this Article shall be published on the website referred to in paragraph 1, or on the single website portal referred to in point (b) of Article 46 of this Regulation, in open, machine-readable formats, as set out in Article 5(1) of the Directive (EU) 2019/1024 of the European Parliament and of the Council (48), which allows data to be sorted, searched, extracted, compared and reused.
+5.   The managing authority shall inform the beneficiaries that the data will be made public before the publication takes place in accordance with this Article.
+6.   The managing authority shall ensure that communication and visibility material including at the level of beneficiaries is made available upon request to Union institutions, bodies, offices or agencies and that a royalty-free, non-exclusive and irrevocable licence to use such material and any pre-existing rights attached to it is granted to the Union in accordance with Annex IX. This shall not require significant additional costs or a significant administrative burden for the beneficiaries or for the managing authority.

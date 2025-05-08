@@ -1,0 +1,95 @@
+Article 2
+Scope
+1.   This Regulation shall apply to:
+(a)
+the design and production of products, parts and equipment to control aircraft remotely by a natural or legal person under the oversight of the Agency or a Member State, to the extent not covered by point (b);
+(b)
+the design, production, maintenance and operation of aircraft, as well as their engines, propellers, parts, non-installed equipment and equipment to control aircraft remotely, where the aircraft is or will be:
+(i)
+registered in a Member State, unless and to the extent that the Member State has transferred its responsibilities pursuant to the Chicago Convention to a third country and the aircraft is operated by a third country aircraft operator;
+(ii)
+registered in a third country and operated by an aircraft operator established, residing or with a principal place of business in the territory to which the Treaties apply;
+(iii)
+an unmanned aircraft, that is registered neither in a Member State nor in a third country and that is operated within the territory to which the Treaties apply by an aircraft operator established, residing or with a principal place of business within that territory;
+(c)
+the operation of aircraft into, within, or out of the territory to which the Treaties apply by a third country aircraft operator;
+(d)
+the design, production, maintenance and operation of safety-related aerodrome equipment used or intended for use at the aerodromes referred to in point (e) and the provision of groundhandling services and AMS at those aerodromes;
+(e)
+the design, maintenance and operation of aerodromes, including the safety-related equipment used at those aerodromes, located in the territory to which the Treaties apply, which:
+(i)
+are open to public use;
+(ii)
+serve commercial air transport; and
+(iii)
+have a paved instrument runway of 800 metres or more, or exclusively serve helicopters using instrument approach or departure procedures;
+(f)
+without prejudice to Union and national law on environment and land-use planning, the safeguarding of surroundings of the aerodromes referred to in point (e);
+(g)
+the provision of ATM/ANS in the Single European Sky airspace, and the design, production, maintenance and operation of systems and constituents used in the provision of those ATM/ANS;
+(h)
+without prejudice to Regulation (EC) No 551/2004 of the European Parliament and of the Council (32) and the responsibilities of Member States with regard to airspace under their jurisdiction, the design of airspace structures in the Single European Sky airspace.
+2.   This Regulation shall also apply to the personnel and organisations involved in the activities referred to in paragraph 1.
+3.   This Regulation shall not apply to:
+(a)
+aircraft, and their engines, propellers, parts, non-installed equipment and equipment to control aircraft remotely, while carrying out military, customs, police, search and rescue, firefighting, border control, coastguard or similar activities or services under the control and responsibility of a Member State, undertaken in the public interest by or on behalf of a body vested with the powers of a public authority, and the personnel and organisations involved in the activities and services performed by those aircraft;
+(b)
+aerodromes or parts thereof, as well as equipment, personnel and organisations, that are controlled and operated by the military;
+(c)
+ATM/ANS, including systems and constituents, personnel and organisations, that are provided or made available by the military;
+(d)
+the design, production, maintenance and operation of aircraft the operation of which involves low risk for aviation safety, as listed in Annex I, and to the personnel and organisations involved therein, unless the aircraft has been issued, or has been deemed to have been issued, with a certificate in accordance with Regulation (EC) No 216/2008.
+As regards point (a), Member States shall ensure that activities and services performed by the aircraft referred to in that point are carried out with due regard to the safety objectives of this Regulation. Member States shall also ensure that, where appropriate, those aircraft are safely separated from other aircraft.
+Without prejudice to the obligations of Member States under the Chicago Convention, aircraft covered by Annex I to this Regulation and registered in a Member State may be operated in other Member States, subject to the agreement of the Member State in the territory of which the operation takes place. Such aircraft may also be maintained, and their design may be modified, in other Member States, provided that such design modifications and such maintenance activities are carried out under the oversight of the Member State where the aircraft is registered and in accordance with procedures established by the national law of that Member State.
+4.   By derogation from point (d) of the first subparagraph of paragraph 3, this Regulation, and the delegated and implementing acts adopted on the basis thereof, shall apply to the design, production and maintenance of an aircraft type falling within the scope of points (e), (f), (g), (h), or (i) of point 1 of Annex I and to the personnel and organisations involved in those activities, where:
+(a)
+the organisation responsible for the design of that aircraft type has applied for a type certificate to the Agency in accordance with Article 11 or, if applicable, has made a declaration to the Agency in accordance with point (a) of Article 18(1) in respect of that aircraft type;
+(b)
+that aircraft type is intended for serial production; and
+(c)
+the design of that aircraft type has not been previously approved in accordance with the national laws of a Member State.
+This Regulation, and the delegated and implementing acts adopted on the basis thereof, shall apply with respect to the aircraft type concerned from the date on which the type certificate is issued or, if applicable, from the date on which the declaration is made. However, the provisions regarding the assessment of the application for the type certificate and the issuance of the type certificate by the Agency shall apply from the date at which the application is received.
+5.   Without prejudice to national security and defence requirements, and Article 7(5) of Regulation (EC) No 550/2004 of the European Parliament and of the Council (33), Member States shall ensure that:
+(a)
+the facilities referred to in point (b) of the first subparagraph of paragraph 3 of this Article that are open to public use; and
+(b)
+the ATM/ANS referred to in point (c) of the first subparagraph of paragraph 3 of this Article that are provided to air traffic to which Regulation (EC) No 549/2004 applies,
+offer a level of safety and interoperability with civil systems that is as effective as that resulting from the application of the essential requirements set out in Annexes VII and VIII to this Regulation.
+6.   A Member State may decide to apply any, or any combination, of Section I, II, III, or VII of Chapter III, to some or all activities referred to in point (a) of the first subparagraph of paragraph 3 and to the personnel and organisations involved in those activities, where it considers that, in light of the characteristics of the activities, personnel and organisations in question and the purpose and content of the provisions concerned, those provisions can be effectively applied.
+From the date specified in that decision, the activities, personnel and organisations concerned shall be solely regulated by the provisions of the Section, or Sections, concerned and by the provisions of this Regulation related to the application of those sections.
+The Member State concerned shall without delay notify the Commission and the Agency of its decision and shall provide them with all relevant information, in particular:
+(a)
+the Section or Sections concerned;
+(b)
+the activities, personnel and organisations concerned;
+(c)
+the reasons for its decision; and
+(d)
+the date from which that decision applies.
+Where the Commission, after consulting the Agency, considers that the condition specified in the first subparagraph has not been met, the Commission shall adopt implementing acts setting out its decision to that effect. Upon notification of such implementing acts to the Member State concerned, that Member State shall without delay take a decision to modify or revoke the earlier decision referred to in the first subparagraph of this paragraph and shall inform the Commission and the Agency thereof.
+Without prejudice to the fourth subparagraph, a Member State may also at any time decide to modify or revoke the earlier decision referred to in the first subparagraph of this paragraph. In such cases, it shall without delay inform the Commission and the Agency thereof.
+The Agency shall include in the repository referred to in Article 74 all of the decisions of the Commission and of the Member States that have been notified pursuant to this paragraph.
+The Commission, the Agency and the competent authorities of the Member State concerned shall cooperate for the purpose of the application of this paragraph.
+7.   Member States may decide to exempt from this Regulation the design, maintenance and operation of an aerodrome, and the safety-related equipment used at that aerodrome, where that aerodrome handles no more than 10 000 commercial air transport passengers per year and no more than 850 movements related to cargo operations per year, and provided that Member States concerned ensure that such exemption does not endanger compliance with the essential requirements referred to in Article 33.
+From the date specified in that exemption decision, the design, maintenance and operation of the aerodrome concerned and the safety-related equipment and groundhandling services and AMS at that aerodrome shall no longer be regulated by this Regulation and by the delegated and implementing acts adopted on the basis thereof.
+The Member State concerned shall, without delay, notify the Commission and the Agency of its exemption decision and the reasons for the adoption thereof.
+Where the Commission, after consulting the Agency, considers that such exemption by a Member State does not comply with the conditions specified in the first subparagraph, the Commission shall adopt implementing acts setting out its decision to that effect. Upon notification of such implementing acts to a Member State concerned, that Member State shall without delay modify or revoke its exemption decision and shall inform the Commission and the Agency thereof.
+The Member States shall also notify to the Commission and the Agency the exemptions which they have granted pursuant to Article 4(3b) of Regulation (EC) No 216/2008.
+Member States shall, on an annual basis, examine the traffic figures of the aerodromes that they have exempted pursuant to this paragraph or Article 4(3b) of Regulation (EC) No 216/2008. Where that examination demonstrates that, over three consecutive years, one of those aerodromes handles more than 10 000 commercial air transport passengers per year or more than 850 movements related to cargo operations per year, the Member State concerned shall revoke the exemption of that aerodrome. In that case, it shall inform the Commission and the Agency accordingly.
+The Agency shall include in the repository referred to in Article 74 all of the decisions of the Commission and of the Member States that have been notified pursuant to this paragraph.
+8.   A Member State may decide to exempt from this Regulation the design, production, maintenance and operation activities in respect of one or more of the following categories of aircraft:
+(a)
+aeroplanes, other than unmanned aeroplanes, which have no more than two seats, measurable stall speed or minimum steady flight speed in landing configuration not exceeding 45 knots calibrated air speed and a maximum take-off mass (MTOM), as recorded by the Member State, of no more than 600 kg for aeroplanes not intended to be operated on water or 650 kg for aeroplanes intended to be operated on water;
+(b)
+helicopters, other than unmanned helicopters, which have no more than two seats and a MTOM, as recorded by the Member State, of no more than 600 kg for helicopters not intended to be operated on water or 650 kg for helicopters intended to be operated on water;
+(c)
+sailplanes, other than unmanned sailplanes, and powered sailplanes, other than unmanned powered sailplanes, which have no more than two seats and a MTOM, as recorded by the Member State, of no more than 600 kg.
+However, as regards the categories of aircraft referred to in the first subparagraph Member States may not take such a decision concerning aircraft in respect of which a certificate has been issued, or has been deemed to have been issued, in accordance with Regulation (EC) No 216/2008 or with this Regulation, or in respect of which a declaration has been made in accordance with this Regulation.
+9.   An exemption decision taken by a Member State pursuant to paragraph 8 shall not prevent an organisation with a principal place of business in the territory of that Member State from deciding to carry out its design and production activities in respect of aircraft covered by that decision in accordance with this Regulation and with the delegated and implementing acts adopted on the basis thereof. Where such an organisation takes such a decision it shall inform the Member State concerned thereof. In such cases, the exemption decision taken by the Member State pursuant to paragraph 8 shall not apply to those design and production activities or to the aircraft designed and produced as a result of those activities.
+10.   Without prejudice to obligations of Member States under the Chicago Convention, aircraft to which the exemption decision taken pursuant to paragraph 8 applies and which are registered in the Member State that took that decision may be operated in other Member States, subject to the agreement of the Member State in the territory of which the operation takes place. Such aircraft may also be maintained, or its design may be modified, in other Member States, provided that such maintenance activities and such design modifications are carried out under the oversight of the Member State where the aircraft is registered and in accordance with procedures established in the national law of that Member State.
+Any certificate that is issued in respect of aircraft to which an exemption decision taken pursuant to paragraph 8 applies shall clearly indicate that that certificate is issued not under this Regulation but under the national law of the Member State which is issuing the certificate. Other Member States may accept such national certificates only if they themselves have taken a corresponding decision pursuant to paragraph 8.
+11.   Any provisions of national law of the Member State which has taken an exemption decision pursuant to paragraph 8 regulating the design, production, maintenance and operation activities of the aircraft to which that decision applies shall be proportionate to the nature and risk of the activity concerned and shall take account of the objectives and principles set out in Articles 1 and 4 respectively.
+The Member State which has taken an exemption decision pursuant to paragraph 8 shall, without delay, notify the Commission and the Agency of that decision and provide them with all relevant information, and in particular the date from which the that decision applies and the category of aircraft that it concerns.
+A Member State may decide to modify or revoke an exemption decision that it has taken pursuant to paragraph 8. In such cases, it shall without delay inform the Commission and the Agency thereof.
+The Agency shall include in the repository referred to in Article 74 all of the decisions of the Member States that have been notified pursuant to this paragraph.
+An exemption decision taken by a Member State pursuant to paragraph 8 shall also apply to the organisations and personnel involved in the design, production, maintenance and operation activities to which that decision applies.

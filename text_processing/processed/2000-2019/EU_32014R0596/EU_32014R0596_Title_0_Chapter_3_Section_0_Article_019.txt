@@ -1,0 +1,69 @@
+Article 19
+Managers’ transactions
+1.   Persons discharging managerial responsibilities, as well as persons closely associated with them, shall notify the issuer or the emission allowance market participant and the competent authority referred to in the second subparagraph of paragraph 2:
+(a)
+in respect of issuers, of every transaction conducted on their own account relating to the shares or debt instruments of that issuer or to derivatives or other financial instruments linked thereto;
+(b)
+in respect of emission allowance market participants, of every transaction conducted on their own account relating to emission allowances, to auction products based thereon or to derivatives relating thereto.
+Such notifications shall be made promptly and no later than three business days after the date of the transaction.
+The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
+2.   For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.
+The rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant is registered. Notifications shall be made within three working days of the transaction date to the competent authority of that Member State. Where the issuer is not registered in a Member State, the notification shall be made to the competent authority of the home Member State in accordance with point (i) of Article 2(1) of Directive 2004/109/EC or, in the absence thereof, to the competent authority of the trading venue.
+3.   The issuer or emission allowance market participant shall ensure that the information that is notified in accordance with paragraph 1 is made public promptly and no later than three business days after the transaction in a manner which enables fast access to this information on a non-discriminatory basis in accordance with the implementing technical standards referred to in point (a) of Article 17(10).
+The issuer or emission allowance market participant shall use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Union, and, where applicable, it shall use the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC.
+Alternatively, national law may provide that a competent authority may itself make public the information.
+4.   This Article shall apply to issuers who:
+(a)
+have requested or approved admission of their financial instruments to trading on a regulated market; or
+(b)
+in the case of an instrument only traded on an MTF or an OTF, have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF.
+5.   Issuers and emission allowance market participants shall notify the person discharging managerial responsibilities of their obligations under this Article in writing. Issuers and emission allowance market participants shall draw up a list of all persons discharging managerial responsibilities and persons closely associated with them.
+Persons discharging managerial responsibilities shall notify the persons closely associated with them of their obligations under this Article in writing and shall keep a copy of this notification.
+6.   A notification of transactions referred to in paragraph 1 shall contain the following information:
+(a)
+the name of the person;
+(b)
+the reason for the notification;
+(c)
+the name of the relevant issuer or emission allowance market participant;
+(d)
+a description and the identifier of the financial instrument;
+(e)
+the nature of the transaction(s) (e.g. acquisition or disposal), indicating whether it is linked to the exercise of share option programmes or to the specific examples set out in paragraph 7;
+(f)
+the date and place of the transaction(s); and
+(g)
+the price and volume of the transaction(s). In the case of a pledge whose terms provide for its value to change, this should be disclosed together with its value at the date of the pledge.
+7.   For the purposes of paragraph 1, transactions that must be notified shall also include:
+(a)
+the pledging or lending of financial instruments by or on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1;
+(b)
+transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1, including where discretion is exercised;
+(c)
+transactions made under a life insurance policy, defined in accordance with Directive 2009/138/EC of the European Parliament and of the Council (26), where:
+(i)
+the policyholder is a person discharging managerial responsibilities or a person closely associated with such a person, as referred to in paragraph 1,
+(ii)
+the investment risk is borne by the policyholder, and
+(iii)
+the policyholder has the power or discretion to make investment decisions regarding specific instruments in that life insurance policy or to execute transactions regarding specific instruments for that life insurance policy.
+For the purposes of point (a), a pledge, or a similar security interest, of financial instruments in connection with the depositing of the financial instruments in a custody account does not need to be notified, unless and until such time that such pledge or other security interest is designated to secure a specific credit facility.
+Insofar as a policyholder of an insurance contract is required to notify transactions according to this paragraph, an obligation to notify is not incumbent on the insurance company.
+8.   Paragraph 1 shall apply to any subsequent transaction once a total amount of EUR 5 000 has been reached within a calendar year. The threshold of EUR 5 000 shall be calculated by adding without netting all transactions referred to in paragraph 1.
+9.   A competent authority may decide to increase the threshold set out in paragraph 8 to EUR 20 000 and shall inform ESMA of its decision and the justification for its decision, with specific reference to market conditions, to adopt the higher threshold prior to its application. ESMA shall publish on its website the list of thresholds that apply in accordance with this Article and the justifications provided by competent authorities for such thresholds.
+10.   This Article shall also apply to transactions by persons discharging managerial responsibilities within any auction platform, auctioneer and auction monitor involved in the auctions held under Regulation (EU) No 1031/2010 and to persons closely associated with such persons in so far as their transactions involve emission allowances, derivatives thereof or auctioned products based thereon. Those persons shall notify their transactions to the auction platforms, auctioneers and auction monitor, as applicable, and to the competent authority where the auction platform, auctioneer or auction monitor, as applicable, is registered. The information that is so notified shall be made public by the auction platforms, auctioneers, auction monitor or competent authority in accordance with paragraph 3.
+11.   Without prejudice to Articles 14 and 15, a person discharging managerial responsibilities within an issuer shall not conduct any transactions on its own account or for the account of a third party, directly or indirectly, relating to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked to them during a closed period of 30 calendar days before the announcement of an interim financial report or a year-end report which the issuer is obliged to make public according to:
+(a)
+the rules of the trading venue where the issuer’s shares are admitted to trading; or
+(b)
+national law.
+12.   Without prejudice to Articles 14 and 15, an issuer may allow a person discharging managerial responsibilities within it to trade on its own account or for the account of a third party during a closed period as referred to in paragraph 11 either:
+(a)
+on a case-by-case basis due to the existence of exceptional circumstances, such as severe financial difficulty, which require the immediate sale of shares; or
+(b)
+due to the characteristics of the trading involved for transactions made under, or related to, an employee share or saving scheme, qualification or entitlement of shares, or transactions where the beneficial interest in the relevant security does not change.
+13.   The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the circumstances under which trading during a closed period may be permitted by the issuer, as referred to in paragraph 12, including the circumstances that would be considered as exceptional and the types of transaction that would justify the permission for trading.
+14.   The Commission shall be empowered to adopt delegated acts in accordance with Article 35, specifying types of transactions that would trigger the requirement referred to in paragraph 1.
+15.   In order to ensure uniform application of paragraph 1, ESMA shall develop draft implementing technical standards concerning the format and template in which the information referred to in paragraph 1 is to be notified and made public.
+ESMA shall submit those draft implementing technical standards to the Commission by 3 July 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

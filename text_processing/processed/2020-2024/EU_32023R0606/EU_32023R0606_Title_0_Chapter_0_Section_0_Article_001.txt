@@ -1,0 +1,179 @@
+Article 1
+Amendments to Regulation (EU) 2015/760
+Regulation (EU) 2015/760 is amended as follows:
+(1)
+in Article 1, paragraph 2 is replaced by the following:
+‘2.   The objective of this Regulation is to facilitate the raising and channelling of capital towards long-term investments in the real economy, including towards investments that promote the European Green Deal and other priority areas, in line with the Union objective of smart, sustainable and inclusive growth.’
+(2)
+Article 2 is amended as follows:
+(a)
+point (6) is replaced by the following:
+‘(6)
+‘real asset’ means an asset that has an intrinsic value due to its substance and properties;’;
+(b)
+in point (7), the following point is inserted:
+‘(ca)
+a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC;’;
+(c)
+the following points are inserted:
+‘(14a)   ‘simple, transparent and standardised securitisation’ means a securitisation that complies with the conditions set out in Article 18 of Regulation (EU) 2017/2402 of the European Parliament and of the Council (*1);
+(14b)   ‘group’ means a group as defined in Article 2, point (11), of Directive 2013/34/EU of the European Parliament and of the Council (*2);
+
+(*1)  Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (OJ L 347, 28.12.2017, p. 35)."
+                        
+
+(*2)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).’;"
+                        
+(d)
+the following points are added:
+‘(20)
+‘feeder ELTIF’ means an ELTIF, or an investment compartment thereof, which has been approved to invest at least 85 % of its assets in units or shares of another ELTIF or investment compartment of an ELTIF;
+(21)
+‘master ELTIF’ means an ELTIF, or an investment compartment thereof, in which another ELTIF invests at least 85 % of its assets in units or shares.’;
+(3)
+in Article 3, paragraph 3 is replaced by the following:
+‘3.   The competent authorities of the ELTIFs shall, on a quarterly basis, inform ESMA of authorisations granted or withdrawn pursuant to this Regulation and of any changes to the information about an ELTIF that is set out in the central public register referred to in the second subparagraph.
+ESMA shall keep an up-to-date central public register identifying for each ELTIF authorised under this Regulation:
+(a)
+the Legal Entity Identifier (LEI) and national code identifier of the ELTIF, where available;
+(b)
+the name and address of the manager of the ELTIF and, where available, the LEI of that manager;
+(c)
+the ISIN codes of the ELTIF and each separate unit or share class, where available;
+(d)
+the LEI of the master ELTIF, where available;
+(e)
+the LEI of the feeder ELTIF, where available;
+(f)
+the competent authority of the ELTIF and the home Member State of the ELTIF;
+(g)
+the Member States where the ELTIF is marketed;
+(h)
+whether the ELTIF can be marketed to retail investors or can be marketed solely to professional investors;
+(i)
+the date of the authorisation of the ELTIF;
+(j)
+the date on which the marketing of the ELTIF commenced;
+(k)
+the date of the last update by ESMA of the information about the ELTIF.
+The central public register shall be made available in electronic format.’
+(4)
+Article 5 is amended as follows:
+(a)
+in paragraph 1, the second subparagraph is replaced by the following:
+
+                                          ‘The application for authorisation as an ELTIF shall include all of the following:
+(a)
+the fund rules or instruments of incorporation;
+(b)
+the name of the proposed manager of the ELTIF;
+(c)
+the name of the depositary and, where requested by the competent authority of an ELTIF that can be marketed to retail investors, the written agreement with the depositary;
+(d)
+where the ELTIF can be marketed to retail investors, a description of the information to be made available to investors, including a description of the arrangements for dealing with complaints submitted by retail investors;
+(e)
+where applicable, the following information on the master-feeder structure of the ELTIF:
+(i)
+a declaration that the feeder ELTIF is a feeder of the master ELTIF;
+(ii)
+the fund rules or instruments of incorporation of the master ELTIF and the agreement between the feeder ELTIF and the master ELTIF, or the internal rules on the conduct of business, referred to in Article 29(6);
+(iii)
+where the master ELTIF and the feeder ELTIF have different depositaries, the information-sharing agreement referred to in Article 29(7);
+(iv)
+where the feeder ELTIF is established in a Member State other than the home Member State of the master ELTIF, an attestation by the competent authority of the home Member State of the master ELTIF that the master ELTIF is an ELTIF provided by the feeder ELTIF.’;
+(b)
+in paragraph 2, second subparagraph, the introductory part is replaced by the following:
+
+                                          ‘Without prejudice to paragraph 1, an EU AIFM that applies to manage an ELTIF established in another Member State shall provide the competent authority of the ELTIF with the following documentation:’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Applicants shall be informed within two months from the date of submission of a complete application whether authorisation as an ELTIF has been granted.’
+(d)
+in paragraph 5, second subparagraph, point (b) is replaced by the following:
+‘(b)
+where the ELTIF can be marketed to retail investors, a description of the information to be made available to retail investors, including a description of the arrangements for dealing with complaints submitted by retail investors.’;
+(5)
+Article 10 is replaced by the following:
+‘Article 10
+Eligible investment assets
+1.   An asset as referred to in Article 9(1), point (a), shall only be eligible for investment by an ELTIF where it falls into one of the following categories:
+(a)
+equity or quasi-equity instruments which have been:
+(i)
+issued by a qualifying portfolio undertaking as referred to in Article 11 and acquired by the ELTIF from that qualifying portfolio undertaking or from a third party via the secondary market;
+(ii)
+issued by a qualifying portfolio undertaking as referred to in Article 11 in exchange for an equity or quasi-equity instrument previously acquired by the ELTIF from that qualifying portfolio undertaking or from a third party via the secondary market;
+(iii)
+issued by an undertaking in which a qualifying portfolio undertaking as referred to in Article 11 holds a capital participation in exchange for an equity or quasi-equity instrument acquired by the ELTIF in accordance with point (i) or (ii) of this point (a);
+(b)
+debt instruments issued by a qualifying portfolio undertaking as referred to in Article 11;
+(c)
+loans granted by the ELTIF to a qualifying portfolio undertaking as referred to in Article 11 with a maturity that does not exceed the life of the ELTIF;
+(d)
+units or shares of one or several other ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs managed by EU AIFMs provided that those ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs invest in eligible investments as referred to in Article 9(1) and (2) and have not themselves invested more than 10 % of their assets in any other collective investment undertaking;
+(e)
+real assets;
+(f)
+simple, transparent and standardised securitisations where the underlying exposures correspond to one of the following categories:
+(i)
+assets listed in Article 1, point (a)(i), (ii) or (iv), of Commission Delegated Regulation (EU) 2019/1851 (*3);
+(ii)
+assets listed in Article 1, point (a)(vii) or (viii), of Delegated Regulation (EU) 2019/1851, provided that the proceeds from the securitisation bonds are used for financing or refinancing long-term investments;
+(g)
+bonds issued, pursuant to a Regulation of the European Parliament and of the Council on European green bonds, by a qualifying portfolio undertaking as referred to in Article 11.
+The limit laid down in point (d) of the first subparagraph shall not apply to feeder ELTIFs.
+2.   For the purpose of determining compliance with the investment limit laid down in Article 13(1), investments by ELTIFs in units or shares of ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs managed by EU AIFMs shall only be taken into account to the extent of the amount of the investments of those collective investment undertakings in the eligible investment assets referred to in paragraph 1, first subparagraph, points (a), (b), (c), (e), (f) and (g), of this Article.
+For the purpose of determining compliance with the investment limit and the other limits laid down in Article 13 and Article 16(1), the assets and the cash borrowing position of an ELTIF and of the other collective investment undertakings in which that ELTIF has invested shall be combined.
+The determination of compliance with the investment limit and the other limits laid down in Article 13 and Article 16(1) in accordance with this paragraph shall be carried out on the basis of information updated on at least a quarterly basis and, where that information is not available on a quarterly basis, on the basis of the most recent available information.
+
+(*3)  Commission Delegated Regulation (EU) 2019/1851 of 28 May 2019 supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Council with regard to regulatory technical standards on the homogeneity of the underlying exposures in securitisation (OJ L 285, 6.11.2019, p. 1).’;"
+                        
+(6)
+in Article 11, paragraph 1 is replaced by the following:
+‘1.   A qualifying portfolio undertaking shall be an undertaking that fulfils, at the time of the initial investment, the following requirements:
+(a)
+it is not a financial undertaking, unless:
+(i)
+it is a financial undertaking that is not a financial holding company or a mixed-activity holding company; and
+(ii)
+that financial undertaking has been authorised or registered more recently than 5 years before the date of the initial investment;
+(b)
+it is an undertaking which:
+(i)
+is not admitted to trading on a regulated market or on a multilateral trading facility; or
+(ii)
+is admitted to trading on a regulated market or on a multilateral trading facility and has a market capitalisation of no more than EUR 1 500 000 000;
+(c)
+it is established in a Member State, or in a third country provided that the third country:
+(i)
+is not identified as high-risk third country listed in the delegated act adopted pursuant to Article 9(2) of Directive (EU) 2015/849 of the European Parliament and of the Council (*4);
+(ii)
+is not mentioned in Annex I to the Council conclusions on the revised EU list of non-cooperative jurisdictions for tax purposes.
+
+(*4)  Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).’;"
+                        
+(7)
+Article 12 is replaced by the following:
+‘Article 12
+Conflicts of interest
+1.   An ELTIF shall not invest in an eligible investment asset in which the manager of the ELTIF has or takes a direct or indirect interest, other than by holding units or shares of the ELTIFs, EuSEFs, EuVECAs, UCITS or EU AIFs that the manager of the ELTIF manages.
+2.   An EU AIFM managing an ELTIF and undertakings that belong to the same group as that EU AIFM, and their staff, may co-invest in that ELTIF and co-invest with the ELTIF in the same asset provided that the manager of the ELTIF has put in place organisational and administrative arrangements designed to identify, prevent, manage and monitor conflicts of interest and provided that such conflicts of interest are adequately disclosed.’
+(8)
+Articles 13, 14, 15 and 16 are replaced by the following:
+‘Article 13
+Portfolio composition and diversification
+1.   An ELTIF shall invest at least 55 % of its capital in eligible investment assets.
+2.   An ELTIF shall invest no more than:
+(a)
+20 % of its capital in instruments issued by, or loans granted to, any single qualifying portfolio undertaking;
+(b)
+20 % of its capital in a single real asset;
+(c)
+20 % of its capital in units or shares of any single ELTIF, EuVECA, EuSEF, UCITS or EU AIF managed by an EU AIFM;
+(d)
+10 % of its capital in assets referred to in Article 9(1), point (b), where those assets have been issued by any single body.
+3.   The aggregate value of simple, transparent and standardised securitisations in an ELTIF portfolio shall not exceed 20 % of the value of the capital of the ELTIF.
+4.   The aggregate risk exposure to a counterparty of the ELTIF stemming from over-the-counter (OTC) derivative transactions, repurchase agreements, or reverse repurchase agreements shall not exceed 10 % of the value of the capital of the ELTIF.
+5.   By way of derogation from paragraph 2, point (d), an ELTIF may raise the 10 % limit referred to therein to 25 % where bonds are issued by a credit institution that has its registered office in a Member State and that is subject by law to special public supervision designed to protect bond-holders. In particular, sums deriving from the issue of those bonds shall be invested in accordance with the law in assets which, during the whole period of validity of the bonds, are capable of covering claims attaching to the bonds and which, in the event of failure of the issuer, would be used on a priority basis for the reimbursement of the principal and payment of the accrued interest.
+6.   Companies which are included in the same group for the purposes of consolidated accounts, as regulated by Directive 2013/34/EU or in accordance with recognised international accounting rules, shall be regarded as a single qualifying portfolio undertaking or a single body for the purpose of calculating the limits referred to in paragraphs 1 to 5 of this Article.
+7.   The investment limits set out in paragraphs 2 to 4 shall not apply where ELTIFs are marketed solely to professional investors. The investment limit set out in paragraph 2, point (c), shall not apply where an ELTIF is a feeder ELTIF.

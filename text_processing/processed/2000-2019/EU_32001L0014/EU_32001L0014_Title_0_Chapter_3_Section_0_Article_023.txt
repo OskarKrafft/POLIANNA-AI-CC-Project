@@ -1,0 +1,5 @@
+Article 23
+Ad hoc requests
+1. The infrastructure manager shall respond to ad hoc requests for individual train paths as quickly as possible, and in any event, within five working days. Information supplied on available spare capacity shall be made available to all applicants who may wish to use this capacity.
+2. Infrastructure managers shall where necessary undertake an evaluation of the need for reserve capacity to be kept available within the final scheduled working timetable to enable them to respond rapidly to foreseeable ad hoc requests for capacity. This shall also apply in cases of congested infrastructure.
+

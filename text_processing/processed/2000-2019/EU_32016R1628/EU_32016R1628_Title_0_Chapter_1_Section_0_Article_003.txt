@@ -1,0 +1,185 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘non-road mobile machinery’ means any mobile machine, transportable equipment or vehicle with or without bodywork or wheels, not intended for the transport of passengers or goods on roads, and includes machinery installed on the chassis of vehicles intended for the transport of passengers or goods on roads;
+(2)
+‘EU type-approval’ means the procedure whereby an approval authority certifies that an engine type or engine family satisfies the relevant administrative provisions and technical requirements of this Regulation;
+(3)
+‘gaseous pollutants’ means the following pollutants in their gaseous state emitted by an engine: carbon monoxide (CO), total hydrocarbons (HC) and oxides of nitrogen (NOx); NOx being nitric oxide (NO) and nitrogen dioxide (NO2), expressed as NO2 equivalent;
+(4)
+‘particulate matter’ or ‘PM’ means the mass of any material in the gas emitted by an engine that is collected on a specified filter medium after diluting the gas with clean filtered air so that the temperature does not exceed 325 K (52 °C);
+(5)
+‘particle number’ or ‘PN’ means the number of solid particles emitted by an engine with a diameter greater than 23 nm;
+(6)
+‘particulate pollutants’ means any matter emitted by an engine that is measured as PM or PN;
+(7)
+‘internal combustion engine’ or ‘engine’ means an energy converter, other than a gas turbine, designed to transform chemical energy (input) into mechanical energy (output) with an internal combustion process; it includes, where they have been installed, the emission control system and the communication interface (hardware and messages) between the engine's electronic control unit(s) and any other powertrain or non-road mobile machinery control unit necessary to comply with Chapters II and III;
+(8)
+‘engine type’ means a group of engines which do not differ in essential engine characteristics;
+(9)
+‘engine family’ means a manufacturer's grouping of engine types which, through their design, have similar exhaust emission characteristics, and respect the applicable emission limit values;
+(10)
+‘parent engine’ means an engine type selected from an engine family in such a way that its emissions characteristics are representative of that engine family;
+(11)
+‘replacement engine’ means an engine that:
+(a)
+is exclusively used to replace an engine already placed on the market and installed in non-road mobile machinery; and
+(b)
+complies with an emission stage which is lower than that applicable on the date of the engine's replacement;
+(12)
+‘in-service engine’ means an engine that is operated in non-road mobile machinery over its normal operating patterns, conditions and payloads, and is used to perform the emission monitoring tests as referred to in Article 19;
+(13)
+‘CI engine’ means an engine that works on the compression-ignition (‘CI’) principle;
+(14)
+‘SI engine’ means an engine that works on the spark-ignition (‘SI’) principle;
+(15)
+‘hand-held SI engine’ means an SI engine having a reference power of less than 19 kW, and used in a piece of equipment that meets at least one of the following conditions:
+(a)
+it is carried by the operator throughout the performance of its intended function(s);
+(b)
+it operates multi-positionally, such as upside down or sideways, to perform its intended function(s);
+(c)
+its dry weight, including engine, is less than 20 kg, and it meets at least one of the following conditions:
+(i)
+its operator provides physical support for or, alternatively, carries the equipment throughout the performance of its intended function(s);
+(ii)
+its operator provides physical support or attitudinal control for the equipment throughout the performance of its intended function(s);
+(iii)
+it is used in a generator or a pump;
+(16)
+‘liquid fuel’ means a fuel which exists in the liquid state at standard ambient conditions (298 K, absolute ambient pressure 101,3 kPa);
+(17)
+‘gaseous fuel’ means any fuel which is wholly gaseous at standard ambient conditions (298 K, absolute ambient pressure 101,3 kPa);
+(18)
+‘dual-fuel engine’ means an engine that is designed to simultaneously operate with a liquid fuel and a gaseous fuel, both fuels being metered separately, the consumed amount of one of the fuels relative to the other one being able to vary depending on the operation;
+(19)
+‘single-fuel engine’ means an engine that is not a dual-fuel engine;
+(20)
+‘GER’ (Gas Energy Ratio) means, in the case of a dual-fuel engine, the ratio of the energy content of the gaseous fuel over the energy content of both fuels; in the case of a single-fuel engine, GER is defined as being either 1 or 0 according to the type of fuel;
+(21)
+‘constant-speed engine’ means an engine the EU type-approval of which is limited to constant-speed operation, excluding engines the constant-speed governor function of which is removed or disabled; it may be provided with an idle speed that can be used during start-up or shut-down and it may be equipped with a governor that can be set to an alternative speed when the engine is stopped;
+(22)
+‘variable-speed engine’ means an engine that is not a constant-speed engine;
+(23)
+‘constant-speed operation’ means an engine operation with a governor that automatically controls the operator demand to maintain engine speed, even under changing load;
+(24)
+‘auxiliary engine’ means an engine installed or intended to be installed in non-road mobile machinery that does not directly or indirectly provide propulsion;
+(25)
+‘net power’ means the engine power in kW obtained on a test bench at the end of the crankshaft, or its equivalent, measured in accordance with the method of measuring the power of internal combustion engines specified in UNECE Regulation No. 120 using a reference fuel or fuel combination set out in Article 25(2);
+(26)
+‘reference power’ means the net power that is used to determine the applicable emission limit values for the engine;
+(27)
+‘rated net power’ means the net power in kW as declared by the manufacturer of an engine at rated speed;
+(28)
+‘maximum net power’ means the highest value of the net power on the nominal full-load power curve for the engine type;
+(29)
+‘rated speed’ means the maximum full load speed allowed by an engine's governor, as designed by the manufacturer, or, if a governor is not present, the speed at which the maximum net power is attained by the engine, as specified by the manufacturer;
+(30)
+‘engine production date’ means the date, expressed as the month and year, on which the engine passes the final check, after it has left the production line, and is ready to be delivered or to be put into stock;
+(31)
+‘transition period’ means the first 24 months following the dates set out in Annex III for the placing on the market of Stage V engines;
+(32)
+‘transition engine’ means an engine that has an engine production date that is prior to the date set out in Annex III for the placing on the market of Stage V engines and that:
+(a)
+complies with the latest applicable emission limits defined in the relevant legislation applicable on 5 October 2016; or
+(b)
+falls within a power range, or is used or intended for use in an application, that was not subject to pollutant emission limits and type-approval at Union level on 5 October 2016;
+(33)
+‘non-road mobile machine production date’ means the month and year indicated on the statutory marking of the machine or, in the absence of a statutory marking, the month and year in which it passes the final check after it has left the production line;
+(34)
+‘inland waterway vessel’ means a craft falling within the scope of Directive (EU) 2016/1629;
+(35)
+‘generating set’ means an independent non-road mobile machine that is not part of a power train, primarily intended to produce electric power;
+(36)
+‘stationary machinery’ means machinery that is intended to be permanently installed in one location for its first use and is not intended to be moved, by road or otherwise, except during shipment from the place of manufacture to the place of first installation;
+(37)
+‘permanently installed’ means bolted, or otherwise effectively fixed so that it cannot be removed without the use of tools or equipment, to a foundation or an alternative constraint intended to cause the engine to operate in one single location in a building, structure, facility or installation;
+(38)
+‘snowmobile’ means a self-propelled machine that is intended for off-road travel primarily on snow, is driven by tracks in contact with snow and steered by a ski or skis in contact with the snow, and has a maximum unladen mass, in running order, of 454 kg (including standard equipment, coolant, lubricants, fuel and tools but excluding optional accessories and the driver);
+(39)
+‘all-terrain vehicle’ or ‘ATV’ means a motorised vehicle, propelled by an engine, intended primarily to travel on unpaved surfaces on four or more wheels with low-pressure tyres, having a seat designed to be straddled by the driver only, or a seat designed to be straddled by the driver and a seat for no more than one passenger, and handlebars for steering;
+(40)
+‘side-by-side vehicle’ or ‘SbS’ means a self-propelled, operator-controlled, non-articulated vehicle intended primarily to travel on unpaved surfaces on four or more wheels, having a minimum unladen mass, in running order, of 300 kg (including standard equipment, coolant, lubricants, fuel and tools but excluding optional accessories and the driver) and a maximum design speed of 25 km/h or more; such a vehicle is also designed to transport persons and/or goods, and/or to pull and push equipment, is steered by a control other than a handlebar, is designed for recreational or utility purposes and carries no more than six people including the driver, sitting side by side on one or more non-straddle seats;
+(41)
+‘railway vehicle’ means non-road mobile machinery that operates exclusively on railway tracks;
+(42)
+‘locomotive’ means a railway vehicle designed to provide, either directly through its own wheels or indirectly through the wheels of other railway vehicles, the motive power for propelling itself and for propelling other railway vehicles that are designed to carry freight, passengers and other equipment, itself being designed or intended not to carry freight or passengers, other than those operating it;
+(43)
+‘railcar’ means a railway vehicle designed to provide, either directly through its own wheels or indirectly through the wheels of other railway vehicles, the motive power for propelling itself, and is specifically designed to carry goods or passengers, or both goods and passengers, and is not a locomotive;
+(44)
+‘auxiliary railway vehicle’ means a railway vehicle that is not a railcar or locomotive, including but not limited to a railway vehicle specifically designed to perform maintenance or construction work or lifting operations associated with the track or other infrastructure of the railway;
+(45)
+‘mobile crane’ means a self-powered jib crane capable of travelling on-road or off-road or both, and relying on gravity for stability and operating on tyres, crawlers or with other mobile arrangements;
+(46)
+‘snow thrower’ means a self-powered machine that is exclusively designed for clearing snow from a paved surface by collecting a quantity of snow and projecting it forcefully through a chute;
+(47)
+‘making available on the market’ means any supply of an engine or non-road mobile machinery for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(48)
+‘placing on the market’ means the first making available on the Union market of an engine or non-road mobile machinery;
+(49)
+‘manufacturer’ means any natural or legal person who is responsible to the approval authority for all aspects of the engine EU type-approval or authorisation process and for ensuring conformity of engine production, and who is also responsible for market surveillance concerns for the engines produced, whether or not they are directly involved in all stages of the design and construction of the engine which is the subject of the EU type-approval process;
+(50)
+‘manufacturer's representative’ or ‘representative’ means any natural or legal person established in the Union whom the manufacturer duly appoints by a written mandate to represent it in matters concerning the approval authority or the market surveillance authority and to act on its behalf in matters covered by this Regulation;
+(51)
+‘importer’ means any natural or legal person established in the Union who places on the market an engine from a third country, whether or not the engine is already installed in non-road mobile machinery;
+(52)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes an engine available on the market;
+(53)
+‘economic operator’ means the manufacturer, the manufacturer's representative, the importer or the distributor;
+(54)
+‘original equipment manufacturer’ or ‘OEM’ means any natural or legal person that manufactures non-road mobile machinery;
+(55)
+‘approval authority’ means the authority of a Member State established or appointed by a Member State and notified by it to the Commission and which has competence for:
+(a)
+all aspects of the EU type-approval of an engine type or of an engine family;
+(b)
+the authorisation process;
+(c)
+granting and, where appropriate, withdrawing or refusing EU type-approval, and issuing EU type-approval certificates;
+(d)
+acting as the contact point for the approval authorities of other Member States;
+(e)
+designating the technical services; and
+(f)
+ensuring that the manufacturer meets its obligations regarding conformity of production;
+(56)
+‘technical service’ means an organisation or body designated by the approval authority as a testing laboratory to carry out tests, or as a conformity assessment body to carry out the initial assessment and other tests or inspections, on behalf of the approval authority, or the authority itself when carrying out those functions;
+(57)
+‘market surveillance’ means the activities carried out and the measures taken by national authorities to ensure that engines made available on the market comply with the relevant Union harmonisation legislation;
+(58)
+‘market surveillance authority’ means an authority of a Member State that is responsible for carrying out market surveillance in its territory;
+(59)
+‘national authority’ means an approval authority or any other authority involved in and responsible for, in respect of engines to be installed in non-road mobile machinery or of non-road mobile machinery in which engines are installed, market surveillance, border control or the placing on the market in a Member State;
+(60)
+‘end-user’ means any natural or legal person, other than the manufacturer, OEM, importer or distributor, that is responsible for operating the engine installed in non-road mobile machinery;
+(61)
+‘emission control strategy’ means an element or a set of design elements incorporated into the overall design of an engine, or into non-road mobile machinery in which an engine is installed, and used in controlling emissions;
+(62)
+‘emission control system’ means any device, system or element of design that controls or reduces emissions;
+(63)
+‘defeat strategy’ means an emission control strategy that reduces the effectiveness of the emission control system under ambient or engine operating conditions encountered either during normal machine operation or outside the EU type-approval test procedures;
+(64)
+‘electronic control unit’ means an engine's electronic device that is part of the emission control system and uses data from engine sensors to control engine parameters;
+(65)
+‘exhaust gas recirculation’ or ‘EGR’ means a technical device that is part of the emission control system and reduces emissions by routing exhaust gases that have been expelled from the combustion chamber(s) back into the engine to be mixed with incoming air before or during combustion, except for the use of valve timing to increase the amount of residual exhaust gas in the combustion chamber(s) that is mixed with incoming air before or during combustion;
+(66)
+‘exhaust after-treatment system’ means a catalyst, particulate filter, deNOx system, combined deNOx particulate filter or any other emission-reducing device, with the exception of exhaust gas recirculation and turbochargers, that is part of the emission control system but is installed downstream of the engine exhaust ports;
+(67)
+‘tampering’ means inactivation, adjustment or modification of the emission control system, including any software or other logical control elements of such a system, that has the effect, whether intended or not, of worsening the emissions performance of the engine;
+(68)
+‘test cycle’ means a sequence of test points, each with a defined speed and torque, to be followed by the engine when being tested under steady state or transient operating conditions;
+(69)
+‘steady-state test cycle’ means a test cycle in which engine speed and torque are held at a finite set of nominally constant values; steady-state tests are either discrete mode tests or ramped-modal tests;
+(70)
+‘transient test cycle’ means a test cycle with a sequence of normalised speed and torque values that vary on a second-by-second basis with time;
+(71)
+‘crankcase’ means the enclosed spaces in, or external to, an engine which are connected to the oil sump by internal or external ducts through which gases and vapours can be emitted;
+(72)
+‘regeneration’ means an event during which emissions levels change while the exhaust after-treatment system's performance is being restored by design and which can be classified as continuous regeneration or infrequent (periodic) regeneration;
+(73)
+‘emission durability period’ or ‘EDP’ means the number of hours or, where applicable, the distance used to determine the deterioration factors;
+(74)
+‘deterioration factors’ means the set of factors that indicate the relationship between emissions at the start and end of the emission durability period;
+(75)
+‘virtual testing’ means computer simulations, including calculations, undertaken to demonstrate the level of performance of an engine as an aid to decision-making without requiring the use of a physical engine.

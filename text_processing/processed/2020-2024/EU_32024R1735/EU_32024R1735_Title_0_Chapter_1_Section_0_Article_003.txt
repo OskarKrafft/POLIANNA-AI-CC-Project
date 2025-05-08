@@ -1,0 +1,73 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘net-zero technologies’ means the technologies listed in Article 4 where they are final products, specific components or specific machinery primarily used for the production of those products;
+(2)
+‘component’ means a part of a net-zero technology final product that is manufactured and traded by a company, including processed material;
+(3)
+‘renewable energy technologies’ means technologies that produce energy from renewable sources;
+(4)
+‘energy from renewable sources’ means energy from renewable sources or renewable energy as defined in Article 2, second paragraph, point (1), of Directive (EU) 2018/2001;
+(5)
+‘energy storage’ means electricity and thermal storage as well as other forms of storage that are used to store fossil-free energy;
+(6)
+‘renewable fuels of non-biological origin’ means renewable fuels of non-biological origin as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001;
+(7)
+‘sustainable alternative fuels’ means sustainable aviation fuels, synthetic low- carbon aviation fuels or hydrogen for aviation as defined in Article 3, point (7), (13) or (17) of Regulation (EU) 2023/2405 destined for the aviation sector or fuels destined for the maritime sector as identified in accordance with criteria defined in Article 10(1) and (2) of Regulation (EU) 2023/1805;
+(8)
+‘transformative industrial technologies for decarbonisation’ means the scaling up of manufacturing capacity for transformative industrial technologies that are used to significantly and permanently reduce emission rates of CO2-eq of a commercial facility of an energy-intensive business, as defined in Article 17(1), point (a), of Council Directive 2003/96/EC (50), in the steel, aluminium, non-ferrous metals, chemicals, cement, lime, glass, ceramics, fertilisers, as well as pulp and paper sectors to an extent which is technically feasible;
+(9)
+‘biotech climate and energy solutions’ means technologies anchored in the use of microorganisms or biological molecules such as enzymes, resins or biopolymers, which are able to reduce CO2 emissions by replacing energy-intensive fossil or chemical-based inputs in industrial manufacturing processes relevant for, inter alia, carbon capture, production of biofuels and production of bio-based materials, in line with the circular economy principles;
+(10)
+‘primarily used’ means final products and specific components which are essential for the production of net-zero technologies, as set out in the Annex, or final products, specific components and specific machinery which are essential for the production of net-zero technologies on the basis of evidence provided to a national competent authority by the project promoter, with the exception of energy-intensive industry decarbonisation projects, for which such evidence is not required;
+(11)
+‘processed material’ means a material that has been processed in such a way to be suitable for a specific function in a net-zero technology supply chain, with the exception of critical raw materials defined pursuant to Article 4 of Regulation (EU) 2024/1252;
+(12)
+‘innovative net-zero technologies’ means net-zero technologies that comprise genuine innovations which are not currently available on the market and that are advanced enough to be tested in a controlled environment;
+(13)
+‘other innovative technologies’ means energy-related or climate-related technologies with a proven potential to contribute to the decarbonisation of industrial or energy systems and to reduce strategic dependencies that comprise genuine innovations that are not currently available on the Union market and that are advanced enough to be tested in a controlled environment;
+(14)
+‘pre-commercial procurement’ means the procurement of net-zero technologies in a pre-commercial phase, involving risk-benefit sharing under market conditions and competitive development in phases;
+(15)
+‘public procurement of innovative solutions’ means a public procurement procedure for which contracting authorities or contracting entities act as a launch customer for net-zero technologies, which may include conformity testing;
+(16)
+‘net-zero technology manufacturing project’ means a planned commercial facility or an extension or repurposing of an existing facility to manufacture net-zero technologies, or an energy-intensive industry decarbonisation project;
+(17)
+‘energy-intensive industry decarbonisation projects’ means the construction or conversion of the commercial facility of an energy-intensive business as defined in Article 17(1), point (a), of the Directive 2003/96/EC in the steel, aluminium, non-ferrous metals, chemicals, cement, lime, glass, ceramics, fertilisers, as well as pulp and paper sectors that are part of the supply chain of a net-zero technology and that are to reduce emission rates of CO2-eq of industrial processes significantly and permanently to an extent which is technically feasible;
+(18)
+‘net-zero strategic project’ means a net-zero technology manufacturing project, a CO2 capture project, a CO2 storage project or a CO2 transport infrastructure project located in the Union that a Member State has recognised as a net-zero strategic project pursuant to Articles 13 and 14;
+(19)
+‘permit-granting process’ means a process that covers all relevant permits to build, expand, convert and operate net-zero technology manufacturing projects and net-zero strategic projects, including building, chemical and grid connection permits, and environmental assessments and authorisations where required, and encompassing all applications and procedures from the acknowledgement that the application is complete to the notification of the comprehensive decision on the outcome of the procedure by the single point of contact concerned, as well as with regard to CO2 geological storage, the storage permit-granting process which concerns the processing of all necessary permits for surface installations requested to operate a storage site, including building permits and pipe authorisations, and the environmental authorisation for the injection and storage of CO2 completed in accordance with Directive 2009/31/EC;
+(20)
+‘comprehensive decision’ means the decision or set of decisions taken by Member State authorities that determine whether a project promoter is authorised to implement a net-zero technology manufacturing project, without prejudice to any decision taken in the context of an appeal procedure;
+(21)
+‘project promoter’ means any undertaking or consortium of undertakings developing a net-zero technology manufacturing project or a net-zero strategic project;
+(22)
+‘net-zero regulatory sandbox’ means a scheme that enables undertakings to test innovative net-zero technologies and other innovative technologies in a controlled real-world environment, under a specific plan, developed and monitored by a competent authority;
+(23)
+‘public procurement procedure’ means either of the following:
+(a)
+any type of award procedure covered by Directive 2014/24/EU for the conclusion of a public contract or Directive 2014/25/EU for the conclusion of a supply, works and service contract;
+(b)
+a procedure for the award of works or a service concession covered by Directive 2014/23/EU;
+(24)
+‘contracting authority’ means, in the context of public procurement procedures, a contracting authority as defined in Article 6 of Directive 2014/23/EU, Article 2(1), point (1), of Directive 2014/24/EU and Article 3 of Directive 2014/25/EU;
+(25)
+‘contracting entity’ means, in the context of public procurement procedures, a contracting entity as defined in Article 7 of Directive 2014/23/EU and Article 4 of Directive 2014/25/EU;
+(26)
+‘contract’ means, in the context of public procurement procedures, public contracts as defined in Article 2(1), point (5), of Directive 2014/24/EU, supply, works and service contracts as defined in Article 2, point (1), of Directive 2014/25/EU, and concessions as defined in Article 5, point (1), of Directive 2014/23/EU;
+(27)
+‘auction’ means a mechanism for competitive tendering procedures to support the production or consumption of energy from renewable sources that does not fall under Directive 2009/81/EC of the European Parliament and of the Council (51) or Directive 2014/23/EU, 2014/24/EU or 2014/25/EU;
+(28)
+‘CO2 injection capacity’ means the annual amount of CO2 that can be injected in an operational geological storage site, permitted under Directive 2009/31/EC, with the purpose of reducing emissions or increasing carbon removals, in particular from large scale industrial installations, and which is measured in tonnes per annum;
+(29)
+‘CO2 transport infrastructure’ means the network of pipelines, including associated booster stations, for the transport of CO2 to the storage site, as well as any ships, road or rail transport modes, including liquefaction devices and temporary storage facilities if needed, for the transport of CO2 to the harbour facilities and storage site;
+(30)
+‘energy system integration’ means solutions for the planning and operation of the energy system as a whole, across multiple energy carriers, infrastructures, and consumption sectors, by creating stronger links between them with the objective of delivering fossil-free, flexible, reliable and resource-efficient energy services, at the least possible cost for society, the economy and the environment;
+(31)
+‘net-zero Industrial Partnerships’ means a commitment between the Union and a third country to increase cooperation related to net-zero technologies that is established through a non-binding instrument setting out concrete actions of mutual interest;
+(32)
+‘first-of-a-kind’ means a new or substantially upgraded net-zero technology facility which provides innovation with regard to the manufacturing process of the net-zero technology that is not yet substantively present or committed to be built within the Union;
+(33)
+‘manufacturing capacity’ means the total amount of output capacity of the net-zero technologies produced in a manufacturing project or, where a manufacturing project produces specific components or specific machinery primarily used for the production of such products rather than the final products themselves, the output capacity of the final products for which such components or specific machinery are produced.

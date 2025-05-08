@@ -1,0 +1,30 @@
+Article 4
+Content of TSIs
+1.   Each of the subsystems defined in Annex II shall be covered by one TSI. Where necessary, a subsystem may be covered by several TSIs and one TSI may cover several subsystems.
+2.   Fixed subsystems shall comply with the TSIs and national rules in force at the time of the request for authorisation of placing in service in accordance with this Directive and without prejudice to point (f) of paragraph 3.
+Vehicles shall comply with TSIs and national rules in force at the time of the request for authorisation of placing on the market in accordance with this Directive and without prejudice to point (f) of paragraph 3.
+The conformity and compliance of fixed subsystems and vehicles shall be permanently maintained while they are in use.
+3.   To the extent necessary to achieve the objectives of this Directive referred to in Article 1, each TSI shall:
+(a)
+indicate its intended scope (part of network or vehicles referred to in Annex I; subsystem or part of subsystem referred to in Annex II);
+(b)
+lay down essential requirements for each subsystem concerned and its interfaces in relation to other subsystems;
+(c)
+establish the functional and technical specifications to be met by the subsystem and its interfaces in relation to other subsystems. If necessary, these specifications may vary according to the use of the subsystem, for example according to the categories of line, hub and/or vehicles provided for in Annex I;
+(d)
+determine the interoperability constituents and interfaces which must be covered by European specifications, including European standards, which are necessary to achieve interoperability within the Union rail system;
+(e)
+state, in each case under consideration, which procedures are to be used in order to assess the conformity or the suitability for use of the interoperability constituents, on the one hand, or the ‘EC’ verification of the subsystems, on the other. Those procedures shall be based on the modules defined in Commission Decision 2010/713/EU (12);
+(f)
+indicate the strategy for the application of the TSI. In particular, it is necessary to specify the stages to be completed, taking into account the estimated costs and benefits and the expected repercussions for the stakeholders affected in order to make a gradual transition from the existing situation to the final situation in which compliance with the TSI shall be the norm. Where coordinated implementation of the TSI is necessary, such as along a corridor or between infrastructure managers and railway undertakings, the strategy may include proposals for staged completion;
+(g)
+indicate, for the staff concerned, the professional qualifications and health and safety conditions at work required for the operation and maintenance of the above subsystem, as well as for the application of the TSIs;
+(h)
+indicate the provisions applicable to the existing subsystems and vehicles, in particular in the event of upgrading and renewal and, in such cases, the modification work which requires an application for a new authorisation;
+(i)
+indicate the parameters of the vehicles and fixed subsystems to be checked by the railway undertaking and the procedures to be applied to check those parameters after the delivery of the vehicle authorisation for placing on the market and before the first use of the vehicle to ensure compatibility between vehicles and the routes on which they are to be operated.
+4.   Each TSI shall be drawn up on the basis of an examination of an existing subsystem and indicate a target subsystem that may be obtained gradually within a reasonable timescale. Accordingly, the adoption of the TSIs and compliance with them shall gradually facilitate achievement of the interoperability of the Union rail system.
+5.   TSIs shall retain, in an appropriate manner, the compatibility of the existing rail system of each Member State. For that purpose, specific cases for each TSI may be provided for, with regard to both network and vehicles, and in particular for the loading gauge, the track gauge or space between the tracks and vehicles originating from or destined for third countries. For each specific case, the TSIs shall stipulate the implementing rules of the elements of the TSIs provided for in points (c) to (g) of paragraph 3.
+6.   If certain technical aspects corresponding to the essential requirements cannot be explicitly covered in a TSI, they shall be clearly identified in an annex to the TSI as open points.
+7.   TSIs shall not prevent the Member States from deciding on the use of infrastructures for the movement of vehicles not covered by the TSIs.
+8.   TSIs may make an explicit, clearly identified reference to European or international standards or specifications or technical documents published by the Agency where this is strictly necessary in order to achieve the objectives of this Directive. In such a case, these standards or specifications (or their relevant parts) or technical documents shall be regarded as annexes to the TSI concerned and shall become mandatory from the moment the TSI is applicable. In the absence of such standards or specifications or technical documents, and pending their development, reference may be made to other clearly identified normative documents that are easily accessible and in the public domain.

@@ -1,0 +1,21 @@
+Article 17
+Amendments to Regulation (EU) 2021/695
+Regulation (EU) 2021/695 is amended as follows:
+(1)
+in Article 12, paragraph 1 is replaced by the following:
+‘1.   The financial envelope for the implementation of the Programme for the period from 1 January 2021 to 31 December 2027 shall be EUR 86 123 000 000 in current prices for the specific programme referred to in point (a) of Article 1(2) and for the EIT and EUR 9 453 000 000 in current prices for the specific programme referred to in point (c) of Article 1(2).’
+(2)
+in Article 48, paragraph 1 is amended as follows:
+(a)
+in the second subparagraph, point (c) is replaced by the following:
+‘(c)
+equity-only support to non-bankable SMEs, including start-ups, carrying out breakthrough and disruptive non-bankable innovation may also be provided;
+(d)
+equity-only support required for scale-up to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, including entities which have already received support in line with points (a) to (c), carrying out breakthrough and disruptive non-bankable innovation in the critical technologies referred to in Article 2(1)(a) of Regulation (EU) 2024/795 of the European Parliament and of the Council (*10).
+
+(*10)  Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;"
+                        
+(b)
+the following subparagraph is added:
+
+                                             ‘When providing equity support, the EIC shall strive to crowd-in other investors. However, in order to effectively support non-bankable innovation, equity support can be provided without crowding-in other investors, particularly for but not limited to breakthrough and disruptive non-bankable innovation in the technologies referred to in Article 2(1), point (a), of Regulation (EU) 2024/795.’.

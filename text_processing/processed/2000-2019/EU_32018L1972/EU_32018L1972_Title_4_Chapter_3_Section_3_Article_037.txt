@@ -1,0 +1,18 @@
+Article 38
+Harmonisation procedures
+1.   Where the Commission finds that divergences in the implementation by the national regulatory or other competent authorities of the regulatory tasks specified in this Directive could create a barrier to the internal market, the Commission may, taking the utmost account of the opinion of BEREC or, where relevant, the RSPG, adopt recommendations or, subject to paragraph 3 of this Article, decisions by means of implementing acts to ensure the harmonised application of this Directive and in order to further the achievement of the objectives set out in Article 3.
+2.   Member States shall ensure that national regulatory and other competent authorities take the utmost account of the recommendations referred to in paragraph 1 in carrying out their tasks. Where a national regulatory or other competent authority chooses not to follow a recommendation, it shall inform the Commission, giving the reasons for its position.
+3.   The decisions adopted pursuant to paragraph 1 shall include only the identification of a harmonised or coordinated approach for the purpose of addressing the following matters:
+(a)
+the inconsistent implementation of general regulatory approaches by national regulatory authorities on the regulation of electronic communications markets in the application of Articles 64 and 67, where it creates a barrier to the internal market; such decisions shall not refer to specific notifications issued by the national regulatory authorities pursuant to Article 32; in such a case, the Commission shall propose a draft decision only:
+(i)
+after at least two years following the adoption of a Commission recommendation dealing with the same matter; and
+(ii)
+taking utmost account of an opinion from BEREC on the case for adoption of such a decision, which shall be provided by BEREC within three months of the Commission’s request;
+(b)
+numbering, including number ranges, portability of numbers and identifiers, number and address translation systems, and access to emergency services through the single European emergency number ‘112’.
+4.   The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 118(4).
+5.   BEREC may, on its own initiative, advise the Commission on whether a measure should be adopted pursuant to paragraph 1.
+6.   If the Commission has not adopted a recommendation or a decision within one year from the date of adoption of an opinion by BEREC indicating the existence of divergences in the implementation by the national regulatory or other competent authorities of the regulatory tasks specified in this Directive that could create a barrier to the internal market, it shall inform the European Parliament and the Council of its reasons for not doing so, and make those reasons public.
+Where the Commission has adopted a recommendation in accordance with paragraph 1, but the inconsistent implementation creating barriers to the internal market persists for two years thereafter, the Commission shall, subject to paragraph 3, adopt a decision by means of implementing acts in accordance with paragraph 4.
+Where the Commission has not adopted a decision within a further year from any recommendation adopted pursuant to the second subparagraph, it shall inform the European Parliament and the Council of its reasons for not doing so, and make those reasons public.

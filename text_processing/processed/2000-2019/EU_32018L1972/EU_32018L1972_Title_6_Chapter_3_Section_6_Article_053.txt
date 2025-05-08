@@ -1,0 +1,9 @@
+Article 54
+Coordinated timing of assignments for specific 5G bands
+1.   By 31 December 2020, for terrestrial systems capable of providing wireless broadband services, Member States shall, where necessary in order to facilitate the roll-out of 5G, take all appropriate measures to:
+(a)
+reorganise and allow the use of sufficiently large blocks of the 3,4-3,8 GHz band;
+(b)
+allow the use of at least 1 GHz of the 24,25-27,5 GHz band, provided that there is clear evidence of market demand and of the absence of significant constraints for migration of existing users or band clearance.
+2.   Member States may, however, extend the deadline laid down in paragraph 1 of this Article, where justified, in accordance with Article 45(3) or Article 53(2), (3) or (4).
+3.   Measures taken pursuant paragraph 1 of this Article shall comply with the harmonised conditions set by technical implementing measures in accordance with Article 4 of Decision No 676/2002/EC.

@@ -1,0 +1,42 @@
+Article 7
+National cybersecurity strategy
+1.   Each Member State shall adopt a national cybersecurity strategy that provides for the strategic objectives, the resources required to achieve those objectives, and appropriate policy and regulatory measures, with a view to achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall include:
+(a)
+objectives and priorities of the Member State’s cybersecurity strategy covering in particular the sectors referred to in Annexes I and II;
+(b)
+a governance framework to achieve the objectives and priorities referred to in point (a) of this paragraph, including the policies referred to in paragraph 2;
+(c)
+a governance framework clarifying the roles and responsibilities of relevant stakeholders at national level, underpinning the cooperation and coordination at the national level between the competent authorities, the single points of contact, and the CSIRTs under this Directive, as well as coordination and cooperation between those bodies and competent authorities under sector-specific Union legal acts;
+(d)
+a mechanism to identify relevant assets and an assessment of the risks in that Member State;
+(e)
+an identification of the measures ensuring preparedness for, responsiveness to and recovery from incidents, including cooperation between the public and private sectors;
+(f)
+a list of the various authorities and stakeholders involved in the implementation of the national cybersecurity strategy;
+(g)
+a policy framework for enhanced coordination between the competent authorities under this Directive and the competent authorities under Directive (EU) 2022/2557 for the purpose of information sharing on risks, cyber threats, and incidents as well as on non-cyber risks, threats and incidents and the exercise of supervisory tasks, as appropriate;
+(h)
+a plan, including necessary measures, to enhance the general level of cybersecurity awareness among citizens.
+2.   As part of the national cybersecurity strategy, Member States shall in particular adopt policies:
+(a)
+addressing cybersecurity in the supply chain for ICT products and ICT services used by entities for the provision of their services;
+(b)
+on the inclusion and specification of cybersecurity-related requirements for ICT products and ICT services in public procurement, including in relation to cybersecurity certification, encryption and the use of open-source cybersecurity products;
+(c)
+managing vulnerabilities, encompassing the promotion and facilitation of coordinated vulnerability disclosure under Article 12(1);
+(d)
+related to sustaining the general availability, integrity and confidentiality of the public core of the open internet, including, where relevant, the cybersecurity of undersea communications cables;
+(e)
+promoting the development and integration of relevant advanced technologies aiming to implement state-of-the-art cybersecurity risk-management measures;
+(f)
+promoting and developing education and training on cybersecurity, cybersecurity skills, awareness raising and research and development initiatives, as well as guidance on good cyber hygiene practices and controls, aimed at citizens, stakeholders and entities;
+(g)
+supporting academic and research institutions to develop, enhance and promote the deployment of cybersecurity tools and secure network infrastructure;
+(h)
+including relevant procedures and appropriate information-sharing tools to support voluntary cybersecurity information sharing between entities in accordance with Union law;
+(i)
+strengthening the cyber resilience and the cyber hygiene baseline of small and medium-sized enterprises, in particular those excluded from the scope of this Directive, by providing easily accessible guidance and assistance for their specific needs;
+(j)
+promoting active cyber protection.
+3.   Member States shall notify their national cybersecurity strategies to the Commission within three months of their adoption. Member States may exclude information which relates to their national security from such notifications.
+4.   Member States shall assess their national cybersecurity strategies on a regular basis and at least every five years on the basis of key performance indicators and, where necessary, update them. ENISA shall assist Member States, upon their request, in the development or the update of a national cybersecurity strategy and of key performance indicators for the assessment of that strategy, in order to align it with the requirements and obligations laid down in this Directive.

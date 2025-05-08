@@ -1,0 +1,3 @@
+Article 33
+Information in the event of non-execution of an alert
+If a requested action cannot be performed, the requested Member State shall immediately inform the Member State issuing the alert.

@@ -1,0 +1,29 @@
+Article 5
+Requirements and tests
+1.   Manufacturers shall ensure compliance with the emission limits set out in Annex I.
+2.   Manufacturers shall equip vehicles and engines so that the components likely to affect emissions are designed, constructed and assembled so as to enable the vehicle or engine, in normal use, to comply with this Regulation and its implementing measures.
+3.   The use of defeat strategies that reduce the effectiveness of emission control equipment shall be prohibited.
+4.   The Commission shall adopt measures for the implementation of this Article including measures in relation to the following:
+(a)
+tailpipe emissions, including test cycles, the use of portable emissions measurement systems for verifying the actual in-use emissions, verifying and limiting off-cycle emissions, the setting of limits for particle numbers while retaining the existing ambitious environmental requirements, and emissions at idling speed;
+(b)
+crankcase emissions;
+(c)
+OBD systems and in-service performance of pollution control devices;
+(d)
+durability of pollution control devices, replacement pollution control devices, conformity of in-service engines and vehicles, conformity of production and roadworthiness;
+(e)
+CO2 emissions and fuel consumption;
+(f)
+granting extension of type-approvals;
+(g)
+test equipment;
+(h)
+reference fuels such as petrol, diesel, gaseous fuels and biofuels, such as bioethanol, biodiesel and biogas;
+(i)
+measurement of engine power;
+(j)
+correct functioning and regeneration of pollution control devices;
+(k)
+specific provisions to ensure the correct operation of NOx control measures; such provisions shall ensure that vehicles cannot be operated if the NOx control measures are inoperative due, for example, to lack of any required reagent, incorrect exhaust gas recirculation (EGR) flow or deactivation of EGR.
+Those measures, designed to amend non-essential elements of this Regulation, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(2).

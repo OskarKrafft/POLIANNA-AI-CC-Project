@@ -1,0 +1,11 @@
+Article 4
+Charges for access to networks
+1.   Charges applied by network-operators for access to networks shall be transparent, take into account the need for network security and reflect actual costs incurred insofar as they correspond to those of an efficient and structurally comparable network operator and applied in a non discriminatory manner. Those charges shall not be distance-related.
+2.   Producers and consumers (‘load’) may be charged for access to networks. The proportion of the total amount of the network charges borne by producers shall, subject to the need to provide appropriate and efficient locational signals, be lower than the proportion borne by consumers. Where appropriate, the level of the tariffs applied to producers and/or consumers shall provide locational signals at European level, and take into account the amount of network losses and congestion caused, and investment costs for infrastructure. This shall not prevent Member States from providing locational signals within their territory or from applying mechanisms to ensure that network access charges borne by consumers (‘load’) are uniform throughout their territory.
+3.   When setting the charges for network access the following shall be taken into account:
+—
+payments and receipts resulting from the inter-transmission system operator compensation mechanism;
+—
+actual payments made and received as well as payments expected for future periods of time, estimated on the basis of past periods.
+4.   Providing that appropriate and efficient locational signals are in place, in accordance with paragraph 2, charges for access to networks applied to producers and consumers shall be applied regardless of the countries of destination and, origin, respectively, of the electricity, as specified in the underlying commercial arrangement. This shall be without prejudice to charges on declared exports and declared imports resulting from congestion management referred to in Article 6.
+5.   There shall be no specific network charge on individual transactions for declared transits of electricity.

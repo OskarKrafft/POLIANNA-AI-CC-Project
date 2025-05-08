@@ -1,0 +1,8 @@
+Article 49
+Issuance and redeemability of e-money tokens
+1.   By way of derogation from Article 11 of Directive 2009/110/EC, in respect of the issuance and redeemability of e-money tokens only the requirements set out in this Article shall apply to issuers of e-money tokens.
+2.   Holders of e-money tokens shall have a claim against the issuers of those e-money tokens.
+3.   Issuers of e-money tokens shall issue e-money tokens at par value and on the receipt of funds.
+4.   Upon request by a holder of an e-money token, the issuer of that e-money token shall redeem it, at any time and at par value, by paying in funds, other than electronic money, the monetary value of the e-money token held to the holder of the e-money token.
+5.   Issuers of e-money tokens shall prominently state the conditions for redemption in the crypto-asset white paper as referred to in Article 51(1), first subparagraph, point (d).
+6.   Without prejudice to Article 46, the redemption of e-money tokens shall not be subject to a fee.

@@ -1,0 +1,8 @@
+Article 1
+1. This Directive shall apply to electric mains-operated ballasts for fluorescent lighting sources as defined in European Standard EN 50294 of December 1998, point 3.4, and referred to hereinafter as "ballasts".
+2. The following types of ballasts are excluded from this Directive:
+- ballasts integrated in lamps,
+- ballasts designed specifically for luminaires to be mounted in furniture and which form a non-replaceable part of the luminaire which cannot be tested separately from the luminaire (according to European Standard EN 60920, clause 2.1.3), and
+- ballasts to be exported from the Community, either as a single component or incorporated in luminaires.
+3. Ballasts shall be classified in accordance with Annex I.
+

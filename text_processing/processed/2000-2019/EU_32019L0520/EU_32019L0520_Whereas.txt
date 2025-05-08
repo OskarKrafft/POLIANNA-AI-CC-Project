@@ -1,0 +1,124 @@
+Whereas:
+(1)
+Directive 2004/52/EC of the European Parliament and of the Council (4) has been substantially amended. Since further amendments are to be made, that Directive should be recast in the interests of clarity.
+(2)
+It is desirable to achieve widespread deployment of electronic road toll systems in the Member States and in the neighbouring countries, and to have, as far as possible, reliable, user friendly, and cost-efficient systems suited to the future development of road-charging policy at Union level and to future technical developments. Therefore, it is necessary to make electronic road toll systems interoperable to reduce the cost of, and the burdens linked to, the payment of tolls across the Union.
+(3)
+Interoperable electronic road toll systems contribute to achieving the objectives laid down by Union law on road tolls.
+(4)
+The lack of interoperability is a significant problem in electronic road toll systems where the road fee due is linked to the distance covered by the vehicle (distance-based tolls) or to the vehicle passing a specific point (for example, cordon pricing). The provisions regarding the interoperability of electronic road toll systems should therefore apply only to those systems and should not apply to systems where the road fee due is linked to the time spent by the vehicle on the tolled infrastructure (for example, time-based systems such as vignettes).
+(5)
+Cross-border enforcement of the obligation to pay road fees in the Union is a significant problem in all kind of systems, whether distance-based, cordon-based or time-based, electronic or manual. To deal with the problem of cross-border enforcement following a failure to pay a road fee, the provisions regarding the cross-border exchange of information should therefore apply to all those systems.
+(6)
+In national law, the offence of failing to pay a road fee can be classified as an administrative offence or as a criminal offence. This Directive should apply regardless of the classification of the offence.
+(7)
+Due to the lack of consistent classification across the Union, and their indirect link to the use of the infrastructure, parking fees should be left outside the scope of this Directive.
+(8)
+The interoperability of electronic road toll systems requires harmonisation of the technology used and of the interfaces between interoperability constituents.
+(9)
+The harmonisation of technologies and interfaces should be supported by the development and maintenance of appropriate open and public standards, available on a non-discriminatory basis to all system suppliers.
+(10)
+For the purpose of covering, with their on-board equipment (OBE), the required communication technologies, European Electronic Toll Service (EETS) providers should be allowed to make use of, and link to, other hardware and software systems already present in the vehicle, such as satellite navigation systems or handheld devices.
+(11)
+The specific characteristics of electronic road toll systems which are currently applied to light-duty vehicles should be taken into account. Since no such electronic road toll systems currently use satellite positioning or mobile communications, EETS providers should be allowed, for a limited period of time, to provide users of light-duty vehicles with OBE suitable for use with 5,8 GHz microwave technology only. This derogation should be without prejudice to the right of Member States to implement satellite-based tolling for light-duty vehicles.
+(12)
+Toll systems based on automatic number plate recognition (ANPR) technology require more manual checks of toll transactions in the back office than systems using OBE. Systems using OBE are more efficient for large electronic toll domains, and systems using ANPR technology are more suitable for small domains, such as city tolls, where the use of OBE would generate disproportionate costs or administrative burdens. ANPR technology can be useful in particular when combined with other technologies.
+(13)
+In view of technical developments connected with solutions based on ANPR technology, the standardisation bodies should be encouraged to define the necessary technical standards.
+(14)
+The specific rights and obligations of EETS providers should apply to entities which prove that they have fulfilled certain requirements and have obtained registration as EETS providers in their Member State of establishment.
+(15)
+The rights and obligations of the main EETS actors, that is to say, the EETS providers, toll chargers and EETS users, should be clearly defined to ensure that the market functions in a fair and efficient manner.
+(16)
+It is particularly important to safeguard certain rights of the EETS providers, such as the right to the protection of commercially sensitive data, and to do so without negatively impacting the quality of the services provided to the toll chargers and EETS users. In particular, the toll charger should be required not to disclose commercially sensitive data to any of the EETS provider's competitors. The amount and type of data which EETS providers communicate to toll chargers, for the purpose of calculating and applying tolls or of verifying the calculation of applied toll on the vehicles of EETS users by the EETS providers, should be kept to a strict minimum.
+(17)
+EETS providers should be required to fully cooperate with toll chargers in their enforcement efforts, so as to increase the overall efficiency of electronic road toll systems. Therefore, toll chargers should be allowed to request from the EETS provider, where a failure to pay a road fee is suspected, data relating to the vehicle and to the owner or holder of the vehicle who is the EETS provider's client, provided that those data are not used for any purpose other than enforcement.
+(18)
+In order to enable EETS providers to compete, in a non-discriminatory manner, for all clients in a given EETS domain, it is important that the possibility is given to them to become accredited to that domain sufficiently early so that they are able to offer services to the users as of the first day of operation of the toll system.
+(19)
+Toll chargers should give access to their EETS domain to EETS providers on a non-discriminatory basis.
+(20)
+To ensure transparency and non-discriminatory access to EETS domains for all EETS providers, toll chargers should publish all the necessary information relating to access rights in an EETS domain statement.
+(21)
+All OBE user rebates or discounts on tolls offered by a Member State or by a toll charger should be transparent, publicly announced and available under the same conditions to clients of EETS providers.
+(22)
+EETS providers should be entitled to fair remuneration, calculated based on a transparent, non-discriminatory and identical methodology.
+(23)
+Toll chargers should be allowed to deduct from the remuneration of EETS providers the appropriate costs incurred to provide, operate and maintain the EETS-specific elements of the electronic road toll system.
+(24)
+EETS providers should pay to the toll charger all tolls due by their clients. EETS providers should, however, not be liable for tolls that their clients have not paid, when the latter are equipped with an OBE that has been declared to the toll charger as invalidated.
+(25)
+Where a legal entity that is a toll service provider also plays other roles in an electronic road toll system, or has other activities not directly related to electronic toll collection, it should be required to keep accounting records which make a clear distinction possible between the costs and revenues related to the provision of toll services and the costs and revenues related to other activities, and to provide, upon request, information on those costs and revenues related to the provision of toll services to the relevant Conciliation Body or judicial body. Cross subsidies between the activities performed in the role of toll service provider and other activities should not be allowed.
+(26)
+Users should have the possibility to subscribe to EETS through any EETS provider, regardless of their nationality, Member State of residence or Member State of registration of the vehicle.
+(27)
+To avoid double payment and to give users legal certainty, the payment of a toll to an EETS provider should be considered as fulfilling the user's obligations towards the relevant toll charger.
+(28)
+The contractual relationships between toll chargers and EETS providers should ensure, inter alia, that tolls are paid correctly.
+(29)
+A mediation procedure should be established with a view to settling disputes between toll chargers and EETS providers during contractual negotiations and in their contractual relationships. National Conciliation Bodies should be consulted by toll chargers and EETS providers who are seeking a settlement of a dispute relating to the right to non-discriminatory access to EETS domains.
+(30)
+Conciliation Bodies should have the power to verify that the contractual conditions imposed on any EETS provider are non-discriminatory. In particular, they should have the power to verify that the remuneration offered by the toll charger to the EETS providers respects the principles set out in this Directive.
+(31)
+The traffic data of EETS users constitutes input that is essential for enhancing transport policies of the Member States. Member States should therefore have the possibility to request such data from toll service providers, including EETS providers for the purpose of designing traffic policies and enhancing traffic management or for other non-commercial use by the State, in compliance with applicable data protection rules.
+(32)
+A framework is needed that lays down the procedures for accrediting EETS providers to an EETS domain and that ensures fair access to the market while safeguarding the adequate level of service. The EETS domain statement should set out in detail the procedure for accrediting an EETS provider to the EETS domain, and in particular the procedure for checking conformity to specifications and suitability for use of interoperability constituents. The procedure should be the same for all EETS providers.
+(33)
+To ensure easy access to information by EETS market actors, Member States should be required to compile and publish all important data regarding EETS in publicly available national registers.
+(34)
+To allow for technological progress, it is important that toll chargers have the possibility to test new tolling technologies or concepts. Such tests should however be limited, and EETS providers should not be required to take part in them. The Commission should have the possibility of not authorising such tests if they could prejudice the correct functioning of the regular electronic road toll system or of the EETS.
+(35)
+Large differences in technical specifications of electronic road toll systems might hamper the achievement of EU-wide interoperability of electronic tolls, and thus contribute to the persistence of the current situation where users need several pieces of OBE to pay tolls in the Union. This situation is detrimental to the efficiency of transport operations, to the cost-efficiency of toll systems, and to the achievement of transport policy objectives. The issues underlying this situation should therefore be addressed.
+(36)
+While cross-border interoperability is improving throughout the Union, the mid- to long-term objective is to make it possible to travel across the Union with only one piece of OBE. Therefore, in order to avoid administrative burdens and costs for road users, it is important that the Commission set up a roadmap to achieve this objective, and to facilitate the free movement of people and goods in the Union, without negatively affecting competition on the market.
+(37)
+The EETS is a market-based service and therefore EETS providers should not be obliged to provide their services across the Union. However, in the interest of users, EETS providers should cover all EETS domains in any Member State in which they decide to provide their services. Furthermore, the Commission should assess whether the flexibility given to EETS providers leads to the exclusion from EETS of small or peripheral EETS domains, and, if it finds that it does, take action where necessary.
+(38)
+The EETS domain statement should describe in detail the framework commercial conditions for EETS providers' operations in the EETS domain in question. In particular, it should describe the methodology used for calculating the remuneration of EETS providers.
+(39)
+Where a new electronic road toll system is being launched or an existing system is being substantially modified, the toll charger should publish the new or updated EETS domain statements with sufficient notice to allow EETS providers to be accredited or re-accredited to the system at the latest one month before the day of its operational launch. The toll charger should design and follow the procedure for the accreditation or, respectively, re-accreditation of EETS providers in such a way that the procedure can be concluded at the latest one month before the operational launch of the new or substantially modified system. Toll chargers should respect their part of the planned procedure as defined in the EETS domain statement.
+(40)
+Toll chargers should not request or require from EETS providers any specific technical solutions which could jeopardise interoperability with other EETS domains and with the existing interoperability constituents of the EETS provider.
+(41)
+The EETS has the potential to considerably reduce the administrative costs and burdens of international road transport operators and drivers.
+(42)
+EETS providers should be allowed to issue invoices to EETS users. However, toll chargers should be allowed to request that invoices are sent on their behalf and in their name, since invoicing directly in the name of the EETS provider can, in certain EETS domains, have adverse administrative and tax implications.
+(43)
+Each Member State with at least two EETS domains should designate a contact office for EETS providers wishing to provide the EETS in its territory in order to facilitate their contacts with the toll chargers.
+(44)
+Electronic tolling and other services, such as cooperative ITS (C-ITS) applications use similar technologies and neighbouring frequency bands for short range vehicle-to-vehicle and vehicle-to-infrastructure communication. In the future, the potential for applying other emerging technologies to electronic tolling merits exploration, after a thorough assessment of the costs, benefits, technical barriers and possible solutions thereto. It is important that measures are implemented to protect existing investments in the 5,8 GHz microwave technology from the interference of other technologies.
+(45)
+Without prejudice to State aid and competition law, Member States should be allowed to develop measures to promote electronic toll collection and billing.
+(46)
+When standards relevant for the EETS are reviewed by the standardisation bodies, there should be appropriate transition arrangements to ensure the continuity of the EETS and the compatibility, with the toll systems, of interoperability constituents already in use at the moment of the revision of the standards.
+(47)
+The EETS should allow intermodality to develop, whilst pursuing compliance with the ‘user pays’ and ‘polluter pays’ principles.
+(48)
+Problems with identifying non-resident offenders to electronic road toll systems hamper further deployment of such systems and the wider application of the ‘user pays’ and ‘polluter pays’ principles on Union roads and therefore there is a need to find a way to identify such persons and to process their personal data.
+(49)
+For reasons of consistency and efficient use of resources, the system for exchanging information on those who fail to pay a road fee, and on their vehicles, should use the same tools as the system that is used for exchanging information on road-safety-related traffic offences provided for in Directive (EU) 2015/413 of the European Parliament and of the Council (5).
+(50)
+In certain Member States a failure to pay a road fee is established only once the obligation to pay the road fee has been notified to the user. Since this Directive does not harmonise national laws in this regard, Member States should have the possibility to apply this Directive to identify users and vehicles for the purpose of notification. However, such extended application should be allowed only if certain conditions are fulfilled.
+(51)
+Follow-up proceedings initiated after a failure to pay a road fee are not harmonised across the Union. Often, the identified road user is given the possibility of paying the road fee due, or a fixed substitute amount, directly to the entity responsible for levying the road fee, before any further administrative or criminal proceedings are initiated by Member State authorities. It is important that such efficient procedure to put an end to the failure to pay a road fee is available on similar terms to all road users. For this purpose, Member States should be allowed to provide the entity responsible for levying the road fee with the data necessary to identify the vehicle in respect of which there was a failure to pay a road fee and to identify its owner or holder, provided that proper protection of personal data is ensured. In this context, Member States should ensure that compliance with the payment order issued by the entity concerned puts an end to the failure to pay a road fee.
+(52)
+In certain Member States, the absence, or dysfunctioning, of OBE is regarded as a failure to pay a road fee where such fees can only be paid by using OBE.
+(53)
+Member States should provide the Commission with the information and data necessary to evaluate the effectiveness and efficiency of the system for exchanging information on those who fail to pay a road fee. The Commission should assess the data and information obtained, and propose, if necessary, amendments to this Directive.
+(54)
+While analysing possible measures to further facilitate the cross-border enforcement of the obligation to pay road fees in the Union, the Commission should also assess in its report the need for mutual assistance between Member States.
+(55)
+The enforcement of the obligation to pay road fees, the identification of the vehicle and of the owner or holder of the vehicle for which a failure to pay a road fee was established and the collection of information on the user for the purpose of ensuring the compliance of the toll charger with its obligations to tax authorities all entail the processing of personal data. Such processing needs to be carried out in accordance with Union rules, as set out, inter alia, in Regulation (EU) 2016/679 of the European Parliament and of the Council (6), Directive (EU) 2016/680 of the European Parliament and of the Council (7) and Directive 2002/58/EC of the European Parliament and of the Council (8). The right to protection of personal data is explicitly recognised by Article 8 of the Charter of Fundamental Rights of the European Union.
+(56)
+This Directive does not affect the Member States' freedom to lay down rules governing road infrastructure charging and taxation matters.
+(57)
+In order to facilitate the cross-border exchange of information on the vehicles and owners or holders of vehicles for which there was a failure to pay road fees, the power to adopt acts in accordance with Article 290 of the Treaty on the Functioning of the European Union (TFEU) should be delegated to the Commission in respect of the amendment of Annex I to reflect changes in the Union law. The power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission also in respect of laying down the details for the classification of vehicles for the purposes of establishing the applicable tariff schemes, further defining the obligations of the EETS users regarding the provision of data to the EETS provider and the use and handling of the OBE, laying down the requirements for interoperability constituents regarding safety and health, reliability and availability, environment protection, technical compatibility, security and privacy and operation and management, laying down the general infrastructure requirements for interoperability constituents and laying down the minimum criteria of eligibility for notified bodies. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (9). In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+(58)
+The implementation of this Directive requires uniform conditions for the application of technical and administrative specifications for the deployment, in the Member States, of procedures that involve EETS actors and the interfaces between them, so as to facilitate interoperability and ensure that national toll collection markets are governed by equivalent rules. In order to ensure uniform conditions for the implementation of this Directive and to define those technical and administrative specifications, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (10).
+(59)
+This Directive should be without prejudice to the obligations of the Member States relating to the time-limit for the transposition into national law of the Directive set out in Annex III, Part B.
+(60)
+This Directive respects the fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union, notably the protection of personal data.
+(61)
+The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council (11),
+HAVE ADOPTED THIS DIRECTIVE:

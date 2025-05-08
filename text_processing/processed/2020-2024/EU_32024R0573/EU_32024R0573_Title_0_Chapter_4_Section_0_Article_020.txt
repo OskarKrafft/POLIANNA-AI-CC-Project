@@ -1,0 +1,32 @@
+Article 20
+F-gas Portal
+1.   The Commission shall set up and ensure the operation of an electronic system for the management of the quota system, licensing requirements of imports and exports, and reporting obligations on fluorinated greenhouse gases (the ‘F-gas Portal’).
+2.   The Commission shall ensure the interconnection of the F-gas Portal with the EU Single Window Environment for Customs through the European Union Customs Single Window – Certificates Exchange System (EU CSW-CERTEX) established by Regulation (EU) 2022/2399.
+3.   Member States shall ensure the interconnection of their national single window environments for customs with the EU CSW-CERTEX for the purpose of exchanging information with the F-gas Portal.
+4.   Undertakings shall have a valid registration in the F-gas Portal prior to carrying out any of the following activities:
+(a)
+the import or export of fluorinated greenhouse gases, and products and equipment containing fluorinated greenhouse gases, except in the case of temporary storage as defined in Article 5, point (17), of Regulation (EU) No 952/2013;
+(b)
+submitting a declaration pursuant to Article 17(3);
+(c)
+receiving a quota allocation for the placing on the market of hydrofluorocarbons in accordance with Article 17(4), or making or receiving a quota transfer in accordance with Article 21(1), or making or receiving an authorisation to use quota in accordance with Article 21(2), or delegating that authorisation to use quota in accordance with Article 21(3);
+(d)
+supplying or receiving hydrofluorocarbons for the purposes listed in Article 16(2), points (a) to (e);
+(e)
+carrying out all other activities that require reporting under Article 26;
+(f)
+receiving production rights pursuant to Article 14 and for making or receiving a transfer and an authorisation of production rights referred to in Article 15;
+(g)
+verifying reports referred to in Article 19(3) and Article 26(8).
+Registration in the F-gas Portal shall be valid only once the Commission validates it and for as long as it is not suspended or revoked by the Commission or withdrawn by the undertaking.
+5.   A valid registration in the F-Gas Portal at the moment of import or export constitutes a licence required under Article 22.
+6.   The Commission shall, to the extent necessary, by means of implementing acts, clarify the rules of registration in the F-gas Portal to ensure the smooth functioning of the F-gas Portal and compatibility with the EU Single Window Environment for Customs. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(2).
+7.   The competent authorities, including customs authorities, of the Member States shall have access to the F-gas Portal to enable the implementation of the relevant requirements and controls. Access to the F-gas Portal by customs authorities shall be ensured via the EU Single Window Environment for Customs.
+The competent authorities of Member States and the Commission shall ensure the confidentiality of the data included in the F-gas Portal.
+The Commission shall make publicly available, no later than 3 months after the allocation is completed for a given year, the following:
+(a)
+a list of quota holders;
+(b)
+a list of the undertakings that are subject to the reporting requirements set out in Article 26.
+8.   Any requests by producers and importers to correct the information they recorded in the F-gas Portal concerning transfers of quota referred to in Article 21(1), authorisations to use quota referred to in Article 21(2) or delegations of authorisations referred to in Article 21(3), shall be communicated, with the consent of all undertakings involved in the transaction, to the Commission without undue delay and at the latest by 31 March of the year following that of the recording of the transfer of quota or the authorisation to use quota, or the delegation of the authorisation, as appropriate. The request shall be substantiated with evidence establishing that it concerns a clerical error.
+Notwithstanding the first subparagraph, requests to correct data that negatively affect the entitlements of other producers and importers not involved in the underlying transaction shall be refused.

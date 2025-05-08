@@ -1,0 +1,24 @@
+Article 4
+Directive 70/156/EC shall be amended as follows:
+1. in Annex I:
+(a) the following items shall be added to item 0.2: 
+">PIC FILE= "L_2002042EN.000301.TIF">";
+(b) the following items shall be added to item 0.3: 
+">PIC FILE= "L_2002042EN.000302.TIF">";
+(c) the following items shall be added to item 0.3.1: 
+">PIC FILE= "L_2002042EN.000303.TIF">";
+(d) the following item shall be added to item 2.4.2: 
+">PIC FILE= "L_2002042EN.000304.TIF">";
+(e) the following item shall be inserted: 
+">PIC FILE= "L_2002042EN.000305.TIF">";
+(f) item 13 shall be replaced by the following: 
+">PIC FILE= "L_2002042EN.000306.TIF">
+>PIC FILE= "L_2002042EN.000401.TIF">";
+2. the following item shall be inserted in Part I of Annex III: 
+">PIC FILE= "L_2002042EN.000501.TIF">";
+3. in Annex IV:
+(a) in Part I, item 52 shall be replaced by the following:
+>TABLE>
+(b) in Part II, the following shall be inserted as item 52:
+>TABLE>
+

@@ -1,0 +1,24 @@
+Article 63
+Amendment of Directive 2009/138/EC
+Directive 2009/138/EC is amended as follows:
+(1)
+in Article 13, point (7) is replaced by the following:
+‘(7)
+(a)
+the activity consisting in accepting risks ceded by an insurance undertaking or third-country insurance undertaking, or by another reinsurance undertaking or third-country reinsurance undertaking;
+(b)
+in the case of the association of underwriters known as Lloyd's, the activity consisting in accepting risks, ceded by any member of Lloyd's, by an insurance or reinsurance undertaking other than the association of underwriters known as Lloyd's; or
+(c)
+the provision of cover by a reinsurance undertaking to an institution that falls within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council (*1);
+
+(*1)  Directive (EU) 2016/2341 of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37)’;"
+                        
+(2)
+in Article 308b, paragraph 15 is replaced by the following:
+‘15.   Where, on the entry into force of this Directive, home Member States applied provisions referred to in Article 4 of Directive (EU) 2016/2341, those home Member States may continue to apply the laws, regulations and administrative provisions that had been adopted by them with a view to complying with Articles 1 to 19, Articles 27 to 30, Articles 32 to 35 and Articles 37 to 67 of Directive 2002/83/EC as in force on 31 December 2015 for a transitional period expiring on 31 December 2022.
+Where a home Member State continues to apply those laws, regulations and administrative provisions, insurance undertakings in that home Member State shall calculate their solvency capital requirement as the sum of the following:
+(a)
+a notional solvency capital requirement with respect to their insurance activity, calculated without the occupational retirement provision business under Article 4 of Directive (EU) 2016/2341;
+(b)
+the solvency margin with respect to the occupational retirement provision business, calculated in accordance with the laws, regulations and administrative provisions that have been adopted to comply with Article 28 of Directive 2002/83/EC.
+By 31 December 2017, the Commission shall submit a report to the European Parliament and to the Council, on whether the period referred to in the first subparagraph should be extended, taking account of changes to Union or national law resulting from this Directive.’.

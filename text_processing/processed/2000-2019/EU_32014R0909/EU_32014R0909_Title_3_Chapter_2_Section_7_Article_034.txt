@@ -1,0 +1,10 @@
+Article 34
+Transparency
+1.   For each securities settlement system it operates, as well as for each of the other core services it performs, a CSD shall publicly disclose the prices and fees associated with the core services listed in Section A of the Annex that they provide. It shall disclose the prices and fees of each service and function provided separately, including discounts and rebates and the conditions to benefit from those reductions. It shall allow its clients separate access to the specific services provided.
+2.   A CSD shall publish its price list so as to facilitate the comparison of offers and to allow clients to anticipate the price they shall have to pay for the use of services.
+3.   A CSD shall be bound by its published pricing policy for its core services.
+4.   A CSD shall provide its clients with information that allows reconciling invoices with the published price lists.
+5.   A CSD shall disclose to all clients information that allows them to assess the risks associated with the services provided.
+6.   A CSD shall account separately for costs and revenues of the core services provided and shall disclose that information to the competent authority.
+7.   A CSD shall account for the cost and revenue of the ancillary services provided as a whole and shall disclose that information to the competent authority.
+8.   In order to ensure effective application of Union competition rules and enable the identification, inter alia, of cross-subsidisation of ancillary services by core services, a CSD shall maintain analytical accounting for its activities. Such analytical accounts shall at least separate the costs and revenues associated with each of its core services from those associated with ancillary services.

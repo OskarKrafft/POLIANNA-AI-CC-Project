@@ -1,0 +1,15 @@
+Article 36
+Treatment of shareholders when applying the write-down or conversion tool
+1.   Member States shall ensure that, when applying the write-down or conversion tool, resolution authorities take, in respect of shareholders, one or both of the following actions:
+(a)
+cancel existing shares or other instruments of ownership, or transfer them to creditors whose claims have been converted;
+(b)
+provided that the valuation carried out under Article 23 shows that the undertaking under resolution has a positive net value, dilute existing holdings of shares or other instruments of ownership by converting relevant capital instruments or debt instruments issued by the undertaking under resolution, or other eligible liabilities of the undertaking under resolution, into shares or other instruments of ownership pursuant to the application of the write-down or conversion tool.
+With regard to point (b) of the first subparagraph, the conversion shall be conducted at a rate of conversion that severely dilutes existing holdings of shares or other instruments of ownership.
+2.   When considering which of the actions referred to in paragraph 1 to take, resolution authorities shall have regard to:
+(a)
+the valuation carried out in accordance with Article 23;
+(b)
+the amount by which the resolution authority has assessed that Tier 1 items are to be reduced and relevant capital instruments written down or converted pursuant to Article 38(1).
+3.   By way of derogation from Articles 57 to 62 of Directive 2009/138/EC, where the conversion of capital instruments, debt instruments issued by the undertaking under resolution, or other eligible liabilities of the undertaking under resolution, would result in the acquisition of or increase in a qualifying holding in an insurance or reinsurance undertaking as referred to in Article 57(1) of that Directive, supervisory authorities shall carry out the assessment required under those Articles in a timely manner that does not delay the conversion of capital instruments or prevent resolution action from achieving the relevant resolution objectives.
+4.   Where the supervisory authority of that undertaking has not completed the assessment required under paragraph 3 on the date of the conversion of the capital instruments, Article 31(6) shall apply to any acquisition of or increase in a qualifying holding by an acquirer resulting from the conversion of capital instruments.

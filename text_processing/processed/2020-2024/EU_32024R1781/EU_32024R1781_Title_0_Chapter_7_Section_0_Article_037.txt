@@ -1,0 +1,35 @@
+Article 37
+Monitoring and reporting obligations of economic operators
+1.   When requiring manufacturers, their authorised representatives or importers to make available to the Commission information on the quantities of a product pursuant to Article 4(6), point (b), the Commission shall take into account the following criteria:
+(a)
+the availability of evidence concerning the market penetration of the relevant product and which is necessary to facilitate the review of delegated acts adopted pursuant to Article 4 applicable to that product;
+(b)
+the need to avoid a disproportionate administrative burden for economic operators, in particular for SMEs; and
+(c)
+the usefulness of the information required and the proportionality of that requirement.
+The Commission shall specify the period to which the information referred to in the first subparagraph is to relate. That information shall be differentiated per product model.
+The Commission shall specify the means through which the relevant information is to be made available and how frequently such information is to be made available.
+The Commission shall ensure that the information made available is processed securely and in compliance with Union law.
+2.   When requiring that a product be able to measure the energy it consumes or its performance in relation to other relevant product parameters referred to in Annex I while in use, pursuant to Article 4(6), point (c)(i), the Commission shall take into account the following criteria:
+(a)
+the usefulness of in-use data for end users to understand and manage the energy use or performance of the product;
+(b)
+the technical feasibility of recording in-use data;
+(c)
+the need to avoid a disproportionate administrative burden for economic operators, in particular for SMEs; and
+(d)
+the need to ensure that no data allowing the identification of individuals or allowing the inference of individuals’ behaviour are collected.
+3.   Products covered by a requirement set pursuant to Article 4(6), point (c), shall where appropriate, in line with the criteria in paragraph 2 of this Article, record the in-use data and make such data visible to the end user.
+4.   When requiring manufacturers, their authorised representatives or importers to collect non-personal in-use data referred to in paragraph 2 of this Article and report such data to the Commission, pursuant to Article 4(6), point (c)(ii), the Commission shall take into account the following criteria:
+(a)
+the usefulness of non-personal in-use data for the Commission when reviewing ecodesign requirements or assisting market surveillance authorities with statistical information for their risk-based analysis; and
+(b)
+the need to avoid a disproportionate administrative burden for economic operators, in particular for SMEs.
+5.   The requirements referred to in paragraph 4 may in particular consist of:
+(a)
+collecting non-personal in-use data if they can be accessed remotely via the internet, following explicit consent being given by the end user to make those data available; and
+(b)
+reporting those data to the Commission at least once a year.
+Where reporting is required pursuant to point (b) of the first subparagraph, those data shall include, where available, the identification number of the model as registered in the product database referred to in Article 12(1) of Regulation (EU) 2017/1369 and, if relevant to their performance, general geographical information on the products.
+6.   The Commission shall specify, in the relevant delegated act, the details and format for reporting the non-personal in-use data as referred to in paragraph 4.
+7.   The Commission shall periodically assess the non-personal in-use data received pursuant to paragraph 4 and shall, where appropriate, publish aggregated datasets.

@@ -1,0 +1,114 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(1)
+‘financial instrument’ means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
+(2)
+‘investment firm’ means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
+(3)
+‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council (18);
+(4)
+‘financial institution’ means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
+(5)
+‘market operator’ means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
+(6)
+‘regulated market’ means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
+(7)
+‘multilateral trading facility’ or ‘MTF’ means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;
+(8)
+‘organised trading facility’ or ‘OTF’ means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;
+(9)
+‘accepted market practice’ means a specific market practice that is accepted by a competent authority in accordance with Article 13;
+(10)
+‘trading venue’ means a trading venue as defined in point (24) of Article 4(1) of Directive 2014/65/EU;
+(11)
+‘SME growth market’ means SME growth market as defined in point (12) of Article 4(1) of Directive 2014/65/EU;
+(12)
+‘competent authority’ means an authority designated in accordance with Article 22, unless otherwise specified in this Regulation;
+(13)
+‘person’ means a natural or legal person;
+(14)
+‘commodity’ means a commodity as defined in point (1) of Article 2 of Commission Regulation (EC) No 1287/2006 (19);
+(15)
+‘spot commodity contract’ means a contract for the supply of a commodity traded on a spot market which is promptly delivered when the transaction is settled, and a contract for the supply of a commodity that is not a financial instrument, including a physically settled forward contract;
+(16)
+‘spot market’ means a commodity market in which commodities are sold for cash and promptly delivered when the transaction is settled, and other non-financial markets, such as forward markets for commodities;
+(17)
+‘buy-back programme’ means trading in own shares in accordance with Articles 21 to 27 of Directive 2012/30/EU of the European Parliament and of the Council (20);
+(18)
+‘algorithmic trading’ means algorithmic trading as defined in point (39) of Article 4(1) of Directive 2014/65/EU;
+(19)
+‘emission allowance’ means emission allowance as described in point (11) of Section C of Annex I to Directive 2014/65/EU;
+(20)
+‘emission allowance market participant’ means any person who enters into transactions, including the placing of orders to trade, in emission allowances, auctioned products based thereon, or derivatives thereof and who does not benefit from an exemption pursuant to the second subparagraph of Article 17(2);
+(21)
+‘issuer’ means a legal entity governed by private or public law, which issues or proposes to issue financial instruments, the issuer being, in case of depository receipts representing financial instruments, the issuer of the financial instrument represented;
+(22)
+‘wholesale energy product’ means wholesale energy product as defined in point (4) of Article 2 of Regulation (EU) No 1227/2011;
+(23)
+‘national regulatory authority’ means national regulatory authority as defined in point (10) of Article 2 of Regulation (EU) No 1227/2011;
+(24)
+‘commodity derivatives’ means commodity derivatives as defined in point (30) of Article 2(1) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (21);
+(25)
+‘person discharging managerial responsibilities’ means a person within an issuer, an emission allowance market participant or another entity referred to in Article 19(10), who is:
+(a)
+a member of the administrative, management or supervisory body of that entity; or
+(b)
+a senior executive who is not a member of the bodies referred to in point (a), who has regular access to inside information relating directly or indirectly to that entity and power to take managerial decisions affecting the future developments and business prospects of that entity;
+(26)
+‘person closely associated’ means:
+(a)
+a spouse, or a partner considered to be equivalent to a spouse in accordance with national law;
+(b)
+a dependent child, in accordance with national law;
+(c)
+a relative who has shared the same household for at least one year on the date of the transaction concerned; or
+(d)
+a legal person, trust or partnership, the managerial responsibilities of which are discharged by a person discharging managerial responsibilities or by a person referred to in point (a), (b) or (c), which is directly or indirectly controlled by such a person, which is set up for the benefit of such a person, or the economic interests of which are substantially equivalent to those of such a person;
+(27)
+‘data traffic records’ means records of traffic data as defined in point (b) of the second paragraph of Article 2 of Directive 2002/58/EC of the European Parliament and the Council (22);
+(28)
+‘person professionally arranging or executing transactions’ means a person professionally engaged in the reception and transmission of orders for, or in the execution of transactions in, financial instruments;
+(29)
+‘benchmark’ means any rate, index or figure, made available to the public or published that is periodically or regularly determined by the application of a formula to, or on the basis of the value of one or more underlying assets or prices, including estimated prices, actual or estimated interest rates or other values, or surveys, and by reference to which the amount payable under a financial instrument or the value of a financial instrument is determined;
+(30)
+‘market maker’ means a market maker as defined in point (7) of Article 4(1) of Directive 2014/65/EU;
+(31)
+‘stake-building’ means an acquisition of securities in a company which does not trigger a legal or regulatory obligation to make an announcement of a takeover bid in relation to that company;
+(32)
+‘disclosing market participant’ means a person who falls into any of the categories set out in points (a) to (d) of Article 11(1) or of Article 11(2), and discloses information in the course of a market sounding;
+(33)
+‘high-frequency trading’ means high-frequency algorithmic trading technique as defined in point (40) of Article 4(1) of Directive 2014/65/EU;
+(34)
+‘information recommending or suggesting an investment strategy’ means information:
+(i)
+produced by an independent analyst, an investment firm, a credit institution, any other person whose main business is to produce investment recommendations or a natural person working for them under a contract of employment or otherwise, which, directly or indirectly, expresses a particular investment proposal in respect of a financial instrument or an issuer; or
+(ii)
+produced by persons other than those referred to in point (i), which directly proposes a particular investment decision in respect of a financial instrument;
+(35)
+‘investment recommendations’ means information recommending or suggesting an investment strategy, explicitly or implicitly, concerning one or several financial instruments or the issuers, including any opinion as to the present or future value or price of such instruments, intended for distribution channels or for the public.
+2.   For the purposes of Article 5, the following definitions apply:
+(a)
+‘securities’ means:
+(i)
+shares and other securities equivalent to shares;
+(ii)
+bonds and other forms of securitised debt; or
+(iii)
+securitised debt convertible or exchangeable into shares or into other securities equivalent to shares.
+(b)
+‘associated instruments’ means the following financial instruments, including those which are not admitted to trading or traded on a trading venue, or for which a request for admission to trading on a trading venue has not been made:
+(i)
+contracts or rights to subscribe for, acquire or dispose of securities;
+(ii)
+financial derivatives of securities;
+(iii)
+where the securities are convertible or exchangeable debt instruments, the securities into which such convertible or exchangeable debt instruments may be converted or exchanged;
+(iv)
+instruments which are issued or guaranteed by the issuer or guarantor of the securities and whose market price is likely to materially influence the price of the securities, or vice versa;
+(v)
+where the securities are securities equivalent to shares, the shares represented by those securities and any other securities equivalent to those shares;
+(c)
+‘significant distribution’ means an initial or secondary offer of securities that is distinct from ordinary trading both in terms of the amount in value of the securities to be offered and the selling method to be employed;
+(d)
+‘stabilisation’ means a purchase or offer to purchase securities, or a transaction in associated instruments equivalent thereto, which is undertaken by a credit institution or an investment firm in the context of a significant distribution of such securities exclusively for supporting the market price of those securities for a predetermined period of time, due to a selling pressure in such securities.

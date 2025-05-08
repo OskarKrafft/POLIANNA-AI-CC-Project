@@ -1,0 +1,27 @@
+Article 3
+Categories of data
+1.   This Chapter applies to data held by public sector bodies which are protected on grounds of:
+(a)
+commercial confidentiality, including business, professional and company secrets;
+(b)
+statistical confidentiality;
+(c)
+the protection of intellectual property rights of third parties; or
+(d)
+the protection of personal data, insofar as such data fall outside the scope of Directive (EU) 2019/1024.
+2.   This Chapter does not apply to:
+(a)
+data held by public undertakings;
+(b)
+data held by public service broadcasters and their subsidiaries, and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit;
+(c)
+data held by cultural establishments and educational establishments;
+(d)
+data held by public sector bodies which are protected for reasons of public security, defence or national security; or
+(e)
+data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.
+3.   This Chapter is without prejudice to:
+(a)
+Union and national law and international agreements to which the Union or Member States are party on the protection of categories of data referred to in paragraph 1; and
+(b)
+Union and national law on access to documents.

@@ -1,0 +1,28 @@
+Article 125
+Exchange of information
+1.   In order to carry out EBA’s supervisory responsibilities under Article 117 and without prejudice to Article 96, EBA and the competent authorities shall provide each other with the information required for the purposes of carrying out their duties under this Regulation without undue delay. For that purpose, the competent authorities and EBA shall exchange any information related to:
+(a)
+an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;
+(b)
+a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;
+(c)
+a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;
+(d)
+an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;
+(e)
+a payment service provider that provides payment services in relation to significant e-money tokens;
+(f)
+a natural or legal person in charge of distributing significant e-money tokens on behalf of the issuer of significant e-money tokens;
+(g)
+a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, in relation to significant asset-referenced tokens or significant e-money tokens;
+(h)
+a trading platform for crypto-assets on which a significant asset-referenced token or a significant e-money token has been admitted to trading;
+(i)
+the management body of the persons referred to in points (a) to (h).
+2.   A competent authority may refuse to act on a request to exchange information as provided for in paragraph 1 of this Article or a request for cooperation in carrying out an investigation or an on-site inspection as provided for in Articles 123 and 124, respectively, only where:
+(a)
+complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, criminal investigation;
+(b)
+judicial proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;
+(c)
+a final judgment has already been delivered in relation to such natural or legal person for the same actions in the Member State addressed.

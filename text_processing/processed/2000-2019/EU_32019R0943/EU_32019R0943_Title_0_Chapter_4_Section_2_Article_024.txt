@@ -1,0 +1,14 @@
+Article 24
+National resource adequacy assessments
+1.   National resource adequacy assessments shall have a regional scope and shall be based on the methodology referred in Article 23(3) in particular in points (b) to (m) of Article 23(5).
+National resource adequacy assessments shall contain the reference central scenarios as referred to in point (b) of Article 23(5).
+National resource adequacy assessments may take into account additional sensitivities to those referred in point (b) of Article 23(5). In such cases, national resource adequacy assessments may:
+(a)
+make assumptions taking into account the particularities of national electricity demand and supply;
+(b)
+use tools and consistent recent data that are complementary to those used by the ENTSO for Electricity for the European resource adequacy assessment.
+In addition, the national resource adequacy assessments, in assessing the contribution of capacity providers located in another Member State to the security of supply of the bidding zones that they cover, shall use the methodology as provided for in point (a) of Article 26(11).
+2.   National resource adequacy assessments and, where applicable, the European resource adequacy assessment and the opinion of ACER pursuant to paragraph 3 shall be made publicly available.
+3.   Where the national resource adequacy assessment identifies an adequacy concern with regard to a bidding zone that was not identified in the European resource adequacy assessment, the national resource adequacy assessment shall include the reasons for the divergence between the two resource adequacy assessments, including details of the sensitivities used and the underlying assumptions. Member States shall publish that assessment and submit it to ACER.
+Within two months of the date of the receipt of the report, ACER shall provide an opinion on whether the differences between the national resource adequacy assessment and the European resource adequacy assessment are justified.
+The body that is responsible for the national resource adequacy assessment shall take due account of ACER's opinion, and where necessary shall amend its assessment. Where it decides not to take ACER's opinion fully into account, the body that is responsible for the national resource adequacy assessment shall publish a report with detailed reasons.

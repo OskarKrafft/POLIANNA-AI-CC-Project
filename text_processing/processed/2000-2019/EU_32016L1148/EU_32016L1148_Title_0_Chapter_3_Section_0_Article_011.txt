@@ -1,0 +1,38 @@
+Article 11
+Cooperation Group
+1.   In order to support and facilitate strategic cooperation and the exchange of information among Member States and to develop trust and confidence, and with a view to achieving a high common level of security of network and information systems in the Union, a Cooperation Group is hereby established.
+The Cooperation Group shall carry out its tasks on the basis of biennial work programmes as referred to in the second subparagraph of paragraph 3.
+2.   The Cooperation Group shall be composed of representatives of the Member States, the Commission and ENISA.
+Where appropriate, the Cooperation Group may invite representatives of the relevant stakeholders to participate in its work.
+The Commission shall provide the secretariat.
+3.   The Cooperation Group shall have the following tasks:
+(a)
+providing strategic guidance for the activities of the CSIRTs network established under Article 12;
+(b)
+exchanging best practice on the exchange of information related to incident notification as referred to in Article 14(3) and (5) and Article 16(3) and (6);
+(c)
+exchanging best practice between Member States and, in collaboration with ENISA, assisting Member States in building capacity to ensure the security of network and information systems;
+(d)
+discussing capabilities and preparedness of the Member States, and, on a voluntary basis, evaluating national strategies on the security of network and information systems and the effectiveness of CSIRTs, and identifying best practice;
+(e)
+exchanging information and best practice on awareness-raising and training;
+(f)
+exchanging information and best practice on research and development relating to the security of network and information systems;
+(g)
+where relevant, exchanging experiences on matters concerning the security of network and information systems with relevant Union institutions, bodies, offices and agencies;
+(h)
+discussing the standards and specifications referred to in Article 19 with representatives from the relevant European standardisation organisations;
+(i)
+collecting best practice information on risks and incidents;
+(j)
+examining, on an annual basis, the summary reports referred to in the second subparagraph of Article 10(3);
+(k)
+discussing the work undertaken with regard to exercises relating to the security of network and information systems, education programmes and training, including the work done by ENISA;
+(l)
+with ENISA's assistance, exchanging best practice with regard to the identification of operators of essential services by the Member States, including in relation to cross-border dependencies, regarding risks and incidents;
+(m)
+discussing modalities for reporting notifications of incidents as referred to in Articles 14 and 16.
+By 9 February 2018 and every two years thereafter, the Cooperation Group shall establish a work programme in respect of actions to be undertaken to implement its objectives and tasks, which shall be consistent with the objectives of this Directive.
+4.   For the purpose of the review referred to in Article 23 and by 9 August 2018, and every year and a half thereafter, the Cooperation Group shall prepare a report assessing the experience gained with the strategic cooperation pursued under this Article.
+5.   The Commission shall adopt implementing acts laying down procedural arrangements necessary for the functioning of the Cooperation Group. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).
+For the purposes of the first subparagraph, the Commission shall submit the first draft implementing act to the committee referred to in Article 22(1) by 9 February 2017.

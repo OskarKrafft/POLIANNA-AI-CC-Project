@@ -1,0 +1,49 @@
+Article 55
+Register of producers
+1.   Member States shall establish a register of producers which shall serve to monitor compliance of producers with the requirements of this Chapter.
+2.   Producers shall register in the register referred to in paragraph 1. They shall to that end submit an application for registration in each Member State where they make a battery available on the market for the first time.
+Producers shall submit the application for registration via an electronic data-processing system as referred to in paragraph 9, point (a).
+Producers shall only make available batteries, including those incorporated in appliances, light means of transport or other vehicles, on the market of a Member State, if they or, in the case of authorisation, their authorised representatives for extended producer responsibility, are registered in that Member State.
+3.   The application for registration shall include the following information:
+(a)
+name, and brand names if available, under which the producer operates in the Member State and address of the producer, including postal code and place, street and number, country, telephone number, if any, web and email address, indicating a single contact point;
+(b)
+national identification code of the producer, including its trade register number or equivalent official registration number and the European or national tax identification number;
+(c)
+the category, or categories, of batteries that the producer intends to make available on the market for the first time within the territory of a Member State, namely portable batteries, industrial batteries, LMT batteries, electric vehicle batteries, or SLI batteries, and their chemistry;
+(d)
+information on how the producer meets its responsibilities laid down in Article 56 and the requirements under Articles 59, 60 and 61, respectively:
+(i)
+for portable batteries or LMT batteries, the requirements of point (d) shall be met by providing:
+—
+information in written form on the measures put in place by the producer to fulfil the producer responsibility obligations laid down in Article 56, the measures put in place to fulfil the separate collection obligations laid down in Article 59(1) or Article 60(1) with regard to the amount of batteries the producer makes available on the market in the Member State, and on the system to ensure that the data reported to the competent authorities are reliable;
+—
+where applicable, the name and contact details, including postal code and place, street and number, country, telephone number, web and email address and the national identification code of the producer responsibility organisation appointed by the producer to fulfil its extended producer responsibility obligations in accordance with Article 57(1) and (2), including the trade register number or an equivalent official registration number and the European or national tax identification number of the producer responsibility organisation, and the represented producer’s mandate;
+(ii)
+for SLI batteries, industrial batteries and electric vehicle batteries, the requirements of point (d) shall be met by providing:
+—
+information in written form on the measures put in place by the producer to fulfil the producer responsibility obligations laid down in Article 56, the measures put in place to fulfil the collection obligations laid down in Article 61(1) with regard to the amount of batteries the producer makes available on the market in the Member State and on the system to ensure that the data reported to the competent authorities are reliable;
+—
+where applicable, the name and contact details, including postal code and place, street and number, country, telephone number, web and email address and the national identification code of the producer responsibility organisation appointed by the producer to fulfil its extended producer responsibility obligations in accordance with Article 57(1) and (2), including the trade register number or an equivalent official registration number and the European or national tax identification number of the producer responsibility organisation, and the represented producer’s mandate.
+(e)
+a statement by the producer or, where applicable, authorised representative for extended producer responsibility or the producer responsibility organisation appointed in accordance with Article 57(1), stating that the information provided is true.
+4.   Without prejudice to paragraph 3 of this Article, the information laid down in point (d) of that paragraph shall be provided either in the application for registration under paragraph 3 of this Article or in the application for authorisation under Article 58. Such application for authorisation shall include at least information on either individual or collective fulfilment of the extended producer responsibility obligations.
+5.   Member States may request additional information or documents, as necessary, to use the register of producers in an efficient manner.
+6.   Where a producer has appointed a producer responsibility organisation in accordance with Article 57(1), the obligations under this Article shall be met by that organisation mutatis mutandis unless otherwise specified by the Member State.
+7.   The obligations under this Article may be fulfilled on a producer’s behalf by an authorised representative for extended producer responsibility.
+Where obligations under this Article are fulfilled on a producer’s behalf by an authorised representative for extended producer responsibility that represents more than one producer, in addition to the information required under paragraph 3, that authorised representative shall provide the name and the contact details for each of the represented producers separately.
+8.   Member States may decide that the registration procedure pursuant to this Article and the authorisation procedure pursuant to Article 58 constitute a single procedure, provided that the application meets the requirements laid down in paragraphs (3) to (7) of this Article.
+9.   The competent authority shall:
+(a)
+make available on its website information about the application process via an electronic data-processing system;
+(b)
+grant registrations and provide a registration number within a maximum period of 12 weeks from the moment that all the information required under paragraphs 2 and 3 is provided.
+10.   The competent authority may:
+(a)
+lay down modalities with regard to the requirements and process of registration without adding substantive requirements to those laid down in paragraphs 2 and 3;
+(b)
+charge cost-based and proportionate fees to producers for the processing of the applications referred to in paragraph 2.
+11.   The competent authority may refuse to register a producer or withdraw the producer’s registration where the information referred to in paragraph 3 and related documentary evidence are not provided or are not sufficient, or where the producer no longer meets the requirements laid down in paragraph 3, point (d).
+The competent authority shall withdraw the producer’s registration if it has ceased to exist.
+12.   The producer, or, where applicable, authorised representative for extended producer responsibility or the producer responsibility organisation appointed on behalf of the producers it represents shall without undue delay notify the competent authority of any changes to the information contained in the registration and of any permanent cessation as regards the making available on the market within the territory of the Member State of the batteries referred to in the registration.
+13.   Where the information in the register of producers is not publicly accessible, Member States shall ensure that providers of online platforms allowing consumers to conclude distance contracts with producers are granted access, free of charge, to the information in the register.

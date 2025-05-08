@@ -1,0 +1,16 @@
+Article 14
+Reporting on projections
+1.   By 15 March 2015, and every two years thereafter, Member States shall report to the Commission national projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, organised by gas or group of gases (HFCs and PFCs) listed in Annex I and by sector. Those projections shall include quantitative estimates for a sequence of four future years ending with 0 or 5 immediately following the reporting year. National projections shall take into consideration any policies and measures adopted at Union level and shall include:
+(a)
+projections without measures where available, projections with measures, and, where available, projections with additional measures;
+(b)
+total greenhouse gas projections and separate estimates for the projected greenhouse gas emissions for the emission sources covered by Directive 2003/87/EC and by Decision No 406/2009/EC;
+(c)
+the impact of policies and measures identified pursuant to Article 13. Where such policies and measures are not included, this shall be clearly stated and explained;
+(d)
+results of the sensitivity analysis performed for the projections;
+(e)
+all relevant references to the assessment and the technical reports that underpin the projections referred to in paragraph 4.
+2.   Member States shall communicate to the Commission any substantial changes to the information reported pursuant to this Article during the first year of the reporting period, by 15 March of the year following the previous report.
+3.   Member States shall report the most up-to-date projections available. Where a Member State does not submit complete projection estimates by 15 March every second year, and the Commission has established that gaps in the estimates cannot be filled by that Member State once identified through the Commission’s QA or QC procedures, the Commission may prepare estimates as required to compile Union projections, in consultation with the Member State concerned.
+4.   Member States shall make available to the public, in electronic form, their national projections of greenhouse gas emissions by sources and removals by sinks along with relevant technical reports that underpin those projections. Those projections should include descriptions of the models and methodological approaches used, definitions and underlying assumptions.

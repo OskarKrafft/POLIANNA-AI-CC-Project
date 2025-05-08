@@ -1,0 +1,47 @@
+Article 3
+National building renovation plan
+1.   Each Member State shall establish a national building renovation plan to ensure the renovation of the national stock of residential and non-residential buildings, both public and private, into a highly energy-efficient and decarbonised building stock by 2050, with the objective to transform existing buildings into zero-emission buildings.
+2.   Each national building renovation plan shall include:
+(a)
+an overview of the national building stock for different building types, including their share in the national building stock, construction periods and climatic zones, based, as appropriate, on statistical sampling and the national database for energy performance certificates pursuant to Article 22, an overview of market barriers and market failures and an overview of the capacities in the construction, energy efficiency and renewable energy sectors, and of the share of vulnerable households based, as appropriate, on statistical sampling;
+(b)
+a roadmap with nationally established targets and measurable progress indicators, including the reduction of the number of people affected by energy poverty, with a view to achieving the 2050 climate neutrality goal, in order to ensure a highly energy-efficient and decarbonised national building stock and the transformation of existing buildings into zero-emission buildings by 2050;
+(c)
+an overview of implemented and planned policies and measures, supporting the implementation of the roadmap pursuant to point (b);
+(d)
+an outline of the investment needs for the implementation of the national building renovation plan, the financing sources and measures, and the administrative resources for building renovation;
+(e)
+the thresholds for the operational greenhouse gas emissions and annual primary energy demand of a new or renovated zero-emission building pursuant to Article 11;
+(f)
+minimum energy performance standards for non-residential buildings on the basis of maximum energy performance thresholds pursuant to Article 9(1);
+(g)
+national trajectory for the renovation of the residential building stock, including the 2030 and 2035 milestones for average primary energy use in kWh/(m2.y) pursuant to Article 9(2); and
+(h)
+an evidence-based estimate of expected energy savings and wider benefits, including those related to indoor environmental quality.
+The roadmap referred to in point (b) of this paragraph shall include national targets for 2030, 2040 and 2050 as regards the annual energy renovation rate, the primary and final energy consumption of the national building stock and its operational greenhouse gas emission reductions; specific timelines for non-residential buildings to comply with lower maximum energy performance thresholds pursuant to Article 9(1), by 2040 and 2050, in line with the pathway for transforming the national building stock into zero-emission buildings; and an evidence-based estimate of expected energy savings and wider benefits, including those related to indoor environmental quality.
+Where an overview of specific policies and measures as referred to in point (c) or an outline of specific investment needs as referred to in point (d) is already included in the national energy and climate plans, a clear reference to the relevant parts of the national energy and climate plans may be included in the building renovation plan in place of a fully developed overview.
+3.   Every five years, each Member State shall prepare and submit to the Commission its draft national building renovation plan, using the template set out in Annex II to this Directive. Each Member State shall submit its draft national building renovation plan as part of its draft integrated national energy and climate plan referred to in Article 9 of Regulation (EU) 2018/1999 and, where the Member States submits a draft update, as part of the draft update referred to in Article 14 of that Regulation.
+Notwithstanding the first subparagraph, Member States shall submit the first draft building renovation plan to the Commission by 31 December 2025.
+4.   To support the development of its national building renovation plan, each Member State shall carry out a public consultation on its draft national building renovation plan prior to submitting it to the Commission. The public consultation shall involve in particular local and regional authorities and other socioeconomic partners, including civil society and bodies working with vulnerable households. Each Member State shall annex a summary of the results of its public consultation to its draft national building renovation plan. The public consultation may be integrated as part of the public consultation undertaken pursuant to Article 10 of Regulation (EU) 2018/1999.
+5.   The Commission shall assess the draft national building renovation plans submitted pursuant to paragraph 3, in particular with regard to whether:
+(a)
+the level of ambition of the nationally established targets is sufficient and in line with the national commitments on climate and energy laid down in the national integrated energy and climate plans;
+(b)
+the policies and measures are sufficient to achieve the nationally established targets;
+(c)
+the allocation of budgetary and administrative resources is sufficient for the implementation of the plan;
+(d)
+the financing sources and measures referred to in paragraph 2, first subparagraph, point (d), of this Article are in line with the planned reduction of energy poverty referred to in paragraph 2, first subparagraph, point (b), of this Article;
+(e)
+the plans prioritise the renovation of worst-performing buildings in accordance with Article 9;
+(f)
+the public consultation pursuant to paragraph 4 has been sufficiently inclusive; and
+(g)
+the plans comply with the requirements of paragraph 1 and the template in Annex II.
+After consulting the Committee established by Article 33 of this Directive, the Commission may issue country-specific recommendations to Member States in accordance with Article 9(2) and Article 34 of Regulation (EU) 2018/1999.
+With regard to the first draft national building renovation plan, the Commission may issue country-specific recommendations to Member States no later than six months after the Member State has submitted that plan.
+6.   In its national building renovation plan, each Member State shall take due account of any recommendations issued by the Commission on the draft national building renovation plan. If the Member State concerned does not address a recommendation or a substantial part thereof, it shall provide reasons to the Commission and shall make those reasons public.
+7.   Every five years, each Member State shall submit its national building renovation plan to the Commission, using the template set out in Annex II to this Directive. Each Member State shall submit its national building renovation plan as part of its integrated national energy and climate plan referred to in Article 3 of Regulation (EU) 2018/1999 and, where a Member State submits an update, as part of the update referred to in Article 14 of that Regulation.
+Notwithstanding the first subparagraph, Member States shall submit the first national building renovation plan to the Commission by 31 December 2026.
+8.   Each Member State shall annex the details of the implementation of its most recent long-term renovation strategy or national building renovation plan to its next national building renovation plan, indicating whether its national targets have been achieved.
+9.   Each Member State shall include in its integrated national energy and climate progress reports, in accordance with Articles 17 and 21 of Regulation (EU) 2018/1999, information on the implementation of the national targets referred to in paragraph 2, point (b), of this Article. Every two years, the Commission shall include in its annual State of the Energy Union report submitted pursuant to Article 35 of Regulation (EU) 2018/1999, an overall progress report on the renovation of the national stock of residential and non-residential buildings, both public and private, in line with the roadmaps set out in the building renovation plans, based upon the information submitted by the Member States in their integrated national energy and climate progress reports. The Commission shall monitor annually the evolution of the energy performance of the Union building stock, on the basis of best available information from Eurostat and other sources, and publish the information through the EU Building Stock Observatory.

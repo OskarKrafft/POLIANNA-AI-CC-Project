@@ -1,0 +1,66 @@
+Article 9
+Eligible actions
+1.   Only actions which contribute to the achievement of the objectives referred to in Article 3, whilst taking into account long-term decarbonisation commitments, shall be eligible for funding. Such actions include studies, works and other accompanying measures necessary for the management and implementation of the CEF and the sector-specific guidelines. Studies shall be eligible only if they relate to projects eligible under the CEF.
+2.   In the transport sector, only the following actions shall be eligible to receive Union financial support under this Regulation:
+(a)
+actions relating to efficient, interconnected, interoperable and multimodal networks for the development of railway, road, inland waterway and maritime infrastructure:
+(i)
+actions implementing the core network in accordance with Chapter III of Regulation (EU) No 1315/2013, including actions relating to cross-border links and missing links, such as those listed in Part III of the Annex to this Regulation, as well as urban nodes, multimodal logistics platforms, maritime ports, inland ports, rail-road terminals and connections to airports of the core network as defined in Annex II to Regulation (EU) No 1315/2013; actions implementing the core network may include related elements located on the comprehensive network when necessary to optimise the investment and according to modalities specified in the work programmes referred to in Article 20 of this Regulation;
+(ii)
+actions relating to cross-border links of the comprehensive network in accordance with Chapter II of Regulation (EU) No 1315/2013, such as those listed in Part III, point 2, of the Annex to this Regulation, actions referred to in Part III, point 3, of the Annex to this Regulation, actions relating to studies for the development of the comprehensive network and actions relating to maritime and inland ports of the comprehensive network in accordance with Chapter II of Regulation (EU) No 1315/2013;
+(iii)
+actions to re-establish missing regional cross-border rail connections on the TEN-T that have been abandoned or dismantled;
+(iv)
+actions implementing sections of the comprehensive network located in outermost regions in accordance with Chapter II of Regulation (EU) No 1315/2013, including actions relating to the relevant urban nodes, maritime ports, inland ports, rail-road terminals, connections to airports and multimodal logistics platforms, of the comprehensive network as defined in Annex II to Regulation (EU) No 1315/2013;
+(v)
+actions supporting projects of common interest in order to connect the trans-European network with infrastructure networks of neighbouring countries as defined in Article 8(1) of Regulation (EU) No 1315/2013;
+(b)
+actions relating to smart, interoperable, sustainable, multimodal, inclusive, accessible, safe and secure mobility:
+(i)
+actions supporting motorways of the sea as provided for in Article 21 of Regulation (EU) No 1315/2013 with a focus on cross-border short-sea shipping;
+(ii)
+actions supporting telematic applications systems in accordance with Article 31 of Regulation (EU) No 1315/2013, for the respective modes of transport, including in particular:
+—
+for railways: ERTMS,
+—
+for inland waterways: River Information Services (RIS),
+—
+for road transport: Intelligent Transport Systems (ITS),
+—
+for maritime transport: Vessel Traffic Monitoring and Information Systems (VTMIS) and e-Maritime services, including single-window services such as the maritime single window, port community systems and relevant customs information systems,
+—
+for air transport: air traffic management systems, in particular those resulting from the Single European Sky ATM Research (SESAR) system;
+(iii)
+actions supporting sustainable freight transport services in accordance with Article 32 of Regulation (EU) No 1315/2013 and actions to reduce rail freight noise;
+(iv)
+actions supporting new technologies and innovation, including automation, enhanced transport services, modal integration and alternative fuels infrastructure for all modes of transport in accordance with Article 33 of Regulation (EU) No 1315/2013;
+(v)
+actions to remove barriers to interoperability as defined in Article 3, point (o), of Regulation (EU) No 1315/2013, notably barriers when delivering corridor/network effects, including actions promoting an increase in rail freight traffic and automatic gauge-change facilities;
+(vi)
+actions to remove barriers to interoperability, in particular in urban nodes within the meaning of Article 30 of Regulation (EU) No 1315/2013;
+(vii)
+actions implementing safe and secure infrastructure and mobility, including road safety, in accordance with Article 34 of Regulation (EU) No 1315/2013;
+(viii)
+actions improving transport infrastructure resilience, in particular its resilience to climate change and natural disasters and to cyber security threats;
+(ix)
+actions improving transport infrastructure accessibility in all modes of transport and for all users, especially users with reduced mobility, in accordance with Article 37 of Regulation (EU) No 1315/2013;
+(x)
+actions improving transport infrastructure accessibility and availability for security and civil protection purposes and actions adapting the transport infrastructure for Union external border checks purposes with the aim of facilitating traffic flows;
+(c)
+under the specific objective referred to in Article 3(2), point (a)(ii), and in accordance with Article 12, actions or specific activities within an action, supporting parts, new or existing, of the TEN-T suitable for military transport, in order to adapt the TEN-T to dual-use infrastructure requirements.
+3.   In the energy sector, only the following actions shall be eligible to receive Union financial support under this Regulation:
+(a)
+actions relating to projects of common interest as set out at Article 14 of Regulation (EU) No 347/2013;
+(b)
+actions supporting cross-border projects in the field of renewable energy, including innovative solutions, as well as storage of renewable energy, and their conception, as defined in Part IV of the Annex, subject to the fulfilment of the conditions laid down in Article 7.
+4.   In the digital sector, only the following actions shall be eligible to receive Union financial support under this Regulation:
+(a)
+actions supporting the deployment of and access to very high capacity networks, including 5G systems, capable of providing Gigabit connectivity in areas where socioeconomic drivers are located;
+(b)
+actions supporting the provision of very high-quality local wireless connectivity in local communities that is free of charge and without discriminatory conditions;
+(c)
+actions implementing the uninterrupted coverage with 5G systems of all major transport paths, including the TEN-T, such as the actions listed in Part V, point 3, of the Annex;
+(d)
+actions supporting the deployment of new or the significant upgrading of existing backbone networks, including submarine cables, within and between Member States and between the Union and third countries, such as the actions listed in Part V, point 3, of the Annex, as well as other actions supporting the deployment of backbone networks referred to in that point;
+(e)
+actions implementing digital connectivity infrastructure requirements related to cross-border projects in the areas of transport or energy or supporting operational digital platforms directly associated to transport or energy infrastructures, or both.

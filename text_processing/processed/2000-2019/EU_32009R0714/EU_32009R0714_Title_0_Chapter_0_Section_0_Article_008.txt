@@ -1,0 +1,58 @@
+Article 8
+Tasks of the ENTSO for Electricity
+1.   The ENTSO for Electricity shall elaborate network codes in the areas referred to in paragraph 6 of this Article upon a request addressed to it by the Commission in accordance with Article 6(6).
+2.   The ENTSO for Electricity may elaborate network codes in the areas set out in paragraph 6 with a view to achieving the objectives set out in Article 4 where those network codes do not relate to areas covered by a request addressed to it by the Commission. Those network codes shall be submitted to the Agency for an opinion. That opinion shall be duly taken into account by the ENTSO for Electricity.
+3.   The ENTSO for Electricity shall adopt:
+(a)
+common network operation tools to ensure coordination of network operation in normal and emergency conditions, including a common incidents classification scale, and research plans;
+(b)
+a non-binding Community-wide ten-year network development plan, (Community-wide network development plan), including a European generation adequacy outlook, every two years;
+(c)
+recommendations relating to the coordination of technical cooperation between Community and third-country transmission system operators;
+(d)
+an annual work programme;
+(e)
+an annual report;
+(f)
+annual summer and winter generation adequacy outlooks.
+4.   The European generation adequacy outlook referred to in point (b) of paragraph 3 shall cover the overall adequacy of the electricity system to supply current and projected demands for electricity for the next five-year period as well as for the period between five and 15 years from the date of that outlook. The European generation adequacy outlook shall build on national generation adequacy outlooks prepared by each individual transmission system operator.
+5.   The annual work programme referred to in point (d) of paragraph 3 shall contain a list and description of the network codes to be prepared, a plan on coordination of operation of the network, and research and development activities, to be realised in that year, and an indicative calendar.
+6.   The network codes referred to in paragraphs 1 and 2 shall cover the following areas, taking into account, if appropriate, regional specificities:
+(a)
+network security and reliability rules including rules for technical transmission reserve capacity for operational network security;
+(b)
+network connection rules;
+(c)
+third-party access rules;
+(d)
+data exchange and settlement rules;
+(e)
+interoperability rules;
+(f)
+operational procedures in an emergency;
+(g)
+capacity-allocation and congestion-management rules;
+(h)
+rules for trading related to technical and operational provision of network access services and system balancing;
+(i)
+transparency rules;
+(j)
+balancing rules including network-related reserve power rules;
+(k)
+rules regarding harmonised transmission tariff structures including locational signals and inter-transmission system operator compensation rules; and
+(l)
+energy efficiency regarding electricity networks.
+7.   The network codes shall be developed for cross-border network issues and market integration issues and shall be without prejudice to the Member States’ right to establish national network codes which do not affect cross-border trade.
+8.   The ENTSO for Electricity shall monitor and analyse the implementation of the network codes and the Guidelines adopted by the Commission in accordance with Article 6(11), and their effect on the harmonisation of applicable rules aimed at facilitating market integration. The ENTSO for Electricity shall report its findings to the Agency and shall include the results of the analysis in the annual report referred to in point (e) of paragraph 3 of this Article.
+9.   The ENTSO for Electricity shall make available all information required by the Agency to fulfil its tasks under Article 9(1).
+10.   The ENTSO for Electricity shall adopt and publish a Community-wide network development plan every two years. The Community-wide network development plan shall include the modelling of the integrated network, scenario development, a European generation adequacy outlook and an assessment of the resilience of the system.
+The Community-wide network development plan shall, in particular:
+(a)
+build on national investment plans, taking into account regional investment plans as referred to in Article 12(1), and, if appropriate, Community aspects of network planning including the guidelines for trans-European energy networks in accordance with Decision No 1364/2006/EC of the European Parliament and of the Council (9);
+(b)
+regarding cross-border interconnections, also build on the reasonable needs of different system users and integrate long-term commitments from investors referred to in Article 8 and Articles 13 and 22 of Directive 2009/72/EC; and
+(c)
+identify investment gaps, notably with respect to cross-border capacities.
+In regard to point (c) of the second subparagraph, a review of barriers to the increase of cross-border capacity of the network arising from different approval procedures or practices may be annexed to the Community-wide network development plan.
+11.   The Agency shall provide an opinion on the national ten-year network development plans to assess their consistency with the Community-wide network development plan. If the Agency identifies inconsistencies between a national ten-year network development plan and the Community-wide network development plan, it shall recommend amending the national ten-year network development plan or the Community-wide network development plan as appropriate. If such national ten-year network development plan is elaborated in accordance with Article 22 of Directive 2009/72/EC, the Agency shall recommend that the competent national regulatory authority amend the national ten-year network development plan in accordance with Article 22(7) of that Directive and inform the Commission thereof.
+12.   Upon request of the Commission, the ENTSO for Electricity shall give its views to the Commission on the adoption of the Guidelines as laid down in Article 18.

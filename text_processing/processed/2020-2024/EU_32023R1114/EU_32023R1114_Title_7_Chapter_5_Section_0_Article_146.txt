@@ -1,0 +1,9 @@
+Article 146
+Amendment to Directive 2013/36/EU
+In Annex I to Directive 2013/36/EU, point 15 is replaced by the following:
+‘15.
+Issuing electronic money including electronic-money tokens as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*13).
+16.
+Issuance of asset-referenced tokens as defined in Article 3(1), point (6), of Regulation (EU) 2023/1114.
+17.
+Crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114.

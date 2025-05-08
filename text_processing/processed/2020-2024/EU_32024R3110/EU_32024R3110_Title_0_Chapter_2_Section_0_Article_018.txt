@@ -1,0 +1,20 @@
+Article 18
+Rules and conditions for the affixing of CE marking
+1.   The CE marking shall be affixed visibly, legibly and indelibly to the product. Where this is not possible or not warranted on account of the nature of the product, the CE marking shall be affixed to a label attached to the product or to the packaging or, where that is also not possible, to the accompanying documents.
+2.   The CE marking shall be followed by:
+(a)
+the last two digits of the year in which the CE marking was first affixed; or, in the case of used products, the last two digits of the year when the product was deinstalled followed by the last two digits of the year in which the CE marking was affixed to the used product;
+(b)
+the name and the registered address, or the identifying mark allowing easy and unambiguous identification of the name and address, of the manufacturer;
+(c)
+the name and the registered address of the authorised representative, or the identifying mark allowing easy and unambiguous identification of the name and address of the authorised representative where the manufacturer does not have a place of business in the Union or where the manufacturer chooses to have an authorised representative;
+(d)
+the unique identification code of the product-type;
+(e)
+the declaration code of the declaration of performance and conformity;
+(f)
+the identification number of the notified body or bodies verifying the product type and assessing the factory production control, if applicable; and
+(g)
+a data carrier connected to the digital product passport referred to in Article 76 if such a digital product passport is available through the construction digital product passport system established pursuant to Article 75.
+The information listed in points (d) and (e) of the first subparagraph of this paragraph may be replaced by a data carrier, including permalink connected to the declaration of performance and conformity pursuant to Article 16(2), point (e), if the declaration of performance and conformity is available on a website. The information listed in points (d) and (e) of the first subparagraph of this paragraph may be omitted if a data carrier referred to in point (g) of the first subparagraph of this paragraph is provided.
+3.   The CE marking shall be affixed before the product is placed on the market. It may be followed by a pictogram or any other mark indicating a special risk or use.

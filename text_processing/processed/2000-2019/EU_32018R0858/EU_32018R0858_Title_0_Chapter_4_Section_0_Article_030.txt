@@ -1,0 +1,10 @@
+Article 30
+Tests required for EU type-approval
+1.   For the purpose of granting EU type-approvals, the approval authority shall verify compliance with the technical requirements of this Regulation by means of appropriate tests that are performed by its technical services.
+2.   The fundamental elements of the tests, including the technical requirements for which compliance was verified by the tests, shall be recorded in a test report.
+3.   The Commission shall adopt implementing acts laying down the format of the test reports. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted by 5 July 2020.
+4.   The manufacturer shall make available to the approval authorities and provide to the technical services concerned the vehicles, systems, components or separate technical units that are required under the relevant regulatory acts listed in Annex II for the performance of the required tests.
+5.   The required tests shall be performed on vehicles, systems, components and separate technical units that are representative of the type to be approved.
+6.   Where a range of values is provided for the parameters and for the conditions used for the performance of the appropriate tests referred to in paragraph 1, the technical services may choose any value within that range.
+7.   At the request of the manufacturer, and subject to the agreement of the approval authority, virtual testing methods may be used in accordance with Annex VIII as alternatives to the tests referred to in paragraph 1.
+8.   The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex VIII to take into account technical and regulatory developments by updating the list of regulatory acts in respect of which virtual testing methods may be used by a manufacturer or a technical service and the specific conditions under which those virtual testing methods are to be used.

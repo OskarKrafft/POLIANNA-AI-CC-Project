@@ -1,0 +1,32 @@
+Article 38
+Additional provisions governing the write-down or conversion tool
+1.   Resolution authorities shall apply the write-down or conversion tool in accordance with the priority of claims applicable under normal insolvency proceedings, in a way that produces the following results:
+(a)
+Tier 1 items are reduced first in proportion to the losses and to the extent of their capacity and the resolution authority takes one or both of the actions specified in Article 36(1) in respect of holders of Tier 1 instruments;
+(b)
+the principal amount of Tier 2 instruments is written down or converted into Tier 1 instruments or both, to the extent required to achieve the resolution objectives or to the extent of the capacity of the relevant capital instruments, whichever is lower;
+(c)
+the principal amount of Tier 3 instruments is written down or converted into Tier 1 instruments or both, to the extent required to achieve the resolution objectives or to the extent of the capacity of the relevant capital instruments, whichever is lower;
+(d)
+the principal amount of, or outstanding amount payable in respect of, the rest of eligible liabilities in accordance with the hierarchy of claims in normal insolvency proceedings, including the ranking of insurance claims provided for in Article 275(1) of Directive 2009/138/EC, is written down or converted into Tier 1 instruments or both, to the extent required to achieve the resolution objectives.
+Where the level of write-down based on the provisional valuation as referred to in Article 25 is found to exceed requirements when assessed against the definitive valuation as referred to in Article 24(2), a write-up mechanism may be applied to reimburse creditors and, subsequently, shareholders to the extent necessary.
+When deciding on whether liabilities are to be written down or converted into equity, resolution authorities shall not convert one class of liabilities, while a class of liabilities that is subordinated to the class remains unconverted into equity or not written down.
+Member States shall ensure that all claims resulting from own-fund items have, in national laws governing normal insolvency proceedings, a lower priority ranking than any claim that does not result from an own-fund item. For the purposes of this subparagraph, to the extent that an instrument is only partly recognised as an own-fund item, the whole instrument shall be treated as a claim resulting from an own-fund items and shall rank lower than any claim that does not result from an own-fund item.
+2.   Where the principal amount of a relevant capital instrument or the principal amount of a debt instrument or other eligible liability is written down, the following shall apply:
+(a)
+the reduction resulting from the application of the write-down or conversion tool shall be permanent, subject to any write-up in accordance with the reimbursement mechanism referred to in paragraph 1;
+(b)
+no liability to the holder of the relevant capital instrument, the debt instrument or other eligible liability shall remain under or in connection with that amount of the instrument, which has been written down, except for any liability already accrued, and any liability for damages that may arise as a result of an appeal challenging the legality of the exercise of the write-down power;
+(c)
+no compensation shall be paid to any holder of the relevant capital instrument, the debt instrument or other eligible liability other than in accordance with paragraph 3.
+3.   In order to effect a conversion of the capital instruments, debt instruments or other eligible liabilities concerned in accordance with paragraph 1, points (b) and (c), resolution authorities may require entities referred to in Article 1(1), points (a) to (e), to issue Tier 1 instruments to the holders of the capital instruments, debt instruments or other eligible liabilities concerned.
+The capital instruments, debt instruments or other eligible liabilities concerned may be converted provided that all of the following conditions are met:
+(a)
+the Tier 1 instruments are issued by the insurance or reinsurance undertaking, by the entity referred to Article 1(1), points (b) to (e), or by the parent undertaking with the agreement of the relevant resolution authority;
+(b)
+the Tier 1 instruments are issued prior to any issuance of shares or other instruments of ownership by that entity referred to in Article 1(1), points (a) to (e), for the purposes of the provision of own funds by the State or a government entity;
+(c)
+the Tier 1 instruments are awarded and transferred without delay following the exercise of the conversion power;
+(d)
+the conversion rate that determines the number of Tier 1 instruments that are provided in respect of each relevant capital instrument, debt instrument or other eligible liability complies with Article 37.
+4.   For the purposes of the provision of Tier 1 instruments in accordance with paragraph 3, the resolution authority may require entities referred to in Article 1(1), points (a) to (e), to maintain at all times the necessary prior authorisation to issue the relevant number of Tier 1 instruments.

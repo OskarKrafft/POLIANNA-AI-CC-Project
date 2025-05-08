@@ -1,0 +1,31 @@
+Article 141
+ESMA annual report on market developments
+By 31 December 2025 and every year thereafter, ESMA, in close cooperation with EBA, shall submit a report to the European Parliament and to the Council on the application of this Regulation and developments in markets in crypto-assets. The report shall be made publicly available.
+The report shall contain the following:
+(a)
+the number of issuances of crypto-assets in the Union, the number of crypto-asset white papers submitted or notified to the competent authorities, the type of crypto-asset issued and their market capitalisation, and the number of crypto-assets admitted to trading;
+(b)
+the number of issuers of asset-referenced tokens, and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of transactions in asset-referenced tokens;
+(c)
+the number of issuers of significant asset-referenced tokens, and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of transactions in significant asset-referenced tokens;
+(d)
+the number of issuers of e-money tokens, and an analysis of the official currencies referenced by the e-money tokens, the composition and the size of the funds deposited or invested in accordance with Article 54, and the volume of payments made in e-money tokens;
+(e)
+the number of issuers of significant e-money tokens, and an analysis of the official currencies referenced by the significant e-money tokens, and, for electronic money institutions issuing significant e-money tokens, an analysis of the categories of reserve assets, the size of the reserves of assets, and the volume of payments made in significant e-money tokens;
+(f)
+the number of crypto-asset service providers, and the number of significant crypto-asset service providers;
+(g)
+an estimate of the number of Union residents using or investing in crypto-assets issued in the Union;
+(h)
+where possible, an estimate of the number of Union residents using or investing in crypto-assets issued outside the Union and an explanation of the availability of data in that respect;
+(i)
+a mapping of the geographical location and level of know-your-customer and customer due diligence procedures of unauthorised exchanges providing services in crypto-assets to Union residents, including the number of exchanges without a clear domiciliation and the number of exchanges located in jurisdictions included in the list of high-risk third countries for the purposes of Union rules on anti-money laundering and counter-terrorist financing or in the list of non-cooperative jurisdictions for tax purposes, classified by the level of compliance with adequate know-your-customer procedures;
+(j)
+the proportion of transactions in crypto-assets that occur through a crypto-asset service provider or unauthorised service provider or peer-to-peer, and their transaction volume;
+(k)
+the number and value of fraud, scams, hacks, the use of crypto-assets for payments related to ransomware attacks, cyber-attacks, thefts or losses of crypto-assets reported in the Union, types of fraudulent behaviour, the number of complaints received by crypto-asset service providers and issuers of asset-referenced tokens, the number of complaints received by competent authorities and the subjects of the complaints received;
+(l)
+the number of complaints received by crypto-asset service providers, issuers and competent authorities in relation to false and misleading information contained in crypto-asset white papers or in marketing communications, including via social media platforms;
+(m)
+possible approaches and options, based on best practices and reports by relevant international organisations, to reduce the risk of circumvention of this Regulation, including in relation to the provision of crypto-asset services by third-country actors in the Union without authorisation.
+Competent authorities shall provide ESMA with the information necessary for the preparation of the report. For the purposes of the report, ESMA may request information from law enforcement agencies.

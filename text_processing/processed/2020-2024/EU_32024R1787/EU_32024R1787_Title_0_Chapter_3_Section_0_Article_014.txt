@@ -1,0 +1,95 @@
+Article 14
+Leak detection and repair
+1.   By 5 May 2025 for existing sites and within 6 months from the date of start of operations for new sites, operators shall submit a leak detection and repair programme (‘LDAR programme’) to the competent authorities.
+The LDAR programme shall include a detailed description of the LDAR surveys and activities, including specific timelines, to be carried out in accordance with this Article, Parts 1 and 2 of Annex I and the relevant standards and technical prescriptions, as applicable, established under Article 32. If any changes to the LDAR programme are made, operators shall submit an updated LDAR programme to the competent authorities as soon as possible.
+Until the date of application of the standards or technical prescriptions established under Article 32, operators shall follow state-of-the-art industry practices and the best technologies that are commercially available for LDAR surveys. Operators shall provide competent authorities and verifiers with information on the standards, including international standards, or methodologies used.
+The competent authorities may require the operator to amend the LDAR programme taking into account the requirements of this Regulation.
+2.   Operators shall initiate the first type 2 LDAR survey of all components under their responsibility in accordance with the LDAR programme as soon as possible from 4 August 2024.
+In any event, operators shall carry out the first type 2 LDAR survey by 5 August 2025 for existing sites. Without prejudice to the frequencies established in Part 1 of Annex I, type 2 LDAR surveys carried out between 3 August 2022 and 4 August 2024 may be considered by operators as the first type 2 LDAR survey.
+Within 9 months from the date of start of operations of new sites, operators shall carry out the first type 2 LDAR survey of all components under their responsibility in accordance with the LDAR programme.
+After carrying out the first type 2 LDAR survey, operators shall carry out type 1 and type 2 LDAR surveys with the following frequencies:
+(a)
+for aboveground and underground components, excluding distribution and transmission networks, in accordance with the minimum frequencies set out in Part 1, point 1, of Annex I;
+(b)
+for components of distribution and transmission networks, in accordance with the minimum frequencies set out in Part 1, point 2, of Annex I;
+(c)
+for all offshore components, in accordance with the minimum frequencies set out in Part 1, point 3, of Annex I;
+(d)
+for all other components, in accordance with the minimum frequencies set out in Part 1, point 4, of Annex I.
+3.   Without prejudice to the obligation to carry out type 2 LDAR surveys in accordance with this Article, when a type 1 LDAR survey is required, operators may choose to carry out a type 2 LDAR survey instead of a type 1 LDAR survey.
+4.   As part of the LDAR surveys, operators may use advanced detection technologies, provided that:
+(a)
+the competent authorities approve their use in the context of the LDAR programme;
+(b)
+the measurement is undertaken at the level of each individual potential emission source; and
+(c)
+the advanced detection technologies comply with the requirements set out in paragraphs 7 and 8 and are in accordance with the requirements set out in Part 2 of Annex I.
+5.   By way of derogation from the fourth subparagraph of paragraph 2 of this Article, where operators that produce or process oil or natural gas provide evidence, on the basis of measurements from the 5 preceding years which have been reported by the operators in accordance with Article 12 and assessed by a verifier, that less than 1 % of all their components and subcomponents in each site are leaking and that the aggregated methane emissions associated with those leaks represent less than 0,08 % of the total volume of gas or 0,015 % of the total mass of oil processed or extracted, different LDAR survey frequencies for components at sites where no leaks were identified may be applied, subject to the approval of the competent authorities and provided that:
+(a)
+for all components at processing locations, type 1 LDAR surveys are carried out at least every 12 months;
+(b)
+for at least 25 % of all components at processing locations, type 2 LDAR surveys are carried out every 12 months, with all components being checked at least every 48 months;
+(c)
+for all components at production locations, type 1 LDAR surveys are carried out at least every 36 months;
+(d)
+for all components at production locations, type 2 LDAR surveys are carried out at least every 60 months.
+If, following the LDAR surveys carried out in accordance with the first subparagraph of this paragraph, 1 % or more of all the components and subcomponents in each site are leaking or the aggregated methane emissions associated with those leaks represent more than 0,08 % of the total volume of gas or 0,015 % of the total mass of crude oil processed or extracted, the operator concerned shall be subject to the obligations under paragraph 2 in that site.
+The competent authority shall notify to the Commission the derogations granted pursuant to this paragraph and shall carry out non-routine inspections as referred to in Article 6 (4).
+6.   The LDAR surveys shall be carried out with detection devices that allow to identify leaks as follows, for each type of component:
+(a)
+at a level as close as possible to each individual potential emission source for aboveground components and components above the sea level;
+(b)
+at the interface between ground and atmosphere for underground components as a first step and, where a leak is detected as specified in the implementing act adopted in accordance with paragraph 7, as close as possible to the emission source as a second step;
+(c)
+applying the best detection techniques that are commercially available for offshore components below the sea level or below the seabed.
+7.   By 5 August 2025, the Commission shall, by means of an implementing act, specify:
+(a)
+the minimum detection limits and detection techniques to be employed for the different detection devices used for meeting the requirements for all components in paragraph 8;
+(b)
+the thresholds applicable to the first step of the LDAR surveys to be used for meeting the requirements for underground components in paragraph 8.
+Those minimum detection limits, techniques and thresholds shall be based on the best available technologies and the best available detection techniques, taking into account the different types of components and LDAR surveys. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 35(3).
+Until the adoption of that implementing act, in order to meet the requirements of paragraph 8, operators shall use the best available technologies and the best available detection techniques, in compliance with the manufacturer specifications for operation and maintenance.
+8.   Operators shall repair or replace all components found to be emitting methane at or above the following levels at standard temperature and pressure and using detection devices in accordance with the manufacturer specifications for operation and maintenance:
+(a)
+for type 1 LDAR surveys: 7 000 parts per million in volume of methane or 17 grams per hour of methane;
+(b)
+for type 2 LDAR surveys:
+(i)
+500 parts per million in volume of methane or 1 gram per hour of methane for aboveground components and for offshore components above the sea level;
+(ii)
+1 000 parts per million in volume of methane or 5 grams per hour of methane for the second step of LDAR surveys of underground components;
+(iii)
+7 000 parts per million in volume of methane or 17 grams per hour for offshore components below the sea level or below the seabed.
+9.   The repair or replacement of the components referred to in paragraph 8 shall take place immediately after detection. If the repair cannot be carried out immediately after detection, it shall be attempted as soon as possible and no later than 5 days after detection and shall be completed within 30 days after detection.
+Where an operator can demonstrate that the repair or replacement would not be successful or possible within 5 days for a first attempt or where the operator expects that a complete repair would not be possible within 30 days due to safety, administrative or technical considerations, the operator shall notify the competent authorities and provide them with evidence thereof together with the repair and monitoring schedules containing at least the elements set out in Annex II no later than 12 days from the date of detection.
+Those repair and monitoring schedules shall include all the necessary evidence justifying any delay. They shall ensure that the environmental impact is minimised, while respecting the relevant safety, administrative and technical considerations. The competent authorities may require the operator to amend the repair and monitoring schedules taking into account the requirements of this Regulation. In any event, the repair or replacement shall be carried out as soon as possible.
+The operators shall prioritise repairs of larger leaks.
+Repairs or replacements referred to in this paragraph shall use the best technologies that are commercially available and that provide long-term protection against future leaks.
+Safety, administrative and technical considerations, as referred to in this paragraph, shall be limited to:
+(a)
+the safety of personnel and other persons in proximity to the detected leak;
+(b)
+any adverse environmental impact if the operator can demonstrate that that impact would be greater than the environmental benefits, for example where a repair could lead to a higher overall level of methane emissions than would be the case in the absence of the repair;
+(c)
+accessibility of a component, including scheduled maintenance, permitting process requirements or required administrative authorisation;
+(d)
+unavailability of replacement parts necessary for the repair of the component or of replacement components; and
+(e)
+significant deterioration of the gas supply situation likely to lead to a crisis level as referred to in Article 11(1) of Regulation (EU) 2017/1938 of the European Parliament and of the Council (25).
+10.   Where one or more of the conditions set out in paragraph 9, sixth subparagraph, points (a) to (e), apply and a shutdown is required before the repair or replacement can be undertaken, operators shall minimise the leak within 24 hours of detection and shall repair the leak by the end of the next scheduled shutdown or within a year, whichever is sooner, unless carrying out an earlier repair could reasonably be expected to lead to a situation whereby the amount of methane vented during repair operations would very likely be significantly higher than the amount of methane that would leak in the absence of a repair, or unless carrying out an earlier repair could reasonably be expected to lead to security of supply issues in small connected systems as defined in Directive (EU) 2019/944.
+An operator shall, without delay, provide all the necessary evidence justifying its decision to delay repair to the competent authorities.
+A decision to delay repair due to safety, administrative and technical considerations shall be subject to approval by the competent authorities and shall be included in the repair and monitoring schedules. The competent authorities may require the operator concerned to amend the repair and monitoring schedules taking into account the requirements of this Regulation.
+11.   Operators shall establish without delay, keep updated and make fully available to the competent authorities a record of all decisions to delay repair pursuant to this Article, including all necessary evidence justifying each decision and the corresponding repair and monitoring schedules.
+12.   Notwithstanding paragraph 2, operators shall survey components that were found to be emitting:
+(a)
+at levels of methane equal to or higher than the thresholds set out in paragraph 8 at standard temperature and pressure during a previous LDAR survey, immediately after the repair carried out pursuant to paragraph 9 and no later than 45 days thereafter, to ensure that the repair was successful; and
+(b)
+at levels of methane lower than the thresholds set out in paragraph 8 at standard temperature and pressure, no later than 3 months from the date on which the emissions were detected, to check at least once whether the size of methane loss has changed and whether a repair is necessary.
+Where a higher safety risk or a higher risk of methane leaks is identified, the competent authorities may recommend that LDAR surveys of the relevant components take place more frequently.
+13.   Without prejudice to the reporting obligations pursuant to paragraph 14, operators shall record all identified leaks, irrespective of their size, and shall regularly survey them and ensure that they are repaired in accordance with paragraph 9.
+Operators shall keep the record for at least 10 years and shall provide that information to competent authorities upon their request.
+14.   Every year, operators shall submit all repair and monitoring schedules and a report summarising the results of all LDAR surveys completed during the previous year to the competent authorities of the Member State where the relevant assets are located.
+The competent authorities may require operators to amend the report or the repair and monitoring schedules taking into account the requirements of this Regulation.
+15.   Operators may delegate any of the tasks set out in this Article. Delegated tasks shall not affect the responsibility of operators and shall not impact the effectiveness of supervision by the competent authorities.
+16.   Member States shall ensure that certification, accreditation schemes or equivalent qualification schemes, including suitable training programmes, are available to LDAR service providers and to operators with respect to the LDAR surveys.
+17.   Without prejudice to Directives 2008/56/EC (26) and 2013/30/EU (27) of the European Parliament and of the Council, the competent authorities may decide to exempt offshore oil and gas components located in their territory at a water depth greater than 700 metres from the requirements under this Article if the operator concerned can provide robust evidence that the impact on the climate of potential methane emissions from those components is highly likely to be negligible.

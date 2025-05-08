@@ -1,0 +1,23 @@
+Article 15
+Third-party access services concerning storage and LNG facilities
+1.   LNG and storage system operators shall:
+(a)
+offer services on a non-discriminatory basis to all network users that accommodate market demand; in particular, where an LNG or storage system operator offers the same service to different customers, it shall do so under equivalent contractual terms and conditions;
+(b)
+offer services that are compatible with the use of the interconnected gas transport systems and facilitate access through cooperation with the transmission system operator; and
+(c)
+make relevant information public, in particular data on the use and availability of services, in a time-frame compatible with the LNG or storage facility users' reasonable commercial needs, subject to the monitoring of such publication by the national regulatory authority.
+2.   Each storage system operator shall:
+(a)
+provide both firm and interruptible third-party access services; the price of interruptible capacity shall reflect the probability of interruption;
+(b)
+offer to storage facility users both long and short-term services; and
+(c)
+offer to storage facility users both bundled and unbundled services of storage space, injectability and deliverability.
+3.   LNG and storage facility contracts shall not result in arbitrarily higher tariffs in cases in which they are signed:
+(a)
+outside a natural gas year with non-standard start dates; or
+(b)
+with a shorter duration than a standard LNG and storage facility contract on an annual basis.
+4.   Where appropriate, third-party access services may be granted subject to appropriate guarantees from network users with respect to the creditworthiness of such users. Such guarantees shall not constitute undue market-entry barriers and shall be non-discriminatory, transparent and proportionate.
+5.   Contractual limits on the required minimum size of LNG facility capacity and storage capacity shall be justified on the basis of technical constrains and shall permit smaller storage users to gain access to storage services.

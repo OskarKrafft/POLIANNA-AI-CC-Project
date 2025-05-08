@@ -1,0 +1,72 @@
+Article 3
+1.   For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘collective investment undertaking’ means an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU;
+(b)
+‘qualifying social entrepreneurship fund’ means a collective investment undertaking that:
+(i)
+intends to invest at least 70 % of its aggregate capital contributions and uncalled committed capital in assets that are qualifying investments, calculated on the basis of amounts investible after deduction of all relevant costs and holdings in cash and cash equivalents, within a time frame laid down in its rules or instruments of incorporation;
+(ii)
+does not use more than 30 % of its aggregate capital contributions and uncalled committed capital for the acquisition of assets other than qualifying investments, calculated on the basis of amounts investible after deduction of all relevant costs and holdings in cash and cash equivalents;
+(iii)
+is established within the territory of a Member State;
+(c)
+‘manager of a qualifying social entrepreneurship fund’ means a legal person the regular business of which is managing at least one qualifying social entrepreneurship fund;
+(d)
+‘qualifying portfolio undertaking’ means an undertaking that:
+(i)
+at the time of an investment by the qualifying social entrepreneurship fund is not admitted to trading on a regulated market or on a multilateral trading facility (MTF) as defined in point (14) and point (15) of Article 4(1) of Directive 2004/39/EC;
+(ii)
+has the achievement of measurable, positive social impacts as its primary objective in accordance with its articles of association, statutes or any other rules or instruments of incorporation establishing the business, where the undertaking:
+—
+provides services or goods to vulnerable or marginalised, disadvantaged or excluded persons,
+—
+employs a method of production of goods or services that embodies its social objective, or
+—
+provides financial support exclusively to social undertakings as defined in the first two indents;
+(iii)
+uses its profits primarily to achieve its primary social objective in accordance with its articles of association, statutes or any other rules or instruments of incorporation establishing the business and with the predefined procedures and rules therein, which determine the circumstances in which profits are distributed to shareholders and owners to ensure that any such distribution of profits does not undermine its primary objective;
+(iv)
+is managed in an accountable and transparent way, in particular by involving workers, customers and stakeholders affected by its business activities;
+(v)
+is established within the territory of a Member State, or in a third country provided that the third country:
+—
+is not listed as a Non-Cooperative Country and Territory by the Financial Action Task Force on Anti-Money Laundering and Terrorist Financing,
+—
+has signed an agreement with the home Member State of the manager of a qualifying social entrepreneurship fund and with each other Member State in which the units or shares of the qualifying social entrepreneurship fund are intended to be marketed to ensure that the third country fully complies with the standards laid down in Article 26 of the OECD Model Tax Convention on Income and on Capital and ensures an effective exchange of information in tax matters, including any multilateral tax agreements;
+(e)
+‘qualifying investments’ means any of the following instruments:
+(i)
+equity or quasi-equity instruments that are issued by:
+—
+a qualifying portfolio undertaking and acquired directly by the qualifying social entrepreneurship fund from the qualifying portfolio undertaking,
+—
+a qualifying portfolio undertaking in exchange for an equity security issued by the qualifying portfolio undertaking, or
+—
+an undertaking of which the qualifying portfolio undertaking is a majority-owned subsidiary and which is acquired by the qualifying social entrepreneurship fund in exchange for an equity instrument issued by the qualifying portfolio undertaking;
+(ii)
+securitised and un-securitised debt instruments, issued by a qualifying portfolio undertaking;
+(iii)
+units or shares of one or several other qualifying social entrepreneurship funds, provided that those qualifying social entrepreneurship funds have not themselves invested more than 10 % of their aggregate capital contributions and uncalled committed capital in qualifying social entrepreneurship funds;
+(iv)
+secured or unsecured loans granted by the qualifying social entrepreneurship fund to a qualifying portfolio undertaking;
+(v)
+any other type of participation in a qualifying portfolio undertaking;
+(f)
+‘relevant costs’ means all fees, charges and expenses which are directly or indirectly borne by investors and which are agreed between the manager of a qualifying social entrepreneurship fund and the investors therein;
+(g)
+‘equity’ means ownership interest in an undertaking, represented by the shares or other forms of participation in the capital of the qualifying portfolio undertaking issued to its investors;
+(h)
+‘quasi-equity’ means any type of financing instrument which is a combination of equity and debt, where the return on the instrument is linked to the profit or loss of the qualifying portfolio undertaking and where the repayment of the instrument in the event of default is not fully secured;
+(i)
+‘marketing’ means a direct or indirect offering or placement at the initiative of the manager of a qualifying social entrepreneurship fund, or on its behalf, of units or shares of a qualifying social entrepreneurship fund that is managed by that manager to or with investors domiciled or with a registered office in the Union;
+(j)
+‘committed capital’ means any commitment pursuant to which an investor is obliged, within the time frame laid down in the rules or instruments of incorporation of the qualifying social entrepreneurship fund, to acquire an interest in, or to make capital contributions to, that fund;
+(k)
+‘home Member State’ means the Member State where the manager of a qualifying social entrepreneurship fund is established and is subject to registration with the competent authorities in accordance with point (a) of Article 3(3) of Directive 2011/61/EU;
+(l)
+‘host Member State’ means the Member State, other than the home Member State, where the manager of a qualifying social entrepreneurship fund markets qualifying social entrepreneurship funds in accordance with this Regulation;
+(m)
+‘competent authority’ means the national authority which the home Member State designates, by law or regulation, to undertake the registration of managers of collective investment undertakings falling within the scope of this Regulation.
+With regard to point (c) of the first subparagraph, where the legal form of a qualifying social entrepreneurship fund permits internal management and where the governing body of the fund does not appoint an external manager, the qualifying social entrepreneurship fund itself shall be registered as the manager of a qualifying social entrepreneurship fund in accordance with Article 15. A qualifying social entrepreneurship fund that is registered as an internal manager of a social entrepreneurship fund shall not be registered as an external manager of a qualifying social entrepreneurship fund of other collective investment undertakings.
+2.   The Commission shall be empowered to adopt delegated acts in accordance with Article 26 specifying the types of services or goods and the methods of production of services or goods that embody a social objective referred to in point (ii) of point (d) of paragraph 1 of this Article taking into account the different kinds of qualifying portfolio undertakings and those circumstances in which profits can be distributed to owners and investors.

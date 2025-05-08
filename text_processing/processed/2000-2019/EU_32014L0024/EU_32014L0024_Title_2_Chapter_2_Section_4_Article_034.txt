@@ -1,0 +1,32 @@
+Article 34
+Dynamic purchasing systems
+1.   For commonly used purchases the characteristics of which, as generally available on the market, meet the requirements of the contracting authorities, contracting authorities may use a dynamic purchasing system. The dynamic purchasing system shall be operated as a completely electronic process, and shall be open throughout the period of validity of the purchasing system to any economic operator that satisfies the selection criteria. It may be divided into categories of products, works or services that are objectively defined on the basis of characteristics of the procurement to be undertaken under the category concerned. Such characteristics may include reference to the maximum allowable size of the subsequent specific contracts or to a specific geographic area in which subsequent specific contracts will be performed.
+2.   In order to procure under a dynamic purchasing system, contracting authorities shall follow the rules of the restricted procedure. All the candidates satisfying the selection criteria shall be admitted to the system, and the number of candidates to be admitted to the system shall not be limited in accordance with Article 65. Where contracting authorities have divided the system into categories of products, works or services in accordance with paragraph 1 of this Article, they shall specify the applicable selection criteria for each category.
+Notwithstanding Article 28, the following time limits shall apply:
+(a)
+the minimum time limit for receipt of requests to participate shall be 30 days from the date on which the contract notice or, where a prior information notice is used as a means of calling for competition, the invitation to confirm interest is sent. No further time limits for receipt of requests to participate shall apply once the invitation to tender for the first specific procurement under the dynamic purchasing system has been sent;
+(b)
+the minimum time limit for receipt of tenders shall be at least 10 days from the date on which the invitation to tender is sent. Where appropriate, Article 28(4) shall apply. Article 28(3) and (5) shall not apply.
+3.   All communications in the context of a dynamic purchasing system shall only be made by electronic means in accordance with Article 22(1), (3), (5) and (6).
+4.   For the purposes of awarding contracts under a dynamic purchasing system, contracting authorities shall:
+(a)
+publish a call for competition making it clear that a dynamic purchasing system is involved;
+(b)
+indicate in the procurement documents at least the nature and estimated quantity of the purchases envisaged, as well as all the necessary information concerning the dynamic purchasing system, including how the dynamic purchasing system operates, the electronic equipment used and the technical connection arrangements and specifications;
+(c)
+indicate any division into categories of products, works or services and the characteristics defining them;
+(d)
+offer unrestricted and full direct access, as long as the system is valid, to the procurement documents in conformity with Article 53.
+5.   Contracting authorities shall give any economic operator, throughout the entire period of validity of the dynamic purchasing system, the possibility of requesting to participate in the system under the conditions referred to in paragraph 2. Contracting authorities shall finalise their assessment of such requests in accordance with the selection criteria within 10 working days following their receipt. That deadline may be prolonged to 15 working days in individual cases where justified, in particular because of the need to examine additional documentation or to otherwise verify whether the selection criteria are met.
+Notwithstanding the first subparagraph, as long as the invitation to tender for the first specific procurement under the dynamic purchasing system has not been sent, contracting authorities may extend the evaluation period provided that no invitation to tender is issued during the extended evaluation period. Contracting authorities shall indicate in the procurement documents the length of the extended period that they intend to apply.
+Contracting authorities shall inform the economic operator concerned at the earliest possible opportunity of whether or not it has been admitted to the dynamic purchasing system.
+6.   Contracting authorities shall invite all admitted participants to submit a tender for each specific procurement under the dynamic purchasing system, in accordance with Article 54. Where the dynamic purchasing system has been divided into categories of works, products or services, contracting authorities shall invite all participants having been admitted to the category corresponding to the specific procurement concerned to submit a tender.
+They shall award the contract to the tenderer that submitted the best tender on the basis of the award criteria set out in the contract notice for the dynamic purchasing system or, where a prior information notice is used as a means of calling for competition, in the invitation to confirm interest. Those criteria may, where appropriate, be formulated more precisely in the invitation to tender.
+7.   Contracting authorities may, at any time during the period of validity of the dynamic purchasing system, require admitted participants to submit a renewed and updated self-declaration as provided for in Article 59(1), within five working days from the date on which that request is transmitted.
+Article 59(4) to (6) shall apply throughout the entire period of validity of the dynamic purchasing system.
+8.   Contracting authorities shall indicate the period of validity of the dynamic purchasing system in the call for competition. They shall notify the Commission of any change in the period of validity, using the following standard forms:
+(a)
+where the period of validity is changed without terminating the system, the form used initially for the call for competition for the dynamic purchasing system;
+(b)
+where the system is terminated, a contract award notice referred to in Article 50.
+9.   No charges may be billed prior to or during the period of validity of the dynamic purchasing system to the economic operators interested in or party to the dynamic purchasing system.

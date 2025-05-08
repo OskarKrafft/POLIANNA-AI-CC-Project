@@ -1,0 +1,36 @@
+Article 12
+Market manipulation
+1.   For the purposes of this Regulation, market manipulation shall comprise the following activities:
+(a)
+entering into a transaction, placing an order to trade or any other behaviour which:
+(i)
+gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of, a financial instrument, a related spot commodity contract or an auctioned product based on emission allowances; or
+(ii)
+secures, or is likely to secure, the price of one or several financial instruments, a related spot commodity contract or an auctioned product based on emission allowances at an abnormal or artificial level;
+unless the person entering into a transaction, placing an order to trade or engaging in any other behaviour establishes that such transaction, order or behaviour have been carried out for legitimate reasons, and conform with an accepted market practice as established in accordance with Article 13;
+(b)
+entering into a transaction, placing an order to trade or any other activity or behaviour which affects or is likely to affect the price of one or several financial instruments, a related spot commodity contract or an auctioned product based on emission allowances, which employs a fictitious device or any other form of deception or contrivance;
+(c)
+disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of, a financial instrument, a related spot commodity contract or an auctioned product based on emission allowances or secures, or is likely to secure, the price of one or several financial instruments, a related spot commodity contract or an auctioned product based on emission allowances at an abnormal or artificial level, including the dissemination of rumours, where the person who made the dissemination knew, or ought to have known, that the information was false or misleading;
+(d)
+transmitting false or misleading information or providing false or misleading inputs in relation to a benchmark where the person who made the transmission or provided the input knew or ought to have known that it was false or misleading, or any other behaviour which manipulates the calculation of a benchmark.
+2.   The following behaviour shall, inter alia, be considered as market manipulation:
+(a)
+the conduct by a person, or persons acting in collaboration, to secure a dominant position over the supply of or demand for a financial instrument, related spot commodity contracts or auctioned products based on emission allowances which has, or is likely to have, the effect of fixing, directly or indirectly, purchase or sale prices or creates, or is likely to create, other unfair trading conditions;
+(b)
+the buying or selling of financial instruments, at the opening or closing of the market, which has or is likely to have the effect of misleading investors acting on the basis of the prices displayed, including the opening or closing prices;
+(c)
+the placing of orders to a trading venue, including any cancellation or modification thereof, by any available means of trading, including by electronic means, such as algorithmic and high-frequency trading strategies, and which has one of the effects referred to in paragraph 1(a) or (b), by:
+(i)
+disrupting or delaying the functioning of the trading system of the trading venue or being likely to do so;
+(ii)
+making it more difficult for other persons to identify genuine orders on the trading system of the trading venue or being likely to do so, including by entering orders which result in the overloading or destabilisation of the order book; or
+(iii)
+creating or being likely to create a false or misleading signal about the supply of, or demand for, or price of, a financial instrument, in particular by entering orders to initiate or exacerbate a trend;
+(d)
+the taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about a financial instrument, related spot commodity contract or an auctioned product based on emission allowances (or indirectly about its issuer) while having previously taken positions on that financial instrument, a related spot commodity contract or an auctioned product based on emission allowances and profiting subsequently from the impact of the opinions voiced on the price of that instrument, related spot commodity contract or an auctioned product based on emission allowances, without having simultaneously disclosed that conflict of interest to the public in a proper and effective way;
+(e)
+the buying or selling on the secondary market of emission allowances or related derivatives prior to the auction held pursuant to Regulation (EU) No 1031/2010 with the effect of fixing the auction clearing price for the auctioned products at an abnormal or artificial level or misleading bidders bidding in the auctions.
+3.   For the purposes of applying paragraph 1(a) and (b), and without prejudice to the forms of behaviour set out in paragraph 2, Annex I defines non-exhaustive indicators relating to the employment of a fictitious device or any other form of deception or contrivance, and non-exhaustive indicators related to false or misleading signals and to price securing.
+4.   Where the person referred to in this Article is a legal person, this Article shall also apply, in accordance with national law, to the natural persons who participate in the decision to carry out activities for the account of the legal person concerned.
+5.   The Commission shall be empowered to adopt delegated acts in accordance with Article 35 specifying the indicators laid down in Annex I, in order to clarify their elements and to take into account technical developments on financial markets.

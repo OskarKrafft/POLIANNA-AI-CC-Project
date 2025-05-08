@@ -1,0 +1,42 @@
+Article 2
+Regulation (EU) 2018/1999 is amended as follows:
+(1)
+in Article 2, the following points are added:
+‘(63)
+“geographic information system” means a computer system capable of capturing, storing, analysing, and displaying geographically referenced information;
+(64)
+“geo-spatial application” means an electronic application form that includes an IT application based on a geographic information system that allows beneficiaries to spatially declare the agricultural parcels of the holding and non-agricultural areas claimed for payment.’;
+(2)
+in Article 4, point (a)(1)(ii) is replaced by the following:
+‘(ii)
+the Member State’s commitments and national targets for net greenhouse gas removals pursuant to Article 4(1) and (2) of Regulation (EU) 2018/841;’;
+(3)
+in Article 9(2), the following point is added:
+‘(e)
+consistency of relevant financing measures, including the relevant share of revenues generated from the auctioning of EU ETS allowances under Directive 2003/87/EC that are used for land use, land-use change and forestry, Union support and the use of Union funds such as instruments of the Common Agricultural Policy, policies and measures, with regard to the achievement of the commitments, targets and budgets of the Member States set in accordance with Article 4 of Regulation (EU) 2018/841.’;
+(4)
+in Article 26(6), the following point is added:
+‘(c)
+amend Part 3 of Annex V to update the list of categories in accordance with relevant Union legislation.’;
+(5)
+in Article 37, the following paragraph is inserted:
+‘4a.   Where the Commission finds during the initial check carried out pursuant to paragraph 4 of this Article a difference between the annual average of net removals in the years specified in Article 4(2) of Regulation (EU) 2018/841 reported by any Member State in the 2020 and 2023 or subsequent submission of the greenhouse gas inventory that is greater than 500 kt CO2 equivalent, the Commission shall verify:
+(a)
+the transparency, accuracy, consistency, comparability and completeness of information submitted; and
+(b)
+that LULUCF reporting is carried out in a manner which is consistent with UNFCCC guidance documentation or Union rules.
+The Commission shall make the results of that verification publicly available.’
+(6)
+Article 38 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘1a.   In 2025, the Commission shall carry out a comprehensive review of the national inventory data submitted by Member States pursuant to Article 26(4) of this Regulation, in order to determine the annual targets of net greenhouse gas emissions reduction of the Member States pursuant to Article 4(3) of Regulation (EU) 2018/841 and in order to determine the annual emission allocations of the Member States pursuant to Article 4(3) of Regulation (EU) 2018/842.’
+(b)
+in paragraph 2, the introductory wording is replaced by the following:
+
+                                          ‘The comprehensive review referred to in paragraphs 1 and 1a shall include:’;
+(c)
+paragraph 4 is replaced by the following:
+‘4.   Upon completion of the comprehensive review carried out pursuant to paragraph 1 of this Article, the Commission shall, by means of implementing acts, determine the total sum of emissions for the relevant years arising from the corrected inventory data for each Member State, split between emission data relevant for Article 9 of Regulation (EU) 2018/842 and emission data referred to in Part 1, point (c), of Annex V to this Regulation, and determine the total sum of emissions and removals relevant for Article 4 of Regulation (EU) 2018/841.’
+(7)
+Annex V is amended in accordance with Annex V to this amending Regulation.

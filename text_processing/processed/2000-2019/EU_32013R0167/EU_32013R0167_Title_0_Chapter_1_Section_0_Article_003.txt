@@ -1,0 +1,165 @@
+Article 3
+Definitions
+For the purposes of this Regulation and of the acts listed in Annex I, except as otherwise provided therein, the following definitions shall apply:
+(1)
+‘type-approval’ means the procedure whereby an approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements;
+(2)
+‘whole-vehicle type-approval’ means a type-approval whereby an approval authority certifies that an incomplete, complete or completed vehicle type satisfies the relevant administrative provisions and technical requirements;
+(3)
+‘system type-approval’ means a type-approval whereby an approval authority certifies that a system built into a vehicle of a specific type satisfies the relevant administrative provisions and technical requirements;
+(4)
+‘component type-approval’ means a type-approval whereby an approval authority certifies that a component independently of a vehicle satisfies the relevant administrative provisions and technical requirements;
+(5)
+‘separate technical unit type-approval’ means a type-approval whereby an approval authority certifies that a separate technical unit satisfies the relevant administrative provisions and technical requirements in relation to one or more specified types of vehicles;
+(6)
+‘national type-approval’ means a type-approval procedure laid down by the national law of a Member State, the validity of such approval being restricted to the territory of that Member State;
+(7)
+‘EU type-approval’ means the procedure whereby an approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of this Regulation;
+(8)
+‘tractor’ means any motorised, wheeled or tracked agricultural or forestry vehicle having at least two axles and a maximum design speed of not less than 6 km/h, the main function of which lies in its tractive power and which has been especially designed to pull, push, carry and actuate certain interchangeable equipment designed to perform agricultural or forestry work, or to tow agricultural or forestry trailers or equipment; it may be adapted to carry a load in the context of agricultural or forestry work and/or may be equipped with one or more passenger seats;
+(9)
+‘trailer’ means any agricultural or forestry vehicle intended mainly to be towed by a tractor and intended mainly to carry loads or to process materials and where the ratio of the technically permissible maximum laden mass to the unladen mass of that vehicle is equal to or greater than 3,0;
+(10)
+‘interchangeable towed equipment’ means any vehicle used in agriculture or forestry which is designed to be towed by a tractor, changes or adds to its functions, permanently incorporates an implement or is designed to process materials, which may include a load platform designed and constructed to receive any tools and appliances needed for those purposes and to store temporarily any materials produced or needed during work and where the ratio of the technically permissible maximum laden mass to the unladen mass of that vehicle is less than 3,0;
+(11)
+‘vehicle’ means any tractor, trailer or interchangeable towed equipment as defined in points 8, 9 and 10;
+(12)
+‘base vehicle’ means any vehicle which is used at the initial stage of a multi-stage type-approval process;
+(13)
+‘incomplete vehicle’ means any vehicle which must undergo at least one further stage of completion in order to meet the relevant technical requirements of this Regulation;
+(14)
+‘completed vehicle’ means a vehicle, resulting from the process of multi-stage type-approval, which meets the relevant technical requirements of this Regulation;
+(15)
+‘complete vehicle’ means any vehicle which need not be completed in order to meet the relevant technical requirements of this Regulation;
+(16)
+‘end-of-series vehicle’ means any vehicle that is part of a stock which cannot be made available on the market or can no longer be made available on the market, registered or enter into service owing to the entry into force of new technical requirements against which it has not been approved;
+(17)
+‘system’ means an assembly of devices combined to perform one or more specific functions in a vehicle and which is subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation;
+(18)
+‘component’ means a device subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation, which is intended to be part of a vehicle and which may be type-approved independently of a vehicle in accordance with this Regulation and the delegated or implementing acts adopted pursuant to this Regulation, where such acts make express provision for so doing;
+(19)
+‘separate technical unit’ means a device subject to the requirements of this Regulation or any of the delegated or implementing acts adopted pursuant to this Regulation and intended to be part of a vehicle, which may be type-approved separately but only in relation to one or more specified types of vehicle, where such acts make express provision for so doing;
+(20)
+‘parts’ means goods used for the assembly of a vehicle as well as spare parts;
+(21)
+‘equipment’ means any goods other than parts which can be added to or installed on a vehicle;
+(22)
+‘original parts or equipment’ means parts or equipment which are manufactured according to the specifications and production standards provided by the vehicle manufacturer for the production of parts or equipment for the assembly of the vehicle in question; this includes parts or equipment which are manufactured on the same production line as these parts or equipment; it is presumed, unless the contrary is proven, that parts or equipment constitute original parts or equipment if the manufacturer certifies that the parts or equipment match the quality of the components used for the assembly of the vehicle in question and have been manufactured in accordance with the specifications and production standards of the vehicle manufacturer;
+(23)
+‘spare parts’ means goods which are to be installed in or on a vehicle so as to replace original parts of that vehicle, including goods such as lubricants which are necessary for the use of a vehicle, with the exception of fuel;
+(24)
+‘functional safety’ means the absence of unacceptable risk of physical injury or of damage to the health of persons or to property owing to hazards caused by mal-functional behaviour of mechanical, hydraulic, pneumatic, electrical or electronic systems, components or separate technical units;
+(25)
+‘manufacturer’ means any natural or legal person who is responsible to the approval authority for all aspects of the type-approval or authorisation process, for ensuring conformity of production and who is also responsible for market surveillance concerns for the vehicles, systems, components and separate technical units produced, whether or not the natural or legal person is directly involved in all stages of the design and construction of the vehicle, system, component or separate technical unit which is the subject of the approval process;
+(26)
+‘manufacturer’s representative’ means any natural or legal person established in the Union who is duly appointed by the manufacturer to represent the manufacturer before the approval authority or the market surveillance authority and to act on the manufacturer’s behalf in matters covered by this Regulation;
+(27)
+‘approval authority’ means the authority of a Member State established or appointed by the Member State and notified to the Commission by the Member State with competence for all aspects of the approval of a type of vehicle, system, component or separate technical unit, for the authorisation process, for issuing and, if appropriate, withdrawing or refusing approval certificates, for acting as the contact point for the approval authorities of other Member States, for designating the technical services and for ensuring that the manufacturer meets his obligations regarding the conformity of production;
+(28)
+‘technical service’ means an organisation or body designated by the approval authority of a Member State as a testing laboratory to carry out tests, or as a conformity assessment body to carry out the initial assessment and other tests or inspections, on behalf of the approval authority, it being possible for the approval authority itself to carry out those functions;
+(29)
+‘self-testing’ means the performance of tests in its own facilities, the registration of the test results and the submission of a report, including conclusions, to the approval authority by a manufacturer who has been designated as technical service in order to assess the compliance with certain requirements;
+(30)
+‘virtual testing method’ means computer simulations, including calculations, to demonstrate whether a vehicle, a system, a component or a separate technical unit fulfils the technical requirements of a delegated act adopted pursuant to Article 27(6) without requiring the use of a physical vehicle, system, component or separate technical unit;
+(31)
+‘type-approval certificate’ means the document whereby the approval authority officially certifies that a type of vehicle, system, component or separate technical unit is approved;
+(32)
+‘EU type-approval certificate’ means the certificate based on the template set out in the implementing act adopted pursuant to this Regulation or the communication form set out in the relevant UNECE regulations referred to in this Regulation or in the delegated acts adopted pursuant to this Regulation;
+(33)
+‘certificate of conformity’ means the document issued by the manufacturer, which certifies that the produced vehicle conforms to the approved vehicle type;
+(34)
+‘on-board diagnostic system’ or ‘OBD system’ means a system which has the capability to identify the likely area of malfunction by means of fault codes stored in a computer memory;
+(35)
+‘vehicle repair and maintenance information’ means all information required for diagnosis, servicing, inspection, periodic monitoring, repair, reprogramming or reinitialising of the vehicle and which the manufacturers provide for their authorised dealers and repairers, including all subsequent amendments and supplements to such information; that information includes all information required for the fitting of parts and equipment on vehicles;
+(36)
+‘independent operator’ means undertakings other than authorised dealers and repairers which are directly or indirectly involved in the repair and maintenance of vehicles, in particular repairers, manufacturers or distributors of repair equipment, tools or spare parts, publishers of technical information, automobile clubs, roadside assistance operators, operators offering inspection and testing services, operators offering training for installers, manufacturers and repairers of equipment for alternative fuel vehicles;
+(37)
+‘new vehicle’ means a vehicle which has never been previously registered or entered into service;
+(38)
+‘registration’ means the administrative authorisation for the entry into service including for road traffic of a vehicle, involving the identification of the latter and the issuing to it of a serial number to be known as the registration number, be it permanently, temporarily or for a short period of time;
+(39)
+‘placing on the market’ means making available a vehicle, system, component, separate technical unit, part or equipment for the first time in the Union;
+(40)
+‘entry into service’ means the first use, for its intended purpose, in the Union, of a vehicle, system, component, separate technical unit, part or equipment;
+(41)
+‘importer’ means any natural or legal person established in the Union who places on the market a vehicle, system, component, separate technical unit, part or equipment from a third country;
+(42)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes available a vehicle, system, component, separate technical unit, part or equipment on the market;
+(43)
+‘economic operator’ means the manufacturer, the manufacturer’s representative, the importer or the distributor;
+(44)
+‘market surveillance’ means the activities carried out and measures taken by national authorities to ensure that vehicles, systems, components or separate technical units made available on the market comply with the requirements set out in the relevant Union harmonisation legislation and do not endanger health, safety or any other aspect of public interest protection;
+(45)
+‘market surveillance authority’ means an authority of a Member State responsible for carrying out market surveillance on its territory;
+(46)
+‘national authority’ means an approval authority or any other authority involved in and responsible for market surveillance, border control or registration in a Member State in respect of vehicles, systems, components, separate technical units, parts or equipment;
+(47)
+‘making available on the market’ means any supply of a vehicle, system, component, separate technical unit, part or equipment for distribution or use on the market in the course of a commercial activity, whether in return for payment or free of charge;
+(48)
+‘vehicle type’ means a group of vehicles, including variants and versions of the same category, that do not differ in at least the following essential respects:
+—
+category,
+—
+manufacturer,
+—
+type designation given by the manufacturer,
+—
+essential construction and design characteristics,
+—
+backbone chassis/chassis with side members/articulated chassis (obvious and fundamental differences),
+—
+for category T: axles (number) or, for category C: axles/tracks (number),
+—
+in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle;
+(49)
+‘variant’ means vehicles of the same type which do not differ in at least the following respects:
+(a)
+for tractors:
+—
+body structural concept or type of body work,
+—
+stage of completion,
+—
+engine (internal combustion/hybrid/electric/hybrid-electric),
+—
+operating principle,
+—
+number and arrangement of cylinders,
+—
+power difference of no more than 30 % (the highest power being no more than 1,3 times the lowest power),
+—
+cylinder capacity difference of no more than 20 % (the highest figure being no more than 1,2 times the lowest figure),
+—
+powered axles (number, position, interconnection),
+—
+steered axles (number and position),
+—
+maximum laden mass differing by no more than 10 %,
+—
+transmission (type),
+—
+rollover protection structure,
+—
+braked axles (number);
+(b)
+for trailers or interchangeable towed equipment:
+—
+steering axles (number, position, interconnection),
+—
+maximum laden mass differing by no more than 10 %,
+—
+braked axles (number);
+(50)
+‘hybrid vehicle’ means a powered vehicle equipped with at least two different energy converters and two different energy storage systems (on-vehicle) for the purpose of vehicle propulsion;
+(51)
+‘hybrid electric vehicle’ means a vehicle that, for the purpose of mechanical propulsion, draws energy from both of the following on-vehicle sources of stored energy/power:
+(a)
+a consumable fuel;
+(b)
+a battery, capacitor, flywheel/generator or other electrical energy or power storage device.
+This definition also includes vehicles which draw energy from a consumable fuel only for the purpose of recharging the electrical energy/power storage device;
+(52)
+‘pure electric vehicle’ means a vehicle powered by a system consisting of one or more electric energy storage devices, one or more electric power conditioning devices and one or more electric machines that convert stored electric energy to mechanical energy delivered at the wheels for propulsion of the vehicle;
+(53)
+‘version of a variant’ means vehicles which consist of a combination of items shown in the information package referred to in Article 24(10).
+References in this Regulation to requirements, procedures or arrangements laid down in this Regulation shall be read as references to such requirements, procedures or arrangements laid down in this Regulation and in the delegated and implementing acts adopted pursuant to this Regulation.

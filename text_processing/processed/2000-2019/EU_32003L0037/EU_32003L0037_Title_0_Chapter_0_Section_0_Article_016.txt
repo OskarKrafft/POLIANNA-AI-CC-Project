@@ -1,0 +1,11 @@
+Article 16
+Failure to conform to the approved type
+1. Failure to conform to the approved type occurs where deviations from the particulars in the EC type-approval certificate and/or the information package are found and where these deviations have not been authorised under Article 5(3) by the Member State which granted the EC type-approval.
+A vehicle is not to be considered to deviate from the approved type where the tolerances permitted by separate directives are met.
+2. If a Member State which has granted EC type-approval finds that vehicles, systems, components or separate technical units accompanied by a certificate of conformity or bearing an EC type-approval mark do not conform to the type it has approved, it shall take the necessary measures to ensure that the vehicles, systems, components or separate technical units produced conform to the approved type.
+The EC type-approval authority in that Member State shall inform those of the other Member States and the Commission of the measures taken, which may extend to withdrawal of EC type-approval.
+3. The authority responsible for EC type-approval of the vehicle shall ask the Member State which granted EC type-approval of the system, component, separate technical unit or incomplete vehicle to take the necessary action to ensure that the vehicles produced conform to the approved type in the case of:
+(a) EC vehicle type-approval where non-conformity of a vehicle arises exclusively from non-conformity of a system, component or separate technical unit, or
+(b) multi-stage EC type-approval where non-conformity of a completed vehicle arises exclusively from non-conformity of a system, component or separate technical unit forming part of the incomplete vehicle, or of the incomplete vehicle itself.
+It shall forthwith inform the Commission thereof, and paragraph 2 shall apply.
+

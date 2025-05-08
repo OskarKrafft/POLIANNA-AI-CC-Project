@@ -1,0 +1,41 @@
+Article 6
+Content and submission of the monitoring plan
+1.   By 31 August 2017, companies shall submit to the verifiers a monitoring plan for each of their ships indicating the method chosen to monitor and report CO2 emissions and other relevant information.
+2.   Notwithstanding paragraph 1, for ships falling under the scope of this Regulation for the first time after 31 August 2017, the company shall submit a monitoring plan to the verifier without undue delay and no later than two months after each ship's first call in a port under the jurisdiction of a Member State.
+3.   The monitoring plan shall consist of a complete and transparent documentation of the monitoring method for the ship concerned and shall contain at least the following elements:
+(a)
+the identification and type of the ship, including its name, its IMO identification number, its port of registry or home port, and the name of the shipowner;
+(b)
+the name of the company and the address, telephone and e-mail details of a contact person;
+(c)
+a description of the following CO2 emission sources on board the ship: main engines, auxiliary engines, gas turbines, boilers and inert gas generators, and the fuel types used;
+(d)
+a description of the procedures, systems and responsibilities used to update the list of CO2 emission sources over the reporting period;
+(e)
+a description of the procedures used to monitor the completeness of the list of voyages;
+(f)
+a description of the procedures for monitoring the fuel consumption of the ship, including:
+(i)
+the method chosen from among those set out in Annex I for calculating the fuel consumption of each CO2 emission source, including, where applicable, a description of the measuring equipment used,
+(ii)
+the procedures for the measurement of fuel uplifts and fuel in tanks, a description of the measuring equipment used and the procedures for recording, retrieving, transmitting and storing information regarding measurements, as applicable,
+(iii)
+the method chosen for the determination of density, where applicable,
+(iv)
+a procedure to ensure that the total uncertainty of fuel measurements is consistent with the requirements of this Regulation, where possible referring to national laws, clauses in customer contracts or fuel supplier accuracy standards;
+(g)
+single emission factors used for each fuel type, or in the case of alternative fuels, the methodologies for determining the emission factors, including the methodology for sampling, methods of analysis and a description of the laboratories used, with the ISO 17025 accreditation of those laboratories, if any;
+(h)
+a description of the procedures used for determining activity data per voyage, including:
+(i)
+the procedures, responsibilities and data sources for determining and recording the distance,
+(ii)
+the procedures, responsibilities, formulae and data sources for determining and recording the cargo carried and the number of passengers, as applicable,
+(iii)
+the procedures, responsibilities, formulae and data sources for determining and recording the time spent at sea between the port of departure and the port of arrival;
+(i)
+a description of the method to be used to determine surrogate data for closing data gaps;
+(j)
+a revision record sheet to record all the details of the revision history.
+4.   The monitoring plan may also contain information on the ice class of the ship and/or the procedures, responsibilities, formulae and data sources for determining and recording the distance travelled and the time spent at sea when navigating through ice.
+5.   Companies shall use standardised monitoring plans based on templates. Those templates, including the technical rules for their uniform application, shall be determined by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24(2).

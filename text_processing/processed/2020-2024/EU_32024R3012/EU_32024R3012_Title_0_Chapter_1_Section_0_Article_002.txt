@@ -1,0 +1,49 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘carbon removal’ means the anthropogenic removal of carbon from the atmosphere and its durable storage in geological, terrestrial or ocean reservoirs, or in long-lasting products;
+(2)
+‘soil emission reduction’ means the reduction of net greenhouse gas emissions from biogenic carbon pools as listed in Section B, points (e) and (f), of Annex I to Regulation (EU) 2018/841 or the reduction of greenhouse gas emissions from the IPCC source category of agriculture, subcategory of 3.D agricultural soils, as determined pursuant to Regulation (EU) 2018/1999 and the implementing acts adopted pursuant to it, where the relevant activity, overall, reduces the emission of carbon from soil carbon pools or increases carbon removals in biogenic carbon pools;
+(3)
+‘activity’ means one or more practices or processes carried out by an operator, or a group of operators, resulting in a permanent carbon removal, a temporary carbon removal through carbon farming or through carbon storage in products, or soil emission reductions through carbon farming where such carbon farming, overall, reduces the emissions of carbon from soil carbon pools or increases carbon removals in biogenic carbon pools;
+(4)
+‘biogenic carbon pool’ means living biomass, litter, deadwood, dead organic matter, mineral soils and organic soils as listed in Section B, points (a) to (f), of Annex I to Regulation (EU) 2018/841;
+(5)
+‘operator’ means any natural or legal person or public entity that operates or controls an activity, or to whom or to which decisive economic power over the technical functioning of the activity has been delegated; in the case of a carbon farming activity, ‘operator’ means a farmer as defined in Article 3, point (1), of Regulation (EU) 2021/2115, any other manager of an activity in a terrestrial or coastal environment, a forest owner or manager as defined by national law, or a competent public entity;
+(6)
+‘group of operators’ means a legal entity that represents at least two operators and is responsible for ensuring that those operators comply with this Regulation;
+(7)
+‘activity period’ means a period during which the activity generates a net carbon removal benefit or a net soil emission reduction benefit, and which is determined in the applicable certification methodology;
+(8)
+‘monitoring period’ means a period during which the soil emission reduction or storage of carbon is monitored by an operator or a group of operators, which covers at least the activity period, and which is determined in the applicable certification methodology;
+(9)
+‘permanent carbon removal’ means any practice or process that, under normal circumstances and using appropriate management practices, captures and stores atmospheric or biogenic carbon for several centuries, including permanently chemically bound carbon in products, and which is not combined with enhanced hydrocarbon recovery;
+(10)
+‘carbon farming’ means any practice or process carried out over an activity period of at least five years, related to the management of a terrestrial or coastal environment and resulting in the capture and temporary storage of atmospheric or biogenic carbon in biogenic carbon pools, or in the reduction of soil emissions;
+(11)
+‘carbon storage in products’ means any practice or process that captures and stores atmospheric or biogenic carbon for at least 35 years in long-lasting products, allows on-site monitoring of the carbon stored and is certified throughout the monitoring period;
+(12)
+‘permanently chemically bound carbon in products’ means carbon chemically stored within a product with the result that it does not enter the atmosphere under normal use of the product, including any normal activity taking place after the end of life of the product, in accordance with Article 12(3b) of Directive 2003/87/EC;
+(13)
+‘geological storage of CO2’ means geological storage of CO2 as defined in Article 3, point 1, of Directive 2009/31/EC;
+(14)
+‘certification body’ means an accredited or recognised independent conformity assessment body that has concluded an agreement with a certification scheme to carry out certification audits and issue certificates of compliance;
+(15)
+‘certification scheme’ means an organisation that certifies the compliance of activities and operators with the quality criteria and certification rules set out in this Regulation;
+(16)
+‘certification audit’ means an audit carried out by a certification body;
+(17)
+‘re-certification audit’ means an audit carried out in the process of renewing a certificate of compliance issued by a certification body;
+(18)
+‘certificate of compliance’ means a conformity statement issued by a certification body certifying that an activity complies with this Regulation;
+(19)
+‘permanent carbon removal unit’ means one metric tonne of CO2 equivalent of certified permanent net carbon removal benefit generated by a permanent carbon removal activity and registered by a certification scheme in its certification registry or, as applicable, in the Union registry provided for in Article 12;
+(20)
+‘soil emission reduction unit’ means one metric tonne of CO2 equivalent of certified net soil emission reduction benefit generated by a carbon farming activity and registered by a certification scheme in its certification registry or, as applicable, in the Union registry provided for in Article 12;
+(21)
+‘reversal’ means, in the case of geological storage of CO2, leakage as defined in Article 3, point 5, of Directive 2009/31/EC and, for other activities, the voluntary or involuntary release back into the atmosphere of carbon captured and stored by an activity;
+(22)
+‘carbon farming sequestration unit’ means one metric tonne of CO2 equivalent of certified temporary net carbon removal benefit generated by a carbon farming activity and registered by a certification scheme in its certification registry or, as applicable, in the Union registry provided for in Article 12;
+(23)
+‘carbon storage in product unit’ means one metric tonne of CO2 equivalent of certified temporary net carbon removal benefit generated by a carbon storage in product activity and registered by a certification scheme in its certification registry or, as applicable, in the Union registry provided for in Article 12.

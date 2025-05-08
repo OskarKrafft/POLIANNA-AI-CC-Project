@@ -1,0 +1,67 @@
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘pressure equipment’ means vessels, piping, safety accessories and pressure accessories, including, where applicable, elements attached to pressurised parts, such as flanges, nozzles, couplings, supports, lifting lugs;
+(2)
+‘vessel’ means a housing designed and built to contain fluids under pressure including its direct attachments up to the coupling point connecting it to other equipment; a vessel may be composed of more than one chamber;
+(3)
+‘piping’ means piping components intended for the transport of fluids, when connected together for integration into a pressure system; piping includes in particular a pipe or system of pipes, tubing, fittings, expansion joints, hoses, or other pressure-bearing components as appropriate; heat exchangers consisting of pipes for the purpose of cooling or heating air shall be considered as piping;
+(4)
+‘safety accessories’ means devices designed to protect pressure equipment against the allowable limits being exceeded, including devices for direct pressure limitation, such as safety valves, bursting disc safety devices, buckling rods, controlled safety pressure relief systems (CSPRS), and limiting devices, which either activate the means for correction or provide for shutdown or shutdown and lockout, such as pressure switches or temperature switches or fluid level switches and safety related measurement control and regulation (SRMCR) devices;
+(5)
+‘pressure accessories’ means devices with an operational function and having pressure-bearing housings;
+(6)
+‘assemblies’ means several pieces of pressure equipment assembled by a manufacturer to constitute an integrated and functional whole;
+(7)
+‘pressure’ means pressure relative to atmospheric pressure, i.e. gauge pressure. As a consequence, vacuum is designated by a negative value;
+(8)
+‘maximum allowable pressure PS’ means the maximum pressure for which the equipment is designed, as specified by the manufacturer, and defined at a location specified by him, being either the connection of protective and/or limiting devices, or the top of equipment or, if not appropriate, any point specified;
+(9)
+‘maximum/minimum allowable temperature TS’ means the maximum/minimum temperatures for which the equipment is designed, as specified by the manufacturer;
+(10)
+‘volume (V)’ means the internal volume of a chamber, including the volume of nozzles to the first connection or weld and excluding the volume of permanent internal parts;
+(11)
+‘nominal size (DN)’ means a numerical designation of size which is common to all components in a piping system other than components indicated by outside diameters or by thread size; it is a convenient round number for reference purposes and is only loosely related to manufacturing dimensions; the nominal size is designated by DN followed by a number;
+(12)
+‘fluids’ means gases, liquids and vapours in pure phase as well as mixtures thereof; fluids may contain a suspension of solids;
+(13)
+‘permanent joints’ means joints which cannot be disconnected except by destructive methods;
+(14)
+‘European approval for materials’ means a technical document defining the characteristics of materials intended for repeated use in the manufacture of pressure equipment which are not covered by any harmonised standard;
+(15)
+‘making available on the market’ means any supply of pressure equipment or assemblies for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(16)
+‘placing on the market’ means the first making available of pressure equipment or assemblies on the Union market;
+(17)
+‘putting into service’ means the first use of pressure equipment or an assembly by its user;
+(18)
+‘manufacturer’ means any natural or legal person who manufactures pressure equipment or an assembly or has such equipment or assembly designed or manufactured, and markets that pressure equipment or assembly under his name or trademark or uses it for his own purposes;
+(19)
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+(20)
+‘importer’ means any natural or legal person established within the Union who places pressure equipment or assemblies from a third country on the Union market;
+(21)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes pressure equipment or assemblies available on the market;
+(22)
+‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+(23)
+‘technical specification’ means a document that prescribes technical requirements to be fulfilled by pressure equipment or assemblies;
+(24)
+‘harmonised standard’ means harmonised standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012;
+(25)
+‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
+(26)
+‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
+(27)
+‘conformity assessment’ means the process demonstrating whether the essential safety requirements of this Directive relating to pressure equipment or assemblies have been fulfilled;
+(28)
+‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+(29)
+‘recall’ means any measure aimed at achieving the return of pressure equipment or assemblies that have already been made available to consumers or other users;
+(30)
+‘withdrawal’ means any measure aimed at preventing pressure equipment or assemblies in the supply chain from being made available on the market;
+(31)
+‘CE marking’ means a marking by which the manufacturer indicates that the pressure equipment or assembly is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+(32)
+‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products.

@@ -1,0 +1,52 @@
+Article 25
+Scope
+1.   This Section applies to the following contracts and transactions:
+(a)
+derivative contracts listed in Annex II to Regulation (EU) No 575/2013, with the exception of the following:
+(i)
+derivative contracts directly or indirectly cleared through a central counterparty (CCP) where all of the following conditions are met:
+—
+the positions and assets of the investment firm related to those contracts are distinguished and segregated, at the level of both the clearing member and the CCP, from the positions and assets of both the clearing member and the other clients of that clearing member and, as a result of that distinction and segregation, those positions and assets are bankruptcy remote under national law in the event of the default or insolvency of the clearing member or one or more of its other clients,
+—
+laws, regulations, rules and contractual arrangements applicable to or binding the clearing member facilitate the transfer of the client’s positions relating to those contracts and of the corresponding collateral to another clearing member within the applicable margin period of risk in the event of default or insolvency of the original clearing member,
+—
+the investment firm has obtained an independent, written and reasoned legal opinion which concludes that, in the event of a legal challenge, the investment firm would bear no losses on account of the insolvency of its clearing member or of any of its clearing member’s clients;
+(ii)
+exchange‐traded derivative contracts;
+(iii)
+derivative contracts held for hedging a position of the investment firm resulting from a non‐trading book activity;
+(b)
+long settlement transactions;
+(c)
+repurchase transactions;
+(d)
+securities or commodities lending or borrowing transactions;
+(e)
+margin lending transactions;
+(f)
+any other type of SFTs;
+(g)
+credits and loans referred to in point (2) of Section B of Annex I to Directive 2014/65/EU, if the investment firm is executing the trade in the name of the client or receiving and transmitting the order without executing it.
+For the purposes of point (a)(i) of the first subparagraph, derivative contracts directly or indirectly cleared through a QCCP shall be deemed to meet the conditions set out in that point.
+2.   Transactions with the following types of counterparties shall be excluded from the calculation of K‐TCD:
+(a)
+central governments and central banks, where the underlying exposures would receive a 0 % risk weight under Article 114 of Regulation (EU) No 575/2013;
+(b)
+multilateral development banks listed in Article 117(2) of Regulation (EU) No 575/2013;
+(c)
+international organisations listed in Article 118 of Regulation (EU) No 575/2013.
+3.   Subject to the prior approval of the competent authorities, an investment firm may exclude from the scope of the calculation of K‐TCD transactions with a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 22(7) of Directive 2013/34/EU. Competent authorities shall grant approval if the following conditions are fulfilled:
+(a)
+the counterparty is a credit institution, an investment firm, or a financial institution, subject to appropriate prudential requirements;
+(b)
+the counterparty is included in the same prudential consolidation as the investment firm on a full basis in accordance with Regulation (EU) No 575/2013 or Article 7 of this Regulation, or the counterparty and the investment firm are supervised for compliance with the group capital test in accordance with Article 8 of this Regulation;
+(c)
+the counterparty is subject to the same risk evaluation, measurement and control procedures as the investment firm;
+(d)
+the counterparty is established in the same Member State as the investment firm;
+(e)
+there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the investment firm.
+4.   By way of derogation from this Section, an investment firm may, subject to the approval of the competent authority, calculate the exposure value of derivative contracts listed in Annex II to Regulation (EU) No 575/2013 and for the transactions referred to in points (b) to (f) of paragraph 1 of this Article by applying one of the methods set out in Section 3, 4 or 5, Chapter 6, Title II, Part Three of Regulation (EU) No 575/2013 and calculate the related own funds requirements by multiplying the exposure value by the risk factor defined per counterparty type as set out in Table 2 in Article 26 of this Regulation.
+Investment firms included in the supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One of Regulation (EU) No 575/2013 may calculate the related own funds requirement by multiplying the risk weighted exposure amounts, calculated in accordance with Section 1 of Chapter 2 of Title II of Part Three of Regulation (EU) No 575/2013, by 8 %.
+5.   When applying the derogation in paragraph 4 of this Article, investment firms shall also apply a credit valuation adjustment (CVA) factor by multiplying the own funds requirement, calculated in accordance with paragraph 2 of this Article, by the CVA calculated in accordance with Article 32.
+Rather than applying the CVA factor multiplier, investment firms included in the supervision on a consolidated basis in accordance with Chapter 2 of Title II of Part One of Regulation (EU) No 575/2013 may calculate own funds requirements for credit valuation adjustment risk in accordance with Title VI of Part Three of Regulation (EU) No 575/2013.

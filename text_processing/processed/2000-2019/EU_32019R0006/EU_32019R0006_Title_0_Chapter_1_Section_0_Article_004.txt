@@ -1,0 +1,123 @@
+Article 4
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘veterinary medicinal product’ means any substance or combination of substances which fulfils at least one of the following conditions:
+(a)
+it is presented as having properties for treating or preventing disease in animals;
+(b)
+its purpose is to be used in, or administered to, animals with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action;
+(c)
+its purpose is to be used in animals with a view to making a medical diagnosis;
+(d)
+its purpose is to be used for euthanasia of animals;
+(2)
+‘substance’ means any matter of the following origin:
+(a)
+human;
+(b)
+animal;
+(c)
+vegetable;
+(d)
+chemical;
+(3)
+‘active substance’ means any substance or mixture of substances intended to be used in the manufacture of a veterinary medicinal product that, when used in its production, becomes an active ingredient of that product;
+(4)
+‘excipient’ means any constituent of a veterinary medicinal product other than an active substance or packaging material;
+(5)
+‘immunological veterinary medicinal product’ means a veterinary medicinal product intended to be administered to an animal in order to produce active or passive immunity or to diagnose its state of immunity;
+(6)
+‘biological veterinary medicinal product’ means a veterinary medicinal product where an active substance is a biological substance;
+(7)
+‘biological substance’ means a substance that is produced by or extracted from a biological source and that needs for its characterisation and the determination of its quality a combination of physico-chemical-biological testing, together with knowledge of the production process and its control;
+(8)
+‘reference veterinary medicinal product’ means a veterinary medicinal product authorised in accordance with Article 44, 47, 49, 52, 53 or 54 as referred to in Article 5(1) on the basis of an application submitted in accordance with Article 8;
+(9)
+‘generic veterinary medicinal product’ means a veterinary medicinal product which has the same qualitative and quantitative composition of active substances and the same pharmaceutical form as the reference veterinary medicinal product, and with regard to which bioequivalence with the reference veterinary medicinal product has been demonstrated;
+(10)
+‘homeopathic veterinary medicinal product’ means a veterinary medicinal product prepared from homeopathic stocks in accordance with a homeopathic manufacturing procedure described by the European Pharmacopoeia or, in the absence thereof, by the pharmacopoeias used officially in Member States;
+(11)
+‘antimicrobial resistance’ means the ability of micro-organisms to survive or to grow in the presence of a concentration of an antimicrobial agent which is usually sufficient to inhibit or kill micro-organisms of the same species;
+(12)
+‘antimicrobial’ means any substance with a direct action on micro-organisms used for treatment or prevention of infections or infectious diseases, including antibiotics, antivirals, antifungals and anti-protozoals;
+(13)
+‘antiparasitic’ means a substance that kills or interrupts the development of parasites, used for the purpose of treating or preventing an infection, infestation or disease caused or transmitted by parasites, including substances with a repelling activity;
+(14)
+‘antibiotic’ means any substance with a direct action on bacteria that is used for treatment or prevention of infections or infectious diseases;
+(15)
+‘metaphylaxis’ means the administration of a medicinal product to a group of animals after a diagnosis of clinical disease in part of the group has been established, with the aim of treating the clinically sick animals and controlling the spread of the disease to animals in close contact and at risk and which may already be subclinically infected;
+(16)
+‘prophylaxis’ means the administration of a medicinal product to an animal or group of animals before clinical signs of a disease, in order to prevent the occurrence of disease or infection;
+(17)
+‘clinical trial’ means a study which aims to examine under field conditions the safety or efficacy of a veterinary medicinal product under normal conditions of animal husbandry or as part of normal veterinary practice for the purpose of obtaining a marketing authorisation or a change thereof;
+(18)
+‘pre-clinical study’ means a study not covered by the definition of clinical trial which aims to investigate the safety or efficacy of a veterinary medicinal product for the purpose of obtaining a marketing authorisation or a change thereof;
+(19)
+‘benefit-risk balance’ means an evaluation of the positive effects of the veterinary medicinal product in relation to the following risks relating to the use of that product:
+(a)
+any risk relating to the quality, safety and efficacy of the veterinary medicinal products as regards animal or human health;
+(b)
+any risk of undesirable effects on the environment;
+(c)
+any risk relating to the development of resistance;
+(20)
+‘common name’ means the international non-proprietary name recommended by the World Health Organization (WHO) for a substance or, if one does not exist, the name generally used;
+(21)
+‘name of the veterinary medicinal product’ means either an invented name not liable to confusion with the common name, or a common or scientific name accompanied by a trademark or the name of the marketing authorisation holder;
+(22)
+‘strength’ means the content of active substances in a veterinary medicinal product, expressed quantitatively per dosage unit, per unit of volume or per unit of weight according to the pharmaceutical form;
+(23)
+‘competent authority’ means an authority designated by a Member State in accordance with Article 137;
+(24)
+‘labelling’ means information on the immediate packaging or the outer packaging;
+(25)
+‘immediate packaging’ means the container or any other form of packaging that is in direct contact with the veterinary medicinal product;
+(26)
+‘outer packaging’ means packaging in which the immediate packaging is placed;
+(27)
+‘package leaflet’ means a documentation leaflet on a veterinary medicinal product which contains information to ensure its safe and efficacious use;
+(28)
+‘letter of access’ means an original document, signed by the data owner or its representative, which states that the data may be used for the benefit of the applicant in relation to the competent authorities, the European Medicines Agency established by Regulation (EC) No 726/2004 (‘the Agency’) or the Commission for the purposes of this Regulation;
+(29)
+‘limited market’ means a market for one of the following medicinal product types:
+(a)
+veterinary medicinal products for the treatment or prevention of diseases that occur infrequently or in limited geographical areas;
+(b)
+veterinary medicinal products for animal species other than cattle, sheep for meat production, pigs, chickens, dogs and cats;
+(30)
+‘pharmacovigilance’ means the science and activities relating to the detection, assessment, understanding and prevention of suspected adverse events or any other problem related to a medicinal product;
+(31)
+‘pharmacovigilance system master file’ means a detailed description of the pharmacovigilance system used by the marketing authorisation holder with respect to one or more authorised veterinary medicinal products;
+(32)
+‘control’ means any task performed by a competent authority for the verification of compliance with this Regulation;
+(33)
+‘veterinary prescription’ means a document issued by a veterinarian for a veterinary medicinal product or a medicinal product for human use for its use in animals;
+(34)
+‘withdrawal period’ means the minimum period between the last administration of a veterinary medicinal product to an animal and the production of foodstuffs from that animal which under normal conditions of use is necessary to ensure that such foodstuffs do not contain residues in quantities harmful to public health;
+(35)
+‘placing on the market’ means the first making available of a veterinary medicinal product on the whole of the Union market or in one or more Member States, as applicable;
+(36)
+‘wholesale distribution’ means all activities consisting of procuring, holding, supplying or exporting veterinary medicinal products whether for profit or not, apart from retail supply of veterinary medicinal products to the public;
+(37)
+‘aquatic species’ mean species referred to in point (3) of Article 4 of Regulation (EU) 2016/429 of the European Parliament and of the Council (21);
+(38)
+‘food-producing animals’ mean food-producing animals as defined in point (b) of Article 2 of Regulation (EC) No 470/2009;
+(39)
+‘variation’ means a change to the terms of the marketing authorisation for a veterinary medicinal product as referred to in Article 36;
+(40)
+‘advertising of veterinary medicinal products’ means the making of a representation in any form in connection with veterinary medicinal products in order to promote the supply, distribution, sale, prescription or use of veterinary medicinal products and comprising also the supply of samples and sponsorships;
+(41)
+‘signal management process’ means a process for performing active surveillance of pharmacovigilance data for veterinary medicinal products in order to assess the pharmacovigilance data and determine whether there is any change to the benefit-risk balance of those veterinary medicinal products, with a view to detecting risks to animal or public health or protection of the environment;
+(42)
+‘potential serious risk to human or animal health or to the environment’ means a situation where there is a significantly high probability that a serious hazard resulting from the use of a veterinary medicinal product will affect human or animal health or the environment;
+(43)
+‘novel therapy veterinary medicinal product’ means:
+(a)
+a veterinary medicinal product specifically designed for gene therapy, regenerative medicine, tissue engineering, blood product therapy, phage therapy;
+(b)
+a veterinary medicinal product issued from nanotechnologies; or
+(c)
+any other therapy which is considered as a nascent field in veterinary medicine;
+(44)
+‘epidemiological unit’ means an epidemiological unit as defined in point (39) of Article 4 of Regulation (EU) 2016/429.

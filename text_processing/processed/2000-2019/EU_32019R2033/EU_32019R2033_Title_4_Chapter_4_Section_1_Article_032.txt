@@ -1,0 +1,14 @@
+Article 32
+Credit valuation adjustment
+For the purposes of this Section, CVA means an adjustment to the mid‐market valuation of the portfolio of transactions with a counterparty which reflects the CMV of the credit risk of the counterparty to the investment firm, but does not reflect the CMV of the credit risk of the investment firm to the counterparty.
+CVA shall be 1,5 for all transactions other than the following transactions, for which CVA shall be 1:
+(a)
+transactions with non‐financial counterparties as defined in point (9) of Article 2 of Regulation (EU) No 648/2012, or with non‐financial counterparties established in a third country, where those transactions do not exceed the clearing threshold as specified in Article 10(3) and (4) of that Regulation;
+(b)
+intragroup transactions as provided for in Article 3 of Regulation (EU) No 648/2012;
+(c)
+long settlement transactions;
+(d)
+SFTs, including margin lending transactions, unless the competent authority determines that the investment firm’s CVA risk exposures arising from those transactions are material; and
+(e)
+credits and loans referred to in point (g) of Article 25(1).

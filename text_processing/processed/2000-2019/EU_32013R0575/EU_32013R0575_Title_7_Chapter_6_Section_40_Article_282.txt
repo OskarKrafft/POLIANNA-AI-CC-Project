@@ -1,0 +1,74 @@
+Article 282
+Hedging sets
+1.   Institutions shall establish hedging sets in accordance with paragraphs 2 to 5.
+2.   There shall be one hedging set for each issuer of a reference debt instrument that underlies a credit default swap.
+N-th to default basket credit default swaps shall be treated as follows:
+(a)
+the size of a risk position in a reference debt instrument in a basket underlying an n-th to default credit default swap shall be the effective notional value of the reference debt instrument, multiplied by the modified duration of the n-th to default derivative with respect to a change in the credit spread of the reference debt instrument;
+(b)
+there shall be one hedging set for each reference debt instrument in a basket underlying a given ‧nth to default‧ credit default swap. Risk positions from different n-th to default credit default swaps shall not be included in the same hedging set;
+(c)
+the CCR multiplier applicable to each hedging set created for one of the reference debt instruments of an n-th to default derivative shall be as follows:
+(i)
+0,3 % for reference debt instruments that have a credit assessment from a recognised ECAI equivalent to credit quality step 1 to 3;
+(ii)
+0,6 % for other debt instruments.
+3.   For interest rate risk positions from:
+(a)
+money deposits that are posted with a counterparty as collateral when that counterparty does not have debt obligations of low specific risk outstanding;
+(b)
+underlying debt instruments, to which according to Table 1 of Article 336 a capital charge of more than 1,60 % applies;
+There shall be one hedging set for each issuer.
+When a payment leg emulates such a debt instrument, there shall also be one hedging set for each issuer of the reference debt instrument.
+An institution may assign risk positions that arise from debt instruments of a particular issuer, or from reference debt instruments of the same issuer that are emulated by payment legs, or that underlie a credit default swap, to the same hedging set.
+4.   Underlying financial instruments other than debt instruments shall be assigned to the same hedging sets only if they are identical or similar instruments. In all other cases they shall be assigned to separate hedging sets.
+For the purposes of this paragraph institutions shall determine whether underlying instruments are similar in accordance with the following principles:
+(a)
+for equities, the underlying is similar if it is issued by the same issuer. An equity index shall be treated as a separate issuer;
+(b)
+for precious metals, the underlying is similar if it is the same metal. A precious metal index shall be treated as a separate precious metal;
+(c)
+for electric power, the underlying is similar if the delivery rights and obligations refer to the same peak or off-peak load time interval within any 24-hour interval;
+(d)
+for commodities, the underlying is similar if it is the same commodity. A commodity index shall be treated as a separate commodity.
+5.   The CCR multipliers (hereinafter referred to as ‧CCRM‧) for the different hedging set categories are set out in the following table:
+
+Table 5
+
+ 
+Hedging set categories
+CCRM
+1.
+Interest Rates
+0,2  %
+2.
+Interest Rates for risk positions from a reference debt instrument that underlies a credit default swap and to which a capital charge of 1,60 %, or less, applies under Table 1 of Chapter 2 of Title IV.
+0,3  %
+3.
+Interest Rates for risk positions from a debt instrument or reference debt instrument to which a capital charge of more than 1,60 % applies under Table 1 of Chapter 2 of Title IV.
+0,6  %
+4.
+Exchange Rates
+2,5  %
+5.
+Electric Power
+4  %
+6.
+Gold
+5  %
+7.
+Equity
+7  %
+8.
+Precious Metals (other than gold)
+8,5  %
+9.
+Other Commodities (excluding precious metals and electricity power)
+10  %
+10.
+Underlying instruments of OTC derivatives that are not in any of the above categories
+10  %
+Underlying instruments of OTC derivatives, as referred to in point 10 of Table 5, shall be assigned to separate individual hedging sets for each category of underlying instrument.
+6.   For transactions with a non-linear risk profile or for payment legs and transactions with debt instruments as underlying for which the institution cannot determine the delta or the modified duration, as the case may be, with an instrument model that the competent authority has approved for the purposes of determining the own funds requirements for market risk, the competent authority shall either determine the size of the risk positions and the applicable CCRMjs conservatively, or require the institution to use the method set out in Section 3. Netting shall not be recognised (that is, the exposure value shall be determined as if there were a netting set that comprises just an individual transaction).
+7.   An institution shall have internal procedures to verify that, prior to including a transaction in a hedging set, the transaction is covered by a legally enforceable netting contract that meets the requirements set out in Section 7.
+8.   An institution that makes use of collateral to mitigate its CCR shall have internal procedures to verify that, prior to recognising the effect of collateral in its calculations, the collateral meets the legal certainty standards set out in Chapter 4.

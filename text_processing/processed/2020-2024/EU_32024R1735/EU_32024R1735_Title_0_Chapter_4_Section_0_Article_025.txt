@@ -1,0 +1,57 @@
+Article 25
+Sustainability and resilience contribution in public procurement procedures
+1.   For public procurement procedures falling within the scope of Directive 2014/23/EU, 2014/24/EU or 2014/25/EU, where contracts have net-zero technologies listed in Article 4(1), points (a) to (k), of this Regulation as part of their subject matter, or in the case of works contracts and works concessions including said technology, contracting authorities and contracting entities shall apply minimum mandatory requirements regarding environmental sustainability established in the implementing act referred to in paragraph 5 of this Article.
+2.   Paragraph 1 shall not preclude contracting authorities or contracting entities from using additional minimum requirements or award criteria in relation to environmental sustainability.
+3.   Notwithstanding paragraph 1, contracting authorities and contracting entities shall apply at least one of the following conditions, requirements or contractual obligations for the works contracts and works concessions referred to in paragraph 1:
+(a)
+a special condition that relates to social or employment-related considerations that takes the form of a contract performance clause within the meaning of Article 70 of Directive 2014/24/EU and of Article 87 of Directive 2014/25/EU and of the general principles of Directive 2014/23/EU;
+(b)
+a requirement to demonstrate compliance with applicable cybersecurity requirements provided for in a cyber resilience regulation, including, where appropriate and where available, through a relevant European cybersecurity certification scheme;
+(c)
+a specific contractual obligation to deliver the component of the contract relating to net-zero technologies listed in Article 4(1), points (a) to (k) on time, that may give rise to an obligation to pay an appropriate charge if this obligation is not fulfilled, and that goes beyond the requirements provided for in applicable national legislation, if such legislation exists.
+4.   The minimum mandatory requirements referred to in paragraph 1, where applicable, shall take the form, where appropriate, of:
+(a)
+technical specifications or requirements within the meaning of Article 36 of Directive 2014/23/EU, of Article 42 of Directive 2014/24/EU and of Article 60 of Directive 2014/25/EU; or
+(b)
+contract performance clauses within the meaning of Article 70 of Directive 2014/24/EU and of Article 87 of Directive 2014/25/EU and of the general principles of Directive 2014/23/EU.
+5.   By 30 March 2025, the Commission shall adopt an implementing act specifying minimum requirements on environmental sustainability for the public procurement procedures referred to in paragraph 1.
+When adopting that implementing act, the Commission shall consider at least the following elements:
+(a)
+the market situation at Union level of the relevant technologies;
+(b)
+provisions regarding environmental sustainability set out in other Union legislative and non-legislative acts applicable to public procurement procedures covered by the obligation set out in paragraph 1;
+(c)
+the Union’s international commitments, including the GPA and other international agreements of which the Union is bound.
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 45(2).
+6.   A Member State shall not discriminate against, or subject to unjustified different treatment, a provider or net-zero products from another Member State.
+7.   The tender’s resilience contribution shall be taken into account in the case of public procurement procedures falling within the scope of Directives 2014/23/EU, 2014/24/EU or 2014/25/EU where such contracts have net-zero technologies listed in Article 4(1), points (a) to (k), of this Regulation as part of their subject matter, or in the case of the works contracts and works concessions referred to in paragraph 1, including said technology, and in the case of contracts awarded on the basis of a framework agreement where the estimated value of those agreements is equal to or above the values set out in Article 8 of Directive 2014/23/EU, Article 4 of Directive 2014/24/EU and Article 15 of Directive 2014/25/EU, in accordance with this paragraph.
+If the Commission, at the time of the call for competition for a public procurement procedure as referred to in paragraph 1 of this Article, or commencement of such a procedure, has determined in accordance with Article 29(2) that the proportion of a specific net-zero technology or its main specific components originating in a third country accounts for more than 50 % of the supply of that specific net-zero technology or its main specific components within the Union, or if the Commission has determined in accordance with Article 29(2) that the proportion of supply within the Union of a specific net-zero technology or its main specific components originating in a third country has increased by at least 10 percentage points on average for two consecutive years and reaches at least 40 % of the supply within the Union, contracting authorities and contracting entities shall include the following conditions for the public procurement procedures referred to in paragraph 1 of this Article:
+(a)
+an obligation for the duration of the contract not to supply more than 50 % of the value of the specific net-zero technology referred to in this paragraph from each individual third country as determined by the Commission;
+(b)
+an obligation for the duration of the contract that no more than 50 % of the value of the main specific components of the specific net-zero technology referred to in this paragraph is supplied or provided directly by the successful tenderer or by a subcontractor from each individual third country as determined by the Commission;
+(c)
+an obligation to provide contracting authorities and contracting entities, upon their request, adequate evidence relating to point (a) or (b), at the latest upon completion of the execution of the contract;
+(d)
+an obligation to pay a proportionate charge, in the event of non-observance of the conditions referred in point (a) or (b), of at least 10 % of the value of the specific net-zero technologies of the contract referred to in this paragraph.
+8.   For contracts covered by the Union’s Appendix I to the GPA as well as by other relevant international agreements by which the Union is bound, contracting authorities and contracting entities shall not apply the requirements of points (a) to (d) of the second subparagraph of paragraph 7, where the specific net-zero technology or its main specific components originates from sources of supply that are signatories to those agreements.
+9.   Contracting authorities and contracting entities may, on an exceptional basis, decide not to apply paragraphs 1 to 4, where:
+(a)
+the required net-zero technology can only be supplied by a specific economic operator and no reasonable alternative or substitute exists and the absence of competition is not the result of an artificial narrowing down of the parameters of the public procurement procedure;
+(b)
+no suitable tenders or no suitable requests to participate have been submitted in response to a similar former public procurement procedure launched by the same contracting authority or contracting entity in the two years immediately before the commencement of the planned new procurement procedure;
+(c)
+their application would oblige that contracting authority or contracting entity to acquire equipment having disproportionate costs or would result in technical incompatibility in operation and maintenance.
+10.   Estimated cost differences above 20 %, based on objective and transparent data, may be presumed by contracting authorities and contracting entities to be disproportionate.
+11.   Where the application of the resilience contribution pursuant to paragraph 7 of this Article has led to a situation where no suitable tenders or no suitable requests to participate have been submitted in response to a public procurement procedure, the contracting authorities or contracting entities may, on an exceptional basis:
+(a)
+decide to use the negotiated procedure without prior publication pursuant to Article 32(2), point (a), of Directive 2014/24/EU, Article 50, point (a), of Directive 2014/25/EU or Article 31(5) of Directive 2014/23/EU; or
+(b)
+decide not to apply paragraph 7 of this Article in a specific subsequent public procurement procedure that aims to address the same needs as those which led to the commencement of the initial procedure referred to in this paragraph.
+12.   This Article shall be without prejudice to:
+(a)
+the possibility of using additional non price criteria;
+(b)
+the possibility of excluding abnormally low tenders under Article 69 of Directive 2014/24/EU and Article 84 of Directive 2014/25/EU;
+(c)
+Articles 107 and 108 TFEU, in the case of uncompetitive public procurement procedures.

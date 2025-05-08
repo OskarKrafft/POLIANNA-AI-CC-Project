@@ -1,0 +1,22 @@
+Article 42
+Rules applicable to communication
+1.   All communication and information exchange referred to in this Title may be by post, by fax, by electronic means in accordance with paragraphs 4 and 5, by telephone in the cases and circumstances referred to in paragraph 6, or by a combination of those means, according to the choice of the contracting authority.
+2.   The means of communication chosen must be generally available and thus not restrict economic operators' access to the tendering procedure.
+3.   Communication and the exchange and storage of information shall be carried out in such a way as to ensure that the integrity of data and the confidentiality of tenders and requests to participate are preserved, and that the contracting authorities examine the content of tenders and requests to participate only after the time limit set for submitting them has expired.
+4.   The tools to be used for communicating by electronic means, as well as their technical characteristics, must be non-discriminatory, generally available and interoperable with the information and communication technology products in general use.
+5.   The following rules are applicable to devices for the electronic transmission and receipt of tenders and to devices for the electronic receipt of requests to participate:
+(a)
+information regarding the specifications necessary for the electronic submission of tenders and requests to participate, including encryption, shall be available to interested parties. Moreover, the devices for the electronic receipt of tenders and requests to participate shall conform to the requirements of Annex X;
+(b)
+Member States may, in compliance with Article 5 of Directive 1999/93/EC, require that electronic tenders be accompanied by an advanced electronic signature in conformity with paragraph 1 thereof;
+(c)
+Member States may introduce or maintain voluntary accreditation schemes aiming at enhanced levels of certification service provision for these devices;
+(d)
+tenderers or candidates shall undertake to submit, before expiry of the time limit laid down for submission of tenders or requests to participate, the documents, certificates and declarations referred to in Articles 45 to 50 and Article 52 if they do not exist in electronic format.
+6.   The following rules shall apply to the transmission of requests to participate:
+(a)
+requests to participate in procedures for the award of public contracts may be made in writing or by telephone;
+(b)
+where requests to participate are made by telephone, a written confirmation must be sent before expiry of the time limit set for their receipt;
+(c)
+contracting authorities may require that requests for participation made by fax must be confirmed by post or by electronic means, where this is necessary for the purposes of legal proof. Any such requirement, together with the time limit for sending confirmation by post or electronic means, must be stated by the contracting authority in the contract notice.

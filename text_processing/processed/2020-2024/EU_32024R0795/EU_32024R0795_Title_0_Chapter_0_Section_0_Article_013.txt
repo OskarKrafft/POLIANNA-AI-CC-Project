@@ -1,0 +1,74 @@
+Article 13
+Amendments to Regulation (EU) 2021/1060
+Regulation (EU) 2021/1060 is amended as follows:
+(1)
+in Article 2, point (45) is replaced by the following:
+‘(45)
+“Seal of Excellence” means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding; or the “Sovereignty Seal” referred to in Article 4 of Regulation (EU) 2024/795 of the European Parliament and of the Council (*7).
+
+(*7)  Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;"
+                        
+(2)
+in Article 6(1), the following subparagraph is added:
+
+                                 ‘Where, as a result of a programme amendment for the Strategic Technologies for Europe Platform (STEP) established by Regulation (EU) 2024/795, the climate contribution of the Cohesion Fund would exceed the target of 37 % of its total allocation, the amount exceeding that target may be taken into account when calculating the climate contribution of the ERDF for the purpose of reaching the target of 30 % of its total allocation. The amounts exceeding the ERDF climate contribution target of 30 % of its total allocation may be taken into account when calculating the climate contribution of the Cohesion Fund.’;
+(3)
+in Article 13, the following paragraphs are added:
+‘5.   Without prejudice to the possibility to amend the Partnership Agreement by 31 March 2025 as referred to in paragraph 1 of this Article, a Member State may submit to the Commission an amended Partnership Agreement to take into account the introduction in the programmes of priorities contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.
+6.   By way of derogation from paragraphs 2 and 4 of this Article, the Commission shall approve the amended Partnership Agreement referred to in paragraph 5 no later than three months after its first submission by the Member State.’
+(4)
+in Article 14(5), the first subparagraph is replaced by the following:
+
+                                 ‘In accordance with the second subparagraph of Article 10(4) of Regulation (EU) 2021/523, where a guarantee agreement has not been concluded within 12 months of the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement.’;
+(5)
+in Article 24, the following paragraphs are added:
+‘9.   By way of derogation from Article 18 of this Regulation, where priorities dedicated to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795 have been included in a programme as a result of the approval of a programme amendment submitted by the Member State by 31 August 2024, those priorities shall not be taken into account for the purposes of the mid-term review. The decision approving such programme amendments may include a definitive allocation of the totality or part of the flexibility amount for the years 2026 and 2027 to address priorities dedicated to investments contributing to the STEP objectives. Where the totality of the flexibility amount of a programme is definitively allocated to such priorities, the mid-term review shall not be carried out for that programme.
+10.   By way of derogation from paragraph 4 of this Article, the Commission shall adopt the decision approving a programme amendment that has been submitted by 31 August 2024 within two months of its submission by a Member State provided that it concerns exclusively the introduction of dedicated priorities to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.’
+(6)
+in Article 49, the following paragraph is added:
+‘7.   Where support is programmed for the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795, the managing authority shall ensure that all the information to be published in accordance with paragraph 2 of this Article is also submitted to the Commission in the format set out in paragraph 4 of this Article for publication on the Sovereignty Portal established pursuant to Article 6 of Regulation (EU) 2024/795, including a timetable of the planned calls for proposals that is updated at least three times a year, as well as the link to the calls for proposals on the day of their publication.’
+(7)
+Annex I is amended as follows:
+(a)
+in Table 1, the following rows are added:
+INTERVENTION FIELD
+Coefficient for the calculation of support to climate change objectives
+Coefficient for the calculation of support to environmental objectives
+‘145a
+Support for the development of skills or access to employment in digital technologies and deep tech innovation, biotechnologies.
+0  %
+0  %
+145b
+Support for the development of skills or access to employment in clean and resource-efficient technologies.
+100  %
+40  %
+188
+Productive investments in large enterprises linked primarily to clean and resource-efficient technologies.
+100  %
+40  %
+189
+Productive investments in SMEs linked primarily to clean and resource-efficient technologies.
+100  %
+40  %
+190
+Productive investments in large enterprises linked primarily to biotechnologies.
+0  %
+0  %
+191
+Productive investments in SMEs linked primarily to biotechnologies.
+0  %
+0  %
+192
+Productive investments in large enterprises linked primarily to digital technologies and deep tech innovation.
+0  %
+0  %
+193
+Productive investments in SMEs linked primarily to digital technologies and deep tech innovation.
+0  %
+0  %’
+(b)
+in Table 6, the following row is added:
+‘11
+Contributing to skills and jobs in digital technologies and deep tech innovation, clean and resource-efficient technologies, and biotechnologies
+0 %
+0 %’

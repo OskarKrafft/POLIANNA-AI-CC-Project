@@ -1,0 +1,25 @@
+Article 5
+Admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens
+1.   A person shall not seek admission to trading of a crypto-asset other than an asset-referenced token or e-money token within the Union unless that person:
+(a)
+is a legal person;
+(b)
+has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;
+(c)
+has notified the crypto-asset white paper in accordance with Article 8;
+(d)
+has published the crypto-asset white paper in accordance with Article 9;
+(e)
+has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;
+(f)
+has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;
+(g)
+complies with the requirements for persons seeking admission to trading laid down in Article 14.
+2.   When a crypto-asset is admitted to trading on the initiative of the operator of a trading platform and a crypto-asset white paper has not been published in accordance with Article 9 in the cases required by this Regulation, the operator of that trading platform for crypto-assets shall comply with the requirements set out in paragraph 1 of this Article.
+3.   By way of derogation from paragraph 1, a person seeking admission to trading of a crypto-asset other than an asset-referenced token or e-money token and the respective operator of the trading platform may agree in writing that it shall be the operator of the trading platform who is required to comply with all or part of the requirements referred to in paragraph 1, points (b) to (g).
+The agreement in writing referred to in the first subparagraph of this paragraph shall clearly state that the person seeking admission to trading is required to provide the operator of the trading platform with all necessary information to enable that operator to satisfy the requirements referred to in paragraph 1, points (b) to (g), as applicable.
+4.   Paragraph 1, points (b), (c) and (d), shall not apply where:
+(a)
+the crypto-asset is already admitted to trading on another trading platform for crypto-assets in the Union; and
+(b)
+the crypto-asset white paper is drawn up in accordance with Article 6, updated in accordance with Article 12, and the person responsible for drawing up such white paper consents to its use in writing.

@@ -1,0 +1,51 @@
+Article 75
+Minimum requirements for reporting to the competent authorities
+1.   Producers of portable batteries and producers of LMT batteries or, where appointed in accordance with Article 57(1), producer responsibility organisations shall report to the competent authority, for each calendar year, at least the following information according to the chemistry and category of batteries and waste batteries:
+(a)
+the amount of portable batteries and LMT batteries made available on the market for the first time in the territory of a Member State, excluding batteries that have left the territory of that Member State in that year, before being sold to end-users;
+(b)
+the amount of portable batteries of general use made available on the market for the first time in the territory of a Member State, excluding portable batteries of general use that have left the territory of that Member State in that year, before being sold to end-users;
+(c)
+the amount of waste portable batteries and waste LMT batteries collected in accordance with Articles 59 and 60, respectively;
+(d)
+the collection rate reached by the producer or producer responsibility organisation for waste portable batteries and waste LMT batteries;
+(e)
+the amount of collected waste portable batteries and waste LMT batteries delivered to permitted facilities for treatment;
+(f)
+the amount of collected waste portable batteries and waste LMT batteries exported to third countries for treatment, preparation for re-use or preparation for repurposing;
+(g)
+the amount of collected waste portable batteries and waste LMT batteries delivered to permitted facilities for preparation for re-use or preparation for repurposing.
+Where waste management operators other than producers or, where appointed in accordance with Article 57(1), producer responsibility organisations, collect waste portable batteries or waste LMT batteries from distributors or other collection points for waste portable batteries or waste LMT batteries, they shall report to the competent authority for each calendar year the amount of waste portable batteries and waste LMT batteries collected according to their chemistry.
+2.   Producers of SLI batteries, industrial batteries and electric vehicle batteries or where appointed in accordance with Article 57(1) producer responsibility organisations, shall report to the competent authority for each calendar year the following information, according to chemistries and categories of waste batteries:
+(a)
+the amount of SLI batteries, industrial batteries and electric vehicle batteries made available on the market for the first time in a Member State, excluding batteries that have left the territory of that Member State in that year, before being sold to end-users;
+(b)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries delivered to permitted facilities for preparation for re-use or preparation for repurposing;
+(c)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries delivered to permitted facilities for treatment;
+(d)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries exported to third countries for preparation for re-use, preparation for repurposing or for treatment.
+3.   Where waste management operators collect waste batteries from distributors or other collection points for waste SLI batteries, waste industrial batteries and waste electric vehicle batteries or from end-users, they shall report to the competent authority for each calendar year the following information according to chemistries and categories of waste batteries:
+(a)
+the amount of waste SLI batteries, waste industrial batteries and waste electric vehicle batteries collected;
+(b)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries delivered to permitted facilities for preparation for re-use or preparation for repurposing;
+(c)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries delivered to permitted facilities for treatment;
+(d)
+the amount of collected waste SLI batteries, waste industrial batteries and waste electric vehicle batteries exported to third countries for preparation for re-use, preparation for repurposing or for treatment.
+4.   The information referred to in paragraph 1, points (a) to (g), of this Article shall include information on batteries incorporated into vehicles and appliances, and waste batteries removed from vehicles and appliances in accordance with Article 65.
+5.   Waste management operators carrying out treatment and recyclers shall report to the competent authorities of the Member State where treatment of waste batteries takes place, for each calendar year and by Member State where the waste batteries were collected, the following information:
+(a)
+the amount of waste batteries received for treatment;
+(b)
+the amount of waste batteries that began to undergo preparation for re-use, preparation for repurposing or recycling processes;
+(c)
+data on recycling efficiency for waste batteries, recovery of materials from waste batteries and the destination and yield of the final output fractions.
+Reporting on the recycling efficiency and recovery of materials shall cover all individual steps of recycling and all corresponding output fractions. Where recycling operations are carried out at more than one facility, the first recycler shall be responsible for collecting the information and reporting that information to the competent authorities.
+The competent authority of the Member State where the treatment of waste batteries takes place, shall provide the information referred to in this paragraph to the competent authority of the Member State where the batteries were collected, if different.
+Waste batteries sent to another Member State for treatment in that other Member State shall be included in the recycling efficiency and recovery of materials data and shall count towards the attainment of the targets set out in Annex XII by the Member State in which that waste was collected.
+6.   Where waste holders other than those referred to in paragraph 5 export batteries for treatment they shall report the data on the amount of separately collected waste batteries exported for treatment and the data referred to in paragraph 5, points (b) and (c) to the competent authorities of the Member States where they are located.
+7.   Producers or, where appointed in accordance with Article 57(1), producer responsibility organisations, waste management operators and waste holders referred to in this Article shall report within six months of the end of the reporting year for which the data are collected. The first reporting period shall concern the first full calendar year after the entry into force of the implementing act that establishes the format for reporting to the Commission, in accordance with Article 76(5).
+8.   The competent authorities shall establish electronic systems through which data shall be reported to them and specify the formats to be used.
+9.   Member State may allow competent authorities to request any additional information necessary to ensure that the data reported are reliable.

@@ -1,0 +1,14 @@
+Article 33
+Mechanism to avoid duplicative or conflicting rules
+1.   The Commission shall be assisted by ESMA in monitoring and preparing reports, at least on an annual basis, to the European Parliament and to the Council on the international application of principles laid down in Articles 28 and 29, in particular with regard to potential duplicative or conflicting requirements on market participants, and recommend possible actions.
+2.   The Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of the relevant third country:
+(a)
+are equivalent to the requirements resulting from Articles 28 and 29;
+(b)
+ensure protection of professional secrecy that is equivalent to that set out in this Regulation;
+(c)
+are being effectively applied and enforced in an equitable and non-distortive manner so as to ensure effective supervision and enforcement in that third country.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51.
+3.   An implementing act on equivalence as referred to in paragraph 2 shall have the effect that counterparties entering into a transaction subject to this Regulation shall be deemed to have fulfilled the obligation contained in Articles 28 and 29 where at least one of the counterparties is established in that third country and the counterparties are in compliance with those legal, supervisory and enforcement arrangements of the relevant third country.
+4.   The Commission shall, in cooperation with ESMA, monitor the effective implementation by third countries, for which an implementing act on equivalence has been adopted, of the requirements equivalent to those contained in Articles 28 and 29 and regularly report, at least on an annual basis, to the European Parliament and to the Council.
+Within 30 calendar days of the presentation of the report where the report reveals a significant defect or inconsistency in the application of the equivalent requirements by third-country authorities, the Commission may withdraw the recognition as equivalent of the third-country legal framework in question. Where an implementing act on equivalence is withdrawn, transactions by counterparties shall automatically be subject again to all requirements contained in Articles 28 and 29 of this Regulation.

@@ -1,0 +1,13 @@
+Article 70
+Safekeeping of clients’ crypto-assets and funds
+1.   Crypto-asset service providers that hold crypto-assets belonging to clients or the means of access to such crypto-assets shall make adequate arrangements to safeguard the ownership rights of clients, especially in the event of the crypto-asset service provider’s insolvency, and to prevent the use of clients’ crypto-assets for their own account.
+2.   Where their business models or the crypto-asset services require holding clients’ funds other than e-money tokens, crypto-asset service providers shall have adequate arrangements in place to safeguard the ownership rights of clients and prevent the use of clients’ funds for their own account.
+3.   Crypto-asset service providers shall, by the end of the business day following the day on which clients’ funds other than e-money tokens were received, place those funds with a credit institution or a central bank.
+Crypto-asset service providers shall take all necessary steps to ensure that clients’ funds other than e-money tokens held with a credit institution or a central bank are held in an account separately identifiable from any accounts used to hold funds belonging to the crypto-asset service providers.
+4.   Crypto-asset service providers may themselves, or through a third party, provide payment services related to the crypto-asset service they offer provided that the crypto-asset service provider itself, or the third party, is authorised to provide those services under Directive (EU) 2015/2366.
+Where payment services are provided, crypto-asset service providers shall inform their clients of all of the following:
+(a)
+the nature and terms and conditions of those services, including references to the applicable national law and to the rights of clients;
+(b)
+whether those services are provided by them directly or by a third party.
+5.   Paragraphs 2 and 3 of this Article shall not apply to crypto-asset service providers that are electronic money institutions, payment institutions or credit institutions.

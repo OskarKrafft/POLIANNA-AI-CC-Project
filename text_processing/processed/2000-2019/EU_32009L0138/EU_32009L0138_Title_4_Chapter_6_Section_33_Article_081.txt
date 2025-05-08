@@ -1,0 +1,5 @@
+Article 81
+Recoverables from reinsurance contracts and special purpose vehicles
+The calculation by insurance and reinsurance undertakings of amounts recoverable from reinsurance contracts and special purpose vehicles shall comply with Articles 76 to 80.
+When calculating amounts recoverable from reinsurance contracts and special purpose vehicles, insurance and reinsurance undertakings shall take account of the time difference between recoveries and direct payments.
+The result from that calculation shall be adjusted to take account of expected losses due to default of the counterparty. That adjustment shall be based on an assessment of the probability of default of the counterparty and the average loss resulting therefrom (loss-given-default).

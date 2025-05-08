@@ -1,0 +1,13 @@
+Article 24
+User statistics
+1.   The competent authorities and the Commission shall ensure that statistics are collected in relation to users’ visits on the gateway and on the webpages to which the gateway links in a way that guarantees anonymity of the users, in order to improve the functionality of the gateway.
+2.   The competent authorities, the providers of assistance or problem-solving services as referred to in Article 7(3) and the Commission shall collect and exchange, in an aggregated way, the number, the origin and the subject matter of requests for assistance and problem-solving services and their response times.
+3.   The statistics collected in accordance with paragraphs 1 and 2 in relation to the information, procedures and assistance and problem-solving services to which the gateway links shall include the following data categories:
+(a)
+data related to the number, origin and type of users of the gateway;
+(b)
+data related to the user preferences and user journeys;
+(c)
+data related to the usability, findability and quality of the information, procedures and assistance and problem-solving services.
+Those data shall be made available to the public in an open and commonly used, machine-readable format.
+4.   The Commission shall adopt implementing acts laying down the method of collecting and exchanging the user statistics referred to in paragraphs 1, 2 and 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 37(2).

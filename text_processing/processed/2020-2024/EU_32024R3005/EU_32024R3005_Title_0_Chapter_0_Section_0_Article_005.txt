@@ -1,0 +1,10 @@
+Article 5
+Temporary regime for small ESG rating providers
+1.   By way of derogation from Article 4, an ESG rating provider categorised as a small undertaking or as a small group within the meaning of Article 3(2), first subparagraph, or Article 3(5), first subparagraph, respectively, of Directive 2013/34/EU (the ‘small ESG rating provider’) that is established in the Union and wishes to operate in the Union shall only be subject to Article 15(1), (5) and (7), Articles 23 and 24 and Articles 32 to 37 of this Regulation, provided that it:
+(a)
+notifies ESMA of its intention to operate in the Union; and
+(b)
+has been registered by ESMA before it starts operating in the Union.
+2.   Within 90 working days of receipt of the notification referred to in paragraph 1, point (a), ESMA shall decide whether to register the notifier as a small ESG rating provider. ESMA shall inform the notifier of its decision within five working days thereof.
+3.   Where an ESG rating provider referred to in paragraph 1 of this Article ceases to be categorised as a small ESG rating provider, or three years after its registration in accordance with paragraph 1, point (b), of this Article, whichever occurs first, the ESG rating provider shall become subject to all provisions of this Regulation and shall within six months apply for authorisation to operate in the Union pursuant to Chapter 1 of this Title.
+4.   The ESG rating providers referred to in paragraph 1 of this Article may choose to opt in to this Regulation by applying to ESMA for authorisation pursuant to Article 6. Where ESG rating providers choose to opt in, this Regulation shall become applicable to them in its entirety.

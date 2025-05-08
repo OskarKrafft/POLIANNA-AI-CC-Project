@@ -1,0 +1,675 @@
+Article 99
+Decision on protection
+1.   Where the Commission has not received an admissible statement of objection in accordance with Article 98, it shall adopt implementing acts conferring protection. Those implementing acts shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+2.   Where the Commission has received an admissible statement of objection, it shall adopt implementing acts either conferring protection or rejecting the application. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+3.   Protection conferred under this Article is without prejudice to the obligation of producers to comply with other Union rules, in particular those relating to the placing of products on the market and to food labelling.’;
+(25)
+Article 102 is replaced by the following:
+‘Article 102
+Relationship with trade marks
+1.   Where a designation of origin or a geographical indication is registered under this Regulation, the registration of a trade mark the use of which would contravene Article 103(2), and which relates to a product falling under one of the categories listed in Annex VII, Part II, shall be refused if the application for registration of the trade mark was submitted after the date of submission of the registration application in respect of the designation of origin or the geographical indication to the Commission.
+Trade marks registered in breach of the first subparagraph shall be invalidated.
+2.   Without prejudice to Article 101(2) of this Regulation, a trade mark the use of which contravenes Article 103(2) of this Regulation, which has been applied for, registered or established by use, if that possibility is provided for by the legislation concerned, in good faith within the territory of the Union, before the date on which the application for protection of the designation of origin or geographical indication was submitted to the Commission, may continue to be used and renewed, notwithstanding the registration of a designation of origin or geographical indication, provided that no grounds for the trade mark’s invalidity or revocation exist under Directive (EU) 2015/2436 of the European Parliament and of the Council (*3) or under Regulation (EU) 2017/1001 of the European Parliament and of the Council (*4).
+In such cases, the use of the designation of origin or geographical indication shall be permitted as well as use of the relevant trade marks.
+
+(*3)  Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks (OJ L 336, 23.12.2015, p. 1)."
+                        
+
+(*4)  Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (OJ L 154, 16.6.2017, p. 1).’;"
+                        
+(26)
+Article 103 is amended as follows:
+(a)
+in paragraph 2, points (a) and (b) are replaced by the following:
+‘(a)
+any direct or indirect commercial use of that protected name, including the use for products used as ingredients:
+(i)
+by comparable products not complying with the product specification of the protected name; or
+(ii)
+in so far as such use exploits, weakens or dilutes the reputation of a designation of origin or a geographical indication;
+(b)
+any misuse, imitation or evocation, even if the true origin of the product or service is indicated or if the protected name is translated, transcripted or transliterated or accompanied by an expression such as “style”, “type”, “method”, “as produced in”, “imitation”, “flavour”, “like” or similar, including where those products are used as ingredients;’;
+(b)
+the following paragraph is added:
+‘4.   The protection referred to in paragraph 2 also applies with regard to:
+(a)
+goods entering the customs territory of the Union without being released for free circulation within the customs territory of the Union; and
+(b)
+goods sold by means of distance selling, such as electronic commerce.
+For goods entering the customs territory of the Union without being released for free circulation within that territory, the group of producers or any operator that is entitled to use the protected designation of origin or protected geographical indication shall be entitled to prevent all third parties from bringing goods, in the course of trade, into the Union without being released for free circulation there, where such goods, including packaging, come from third countries and bear without authorisation the protected designation of origin or protected geographical indication.’;
+(27)
+Article 105 is replaced by the following:
+‘Article 105
+Amendments to product specifications
+1.   An applicant satisfying the conditions laid down in Article 95 may apply for approval of an amendment to the product specification of a protected designation of origin or of a protected geographical indication, in particular to take account of developments in scientific and technical knowledge or to modify the demarcation of the geographical area referred to in Article 94(2), second subparagraph, point (d). Applications shall describe and state reasons for the amendments requested.
+2.   Amendments to a product specification shall be classified into two categories as regards their importance: Union amendments requiring an objection procedure at Union level and standard amendments to be dealt with at Member State or third country level.
+For the purposes of this Regulation, “Union amendment” means an amendment to a product specification that:
+(a)
+includes a change in the name of the protected designation of origin or the protected geographical indication;
+(b)
+consists of a change, a deletion or an addition of a category of grapevine products referred to in Annex VII, Part II;
+(c)
+risks voiding the link referred to in Article 93(1), point (a)(i), for protected designations of origin, or the link referred to in Article 93(1), point (b)(i), for protected geographical indications; or
+(d)
+entails further restrictions on the marketing of the product.
+
+                                                “Standard amendment” means any amendment to a product specification that is not a Union amendment.
+
+                                                “Temporary amendment” means a standard amendment concerning a temporary change in the product specification resulting from the imposition of obligatory sanitary and phytosanitary measures by the public authorities or linked to natural disasters or adverse weather conditions formally recognised by the competent authorities.
+3.   Union amendments shall be approved by the Commission. The approval procedure shall follow the procedure laid down in Article 94 and Articles 96 to 99, mutatis mutandis.
+Applications for approval of Union amendments submitted by third countries or by third country producers shall contain proof that the requested amendment complies with the laws on the protection of designations of origin or geographical indications in force in that third country.
+Applications for approval of Union amendments shall relate exclusively to Union amendments. If an application for a Union amendment also relates to standard amendments, the parts relating to standard amendments shall be deemed as not having been submitted, and the procedure for Union amendments shall apply only to the parts relating to that Union amendment.
+The scrutiny of such applications shall focus on the proposed Union amendments.
+4.   Standard amendments shall be approved and made public by Member States in whose territory the geographical area of the product concerned is located and communicated to the Commission.
+As regards third countries, amendments shall be approved in accordance with the law applicable in the third country concerned.’;
+(28)
+Article 106 is replaced by the following:
+‘Article 106
+Cancellation
+The Commission may, on its own initiative or at the duly substantiated request of a Member State, a third country, or a natural or legal person having a legitimate interest, adopt implementing acts cancelling the protection of a designation of origin or a geographical indication in one or more of the following circumstances:
+(a)
+where compliance with the corresponding product specification is no longer guaranteed;
+(b)
+where no product has been placed on the market bearing the designation of origin or geographical indication for at least seven consecutive years;
+(c)
+where an applicant satisfying the conditions laid down in Article 95 declares that it no longer wishes to maintain the protection of a designation of origin or a geographical indication.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).’;
+(29)
+the following Article is inserted:
+‘Article 106a
+Temporary labelling and presentation
+After an application for the protection of a designation of origin or geographical indication has been forwarded to the Commission, producers may indicate in the labelling and presentation of the product that an application has been filed and use national logos and indications, in compliance with Union law, in particular with Regulation (EU) No 1169/2011.
+Union symbols indicating the protected designation of origin or protected geographical indication and the Union indications “protected designation of origin” or “protected geographical indication” may appear on the labelling only after the publication of the decision conferring protection on that designation of origin or geographical indication.
+Where an application is rejected, any grapevine products labelled in accordance with the first paragraph may be marketed until the stocks are exhausted.’;
+(30)
+Article 111 is deleted;
+(31)
+in Part II, Title II, Chapter I, Section 2, the following Subsection is added:
+
+                                       ‘Subsection 4
+Checks related to designations of origin, geographical indications and traditional terms
+Article 116a
+Checks
+1.   Member States shall take the necessary steps to stop the unlawful use of protected designations of origin, protected geographical indications and protected traditional terms referred to in this Regulation.
+2.   Member States shall designate the competent authority responsible for carrying out checks in respect of the obligations laid down in this Section. To that end, Article 4(2) and (4) and Article 5(1), (4) and (5) of Regulation (EU) 2017/625 of the European Parliament and of the Council (*5) shall apply.
+3.   Within the Union, the competent authority referred to in paragraph 2 of this Article or one or more delegated bodies within the meaning of Article 3, point (5), of Regulation (EU) 2017/625 operating as a product certification body in accordance with the criteria laid down in Title II, Chapter III, of that Regulation, shall verify compliance with product specifications annually, both during the wine production and during or after conditioning.
+4.   The Commission shall adopt implementing acts concerning the following:
+(a)
+the communication to be made by the Member States to the Commission;
+(b)
+rules governing the authority responsible for verifying compliance with product specifications, including where the geographical area is in a third country;
+(c)
+the actions to be implemented by the Member States to prevent the unlawful use of protected designations of origin, protected geographical indications and protected traditional terms;
+(d)
+the checks and verification to be carried out by the Member States, including testing.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+(*5)  Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).’;"
+                        
+(32)
+Article 119 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (a) is replaced by the following:
+‘(a)
+the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:
+(i)
+the term “de-alcoholised” if the actual alcoholic strength of the product is no more than 0,5 % by volume; or
+(ii)
+the term “partially de-alcoholised” if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation.’;
+(ii)
+the following points are added:
+‘(h)
+the nutrition declaration pursuant to Article 9(1), point (l), of Regulation (EU) No 1169/2011;
+(i)
+the list of ingredients pursuant to Article 9(1), point (b), of Regulation (EU) No 1169/2011;
+(j)
+in the case of grapevine products which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E and that have an actual alcoholic strength by volume of less than 10 %, the date of minimum durability pursuant to Article 9(1), point (f), of Regulation (EU) No 1169/2011.’;
+(b)
+paragraph 2 is replaced by the following:
+‘2.   By way of derogation from paragraph 1, point (a), for grapevine products other than those which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the reference to the category of the grapevine product may be omitted for wines whose labels include the name of a protected designation of origin or protected geographical indication.’;
+(c)
+the following paragraphs are added:
+‘4.   By way of derogation from paragraph 1, point (h), the nutrition declaration on the package or on a label attached thereto may be limited to the energy value, which may be expressed by using the symbol “E” for energy. In such cases, the full nutrition declaration shall be provided by electronic means identified on the package or on a label attached thereto. That nutrition declaration shall not be displayed with other information intended for sales or marketing purposes and no user data shall be collected or tracked.
+5.   By way of derogation from paragraph 1, point (i), the list of ingredients may be provided by electronic means identified on the package or on a label attached thereto. In such cases, the following requirements apply:
+(a)
+no user data shall be collected or tracked;
+(b)
+the list of ingredients shall not be displayed with other information intended for sales or marketing purposes; and
+(c)
+the indication of the particulars referred to in Article 9(1), point (c), of Regulation (EU) No 1169/2011 shall appear directly on the package or on a label attached thereto.
+The indication referred to in the first subparagraph, point (c), of this paragraph shall comprise the word “contains” followed by the name of the substance or product as listed in Annex II to Regulation (EU) No 1169/2011.’;
+(33)
+in Article 122, paragraph 1 is amended as follows:
+(a)
+point (b) is amended as follows:
+(i)
+point (ii) is deleted;
+(ii)
+the following point is added:
+‘(vi)
+rules for the indication and designation of ingredients for the application of Article 119(1), point (i).’;
+(b)
+in point (c), the following point is added:
+‘(iii)
+terms referring to a holding and the conditions for their use.’;
+(c)
+in point (d), point (i) is replaced by the following:
+‘(i)
+the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle shapes;’;
+(34)
+Part II, Title II, Chapter II, Section 1, is amended as follows:
+(a)
+Article 124 is deleted;
+(b)
+the heading ‘Subsection 1’ and its title are deleted;
+(c)
+in Article 125, paragraph 3 is replaced by the following:
+‘3.   Agreements within the trade shall conform to the purchase terms laid down in Annex X.’;
+(d)
+Subsections 2 and 3, containing Articles 127 to 144, are deleted;
+(35)
+in Article 145(3), the first sentence is replaced by the following:
+
+                              ‘Member States which provide in their CAP strategic plans for restructuring and conversion of vineyards in accordance with Article 58(1), first subparagraph, point (a), of Regulation (EU) 2021/2115, shall on the basis of the vineyard register submit to the Commission by 1 March each year an updated inventory of their production potential.’;
+(36)
+the following Article is inserted:
+‘Article 147a
+Payment delays for sales of wine in bulk
+By way of derogation from Article 3(1) of Directive (EU) 2019/633, Member States may, upon request of an interbranch organisation recognised under Article 157 of this Regulation operating in the wine sector, provide that the prohibition referred to in Article 3(1), first subparagraph, point (a), of Directive (EU) 2019/633 does not apply to payments made under supply agreements between producers or resellers of wine and their direct buyers for sales transactions concerning wine in bulk, provided that:
+(a)
+specific terms that allow payments to be made after 60 days are included in standard contracts for sales transactions concerning wine in bulk which have been made binding by the Member State pursuant to Article 164 of this Regulation before 30 October 2021 and this extension of the standard contracts is renewed by the Member State as from that date without any significant changes to the terms of payment that would be to the disadvantage of suppliers of wine in bulk; and
+(b)
+the supply agreements between suppliers of wine in bulk and their direct buyers are multiannual or become multiannual.’;
+(37)
+in Article 148(2), point (c)(i) is replaced by the following:
+‘(i)
+the price payable for the delivery, which shall:
+—
+be static and be set out in the contract and/or
+—
+be calculated by combining various factors set out in the contract, which may include objective indicators, indices and methods of calculation of the final price that are easily accessible and comprehensible and that reflect changes in market conditions, the volume delivered and the quality or composition of the raw milk delivered; those indicators may be based on relevant prices, production and market costs; to that effect, Member States may determine indicators, in accordance with objective criteria based on studies carried out on production and the food supply chain; the parties to the contracts are free to refer to these indicators or any other indicators which they deem relevant,’;
+(38)
+in Article 149(2), point (c)(i) is replaced by the following:
+‘(i)
+the volume of raw milk covered by such negotiations does not exceed 4 % of total Union production,’;
+(39)
+Article 150 is deleted;
+(40)
+Article 151 is amended as follows:
+(a)
+the first paragraph is replaced by the following:
+
+                                          ‘The first purchasers of raw milk shall declare to the competent national authority the quantity of raw milk that has been delivered to them each month and the average price paid. A distinction shall be made between organic and non-organic milk.’;
+(b)
+the third paragraph is replaced by the following:
+
+                                          ‘Member States shall notify the Commission of the quantities of raw milk and the average prices referred to in the first paragraph.’;
+(41)
+Article 152(1), point (c), is amended as follows:
+(a)
+point (vii) is replaced by the following:
+‘(vii)
+the management and valorisation of by-products, of residual flows and of waste, in particular to protect the quality of water, soil and landscape, preserving or encouraging biodiversity, and boosting circularity;’;
+(b)
+point (x) is replaced by the following:
+‘(x)
+managing mutual funds;’;
+(42)
+Article 153 is amended as follows:
+(a)
+in paragraph 2, point (c) is replaced by the following:
+‘(c)
+rules enabling the producer members to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;’;
+(b)
+the following paragraph is inserted:
+‘2a.   The statutes of a producer organisation may provide for the possibility of producer members being in direct contact with purchasers, provided that such direct contact does not jeopardise the concentration of supply and placing of products on the market by the producer organisation. Concentration of supply shall be deemed to have been ensured if the essential elements of the sales such as price, quality and volume are negotiated and determined by the producer organisation.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Paragraphs 1, 2 and 2a shall not apply to producer organisations in the milk and milk products sector.’;
+(43)
+in Article 154(1), point (b) is replaced by the following:
+‘(b)
+has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates; such provisions shall not prevent the recognition of producer organisations which are dedicated to small-scale production;’;
+(44)
+Article 157 is amended as follows:
+(a)
+in paragraph 1, the introductory wording is replaced by the following:
+‘1.   Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:’
+(b)
+in paragraph 1, point (c) is amended as follows:
+(i)
+point (vii) is replaced by the following:
+‘(vii)
+providing the information and carrying out the research necessary to innovate, rationalise, improve and adjust production and, where applicable, the processing and marketing, towards products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality, including the specific characteristics of products with a protected designation of origin or protected geographical indication, and protection of the environment, climate action, animal health and animal welfare;’;
+(ii)
+point (xiv) is replaced by the following:
+‘(xiv)
+contributing to the management and developing initiatives for the valorisation of by-products and the reduction and management of waste;’;
+(iii)
+point (xvi) is replaced by the following:
+‘(xvi)
+promoting and implementing measures to prevent, control and manage animal health, plant-protection and environmental risks, including by setting up and managing mutual funds or by contributing to such funds with a view to paying financial compensation to farmers for costs and economic losses arising from the promotion and implementation of such measures;’;
+(c)
+paragraph 1a is replaced by the following:
+‘1a.   Member States may, on request, decide to grant more than one recognition to an interbranch organisation operating in several sectors referred to in Article 1(2) provided the interbranch organisation fulfils the conditions referred to in paragraph 1 for each sector for which it seeks recognition.’;
+(d)
+paragraph 3 is deleted.
+(45)
+Article 158 is amended as follows:
+(a)
+in paragraph 1, the following point is inserted:
+‘(ca)
+strive for a balanced representation of the organisations in the stages of the supply chain referred to in Article 157(1), point (a), that constitute the interbranch organisation;’;
+(b)
+paragraph 4 is replaced by the following:
+‘4.   Member States may recognise interbranch organisations in all sectors existing prior to 1 January 2014, whether they were recognised on request or established by law, even though they do not fulfil the condition laid down in Article 157(1), point (b).’;
+(46)
+Article 163 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Member States may recognise interbranch organisations in the milk and milk products sector provided that such organisations:
+(a)
+fulfil the requirements laid down in Article 157;
+(b)
+carry out their activities in one or more regions in the territory concerned;
+(c)
+account for a significant share of the economic activities referred to in Article 157(1), point (a);
+(d)
+do not themselves engage in the production of, the processing of, or the trade in, products in the milk and milk products sector.
+2.   Member States may decide that interbranch organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are to be considered to be recognised as interbranch organisations under Article 157(1).’;
+(b)
+in paragraph 3, point (d) is replaced by the following:
+‘(d)
+withdraw recognition if the requirements and conditions for recognition laid down in this Article are no longer fulfilled;’;
+(47)
+Article 164 is amended as follows:
+(a)
+paragraph 2 is replaced by the following:
+‘2.   For the purposes of this Section, an “economic area” means a geographical zone made up of adjoining or neighbouring production regions in which production and marketing conditions are homogeneous, or, for products with a protected designation of origin or protected geographical indication recognised under Union law, the geographical zone specified in the product specification.’;
+(b)
+paragraph 4 is amended as follows:
+(i)
+points (l), (m) and (n) are replaced by the following:
+‘(l)
+the use of certified seed except when used for organic production within the meaning of Regulation (EU) 2018/848, and the monitoring of product quality;
+(m)
+the prevention and management of phytosanitary, animal health, food safety or environmental risks;
+(n)
+the management and valorisation of by-products.’;
+(ii)
+the second subparagraph is replaced by the following:
+
+                                                      ‘Those rules shall not cause any damage to other operators, nor prevent the entry of new operators, in the Member State concerned or the Union and shall not have any of the effects listed in Article 210(4) or be otherwise incompatible with Union law or national rules in force.’;
+(48)
+Article 165 is replaced by the following:
+‘Article 165
+Financial contributions of non-members
+Where rules of a recognised producer organisation, a recognised association of producer organisations or a recognised interbranch organisation are extended under Article 164 and the activities covered by those rules are in the general economic interest of economic operators whose activities relate to the products concerned, the Member State which has granted recognition may, after consulting the relevant stakeholders, decide that individual economic operators or groups which are not members of the organisation but which benefit from those activities shall pay the organisation all or part of the financial contributions paid by its members to the extent that such contributions are intended to cover costs directly incurred as a result of pursuing one or more of the activities in question. Any organisation which receives contributions from non-members under this Article, if requested by a member or a non-member that contributes financially to the activities of the organisation, shall make available those parts of its yearly budget which relate to the pursuit of activities listed in Article 164(4).’;
+(49)
+the following Article is inserted:
+‘Article 166a
+Regulation of supply of agricultural products with a protected designation of origin or protected geographical indication
+1.   Without prejudice to Articles 167 and 167a of this Regulation, at the request of a producer organisation or association of producer organisations recognised under Article 152(1) or 161(1) of this Regulation, an interbranch organisation recognised under Article 157(1) of this Regulation, a group of operators as referred to in Article 3(2) of Regulation (EU) No 1151/2012 or a group of producers as referred to in Article 95(1) of this Regulation, Member States may lay down, for a limited period of time, binding rules for the regulation of the supply of agricultural products referred to in Article 1(2) of this Regulation benefiting from a protected designation of origin or from a protected geographical indication under Article 5(1) and (2) of Regulation (EU) No 1151/2012 or under Article 93(1), points (a) and (b), of this Regulation.
+2.   The rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement that is to be concluded between at least two-thirds of the producers of the product as referred to in paragraph 1 of this Article or their representatives, accounting for at least two-thirds of the production of that product in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 or Article 93(1), points (a)(iii) and (b)(iv), of this Regulation for wine. Where the production of the product referred to in paragraph 1 of this Article involves processing and the product specification referred to in Article 7(1) of Regulation (EU) No 1151/2012 or in Article 94(2) of this Regulation restricts the sourcing of the raw material to a specific geographical area, Member States shall require, for the purposes of the rules to be laid down according to paragraph 1 of this Article:
+(a)
+that the producers of that raw material in the specific geographical area be consulted prior to the conclusion of the agreement referred to in this paragraph; or
+(b)
+that at least two-thirds of the producers of the raw material or their representatives, representing at least two-thirds of the production of the raw material used in the processing in the specific geographical area, are also parties to the agreement referred to in this paragraph.
+3.   By way of derogation from paragraph 2 of this Article, for the production of cheese benefitting from a protected designation of origin or protected geographic indication, the rules referred to in paragraph 1 of this Article shall be subject to the existence of a prior agreement between at least two-thirds of the milk producers or their representatives representing at least two-thirds of the raw milk used for the production of that cheese and, where relevant, at least two-thirds of the producers of that cheese or their representatives representing at least two-thirds of the production of that cheese in the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012.
+For the purpose of the first subparagraph of this paragraph, concerning cheese benefiting from a protected geographical indication, the geographical area of origin of the raw milk, as set in the product specification for the cheese, shall be the same as the geographical area referred to in Article 7(1), point (c), of Regulation (EU) No 1151/2012 relating to that cheese.
+4.   The rules referred to in paragraph 1:
+(a)
+shall only cover the regulation of supply of the product concerned and, where applicable, the raw material and shall have the aim of adapting the supply of that product to demand;
+(b)
+shall have effect only on the product and, where applicable, the raw material, concerned;
+(c)
+may be made binding for no more than three years, but may be renewed after that period following a new request, as referred to in paragraph 1;
+(d)
+shall not damage trade in products other than those concerned by those rules;
+(e)
+shall not relate to any transaction after the first marketing of the product concerned;
+(f)
+shall not allow for price fixing, including where prices are set for guidance or recommendation;
+(g)
+shall not render unavailable an excessive proportion of the product concerned that would otherwise be available;
+(h)
+shall not create discrimination, constitute a barrier for new entrants in the market, or lead to small producers being adversely affected;
+(i)
+shall contribute to maintaining the quality of the product concerned or to the development of the product concerned.
+(j)
+shall be without prejudice to Article 149 and Article 152(1a).
+5.   The rules referred to in paragraph 1 shall be published in an official publication of the Member State concerned.
+6.   Member States shall carry out checks in order to ensure that the conditions laid down in paragraph 4 are complied with. Where the competent national authorities find that such conditions have not been complied with, Member States shall repeal the rules referred to in paragraph 1.
+7.   Member States shall notify the Commission forthwith of the rules referred to in paragraph 1 which they have adopted. The Commission shall inform other Member States of any notification of such rules.
+8.   The Commission may at any time adopt implementing acts requiring that a Member State repeal the rules laid down by that Member State pursuant to paragraph 1 of this Article if the Commission finds that those rules do not comply with the conditions laid down in paragraph 4 of this Article, prevent or distort competition in a substantial part of the internal market or jeopardise free trade or the attainment of the objectives of Article 39 TFEU. Those implementing acts shall be adopted without applying the procedures referred to in Article 229(2) and (3) of this Regulation.’;
+(50)
+in Article 168(4), point (c)(i) is replaced by the following:
+‘(i)
+the price payable for the delivery, which shall:
+—
+be static and be set out in the contract and/or
+—
+be calculated by combining various factors set out in the contract, which may include objective indicators, indices and methods of calculation of the final price, that are easily accessible and comprehensible and that reflect changes in market conditions, the quantities delivered and the quality or composition of the agricultural products delivered; those indicators may be based on relevant prices, production and market costs; to that effect, Member States may determine indicators, in accordance with objective criteria based on studies carried out on production and the food supply chain; the parties to the contracts are free to refer to these indicators or any other indicators which they deem relevant.’;
+(51)
+Article 172 is deleted.
+(52)
+Article 172a is replaced by the following:
+‘Article 172a
+Value sharing
+Without prejudice to any specific value-sharing clauses in the sugar sector, farmers, including associations of farmers, may agree with downstream operators on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices for the products concerned or other commodity markets is to be allocated between them.
+Article 172b
+Guidance by interbranch organisations for the sale of grapes for wines with a protected designation of origin or protected geographical indication
+By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation operating in the wine sector may provide non-mandatory price guidance indicators concerning the sale of grapes for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.’;
+(53)
+in Article 182(1), the second subparagraph is replaced by the following:
+
+                              ‘The trigger volume shall be equal to either 125 %, 110 % or 105 %, depending on whether market access opportunities, defined as imports expressed as a percentage of the corresponding domestic consumption during the three preceding years, are less than or equal to 10 %, greater than 10 % but less than or equal to 30 %, or greater than 30 %, respectively.
+Where domestic consumption is not taken into account, the trigger volume shall be equal to 125 %.’;
+(54)
+Articles 192 and 193 are deleted;
+(55)
+in Chapter IV, the following Article is added:
+‘Article 193a
+Suspension of import duties for molasses
+1.   The Commission shall be empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by establishing rules for the suspension of import duties in whole or in part for molasses falling within CN Code 1703.
+2.   In application of the rules referred to in paragraph 1 of this Article, the Commission may adopt implementing acts to suspend in whole or in part import duties for molasses falling within CN Code 1703, without applying the procedure referred to in Article 229(2) or (3).’;
+(56)
+in Part III, Chapter VI, containing Articles 196 to 204, is deleted;
+(57)
+in Article 206, the first paragraph is replaced by the following:
+
+                              ‘Save as otherwise provided in this Regulation, and in accordance with Article 42 TFEU, Articles 101 to 106 TFEU and the implementing provisions thereto shall, subject to Articles 207 to 210a of this Regulation, apply to all agreements, decisions and practices referred to in Article 101(1) and Article 102 TFEU which relate to the production of, or trade in, agricultural products.’;
+(58)
+Article 208 is replaced by the following:
+‘Article 208
+Dominant position
+For the purposes of this Chapter, “dominant position” means a position of economic strength enjoyed by an undertaking which enables it to prevent effective competition being maintained in the relevant market by giving it the power to behave to an appreciable extent independently of its competitors, of its suppliers or customers, and ultimately of consumers.’;
+(59)
+Article 210 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of interbranch organisations recognised under Article 157 of this Regulation which are necessary in order to meet the objectives listed in Article 157(1), point (c), of this Regulation or, as regards the olive oil and table olives and tobacco sectors, the objectives listed in Article 162 of this Regulation, and which are not incompatible with Union rules under paragraph 4 of this Article.
+Agreements, decisions and concerted practices which fulfil the conditions referred to in the first subparagraph of this paragraph shall not be prohibited, no prior decision to that effect being required.
+2.   Recognised interbranch organisations may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with this Article. The Commission shall send the requesting interbranch organisation its opinion within four months of receipt of a complete request.
+If the Commission finds at any time after issuing an opinion that the conditions referred to in paragraph 1 of this Article are no longer met, it shall declare that Article 101(1) TFEU shall apply in the future to the agreement, decision or concerted practice in question and inform the interbranch organisation accordingly.
+The Commission may change the content of an opinion at its own initiative or at the request of a Member State, in particular if the requesting interbranch organisation has provided inaccurate information or misused the opinion.’;
+(b)
+paragraphs 3, 5 and 6 are deleted;
+(60)
+the following Article is inserted:
+‘Article 210a
+Vertical and horizontal initiatives for sustainability
+1.   Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.
+2.   Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.
+3.   For the purposes of paragraph 1, “sustainability standard” means a standard which aims to contribute to one or more of the following objectives:
+(a)
+environmental objectives, including climate change mitigation and adaptation, the sustainable use and protection of landscapes, water and soil, the transition to a circular economy, including the reduction of food waste, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems;
+(b)
+the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resistance in agricultural production; and
+(c)
+animal health and animal welfare.
+4.   Agreements, decisions and concerted practices that fulfil the conditions referred to in this Article shall not be prohibited, no prior decision to that effect being required.
+5.   The Commission shall issue guidelines for operators concerning the conditions for the application of this Article by 8 December 2023.
+6.   From 8 December 2023, producers as referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with this Article. The Commission shall send the applicant its opinion within four months of receipt of a complete request.
+If the Commission finds at any time after issuing an opinion that the conditions referred to in paragraphs 1, 3 and 7 of this Article are no longer met, it shall declare that Article 101(1) TFEU shall apply in the future to the agreement, decision or concerted practice in question and inform the producers accordingly.
+The Commission may change the content of an opinion at its own initiative or at the request of a Member State, in particular if the applicant has provided inaccurate information or misused the opinion.
+7.   The national competition authority as referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in the future, one or more of the agreements, decisions and concerted practices referred to in paragraph 1 are to be modified, discontinued or not take place at all, if it considers that such a decision is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.
+For agreements, decisions and concerted practices covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedures referred to in Article 229(2) and (3).
+When acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing after initiating the first formal measure of the investigation and shall notify the Commission of any resulting decisions without delay after their adoption.
+The decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.’;
+(61)
+Article 212 is deleted;
+(62)
+Article 214a is replaced by the following:
+‘Article 214a
+National payments for certain sectors in Finland
+Subject to authorisation by the Commission, for the period 2023-2027, Finland may continue to grant national aids which it granted in 2022 to producers on the basis of this Article provided that:
+(a)
+the total amount of income aid is degressive over the whole period and in 2027 does not exceed 67 % of the amount granted in 2022; and
+(b)
+prior to any recourse to this possibility, full use has been made of the support schemes under the CAP for the sectors concerned.
+The Commission shall adopt its authorisation without applying the procedure referred to in Article 229(2) or (3) of this Regulation.’;
+(63)
+in Article 218(2), the row for the United Kingdom is deleted;
+(64)
+Article 219(1) is amended as follows:
+(a)
+the first subparagraph is replaced by the following:
+‘1.   In order to react efficiently and effectively against threats of market disturbance caused by significant price rises or falls on internal or external markets or other events and circumstances significantly disturbing or threatening to disturb the market concerned, where that situation, or its effects on the market, is likely to continue or deteriorate, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to take the measures necessary to address that market situation, while respecting any obligations resulting from international agreements concluded in accordance with the TFEU and provided that any other measures available under this Regulation appear to be insufficient or not suitable.’;
+(b)
+the fourth subparagraph is replaced by the following:
+
+                                          ‘Such measures may to the extent and for the time necessary to address the market disturbance or threat thereof extend or modify the scope, duration or other aspects of other measures provided for under this Regulation, adjust or suspend import duties in whole or in part including for certain quantities or periods as necessary, or take the form of a temporary voluntary production reduction scheme, in particular in cases of oversupply.’;
+(65)
+Part V, Chapter I, Section 2, is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                          ‘Market support measures related to animal diseases and plant pests and loss of consumer confidence due to public, animal or plant health risks’;
+(b)
+Article 220 is amended as follows:
+(i)
+the title is replaced by the following:
+
+                                                      ‘Measures concerning animal diseases and plant pests and the loss of consumer confidence due to public, animal or plant health risks’;
+(ii)
+in paragraph 1, point (a) is replaced by the following:
+‘(a)
+restrictions on intra-Union and third-country trade which may result from the application of measures for combating the spread of diseases in animals or the spread of plant pests; and’;
+(iii)
+in paragraph 2, the following point is inserted:
+‘(-a)
+fruit and vegetables;’;
+(iv)
+paragraph 4 is replaced by the following:
+‘4.   The measures provided for in paragraph 1, first subparagraph, point (a) may be taken only if the Member State concerned has taken health, veterinary or phytosanitary measures quickly to stamp out the disease or to monitor, control and eradicate or contain the pest, and only to the extent and for the duration strictly necessary to support the market concerned.’;
+(66)
+in Part V, the following Chapter and Articles are inserted:
+
+                                       ‘Chapter Ia
+Market transparency
+Article 222a
+Union market observatories
+1.   In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
+2.   The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established.
+3.   The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
+(a)
+production, supply and stocks;
+(b)
+prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
+(c)
+short- and medium-term market forecasts;
+(d)
+imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
+The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
+4.   The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
+Article 222b
+Commission reporting on market developments
+1.   In their reports, Union market observatories established pursuant to Article 222a shall identify threats of market disturbance related to significant price increases or decreases in internal or external markets or to other events or circumstances having similar effects.
+2.   The Commission shall regularly present to the European Parliament and to the Council information on the market situation for agricultural products, the causes of market disturbances and possible measures to be taken in response to those market disturbances, in particular measures provided for in Part II, Title I, Chapter I, and Articles 219, 220, 221 and 222, as well as the rationale for those measures’;
+(67)
+in Article 223(1), the second subparagraph is replaced by the following:
+
+                              ‘The information obtained may be transmitted or made available to international organisations, Union and national financial market authorities, the competent authorities of third countries and may be made public, subject to the protection of personal data and the legitimate interest of undertakings in the protection of their business secrets, including prices.
+The Commission shall cooperate and exchange information with competent authorities designated in accordance with Article 22 of Regulation (EU) No 596/2014 and with the European Securities and Markets Authority (ESMA), to help them fulfil their tasks under Regulation (EU) 596/2014.’;
+(68)
+Article 225 is amended as follows:
+(a)
+point (a) is deleted;
+(b)
+points (b) and (c) are deleted;
+(c)
+point (d) is replaced by the following:
+‘(d)
+by 31 December 2025, and every seven years thereafter, on the application of the competition rules as laid down in this Regulation to the agricultural sector in all Member States;’;
+(d)
+the following points are inserted:
+‘(da)
+by 31 December 2023 on the Union market observatories set up in accordance with Article 222a;
+(db)
+by 31 December 2023, and every three years thereafter, on the use of the crisis measures in particular adopted pursuant to Articles 219, to 222;
+(dc)
+by 31 December 2024 on the use of new information and communication technologies to ensure better market transparency as referred to in Article 223;
+(dd)
+by 30 June 2024 on sales designations and carcass classification in the sheepmeat and goatmeat sector;’;
+(69)
+in Part V, Chapter III, containing Article 226, is deleted.
+(70)
+Annex I is amended as follows:
+(a)
+in Part I(a), the first and second row (CN codes 0709 99 60 and 0712 90 19) are deleted;
+(b)
+in Part I(d), the entry in the first row (CN code 0714) is replaced by the following:
+
+                                          ‘
+                                          ex 0714 - Manioc, arrowroot, salep and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets, excluding sweet potatoes of subheading 0714 20 and Jerusalem artichokes of subheading ex 0714 90 90; sago pith;’;
+(c)
+Part IX is amended as follows:
+(i)
+the description in the fifth row (CN code 0706) is replaced by the following:
+
+                                                      ‘Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots (22), fresh or chilled
+
+(22)  This includes swedes.’;"
+                        
+(ii)
+the description in the eighth row (CN code ex 07 09) is replaced by the following:
+
+                                                      ‘Other vegetables, fresh or chilled, excluding vegetables of subheadings 0709 60 91, 0709 60 95, ex 0709 60 99 of genus Pimenta, 0709 92 10 and 0709 92 90
+                                                      ’;
+(iii)
+the following rows are inserted:
+
+                                                      ‘
+                                                      0714 20 sweet potatoes
+
+                                                      ex 0714 90 90 Jerusalem artichokes’;
+(d)
+in Part X, the exclusions for sweetcorn are deleted;
+(e)
+in Part XII, the following entry is added:
+‘(e)
+ex 2202 99 19: - - - Other, de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 % vol.’;
+(f)
+in Part XXIV, Section 1, the entry ‘0709 60 99’ is replaced by the following:
+
+                                          ‘
+                                          ex 0709 60 99: - - - Other, of genus Pimenta’;
+(71)
+in Annex II, Part II is amended as follows:
+(a)
+in Section A, point 4, the second sentence is deleted;
+(b)
+Section B is deleted;
+(72)
+Annex III is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                                   ‘STANDARD QUALITY OF RICE AND SUGAR AS REFERRED TO IN ARTICLE 1a OF REGULATION (EU) No 1370/2013 (*6)
+
+
+(*6)  Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products (OJ L 346, 20.12.2013, p. 12);’;"
+                        
+(b)
+in Part B, Section I is deleted;
+(73)
+Annex VI is deleted;
+(74)
+Annex VII is amended as follows:
+(a)
+Part I is amended as follows:
+(i)
+in point II, the following subparagraph is added:
+
+                                                      ‘At the request of a group referred to in Article 3(2) of Regulation (EU) No 1151/2012, the relevant Member State may decide that the conditions referred to in this point do not apply to the meat of bovine animals with a protected designation of origin or protected geographical indication protected in accordance with Regulation (EU) No 1151/2012 registered before 29 June 2007.’;
+(ii)
+in point III.1(A), the row for the United Kingdom is deleted;
+(iii)
+in point III.1(B), the row for the United Kingdom is deleted;
+(b)
+Part II is amended as follows:
+(i)
+the following introductory wording is added:
+
+                                                      ‘The categories of grapevine products shall be those set out in points (1) to (17). The categories of grapevine products set out in point (1) and points (4) to (9) may undergo a total or partial de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, after having fully attained their respective characteristics as described in those points.’;
+(ii)
+in point 3, point (a) is replaced by the following:
+‘(a)
+with an actual alcoholic strength of not less than 15 % by volume and not more than 22 % by volume. Exceptionally, and for wines of prolonged ageing, those limits may differ in certain liqueur wines with a designation of origin or geographical indication on the list established by the Commission by means of delegated acts adopted in accordance with Article 75(2), on the condition that:
+—
+the wines put into the ageing process shall fulfil the definition of liqueur wines; and
+—
+the actual alcoholic strength of the aged wine shall not be less than 14 % by volume;’;
+(c)
+Appendix I is amended as follows:
+(i)
+point 1(c) is replaced by the following:
+‘(c)
+in Belgium, Denmark, Estonia, Ireland, Lithuania, the Netherlands, Poland and Sweden: the wine-growing areas of these Member States;’
+(ii)
+in point 2(g), the word ‘area’ is replaced by ‘wine-growing region’;
+(iii)
+point 4(f) is replaced by the following:
+‘(f)
+in Romania, areas planted with vines in the following wine-growing regions: Dealurile Munteniei și Olteniei with the vineyards Dealurile Buzăului, Dealu Mare, Severinului and Plaiurile Drâncei, Colinele Dobrogei, Terasele Dunării, the South wine region, including sands and other favourable regions;’;
+(iv)
+point 4(g) is replaced by the following:
+‘(g)
+in Croatia, areas planted with vines in the following sub-regions: Hrvatska Istra, Hrvatsko primorje and Dalmatinska zagora;’;
+(v)
+in point 6, the following point is added:
+‘(h)
+in Croatia, areas planted with vines in the following sub-regions: Sjeverna Dalmacija and Srednja i Južna Dalmacija.’;
+(75)
+Annex VIII is amended as follows:
+(a)
+Part I is amended as follows:
+(i)
+the title is replaced by the following:
+
+                                                      ‘Enrichment, acidification, de-acidification in certain wine-growing zones and de-alcoholisation’;
+(ii)
+in Section B, point 7(b) is replaced by the following:
+‘(b)
+raise the total alcoholic strength by volume of the products referred to in point 6 for the production of wines with a protected designation of origin or protected geographical indication to a level to be determined by Member States.’;
+(iii)
+Section C is replaced by the following:
+‘C.   Acidification and de-acidification
+1.
+2.
+3.
+4.
+5.
+(iv)
+in Section D, point 3 is replaced by the following:
+‘3.
+Acidification and de-acidification of wines shall take place only in the wine-growing zone where the grapes used to produce the wine in question were harvested.’;
+(v)
+the following Section is added:
+‘E.   De-alcoholisation processes
+Each of the de-alcoholisation processes listed below, whether used on its own or in combination with other listed de-alcoholisation processes, shall be allowed in order to reduce part or almost all of the ethanol content in grapevine products referred to in Annex VII, Part II, point 1 and points 4 to 9:
+(a)
+partial vacuum evaporation;
+(b)
+membrane techniques;
+(c)
+distillation.
+The de-alcoholisation processes used shall not result in organoleptic defects of the grapevine product. The elimination of ethanol in grapevine products shall not be done in conjunction with an increase of the sugar content in the grape must.’;
+(b)
+in Part II, Section B, point 3 is replaced by the following:
+‘3.
+Points 1 and 2 shall not apply to products intended for the production, in Ireland and Poland, of products falling within CN code 2206 00 for which Member States may allow the use of a composite name, including the sales designation “wine”.’;
+(76)
+in Annex X, point II, paragraph 2 is replaced by the following:
+‘2.
+The price referred to in paragraph 1 shall apply to sugar beet of sound, fair and marketable quality having a sugar content of 16 % at the reception point.
+The price shall be adjusted by price increases or reductions, agreed by the parties in advance, to allow for deviations from the quality referred to in the first subparagraph.’;
+(77)
+in Annex X, point XI, paragraph 1 is replaced by the following:
+‘1.
+Agreements within the trade as described in Annex II, Part II, Section A, point 6, shall contain conciliation or mediation mechanisms and arbitration clauses.’;
+(78)
+Annexes XI, XII and XIII are deleted.

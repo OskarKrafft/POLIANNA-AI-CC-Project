@@ -1,0 +1,18 @@
+Article 38
+Supervision of forms of infrastructure of certain intermediaries operating under the freedom to provide services
+1.   Where the activities of the following obliged entities are carried out in their territory under the freedom to provide services through agents or distributors, or through other types of infrastructure, including when those activities are carried out under an authorisation obtained under Directive 2013/36/EU, Member States shall ensure that such activities are subject to supervision by their national supervisors:
+(a)
+electronic money issuers as defined in Article 2, point (3), of Directive 2009/110/EC of the European Parliament and of the Council (42);
+(b)
+payment service providers as defined in Article 4, point (11), of Directive (EU) 2015/2366; and
+(c)
+crypto-asset service providers.
+For the purposes of the first subparagraph, the supervisors of the Member State where the activities are carried out shall monitor effectively and ensure compliance with the Regulations (EU) 2024/1624 and (EU) 2023/1113.
+2.   By way of derogation from paragraph 1, supervision of agents, distributors, or other types of infrastructure, referred to in that paragraph shall be carried out by the supervisor of the Member State where the head office of the obliged entity is located where:
+(a)
+the criteria set out in the regulatory technical standard referred to in Article 41(2) are not met; and
+(b)
+the supervisor of the Member State where those agents, distributors, or other types of infrastructure, are located notifies the supervisor of the Member State where the head office of the obliged entity is located that, considering the limited infrastructure of the entity in its territory, supervision of the activities referred to in paragraph 1 is to be carried out by the supervisor of the Member State where the head office of the obliged entity is located.
+3.   For the purposes of this Article, the supervisor of the Member State where the head office of the obliged entity is located and the supervisor of the Member State where the obliged entity operates under the freedom to provide services through agents or distributors, or through other types of infrastructure, shall provide each other any information necessary to assess whether the criteria referred to in paragraph 2, point (a), are met, including on any change in the circumstances of the obliged entity that may have an impact on the satisfaction of those criteria.
+4.   Member States shall ensure that the supervisor of the Member State where the head office of the obliged entity is located informs the obliged entity within 2 weeks of receiving the notification under paragraph 2, point (b), that it will supervise the activities of the agents, distributors, or other types of infrastructure, through which the obliged entities operates under the freedom to provide services in another Member State, and of any subsequent change to their supervision.
+5.   This Article shall not apply when AMLA acts as a supervisor.

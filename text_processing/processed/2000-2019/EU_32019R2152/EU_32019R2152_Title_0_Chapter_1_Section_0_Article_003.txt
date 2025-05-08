@@ -1,0 +1,46 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(a)
+'statistical unit' means statistical units within the meaning of Regulation (EEC) No 696/93;
+(b)
+'reporting unit' means the unit that supplies the data;
+(c)
+'domain' means one or several data sets that cover particular topics;
+(d)
+'topic' means the content of the information to be compiled, each topic covering one or more detailed topics;
+(e)
+'detailed topic' means the detailed content of the information to be compiled related to a topic, each detailed topic covering one or more variables;
+(f)
+'variable' means a characteristic of a unit that may assume more than one of a set of values;
+(g)
+'market activity' means market activity within the meaning of point 1.37 of Chapter 1 of Annex A to Regulation (EU) No 549/2013;
+(h)
+'non-market activity' means non-market activity within the meaning of point 1.34 of Chapter 1 of Annex A to Regulation (EU) No 549/2013;
+(i)
+'market producers' means market producers as defined in point 3.24 of Chapter 3 of Annex A to Regulation (EU) No 549/2013;
+(j)
+'non-market producers' means non-market producers as defined in point 3.26 of Chapter 3 of Annex A to Regulation (EU) No 549/2013;
+(k)
+'national statistical authorities' or 'NSAs' means the national statistical institutes and other national authorities responsible for the development, production and dissemination of European statistics designated by each Member State in accordance with Article 5(1) of Regulation (EC) No 223/2009;
+(l)
+'authoritative source' means the sole provider of data records containing national statistical business register and EuroGroups register data in accordance with quality standards referred to in Article 17;
+(m)
+'microdata' means individual observations or measurements of characteristics of identifiable reporting units or statistical units;
+(n)
+'use for statistical purposes' means use for statistical purposes as defined in point (8) of Article 3 of Regulation (EC) No 223/2009;
+(o)
+'confidential data' means confidential data as defined in point (7) of Article 3 of Regulation (EC) No 223/2009;
+(p)
+'tax authorities' means the national authorities in the Member State responsible for applying Council Directive 2006/112/EC (24);
+(q)
+'customs authorities' means customs authorities as defined in point (1) of Article 5 of Regulation (EU) No 952/2013;
+(r)
+'multinational enterprise group' means an enterprise group within the meaning of Section III C. of the Annex to Regulation (EEC) No 696/93, with at least two enterprises or legal units each of which is located in a different country.
+2.   For the purposes of Articles 11 to 15, the following definitions apply:
+(a)
+'Member State of export' means the Member State from the statistical territory of which goods are exported to their destination in a Member State of import;
+(b)
+'Member State of import' means the Member State into the statistical territory of which goods are imported from a Member State of export;
+(c)
+'goods' means movable property, including electrical energy and natural gas.

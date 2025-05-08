@@ -1,0 +1,784 @@
+Article 66
+Administrative penalties, periodic penalty payments and other administrative measures for breaches of authorisation requirements and requirements for acquisitions or divestiture of material holdings, material transfers of assets and liabilities, mergers or divisions
+1.   Member States shall ensure that their laws, regulations and administrative provisions provide for administrative penalties, periodic penalty payments and other administrative measures at least where:
+(a)
+activities as a credit institution are commenced without obtaining prior authorisation in breach of Article 8 of this Directive;
+(b)
+at least one of the activities referred to in Article 4(1), point (1)(b), of Regulation (EU) No 575/2013 is carried out by an entity that meets the threshold indicated in that point and that is not authorised as a credit institution, except for entities requesting the waiver under Article 8a of this Directive;
+(c)
+the business of taking deposits or other repayable funds from the public is conducted without being authorised as a credit institution in breach of Article 9 of this Directive;
+(d)
+a qualifying holding in a credit institution is acquired, directly or indirectly, or further increased, directly or indirectly, such that the proportion of the voting rights or of the capital held would reach or exceed the thresholds referred to in Article 22(1) of this Directive or the credit institution would become the subsidiary of the acquirer, without notifying in writing the competent authorities of the credit institution in relation to which the acquirer seeks to acquire or increase the qualifying holding, during the assessment period, or against the opposition of the competent authorities, in breach of that Article;
+(e)
+a qualifying holding in a credit institution is disposed of, directly or indirectly, or reduced as a result of which the proportion of the voting rights or of the capital held would fall below the thresholds referred to in Article 25 of this Directive or the credit institution would cease to be a subsidiary of the legal person disposing of the qualifying holding, without notifying in writing the competent authorities, in breach of that Article;
+(f)
+a financial holding company or mixed financial holding company within the scope of Article 21a(1) of this Directive fails to apply for approval in breach of that Article or breaches any other requirement set out in that Article;
+(g)
+a proposed acquirer within the meaning of Article 27a(1) of this Directive fails to notify the relevant competent authority of a direct or indirect acquisition of a material holding, in breach of that Article;
+(h)
+any of the entities referred to in Article 27d of this Directive fails to notify the relevant competent authority of a direct or indirect disposal of a material holding that exceeds 15 % of the eligible capital of that entity;
+(i)
+any of the entities referred to in Article 27f(1) of this Directive executes a material transfer of assets and liabilities without notifying the competent authorities, in breach of that Article;
+(j)
+any of the entities referred to in Article 27i(1) of this Directive carries out a merger or division in breach of that Article.
+2.   Member States shall ensure that in the cases referred to in paragraph 1, the measures that can be applied include at least the following:
+(a)
+administrative penalties:
+(i)
+in the case of a legal person, administrative pecuniary penalties of up to 10 % of the total annual net turnover of the undertaking;
+(ii)
+in the case of a natural person, administrative pecuniary penalties of up to EUR 5 million or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 17 July 2013;
+(iii)
+administrative pecuniary penalties of up to twice the amount of the profits gained or losses avoided because of the breach, where those profits gained or losses avoided can be determined;
+(b)
+periodic penalty payments:
+(i)
+in the case of a legal person, periodic penalty payments of up to 5 % of the average daily net turnover, which, in the case of an ongoing breach, the legal person shall be obliged to pay per day of breach until compliance with an obligation is restored; the periodic penalty payment may be imposed for a period of up to six months from the date set out in the decision of the competent authority requiring the termination of a breach and imposing the periodic penalty payment;
+(ii)
+in the case of a natural person, periodic penalty payments of up to EUR 50 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 9 July 2024, which, in the case of an ongoing breach, the natural person shall be obliged to pay per day of breach, until compliance with an obligation is restored; the periodic penalty payment may be imposed for a period of up to six months from the date set out in the decision of the competent authority requiring the termination of a breach and imposing the periodic penalty payment;
+(c)
+other administrative measures:
+(i)
+a public statement which identifies the natural person, institution, financial holding company, mixed financial holding company or intermediate EU parent undertaking responsible and the nature of the breach;
+(ii)
+an order requiring the natural or legal person responsible to cease the conduct and to desist from a repetition of that conduct;
+(iii)
+suspension of the voting rights of the shareholder or shareholders held responsible for the breaches referred to in paragraph 1;
+(iv)
+subject to Article 65(2), a temporary ban against a member of the management body or any other natural person who is held responsible for the breach from exercising functions in institutions.
+For the purposes of the first subparagraph, point (b), Member States may set a higher maximum amount for periodic penalty payments to be applied per day of breach.
+By way of derogation from the first subparagraph, point (b), Member States may apply periodic penalty payments on a weekly or monthly basis. In that case, the maximum amount of periodic penalty payments to be applied for the relevant weekly or monthly period when a breach takes place shall not exceed the maximum amount of periodic penalty payments that would apply on a daily basis in accordance with that point for the relevant period.
+Periodic penalty payments may be imposed on a given date and start applying at a later date.
+3.   The total annual net turnover referred to in paragraph 2, point (a)(i), of this Article shall be the sum of the following items, determined in accordance with Annexes III and IV to Commission Implementing Regulation (EU) 2021/451 (*15):
+(a)
+interest income;
+(b)
+interest expenses;
+(c)
+expenses on share capital repayable on demand;
+(d)
+dividend income;
+(e)
+fee and commission income;
+(f)
+fee and commission expenses;
+(g)
+gains or losses on financial assets and liabilities held for trading, net;
+(h)
+gains or losses on financial assets and liabilities designated at fair value through profit or loss, net;
+(i)
+gains or losses from hedge accounting, net;
+(j)
+exchange differences (gain or loss), net;
+(k)
+other operating income;
+(l)
+other operating expenses.
+For the purposes of this Article, the basis for the calculation shall be the most recent yearly supervisory financial information which produces an indicator above zero. Where the legal person referred to in paragraph 2 of this Article is not subject to Implementing Regulation (EU) 2021/451, the relevant total annual net turnover shall be the total annual net turnover or the corresponding type of income in accordance with the applicable accounting framework. Where the undertaking concerned is part of a group, the relevant total annual net turnover shall be the total annual net turnover resulting from the consolidated account of the ultimate parent undertaking.
+4.   The average daily net turnover referred to in paragraph 2, point (b)(i), shall be the total annual net turnover referred to in paragraph 3 divided by 365.
+
+(*14)  Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)."
+                        
+
+(*15)  Commission Implementing Regulation (EU) 2021/451 of 17 December 2020 laying down implementing technical standards for the application of Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to supervisory reporting of institutions and repealing Implementing Regulation (EU) No 680/2014 (OJ L 97, 19.3.2021, p. 1).’;"
+                        
+(17)
+Article 67 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (d) is replaced by the following:
+‘(d)
+an institution fails to have in place governance arrangements and gender neutral remuneration policies required by the competent authorities in accordance with Article 74;’
+;
+(ii)
+points (e), (f) and (i) are deleted;
+(iii)
+point (j) is replaced by the following:
+‘(j)
+an institution fails to maintain a net stable funding ratio in breach of Article 413 or 428b of Regulation (EU) No 575/2013 or repeatedly and persistently fails to hold liquid assets in breach of Article 412 of that Regulation;’
+;
+(iv)
+points (k) and (l) are deleted;
+(v)
+the following points are added:
+‘(r)
+an institution fails to meet the own funds requirements laid down in Article 92(1) of Regulation (EU) No 575/2013;
+(s)
+an institution or a natural person repeatedly fails to comply with a decision imposed by the competent authority in accordance with national provisions transposing this Directive or in accordance with Regulation (EU) No 575/2013;
+(t)
+an institution fails to comply with the remuneration requirements laid down in Articles 92, 94 and 95 of this Directive;
+(u)
+an institution acts without the prior permission of the competent authority where national provisions transposing this Directive or Regulation (EU) No 575/2013 require the institution to obtain such prior permission or an institution obtained such permission through false statements or does not comply with the conditions under which such permission was granted;
+(v)
+an institution fails to meet the requirements in relation to the composition, conditions, adjustments and deductions related to own funds as laid down in Part Two of Regulation (EU) No 575/2013;
+(w)
+an institution fails to meet the requirements in relation to its large exposures to a client or a group of connected clients laid down in Part Four of Regulation (EU) No 575/2013;
+(x)
+an institution fails to meet the requirements in relation to the calculation of the leverage ratio, including the application of derogations laid down in Part Seven of Regulation (EU) No 575/2013;
+(y)
+an institution fails to report information or provides incomplete or inaccurate information to the competent authority in relation to the data referred to in Article 430(1) to (3) and in Article 430a of Regulation (EU) No 575/2013;
+(z)
+an institution fails to comply with the data collection and governance requirements laid down in Part Three, Title III, Chapter 2, of Regulation (EU) No 575/2013;
+(aa)
+an institution fails to meet the requirements in relation to the calculation of the risk-weighted exposure amounts or own funds requirements or fails to have in place the governance arrangements laid down in Part Three, Titles II to VI, of Regulation (EU) No 575/2013;
+(ab)
+an institution fails to meet the requirements in relation to the calculation of the liquidity coverage ratio or the net stable funding ratio as laid down in Part Six, Titles I and IV of Regulation (EU) No 575/2013 and in Delegated Regulation (EU) 2015/61.’
+;
+(b)
+paragraph 2 is replaced by the following:
+‘2.   Member States shall ensure that in the cases referred to in paragraph 1, the measures that can be applied include at least the following:
+(a)
+administrative penalties:
+(i)
+in the case of a legal person, administrative pecuniary penalties of up to 10 % of the total annual net turnover of the undertaking;
+(ii)
+in the case of a natural person, administrative pecuniary penalties of up to EUR 5 million or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 17 July 2013;
+(iii)
+administrative pecuniary penalties of up to twice the amount of the profits gained or losses avoided because of the breach, where those profits gained or losses avoided can be determined;
+(b)
+periodic penalty payments:
+(i)
+in the case of a legal person, periodic penalty payments of up to 5 % of the average daily net turnover which, in the case of an ongoing breach, the legal person shall be obliged to pay per day of breach until compliance with an obligation is restored; the periodic penalty payment may be imposed for a period of up to six months from the date set out in the decision of the competent authority requiring the termination of a breach and imposing the periodic penalty payment;
+(ii)
+in the case of a natural person, periodic penalty payments of up to EUR 50 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 9 July 2024, which, in the case of an ongoing breach, the natural person shall be obliged to pay per day of breach, until compliance with an obligation is restored; the periodic penalty payment may be imposed for a period of up to six months from the date set out in the decision of the competent authority requiring the termination of a breach and imposing the periodic penalty payment;
+(c)
+other administrative measures:
+(i)
+a public statement which identifies the natural person, institution, financial holding company, mixed financial holding company or intermediate EU parent undertaking responsible and the nature of the breach;
+(ii)
+an order requiring the natural or legal person responsible to cease the conduct and to desist from a repetition of that conduct;
+(iii)
+in the case of an institution, withdrawal of the authorisation of the institution in accordance with Article 18;
+(iv)
+subject to Article 65(2), a temporary ban against a member of the management body or any other natural person who is held responsible for the breach from exercising functions in institutions.
+For the purposes of the first subparagraph, point (b), Member States may set a higher maximum amount for periodic penalty payments to be applied per day of breach.
+By way of derogation from the first subparagraph, point (b), Member States may apply periodic penalty payments on a weekly or monthly basis. In that case, the maximum amount of periodic penalty payments to be applied for the relevant weekly or monthly period when a breach takes place shall not exceed the maximum amount of periodic penalty payments that would apply on a daily basis in accordance with that point for the relevant period.
+Periodic penalty payments may be imposed on a given date and start applying at a later date.’
+(c)
+the following paragraphs are added:
+‘3.   The total annual net turnover referred to in paragraph 2, point (a)(i), of this Article shall be the sum of the following items, determined in accordance with Annexes III and IV to Implementing Regulation (EU) 2021/451:
+(a)
+interest income;
+(b)
+interest expenses;
+(c)
+expenses on share capital repayable on demand;
+(d)
+dividend income;
+(e)
+fee and commission income;
+(f)
+fee and commission expenses;
+(g)
+gains or losses on financial assets and liabilities held for trading, net;
+(h)
+gains or losses on financial assets and liabilities designated at fair value through profit or loss, net;
+(i)
+gains or losses from hedge accounting, net;
+(j)
+exchange differences (gain or loss), net;
+(k)
+other operating income;
+(l)
+other operating expenses.
+For the purposes of this Article, the basis for the calculation shall be the most recent yearly supervisory financial information which produces an indicator above zero. Where the legal person referred to in paragraph 2 of this Article is not subject to Implementing Regulation (EU) 2021/451, the relevant total annual net turnover shall be the total annual net turnover or the corresponding type of income in accordance with the applicable accounting framework. Where the undertaking concerned is part of a group, the relevant total annual net turnover shall be the total annual net turnover resulting from the consolidated account of the ultimate parent undertaking.
+4.   The average daily net turnover referred to in paragraph 2, point (b)(i), shall be the total annual net turnover referred to in paragraph 3 divided by 365.’
+(18)
+Article 70 is replaced by the following:
+‘Article 70
+Effective application of administrative penalties and other administrative measures, and exercise of powers to impose penalties by competent authorities
+1.   Member States shall ensure that, when determining the type and level of administrative penalties or other administrative measures, the competent authorities shall take into account all relevant circumstances, including, where appropriate:
+(a)
+the gravity and the duration of the breach;
+(b)
+the degree of responsibility of the natural or legal person responsible for the breach;
+(c)
+the financial strength of the natural or legal person responsible for the breach, as indicated, inter alia, by the total turnover of a legal person or the annual income of a natural person;
+(d)
+the importance of profits gained or losses avoided by the natural or legal person responsible for the breach, insofar as they can be determined;
+(e)
+the losses for third parties caused by the breach, insofar as they can be determined;
+(f)
+the level of cooperation of the natural or legal person responsible for the breach with the competent authority;
+(g)
+previous breaches by the natural or legal person responsible for the breach;
+(h)
+any potential systemic consequences of the breach;
+(i)
+criminal penalties previously imposed for the same breach on the natural or legal person responsible for that breach.
+2.   In the exercise of their powers to impose administrative penalties and other administrative measures, competent authorities shall cooperate closely to ensure that those penalties and measures produce the results aimed at by this Directive. They shall also coordinate their actions to prevent accumulation and overlap when applying administrative penalties and other administrative measures to cross-border cases.
+3.   Competent authorities may apply penalties in relation to the same natural or legal person responsible for the same act or omission in the case of an accumulation of administrative and criminal proceedings related to the same breach. However, such accumulation of proceedings and penalties shall be strictly necessary and proportionate to pursue different and complementary objectives of general interest.
+4.   Member States shall have in place appropriate mechanisms ensuring that competent authorities and judicial authorities are duly informed, in a timely manner, where administrative proceedings and criminal proceedings are initiated against the same natural or legal person that may be held responsible for the same conduct in both proceedings.
+5.   By 18 July 2029, EBA shall submit a report to the Commission on the cooperation between competent authorities in the context of the application of administrative penalties, periodic penalty payments and other administrative measures. In addition, EBA shall assess any divergences in the application of administrative penalties between competent authorities in that respect. In particular, EBA shall assess:
+(a)
+the level of cooperation between competent authorities in the context of penalties applicable to cross-border cases or in the case of accumulation of administrative and criminal proceedings;
+(b)
+the exchange of information between competent authorities when dealing with cross-border cases;
+(c)
+best practices developed by any competent authority which might be of benefit for other competent authorities to adopt in the area of administrative penalties, periodic penalty payments and other administrative measures;
+(d)
+the effectiveness and the degree of convergence reached with regard to the enforcement of national provisions transposing this Directive and Regulation (EU) No 575/2013, including the administrative penalties, periodic penalty payments and other administrative measures imposed on natural or legal persons identified as responsible for the breach under national law.’
+(19)
+in Article 73, the first paragraph is replaced by the following:
+
+                              ‘Institutions shall have in place sound, effective and comprehensive strategies and processes to assess and maintain on an ongoing basis the amounts, types and distribution of internal capital that they consider adequate to cover the nature and level of the risks to which they are or might be exposed. Institutions shall explicitly take into account the short, medium and long term for the coverage of ESG risks.’
+                           
+(20)
+in Article 74, paragraph 1 is replaced by the following:
+‘1.   Institutions shall have robust governance arrangements, which include:
+(a)
+a clear organisational structure with well-defined, transparent and consistent lines of responsibility;
+(b)
+effective processes to identify, manage, monitor and report the risks they are or might be exposed to, including ESG risks in the short, medium and long term;
+(c)
+adequate internal control mechanisms, including sound administration and accounting procedures;
+(d)
+network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554;
+(e)
+remuneration policies and practices that are consistent with and promote sound and effective risk management, including by taking into account the institutions’ risk appetite in terms of ESG risks.
+The remuneration policies and practices referred to in the first subparagraph, point (e), shall be gender neutral.’
+                                 
+(21)
+Article 76 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Member States shall ensure that the management body approves and at least every two years reviews the strategies and policies for taking up, managing, monitoring and mitigating the risks the institution is or might be exposed to, including those posed by the macroeconomic environment in which it operates in relation to the status of the business cycle, and those resulting from the current and short-, medium- and long-term impacts of environmental, social and governance (ESG) factors.
+Member States may, taking into consideration the principle of proportionality, allow the management bodies of small and non-complex institutions to review the strategies and policies referred to in the first subparagraph every two years.’
+(b)
+in paragraph 2, the following subparagraphs are added:
+
+                                          ‘Member States shall ensure that the management body develops and monitors the implementation of specific plans that include quantifiable targets and processes to monitor and address the financial risks arising in the short, medium and long term from ESG factors, including those arising from the process of adjustment and from transition trends in the context of the relevant Union and Member State regulatory objectives and legal acts in relation to ESG factors, in particular the objective to achieve climate neutrality, as well as, where relevant for internationally active institutions, third-country legal and regulatory objectives.
+The quantifiable targets and processes to address the ESG risks included in the plans referred to in the second subparagraph of this paragraph shall consider the latest reports and measures prescribed by the European Scientific Advisory Board on Climate Change, in particular in relation to the achievement of the climate targets of the Union. Where the institution discloses information on ESG matters in accordance with Directive 2013/34/EU of the European Parliament and of the Council (*16), the plans referred to in the second subparagraph of this paragraph shall be consistent with the plans referred to in Article 19a or 29a of that Directive and shall, in particular, include actions with regard to the business model and strategy of the institution that are consistent across both plans.
+Member States shall ensure a proportionate application of the second and third subparagraphs for the management bodies of small and non-complex institutions, indicating in what areas a waiver or a simplified procedure may be applied.
+
+(*16)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).’;"
+                        
+(c)
+in paragraph 4, the second subparagraph is replaced by the following:
+
+                                          ‘The management body in its supervisory function and, where one has been established, the risk committee shall determine the nature, the amount, the format, and the frequency of the information on risk which it is to receive. In order to assist in the establishment of sound remuneration policies and practices, the risk committee shall, without prejudice to the tasks of the remuneration committee, examine whether incentives provided by the remuneration system take into consideration risks, including those resulting from the impacts of ESG factors, capital, liquidity and the likelihood and timing of earnings.’
+                                       
+(d)
+paragraph 5 is replaced by the following:
+‘5.   Member States shall, in accordance with the proportionality requirement laid down in Article 7(2) of Commission Directive 2006/73/EC (*17), ensure that institutions have internal control functions independent of the operational functions and which shall have sufficient authority, stature, resources and access to the management body.
+Member States shall ensure that:
+(a)
+the internal control functions ensure that all material risks are properly identified, measured and reported;
+(b)
+the internal control functions provide a comprehensive view of the whole range of risks that the institution is exposed to;
+(c)
+the risk management function is actively involved in elaborating the institution’s risk strategy and in all its material risk management decisions and has control over the effective implementation of the risk strategy;
+(d)
+the internal audit function performs an independent review of the effective implementation of the institution’s risk strategy;
+(e)
+the compliance function assesses and mitigates compliance risk and ensures that the institution’s risk strategy takes into account compliance risk and that compliance risk is adequately taken into account in all material risk management decisions.
+
+(*17)  Commission Directive 2006/73/EC of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 26).’;"
+                        
+(e)
+the following paragraph is added:
+‘6.   Member States shall ensure that the internal control functions have direct access and can report directly to the management body in its supervisory function.
+To that end, the internal control functions shall be independent of the members of the management body in its management function and of senior management, and shall in particular be able to raise concerns and warn the management body in its supervisory function, where appropriate, or where specific risk developments affect or can affect the institution, without prejudice to the responsibilities of the management body pursuant to this Directive and Regulation (EU) No 575/2013.
+The heads of internal control functions shall be independent senior managers with distinct responsibility for the risk management, compliance and internal audit functions. Where the nature, scale and complexity of the activities of the institution do not justify appointing a specific person for the risk management function or the compliance function, another senior person that performs other tasks within the institution may fulfil the responsibilities for the compliance or risk management functions, provided that there is no conflict of interest and that the person responsible for the risk management function and the compliance function:
+(a)
+fulfils the suitability criteria and requirements of knowledge, skills and experience necessary for the different areas concerned; and
+(b)
+has sufficient time to perform both control functions correctly.
+The internal audit function shall not be combined with any other business line or control function of the institution.
+The heads of the internal control functions shall not be removed without prior approval of the management body in its supervisory function.’
+(22)
+Article 77 is amended as follows:
+(a)
+paragraph 3 is replaced by the following:
+‘3.   Competent authorities shall encourage institutions, taking into account their size, internal organisation and the nature, scale and complexity of their activities, to develop internal market risk assessment capacity and to increase the use of internal models for calculating own funds requirements for portfolios of trading book positions, together with internal models to calculate own funds requirements for default risk where their exposures to default risk are material in absolute terms and where they have a large number of material positions in traded debt or equity instruments of different issuers.
+This Article is without prejudice to the fulfilment of the criteria laid down in Part Three, Title IV, Chapter 1b, of Regulation (EU) No 575/2013.’
+(b)
+in paragraph 4, the first subparagraph is replaced by the following:
+
+                                          ‘EBA shall develop draft regulatory technical standards to define the concept of “exposures to default risk which are material in absolute terms” referred to in paragraph 3, first subparagraph, and the thresholds for large numbers of material counterparties and positions in traded debt or equity instruments of different issuers.’
+                                       
+(23)
+Article 78 is amended as follows:
+(a)
+the title is replaced by the following:
+
+                                          ‘Supervisory benchmarking of approaches for calculating own funds requirements’
+                                       
+(b)
+paragraph 1 is replaced by the following:
+‘1.   Competent authorities shall ensure all of the following:
+(a)
+that institutions permitted to use internal approaches for the calculation of risk-weighted exposure amounts or own funds requirements report the results of their calculations for their exposures or positions that are included in the benchmark portfolios;
+(b)
+that institutions using the alternative standardised approach set out in Part Three, Title IV, Chapter 1a, of Regulation (EU) No 575/2013 report the results of their calculations for their exposures or positions that are included in the benchmark portfolios, provided that the size of the institutions’ on- and off-balance-sheet business that is subject to market risk is equal to or greater than EUR 500 million in accordance with Article 325a(1), point (b), of that Regulation;
+(c)
+that institutions permitted to use internal approaches under Part Three, Title II, Chapter 3, of Regulation (EU) No 575/2013, as well as relevant institutions that apply the standardised approach under Part Three, Title II, Chapter 2, of that Regulation, report the results of the calculations of the approaches used for the purpose of determining the amount of expected credit losses for their exposures or positions that are included in the benchmark portfolios, where any of the following conditions is met:
+(i)
+institutions prepare their accounts in conformity with international accounting standards as applied in accordance with Regulation (EC) No 1606/2002;
+(ii)
+institutions undertake the valuation of assets and off-balance-sheet items and the determination of their own funds in conformity with international accounting standards pursuant to Article 24(2) of Regulation (EU) No 575/2013;
+(iii)
+institutions undertake the valuation of assets and off-balance-sheet items in conformity with accounting standards under Council Directive 86/635/EEC (*18) and use an expected credit loss model that is the same as the one used in international accounting standards as applied in accordance with Regulation (EC) No 1606/2002.
+Institutions shall submit the results of the calculations referred to in the first subparagraph together with an explanation of the methodologies used to produce them and any qualitative information, as requested by EBA, that can explain the impact of those calculations on own funds requirements. Those results shall be submitted at least annually to the competent authorities. EBA may conduct a supervisory benchmarking exercise every two years for each approach referred to in the first subparagraph after that exercise has run five times for each single approach.
+
+(*18)  Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions (OJ L 372, 31.12.1986, p. 1).’;"
+                        
+(c)
+paragraph 3 is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+
+                                                      ‘Competent authorities shall, on the basis of the information submitted by institutions in accordance with paragraph 1, monitor the range of risk-weighted exposure amounts or own funds requirements, as applicable, for the exposures or transactions in the benchmark portfolio resulting from the approaches of those institutions. Competent authorities shall make an assessment of the quality of those approaches with at least the same frequency as the EBA exercise referred to in paragraph 1, second subparagraph, paying particular attention to:’
+                                                   
+(ii)
+point (b) is replaced by the following:
+‘(b)
+approaches where there is particularly high or low variability, and also where there is a significant and systematic under-estimation of own funds requirements.’
+;
+(iii)
+the second subparagraph is replaced by the following:
+
+                                                      ‘EBA shall produce a report to assist the competent authorities in the assessment of the quality of the approaches based on the information referred to in paragraph 2.’
+                                                   
+(d)
+in paragraph 5, the introductory wording is replaced by the following:
+
+                                          ‘The competent authorities shall ensure that their decisions on the appropriateness of corrective actions, as referred to in paragraph 4, comply with the principle that such actions must maintain the objectives of the approaches within the scope of this Article and therefore do not:’
+                                       
+(e)
+paragraph 6 is replaced by the following:
+‘6.   EBA may issue guidelines and recommendations in accordance with Article 16 of Regulation (EU) No 1093/2010 where it considers them necessary on the basis of the information and assessments referred to in paragraphs 2 and 3 of this Article in order to improve supervisory practices or practices of institutions with regard to the approaches within the scope of the supervisory benchmarking.’
+(f)
+paragraph 8 is amended as follows:
+(i)
+in the first subparagraph, the following point is added:
+‘(c)
+the list of relevant institutions referred to in paragraph 1, point (c).’
+;
+(ii)
+the following subparagraph is inserted after the first subparagraph:
+
+                                                      ‘For the purposes of point (c), when determining the list of relevant institutions, EBA shall take into account proportionality considerations.’
+                                                   
+(24)
+in Article 79, the following point is added:
+‘(e)
+institutions conduct an ex ante assessment of any crypto-asset exposure they intend to take on and of the adequacy of existing processes and procedures to manage counterparty risk, and report on those assessments to their competent authority.’
+;
+(25)
+Article 81 is replaced by the following:
+‘Article 81
+Concentration risk
+Competent authorities shall ensure that the concentration risk arising from exposures to each counterparty, including central counterparties, groups of connected counterparties, and counterparties in the same economic sector, geographic region or from the same activity or commodity, the application of credit risk mitigation techniques, and including in particular risks associated with large indirect credit exposures, such as a single collateral issuer, is addressed and controlled, including by means of written policies and procedures. For crypto-assets without an identifiable issuer, the concentration risk shall be considered in terms of exposure to the crypto-assets with similar features.’
+(26)
+in Article 83, the following paragraph is added:
+‘4.   Competent authorities shall ensure that institutions conduct an ex ante assessment of any crypto-asset exposure they intend to take on and of the adequacy of existing processes and procedures to manage market risk, and report on those assessments to their competent authority.’
+(27)
+in Article 85, paragraph 1 is replaced by the following:
+‘1.   Competent authorities shall ensure that institutions implement policies and processes to evaluate and manage exposures to operational risk, including risks arising from outsourcing arrangements and direct and indirect crypto-asset exposures and exposures to crypto-asset service providers, and to cover low-frequency high-severity events. Institutions shall articulate what constitutes operational risk for the purposes of those policies and procedures.’
+(28)
+the following article is inserted:
+‘Article 87a
+Environmental, social and governance risks
+1.   Competent authorities shall ensure that institutions have, as part of their governance arrangements, including the risk management framework required under Article 74(1), robust strategies, policies, processes and systems for the identification, measurement, management and monitoring of ESG risks over the short, medium and long term.
+2.   The strategies, policies, processes and systems referred to in paragraph 1 shall be proportionate to the scale, nature and complexity of the ESG risks of the business model and scope of the institution’s activities, and consider the short and medium term, and a long-term time horizon of at least 10 years.
+3.   Competent authorities shall ensure that institutions test their resilience to long-term negative impacts of ESG factors, both under baseline and adverse scenarios within a given timeframe, starting with climate-related factors. For such resilience testing, competent authorities shall ensure that institutions include a number of ESG scenarios reflecting potential impacts of environmental and social changes and associated public policies on the long-term business environment. Competent authorities shall ensure that in the resilience testing process, institutions use credible scenarios, based on the scenarios elaborated by international organisations.
+4.   Competent authorities shall assess and monitor the development of institutions’ practices concerning their ESG strategies and risk management, including the plans that include quantifiable targets and processes to monitor and address the ESG risks arising in the short, medium and long term, to be prepared in accordance with Article 76(2). That assessment shall take into account the institutions’ sustainability-related product offerings, their transition finance policies, related loan origination policies, and ESG-related targets and limits. Competent authorities shall assess the robustness of those plans as part of the supervisory review and evaluation process.
+Where relevant, for the assessment referred to in the first subparagraph, competent authorities may cooperate with authorities or public bodies in charge of climate change and environmental supervision.
+5.   By 10 January 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify:
+(a)
+the minimum standards and reference methodologies for the identification, measurement, management and monitoring of ESG risks;
+(b)
+the content of plans to be prepared in accordance with Article 76(2), which shall include specific timelines and intermediate quantifiable targets and milestones, in order to monitor and address the financial risks arising from ESG factors, including those arising from the process of adjustment and from transition trends in the context of the relevant Union and Member States regulatory objectives and legal acts in relation to ESG factors, in particular the objective to achieve climate neutrality, as well as, where relevant for internationally active institutions, third-country legal and regulatory objectives;
+(c)
+qualitative and quantitative criteria for assessing the impact of ESG risks on the risk profile and solvency of institutions in the short, medium and long term;
+(d)
+criteria for setting the scenarios referred to in paragraph 3, including the parameters and assumptions to be used in each of the scenarios, specific risks and time horizons.
+Where relevant, the methodologies and assumptions sustaining the targets, the commitments and strategic decisions disclosed by the content of the plans referred to in Article 19a or 29a of Directive 2013/34/EU, or other relevant disclosure and due diligence frameworks, shall be consistent with the criteria, methodologies and the targets as referred to in the first subparagraph of this paragraph, and also with the assumptions and commitments included in those plans.
+EBA shall update the guidelines referred to in the first subparagraph on a regular basis, to reflect the progress made in measuring and managing ESG risks as well as the development of the Union regulatory objectives on sustainability.’
+(29)
+Article 88 is amended as follows:
+(a)
+in paragraph 1, second subparagraph, point (e) is replaced by the following:
+‘(e)
+the Chair of the management body in its supervisory function of an institution shall not exercise simultaneously the functions of a chief executive officer within the same institution.’
+;
+(b)
+the following paragraph is added:
+‘3.   Without prejudice to the overall collective responsibility of the management body, Member States shall ensure that institutions draw up, maintain and update individual statements setting out the roles and duties of all members of the management body in its management function, of senior management and of key function holders and a mapping of duties, including details of the reporting lines, of the lines of responsibility, and of the persons who are part of the governance arrangements as referred to in Article 74(1) and of their duties.
+Member States shall ensure that the individual statements of duties and the mapping of duties are made available at all times and communicated, including to obtain authorisation as set out in Article 8, in due time, upon request, to the competent authorities.’
+(30)
+Article 91 is replaced by the following:
+‘Article 91
+Management body and suitability assessment
+1.   Institutions, and financial holding companies and mixed financial holding companies that have been granted approval in accordance with Article 21a(1) (“the entities”), shall have the primary responsibility for ensuring that members of the management body are at all times of sufficiently good repute, act with honesty, integrity and independence of mind and possess sufficient knowledge, skills and experience to perform their duties and fulfil the criteria and requirements set out in paragraphs 2 to 6 of this Article, except as regards temporary administrators appointed by competent authorities under Article 29(1) of Directive 2014/59/EU and special managers appointed by resolution authorities under Article 35(1) of that Directive. The absence of a criminal conviction or of ongoing prosecutions for a criminal offence shall not in itself be sufficient to fulfil the requirement to be of good repute and act with honesty and integrity.
+1a.   The entities shall ensure that members of the management body fulfil at all times the criteria and requirements set out in paragraphs 2 to 6 and shall assess the suitability of members of the management body taking into account supervisory expectations, before they take up their position and periodically, as laid down in applicable laws and regulations, guidelines and internal suitability policies.
+However, where the majority of the members of the management body is to be replaced at the same time by newly appointed members and the application of the first subparagraph would lead to a situation where the suitability assessment of the incoming members would be carried out by the outgoing members, Member States may allow the assessment to take place after the newly appointed members have taken up their position. When submitting the application to the competent authority, in accordance with paragraph 1f, the entity shall also confirm the existence of those conditions.
+1b.   Where the entities conclude, based on the internal suitability assessment referred to in paragraph 1a, that the member or the prospective member concerned does not fulfil the criteria and requirements set out in paragraph 1, the entities shall:
+(a)
+ensure that the prospective member concerned does not take up the position under consideration where that assessment is completed before the prospective member takes up that position;
+(b)
+remove such a member from the management body, in a timely manner; or
+(c)
+take the additional measures, in a timely manner, necessary to ensure that such a member is or becomes suitable for the position concerned.
+1c.   The entities shall ensure that information about the suitability of the members of the management body remains up-to-date. The entities shall, upon request, provide that information to the competent authority through means determined by the competent authority.
+1d.   Member States shall at least ensure that for the following entities, the competent authority receives a suitability application without undue delay, and as soon as there is a clear intention to appoint a member of the management body in its management function or the chair of the management body in its supervisory function, and, in any event, at the latest 30 working days before the prospective members take up their position:
+(a)
+EU parent institutions that qualify as large institutions;
+(b)
+parent institutions in a Member State that qualify as large institutions, except where they are affiliated to a central body;
+(c)
+central bodies that qualify as large institutions or that supervise large institutions affiliated to them;
+(d)
+stand-alone institutions in the Union that qualify as large institutions;
+(e)
+large subsidiaries, as defined in Article 4(1), point (147), of Regulation (EU) No 575/2013;
+(f)
+parent financial holding companies in a Member State, parent mixed financial holding companies in a Member State, EU parent financial holding companies and EU parent mixed financial holding companies, having large institutions within their group, except those falling under Article 21a(4) of this Directive.
+1e.   The suitability application referred to in paragraph 1d shall be accompanied by:
+(a)
+a suitability questionnaire and a curriculum vitae;
+(b)
+the internal suitability assessment referred to in paragraph 1a, unless the second subparagraph of that paragraph applies;
+(c)
+criminal records, as soon as they become available;
+(d)
+any other documents required under national law, as soon as they become available;
+(e)
+any other documents listed by the competent authority, as soon as they become available; and
+(f)
+an indication of the date of appointment and the date on which the duties will be effectively taken up.
+The entities shall provide the suitability application and the accompanying documents to the competent authority through means determined by the competent authority.
+Where a competent authority does not have sufficient information to conduct the suitability assessment based on the items listed in the first subparagraph of this paragraph, it may require that the prospective member does not take up the position before the required information has been provided, unless the competent authority is satisfied that it is not possible for such information to be provided.
+Where the competent authority has concerns as to whether the prospective member fulfils the criteria and requirements set out in paragraphs 2 to 6 of this Article, it shall engage in an enhanced dialogue with the institution to address the identified concerns with a view to ensuring that the prospective member is or becomes suitable when taking up the position.
+EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify how the enhanced dialogue to address suitability concerns is to be carried out.
+1f.   Member States shall ensure that competent authorities assess whether the members of the management body fulfil at all times the criteria and requirements set out in paragraphs 2 to 6. The entities shall provide the suitability application and other information necessary for assessing the suitability of members of their management body to the competent authority through means determined by the competent authority.
+Competent authorities may request additional information or documentation, including interviews or hearings.
+1g.   The competent authorities shall, in particular, verify whether the criteria and requirements set out in paragraphs 2 to 6 of this Article are still fulfilled where there are reasonable grounds to suspect that money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that there is an increased risk thereof, in connection with the entity.
+1h.   Where members of the management body do not at all times fulfil the criteria and requirements set out in paragraphs 2 to 6, Member States shall ensure that competent authorities have the necessary powers to:
+(a)
+in the case of ex ante assessment, prevent such members from being part of, or remove them from, the management body;
+(b)
+in the case of ex post assessment, remove such members from the management body; or
+(c)
+require the entities concerned to take additional measures necessary to ensure that such members are or become suitable for the position concerned.
+As soon as any new facts or other circumstances that could affect the suitability of the members of the management body become known, the entities shall reassess the suitability of those members and shall inform without undue delay the competent authority thereof.
+Where the competent authority becomes aware that the relevant information concerning the suitability of the members of the management body has changed and such change could affect the suitability of the members concerned, the competent authority shall reassess their suitability.
+Competent authorities shall not be required to reassess the suitability of the members of the management body when their mandate is renewed unless relevant information that is known to competent authorities has changed and such change could affect the suitability of the member concerned.
+1i.   Competent authorities may request the authority responsible for the supervision of anti-money laundering or counter-terrorist financing in accordance with Directive (EU) 2015/849 to consult, in the context of their verifications, and on a risk-sensitive basis, the relevant information concerning the members of the management body. Competent authorities may also request access to the central AML/CFT database referred to in Regulation (EU) 2024/1620 of the European Parliament and of the Council (*19). The Authority for Anti-Money Laundering and Countering the Financing of Terrorism established by that Regulation (the “Authority for Anti-Money Laundering and Countering the Financing of Terrorism”) shall decide whether to grant such access.
+1j.   At least with respect to the appointment of members of the management body for a position in the entities referred to in paragraph 1d, competent authorities shall duly consider setting a maximum period for concluding the suitability assessment. That maximum period may be extended, where appropriate.
+2.   Each member of the management body shall commit sufficient time to performing that member’s functions in the entities.
+2a.   Each member of the management body shall be of good repute, act with honesty, integrity and independence of mind to effectively assess and challenge the decisions of the management body where necessary and to effectively oversee and monitor management decision-making. Being a member of the management body of a credit institution permanently affiliated to a central body shall not in itself constitute an obstacle for acting with independence of mind.
+2b.   The management body shall possess adequate collective knowledge, skills and experience to be able to understand the entity’s activities, as well as the associated risks it is exposed to, and the impacts it creates in the short, medium and long term, taking into account ESG factors. The overall composition of the management body shall be sufficiently diversified to reflect an adequately broad range of experience.
+3.   The number of directorships which a member of the management body may hold simultaneously shall take into account individual circumstances and the nature, scale and complexity of the entity’s activities. Unless where members of the management body represent the interests of a Member State, members of the management body of an entity that is significant in terms of its size, internal organisation and the nature, scope and complexity of its activities shall, from 1 July 2014, not hold more than one of the following combinations of directorships simultaneously:
+(a)
+one executive directorship with two non-executive directorships;
+(b)
+four non-executive directorships.
+4.   For the purposes of paragraph 3, the following shall count as a single directorship:
+(a)
+executive or non-executive directorships held within the same group;
+(b)
+executive or non-executive directorships held within either of the following:
+(i)
+entities which are members of the same institutional protection scheme provided that the conditions set out in Article 113(7) of Regulation (EU) No 575/2013 are fulfilled or entities where the same institutional protection scheme holds a qualifying holding;
+(ii)
+undertakings, including non-financial entities, in which the entity holds a qualifying holding.
+For the purposes of the first subparagraph, point (a), of this paragraph, a group shall mean a group of undertakings that are related to each other as described in Article 22 of Directive 2013/34/EU or a group of undertakings that are subsidiaries of the same financial holding company or mixed financial holding company.
+5.   Directorships in organisations which do not pursue predominantly commercial objectives shall not count for the purposes of paragraph 3.
+6.   Competent authorities may authorise members of the management body to hold one additional non-executive directorship.
+7.   Entities shall devote adequate human and financial resources to the induction and training of members of the management body, including on ESG risks and impacts and on ICT risk as defined in Article 4(1), point (52c), of Regulation (EU) No 575/2013.
+8.   Member States or competent authorities shall require entities and their respective nomination committees, where established, to engage a broad set of qualities and competences when recruiting members and to proportionally promote diversity and gender balance in the management body. For that purpose, entities shall put in place a policy promoting diversity in the management body.
+9.   Competent authorities shall collect the information disclosed in accordance with Article 435(2), point (c), of Regulation (EU) No 575/2013 and shall use that information to benchmark diversity practices. Competent authorities shall provide EBA with that information. EBA shall use that information to benchmark diversity practices at Union level.
+10.   For the purposes of this Article and Article 91a, EBA shall develop draft regulatory technical standards for the entities listed in paragraph 1d of this Article to further specify the minimum content of the suitability questionnaire, curricula vitae and the internal suitability assessment to be submitted to the competent authorities for conducting the suitability assessment referred to in paragraph 1f of this Article and in Article 91a(5).
+Member States shall ensure that appropriate standards are developed for entities other than those referred to in paragraph 1d of this Article.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Article 10 to 14 of Regulation (EU) No 1093/2010.
+11.   By 10 July 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, on the following:
+(a)
+the notion of a sufficient time commitment of a member of the management body to perform his or her functions, by reference to the individual circumstances and the nature, scale and complexity of the activities of the entity;
+(b)
+the notions of good repute, honesty, integrity and independence of mind of a member of the management body as referred to in paragraph 2a;
+(c)
+the notion of adequate collective knowledge, skills and experience of the management body as referred to in paragraph 2b;
+(d)
+the notion of adequate human and financial resources devoted to the induction and training of members of the management body as referred to in paragraph 7;
+(e)
+the notion of diversity to be taken into account for the selection of members of the management body as referred to in paragraph 8;
+(f)
+the criteria to determine whether there are reasonable grounds to suspect that money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that there is an increased risk thereof, in connection with the entity.
+For the purposes of the first subparagraph, point (f), EBA shall closely cooperate with ESMA and with the Authority for Anti-Money Laundering and Countering the Financing of Terrorism.
+12.   By 31 December 2029, EBA, in close cooperation with the ECB, shall review and report on the application of paragraphs 1d to 1j and on their effectiveness in ensuring that the “fit-and-proper” framework is fit for purpose, taking into account the principle of proportionality. EBA shall submit that report to the European Parliament and to the Council. On the basis of that report, the Commission shall submit a legislative proposal, if appropriate.
+13.   This Article and Article 91a shall be without prejudice to provisions of the Member States on the representation of employees in the management body.
+14.   This Article and Article 91a shall be without prejudice to provisions of the Member States on the appointment of members of the management body in its supervisory function by regional or local elected bodies or on appointments where the management body does not have any competence in the process of selecting and appointing its members. In those cases, appropriate safeguards shall be put in place to ensure the suitability of those members of the management body.
+
+(*19)  Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (OJ L, 2024/1620, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1620/oj).’;"
+                        
+(31)
+the following article is inserted:
+‘Article 91a
+Key function holders and suitability assessment
+1.   The entities referred to in Article 91(1) shall have the primary responsibility for ensuring that key function holders are at all times of sufficiently good repute, act with honesty and integrity and possess sufficient knowledge, skills and experience necessary to perform their duties. The absence of a criminal conviction or of ongoing prosecutions for a criminal offence shall not in itself be sufficient to fulfil the requirement to be of good repute and act with honesty and integrity.
+2.   The entities shall ensure that key function holders fulfil at all times the criteria and requirements set out in paragraph 1 and shall assess the suitability of key function holders before they take up their position and periodically, taking into account supervisory expectations, as laid down in applicable laws and regulations, guidelines and internal suitability policies.
+3.   Where the entities conclude, based on the internal suitability assessment referred to in paragraph 2, that a person does not fulfil the criteria and requirements set out in paragraph 1, the entities shall:
+(a)
+not appoint that person as a key function holder, where that assessment is completed before the person takes up the position;
+(b)
+remove that person as a key function holder, in a timely manner; or
+(c)
+take the additional measures, in a timely manner, necessary to ensure that such a person is or becomes suitable for the position concerned.
+The entities shall take all measures necessary to ensure the appropriate functioning of the position of a key function holder, including replacing the key function holder if that person ceases to meet the suitability criteria and requirements.
+4.   The entities shall ensure that information about the suitability of the key function holders remains up-to-date. The entities shall, upon request, provide that information to the competent authority through means determined by the competent authority.
+5.   Member States shall ensure that competent authorities assess that the heads of internal control functions and the chief financial officer fulfil at all times the criteria and requirements set out in paragraph 1 where those heads or the officer are appointed for roles at least in the following entities:
+(a)
+EU parent institutions that qualify as large institutions;
+(b)
+parent institutions in a Member State that qualify as large institutions; except where they are affiliated to a central body;
+(c)
+central bodies that qualify as large institutions or that supervise large institutions affiliated to them;
+(d)
+stand-alone institutions in the Union that qualify as large institutions;
+(e)
+large subsidiaries, as defined in Article 4(1), point (147), of Regulation (EU) No 575/2013;
+(f)
+parent financial holding companies in a Member State, parent mixed financial holding companies in a Member State, EU parent financial holding companies and EU parent mixed financial holding companies, having large institutions within their group, except those falling under Article 21a(4) of this Directive.
+6.   Where the heads of internal control functions and the chief financial officer do not fulfil at all times the criteria and requirements set out in paragraph 1, Member States shall ensure that competent authorities have the necessary powers to:
+(a)
+in the case of ex ante assessment, prevent such heads or officer from taking up the position or remove them from the position;
+(b)
+in the case of ex post assessment, remove such heads or officer, or require the entity to remove them from the position;
+(c)
+require the entities concerned to take additional appropriate measures to ensure that such heads or officer are or become suitable for the position concerned.
+As soon as any new facts or other circumstances that could affect the suitability of the heads of internal control functions and the chief financial officer become known, the entities referred to in paragraph 5 shall reassess the suitability of those heads and that officer, and shall inform without undue delay the competent authority thereof.
+Where the competent authority becomes aware that the relevant information concerning the suitability of the heads of internal control functions and the chief financial officer has changed and such change could affect the suitability of the heads or of the officer concerned, the competent authority shall reassess their suitability.
+Competent authorities shall not be required to reassess the suitability of such heads or officer when their contract is renewed or extended, unless relevant information that is known to competent authorities has changed and such change could affect the suitability of the heads or officer concerned.
+At least with respect to the appointment of those heads of internal control functions and that chief financial officer for positions in the entities referred to in paragraph 5, competent authorities shall duly consider setting a maximum period for concluding the suitability assessment. That maximum period may be extended, where appropriate.
+7.   Competent authorities may request the authority responsible for the supervision of anti-money laundering or counter-terrorist financing in accordance with Directive (EU) 2015/849 to consult, in the context of their verifications, and on a risk-sensitive basis, the relevant information concerning the heads of internal control functions and the chief financial officer. Competent authorities may also request access to the central AML/CFT database referred to in Regulation (EU) 2024/1620. The Authority for Anti-Money Laundering and Countering the Financing of Terrorism shall decide whether to grant such access.
+8.   By 10 July 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, on the following:
+(a)
+the notions of good repute, honesty and integrity as referred to in paragraph 1;
+(b)
+the notion of sufficient knowledge, skills and experience as referred to in paragraph 1;
+(c)
+the criteria to determine whether there are reasonable grounds to suspect that money laundering or terrorist financing within the meaning of Article 1 of Directive (EU) 2015/849 is being or has been committed or attempted, or that there is an increased risk thereof, in connection with the entity.
+For the purposes of the first subparagraph, point (c), EBA shall closely cooperate with ESMA and with the Authority for Anti-Money Laundering and Countering the Financing of Terrorism.’
+(32)
+Article 92 is amended as follows:
+(a)
+in paragraph 2, points (e) and (f) are replaced by the following:
+‘(e)
+staff engaged in internal control functions are independent of the business units they oversee, have appropriate authority, and are remunerated in accordance with the achievement of the objectives linked to their functions, independent of the performance of the business areas they control;
+(f)
+the remuneration of the heads of internal control functions is directly overseen by the remuneration committee referred to in Article 95 or, if such a committee has not been established, by the management body in its supervisory function;’
+;
+(b)
+in paragraph 3, point (b) is replaced by the following:
+‘(b)
+staff members with managerial responsibility over the institution’s internal control functions or material business units;’
+;
+(33)
+Article 94 is amended as follows:
+(a)
+in paragraph 1, point (a) is replaced by the following:
+‘(a)
+where remuneration is performance related, the total amount of remuneration is based on a combination of the assessment of the performance of the individual and of the business unit concerned and of the overall results of the institution and when assessing individual performance, financial and non-financial criteria are taken into account, including the treatment of the risks referred to in Article 76(2);’
+;
+(b)
+in paragraph 2, third subparagraph, point (a) is replaced by the following:
+‘(a)
+managerial responsibility and internal control functions;’
+;
+(c)
+in paragraph 3, point (a) is replaced by the following:
+‘(a)
+an institution that is not a large institution and the value of the assets of which is on average and on an individual basis, in accordance with this Directive and Regulation (EU) No 575/2013, equal to or less than EUR 5 billion over the four-year period immediately preceding the current financial year;’
+;
+(34)
+in Article 97(4), the second subparagraph is replaced by the following:
+
+                                 ‘When conducting the review and evaluation referred to in paragraph 1 of this Article, competent authorities shall apply the principle of proportionality in accordance with the criteria disclosed pursuant to Article 143(1), point (c). In particular, for the purpose of conducting the review and evaluation of an institution, the competent authority may consider whether all of the following conditions are met:
+(a)
+the institution is not a G-SII, a non-EU G-SII, or a G-SII entity in accordance with Regulation (EU) No 575/2013;
+(b)
+the institution has not been identified as an other systemically important institution (O-SII) in accordance with Article 131(1) and (3) of this Directive;
+(c)
+the institution is part of a group where the parent institution and the vast majority of the subsidiary institutions are related to each other as described in Article 22 of Directive 2013/34/EU;
+(d)
+the subsidiary institutions referred to in point (c) of this subparagraph meet all of the following conditions:
+(i)
+they qualify, or the vast majority of them qualify, as mutuals, cooperative societies or savings institutions in accordance with Article 27(1), point (a), of Regulation (EU) No 575/2013 and the applicable national law includes a cap or restriction on the maximum level of distributions;
+(ii)
+on an individual or sub-consolidated basis, their total assets do not exceed EUR 30 billion.’
+(35)
+Article 98 is amended as follows:
+(a)
+in paragraph 1, the following point is added:
+‘(k)
+the extent to which the institutions have put in place appropriate policies and operational actions related to quantifiable targets and milestones set out in the plans to be prepared in accordance with Article 76(2).’
+;
+(b)
+the following paragraphs are added:
+‘9.   The review and evaluation performed by competent authorities shall include the assessment of institutions’ governance and risk management processes for dealing with ESG risks, as well as of the institutions’ exposures to ESG risks. In determining the adequacy of institutions’ processes and exposures, competent authorities shall take into account the business models of those institutions.
+Institutions’ exposures to ESG risks shall be assessed also on the basis of institutions’ plans to be prepared in accordance with Article 76(2). Institutions’ governance and risk management processes with regard to ESG risks shall be brought into line with the objectives set out in those plans.
+The review and evaluation performed by competent authorities shall include the assessment of the institutions’ plans to be prepared in accordance with Article 76(2), as well as of the progress made towards addressing the ESG risks arising from the process of adjustment towards climate neutrality and towards other relevant Union regulatory objectives in relation to ESG factors.
+10.   The review and evaluation performed by competent authorities shall include the assessment of institutions’ governance and risk management processes for crypto-asset exposures and the provision of crypto-asset services, including by considering institutions’ policies and procedures for identifying risks, as well as the adequacy of the results of the assessments referred to in Article 79, point (e), and Article 83(4).’
+(36)
+in Article 100, the following paragraphs are added:
+‘3.   Institutions and third parties acting in a consulting capacity to institutions in the context of stress testing exercises shall refrain from activities that can impair a stress test, such as benchmarking, exchange of information among themselves, agreements on common behaviour, or optimisation of their submissions for stress tests. Without prejudice to other relevant provisions laid down in this Directive and in Regulation (EU) No 575/2013, competent authorities shall have all information gathering and investigatory powers that are necessary to detect those activities.
+4.   EBA, EIOPA and ESMA shall, through the Joint Committee referred to in Article 54 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010, develop guidelines to ensure that consistency, long-term considerations and common standards for assessment methodologies are integrated into the stress testing of ESG risks. The Joint Committee shall publish those guidelines by 10 January 2026. EBA, EIOPA and ESMA shall, through that Joint Committee, explore how social and governance related risks can be integrated into stress testing.’
+(37)
+in Article 101, paragraph 3 is replaced by the following:
+‘3.   If for a trading desk using an internal market risk model, results of back-testing or the profit and loss attribution test indicate that the model is no longer sufficiently accurate, the competent authorities shall review the conditions for the permission for using the internal model or impose appropriate measures to ensure that the model is improved promptly.’
+(38)
+Article 104 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+
+                                                      ‘For the purposes of Article 97, Article 98(1), (4), (5), (9) and (10), Article 101(4) and Article 102 of this Directive and of the application of Regulation (EU) No 575/2013, competent authorities shall have at least the power to:’
+                                                   
+(ii)
+point (e) is replaced by the following:
+‘(e)
+restrict or limit the business, including with regard to the acceptance of deposits, the operations or network of institutions or to request the divestment of activities that pose excessive risks to the soundness of an institution;’
+;
+(iii)
+the following points are added:
+‘(m)
+require institutions to reduce the risks arising in the short, medium and long term from ESG factors, including those arising from the process of adjustment and from transition trends in the context of the relevant Union, Member States or third-country legal and regulatory objectives, through adjustments to their business strategies, governance and risk management for which a reinforcement of the targets, measures, and actions included in their plans to be prepared in accordance with Article 76(2) could be requested;
+(n)
+require institutions to undertake stress testing or scenario analysis to assess risks arising from crypto-asset exposures and from the provision of crypto-asset services.’
+;
+(b)
+the following paragraph is added:
+‘4.   EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify how competent authorities can identify whether the credit valuation adjustment risk of institutions, referred to in Article 381 of Regulation (EU) No 575/2013, poses excessive risks to the soundness of those institutions.’
+(39)
+Article 104a is amended as follows:
+(a)
+in paragraph 3, the second subparagraph is replaced by the following:
+
+                                          ‘Where additional own funds are required to address the risk of excessive leverage not sufficiently covered by Article 92(1), point (d), of Regulation (EU) No 575/2013, competent authorities shall determine the level of the additional own funds required under paragraph 1, point (a), of this Article as the difference between the capital considered adequate pursuant to paragraph 2 of this Article, except for the fifth subparagraph thereof, and the relevant own funds requirements set out in Parts Three and Seven of Regulation (EU) No 575/2013.’
+                                       
+(b)
+the following paragraphs are added:
+‘6.   Where an institution becomes bound by the output floor laid down in Article 92(3) of Regulation (EU) No 575/2013, the following shall apply:
+(a)
+the nominal amount of additional own funds required by the institution’s competent authority in accordance with Article 104(1), point (a), to address risks other than the risk of excessive leverage is not to increase as a result of the institution becoming bound by the output floor;
+(b)
+the institution’s competent authority shall, without delay, and in any event no later than the end date of the next review and evaluation process, review the additional own funds it required from the institution in accordance with Article 104(1), point (a), and remove any parts thereof that would double-count the risks that are already fully covered by the fact that the institution is bound by the output floor;
+(c)
+as soon as the competent authority has completed the review referred to in point (b) of this subparagraph, point (a) of this subparagraph shall no longer apply.
+For the purposes of this Article and Articles 131 and 133 of this Directive, an institution shall be considered as bound by the output floor when the institution’s total risk exposure amount calculated in accordance with Article 92(3), first subparagraph, of Regulation (EU) No 575/2013 exceeds its un-floored total risk exposure amount calculated in accordance with Article 92(4) of that Regulation.
+7.   By 10 April 2025, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to further specify how to operationalise the requirements set out in paragraph 6 of this Article, and in particular:
+(a)
+how competent authorities are to reflect in their supervisory review and evaluation process the fact that an institution has become bound by the output floor;
+(b)
+how competent authorities and institutions are to communicate and disclose the impact on supervisory requirements of an institution becoming bound by the output floor.
+8.   For the purposes of paragraph 2, as long as an institution is bound by the output floor, the institution’s competent authority shall not impose an additional own funds requirement that would double-count the risks that are already fully covered by the fact that the institution is bound by the output floor.’
+(40)
+in Article 104b, the following paragraph is inserted:
+‘4a.   Where an institution becomes bound by the output floor, its competent authority may review its guidance on additional own funds communicated to that institution to ensure that its calibration remains appropriate.’
+(41)
+in Article 106, paragraph 1 is replaced by the following:
+‘1.   Member States shall empower the competent authorities to:
+(a)
+require institutions to publish the information referred to in Part Eight of Regulation (EU) No 575/2013 more frequently than required by Articles 433 to 433c of that Regulation;
+(b)
+set deadlines for institutions, other than small and non-complex institutions, to submit disclosure information to EBA for its publication on the EBA website for centralised disclosures;
+(c)
+require institutions to use specific media and locations for publications, other than the EBA website for centralised disclosures, or the financial statements of institutions.
+By 10 July 2025, EBA shall, taking into consideration Part Eight of Regulation (EU) No 575/2013, issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify the requirements set out in paragraph 1 of this Article.’
+(42)
+in Title VII, Chapter 3, the following Section is inserted before Section I:
+
+
+                                          ‘SECTION I
+
+
+
+Application of this Chapter to investment firm groups
+
+
+Article 110a
+Scope of application to investment firm groups
+This Chapter applies to investment firm groups, as defined in Article 4(1), point (25), of Regulation (EU) 2019/2033, where at least one investment firm in that group is subject to Regulation (EU) No 575/2013 pursuant to Article 1(2) or (5) of Regulation (EU) 2019/2033.
+This Chapter does not apply to investment firm groups where no investment firm in that group is subject to Regulation (EU) No 575/2013 pursuant to Article 1(2) or (5) of Regulation (EU) 2019/2033.’
+(43)
+Article 121 is replaced by the following:
+‘Article 121
+Qualification of members of the management body
+Member States shall require that the members of the management body of a financial holding company or mixed financial holding company, other than those that have been granted approval in accordance with Article 21a(1), be of sufficiently good repute and possess sufficient knowledge, skills and experience as referred to in Article 91(1) to perform those duties, taking into account the specific role of a financial holding company or mixed financial holding company. The financial holding companies or mixed financial holding companies shall have the primary responsibility for ensuring the suitability of the members of their management body.’
+(44)
+Article 131 is amended as follows:
+(a)
+in paragraph 5a, the second subparagraph is replaced by the following:
+
+                                          ‘Within six weeks of receipt of the notification referred to in paragraph 7 of this Article, the ESRB shall provide the Commission with an opinion as to whether the O-SII buffer is deemed appropriate. EBA may also provide the Commission with its opinion on the buffer in accordance with Article 16a(1) of Regulation (EU) No 1093/2010.’
+                                       
+(b)
+in paragraph 6, the following point is added:
+‘(c)
+where an O-SII becomes bound by the output floor, its competent authority or designated authority shall review, by a date no later than the date of the annual review referred to in point (b), the institution’s O-SII buffer requirement in order to ensure that its calibration remains appropriate.’
+;
+(c)
+in paragraph 15, the second subparagraph is replaced by the following:
+
+                                          ‘Where the sum of the systemic risk buffer rate as calculated for the purposes of Article 133(10), (11) or (12) and the O-SII buffer rate or the G-SII buffer rate to which the same institution is subject to would be higher than 5 %, the procedure set out in paragraph 5a of this Article shall apply. For the purposes of this paragraph, where the decision to set a systemic risk buffer, O-SII buffer or G-SII buffer results in a decrease or no change from any of the previously set rates, the procedure set out in paragraph 5a of this Article shall not apply.’
+                                       
+(45)
+Article 133 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Each Member State shall ensure that it is possible to set a systemic risk buffer of Common Equity Tier 1 capital for the financial sector or one or more subsets of that sector on all or a subset of exposures as referred to in paragraph 5 of this Article, in order to prevent and mitigate macroprudential or systemic risks, including macroprudential or systemic risks arising from climate change, not covered by Regulation (EU) No 575/2013 and by Articles 130 and 131 of this Directive, that is to say a risk of disruption in the financial system with the potential to have serious negative consequences for the financial system and the real economy in a specific Member State.’
+(b)
+paragraph 8 is amended as follows:
+(i)
+point (c) is replaced by the following:
+‘(c)
+the systemic risk buffer is not to be used to address any of the following:
+(i)
+risks that are covered by Articles 130 and 131 of this Directive;
+(ii)
+risks that are fully covered by the calculation set out in Article 92(3) of Regulation (EU) No 575/2013;’
+;
+(ii)
+the following point is added:
+‘(d)
+where a systemic risk buffer applies to the total risk exposure amount of an institution and that institution becomes bound by the output floor, its competent authority or designated authority shall review, by a date no later than the date of the biennial review referred to in point (b) of this paragraph, the institution’s systemic risk buffer requirement in order to ensure that its calibration remains appropriate.’
+;
+(c)
+paragraphs 11 and 12 are replaced by the following:
+‘11.   Where the setting or resetting of a systemic risk buffer rate or rates on any set or subset of exposures referred to in paragraph 5 subject to one or more systemic risk buffers results in a combined systemic risk buffer rate at a level higher than 3 % and up to 5 % for any of those exposures, the competent authority or the designated authority of the Member State that sets that buffer shall request in the notification submitted in accordance with paragraph 9 the opinions of the Commission and the ESRB.
+Within a month of receipt of the notification referred to in paragraph 9, the ESRB shall provide the Commission with an opinion as to whether the systemic risk buffer rate or rates are deemed appropriate. Within two months of receipt of that notification, the Commission, taking into account the opinion of the ESRB, shall provide its opinion.
+Where the opinion of the Commission is negative, the competent authority or the designated authority, as applicable, of the Member State that sets that systemic risk buffer shall comply with that opinion or give reasons for not doing so.
+Where one or more institutions to which one or more systemic risk buffer rates apply is a subsidiary of a parent undertaking established in another Member State, the ESRB and the Commission shall also consider in their opinions whether applying the systemic risk buffer rate or rates to those institutions is deemed appropriate.
+Where the authorities of the subsidiary and of the parent undertaking disagree on the systemic risk buffer rate or rates applicable to that institution and in the case of a negative opinion of both the Commission and the ESRB, the competent authority or the designated authority, as applicable, may refer the matter to EBA and request its assistance in accordance with Article 19 of Regulation (EU) No 1093/2010. The decision to set the systemic risk buffer rate or rates for those exposures shall be suspended until EBA has taken a decision.
+For the purposes of this paragraph, the recognition of a systemic risk buffer rate set by another Member State in accordance with Article 134 shall not count towards the thresholds referred to in the first subparagraph of this paragraph.
+12.   Where the setting or resetting of a systemic risk buffer rate or rates on any set or subset of exposures referred to in paragraph 5 subject to one or more systemic risk buffers results in a combined systemic risk buffer rate higher than 5 % for any of those exposures, the competent authority or the designated authority, as applicable, shall seek the authorisation of the Commission before implementing a systemic risk buffer.
+Within six weeks of receipt of the notification referred to in paragraph 9 of this Article, the ESRB shall provide the Commission with an opinion as to whether the systemic risk buffer is deemed appropriate. EBA may also provide the Commission with its opinion on that systemic risk buffer in accordance with Article 16a(1) of Regulation (EU) No 1093/2010, within six weeks of receipt of that notification.
+Within three months of receipt of the notification referred to in paragraph 9, the Commission, taking into account the assessment of the ESRB and EBA, where relevant, and where it is satisfied that the systemic risk buffer rate or rates do not entail disproportionate adverse effects on the whole or parts of the financial system of other Member States or of the Union as a whole forming or creating an obstacle to the proper functioning of the internal market, shall adopt an act authorising the competent authority or the designated authority, as applicable, to adopt the proposed measure.
+For the purposes of this paragraph, the recognition of a systemic risk buffer rate set by another Member State in accordance with Article 134 shall not count towards the threshold referred to in the first subparagraph of this paragraph.’
+(46)
+Article 142 is amended as follows:
+(a)
+in paragraph 2, point (c) is replaced by the following:
+‘(c)
+a plan and timeframe for the increase of own funds with the objective of meeting fully the combined buffer requirement or, where applicable, the leverage ratio buffer requirement;’
+;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   The competent authority shall assess the capital conservation plan, and shall approve the plan only if it considers that the plan, if implemented, would be reasonably likely to conserve or raise sufficient capital to enable the institution to meet its combined buffer requirement or, where applicable, its leverage ratio buffer requirement within a period which the competent authority considers appropriate.’
+(c)
+in paragraph 4, point (b) is replaced by the following:
+‘(b)
+exercise its powers under Article 102 to impose more stringent restrictions on distributions than those required by Articles 141 and 141b, as applicable.’
+;
+(47)
+Article 161 is amended as follows:
+(a)
+paragraph 3 is deleted;
+(b)
+paragraph 5 is replaced by the following:
+‘5.   By 31 December 2016, the Commission shall review and report on the results achieved under Article 91(9), including the appropriateness of benchmarking diversity practices, taking into account all relevant Union and international developments, and shall submit its report to the European Parliament and to the Council together with a legislative proposal if appropriate.’.

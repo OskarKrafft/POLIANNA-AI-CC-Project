@@ -1,0 +1,12 @@
+Article 54
+Scope of SST sub-component
+1.   The SST sub-component shall support the following activities:
+(a)
+the establishment, development and operation of a network of ground-based and space-based SST sensors of the Member States, including sensors developed through ESA or the Union private sector, and nationally operated Union sensors, to survey and track space objects and to produce a European catalogue of space objects;
+(b)
+the processing and analysis of SST data at national level in order to produce SST information and SST services referred to in Article 55(1);
+(c)
+the provision of the SST services referred to in Article 55(1) to the SST users referred to in Article 56;
+(d)
+monitoring and seeking synergies with initiatives promoting development and deployment of technologies for spacecraft disposal at the end of operational lifetime and of technological systems for the prevention and elimination of space debris, as well as with the international initiatives in the area of the space traffic management.
+2.   The SST sub-component shall also provide technical and administrative support to ensure the transition between the Programme and the SST support framework established by Decision No 541/2014/EU.

@@ -1,0 +1,18 @@
+Article 16
+Principles of capacity-allocation mechanisms and congestion-management procedures concerning transmission system operators
+1.   The maximum capacity at all relevant points referred to in Article 18(3) shall be made available to market participants, taking into account system integrity and efficient network operation.
+2.   The transmission system operator shall implement and publish non-discriminatory and transparent capacity-allocation mechanisms, which shall:
+(a)
+provide appropriate economic signals for the efficient and maximum use of technical capacity, facilitate investment in new infrastructure and facilitate cross-border exchanges in natural gas;
+(b)
+be compatible with the market mechanisms including spot markets and trading hubs, while being flexible and capable of adapting to evolving market circumstances; and
+(c)
+be compatible with the network access systems of the Member States.
+3.   The transmission system operator shall implement and publish non-discriminatory and transparent congestion-management procedures which facilitate cross-border exchanges in natural gas on a non-discriminatory basis and which shall be based on the following principles:
+(a)
+in the event of contractual congestion, the transmission system operator shall offer unused capacity on the primary market at least on a day-ahead and interruptible basis; and
+(b)
+network users who wish to re-sell or sublet their unused contracted capacity on the secondary market shall be entitled to do so.
+In regard to point (b) of the first subparagraph, a Member State may require notification or information of the transmission system operator by network users.
+4.   In the event that physical congestion exists, non-discriminatory, transparent capacity-allocation mechanisms shall be applied by the transmission system operator or, as appropriate, by the regulatory authorities.
+5.   Transmission system operators shall regularly assess market demand for new investment. When planning new investments, transmission system operators shall assess market demand and take into account security of supply.

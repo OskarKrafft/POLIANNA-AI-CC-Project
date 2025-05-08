@@ -1,0 +1,33 @@
+Article 25
+Exemptions from specific requirements for significant benchmarks
+1.   An administrator may choose not to apply Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) or Article 15(2) with respect to its significant benchmark where that administrator considers that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmark or the size of the administrator.
+2.   In the event that an administrator chooses not to apply one or more of the provisions referred to in paragraph 1, it shall immediately notify the competent authority and provide it with all relevant information confirming the administrator's assessment that the application of one or more of those provisions would be disproportionate taking into account the nature or impact of the benchmarks or the size of the administrator.
+3.   A competent authority may decide that the administrator of a significant benchmark is nevertheless to apply one or more of the requirements laid down in Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) and Article 15(2) if it considers that it would be appropriate taking into account the nature or the impact of the benchmarks or the size of the administrator. In its assessment, the competent authority shall, based on the information provided by the administrator, take into account the following criteria:
+(a)
+the vulnerability of the benchmark to manipulation;
+(b)
+the nature of the input data;
+(c)
+the level of conflicts of interest;
+(d)
+the degree of discretion of the administrator;
+(e)
+the impact of the benchmark on markets;
+(f)
+the nature, scale and complexity of the provision of the benchmark;
+(g)
+the importance of the benchmark to financial stability;
+(h)
+the value of financial instruments, financial contracts or investment funds that reference the benchmark;
+(i)
+the administrator's size, organisational form or structure.
+4.   Within 30 days of receipt of a notification from an administrator under paragraph 2, the competent authority shall notify that administrator of its decision to apply an additional requirement pursuant to paragraph 3. In the event that the notification to the competent authority is made during the course of an authorisation or registration procedure, the deadlines set out in Article 34 shall apply.
+5.   When exercising its supervisory powers in accordance with Article 41, a competent authority shall regularly review whether its assessment pursuant to paragraph 3 of this Article is still valid.
+6.   If a competent authority finds, on reasonable grounds, that the information submitted to it pursuant to paragraph 2 of this Article is incomplete or that supplementary information is needed, the 30-day time limit referred to in paragraph 4 of this Article shall apply only from the date on which such complementary information is provided by the administrator, unless the deadlines of Article 34 apply pursuant to paragraph 4 of this Article.
+7.   Where an administrator of a significant benchmark does not comply with one or more of the requirements laid down in Article 4(2), points (c), (d) and (e) of Article 4(7), point (b) of Article 11(3) and Article 15(2), it shall publish and maintain a compliance statement that clearly states why it is appropriate for that administrator not to comply with those provisions.
+8.   ESMA shall develop draft implementing technical standards to develop a template for the compliance statement referred to in paragraph 7.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 1 April 2017.
+Power is conferred to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+9.   ESMA shall develop draft regulatory technical standards to specify further the criteria referred to in paragraph 3.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.

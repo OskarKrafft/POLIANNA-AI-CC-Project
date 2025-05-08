@@ -1,0 +1,15 @@
+Article 2
+Definitions
+For the purpose of this Regulation, the following definitions shall apply:
+(a)
+‘Community statistics’ mean Community statistics as defined in the first indent of Article 2 of Regulation (EC) No 322/97;
+(b)
+‘production of statistics’ means production of statistics as defined in the second indent of Article 2 of Regulation (EC) No 322/97;
+(c)
+‘Commission (Eurostat)’ means the Community authority as defined in the fourth indent of Article 2 of Regulation (EC) No 322/97;
+(d)
+‘energy products’ mean combustible fuels, heat, renewable energy, electricity, or any other form of energy;
+(e)
+‘aggregates’ mean data aggregated at national level on the treatment or use of energy products, namely production, trade, stocks, transformation, consumption, and structural characteristics of the energy system such as installed capacities for electricity generation or production capacities for oil products;
+(f)
+‘quality of data’ means the following aspects of statistical quality: relevance, accuracy, timeliness and punctuality, accessibility and clarity, comparability, coherence and completeness.

@@ -1,0 +1,59 @@
+Article 259
+Hierarchy of methods
+1.   Institutions shall use the methods in accordance with the following hierarchy:
+(a)
+for a rated position or a position in respect of which an inferred rating may be used, the Ratings Based Method set out in Article 261 shall be used to calculate the risk-weighted exposure amount;
+(b)
+for an unrated position the institution may use the Supervisory Formula Method set out in Article 262 where it can produce estimates of PD, and where applicable exposure value and LGD as inputs into the Supervisory Formula Method in accordance with the requirements for the estimation of those parameters under the Internal Ratings Based approach in accordance with Section 3. An institution other than the originator institution may only use the Supervisory Formula Method subject to the prior permission of the competent authorities, which shall only be granted where the institution fulfils the condition provided in the first sentence of this point;
+(c)
+as an alternative to point (b) and only for unrated positions in ABCP programmes, the institution may use the Internal Assessment Approach as set out in paragraph 4 if the competent authorities have permitted it to do so;
+(d)
+in all other cases, a risk weight of 1 250 % shall be assigned to securitisation positions which are unrated;
+(e)
+notwithstanding point (d), and subject to the prior permission by the competent authorities, an institution may calculate the risk weight for an unrated position in an ABCP programme in accordance with Article 253 or 254, if the unrated position is not in commercial paper and falls within the scope of application of an Internal Assessment Approach for which permission is being sought. The aggregated exposure values treated by this exception shall not be material and in any case less than 10 % of the aggregate exposure values treated by the institution under the Internal Assessment Approach. The institution shall stop making use of this when the permission for the relevant Internal Assessment Approach has been refused.
+2.   For the purposes of using inferred ratings, an institution shall attribute to an unrated position an inferred credit assessment equivalent to the credit assessment of a rated reference position which is the most senior position which is in all respects subordinate to the unrated securitisation position in question and meets all of the following conditions:
+(a)
+the reference positions shall be subordinate in all respects to the unrated securitisation position;
+(b)
+the maturity of the reference positions shall be equal to or longer than that of the unrated position in question;
+(c)
+on an ongoing basis, any inferred rating shall be updated to reflect any changes in the credit assessment of the reference positions.
+3.   The competent authorities shall grant institutions permission to use the ‧Internal Assessment Approach‧ as set out in paragraph 4 where all of the following conditions are met:
+(a)
+positions in the commercial paper issued from the ABCP programme shall be rated positions;
+(b)
+the internal assessment of the credit quality of the position shall reflect the publicly available assessment methodology of one or more ECAIs, for the rating of securities backed by the exposures of the type securitised;
+(c)
+the ECAIs, the methodology of which shall be reflected as required by point (b), shall include those ECAIs which have provided an external rating for the commercial paper issued from the ABCP programme. Quantitative elements, such as stress factors, used in assessing the position to a particular credit quality shall be at least as conservative as those used in the relevant assessment methodology of the ECAIs in question;
+(d)
+in developing its internal assessment methodology the institution shall take into consideration relevant published ratings methodologies of the ECAIs that rate the commercial paper of the ABCP programme. This consideration shall be documented by the institution and updated regularly, as outlined in point (g);
+(e)
+the institution's internal assessment methodology shall include rating grades. There shall be a correspondence between such rating grades and the credit assessments of ECAIs. This correspondence shall be explicitly documented;
+(f)
+the internal assessment methodology shall be used in the institution's internal risk management processes, including its decision making, management information and internal capital allocation processes;
+(g)
+internal or external auditors, an ECAI, or the institution's internal credit review or risk management function shall perform regular reviews of the internal assessment process and the quality of the internal assessments of the credit quality of the institution's exposures to an ABCP programme. If the institution's internal audit, credit review, or risk management functions perform the review, then these functions shall be independent of the ABCP programme business line, as well as the customer relationship;
+(h)
+the institution shall track the performance of its internal ratings over time to evaluate the performance of its internal assessment methodology and shall make adjustments, as necessary, to that methodology when the performance of the exposures routinely diverges from that indicated by the internal ratings;
+(i)
+the ABCP programme shall incorporate underwriting standards in the form of credit and investment guidelines. In deciding on an asset purchase, the ABCP programme administrator shall consider the type of asset being purchased, the type and monetary value of the exposures arising from the provision of liquidity facilities and credit enhancements, the loss distribution, and the legal and economic isolation of the transferred assets from the entity selling the assets. A credit analysis of the asset seller's risk profile shall be performed and shall include analysis of past and expected future financial performance, current market position, expected future competitiveness, leverage, cash flow, interest coverage and debt rating. In addition, a review of the seller's underwriting standards, servicing capabilities, and collection processes shall be performed;
+(j)
+the ABCP programme's underwriting standards shall establish minimum asset eligibility criteria that, in particular:
+(i)
+exclude the purchase of assets that are significantly past due or defaulted;
+(ii)
+limit excess concentration to individual obligor or geographic area;
+(iii)
+limits the tenor of the assets to be purchased;
+(k)
+the ABCP programme shall have collections policies and processes that take into account the operational capability and credit quality of the servicer. The ABCP programme shall mitigate risk relating to the performance of the seller and the servicer through various methods, such as triggers based on current credit quality that would preclude commingling of funds;
+(l)
+the aggregated estimate of loss on an asset pool that the ABCP programme is considering purchasing shall take into account all sources of potential risk, such as credit and dilution risk. If the seller-provided credit enhancement is sized based only on credit-related losses, then a separate reserve shall be established for dilution risk, if dilution risk is material for the particular exposure pool. In addition, in sizing the required enhancement level, the program shall review several years of historical information, including losses, delinquencies, dilutions, and the turnover rate of the receivables;
+(m)
+the ABCP programme shall incorporate structural features, such as wind-down triggers, into the purchase of exposures in order to mitigate potential credit deterioration of the underlying portfolio.
+4.   Under the Internal Assessment Approach, the unrated position shall be assigned by the institution to one of the rating grades laid down in point (e) of paragraph 3. The position shall be attributed a derived rating the same as the credit assessments corresponding to that rating grade as laid down in point (e) of paragraph 3. Where this derived rating is, at the inception of the securitisation, at the level of investment grade or better, it shall be considered the same as an eligible credit assessment by an ECAI for the purposes of calculating risk-weighted exposure amounts.
+5.   Institutions which have obtained permission to use the Internal Assessment Approach shall not revert to the use of other methods unless all of the following conditions are met:
+(a)
+the institution has demonstrated to the satisfaction of the competent authority that the institution has good cause to do so;
+(b)
+the institution has received the prior permission of the competent authority.

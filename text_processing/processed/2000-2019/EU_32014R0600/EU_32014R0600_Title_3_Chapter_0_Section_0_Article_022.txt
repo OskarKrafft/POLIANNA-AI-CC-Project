@@ -1,0 +1,14 @@
+Article 22
+Providing information for the purposes of transparency and other calculations
+1.   In order to carry out calculations for determining the requirements for the pre-trade and post-trade transparency and the trading obligation regimes imposed by Articles 3 to 11, Articles 14 to 21 and Article 32, which are applicable to financial instruments and for determining whether an investment firm is a systematic internaliser, competent authorities may require information from:
+(a)
+trading venues;
+(b)
+APAs; and
+(c)
+CTPs.
+2.   Trading venues, APAs and CTPs shall store the necessary data for a sufficient period of time.
+3.   Competent authorities shall transmit to ESMA such information as ESMA requires to produce the reports referred to in Article 5(4), (5) and (6).
+4.   ESMA shall develop draft regulatory technical standards to specify the content and frequency of data requests and the formats and the timeframe in which trading venues, APAs and CTPs must respond to such requests in accordance with paragraph 1, the type of data that must be stored, and the minimum period of time for which trading venues, APAs and CTPs must store data in order to be able to respond to such requests in accordance with paragraph 2.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

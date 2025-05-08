@@ -1,0 +1,23 @@
+Article 22
+Review and evaluation
+1.   The competent authority shall, at least on an annual basis, review the arrangements, strategies, processes and mechanisms implemented by a CSD with respect to compliance with this Regulation and evaluate the risks to which the CSD is, or might be, exposed or which it creates for the smooth functioning of securities markets.
+2.   The competent authority shall require the CSD to submit to the competent authority an adequate recovery plan to ensure continuity of its critical operations.
+3.   The competent authority shall ensure that an adequate resolution plan is established and maintained for each CSD so as to ensure continuity of at least its core functions, having regard to the size, systemic importance, nature, scale and complexity of the activities of the CSD concerned and any relevant resolution plan established in accordance with Directive 2014/59/EU.
+4.   The competent authority shall establish the frequency and depth of the review and evaluation referred to in paragraph 1 having regard to the size, systemic importance, nature, scale and complexity of the activities of the CSD concerned. The review and evaluation shall be updated at least on an annual basis.
+5.   The competent authority shall subject the CSD to on-site inspections.
+6.   When performing the review and evaluation referred to in paragraph 1, the competent authority shall, at an early stage, consult the relevant authorities, in particular concerning the functioning of the securities settlement systems operated by the CSD and, where applicable, the authority referred to in Article 67 of Directive 2014/65/EU.
+7.   The competent authority shall regularly, and at least once a year, inform the relevant authorities and, where applicable, the authority referred to in Article 67 of Directive 2014/65/EU of the results, including any remedial actions or penalties, of the review and evaluation referred to in paragraph 1.
+8.   When performing the review and evaluation referred to in paragraph 1, the competent authorities responsible for supervising CSDs which maintain the types of relations referred to in points (a), (b) and (c) of Article 17(6) shall supply one another with all relevant information that is likely to facilitate their tasks.
+9.   The competent authority shall require a CSD that does not meet the requirements of this Regulation to take at an early stage the necessary actions or steps to address the situation.
+10.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the following:
+(a)
+the information that the CSD is to provide to the competent authority for the purposes of the review and evaluation referred to in paragraph 1;
+(b)
+the information that the competent authority is to supply to the relevant authorities, as set out in paragraph 7;
+(c)
+the information that the competent authorities referred to in paragraph 8 are to supply one another.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+11.   ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to determine standard forms, templates and procedures for the provision of information referred to in the first subparagraph of paragraph 10.
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

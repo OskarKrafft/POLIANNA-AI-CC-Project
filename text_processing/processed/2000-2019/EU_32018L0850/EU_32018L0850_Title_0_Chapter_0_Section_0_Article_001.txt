@@ -1,0 +1,140 @@
+Article 1
+Amendments
+Directive 1999/31/EC is amended as follows:
+(1)
+in Article 1, paragraph 1 is replaced by the following:
+‘1.   With a view to supporting the Union’s transition to a circular economy and meeting the requirements of Directive 2008/98/EC of the European Parliament and of the Council (*1), and in particular Articles 4 and 12 thereof, the aim of this Directive is to ensure a progressive reduction of landfilling of waste, in particular of waste that is suitable for recycling or other recovery, and, by way of stringent operational and technical requirements on the waste and landfills, to provide for measures, procedures and guidance to prevent or reduce as far as possible negative effects on the environment, in particular the pollution of surface water, groundwater, soil and air, and on the global environment, including the greenhouse effect, as well as any resulting risk to human health, from landfilling of waste, during the whole life-cycle of the landfill.
+
+(*1)  Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3).’;"
+                        
+(2)
+Article 2 is amended as follows:
+(a)
+point (a) is replaced by the following:
+‘(a)
+the definitions of “waste”, “hazardous waste”, “non-hazardous waste”, “municipal waste”, “waste producer”, “waste holder”, “waste management”, “separate collection”, “recovery”, “preparing for re-use”, “recycling” and “disposal” laid down in Article 3 of Directive 2008/98/EC shall apply;’;
+(b)
+points (b), (c), (d) and (n) are deleted;
+(c)
+in point (r), the following subparagraph is added:
+
+                                          ‘In outermost regions within the meaning of Article 349 of the Treaty, Member States may decide to apply the following definition:
+
+                                          “isolated settlement” means a settlement:
+—
+with no more than 2 000 inhabitants per settlement and no more than five inhabitants per square kilometre, or with more than 2 000 but less than 5 000 inhabitants per settlement and no more than five inhabitants per square kilometre and whose production of waste does not exceed 3 000 tonnes per year, and
+—
+where the distance to the nearest urban agglomeration with at least 250 inhabitants per square kilometre is not less than 100 km and with no access by road.’;
+(3)
+Article 3 is amended as follows:
+(a)
+in paragraph 2, the last indent is deleted;
+(b)
+paragraph 3 is replaced by the following:
+‘3.   The management of waste from land-based extractive industries, that is to say, the waste arising from the prospecting, extraction, including the pre-production development stage, treatment and storage of mineral resources and from the working of quarries shall be excluded from the scope of this Directive where it falls within the scope of other Union legislative acts.’;
+(4)
+Article 5 is amended as follows:
+(a)
+in paragraph 2, the following subparagraph is deleted:
+‘Two years before the date referred to in paragraph (c) the Council shall re-examine the above target, on the basis of a report from the Commission on the practical experience gained by Member States in the pursuance of the targets laid down in paragraphs (a) and (b) accompanied, if appropriate, by a proposal with a view to confirming or amending this target in order to ensure a high level of environmental protection.’;
+(b)
+in paragraph 3, the following point is added:
+‘(f)
+waste that has been separately collected for preparing for re-use and recycling pursuant to Article 11(1) of Directive 2008/98/EC and Article 22 of that Directive, with the exception of waste resulting from subsequent treatment operations of the separately collected waste for which landfilling delivers the best environmental outcome in accordance with Article 4 of that Directive.’;
+(c)
+the following paragraph is inserted:
+‘3a.   Member States shall endeavour to ensure that as of 2030, all waste suitable for recycling or other recovery, in particular in municipal waste, shall not be accepted in a landfill with the exception of waste for which landfilling delivers the best environmental outcome in accordance with Article 4 of Directive 2008/98/EC.
+Member States shall include information on the measures taken pursuant to this paragraph in the waste management plans referred to in Article 28 of Directive 2008/98/EC, or in other strategic documents covering the entire territory of the Member State concerned.’;
+(d)
+the following paragraphs are added:
+‘5.   Member States shall take the necessary measures to ensure that by 2035 the amount of municipal waste landfilled is reduced to 10 % or less of the total amount of municipal waste generated (by weight).
+6.   A Member State may postpone the deadline for attaining the target referred to in paragraph 5 by up to five years provided that that Member State:
+(a)
+landfilled more than 60 % of its municipal waste generated in 2013 as reported under the Joint Questionnaire of the OECD and Eurostat; and
+(b)
+at the latest 24 months before the deadline laid down in paragraph 5 of this Article, notifies the Commission of its intention to postpone the deadline and submits an implementation plan in accordance with Annex IV to this Directive. That plan may be combined with an implementation plan submitted according to point (b) of Article 11(3) of Directive 2008/98/EC.
+7.   Within three months of receipt of the implementation plan submitted pursuant to point (b) of paragraph 6, the Commission may request a Member State to revise that plan if the Commission considers that the plan does not comply with the requirements of Annex IV. The Member State concerned shall submit a revised plan within three months of receipt of the Commission’s request.
+8.   In the event of postponing the deadline in accordance with paragraph 6, the Member State shall take the necessary measures to reduce by 2035 the amount of municipal waste landfilled to 25 % or less of the total amount of municipal waste generated (by weight).
+9.   By 31 December 2024, the Commission shall review the target laid down in paragraph 5 with a view to maintaining or, if appropriate, reducing it, to considering quantitative target per capita on landfilling and to introducing restrictions to the landfilling of non-hazardous waste other than municipal waste. To that end, the Commission shall submit a report to the European Parliament and to the Council, accompanied, if appropriate, by a legislative proposal.’;
+(5)
+the following articles are inserted:
+‘Article 5a
+Rules on the calculation of the attainment of the targets
+1.   For the purpose of calculating whether the targets laid down in Article 5(5) and (6) have been attained:
+(a)
+the weight of the municipal waste generated and directed to landfilling shall be calculated in a given calendar year;
+(b)
+the weight of waste resulting from treatment operations prior to recycling or other recovery of municipal waste, such as sorting or mechanical biological treatment, which is subsequently landfilled shall be included in the weight of municipal waste reported as landfilled;
+(c)
+the weight of municipal waste that enters incineration disposal operations and the weight of waste produced in the stabilisation operations of the biodegradable fraction of municipal waste in order to be subsequently landfilled shall be reported as landfilled;
+(d)
+the weight of waste produced during recycling or other recovery operations of municipal waste which is subsequently landfilled shall not be included in the weight of municipal waste reported as landfilled.
+2.   Member States shall establish an effective system of quality control and traceability of the municipal waste landfilled to ensure that the conditions laid down in paragraph 1 of this Article are met. They may use the system established in accordance with Article 11a(3) of Directive 2008/98/EC for that purpose.
+3.   Where municipal waste is shipped to another Member State or exported from the Union for the purposes of landfilling, in accordance with Regulation (EC) No 1013/2006 of the European Parliament and of the Council (*2), it shall be counted towards the amount of waste landfilled, in accordance with paragraph 1 by the Member State in which that waste was collected.
+4.   In order to ensure uniform conditions for the application of this Article, the Commission shall adopt by 31 March 2019 implementing acts establishing rules for the calculation, verification and reporting of data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2).
+Article 5b
+Early warning report
+1.   The Commission shall, in cooperation with the European Environment Agency, draw up a report on the progress towards the attainment of the targets laid down in Article 5(5) and (6) at the latest three years before each deadline laid down therein.
+2.   The reports referred to in paragraph 1 shall include the following:
+(a)
+an estimation of the attainment of the targets by each Member State;
+(b)
+a list of Member States at risk of not attaining the targets within the respective deadlines accompanied by appropriate recommendations for the Member States concerned;
+(c)
+examples of best practices that are used throughout the Union which could provide guidance for progressing towards attaining the targets.
+Article 5c
+Exchange of information and best practices
+The Commission shall organise a regular exchange of information and of best practices among Member States, including, where appropriate, with regional and local authorities, on the practical implementation of the requirements of this Directive.
+
+(*2)  Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste (OJ L 190, 12.7.2006, p. 1).’;"
+                        
+(6)
+in point (a) of Article 6, the following sentence is added:
+‘Member States shall ensure that measures taken in accordance with this point do not compromise the achievement of the objectives of Directive 2008/98/EC, notably on the waste hierarchy and on the increase of preparing for re-use and recycling as set out in Article 11 of that Directive.’;
+(7)
+in Article 11(2), the second subparagraph is deleted;
+(8)
+Article 15 is replaced by the following:
+‘Article 15
+Reporting
+1.   Member States shall report the data concerning the implementation of Article 5(2), (5) and (6) for each calendar year to the Commission.
+They shall report the data electronically within 18 months of the end of the reporting year for which the data are collected. The data shall be reported in the format established by the Commission in accordance with paragraph 5 of this Article.
+The first reporting period on the implementation of Article 5(5) and (6) shall start in the first full calendar year after the adoption of the implementing act that establishes the format for reporting, in accordance with paragraph 5 of this Article, and shall cover the data for that reporting period.
+2.   Member States shall report the data concerning the implementation of Article 5(2) until 1 January 2025.
+3.   The data reported by Member States in accordance with this Article shall be accompanied by a quality check report.
+4.   The Commission shall review the data reported in accordance with this Article and publish a report on the results of its review. The report shall assess the organisation of the data collection, the sources of data and the methodology used in Member States as well as the completeness, reliability, timeliness and consistency of that data. The assessment may include specific recommendations for improvement. The report shall be drawn up after the first reporting of the data by the Member States and every four years thereafter.
+5.   By 31 March 2019, the Commission shall adopt implementing acts laying down the format for reporting the data referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2).’;
+(9)
+the following articles are inserted:
+‘Article 15a
+Instruments to promote a shift to a more circular economy
+In order to contribute to the objectives laid down in this Directive, Member States shall make use of economic instruments and other measures to provide incentives for the application of the waste hierarchy. Such instruments and measures may include those indicated in Annex IVa to Directive 2008/98/EC or other appropriate instruments and measures.
+Article 15b
+Determination of the permeability coefficient for landfills
+The Commission shall adopt implementing acts to lay down the method to be used for the determination of the permeability coefficient for landfills, in the field and for the whole extension of the site. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2).
+Article 15c
+Union standard for sampling of waste
+The Commission shall adopt implementing acts to develop a standard for sampling of waste. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2). Until those implementing acts have been adopted, the Member States may apply national standards and procedures.’;
+(10)
+Article 16 is replaced by the following:
+‘Article 16
+Review of the Annexes
+The Commission shall keep the Annexes under review and, where necessary, it shall make appropriate legislative proposals.’;
+(11)
+Article 17 is replaced by the following:
+‘Article 17
+Committee procedure
+1.   The Commission shall be assisted by the Committee established by Article 39 of Directive 2008/98/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*3).
+2.   When reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*3)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).’;"
+                        
+(12)
+in Annex I, point 3.5 is deleted;
+(13)
+in Annex II, point 5 is deleted;
+(14)
+in Annex III, point 2, the first subparagraph is deleted;
+(15)
+Annex IV is added as set out in the Annex to this Directive.

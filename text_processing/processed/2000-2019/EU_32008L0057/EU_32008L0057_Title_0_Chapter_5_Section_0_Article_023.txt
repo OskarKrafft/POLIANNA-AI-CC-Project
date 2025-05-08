@@ -1,0 +1,27 @@
+Article 23
+Additional authorisations for placing in service of TSI conform vehicles
+1.   Vehicles in complete conformity with TSIs covering all aspects of the relevant subsystems without specific cases and without open points strictly related to technical compatibility between vehicle and network, shall not be subject to any additional authorisation for placing in service as long as they run on TSI conform networks in the other Member States or under the conditions specified in the corresponding TSIs.
+2.   In the case of vehicles placed in service in accordance with Article 22 but not covered by paragraph 1, Member States shall decide if additional authorisations are necessary on their territory. In this case, paragraphs 3 to 7 shall apply.
+3.   The applicant shall submit to the national safety authority a file on the vehicle or type of vehicle and the intended use thereof on the network. The file shall contain the following information:
+(a)
+documentary evidence that the placing in service of the vehicle has been authorised in another Member State in accordance with Article 22;
+(b)
+a copy of the technical file as referred to in Annex VI. This shall include, in the case of vehicles equipped with data recorders, information on the data collection procedure, permitting read out and evaluation, as long as this information is not harmonised by the corresponding TSI;
+(c)
+records showing the vehicle's maintenance history and, where applicable, technical modifications undertaken after the authorisation;
+(d)
+evidence on technical and operational characteristics that shows that the vehicle is compatible with the infrastructures and fixed installations, including climate conditions, energy supply system, control-command and signalling system, track gauge and infrastructure gauges, maximum permitted axle load and other constraints of the network.
+4.   The criteria checked by a national safety authority may concern only:
+—
+technical compatibility between the vehicle and the network concerned, including the national rules applicable to the open points needed to ensure such compatibility,
+—
+the national rules applicable to the specific cases duly identified in the relevant TSIs.
+5.   The national safety authority may request additional information to be supplied, risk analyses to be carried out in accordance with Article 6(3)(a) of Directive 2004/49/EC or tests to be conducted on the network in order to verify the criteria referred to in paragraph 4. However, after the adoption of the reference document referred to in Article 27 of this Directive, the national safety authority may only carry out such verification on the basis of the national rules relating to Group B or C featuring in that document.
+6.   The national safety authority shall define, after consultation with the applicant, the scope and content of the additional information, the risk analyses and the tests requested. The infrastructure manager, in consultation with the applicant, shall make every effort to ensure that any tests take place within three months of the applicant's request. Where appropriate, the national safety authority shall take measures to ensure that the tests take place.
+7.   All applications for an authorisation to place in service submitted in accordance with this Article shall be the subject of a decision by the national safety authority, to be taken as soon as possible and not later than:
+(a)
+two months after submission of the file referred to in paragraph 3;
+(b)
+where applicable, one month after provision of any additional information requested by the national safety authority;
+(c)
+where applicable, one month after provision of the results of any tests requested by the national safety authority.

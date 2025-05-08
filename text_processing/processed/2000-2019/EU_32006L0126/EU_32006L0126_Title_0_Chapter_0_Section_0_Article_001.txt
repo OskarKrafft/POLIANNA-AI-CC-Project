@@ -1,0 +1,8 @@
+Article 1
+Model licence
+1.   Member States shall introduce a national driving licence based on the Community model set out in Annex I, in accordance with the provisions of this Directive. The emblem on page 1 of the Community model driving licences shall contain the distinguishing sign of the Member State issuing the licence.
+2.   Without prejudice to data protection rules, Member States may introduce a storage medium (microchip) as part of the driving licence, as soon as the requirements concerning the microchip referred to in Annex I, which are designed to amend non-essential elements of this Directive, by supplementing it, are laid down by the Commission in accordance with the procedure referred to in Article 9(2). These requirements shall provide for EC type-approval, which shall only be granted when the ability to resist attempts to tamper with or alter data is demonstrated.
+3.   The microchip shall incorporate the harmonised driving licence data specified in Annex I.
+After consulting the Commission, Member States may store additional data, provided that it does not in any way interfere with the implementation of this Directive.
+In accordance with the procedure referred to in Article 9(2), the Commission may amend Annex I in order to guarantee future interoperability.
+4.   With the agreement of the Commission, Member States may make to the model set out in Annex I such adjustments as are necessary for computer processing of the driving licence.

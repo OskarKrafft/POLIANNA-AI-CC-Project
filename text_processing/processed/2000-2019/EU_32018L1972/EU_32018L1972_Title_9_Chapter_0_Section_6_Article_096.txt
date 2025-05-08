@@ -1,0 +1,8 @@
+Article 97
+Access to numbers and services
+1.   Member States shall ensure that, where economically feasible, except where a called end-user has chosen for commercial reasons to limit access by calling parties located in specific geographical areas, national regulatory or other competent authorities take all necessary steps to ensure that end-users are able to:
+(a)
+access and use services using non-geographic numbers within the Union; and
+(b)
+access all numbers provided in the Union, regardless of the technology and devices used by the operator, including those in the national numbering plans of Member States and Universal International Freephone Numbers (UIFN).
+2.   Member States shall ensure that national regulatory or other competent authorities are able to require providers of public electronic communications networks or publicly available electronic communications services to block, on a case-by-case basis, access to numbers or services where this is justified by reasons of fraud or misuse and to require that in such cases providers of electronic communications services withhold relevant interconnection or other service revenues.

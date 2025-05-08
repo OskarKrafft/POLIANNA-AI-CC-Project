@@ -1,0 +1,18 @@
+Article 27
+Application of the rules on classified information
+1.   Within the scope of this Regulation:
+(a)
+each Member State shall ensure that it offers a degree of protection of EU classified information equivalent to that provided by the security rules of the Council set out in Council Decision 2013/488/EU (28);
+(b)
+the Commission shall protect classified information in accordance with the security rules set out in Decision (EU, Euratom) 2015/444;
+(c)
+natural persons who are resident in and legal persons that are established in a third country may handle EU classified information regarding the Fund only where they are subject, in those countries, to security regulations ensuring a degree of protection at least equivalent to that provided by the security rules of the Commission and of the Council, as set out in Decision (EU, Euratom) 2015/444 and Decision 2013/488/EU, respectively;
+(d)
+the equivalence of the security regulations applied in a third country or by an international organisation shall be laid down in a security of information agreement, including industrial security matters if relevant, concluded or to be concluded between the Union and that third country or international organisation in accordance with the procedure provided for in Article 218 TFEU and taking into account Article 13 of Decision 2013/488/EU; and
+(e)
+without prejudice to Article 13 of Decision 2013/488/EU and to the rules governing the field of industrial security set out in Decision (EU, Euratom) 2015/444, a natural or legal person, third country or international organisation may be given access to EU classified information where considered to be necessary on a case-by-case basis, according to the nature and content of such information, the recipient’s need to know and the degree of advantage to the Union.
+2.   When actions involve, require or contain classified information, the relevant funding body shall specify in the documents concerning the call for proposals or tenders the measures and requirements necessary to ensure the security of such information at the requisite level.
+3.   The Commission shall set up a secured exchange system in order to facilitate the exchange of sensitive information, including classified information, between the Commission and the Member States and associated countries and, where appropriate, with the applicants and the recipients. That system shall take into account the Member States’ national security regulations.
+4.   The originatorship of classified foreground information generated in carrying out a research or development action shall be decided upon by the Member States on whose territory the recipients are established. To that end, those Member States may decide on a specific security framework for the protection and handling of classified information relating to the action and shall inform the Commission thereof. Such a security framework shall be without prejudice to the possibility for the Commission to have access to the necessary information for carrying out the research or development action.
+If no such specific security framework is set up by those Member States, the Commission shall set up the security framework for the action in accordance with the Decision (EU, Euratom) 2015/444.
+The applicable security framework for the action shall in any event be put in place before the signature of the funding agreement or the contract.

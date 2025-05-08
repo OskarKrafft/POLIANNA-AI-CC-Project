@@ -1,0 +1,75 @@
+Article 119
+Colleges for issuers of significant asset-referenced tokens and significant e-money tokens
+1.   Within 30 calendar days of a decision to classify an asset-referenced token or e-money token as significant pursuant to Article 43, 44, 56 or 57, as applicable, EBA shall establish, manage and chair a consultative supervisory college for each issuer of a significant asset-referenced token or of a significant e-money token, to facilitate the exercise of supervisory tasks and act as a vehicle for the coordination of supervisory activities under this Regulation.
+2.   A college referred to in paragraph 1 shall consist of:
+(a)
+EBA;
+(b)
+ESMA;
+(c)
+the competent authorities of the home Member State where the issuer of the significant asset-referenced token or of the significant e-money token is established;
+(d)
+the competent authorities of the most relevant crypto-asset service providers, credit institutions or investment firms ensuring the custody of the reserve assets in accordance with Article 37 or of the funds received in exchange of the significant e-money tokens;
+(e)
+where applicable, the competent authorities of the most relevant trading platforms for crypto-assets where the significant asset-referenced tokens or the significant e-money tokens are admitted to trading;
+(f)
+the competent authorities of the most relevant payment service providers providing payment services in relation to the significant e-money tokens;
+(g)
+where applicable, the competent authorities of the entities ensuring the functions as referred to in Article 34(5), first subparagraph, point (h);
+(h)
+where applicable, the competent authorities of the most relevant crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients in relation to the significant asset-referenced tokens or with the significant e-money tokens;
+(i)
+the ECB;
+(j)
+where the issuer of the significant asset-referenced token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant asset-referenced token, the central bank of that Member State;
+(k)
+where the issuer of the significant e-money token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant e-money token, the central bank of that Member State;
+(l)
+competent authorities of Member States where the asset-referenced token or the e-money token is used at large scale, at their request;
+(m)
+relevant supervisory authorities of third countries with which EBA has concluded administrative agreements in accordance with Article 126.
+3.   EBA may invite other authorities to be members of the college referred to in paragraph 1 where the entities they supervise are relevant to the work of the college.
+4.   The competent authority of a Member State which is not a member of the college may request from the college any information relevant for the performance of its supervisory duties under this Regulation.
+5.   A college referred to in paragraph 1 of this Article shall, without prejudice to the responsibilities of competent authorities under this Regulation, ensure:
+(a)
+the preparation of the non-binding opinion referred to in Article 120;
+(b)
+the exchange of information in accordance with this Regulation;
+(c)
+agreement on the voluntary entrustment of tasks among its members.
+In order to facilitate the performance of the tasks assigned to colleges pursuant to the first subparagraph of this paragraph, the members of the college referred to in paragraph 2 shall be entitled to contribute to the setting of the agenda of the college meetings, in particular by adding points to the agenda of a meeting.
+6.   The establishment and functioning of the college referred to in paragraph 1 shall be based on a written agreement between all of its members.
+The agreement referred to in the first subparagraph shall determine the practical arrangements for the functioning of the college, including detailed rules on:
+(a)
+voting procedures as referred in Article 120(3);
+(b)
+the procedures for setting the agenda of college meetings;
+(c)
+the frequency of the college meetings;
+(d)
+the appropriate minimum timeframes for the assessment of the relevant documentation by the members of the college;
+(e)
+the modalities of communication between the members of the college;
+(f)
+the creation of several colleges, one for each specific crypto-asset or group of crypto-assets.
+The agreement may also determine tasks to be entrusted to EBA or another member of the college.
+7.   As chair of each college, EBA shall:
+(a)
+establish written arrangements and procedures for the functioning of the college, after consulting the other members of the college;
+(b)
+coordinate all activities of the college;
+(c)
+convene and chair all its meetings and keep the members of the college fully informed in advance of the organisation of meetings of the college, of the main issues to be discussed and of the items to be considered;
+(d)
+notify the members of the college of any planned meetings so that they can request to participate;
+(e)
+keep the members of the college informed, in a timely manner, of the decisions and outcomes of those meetings.
+8.   In order to ensure the consistent and coherent functioning of colleges, EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory standards specifying:
+(a)
+the conditions under which the entities referred to in paragraph 2, points (d), (e), (f) and (h), are to be considered the most relevant;
+(b)
+the conditions under which it is considered that asset-referenced tokens or e-money tokens are used at large scale, as referred to in paragraph 2, point (l); and
+(c)
+the details of the practical arrangements referred to in paragraph 6.
+EBA shall submit the draft regulatory standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Article 10 to 14 of Regulation (EU) No 1093/2010.

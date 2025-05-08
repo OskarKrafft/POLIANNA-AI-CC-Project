@@ -1,0 +1,24 @@
+Article 1
+Scope
+1.   This Directive shall apply to the following, hereinafter referred to as ‘products’:
+(a)
+equipment and protective systems intended for use in potentially explosive atmospheres;
+(b)
+safety devices, controlling devices and regulating devices intended for use outside potentially explosive atmospheres but required for or contributing to the safe functioning of equipment and protective systems with respect to the risks of explosion;
+(c)
+components intended to be incorporated into equipment and protective systems referred to in point (a).
+2.   This Directive shall not apply to:
+(a)
+medical devices intended for use in a medical environment;
+(b)
+equipment and protective systems where the explosion hazard results exclusively from the presence of explosive substances or unstable chemical substances;
+(c)
+equipment intended for use in domestic and non-commercial environments where potentially explosive atmospheres may only rarely be created, solely as a result of the accidental leakage of fuel gas;
+(d)
+personal protective equipment covered by Council Directive 89/686/EEC of 21 December 1989 on the approximation of the laws of the Member States relating to personal protective equipment (9);
+(e)
+seagoing vessels and mobile offshore units together with equipment on board such vessels or units;
+(f)
+means of transport, i.e. vehicles and their trailers intended solely for transporting passengers by air or by road, rail or water networks, as well as means of transport in so far as such means are designed for transporting goods by air, by public road or rail networks or by water. Vehicles intended for use in a potentially explosive atmosphere shall not be excluded from the scope of this Directive;
+(g)
+the equipment covered by point (b) of Article 346(1) of the Treaty on the Functioning of the European Union.

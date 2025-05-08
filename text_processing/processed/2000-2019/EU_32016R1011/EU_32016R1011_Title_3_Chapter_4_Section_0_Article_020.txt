@@ -1,0 +1,35 @@
+Article 20
+Critical benchmarks
+1.   The Commission shall adopt implementing acts in accordance with the examination procedure referred to in Article 50(2) to establish and review at least every two years a list of benchmarks provided by administrators located within the Union which are critical benchmarks, provided that one of the following conditions is fulfilled:
+(a)
+the benchmark is used directly or indirectly within a combination of benchmarks as a reference for financial instruments or financial contracts or for measuring the performance of investment funds, having a total value of at least EUR 500 billion on the basis of all the range of maturities or tenors of the benchmark, where applicable;
+(b)
+the benchmark is based on submissions by contributors the majority of which are located in one Member State and is recognised as being critical in that Member State in accordance with the procedure laid down in paragraphs 2, 3, 4 and 5 of this Article;
+(c)
+the benchmark fulfils all of the following criteria:
+(i)
+the benchmark is used directly or indirectly within a combination of benchmarks as a reference for financial instruments or financial contracts or for measuring the performance of investment funds having a total value of at least EUR 400 billion on the basis of all the range of maturities or tenors of the benchmark, where applicable, but not exceeding the value provided for in point (a);
+(ii)
+the benchmark has no, or very few, appropriate market-led substitutes;
+(iii)
+in the event that the benchmark ceases to be provided, or is provided on the basis of input data no longer fully representative of the underlying market or economic reality or on the basis of unreliable input data, there would be significant and adverse impacts on market integrity, financial stability, consumers, the real economy, or the financing of households and businesses in one or more Member States.
+If a benchmark meets the criteria set out in point (c)(ii) and (iii) but does not meet the criterion set out in point (c)(i), the competent authorities of the Member States concerned together with the competent authority of the Member State where the administrator is established may agree that such benchmark should be recognised as critical under this subparagraph. In any case, the competent authority of the administrator shall consult the competent authorities of the Member States concerned. In the event of disagreement between the competent authorities, the competent authority of the administrator shall decide whether the benchmark should be recognised as critical under this subparagraph, taking into account the reasons for the disagreement. The competent authorities or, in the event of disagreement, the competent authority of the administrator, shall transmit the assessment to the Commission. After receiving the assessment, the Commission shall adopt an implementing act in accordance with this paragraph. In addition, in the event of disagreement, the competent authority of the administrator shall transmit its assessment to ESMA, which may publish an opinion.
+2.   Where the competent authority of a Member State referred to in point (b) of paragraph 1 considers that an administrator under its supervision provides a benchmark that should be recognised as critical, it shall notify ESMA and transmit to ESMA a documented assessment.
+3.   For the purposes of paragraph 2, the competent authority shall assess whether the cessation of the benchmark or its provision on the basis of input data or of a panel of contributors no longer representative of the underlying market or economic reality would have an adverse impact on market integrity, financial stability, consumers, the real economy, or the financing of households and businesses in its Member State. The competent authority shall take into consideration in its assessment:
+(a)
+the value of financial instruments and financial contracts that reference the benchmark and the value of investment funds referencing the benchmark for measuring their performance within the Member State and their relevance in terms of the total value of financial instruments and of financial contracts outstanding, and of the total value of investment funds, in the Member State;
+(b)
+the value of financial instruments and financial contracts that reference the benchmark and the value of investment funds referencing the benchmark for measuring their performance within the Member State and their relevance in terms of the gross national product of the Member State;
+(c)
+any other figure to assess on objective grounds the potential impact of the discontinuity or unreliability of the benchmark on market integrity, financial stability, consumers, the real economy, or the financing of households and businesses in the Member State.
+The competent authority shall review its assessment of the criticality of the benchmark at least every two years, and shall notify and transmit the new assessment to ESMA.
+4.   Within six weeks of receipt of the notification referred to in paragraph 2, ESMA shall issue an opinion on whether the assessment of the competent authority complies with the requirements of paragraph 3 and shall transmit such opinion to the Commission, together with the competent authority's assessment.
+5.   The Commission, after receiving the opinion referred to in paragraph 4, shall adopt implementing acts in accordance with paragraph 1.
+6.   The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to:
+(a)
+specify how the nominal amount of financial instruments other than derivatives, the notional amount of derivatives and the net asset value of investment funds are to be assessed, including in the event of an indirect reference to a benchmark within a combination of benchmarks, in order to be compared with the thresholds referred to in paragraph 1 of this Article and in point (a) of Article 24(1);
+(b)
+review the calculation method used to determine the thresholds referred to in paragraph 1 of this Article in the light of market, price and regulatory developments as well as the appropriateness of the classification of benchmarks with a total value of financial instruments, financial contracts, or investment funds referencing them that is close to the thresholds; such review shall take place at least every two years as from 1 January 2018;
+(c)
+specify how the criteria referred to in point (c)(iii) of paragraph 1 of this Article are to be applied, taking into consideration any data which helps assess on objective grounds the potential impact of the discontinuity or unreliability of the benchmark on market integrity, financial stability, consumers, the real economy, or the financing of households and businesses in one or more Member States.
+Where applicable, the Commission shall take into account relevant market or technological developments.

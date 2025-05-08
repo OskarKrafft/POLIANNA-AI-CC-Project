@@ -1,0 +1,20 @@
+Article 26
+General provisions on conduct of procedures for EU type-approval
+1.   For each type of vehicle, system, component or separate technical unit, only one EU type-approval may be granted.
+2.   An approval authority, having received an application in accordance with Article 23, shall only grant an EU type-approval after having verified all of the following:
+(a)
+the conformity of production arrangements referred to in Article 31;
+(b)
+that the declaration referred to in Article 23(3) has been submitted;
+(c)
+the compliance of the type of vehicle, system, component or separate technical unit with the applicable requirements;
+(d)
+in the case of whole-vehicle type-approvals in accordance with the step-by-step, mixed or multi-stage type-approval procedures, the approval authority shall verify, in accordance with Article 22(4), that the systems, components and separate technical units are covered by separate and valid type-approvals that have been granted pursuant to the requirements applicable at the time of the granting of the whole-vehicle type-approval.
+3.   The procedures with respect to EU type-approval, that are set out in Annex III, and the procedures with respect to multi-stage type-approval, set out in Annex IX, shall apply.
+The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annexes III and IX to take into account regulatory and technological developments by updating the procedures therein with respect to EU type-approval and multi-stage type-approval.
+4.   The approval authority shall put together an information package consisting of the information folder referred to in Article 24, accompanied by the test reports and all other documents that were added to the information folder by the technical service or by the approval authority while carrying out their tasks.
+The information package may be kept electronically. It shall contain an index that clearly indicates all of the pages and the format of each document, and that chronologically records any changes to the EU type-approval.
+The approval authority shall keep the information package available for a period of 10 years after the end of the validity of the EU type-approval concerned.
+5.   The approval authority shall refuse to grant an EU type-approval where it finds that a type of vehicle, system, component or separate technical unit that complies with the applicable requirements nonetheless presents a serious risk to safety or may seriously harm the environment or public health. In such case, it shall immediately send to the approval authorities of the other Member States and to the Commission a detailed file explaining the reasons for its decision and setting out the evidence for its findings.
+6.   In accordance with Article 22(4), in the case of step-by-step, mixed and multi-stage type-approval procedures, the approval authority shall refuse to grant an EU type-approval where it finds that systems, components or separate technical units do not comply with the requirements set out in this Regulation.
+The approval authority shall ask the approval authorities that granted type-approvals for the systems, components, or separate technical units, to act in accordance with Article 54(2).

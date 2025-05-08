@@ -1,0 +1,14 @@
+Article 85
+Identification of significant crypto-asset service providers
+1.   A crypto-asset service provider shall be deemed significant if it has in the Union at least 15 million active users, on average, in one calendar year, where the average is calculated as the average of the daily number of active users throughout the previous calendar year.
+2.   Crypto-asset service providers shall notify their competent authorities within two months of reaching the number of active users as set out in paragraph 1. Where the competent authority agrees that the threshold set out in paragraph 1 is met, it shall notify ESMA thereof.
+3.   Without prejudice to the responsibilities of competent authorities under this Regulation, the competent authorities of the home Member States shall provide ESMA’s Board of Supervisors with annual updates on the following supervisory developments in relation to significant crypto-asset service providers:
+(a)
+ongoing or concluded authorisations as referred to in Article 59;
+(b)
+ongoing or concluded processes of withdrawal of authorisations as referred to in Article 64;
+(c)
+the exercise of supervisory powers set out in Article 94(1), first subparagraph, points (b), (c), (e), (f), (g), (y) and (aa).
+The competent authority of the home Member State may provide ESMA’s Board of Supervisors with more frequent updates, or notify it prior to any decision taken by the competent authority of the home Member State with regard to the first subparagraph, point (a), (b) or (c).
+4.   The update referred to in paragraph 3, second subparagraph, may be followed by an exchange of views at ESMA’s Board of Supervisors.
+5.   Where appropriate, ESMA may make use of its powers under Articles 29, 30, 31 and 31b of Regulation (EU) No 1095/2010.

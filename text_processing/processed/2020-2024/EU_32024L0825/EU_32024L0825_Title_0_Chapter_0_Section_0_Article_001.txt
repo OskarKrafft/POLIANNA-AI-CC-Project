@@ -1,0 +1,64 @@
+Article 1
+Amendments to Directive 2005/29/EC
+Directive 2005/29/EC is amended as follows:
+(1)
+in Article 2, the first paragraph is amended as follows:
+(a)
+the following point is inserted:
+‘(ca)
+“goods” means goods as defined in Article 2, point (5), of Directive (EU) 2019/771 of the European Parliament and of the Council (*1);
+
+(*1)  Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28).’;"
+                        
+(b)
+the following points are added:
+‘(o)
+“environmental claim” means any message or representation which is not mandatory under Union or national law, in any form, including text, pictorial, graphic or symbolic representation, such as labels, brand names, company names or product names, in the context of a commercial communication, and which states or implies that a product, product category, brand or trader has a positive or zero impact on the environment or is less damaging to the environment than other products, product categories, brands or traders, or has improved its impact over time;
+(p)
+“generic environmental claim” means any environmental claim made in written or oral form, including through audiovisual media, that is not included on a sustainability label and where the specification of the claim is not provided in clear and prominent terms on the same medium;
+(q)
+“sustainability label” means any voluntary trust mark, quality mark or equivalent, either public or private, that aims to set apart and promote a product, a process or a business by reference to its environmental or social characteristics, or both, and excludes any mandatory label required under Union or national law;
+(r)
+“certification scheme” means a third-party verification scheme that certifies that a product, process or business complies with certain requirements, that allows for the use of a corresponding sustainability label, and the terms of which, including its requirements, are publicly available and meet the following criteria:
+(i)
+the scheme is open under transparent, fair, and non-discriminatory terms to all traders willing and able to comply with the scheme’s requirements;
+(ii)
+the scheme’s requirements are developed by the scheme owner in consultation with relevant experts and stakeholders;
+(iii)
+the scheme sets out procedures for dealing with non-compliance with the scheme’s requirements and provides for the withdrawal or suspension of the use of the sustainability label by the trader in case of non-compliance with the scheme’s requirements; and
+(iv)
+the monitoring of a trader’s compliance with the scheme’s requirements is subject to an objective procedure and is carried out by a third party whose competence and independence from both the scheme owner and the trader are based on international, Union or national standards and procedures;
+(s)
+“recognised excellent environmental performance” means environmental performance compliant with Regulation (EC) No 66/2010 of the European Parliament and of the Council (*2) or with national or regional EN ISO 14024 type I ecolabelling schemes officially recognised in the Member States, or top environmental performance in accordance with other applicable Union law;
+(t)
+“durability” means durability as defined in Article 2, point (13), of Directive (EU) 2019/771;
+(u)
+“software update” means an update that is necessary to keep goods with digital elements, digital content and digital services in conformity in accordance with Directive (EU) 2019/770 of the European Parliament and of the Council (*3) and Directive (EU) 2019/771, including a security update, or a functionality update;
+(v)
+“consumable” means any component of a good that is used up recurrently and that needs to be replaced or replenished for the good to function as intended;
+(w)
+“functionality” means functionality as defined in Article 2, point (9), of Directive (EU) 2019/771.
+
+(*2)  Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, 30.1.2010, p. 1)."
+                        
+
+(*3)  Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136, 22.5.2019, p. 1).’;"
+                        
+(2)
+Article 6 is amended as follows:
+(a)
+in paragraph 1, point (b) is replaced by the following:
+‘(b)
+the main characteristics of the product, such as its availability, benefits, risks, execution, composition, environmental or social characteristics, accessories, circularity aspects, such as durability, reparability or recyclability, after-sale customer assistance and complaint handling, method and date of manufacture or provision, delivery, fitness for purpose, usage, quantity, specification, geographical or commercial origin or the results to be expected from its use, or the results and material features of tests or checks carried out on the product.’;
+(b)
+in paragraph 2, the following points are added:
+‘(d)
+making an environmental claim related to future environmental performance without clear, objective, publicly available and verifiable commitments set out in a detailed and realistic implementation plan that includes measurable and time-bound targets and other relevant elements necessary to support its implementation, such as allocation of resources, and that is regularly verified by an independent third party expert, whose findings are made available to consumers;
+(e)
+advertising benefits to consumers that are irrelevant and do not result from any feature of the product or business.’;
+(3)
+in Article 7, the following paragraph is added:
+‘7.
+Where a trader provides a service which compares products and provides the consumer with information on environmental or social characteristics or on circularity aspects, such as durability, reparability or recyclability, of the products or suppliers of those products, information about the method of comparison, the products which are the object of comparison and the suppliers of those products, as well as the measures in place to keep that information up to date, shall be regarded as material information.’;
+(4)
+Annex I is amended in accordance with the Annex to this Directive.

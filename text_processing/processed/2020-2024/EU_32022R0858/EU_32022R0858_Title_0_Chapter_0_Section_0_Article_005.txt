@@ -1,0 +1,64 @@
+Article 5
+Requirements and exemptions regarding DLT SSs
+1.   A CSD operating a DLT SS shall be subject to the requirements that apply to a CSD operating a securities settlement system under Regulation (EU) No 909/2014.
+The first subparagraph does not apply in respect of those requirements from which the CSD operating the DLT SShas been exempted under paragraphs 2 to 9 of this Article, provided that that CSD complies with:
+(a)
+Article 7;
+(b)
+paragraphs 2 to 10 of this Article; and
+(c)
+any compensatory measures that the competent authority deems appropriate in order to meet the objectives of the provisions in respect of which an exemption has been requested or in order to ensure investor protection, market integrity or financial stability.
+2.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 2(1), points (4), (9) or (28), or Article 3, 37 or 38 of Regulation (EU) No 909/2014, provided that that CSD:
+(a)
+demonstrates that the use of a ‘securities account’ as defined in Article 2(1), point (28), of that Regulation or the use of the book-entry form as provided for in Article 3 of that Regulation is incompatible with the use of the particular distributed ledger technology;
+(b)
+proposes compensatory measures to meet the objectives of the provisions in respect of which an exemption has been requested, and ensures at a minimum that:
+(i)
+the DLT financial instruments are recorded on the distributed ledger;
+(ii)
+the number of DLT financial instruments in an issue or in part of an issue recorded by the CSD operating the DLT SS is equal to the total number of DLT financial instruments making up such issue or part of an issue that are recorded on the distributed ledger at any given time;
+(iii)
+it keeps records that enable the CSD operating the DLT SS at any given time to segregate the DLT financial instruments of a member, participant, issuer or client from those of any other member, participant, issuer or client without delay; and
+(iv)
+it does not allow securities overdrafts, debit balances or the improper creation or deletion of securities.
+3.   At the request of a CSD operating DLT SS, the competent authority may exempt that CSD from Article 6 or 7 of Regulation (EU) No 909/2014 provided that that CSD ensures, at a minimum, by means of robust procedures and arrangements, that the DLT SS:
+(a)
+enables clear, accurate and timely confirmation of the details of transactions in DLT financial instruments, including any payments made in respect of DLT financial instruments, as well as the discharge of any collateral in respect of those instruments or calls for collateral in respect of DLT financial instruments; and
+(b)
+either prevents settlement fails or addresses settlement fails if it is not possible to prevent them.
+4.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 19 of Regulation (EU) No 909/2014 in relation only to the outsourcing of a core service to a third party, provided that the application of that Article is incompatible with the use of distributed ledger technology as envisaged by the DLT SS operated by that CSD.
+5.   At the request of a CSD operating a DLT SS, the competent authority may permit that CSD to admit natural and legal persons in addition to those listed in Article 2, point (f), of Directive 98/26/EC as participants in the DLT SS, provided that such persons:
+(a)
+are of sufficient good repute;
+(b)
+have a sufficient level of ability, competence, experience and knowledge in relation to settlement, the functioning of distributed ledger technology, and risk assessment; and
+(c)
+have given informed consent to be included in the pilot regime provided for in this Regulation and are adequately informed of its experimental nature and the potential risks associated with it.
+6.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 33, 34 or 35 of Regulation (EU) No 909/2014, provided that that CSD proposes compensatory measures to meet the objectives of those Articles and, at a minimum, ensures that:
+(a)
+the DLT SS publicly discloses criteria for participation that allow fair and open access for all persons that intend to become participants, and that those criteria are transparent, objective, and non-discriminatory; and
+(b)
+the DLT SS publicly discloses prices and fees associated with the settlement services that it provides.
+7.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 39 of Regulation (EU) No 909/2014, provided that that CSD proposes compensatory measures to meet the objectives of that Article, and ensures at a minimum, by means of robust procedures and arrangements, that:
+(a)
+the DLT SS settles transactions in DLT financial instruments at close to real time or intraday and in any case no later than on the second business day after the conclusion of the trade;
+(b)
+the DLT SS publicly discloses the rules governing the settlement system; and
+(c)
+the DLT SS mitigates any risk arising from the non-designation of the DLT SS as a system for the purposes of Directive 98/26/EC, in particular with regard to insolvency proceedings.
+For the purposes of operating a DLT SS, the definition of a CSD in Regulation (EU) No 909/2014 as a legal person who operates a securities settlement system shall not result in Member States being required to designate and notify a DLT SS as a securities settlement system under Directive 98/26/EC. However, Member States shall not be precluded from designating and notifying a DLT SS as a securities settlement system under Directive 98/26/EC where the DLT SS fulfils the requirements of that Directive.
+Where a DLT SS is not designated and notified as a securities settlement system under Directive 98/26/EC, the CSD operating that DLT SS shall propose compensatory measures to mitigate risks arising from insolvency.
+8.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 40 of Regulation (EU) No 909/2014, provided that that CSD settles on the basis of delivery versus payment.
+The settlement of payments shall be carried out through central bank money, including in tokenised form, where practical and available or, where not practical and available, through the account of the CSD in accordance with Title IV of Regulation (EU) No 909/2014 or through commercial bank money, including in tokenised form, in accordance with that Title, or using ‘e-money tokens’.
+By way of derogation from the second subparagraph of this paragraph, Title IV of Regulation (EU) No 909/2014 does not apply to a credit institution when it provides the settlement of payments using commercial bank money to a DLT market infrastructure that records DLT financial instruments whose aggregate market value, at the time of the initial recording of a new DLT financial instrument, does not exceed EUR 6 billion, as calculated in accordance with Article 3(4) of this Regulation.
+Where the settlement occurs using commercial bank money provided by a credit institution to which Title IV of Regulation (EU) No 909/2014 does not apply by virtue of the third subparagraph of this paragraph, or where the settlement of payments occurs using ‘e-money tokens’, the CSD operating the DLT SS shall identify, measure, monitor, manage, and minimise any risks arising from the use of such means.
+Services related to ‘e-money tokens’ that are equivalent to the services listed in Section C, points (b) and (c), of the Annex to Regulation (EU) No 909/2014 shall be provided by the CSD operating the DLT SS in accordance with Title IV of Regulation (EU) No 909/2014 or by a credit institution.
+9.   At the request of a CSD operating a DLT SS, the competent authority may exempt that CSD from Article 50, 51 or 53 of Regulation (EU) No 909/2014, provided that that CSD demonstrates that the use of distributed ledger technology is incompatible with legacy systems of other CSDs or other market infrastructures or that granting access to another CSD or access to another market infrastructure using legacy systems would trigger disproportionate costs, given the scale of the activities of the DLT SS.
+Where a CSD operating a DLT SS has been exempted in accordance with the first subparagraph of this paragraph, it shall give other operators of DLT SSs or other operators of DLT TSSs access to its DLT SS. The CSD operating the DLT SS shall inform the competent authority of its intention to give such access. The competent authority may prohibit such access to the extent that such access would be detrimental to the stability of the Union financial system, or the financial system of the Member State concerned.
+10.   Where a CSD operating a DLT SS requests an exemption under paragraphs 2 to 9, it shall demonstrate that the exemption requested is:
+(a)
+proportionate to, and justified by, the use of distributed ledger technology; and
+(b)
+limited to the DLT SS and does not extend to a securities settlement system that is operated by the same CSD.
+11.   Paragraphs 2 to 10 of this Article apply, mutatis mutandis, to an investment firm or market operator operating a DLT TSS in accordance with Article 6(1).
+12.   ESMA shall prepare guidelines on the compensatory measures referred to in paragraph 1, second subparagraph, point (c), of this Article.

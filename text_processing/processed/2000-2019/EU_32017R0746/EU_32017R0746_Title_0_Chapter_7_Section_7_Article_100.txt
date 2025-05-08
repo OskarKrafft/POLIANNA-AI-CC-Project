@@ -1,0 +1,72 @@
+Article 100
+The European Union reference laboratories
+1.   For specific devices, or a category or group of devices, or for specific hazards related to a category or group of devices, the Commission may designate, by means of implementing acts, one or more European Union reference laboratories (the ‘EU reference laboratories’), that satisfy the criteria set out in paragraph 4. The Commission shall only designate the EU reference laboratories for which a Member State or the Commission's Joint Research Centre have submitted an application for designation.
+2.   Within the scope of their designation, the EU reference laboratories shall, where appropriate, have the following tasks:
+(a)
+to verify the performance claimed by the manufacturer and the compliance of class D devices with the applicable CS, when available, or with other solutions chosen by the manufacturer to ensure a level of safety and performance that is at least equivalent, as provided for in the third subparagraph of Article 48(3);
+(b)
+to carry out appropriate tests on samples of manufactured class D devices or batches of class D devices, as provided for in the Section 4.12 of Annex IX and in Section 5.1 of Annex XI;
+(c)
+to provide scientific and technical assistance to the Commission, the MDCG, the Member States and notified bodies in relation to the implementation of this Regulation;
+(d)
+to provide scientific advice regarding the state of the art in relation to specific devices, or a category or group of devices;
+(e)
+to set up and manage a network of national reference laboratories after consulting with the national authorities and publish a list of the participating national reference laboratories and their respective tasks;
+(f)
+to contribute to the development of appropriate testing and analysis methods to be applied for conformity assessment procedures and market surveillance;
+(g)
+to collaborate with notified bodies in the development of best practices for the performance of conformity assessment procedures;
+(h)
+to provide recommendations on suitable reference materials and reference measurement procedures of higher metrological order;
+(i)
+to contribute to the development of CS and of international standards;
+(j)
+to provide scientific opinions in response to consultations by notified bodies in accordance with this Regulation and publish them by electronic means having considered national provisions on confidentiality.
+3.   At the request of a Member State, the Commission may also designate the EU reference laboratories where that Member State wishes to have recourse to such laboratories to ensure the verification of the performance claimed by the manufacturer and the compliance of class C devices with the applicable CS when available, or with other solutions chosen by the manufacturer to ensure a level of safety and performance that is at least equivalent.
+4.   The EU reference laboratories shall satisfy the following criteria:
+(a)
+have adequate and appropriately qualified staff with adequate knowledge and experience in the field of the in vitro diagnostic medical devices for which they are designated;
+(b)
+possess the necessary equipment and reference material to carry out the tasks assigned to them;
+(c)
+have the necessary knowledge of international standards and best practices;
+(d)
+have an appropriate administrative organisation and structure;
+(e)
+ensure that their staff observe the confidentiality of information and data obtained in carrying out their tasks;
+(f)
+act in the public interest and in an independent manner;
+(g)
+ensure that their staff do not have financial or other interests in the in vitro diagnostic medical device industry which could affect their impartiality, declare any other direct and indirect interests they may have in the in vitro diagnostic medical device industry and update this declaration whenever a relevant change occurs.
+5.   The EU reference laboratories shall form a network in order to coordinate and harmonise their working methods as regards testing and assessment. That coordination and harmonisation shall involve:
+(a)
+applying coordinated methods, procedures and processes;
+(b)
+agreeing on the use of same reference materials and common test samples and seroconversion panels;
+(c)
+establishing common assessment and interpretation criteria;
+(d)
+using common testing protocols and assessing the test results using standardised and coordinated evaluation methods;
+(e)
+using standardised and coordinated test reports;
+(f)
+developing, applying and maintaining a peer review system;
+(g)
+organizing regular quality assessment tests (including mutual checks on the quality and comparability of test results);
+(h)
+agreeing on joint guidelines, instructions, procedural instructions or standard operational procedures;
+(i)
+coordinating the introduction of testing methods for new technologies and according to new or amended CS;
+(j)
+reassessing the state of the art on the basis of comparative test results or by further studies, as requested by a Member State or by the Commission.
+6.   The EU reference laboratories may be granted a Union financial contribution.
+The Commission may adopt, by means of implementing acts, the detailed arrangements and the amount of a Union financial contribution to the EU reference laboratories, taking into account the objectives of health and safety protection, support of innovation and cost-effectiveness. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).
+7.   Where notified bodies or Member States request scientific or technical assistance or a scientific opinion from an EU reference laboratory, they may be required to pay fees to wholly or partially cover the costs incurred by that laboratory in carrying out the requested task according to predetermined and transparent terms and conditions.
+8.   The Commission shall specify by means of implementing acts:
+(a)
+detailed rules to facilitate the application of paragraph 2 of this Article and detailed rules to ensure compliance with the criteria referred to in paragraph 4 of this Article.
+(b)
+the structure and the level of the fees referred to in paragraph 7 of this Article which may be levied by an EU reference laboratory for providing scientific opinions in response to consultations by notified bodies and Member States in accordance with this Regulation, taking into account the objectives of human health and safety protection, support of innovation and cost-effectiveness.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).
+9.   The EU reference laboratories shall be subject to controls, including on-site visits and audits, by the Commission to verify compliance with the requirements of this Regulation. If those controls find that an EU reference laboratory is not complying with the requirements for which it has been designated, the Commission, by means of implementing acts, shall take appropriate measures, including the restriction, suspension or withdrawal of the designation.
+10.   The provisions in Article 107(1) of Regulation (EU) 2017/745 shall apply to the staff of the EU reference laboratories.

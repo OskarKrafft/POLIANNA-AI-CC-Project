@@ -1,0 +1,6 @@
+Article 41
+Participant default rules and procedures
+1.   For each securities settlement system it operates, a CSD shall have effective and clearly defined rules and procedures to manage the default of one or more of its participants ensuring that the CSD can take timely action to contain losses and liquidity pressures and continue to meet its obligations.
+2.   A CSD shall make its default rules and relevant procedures available to the public.
+3.   A CSD shall undertake with its participants and other relevant stakeholders periodic testing and review of its default procedures to ensure that they are practical and effective.
+4.   In order to ensure consistent application of this Article, ESMA may, in close cooperation with the members of the ESCB, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010.

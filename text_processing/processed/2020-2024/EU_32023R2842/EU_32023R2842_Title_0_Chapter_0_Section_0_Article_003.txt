@@ -1,0 +1,24 @@
+Article 23
+Completion of the landing declaration
+1.   The master of a Union fishing vessel, or a representative of the master, shall complete an electronic landing declaration.
+2.   The landing declaration referred to in paragraph 1 shall contain at least the following information:
+(a)
+the unique fishing trip identification number;
+(b)
+the CFR number or, where that number is not available, another vessel identification number, and the name of the fishing vessel;
+(c)
+the FAO alpha-3 code of each species landed and the relevant geographical area in which the catches were taken;
+(d)
+the quantities of each species landed in kilograms of product weighed in accordance with Article 60 and in live weight, broken down by type of product presentation and state of processing, or, where appropriate, in number of individuals, including, as a separate entry, the quantities or individuals below the applicable minimum conservation reference size;
+(e)
+the port of landing or landing site;
+(f)
+date and time of the completion of the landing or, in the event that the landing takes longer than 24 hours, the date and time of the start and of the completion of the landing;
+(g)
+date and time of the completion of the weighing or, in the event that the weighing takes longer than 24 hours, the date and time of the start and of the completion of the weighing;
+(h)
+the name or an identification number of the operator referred to in Article 60(5);
+(i)
+the conversion factors used.
+3.   The accuracy of the data recorded in the landing declaration shall be the responsibility of the master.
+4.   In order to convert stored or processed fish weight into live fish weight for the purpose of the completion of the landing declaration, the master of a fishing vessel, or a representative of the master, shall apply a conversion factor established in accordance with Article 14(12).

@@ -1,0 +1,24 @@
+Article 104
+Inclusion in the Trading Book
+1.   Institutions shall have in place clearly defined policies and procedures for determining which position to include in the trading book for the purposes of calculating their capital requirements, in accordance with the requirements set out in Article 102 and the definition of trading book in accordance with point (86) of Article 4(1), taking into account the institution's risk management capabilities and practices. The institution shall fully document its compliance with these policies and procedures and shall subject them to periodic internal audit.
+2.   Institutions shall have in place clearly defined policies and procedures for the overall management of the trading book. These policies and procedures shall at least address:
+(a)
+the activities the institution considers to be trading and as constituting part of the trading book for own funds requirement purposes;
+(b)
+the extent to which a position can be marked-to-market daily by reference to an active, liquid two-way market;
+(c)
+for positions that are marked-to-model, the extent to which the institution can:
+(i)
+identify all material risks of the position;
+(ii)
+hedge all material risks of the position with instruments for which an active, liquid two-way market exists;
+(iii)
+derive reliable estimates for the key assumptions and parameters used in the model;
+(d)
+the extent to which the institution can, and is required to, generate valuations for the position that can be validated externally in a consistent manner;
+(e)
+the extent to which legal restrictions or other operational requirements would impede the institution's ability to effect a liquidation or hedge of the position in the short term;
+(f)
+the extent to which the institution can, and is required to, actively manage the risks of positions within its trading operation;
+(g)
+the extent to which the institution may transfer risk or positions between the non-trading and trading books and the criteria for such transfers.

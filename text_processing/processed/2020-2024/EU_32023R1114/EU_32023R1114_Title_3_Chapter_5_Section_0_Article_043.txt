@@ -1,0 +1,43 @@
+Article 43
+Classification of asset-referenced tokens as significant asset-referenced tokens
+1.   The criteria for classifying asset-referenced tokens as significant asset-referenced tokens shall be the following, as further specified by the delegated acts adopted pursuant to paragraph 11:
+(a)
+the number of holders of the asset-referenced token is larger than 10 million;
+(b)
+the value of the asset-referenced token issued, its market capitalisation or the size of the reserve of assets of the issuer of the asset-referenced token is higher than EUR 5 000 000 000;
+(c)
+the average number and average aggregate value of transactions in that asset-referenced token per day during the relevant period, is higher than 2,5 million transactions and EUR 500 000 000 respectively;
+(d)
+the issuer of the asset-referenced token is a provider of core platform services designated as a gatekeeper in accordance with Regulation (EU) 2022/1925 of the European Parliament and of the Council (43);
+(e)
+the significance of the activities of the issuer of the asset-referenced token on an international scale, including the use of the asset-referenced token for payments and remittances;
+(f)
+the interconnectedness of the asset-referenced token or its issuers with the financial system;
+(g)
+the fact that the same issuer issues at least one additional asset-referenced token or e-money token, and provides at least one crypto-asset service.
+2.   EBA shall classify asset-referenced tokens as significant asset-referenced tokens where at least three of the criteria set out in paragraph 1 of this Article are met:
+(a)
+during the period covered by the first report of information as referred to in paragraph 4 of this Article, following authorisation pursuant to Article 21 or after approval of the crypto-asset white paper pursuant to Article 17; or
+(b)
+during the period covered by at least two consecutive reports of information as referred to in paragraph 4 of this Article.
+3.   Where several issuers issue the same asset-referenced token, the fulfilment of the criteria set out in paragraph 1 shall be assessed after aggregating the data from those issuers.
+4.   Competent authorities of the issuer’s home Member State shall report to EBA and the ECB information relevant for the assessment of the fulfilment of the criteria set out in paragraph 1 of this Article, including, if applicable, the information received under Article 22, at least twice a year.
+Where the issuer is established in a Member State whose official currency is not the euro, or where an official currency of a Member State that is not the euro is referenced by the asset-referenced token, competent authorities shall transmit the information referred to in the first subparagraph also to the central bank of that Member State.
+5.   Where EBA concludes that an asset-referenced token fulfils the criteria set out in paragraph 1 in accordance with paragraph 2, EBA shall prepare a draft decision to classify the asset-referenced token as a significant asset-referenced token and notify that draft decision to the issuer of that asset-referenced token, to the competent authority of the issuer’s home Member State, to the ECB and, in the cases referred to in paragraph 4, second subparagraph, to the central bank of the Member State concerned.
+Issuers of such asset-referenced tokens, their competent authorities, the ECB and, where applicable, the central bank of the Member State concerned shall have 20 working days from the date of notification of EBA’s draft decision to provide observations and comments in writing. EBA shall duly consider those observations and comments before adopting a final decision.
+6.   EBA shall take its final decision on whether to classify an asset-referenced token as a significant asset-referenced token within 60 working days of the date of notification referred to in paragraph 5 and immediately notify that decision to the issuer of such asset-referenced token and its competent authority.
+7.   Where an asset-referenced token has been classified as significant pursuant to a decision of EBA taken in accordance with paragraph 6, the supervisory responsibilities with respect to the issuer of that significant asset-referenced token shall be transferred from the competent authority of the issuer’s home Member State to EBA within 20 working days of the date of notification of that decision.
+EBA and the competent authority shall cooperate in order to ensure the smooth transition of supervisory competences.
+8.   EBA shall annually reassess the classification of significant asset-referenced tokens on the basis of the available information, including from the reports referred to in paragraph 4 or the information received under Article 22.
+Where EBA concludes that certain asset-referenced tokens no longer fulfil the criteria set out in paragraph 1 in accordance with paragraph 2, EBA shall prepare a draft decision to no longer classify the asset-referenced tokens as significant and notify that draft decision to the issuers of those asset-referenced tokens and the competent authority of their home Member State, to the ECB and, in the cases referred to in paragraph 4, second subparagraph, to the central bank of the Member State concerned.
+Issuers of such asset-referenced tokens, their competent authorities, the ECB and the central bank referred in paragraph 4 shall have 20 working days from the date of notification of that draft decision to provide observations and comments in writing. EBA shall duly consider those observations and comments before adopting a final decision.
+9.   EBA shall take its final decision on whether to no longer classify an asset-referenced token as significant within 60 working days from the date of the notification referred to in paragraph 8 and immediately notify that decision to the issuer of such asset-referenced tokens and its competent authority.
+10.   Where an asset-referenced token is no longer classified as significant pursuant to a decision of EBA taken in accordance with paragraph 9, the supervisory responsibilities with respect to the issuer of that asset-referenced token shall be transferred from EBA to the competent authority of the issuer’s home Member State within 20 working days from the date of notification of that decision.
+EBA and the competent authority shall cooperate in order to ensure the smooth transition of supervisory competences.
+11.   The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by further specifying the criteria set out in paragraph 1 for an asset-referenced token to be classified as significant and determine:
+(a)
+the circumstances under which the activities of the issuer of the asset-referenced token are deemed significant on an international scale outside the Union;
+(b)
+the circumstances under which asset-referenced tokens and their issuers shall be considered to be interconnected with the financial system;
+(c)
+the content and format of information provided by competent authorities to EBA and the ECB under paragraph 4 of this Article and Article 56(3).

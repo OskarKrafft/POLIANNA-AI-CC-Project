@@ -1,0 +1,21 @@
+Article 6
+Quality assessment and reports
+1.   Member States shall ensure the quality of the data transmitted.
+2.   Every reasonable effort shall be undertaken to ensure coherence between energy data declared in accordance with Annex B and data declared in accordance with Commission Decision 2005/166/EC of 10 February 2005 laying down the rules for implementing Decision No 280/2004/EC of the European Parliament and of the Council concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (12).
+3.   For the purposes of this Regulation, the following quality assessment dimensions shall apply to the data to be transmitted:
+(a)
+‘relevance’ shall refer to the degree to which statistics meet current and potential needs of the users;
+(b)
+‘accuracy’ shall refer to the closeness of estimates to the unknown true values;
+(c)
+‘timeliness’ shall refer to the delay between the availability of the information and the event or phenomenon it describes;
+(d)
+‘punctuality’ shall refer to the delay between the date of the release of the data and the target date when it should have been delivered;
+(e)
+‘accessibility’ and ‘clarity’ shall refer to the conditions and modalities by which users can obtain, use and interpret data;
+(f)
+‘comparability’ shall refer to the measurement of the impact of differences in applied statistical concepts and measurement tools and procedures where statistics are compared between geographical areas, sectoral domains or over time;
+(g)
+‘coherence’ shall refer to the adequacy of the data to be reliably combined in different ways and for various uses.
+4.   Every five years, Member States shall provide the Commission (Eurostat) with a report on the quality of the data transmitted as well as on any methodological changes that have been made.
+5.   Within six months of receipt of a request from the Commission (Eurostat), and in order to allow it to assess the quality of the data transmitted, Member States shall send to the Commission (Eurostat) a report containing any relevant information concerning the implementation of this Regulation.

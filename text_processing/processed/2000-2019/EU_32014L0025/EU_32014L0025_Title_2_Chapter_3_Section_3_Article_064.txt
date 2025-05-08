@@ -1,0 +1,5 @@
+Article 64
+Variants
+1.   Contracting entities may authorise or require tenderers to submit variants which meet the minimum requirements specified by the contracting entities.
+Contracting entities shall indicate in the procurement documents whether or not they authorise or require variants and, if so, the minimum requirements to be met by the variants and any specific requirements for their presentation, in particular whether variants may be submitted only where a tender, which is not a variant, has also been submitted. Where variants are authorised or required, they shall also ensure that the chosen award criteria can be applied to variants meeting those minimum requirements as well as to conforming tenders which are not variants.
+2.   In procedures for awarding supply or service contracts, contracting entities that have authorised or required variants shall not reject a variant on the sole ground that it would, where successful, lead either to a service contract rather than a supply contract or to a supply contract rather than a service contract.

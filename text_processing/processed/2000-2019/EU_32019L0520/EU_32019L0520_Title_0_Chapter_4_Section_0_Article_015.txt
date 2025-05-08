@@ -1,0 +1,33 @@
+Article 15
+Interoperability constituents
+1.   Where a new electronic road toll system is created on the territory of a Member State, that Member State shall take the measures necessary to ensure that the designated toll charger responsible for the system establishes and publishes in the EETS domain statement the detailed planning of the process of assessment of conformity to specifications and of the suitability for use of interoperability constituents, which allows for the accreditation of interested EETS providers at the latest one month before the operational launch of the new system.
+Where an electronic road toll system on the territory of a Member State is substantially modified, that Member State shall take the measures necessary to ensure that the toll charger responsible for the system establishes and publishes in the EETS domain statement, in addition to the elements referred to in the first subparagraph, the detailed planning of the re-assessment of conformity to specifications and of the suitability for use of the interoperability constituents of EETS providers already accredited to the system before its substantial modification. The planning shall allow for the re-accreditation of concerned EETS providers at the latest one month before the operational launch of the modified system.
+The toll charger shall respect that planning.
+2.   Member States shall take the measures necessary to ensure that each toll charger responsible for an EETS domain on the territory of that Member States sets up a test environment in which the EETS provider or its authorised representatives can check that its OBE is suitable for use in the toll charger's EETS domain and obtain certification of the successful completion of the respective tests. Member States shall take the measures necessary to allow toll chargers to set up a single test environment for more than one EETS domain, and to allow one authorised representative to check the suitability for use of one type of OBE on behalf of more than one EETS provider.
+Member States shall take the measures necessary to allow toll chargers to require EETS providers or their authorised representatives to cover the cost of the respective tests.
+3.   Member States shall not prohibit, restrict or hinder the placing on the market of interoperability constituents for use in EETS where they bear the CE marking or either a declaration of conformity to specifications or a declaration of suitability for use, or both. In particular, Member States shall not require checks which have already been carried out as part of the procedure for checking conformity to specifications or suitability for use, or both.
+4.   The Commission shall adopt delegated acts in accordance with Article 30, at the latest by 19 October 2019, to lay down the requirements for interoperability constituents regarding safety and health, reliability and availability, environment protection, technical compatibility, security and privacy and operation and management.
+5.   The Commission shall also adopt delegated acts in accordance with Article 30, at the latest by 19 October 2019, to lay down the general infrastructure requirements regarding:
+(a)
+the accuracy of toll declaration data with a view to guaranteeing equality of treatment between EETS users in respect of tolls and charges;
+(b)
+the identification, through the OBE, of the responsible EETS provider;
+(c)
+the use of open standards for the interoperability constituents of the EETS equipment;
+(d)
+the integration of the OBE in the vehicle; and
+(e)
+the signalisation, to the driver, of the requirement to pay a road fee.
+6.   The Commission shall adopt implementing acts, at the latest by 19 October 2019, to lay down the following specific infrastructure requirements:
+(a)
+requirements on common communication protocols between toll chargers and EETS providers equipment;
+(b)
+requirements on mechanisms for toll chargers to detect whether a vehicle circulating on their EETS domain is equipped with a valid and functioning OBE;
+(c)
+requirements on the human-machine interface in the OBE;
+(d)
+requirements applying specifically to interoperability constituents in microwave technologies-based toll systems; and
+(e)
+requirements applying specifically in Global Navigation Satellite System (GNSS)-based toll systems.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+7.   The Commission shall adopt implementing acts, at the latest by 19 October 2019, to lay down the procedure to be applied by the Member States for assessing the conformity to specifications and suitability for use of interoperability constituents, including the content and format of the EC declarations. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).

@@ -1,0 +1,112 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the definitions laid down in Article 3 of Directive 2007/46/EC apply.
+In addition, the following definitions also apply:
+(1)
+‘type-approval of a vehicle’ means the procedure referred to in Article 3 of Directive 2007/46/EC with regard to sound levels;
+(2)
+‘vehicle type’ means a category of motor vehicles which do not differ in essential respects such as:
+(a)
+for vehicles of categories M1, M2 ≤ 3 500 kg, N1 tested in accordance with point 4.1.2.1 of Annex II:
+(i)
+the shape or materials of the bodywork (particularly the engine compartment and its soundproofing);
+(ii)
+the type of engine (e.g. positive or compression ignition, two- or four-stroke, reciprocating or rotary piston), number and capacity of cylinders, number and type of carburettors or injection system, arrangement of valves, or the type of electric motor;
+(iii)
+rated maximum net power and corresponding engine speed(s); however if the rated maximum power and the corresponding engine speed differs only due to different engine mappings, those vehicles may be regarded as of the same type;
+(iv)
+the silencing system;
+(b)
+for vehicles of categories M2 > 3 500 kg, M3, N2, N3 tested in accordance with point 4.1.2.2 of Annex II:
+(i)
+the shape or materials of the bodywork (particularly the engine compartment and its soundproofing);
+(ii)
+the type of engine (e.g. positive or compression ignition, two- or four-stroke, reciprocating or rotary piston), number and capacity of cylinders, type of injection system, arrangement of valves, rated engine speed (S), or the type of electric motor;
+(iii)
+vehicles having the same type of engine and/or different overall gear ratios may be regarded as vehicles of the same type.
+However, if the differences in point (b) provide for different target conditions, as described in point 4.1.2.2 of Annex II, those differences shall be regarded as a change of type;
+(3)
+‘technically permissible maximum laden mass’ (M) means the maximum mass allocated to a vehicle on the basis of its construction features and its design performance; the technically permissible laden mass of a trailer or of a semi-trailer includes the static mass transferred to the towing vehicle when coupled;
+(4)
+‘rated maximum net power’ (Pn) means the engine power expressed in kW and measured by the UNECE method pursuant to UNECE Regulation No 85 (13).
+If the rated maximum net power is reached at several engine speeds, the highest engine speed shall be used;
+(5)
+‘standard equipment’ means the basic configuration of a vehicle including all features that are fitted without giving rise to any further specifications on configuration or equipment level but equipped with all the features required under the regulatory acts mentioned in Annex IV or Annex XI to Directive 2007/46/EC;
+(6)
+‘mass of the driver’ means a mass rated at 75 kg located at the driver's seating reference point;
+(7)
+‘mass of a vehicle in running order’ (mro) means
+(a)
+in the case of a motor vehicle:
+the mass of the vehicle, with its fuel tank(s) filled to at least 90 % of its or their capacity/ies, including the mass of the driver, the fuel and liquids, fitted with the standard equipment in accordance with the manufacturer's specifications and, where they are fitted, the mass of the bodywork, the cabin, the coupling and the spare wheel(s) as well as the tools;
+(b)
+in the case of a trailer:
+the mass of the vehicle including the fuel and liquids, fitted with the standard equipment in accordance with the manufacturer's specifications, and, when they are fitted, the mass of the bodywork, additional coupling(s), the spare wheel(s) and the tools;
+(8)
+‘rated engine speed’ (S) means the declared engine speed in min–1 (rpm) at which the engine develops its rated maximum net power pursuant to UNECE Regulation No 85 or, where the rated maximum net power is reached at several engine speeds, the highest one of those speeds;
+(9)
+‘power to mass ratio index’ (PMR) means a numerical quantity calculated in accordance with the formula set out in point 4.1.2.1.1 of Annex II;
+(10)
+‘reference point’ means one of the following points:
+(a)
+in the case of vehicles of categories M1 and N1:
+(i)
+for front engine vehicles, the front end of the vehicle;
+(ii)
+for mid engine vehicles, the centre of the vehicle;
+(iii)
+for rear engine vehicles, the rear end of the vehicle.
+(b)
+in the case of vehicles of categories M2, M3, N2 and N3, the border of the engine closest to the front of the vehicle.
+(11)
+‘target acceleration’ means acceleration at a partial throttle condition in urban traffic as derived from statistical investigations;
+(12)
+‘engine’ means the power source without detachable accessories;
+(13)
+‘reference acceleration’ means the required acceleration during the acceleration test on the test track;
+(14)
+‘gear ratio weighting factor’ (k) means a dimensionless numerical quantity used to combine the test results of two gear ratios for the acceleration test and the constant speed test;
+(15)
+‘partial power factor’ (kP) means a numerical quantity with no dimension used for the weighted combination of the test results of the acceleration test and the constant speed test for vehicles;
+(16)
+‘pre-acceleration’ means the application of an acceleration control device prior to AA' for the purpose of achieving stable acceleration between AA' and BB' as referred to in Figure 1 of the Appendix to Annex II;
+(17)
+‘locked gear ratios’ means the control of transmission such that the transmission gear cannot change during a test;
+(18)
+‘silencing system’ means a complete set of components necessary for limiting the noise produced by an engine and its exhaust;
+(19)
+‘silencing system of different types’ means silencing systems which significantly differ in respect of at least one of the following:
+(a)
+trade names or trade marks of their components;
+(b)
+the characteristics of the materials constituting their components, except for the coating of those components;
+(c)
+the shape or size of their components;
+(d)
+the operating principles of at least one of their components;
+(e)
+the assembly of their components;
+(f)
+the number of exhaust silencing systems or components;
+(20)
+‘design family of silencing system or silencing system components’ means a group of silencing systems, or components thereof, in which all of the following characteristics are the same:
+(a)
+the presence of net gas flow of the exhaust gases through the absorbing fibrous material when in contact with that material;
+(b)
+the type of the fibres;
+(c)
+where applicable, binder material specifications;
+(d)
+average fibre dimensions;
+(e)
+minimum bulk material packing density in kg/m3;
+(f)
+maximum contact surface between the gas flow and the absorbing material;
+(21)
+‘replacement silencing system’ means any part of the silencing system, or components thereof, intended for use on a vehicle, other than a part of the type fitted to the vehicle when submitted for EU type-approval pursuant to this Regulation;
+(22)
+‘Acoustic Vehicle Alerting System’ (AVAS) means a system for hybrid electric and pure electric vehicles which provides sound to signal the vehicle's presence to pedestrians and other road users;
+(23)
+‘point of sale’ means a location where vehicles are stored and offered for sale to consumers;
+(24)
+‘technical promotional material’ means technical manuals, brochures, leaflets and catalogues, whether they appear in printed, electronic or online form, as well as websites, and the purpose of which is to promote vehicles to the general public.

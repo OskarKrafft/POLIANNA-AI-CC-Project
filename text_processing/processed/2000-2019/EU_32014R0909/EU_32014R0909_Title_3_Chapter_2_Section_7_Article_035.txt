@@ -1,0 +1,3 @@
+Article 35
+Communication procedures with participants and other market infrastructures
+CSDs shall use in their communication procedures with participants of the securities settlement systems they operate, and with the market infrastructures they interface with international open communication procedures and standards for messaging and reference data in order to facilitate efficient recording, payment and settlement.

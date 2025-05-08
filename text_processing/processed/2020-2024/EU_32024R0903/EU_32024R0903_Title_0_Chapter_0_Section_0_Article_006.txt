@@ -1,0 +1,7 @@
+Article 6
+European Interoperability Framework and specialised interoperability frameworks
+1.   The Board shall develop a European Interoperability Framework (EIF). It shall submit the EIF to the Commission for adoption. In the event that the Commission adopts the EIF, it shall publish the EIF in the Official Journal of the European Union.
+
+2.   The EIF shall provide a model and a set of recommendations for legal, organisational, semantic and technical interoperability as well as for its governance, that are addressed to all entities falling within the scope of this Regulation for the purpose of facilitating interactions among each other through their network and information systems. The EIF shall be taken into account in the interoperability assessment referred to in Article 3 and in the Annex.
+3.   The Commission may, after consulting the Board, adopt other interoperability frameworks (specialised interoperability frameworks) targeting the needs of specific sectors or administrative levels. Specialised interoperability frameworks shall be based on the EIF. The Board shall assess the alignment of the specialised interoperability frameworks with the EIF. The Commission shall publish the specialised interoperability frameworks on the Interoperable Europe portal.
+4.   Where a Member State develops a national interoperability framework and other relevant national policies, strategies or guidelines, it shall take the EIF into utmost account.

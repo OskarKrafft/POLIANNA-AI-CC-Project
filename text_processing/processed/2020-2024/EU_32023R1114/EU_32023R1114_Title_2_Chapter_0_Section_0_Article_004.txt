@@ -1,0 +1,46 @@
+Article 4
+Offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens
+1.   A person shall not make an offer to the public of a crypto-asset other than an asset-referenced token or e-money token in the Union unless that person:
+(a)
+is a legal person;
+(b)
+has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;
+(c)
+has notified the crypto-asset white paper in accordance with Article 8;
+(d)
+has published the crypto-asset white paper in accordance with Article 9;
+(e)
+has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;
+(f)
+has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;
+(g)
+complies with the requirements for offerors laid down in Article 14.
+2.   Paragraph 1, points (b), (c), (d) and (f), shall not apply to any of the following offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens:
+(a)
+an offer to fewer than 150 natural or legal persons per Member State where such persons are acting on their own account;
+(b)
+over a period of 12 months, starting with the beginning of the offer, the total consideration of an offer to the public of a crypto-asset in the Union does not exceed EUR 1 000 000, or the equivalent amount in another official currency or in crypto-assets;
+(c)
+an offer of a crypto-asset addressed solely to qualified investors where the crypto-asset can only be held by such qualified investors.
+3.   This Title shall not apply to offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens where any of the following apply:
+(a)
+the crypto-asset is offered for free;
+(b)
+the crypto-asset is automatically created as a reward for the maintenance of the distributed ledger or the validation of transactions;
+(c)
+the offer concerns a utility token providing access to a good or service that exists or is in operation;
+(d)
+the holder of the crypto-asset has the right to use it only in exchange for goods and services in a limited network of merchants with contractual arrangements with the offeror.
+For the purposes of point (a) of the first subparagraph, a crypto-asset shall not be considered to be offered for free where purchasers are required to provide, or to undertake to provide, personal data to the offeror in exchange for that crypto-asset, or where the offeror of a crypto-asset receives from prospective holders of that crypto-asset any fees, commissions, or monetary or non-monetary benefits in exchange for that crypto-asset.
+Where, for each 12-month period starting from the beginning of the initial offer to the public, the total consideration of an offer to the public of a crypto-asset in the circumstances referred to in the first subparagraph, point (d), in the Union exceeds EUR 1 000 000, the offeror shall send a notification to the competent authority containing a description of the offer and explaining why the offer is exempt from this Title pursuant to the first subparagraph, point (d).
+Based on the notification referred to in the third subparagraph, the competent authority shall take a duly justified decision where it considers that the activity does not qualify for an exemption as a limited network under the first subparagraph, point (d), and shall inform the offeror accordingly.
+4.   The exemptions listed in paragraphs 2 and 3 shall not apply where the offeror, or another person acting on the offeror’s behalf, makes known in any communication its intention to seek admission to trading of a crypto-asset other than an asset-referenced token or e-money token.
+5.   Authorisation as a crypto-asset service provider pursuant to Article 59 is not required for providing custody and administration of crypto-assets on behalf of clients or for providing transfer services for crypto-assets in relation to crypto-assets whose offers to the public are exempt pursuant to paragraph 3 of this Article, unless:
+(a)
+there exists another offer to the public of the same crypto-asset and that offer does not benefit from the exemption; or
+(b)
+the crypto-asset offered is admitted to a trading platform.
+6.   Where the offer to the public of the crypto-asset other than an asset-referenced token or e-money token concerns a utility token providing access to goods and services that do not yet exist or are not yet in operation, the duration of the offer to the public as described in the crypto-asset white paper shall not exceed 12 months from the date of publication of the crypto-asset white paper.
+7.   Any subsequent offer to the public of the crypto-asset other than an asset-referenced token or e-money token shall be deemed a separate offer to the public to which the requirements of paragraph 1 apply, without prejudice to the possible application of paragraph 2 or 3 to the subsequent offer to the public.
+No additional crypto-asset white paper shall be required for any subsequent offer to the public of the crypto-asset other than an asset-referenced token or e-money token so long as a crypto-asset white paper has been published in accordance with Articles 9 and 12, and the person responsible for drawing up such white paper consents to its use in writing.
+8.   Where an offer to the public of a crypto-asset other than an asset-referenced token or e-money token is exempt from the obligation to publish a crypto-asset white paper under paragraph 2 or 3, but a white paper is nevertheless drawn up voluntarily, this Title shall apply.

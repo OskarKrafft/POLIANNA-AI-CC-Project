@@ -1,0 +1,274 @@
+Article 2
+Supervisory powers
+1.   For the purpose of ensuring compliance with this Regulation, competent authorities shall have the powers and shall follow the procedures set out in Directive 2013/36/EU and in this Regulation.
+2.   For the purpose of ensuring compliance with this Regulation, resolution authorities shall have the powers and shall follow the procedures set out in Directive 2014/59/EU of the European Parliament and of the Council (*1) and in this Regulation.
+3.   For the purpose of ensuring compliance with the requirements concerning own funds and eligible liabilities, competent authorities and resolution authorities shall cooperate.
+4.   For the purpose of ensuring compliance within their respective competences, the Single Resolution Board established by Article 42 of Regulation (EU) No 806/2014 of the European Parliament and of the Council (*2), and the European Central Bank with regard to matters relating to the tasks conferred on it by Council Regulation (EU) No 1024/2013 (*3), shall ensure the regular and reliable exchange of relevant information.
+
+(*1)  Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)."
+                        
+
+(*2)  Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1)."
+                        
+
+(*3)  Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).’;"
+                        
+(2)
+Article 4 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (7) is replaced by the following:
+‘(7)
+‘collective investment undertaking’ or ‘CIU’ means a UCITS as defined in Article 1(2) of Directive 2009/65/EC of the European Parliament and of the Council (*4) or an alternative investment fund (AIF) as defined in point (a) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council (*5);
+
+(*4)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32)."
+                        
+
+(*5)  Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).’;"
+                        
+(ii)
+point (20) is replaced by the following:
+‘(20)
+‘financial holding company’ means a financial institution, the subsidiaries of which are exclusively or mainly institutions or financial institutions, and which is not a mixed financial holding company; the subsidiaries of a financial institution are mainly institutions or financial institutions where at least one of them is an institution and where more than 50 % of the financial institution's equity, consolidated assets, revenues, personnel or other indicator considered relevant by the competent authority are associated with subsidiaries that are institutions or financial institutions;’;
+(iii)
+point (26) is replaced by the following:
+‘(26)
+‘financial institution’ means an undertaking other than an institution and other than a pure industrial holding company, the principal activity of which is to acquire holdings or to pursue one or more of the activities listed in points 2 to 12 and point 15 of Annex I to Directive 2013/36/EU, including a financial holding company, a mixed financial holding company, a payment institution as defined in point (4) of Article 4 of Directive (EU) 2015/2366 of the European Parliament and of the Council (*6), and an asset management company, but excluding insurance holding companies and mixed-activity insurance holding companies as defined, respectively, in points (f) and (g) of Article 212(1) of Directive 2009/138/EC;
+
+(*6)  Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35).’;"
+                        
+(iv)
+point (28) is replaced by the following:
+‘(28)
+‘parent institution in a Member State’ means an institution in a Member State which has an institution, a financial institution or an ancillary services undertaking as a subsidiary or which holds a participation in an institution, financial institution or ancillary services undertaking, and which is not itself a subsidiary of another institution authorised in the same Member State, or of a financial holding company or mixed financial holding company set up in the same Member State;’;
+(v)
+the following points are inserted:
+‘(29a)
+‘parent investment firm in a Member State’ means a parent institution in a Member State that is an investment firm;
+(29b)
+‘EU parent investment firm’ means an EU parent institution that is an investment firm;
+(29c)
+‘parent credit institution in a Member State’ means a parent institution in a Member State that is a credit institution;
+(29d)
+‘EU parent credit institution’ means an EU parent institution that is a credit institution;’;
+(vi)
+in point (39), the following paragraph is added:
+
+                                                      ‘Two or more natural or legal persons who fulfil the conditions set out in point (a) or (b) because of their direct exposure to the same CCP for clearing activities purposes are not considered as constituting a group of connected clients;’;
+(vii)
+point (41) is replaced by the following:
+‘(41)
+‘consolidating supervisor’ means a competent authority responsible for the exercise of supervision on a consolidated basis in accordance with Article 111 of Directive 2013/36/EU;’;
+(viii)
+in point (71), the introductory phrase in point (b) is replaced by the following:
+‘(b)
+(ix)
+in point (72), point (a) is replaced by the following:
+‘(a)
+
+(*7)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).’;"
+                        
+(x)
+point (86) is replaced by the following:
+‘(86)
+‘trading book’ means all positions in financial instruments and commodities held by an institution either with trading intent or to hedge positions held with trading intent in accordance with Article 104;’;
+(xi)
+point (91) is replaced by the following:
+‘(91)
+‘trade exposure’ means a current exposure, including a variation margin due to the clearing member but not yet received, and any potential future exposure of a clearing member or a client, to a CCP arising from contracts and transactions listed in points (a), (b) and (c) of Article 301(1), as well as initial margin;’;
+(xii)
+point (96) is replaced by the following:
+‘(96)
+‘internal hedge’ means a position that materially offsets the component risk elements between a trading book position and one or more non-trading book positions or between two trading desks;’;
+(xiii)
+in point (127), point (a) is replaced by the following:
+‘(a)
+(xiv)
+point (128) is replaced by the following:
+‘(128)
+‘distributable items’ means the amount of the profits at the end of the last financial year plus any profits brought forward and reserves available for that purpose, before distributions to holders of own funds instruments, less any losses brought forward, any profits which are non-distributable pursuant to Union or national law or the institution's by-laws and any sums placed in non-distributable reserves in accordance with national law or the statutes of the institution, in each case with respect to the specific category of own funds instruments to which Union or national law, institutions' by-laws, or statutes relate; such profits, losses and reserves being determined on the basis of the individual accounts of the institution and not on the basis of the consolidated accounts;’;
+(xv)
+the following points are added:
+‘(130)
+‘resolution authority’ means a resolution authority as defined in point (18) of Article 2(1) of Directive 2014/59/EU;
+(131)
+‘resolution entity’ means a resolution entity as defined in point (83a) of Article 2(1) of Directive 2014/59/EU;
+(132)
+‘resolution group’ means a resolution group as defined in point (83b) of Article 2(1) of Directive 2014/59/EU;
+(133)
+‘global systemically important institution’ or ‘G-SII’ means a G-SII that has been identified in accordance with Article 131(1) and (2) of Directive 2013/36/EU;
+(134)
+‘non-EU global systemically important institution’ or ‘non-EU G-SII’ means a global systemically important banking group or a bank (G-SIBs) that is not a G-SII and that is included in the list of G-SIBs published by the Financial Stability Board, as regularly updated;
+(135)
+‘material subsidiary’ means a subsidiary that on an individual or consolidated basis meets any of the following conditions:
+(a)
+the subsidiary holds more than 5 % of the consolidated risk-weighted assets of its original parent undertaking;
+(b)
+the subsidiary generates more than 5 % of the total operating income of its original parent undertaking;
+(c)
+the total exposure measure, referred to in Article 429(4) of this Regulation, of the subsidiary is more than 5 % of the consolidated total exposure measure of its original parent undertaking;
+for the purpose of determining the material subsidiary, where Article 21b(2) of Directive 2013/36/EU applies, the two intermediate EU parent undertakings shall count as a single subsidiary on the basis of their consolidated situation;
+(136)
+‘G-SII entity’ means an entity with legal personality that is a G-SII or is part of a G-SII or of a non-EU G-SII;
+(137)
+‘bail-in tool’ means a bail-in tool as defined in point (57) of Article 2(1) of Directive 2014/59/EU;
+(138)
+‘group’ means a group of undertakings of which at least one is an institution and which consists of a parent undertaking and its subsidiaries, or of undertakings that are related to each other as set out in Article 22 of Directive 2013/34/EU of the European Parliament and of the Council (*8);
+(139)
+‘securities financing transaction’ means a repurchase transaction, a securities or commodities lending or borrowing transaction, or a margin lending transaction;
+(140)
+‘initial margin’ or ‘IM’ means any collateral, other than variation margin, collected from or posted to an entity to cover the current and potential future exposure of a transaction or of a portfolio of transactions in the period needed to liquidate those transactions, or to re-hedge their market risk, following the default of the counterparty to the transaction or portfolio of transactions;
+(141)
+‘market risk’ means the risk of losses arising from movements in market prices, including in foreign exchange rates or commodity prices;
+(142)
+‘foreign exchange risk’ means the risk of losses arising from movements in foreign exchange rates;
+(143)
+‘commodity risk’ means the risk of losses arising from movements in commodity prices;
+(144)
+‘trading desk’ means a well-identified group of dealers set up by the institution to jointly manage a portfolio of trading book positions in accordance with a well-defined and consistent business strategy and operating under the same risk management structure;
+(145)
+‘small and non-complex institution’ means an institution that meets all the following conditions:
+(a)
+it is not a large institution;
+(b)
+the total value of its assets on an individual basis or, where applicable, on a consolidated basis in accordance with this Regulation and Directive 2013/36/EU is on average equal to or less than the threshold of EUR 5 billion over the four-year period immediately preceding the current annual reporting period; Member States may lower that threshold;
+(c)
+it is not subject to any obligations, or is subject to simplified obligations, in relation to recovery and resolution planning in accordance with Article 4 of Directive 2014/59/EU;
+(d)
+its trading book business is classified as small within the meaning of Article 94(1);
+(e)
+the total value of its derivative positions held with trading intent does not exceed 2 % of its total on- and off-balance-sheet assets and the total value of its overall derivative positions does not exceed 5 %, both calculated in accordance with Article 273a(3);
+(f)
+more than 75 % of both the institution's consolidated total assets and liabilities, excluding in both cases the intragroup exposures, relate to activities with counterparties located in the European Economic Area;
+(g)
+the institution does not use internal models to meet the prudential requirements in accordance with this Regulation except for subsidiaries using internal models developed at the group level, provided that the group is subject to the disclosure requirements laid down in Article 433a or 433c on a consolidated basis;
+(h)
+the institution has not communicated to the competent authority an objection to being classified as a small and non-complex institution;
+(i)
+the competent authority has not decided that the institution is not to be considered a small and non-complex institution on the basis of an analysis of its size, interconnectedness, complexity or risk profile;
+(146)
+‘large institution’ means an institution that meets any of the following conditions:
+(a)
+it is a G-SII;
+(b)
+it has been identified as an other systemically important institution (O-SII) in accordance with Article 131(1) and (3) of Directive 2013/36/EU;
+(c)
+it is, in the Member State in which it is established, one of the three largest institutions in terms of total value of assets;
+(d)
+the total value of its assets on an individual basis or, where applicable, on the basis of its consolidated situation in accordance with this Regulation and Directive 2013/36/EU is equal to or greater than EUR 30 billion;
+(147)
+‘large subsidiary’ means a subsidiary that qualifies as a large institution;
+(148)
+‘non-listed institution’ means an institution that has not issued securities that are admitted to trading on a regulated market of any Member State, within the meaning of point (21) of Article 4(1) of Directive 2014/65/EU;
+(149)
+‘financial report’ means, for the purposes of Part Eight, a financial report within the meaning of Articles 4 and 5 of Directive 2004/109/EC of the European Parliament and of the Council (*9).
+
+(*8)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19)."
+                        
+
+(*9)  Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).’;"
+                        
+(b)
+the following paragraph is added:
+‘4.   EBA shall develop draft regulatory technical standards specifying in which circumstances the conditions set out in point (39) of paragraph 1 are met.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’;
+(3)
+Article 6 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Institutions shall comply with the obligations laid down in Parts Two, Three, Four, Seven, Seven A and Eight of this Regulation and in Chapter 2 of Regulation (EU) 2017/2402 on an individual basis, with the exception of point (d) of Article 430(1) of this Regulation.’;
+(b)
+the following paragraph is inserted:
+‘1a.   By way of derogation from paragraph 1 of this Article, only institutions identified as resolution entities that are also G-SIIs or that are part of a G-SII, and that do not have subsidiaries shall comply with the requirement laid down in Article 92a on an individual basis.
+Material subsidiaries of a non-EU G-SII shall comply with Article 92b on an individual basis, where they meet all the following conditions:
+(a)
+they are not resolution entities;
+(b)
+they do not have subsidiaries;
+(c)
+they are not the subsidiaries of an EU parent institution.’;
+(c)
+paragraphs 3, 4 and 5 are replaced by the following:
+‘3.   No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
+By way of derogation from the first subparagraph of this paragraph, the institutions referred to in paragraph 1a of this Article shall comply with Article 437a and point (h) of Article 447 on an individual basis.
+4.   Credit institutions, and investment firms that are authorised to provide the investment services and activities listed in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU, shall comply with the obligations laid down in Part Six and in point (d) of Article 430(1) of this Regulation on an individual basis.
+The following institutions shall not be required to comply with Article 413(1) and the associated liquidity reporting requirements laid down in Part Seven A of this Regulation:
+(a)
+institutions which are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012;
+(b)
+institutions which are also authorised in accordance with Article 16 and point (a) of Article 54(2) of Regulation (EU) No 909/2014 of the European Parliament and of the Council (*10), provided that they do not perform any significant maturity transformation; and
+(c)
+institutions which are designated in accordance with point (b) of Article 54(2) of Regulation (EU) No 909/2014, provided that:
+(i)
+their activities are limited to offering banking-type services, which are listed in points (a) to (e) of Section C of the Annex to that Regulation, to central securities depositories authorised in accordance with Article 16 of that Regulation; and
+(ii)
+they do not perform any significant maturity transformation.
+Pending the report from the Commission in accordance with Article 508(3), competent authorities may exempt investment firms from complying with the obligations laid down in Part Six and point (d) of Article 430(1) taking into account the nature, scale and complexity of their activities.
+5.   Investment firms referred to in Articles 95(1) and 96(1) of this Regulation, institutions for which competent authorities have exercised the derogation specified in Article 7(1) or (3) of this Regulation, and institutions which are also authorised in accordance with Article 14 of Regulation (EU) No 648/2012, shall not be required to comply with the obligations laid down in Part Seven and the associated leverage ratio reporting requirements laid down in Part Seven A of this Regulation on an individual basis.
+
+(*10)  Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).’;"
+                        
+(4)
+Article 8 is amended as follows:
+(a)
+in paragraph 1, point (b) is replaced by the following:
+‘(b)
+(b)
+in paragraph 3, points (b) and (c) are replaced by the following:
+‘(b)
+the distribution of amounts, location and ownership of the required liquid assets to be held within the single liquidity sub-group, where the liquidity coverage ratio (LCR) requirement as laid down in the delegated act referred to in Article 460(1) is waived, and the distribution of amounts and location of available stable funding within the single liquidity sub-group, where the NSFR requirement set out in Title IV of Part Six is waived;
+(c)
+the determination of minimum amounts of liquid assets to be held by institutions for which the application of the LCR requirement as laid down in the delegated act referred to in Article 460(1) is waived and the determination of minimum amounts of available stable funding to be held by institutions for which the application of the NSFR requirement set out in Title IV of Part Six is waived;’;
+(c)
+the following paragraph is added:
+‘6.   Where, in accordance with this Article, a competent authority waives, in part or in full, the application of Part Six for an institution, it may also waive the application of the associated liquidity reporting requirements under point (d) of Article 430(1) for that institution.’;
+(5)
+in Article 10(1), the introductory phrase of the first subparagraph is replaced by the following:
+‘1.   Competent authorities may, in accordance with national law, partially or fully waive the application of the requirements set out in Parts Two to Eight of this Regulation and Chapter 2 of Regulation (EU) 2017/2402 to one or more credit institutions situated in the same Member State and which are permanently affiliated to a central body which supervises them and which is established in the same Member State, if the following conditions are met:’;
+(6)
+Article 11 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Parent institutions in a Member State shall comply, to the extent and in the manner set out in Article 18, with the obligations laid down in Parts Two, Three, Four, Seven and Seven A on the basis of their consolidated situation, with the exception of point (d) of Article 430(1). The parent undertakings and their subsidiaries that are subject to this Regulation shall set up a proper organisational structure and appropriate internal control mechanisms in order to ensure that the data required for consolidation are duly processed and forwarded. In particular, they shall ensure that subsidiaries not subject to this Regulation implement arrangements, processes and mechanisms to ensure proper consolidation.
+2.   For the purpose of ensuring that the requirements of this Regulation are applied on a consolidated basis, the terms ‘institution’, ‘parent institution in a Member State’, ‘EU parent institution’ and ‘parent undertaking’, as the case may be, shall also refer to:
+(a)
+a financial holding company or mixed financial holding company approved in accordance with Article 21a of Directive 2013/36/EU;
+(b)
+a designated institution controlled by a parent financial holding company or parent mixed financial holding company where such a parent is not subject to approval in accordance with Article 21a(4) of Directive 2013/36/EU;
+(c)
+a financial holding company, mixed financial holding company or institution designated in accordance with point (d) of Article 21a(6) of Directive 2013/36/EU.
+The consolidated situation of an undertaking referred to in point (b) of the first subparagraph of this paragraph shall be the consolidated situation of the parent financial holding company or the parent mixed financial holding company that is not subject to approval in accordance with Article 21a(4) of Directive 2013/36/EU. The consolidated situation of an undertaking referred to in point (c) of the first subparagraph of this paragraph shall be the consolidated situation of its parent financial holding company or parent mixed financial holding company.’;
+(b)
+paragraph 3 is deleted;
+(c)
+the following paragraph is inserted:
+‘3a.   By way of derogation from paragraph 1 of this Article, only parent institutions identified as resolution entities that are G-SIIs, part of a G-SII or part of a non-EU G-SII shall comply with Article 92a of this Regulation on a consolidated basis, to the extent and in the manner set out in Article 18 of this Regulation.
+Only EU parent undertakings that are a material subsidiary of a non-EU G-SII and are not resolution entities shall comply with Article 92b of this Regulation on a consolidated basis to the extent and in the manner set out in Article 18 of this Regulation. Where Article 21b(2) of Directive 2013/36/EU applies, the two intermediate EU parent undertakings jointly identified as a material subsidiary shall each comply with Article 92b of this Regulation on the basis of their consolidated situation.’;
+(d)
+paragraphs 4 and 5 are replaced by the following:
+‘4.   EU parent institutions shall comply with Part Six and point (d) of Article 430(1) of this Regulation on the basis of their consolidated situation where the group comprises one or more credit institutions or investment firms that are authorised to provide the investment services and activities listed in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU. Pending the report from the Commission referred to in Article 508(2) of this Regulation, and where the group comprises only investment firms, competent authorities may exempt the EU parent institutions from compliance with Part Six and point (d) of Article 430(1) of this Regulation on a consolidated basis, taking into account the nature, scale and complexity of the investment firm's activities.
+Where a waiver has been granted under Article 8(1) to (5), the institutions and, where applicable, the financial holding companies or mixed financial holding companies that are part of a liquidity sub-group shall comply with Part Six and point (d) of Article 430(1) on a consolidated basis or on the sub-consolidated basis of the liquidity sub-group.
+5.   Where Article 10 of this Regulation applies, the central body referred to in that Article shall comply with the requirements of Parts Two to Eight of this Regulation and Chapter 2 of Regulation (EU) 2017/2402 on the basis of the consolidated situation of the whole as constituted by the central body together with its affiliated institutions.
+6.   In addition to the requirements laid down in paragraphs 1 to 5 of this Article, and without prejudice to other provisions of this Regulation and Directive 2013/36/EU, when it is justified for supervisory purposes by the specificities of the risk or of the capital structure of an institution or where Member States adopt national laws requiring the structural separation of activities within a banking group, competent authorities may require an institution to comply with the obligations laid down in Parts Two to Eight of this Regulation and in Title VII of Directive 2013/36/EU on a sub-consolidated basis.
+The application of the approach set out in the first subparagraph shall be without prejudice to effective supervision on a consolidated basis and shall neither entail disproportionate adverse effects on the whole or parts of the financial system in other Member States or in the Union as a whole nor form or create an obstacle to the functioning of the internal market.’;
+(7)
+Article 12 is deleted;
+(8)
+the following article is inserted:
+‘Article 12a
+Consolidated calculation for G-SIIs with multiple resolution entities
+Where at least two G-SII entities belonging to the same G-SII are resolution entities, the EU parent institution of that G-SII shall calculate the amount of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation. That calculation shall be undertaken on the basis of the consolidated situation of the EU parent institution as if it were the only resolution entity of the G-SII.
+Where the amount calculated in accordance with the first paragraph of this Article is lower than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities shall act in accordance with Articles 45d(3) and 45h(2) of Directive 2014/59/EU.
+Where the amount calculated in accordance with the first paragraph of this Article is higher than the sum of the amounts of own funds and eligible liabilities referred to in point (a) of Article 92a(1) of this Regulation of all resolution entities belonging to that G-SII, the resolution authorities may act in accordance with Articles 45d(3) and 45h(2) of Directive 2014/59/EU.’;
+(9)
+Articles 13 and 14 are replaced by the following:
+‘Article 13
+Application of disclosure requirements on a consolidated basis
+1.   EU parent institutions shall comply with Part Eight on the basis of their consolidated situation.
+Large subsidiaries of EU parent institutions shall disclose the information specified in Articles 437, 438, 440, 442, 450, 451, 451a and 453 on an individual basis or, where applicable in accordance with this Regulation and Directive 2013/36/EU, on a sub-consolidated basis.
+2.   Institutions identified as resolution entities that are G-SIIs or that are part of a G-SII shall comply with Article 437a and point (h) of Article 447 on the basis of the consolidated situation of their resolution group.
+3.   The first subparagraph of paragraph 1 shall not apply to EU parent institutions, EU parent financial holding companies, EU parent mixed financial holding companies or resolution entities where they are included in equivalent disclosures on a consolidated basis provided by a parent undertaking established in a third country.
+The second subparagraph of paragraph 1 shall apply to subsidiaries of parent undertakings established in a third country where those subsidiaries qualify as large subsidiaries.
+4.   Where Article 10 applies, the central body referred to in that Article shall comply with Part Eight on the basis of the consolidated situation of the central body. Article 18(1) shall apply to the central body and the affiliated institutions shall be treated as subsidiaries of the central body.

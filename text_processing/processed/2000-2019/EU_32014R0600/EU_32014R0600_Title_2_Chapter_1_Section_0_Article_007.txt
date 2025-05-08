@@ -1,0 +1,17 @@
+Article 7
+Authorisation of deferred publication
+1.   Competent authorities shall be able to authorise market operators and investment firms operating a trading venue to provide for deferred publication of the details of transactions based on their type or size.
+In particular, the competent authorities may authorise the deferred publication in respect of transactions that are large in scale compared with the normal market size for that share, depositary receipt, ETF, certificate or other similar financial instrument or that class of share, depositary receipt, ETF, certificate or other similar financial instrument.
+Market operators and investment firms operating a trading venue shall obtain the competent authority’s prior approval of proposed arrangements for deferred trade-publication, and shall clearly disclose those arrangements to market participants and the public. ESMA shall monitor the application of those arrangements for deferred trade-publication and shall submit an annual report to the Commission on how they are applied in practice.
+Where a competent authority authorises deferred publication and a competent authority of another Member State disagrees with the deferral or disagrees with the effective application of the authorisation granted, that competent authority may refer the matter back to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+2.   ESMA shall develop draft regulatory technical standards to specify the following in such a way as to enable the publication of information required under Article 64 of Directive 2014/65/EU:
+(a)
+the details of transactions that investment firms, including systematic internalisers and market operators and investment firms operating a trading venue shall make available to the public for each class of financial instrument concerned in accordance with Article 6(1), including identifiers for the different types of transactions published under Article 6(1) and Article 20, distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;
+(b)
+the time limit that would be deemed in compliance with the obligation to publish as close to real time as possible including when trades are executed outside ordinary trading hours.
+(c)
+the conditions for authorising investment firms, including systematic internalisers and market operators and investment firms operating a trading venue to provide for deferred publication of the details of transactions for each class of financial instruments concerned in accordance with paragraph 1 of this Article and with Article 20(1);
+(d)
+the criteria to be applied when deciding the transactions for which, due to their size or the type, including liquidity profile of the share, depositary receipt, ETF, certificate or other similar financial instrument involved, deferred publication is allowed for each class of financial instrument concerned.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

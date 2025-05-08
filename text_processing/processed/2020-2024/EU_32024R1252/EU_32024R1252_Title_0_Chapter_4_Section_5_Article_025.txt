@@ -1,0 +1,20 @@
+Article 25
+Joint purchasing
+1.   The Commission shall set up and operate a system to aggregate the demand of interested undertakings consuming strategic raw materials established in the Union and to seek offers from suppliers to match that aggregated demand. This shall cover both unprocessed and processed strategic raw materials.
+2.   Prior to setting up the system referred to in paragraph 1, the Commission shall, after consulting the Board, carry out an assessment of the expected impact of the system on the market for each strategic raw material with a view to avoid any disproportionate impact on competition in the internal market.
+3.   On the basis of the assessment referred to in paragraph 2, when setting up and operating the system referred to in paragraph 1, the Commission shall:
+(a)
+choose for which strategic raw materials and at which processing stage the system can be used, taking into account the relative supply risk of different strategic raw materials;
+(b)
+set minimum amounts of demanded strategic raw material to participate in the system, taking into account the expected number of interested participants and the need to ensure a manageable number of participants, while taking into account the needs of SMEs.
+4.   Participation in the system referred to in paragraph 3, point (b) shall be open and transparent to all interested undertakings established in the Union.
+5.   Union undertakings participating in the system referred to in paragraph 1 may, on a transparent basis, jointly negotiate the purchase, including the prices or other terms and conditions of the purchasing agreement or use joint purchasing in order to achieve better conditions with their suppliers or to prevent shortages. Participating Union undertakings shall comply with Union law, including Union competition law.
+6.   Entities shall be excluded from participating in demand aggregation and joint purchasing as well as from participating as suppliers or service providers if they are:
+(a)
+targeted by Union restrictive measures adopted pursuant to Article 215 TFEU;
+(b)
+directly or indirectly owned or controlled by, or acting on behalf or at the direction of natural or legal persons, entities or bodies targeted by such Union restrictive measures.
+7.   By way of derogation from Article 176 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (43), the Commission shall contract the necessary services of an entity established in the Union through a procurement procedure pursuant to that Regulation, acting as a service provider to set up and operate the system referred to in paragraph 1 of this Article. The service provider selected shall not have any conflict of interest.
+8.   The Commission shall define in the service contract the tasks to be provided by the service provider, including the allocation of demand, the allocation of access rights for supply, registration and verification of all participants, publication and reporting of the activities and any other task necessary to set up and operate the system referred to in paragraph 1. The service contract shall also deal with the practical arrangements relating to the operation of the service provider including the use of the IT tool, the security measures, the currency or currencies, the payment regime and liabilities.
+9.   The service contract with the service provider shall reserve to the Commission the right to monitor and audit it. To that end, the Commission shall have full access to the information held by the service provider in relation to the contract. All servers and information shall be physically located and stored in the territory of the Union.
+10.   The service contract with the service provider shall determine the ownership of the information obtained by the service provider, and shall provide for the possible transfer of that information to the Commission at the termination or expiry of the service contract.

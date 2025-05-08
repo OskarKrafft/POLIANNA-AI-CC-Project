@@ -1,0 +1,23 @@
+Article 21
+Clinical-outcome monitoring plans
+1.   In cases where the scientific evidence and clinical data provided as part of the benefit-risk assessment carried out by the applicant SoHO entity, as referred to in Article 20(4), point (c), is not sufficient, or where the risk is more than negligible, the SoHO competent authority shall approve a clinical-outcome monitoring plan submitted by the applicant SoHO entity. The approved clinical-outcome monitoring plan shall be the basis for the gathering of further evidence to allow for the assessment and authorisation of the new SoHO preparation or a new indication for the SoHO preparation.
+2.   Clinical-outcome monitoring plans shall not be approved in cases where scientific evidence and clinical data provided as part of the benefit-risk assessment indicate a relevant level of risk without a significant expected benefit.
+3.   The clinical-outcome monitoring plan shall include the following:
+(a)
+in cases of low risk, and an expected positive benefit-risk assessment, pro-active clinical follow-up of a pre-defined number of SoHO recipients;
+(b)
+in cases of moderate risk, and an expected positive benefit-risk assessment, in addition to point (a), a SoHO clinical study of a pre-defined number of SoHO recipients required to be able to assess pre-defined clinical end-points;
+(c)
+in cases of high risk, and an expected positive benefit-risk assessment, and in cases where the risk or the benefit are not evaluable due to a lack of scientific and clinical data or knowledge, in addition to point (a), a SoHO clinical study of a pre-defined number of SoHO recipients required to be able to assess pre-defined clinical endpoints with a comparison to standard therapy.
+4.   In the cases referred to in paragraph 3, points (b) and (c), SoHO competent authorities shall register each approved SoHO clinical study on the EU SoHO Platform, providing the following information:
+(a)
+the name and address of the SoHO entity carrying out the SoHO clinical study;
+(b)
+a description of the SoHO type and the intended clinical indication;
+(c)
+a summary of the processing methodology;
+(d)
+a summary of the study design;
+(e)
+the planned date of commencement and completion of the SoHO clinical study.
+5.   In cases where SoHO supervisory activities indicate a risk for SoHO donors, SoHO recipients or offspring from medically assisted reproduction, SoHO competent authorities may withdraw the previous approval of the clinical-outcome monitoring plan. In such cases, the record on the EU SoHO Platform shall be modified without undue delay.

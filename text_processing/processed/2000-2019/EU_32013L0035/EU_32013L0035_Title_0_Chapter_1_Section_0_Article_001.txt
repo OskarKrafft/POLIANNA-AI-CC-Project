@@ -1,0 +1,9 @@
+Article 1
+Subject-matter and scope
+1.   This Directive, which is the 20th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC, lays down minimum requirements for the protection of workers from risks to their health and safety arising, or likely to arise, from exposure to electromagnetic fields during their work.
+2.   This Directive covers all known direct biophysical effects and indirect effects caused by electromagnetic fields.
+3.   The exposure limit values (ELVs) laid down in this Directive cover only scientifically well-established links between short-term direct biophysical effects and exposure to electromagnetic fields.
+4.   This Directive does not cover suggested long-term effects.
+The Commission shall keep under review the latest scientific developments. If well-established scientific evidence on suggested long-term effects becomes available, the Commission shall consider a suitable policy response, including, if appropriate, the submission of a legislative proposal to address such effects. The Commission shall, through its report referred to in Article 15, keep the European Parliament and the Council informed in this regard.
+5.   This Directive does not cover the risks resulting from contact with live conductors.
+6.   Without prejudice to the more stringent or more specific provisions in this Directive, Directive 89/391/EEC shall continue to apply in full to the whole area referred to in paragraph 1.

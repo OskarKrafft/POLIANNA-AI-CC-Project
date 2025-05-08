@@ -1,0 +1,77 @@
+Article 3
+For the purposes of this Regulation, the following definitions apply:
+(a)
+‘collective investment undertaking’ means an AIF as defined in point (a) of Article 4(1) of Directive 2011/61/EU;
+(b)
+‘qualifying venture capital fund’ means a collective investment undertaking that:
+(i)
+intends to invest at least 70 % of its aggregate capital contributions and uncalled committed capital in assets that are qualifying investments, calculated on the basis of amounts investible after deduction of all relevant costs and holdings in cash and cash equivalents, within a time frame laid down in its rules or instruments of incorporation;
+(ii)
+does not use more than 30 % of its aggregate capital contributions and uncalled committed capital for the acquisition of assets other than qualifying investments, calculated on the basis of amounts investible after deduction of all relevant costs and holdings in cash and cash equivalents;
+(iii)
+is established within the territory of a Member State;
+(c)
+‘manager of a qualifying venture capital fund’ means a legal person the regular business of which is managing at least one qualifying venture capital fund;
+(d)
+‘qualifying portfolio undertaking’ means an undertaking that:
+(i)
+at the time of an investment by the qualifying venture capital fund
+—
+is not admitted to trading on a regulated market or on a multilateral trading facility (MTF) as defined in points (14) and (15) of Article 4(1) of Directive 2004/39/EC,
+—
+employs fewer than 250 persons, and
+—
+has an annual turnover not exceeding EUR 50 million or an annual balance sheet total not exceeding EUR 43 million;
+(ii)
+is not itself a collective investment undertaking;
+(iii)
+is not one or more of the following:
+—
+a credit institution as defined in point (1) of Article 4 of Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (10),
+—
+an investment firm as defined in point (1) of Article 4(1) of Directive 2004/39/EC,
+—
+an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (11),
+—
+a financial holding company as defined in point (19) of Article 4 of Directive 2006/48/EC, or
+—
+a mixed-activity holding company as defined in point (20) of Article 4 of Directive 2006/48/EC;
+(iv)
+is established within the territory of a Member State, or in a third country provided that the third country:
+—
+is not listed as a Non-Cooperative Country and Territory by the Financial Action Task Force on Anti-Money Laundering and Terrorist Financing,
+—
+has signed an agreement with the home Member State of the manager of a qualifying venture capital fund and with each other Member State in which the units or shares of the qualifying venture capital fund are intended to be marketed to ensure that the third country fully complies with the standards laid down in Article 26 of the OECD Model Tax Convention on Income and on Capital and ensures an effective exchange of information in tax matters, including any multilateral tax agreements;
+(e)
+‘qualifying investments’ means any of the following instruments:
+(i)
+equity or quasi-equity instruments that are issued by:
+—
+a qualifying portfolio undertaking and acquired directly by the qualifying venture capital fund from the qualifying portfolio undertaking,
+—
+a qualifying portfolio undertaking in exchange for an equity security issued by the qualifying portfolio undertaking, or
+—
+an undertaking of which the qualifying portfolio undertaking is a majority-owned subsidiary and which is acquired by the qualifying venture capital fund in exchange for an equity instrument issued by the qualifying portfolio undertaking;
+(ii)
+secured or unsecured loans granted by the qualifying venture capital fund to a qualifying portfolio undertaking in which the qualifying venture capital fund already holds qualifying investments, provided that no more than 30 % of the aggregate capital contributions and uncalled committed capital in the qualifying venture capital fund is used for such loans;
+(iii)
+shares of a qualifying portfolio undertaking acquired from existing shareholders of that undertaking;
+(iv)
+units or shares of one or several other qualifying venture capital funds, provided that those qualifying venture capital funds have not themselves invested more than 10 % of their aggregate capital contributions and uncalled committed capital in qualifying venture capital funds;
+(f)
+‘relevant costs’ means all fees, charges and expenses which are directly or indirectly borne by investors and which are agreed between the manager of a qualifying venture capital fund and the investors therein;
+(g)
+‘equity’ means ownership interest in an undertaking, represented by the shares or other forms of participation in the capital of the qualifying portfolio undertaking, issued to its investors;
+(h)
+‘quasi-equity’ means any type of financing instrument which is a combination of equity and debt, where the return on the instrument is linked to the profit or loss of the qualifying portfolio undertaking and where the repayment of the instrument in the event of default is not fully secured;
+(i)
+‘marketing’ means a direct or indirect offering or placement at the initiative of the manager of a qualifying venture capital fund, or on its behalf, of units or shares of a venture capital fund it manages to or with investors domiciled or with a registered office in the Union;
+(j)
+‘committed capital’ means any commitment pursuant to which an investor is obliged, within the time frame laid down in the rules or instruments of incorporation of the qualifying venture capital fund, to acquire an interest in, or to make capital contributions to, that fund;
+(k)
+‘home Member State’ means the Member State where the manager of a qualifying venture capital fund is established and is subject to registration with the competent authorities in accordance with point (a) of Article 3(3) of Directive 2011/61/EU;
+(l)
+‘host Member State’ means the Member State, other than the home Member State, where the manager of a qualifying venture capital fund markets qualifying venture capital funds in accordance with this Regulation;
+(m)
+‘competent authority’ means the national authority which the home Member State designates, by law or regulation, to undertake the registration of managers of collective investment undertakings falling within the scope of this Regulation.
+In regard to point (c) of the first subparagraph, where the legal form of a qualifying venture capital fund permits internal management and where the governing body of the fund does not appoint an external manager, the qualifying venture capital fund itself shall be registered as the manager of a qualifying venture capital fund in accordance with Article 14. A qualifying venture capital fund that is registered as an internal manager of a qualifying venture capital fund shall not be registered as an external manager of a qualifying venture capital fund of other collective investment undertakings.

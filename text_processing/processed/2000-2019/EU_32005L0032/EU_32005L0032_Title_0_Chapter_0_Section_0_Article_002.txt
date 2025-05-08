@@ -1,0 +1,57 @@
+Article 2
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+1.
+‘Energy-using product’ or ‘EuP’ means a product which, once placed on the market and/or put into service, is dependent on energy input (electricity, fossil fuels and renewable energy sources) to work as intended, or a product for the generation, transfer and measurement of such energy, including parts dependent on energy input and intended to be incorporated into an EuP covered by this Directive which are placed on the market and/or put into service as individual parts for end-users and of which the environmental performance can be assessed independently;
+2.
+‘Components and sub-assemblies’ means parts intended to be incorporated into EuPs, and which are not placed on the market and/or put into service as individual parts for end-users or the environmental performance of which cannot be assessed independently;
+3.
+‘Implementing measures’ means measures adopted pursuant to this Directive laying down ecodesign requirements for defined EuPs or for environmental aspects thereof;
+4.
+‘Placing on the market’ means making an EuP available for the first time on the Community market with a view to its distribution or use within the Community whether for reward or free of charge and irrespective of the selling technique;
+5.
+‘Putting into service’ means the first use of an EuP for its intended purpose by an end-user in the Community;
+6.
+‘Manufacturer’ means the natural or legal person who manufactures EuPs covered by this Directive and is responsible for their conformity with this Directive in view of their being placed on the market and/or put into service under the manufacturer's own name or trademark or for the manufacturer's own use. In the absence of a manufacturer as defined in the first sentence or of an importer as defined in point 8, any natural or legal person who places on the market and/or puts into service EuPs covered by this Directive shall be considered a manufacturer;
+7.
+‘Authorised representative’ means any natural or legal person established in the Community who has received a written mandate from the manufacturer to perform on his behalf all or part of the obligations and formalities connected with this Directive;
+8.
+‘Importer’ means any natural or legal person established in the Community who places a product from a third country on the Community market in the course of his business;
+9.
+‘Materials’ means all materials used during the life cycle of an EuP;
+10.
+‘Product design’ means the set of processes that transform legal, technical, safety, functional, market or other requirements to be met by an EuP into the technical specification for that EuP;
+11.
+‘Environmental aspect’ means an element or function of an EuP that can interact with the environment during its life cycle;
+12.
+‘Environmental impact’ means any change to the environment wholly or partially resulting from an EuP during its life cycle;
+13.
+‘Life cycle’ means the consecutive and interlinked stages of an EuP from raw material use to final disposal;
+14.
+‘Reuse’ means any operation by which an EuP or its components, having reached the end of their first use, are used for the same purpose for which they were conceived, including the continued use of an EuP which is returned to a collection point, distributor, recycler or manufacturer, as well as reuse of an EuP following refurbishment;
+15.
+‘Recycling’ means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding energy recovery;
+16.
+‘Energy recovery’ means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
+17.
+‘Recovery’ means any of the applicable operations provided for in Annex II B to Council Directive 75/442/EEC of 15 July 1975 on waste (22);
+18.
+‘Waste’ means any substance or object in the categories set out in Annex I to Directive 75/442/EEC which the holder discards or intends or is required to discard;
+19.
+‘Hazardous waste’ means any waste which is covered by Article 1(4) of Council Directive 91/689/EEC of 12 December 1991 on hazardous waste (23);
+20.
+‘Ecological profile’ means a description, in accordance with the implementing measure applicable to the EuP, of the inputs and outputs (such as materials, emissions and waste) associated with an EuP throughout its life cycle which are significant from the point of view of its environmental impact and are expressed in physical quantities that can be measured;
+21.
+‘Environmental performance’ of an EuP means the results of the manufacturer's management of the environmental aspects of the EuP, as reflected in its technical documentation file;
+22.
+‘Improvement of the environmental performance’ means the process of enhancing the environmental performance of an EuP over successive generations, although not necessarily in respect of all environmental aspects of the product simultaneously;
+23.
+‘Ecodesign’ means the integration of environmental aspects into product design with the aim of improving the environmental performance of the EuP throughout its whole life cycle;
+24.
+‘Ecodesign requirement’ means any requirement in relation to an EuP, or the design of an EuP, intended to improve its environmental performance, or any requirement for the supply of information with regard to the environmental aspects of an EuP;
+25.
+‘Generic ecodesign requirement’ means any ecodesign requirement based on the ecological profile as a whole of an EuP without set limit values for particular environmental aspects;
+26.
+‘Specific ecodesign requirement’ means a quantified and measurable ecodesign requirement relating to a particular environmental aspect of an EuP, such as energy consumption during use, calculated for a given unit of output performance;
+27.
+‘Harmonised standard’ means a technical specification adopted by a recognised standards body under a mandate from the Commission, in accordance with the procedure laid down in Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (24), for the purpose of establishing a European requirement, compliance with which is not compulsory.

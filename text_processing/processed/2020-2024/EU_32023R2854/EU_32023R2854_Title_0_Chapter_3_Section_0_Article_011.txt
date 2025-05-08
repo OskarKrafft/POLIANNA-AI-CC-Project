@@ -1,0 +1,25 @@
+Article 11
+Technical protection measures on the unauthorised use or disclosure of data
+1.   A data holder may apply appropriate technical protection measures, including smart contracts and encryption, to prevent unauthorised access to data, including metadata, and to ensure compliance with Articles 4, 5, 6, 8 and 9, as well as with the agreed contractual terms for making data available. Such technical protection measures shall not discriminate between data recipients or hinder a user’s right to obtain a copy of, retrieve, use or access data, to provide data to third parties pursuant to Article 5 or any right of a third party under Union law or national legislation adopted in accordance with Union law. Users, third parties and data recipients shall not alter or remove such technical protection measures unless agreed by the data holder.
+2.   In the circumstances referred to in paragraph 3, the third party or data recipient shall comply, without undue delay, with the requests of the data holder and, where applicable and where they are not the same person, the trade secret holder or the user:
+(a)
+to erase the data made available by the data holder and any copies thereof;
+(b)
+to end the production, offering or placing on the market or use of goods, derivative data or services produced on the basis of knowledge obtained through such data, or the importation, export or storage of infringing goods for those purposes, and destroy any infringing goods, where there is a serious risk that the unlawful use of those data will cause significant harm to the data holder, the trade secret holder or the user or where such a measure would not be disproportionate in light of the interests of the data holder, the trade secret holder or the user;
+(c)
+to inform the user of the unauthorised use or disclosure of the data and of the measures taken to put an end to the unauthorised use or disclosure of the data;
+(d)
+to compensate the party suffering from the misuse or disclosure of such unlawfully accessed or used data.
+3.   Paragraph 2 shall apply where a third party or a data recipient has:
+(a)
+for the purposes of obtaining data, provided false information to a data holder, deployed deceptive or coercive means or abused gaps in the technical infrastructure of the data holder designed to protect the data;
+(b)
+used the data made available for unauthorised purposes, including the development of a competing connected product within the meaning of Article 6(2), point (e);
+(c)
+unlawfully disclosed data to another party;
+(d)
+not maintained the technical and organisational measures agreed pursuant to Article 5(9); or
+(e)
+altered or removed technical protection measures applied by the data holder pursuant to paragraph 1 of this Article without the agreement of the data holder.
+4.   Paragraph 2 shall also apply where a user alters or removes technical protection measures applied by the data holder or does not maintain the technical and organisational measures taken by the user in agreement with the data holder or, where they are not the same person, the trade secrets holder, in order to preserve trade secrets, as well as in respect of any other party that receives the data from the user by means of an infringement of this Regulation.
+5.   Where the data recipient infringes Article 6(2), point (a) or (b), users shall have the same rights as data holders under paragraph 2 of this Article.

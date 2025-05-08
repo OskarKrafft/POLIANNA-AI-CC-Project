@@ -1,0 +1,31 @@
+Article 1
+Subject matter and scope
+1.   This Regulation establishes uniform requirements in relation to the following:
+(a)
+disclosure of trade data to the public;
+(b)
+reporting of transactions to the competent authorities;
+(c)
+trading of derivatives on organised venues;
+(d)
+non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
+(e)
+product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
+(f)
+provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
+2.   This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council (19) when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+3.   Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties falling under Article 10(1)(b) of that Regulation.
+4.   Title VI of this Regulation also applies to CCPs and persons with proprietary rights to benchmarks.
+5.   Title VIII of this Regulation applies to third-country firms providing investment services or activities within the Union following an applicable equivalence decision by the Commission with or without a branch.
+6.   Articles 8, 10, 18 and 21 shall not apply to regulated markets, market operators and investment firms in respect of a transaction where the counterparty is a member of the European System of Central Banks (ESCB) and where that transaction is entered into in performance of monetary, foreign exchange and financial stability policy which that member of the ESCB is legally empowered to pursue and where that member has given prior notification to its counterparty that the transaction is exempt.
+7.   Paragraph 6 shall not apply in respect of transactions entered into by any member of the ESCB in performance of their investment operations.
+8.   ESMA shall, in close cooperation with the ESCB, develop draft regulatory technical standards to specify the monetary, foreign exchange and financial stability policy operations and the types of transactions to which paragraphs 6 and 7 apply.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+9.   The Commission shall be empowered to adopt delegated acts in accordance with Article 50 to extend the scope of paragraph 6 to other central banks.
+To that end, the Commission shall, by 1 June 2015, submit a report to the European Parliament and to the Council assessing the treatment of transactions by third-country central banks which for the purposes of this paragraph includes the Bank for International Settlements. The report shall include an analysis of their statutory tasks and their trading volumes in the Union. The report shall:
+(a)
+identify provisions applicable in the relevant third countries regarding the regulatory disclosure of central bank transactions, including transactions undertaken by members of the ESCB in those third countries, and
+(b)
+assess the potential impact that regulatory disclosure requirements in the Union may have on third-country central bank transactions.
+If the report concludes that the exemption provided for in paragraph 6 is necessary in respect of transactions where the counterparty is a third-country central bank carrying out monetary policy, foreign exchange and financial stability operations, the Commission shall provide that that exemption applies to that third-country central bank.

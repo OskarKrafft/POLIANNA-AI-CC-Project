@@ -1,0 +1,32 @@
+Article 11
+Input data
+1.   The provision of a benchmark shall be governed by the following requirements in respect of its input data:
+(a)
+the input data shall be sufficient to represent accurately and reliably the market or economic reality that the benchmark is intended to measure.
+The input data shall be transaction data, if available and appropriate. If transaction data is not sufficient or is not appropriate to represent accurately and reliably the market or economic reality that the benchmark is intended to measure, input data which is not transaction data may be used, including estimated prices, quotes and committed quotes, or other values;
+(b)
+the input data referred to in point (a) shall be verifiable;
+(c)
+the administrator shall draw up and publish clear guidelines regarding the types of input data, the priority of use of the different types of input data and the exercise of expert judgement, to ensure compliance with point (a) and the methodology;
+(d)
+where a benchmark is based on input data from contributors, the administrator shall obtain, where appropriate, the input data from a reliable and representative panel or sample of contributors so as to ensure that the resulting benchmark is reliable and representative of the market or economic reality that the benchmark is intended to measure;
+(e)
+the administrator shall not use input data from a contributor if the administrator has any indication that the contributor does not adhere to the code of conduct referred to in Article 15, and in such a case shall obtain representative publicly available data.
+2.   Administrators shall ensure that their controls in respect of input data include:
+(a)
+criteria that determine who may contribute input data to the administrator and a process for selecting contributors;
+(b)
+a process for evaluating a contributor's input data and for stopping the contributor from providing further input data, or applying other penalties for non-compliance against the contributor, where appropriate; and
+(c)
+a process for validating input data, including against other indicators or data, to ensure its integrity and accuracy.
+3.   Where the input data of a benchmark is contributed from a front office function, meaning any department, division, group, or personnel of contributors or any of its affiliates that performs any pricing, trading, sales, marketing, advertising, solicitation, structuring, or brokerage activities, the administrator shall:
+(a)
+obtain data from other sources that corroborate that input data; and
+(b)
+ensure that contributors have in place adequate internal oversight and verification procedures.
+4.   Where an administrator considers that the input data does not represent the market or economic reality that a benchmark is intended to measure, that administrator shall, within a reasonable time period, either change the input data, the contributors or the methodology in order to ensure that the input data does represent such market or economic reality, or else cease to provide that benchmark.
+5.   ESMA shall develop draft regulatory technical standards to specify further how to ensure that input data is appropriate and verifiable, as required under points (a) and (b) of paragraph 1, as well as the internal oversight and verification procedures of a contributor that the administrator has to ensure are in place, in compliance with point (b) of paragraph 3, in order to ensure the integrity and accuracy of input data. However, the ESMA draft regulatory technical standards shall not cover or apply to administrators of non-significant benchmarks.
+ESMA shall take into account the different types of benchmarks and sectors as set out in this Regulation, the nature of input data, the characteristics of the underlying market or economic reality and the principle of proportionality, the vulnerability of the benchmarks to manipulation as well as the international convergence of supervisory practice in relation to benchmarks.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+6.   ESMA may issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010, addressed to administrators of non-significant benchmarks to specify the elements referred to in paragraph 5 of this Article.

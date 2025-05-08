@@ -1,0 +1,42 @@
+Article 12
+Monitoring and reporting
+1.   By 5 August 2025, operators shall submit a report to the competent authorities containing the quantification of source-level methane emissions estimated using at least generic emission factors for all sources. That report may contain quantification of source-level methane emissions in accordance with the requirements set out in paragraph 2 for some or all sources.
+2.   Operators and undertakings established in the Union shall submit a report to the competent authorities of the Member State where the asset is located containing quantification of source-level methane emissions:
+(a)
+for operated assets, by 5 February 2026; and
+(b)
+for non-operated assets, by 5 February 2027, where those assets have not been reported under point (a).
+Where direct measurement is not possible, reporting shall involve the use of specific emission factors based on source-level quantification or sampling.
+3.   Operators and undertakings established in the Union shall submit a report to the competent authorities of the Member State where the asset is located containing quantification of source-level methane emissions, complemented by measurements of site-level methane emissions, thereby allowing assessment of and comparison with the source-level estimates aggregated by site:
+(a)
+for operated assets, by 5 February 2027 and by 31 May every year thereafter; and
+(b)
+for non-operated assets, by 5 August 2028 and by 31 May every year thereafter, where those assets have not been reported under point (a).
+Before submitting the report to the competent authorities, operators and undertakings shall ensure that the report is assessed by a verifier and includes a verification statement issued in accordance with Article 8.
+4.   The reports provided for in this Article shall cover the last available calendar year period and include at least the following information:
+(a)
+type and location of the emission sources;
+(b)
+detailed data for each type of emission source, reported in tonnes of methane and in tonnes of CO2 equivalent, using global warming potentials as defined in the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC);
+(c)
+detailed information on the quantification methodologies;
+(d)
+all methane emissions for operated assets;
+(e)
+share of ownership and methane emissions from non-operated assets multiplied by the share of ownership;
+(f)
+a list of the entities with operational control of the non-operated assets.
+The Commission shall, by means of implementing acts, lay down a reporting template for the reports provided for in this Article, taking into account the national inventory reports already in place and the latest technical guidance documents and reporting templates of the OGMP. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 35(2).
+Until the adoption of the relevant implementing acts, operators and undertakings shall use the technical guidance documents and reporting templates for upstream and mid- and downstream operations, as applicable, of the OGMP 2.0.
+5.   The measurements and quantifications referred to in this Article shall be carried out in accordance with the standards and technical prescriptions, as applicable, established under Article 32. Until the date of application of those standards or technical prescriptions, operators and undertakings shall follow state-of-the-art industry practices and use the best technologies available for the measurement and quantification of methane emissions. In that context, operators and undertakings established in the Union may use the latest OGMP 2.0 technical guidance documents approved by 4 August 2024 for such purposes.
+Operators and undertakings shall provide competent authorities and verifiers with information on the standards, including European or other international standards, or methodologies used.
+6.   Operators and undertakings established in the Union shall compare source-level quantification of methane emissions and site-level measurement of methane emissions. If there are statistically significant discrepancies between the source-level quantification and the site-level measurement of methane emissions, operators and undertakings shall:
+(a)
+notify without delay the competent authorities before the end of the reporting period;
+(b)
+carry out a reconciliation process as soon as possible and inform the competent authority about the results of the reconciliation process, including any evidence and supporting documents as necessary, no later than the next reporting period.
+The reconciliation process shall address possible reasons for the discrepancies, including at least the accuracy and appropriateness of the technologies and the methods used for source-level quantification and site-level measurement of methane emissions, or any data uncertainties in the results due to the selected methods, technologies or extrapolation of results.
+For the purposes of the reconciliation process, the operators and undertakings shall consider additional source-level quantification or site-level measurements in order to provide the necessary evidence to explain the reasons for the discrepancies. Based on the results of the reconciliation process, operators and undertakings shall implement subsequent adjustments in numerical terms in source-level quantification or site-level measurements, where appropriate.
+If the competent authorities consider that the information provided by the operator or undertaking pursuant to point (b) of the first subparagraph does not adequately explain the reasons for the discrepancies, the competent authorities may request the operator or undertaking to provide additional information or to take additional action.
+7.   Where information is confidential in accordance with Directive (EU) 2016/943 of the European Parliament and of the Council (24), the operators or undertakings concerned shall indicate in the report the type of information that is withheld and the reasons therefor.
+8.   The competent authorities shall make the reports referred to in this Article available to the public and the Commission in accordance with Article 5(4), within 3 months from their submission by the relevant operators or undertakings.

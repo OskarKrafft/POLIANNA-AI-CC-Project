@@ -1,0 +1,37 @@
+Article 20
+Monitoring and evaluation
+1.   The Commission shall monitor the progress of the development of trans-European digital public services to support evidence-based policymaking and necessary actions in the Union at national, regional and local level. Monitoring shall give priority to the reuse of existing Union, national and international monitoring data and to automated data collection. The Commission shall consult the Board in the preparation of the methodology, the indicators and the process relating to the monitoring.
+2.   As regards topics of specific interest for the implementation of this Regulation, the Commission shall monitor:
+(a)
+progress with regard to the cross-border interoperability of trans-European digital public services in the Union;
+(b)
+progress towards the implementation of the EIF by the Member States;
+(c)
+the take-up of interoperability solutions for different public services across the Member States;
+(d)
+the development of open source interoperability solutions for public services, public sector innovation and cooperation with GovTech actors, including SMEs and start-ups, in the field of cross-border interoperable public services to be delivered or managed electronically in the Union;
+(e)
+the enhancement of public sector interoperability skills.
+3.   Monitoring results shall be published by the Commission on the Interoperable Europe portal. Where feasible, they shall be published in a machine-readable format.
+4.   The Commission shall submit and present to the European Parliament and to the Council an annual report on interoperability in the Union. That report shall:
+(a)
+set out progress with regard to the cross-border interoperability of trans-European digital public services in the Union;
+(b)
+identify significant implementation barriers to as well as drivers of cross-border interoperable public services in the Union;
+(c)
+set out the results achieved over time in terms of the implementation of the EIF, the take-up of interoperability solutions, the enhancement of interoperability skills, the development of open source interoperability solutions for public services, and the increase of public sector innovation and cooperation with GovTech actors.
+5.   By 12 January 2028 and every four years thereafter, the Commission shall submit to the European Parliament and to the Council a report on the application of this Regulation, which shall include the conclusions of its evaluation. The report shall specifically assess whether there is a need to establish mandatory interoperability solutions.
+6.   The report referred to in paragraph 5 shall assess, in particular:
+(a)
+the impact of this Regulation on cross-border interoperability as an enabler for seamless and accessible digital public services in the Union;
+(b)
+the increased efficiency, including by the reduction of administrative burdens in online transaction processes resulting from cross-border interoperability, on citizens and businesses, in particular SMEs and startups;
+(c)
+the need for any additional policies, measures or actions that are required at Union level.
+7.   Where the timing of the reports referred to in paragraphs 4 and 5 coincide, the Commission may combine both reports.
+
+Chapter 6
+
+
+Final provisions
+

@@ -1,0 +1,11 @@
+Article 192
+Definitions
+For the purposes of this Chapter, the following definitions shall apply:
+(1)
+‧lending institution‧ means the institution which has the exposure in question;
+(2)
+‧secured lending transaction‧ means any transaction giving rise to an exposure secured by collateral which does not include a provision conferring upon the institution the right to receive margin at least daily;
+(3)
+‧capital market-driven transaction‧ means any transaction giving rise to an exposure secured by collateral which includes a provision conferring upon the institution the right to receive margin at least daily;
+(4)
+‧underlying CIU‧ means a CIU in the shares or units of which another CIU has invested.

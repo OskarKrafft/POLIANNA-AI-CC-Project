@@ -1,0 +1,16 @@
+Article 13
+Conformity with TSIs and national rules
+1.   The Agency and the national safety authorities shall consider as meeting the essential requirements, those structural subsystems constituting the rail system which are covered, as appropriate, by the ‘EC’ declaration of verification established by reference to TSIs, in accordance with Article 15, or the declaration of verification established by reference to national rules in accordance with Article 15(8), or both.
+2.   National rules for implementing the essential requirements and, where relevant, acceptable national means of compliance, shall apply in the following cases:
+(a)
+where the TSIs do not cover, or do not fully cover, certain aspects corresponding to the essential requirements, including open points as referred to in Article 4(6);
+(b)
+where non-application of one or more TSIs or parts of them has been notified under Article 7;
+(c)
+where a specific case requires the application of technical rules not included in the relevant TSI;
+(d)
+national rules used to specify existing systems, limited to the aim of assessing technical compatibility of the vehicle with the network;
+(e)
+networks and vehicles not covered by TSIs;
+(f)
+as an urgent temporary preventive measure, in particular following an accident.

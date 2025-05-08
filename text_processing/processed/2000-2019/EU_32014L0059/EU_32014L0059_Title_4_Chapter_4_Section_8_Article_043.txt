@@ -1,0 +1,15 @@
+Article 43
+The bail-in tool
+1.   In order to give effect to the bail-in tool, Member States shall ensure that resolution authorities have the resolution powers specified in Article 63(1).
+2.   Member States shall ensure that resolution authorities may apply the bail-in tool to meet the resolution objectives specified in Article 31, in accordance with the resolution principles specified in Article 34 for any of the following purposes:
+(a)
+to recapitalise an institution or an entity referred to in point (b), (c) or (d) of Article 1(1) of this Directive that meets the conditions for resolution to the extent sufficient to restore its ability to comply with the conditions for authorisation (to the extent that those conditions apply to the entity) and to continue to carry out the activities for which it is authorised under Directive 2013/36/EU or Directive 2014/65/EU, where the entity is authorised under those Directives, and to sustain sufficient market confidence in the institution or entity;
+(b)
+to convert to equity or reduce the principal amount of claims or debt instruments that are transferred:
+(i)
+to a bridge institution with a view to providing capital for that bridge institution; or
+(ii)
+under the sale of business tool or the asset separation tool.
+3.   Member States shall ensure that resolution authorities may apply the bail-in tool for the purpose referred to in point (a) of paragraph 2 of this Article only if there is a reasonable prospect that the application of that tool together with other relevant measures including measures implemented in accordance with the business reorganisation plan required by Article 52 will, in addition to achieving relevant resolution objectives, restore the institution or entity referred to in point (b), (c) or (d) of Article 1(1) in question to financial soundness and long-term viability.
+Member States shall ensure that resolution authorities may apply any of the resolution tools referred to in points (a), (b) and (c) of Article 37(3), and the bail-in tool referred to in point (b) of paragraph 2 of this Article, where the conditions laid down in the first subparagraph are not met.
+4.   Member States shall ensure that resolution authorities may apply the bail-in tool to all institutions or entities referred to in point (b), (c) or (d) of Article 1(1) while respecting in each case the legal form of the institution or entity concerned or may change the legal form.

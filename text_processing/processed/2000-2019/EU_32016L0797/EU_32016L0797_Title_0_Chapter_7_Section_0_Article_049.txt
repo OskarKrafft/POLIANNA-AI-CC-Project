@@ -1,0 +1,9 @@
+Article 49
+Register of infrastructure
+1.   Each Member State shall ensure that a register of infrastructure, stating the values of the network parameters of each subsystem or part subsystem concerned, as set out in the relevant TSI, is published.
+2.   The values of the parameters recorded in the register of infrastructure shall be used in combination with the values of the parameters recorded in the vehicle authorisation for placing on the market to check the technical compatibility between vehicle and network.
+3.   The register of infrastructure may stipulate conditions for the use of fixed installations and other restrictions.
+4.   Each Member State shall ensure that the register of infrastructure is updated in accordance with paragraph 5.
+5.   The Commission shall adopt common specifications for the register of infrastructure relating to content, data format, functional and technical architecture, operating mode and rules for data input and consultation, by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3).
+CHAPTER VIII
+TRANSITIONAL AND FINAL PROVISIONS

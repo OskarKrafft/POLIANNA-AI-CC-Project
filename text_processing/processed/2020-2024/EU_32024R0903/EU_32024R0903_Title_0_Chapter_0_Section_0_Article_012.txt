@@ -1,0 +1,46 @@
+Article 12
+Participation in interoperability regulatory sandboxes
+1.   The participating Union entities or public sector bodies shall ensure, where the operation of the interoperability regulatory sandbox requires the processing of personal data or otherwise falls under the supervisory remit of other national, regional or local authorities providing or supporting access to data, that national data protection authorities as well as other national, regional or local authorities are associated with the operation of the interoperability regulatory sandbox. As appropriate, participants may allow for the involvement in the interoperability regulatory sandbox of other GovTech actors such as national or European standardisation organisations, notified bodies, research and experimentation labs, innovation hubs, and companies wishing to test innovative interoperability solutions, in particular SMEs and start-ups.
+2.   Participation in the interoperability regulatory sandbox shall be limited to a period appropriate to the complexity and scale of the project, which shall, in any event, not exceed two years from the establishment of the interoperability regulatory sandbox. Participation may be extended by up to one year if necessary to achieve the purpose of the processing.
+3.   Participation in the interoperability regulatory sandbox shall be based on a specific plan elaborated by the participants and taking into account, as applicable, the advice of other national competent authorities or the European Data Protection Supervisor. The plan shall contain at least the following:
+(a)
+a description of the participants involved and their roles, the envisaged innovative interoperability solution and its intended purpose, and relevant development, testing and validation process;
+(b)
+the specific regulatory issues at stake and the guidance that is expected from the authorities supervising the interoperability regulatory sandbox;
+(c)
+the specific arrangements for collaboration between the participants and the authorities, as well as any other actor involved in the interoperability regulatory sandbox;
+(d)
+a risk management and monitoring mechanism to identify, prevent and mitigate risks;
+(e)
+the key milestones to be completed by the participants for the interoperability solution to be considered ready to put into service;
+(f)
+evaluation and reporting requirements and possible follow-up;
+(g)
+where it is strictly necessary and proportionate to process personal data, the reasons for such processing, an indication of the categories of personal data concerned, the purposes of the processing for which the personal data are intended, the controllers and processors involved in the processing and their role.
+4.   Participation in the interoperability regulatory sandboxes shall not affect the supervisory and corrective powers of any authorities supervising those sandboxes.
+5.   Participants in the interoperability regulatory sandbox shall remain liable under applicable Union and national law on liability for any damage caused in the course of their participation in the interoperability regulatory sandbox.
+6.   Personal data may be processed in the interoperability regulatory sandbox for purposes other than that for which it has initially been lawfully collected, subject to all of the following conditions:
+(a)
+the innovative interoperability solution is developed for safeguarding public interests in the context of a high level of efficiency and quality of public administration and public services;
+(b)
+the data processed is limited to what is necessary for the functioning of the interoperability solution to be developed or tested in the interoperability regulatory sandbox, and that functioning cannot be effectively achieved by processing anonymised, synthetic or other non-personal data;
+(c)
+there are effective monitoring mechanisms to identify whether any high risk to the rights and freedoms of the data subjects, as referred to in Article 35(1) of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, may arise during the operation of the interoperability regulatory sandbox, as well as a response mechanism to promptly mitigate that risk and, where necessary, stop the processing;
+(d)
+any personal data to be processed are in a functionally separate, isolated and protected data processing environment under the control of the participants and only duly authorised persons have access to that data;
+(e)
+any personal data processed are not to be transmitted, transferred or otherwise accessed by other parties that are not participants in the interoperability regulatory sandbox unless such disclosure occurs in accordance with Regulation (EU) 2016/679 or, where applicable, Regulation (EU) 2018/1725, and all participants have agreed to it;
+(f)
+any processing of personal data do not affect the application of the rights of the data subjects as provided for under Union law on the protection of personal data, in particular in Article 22 of Regulation (EU) 2016/679 and Article 24 of Regulation (EU) 2018/1725;
+(g)
+any personal data processed are protected by means of appropriate technical and organisational measures and erased once the participation in the interoperability regulatory sandbox has terminated or the personal data has reached the end of its retention period;
+(h)
+the logs of the processing of personal data are kept for the duration of the participation in the interoperability regulatory sandbox, unless provided otherwise by Union or national law;
+(i)
+a complete and detailed description of the process and rationale behind the training, testing and validation of the interoperability solution is kept together with the testing results as part of the technical documentation and transmitted to the Board;
+(j)
+a short summary of the interoperability solution to be developed in the interoperability regulatory sandbox, including its objectives and expected results, is made available on the Interoperable Europe portal.
+7.   Paragraph 1 is without prejudice to Union or national law laying down the basis for the processing of personal data which is necessary for the purpose of developing, testing and training of innovative interoperability solutions or any other legal basis, in accordance with Union law on the protection of personal data.
+8.   The participants shall submit periodic reports and a final report to the Board and the Commission on the results from the interoperability regulatory sandboxes, including good practices, lessons learnt, security measures and recommendations on their operation and, where relevant, on the development of this Regulation and other Union law supervised within the interoperability regulatory sandbox. The Board shall issue an opinion to the Commission on the outcome of the interoperability regulatory sandbox, specifying, where applicable, the actions needed to implement new interoperability solutions to promote the cross-border interoperability of trans-European digital public services.
+9.   The Commission shall ensure that information on the interoperability regulatory sandboxes is available on the Interoperable Europe portal.
+10.   By 12 April 2025, the Commission shall adopt implementing acts setting out the detailed rules and the conditions for the establishment and the operation of the interoperability regulatory sandboxes, including the eligibility criteria and the procedure for the application for, selection of, participation in and exiting from the interoperability regulatory sandbox and the rights and obligations of the participants. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).

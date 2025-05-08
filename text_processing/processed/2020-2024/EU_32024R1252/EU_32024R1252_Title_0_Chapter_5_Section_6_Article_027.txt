@@ -1,0 +1,29 @@
+Article 27
+Recovery of critical raw materials from extractive waste
+1.   Operators obliged to draw up waste management plans in accordance with Article 5 of Directive 2006/21/EC shall provide to the competent authority as defined in Article 3, point (27), of that Directive a preliminary economic assessment study regarding the potential recovery of critical raw materials, from:
+(a)
+the extractive waste stored in the facility; and
+(b)
+the extractive waste being generated or, where considered more effective, from the extracted volume prior to it becoming waste.
+Operators shall be exempt from the obligation laid down in the first subparagraph of this paragraph where they can demonstrate to the competent authority as defined in Article 3, point (27), of Directive 2006/21/EC, with a high degree of certainty, that the extractive waste does not contain critical raw materials that are technically recoverable.
+2.   The study referred to in paragraph 1 shall at least include an estimation of the quantities and concentrations of critical raw materials contained in the extractive waste and in the extracted volume and an assessment of their technical and economic recoverability. Operators shall specify the methods used to estimate those quantities and concentrations.
+3.   By 24 November 2026, operators of extractive waste facilities shall submit the study referred to in paragraph 1 of this Article to the competent authority as defined in Article 3, point (27), of Directive 2006/21/EC. Operators of new extractive waste facilities shall submit that study to the competent authority as defined in Article 3, point (27), of Directive 2006/21/EC when submitting their waste management plans in accordance with Article 7 of that Directive.
+4.   Member States shall establish a database of the closed extractive waste facilities located on their territory, including abandoned extractive waste facilities, except for closed extractive waste facilities where the particular characteristics of the waste sites or geological conditions make the presence of potentially technically recoverable quantities of critical raw materials unlikely. That database shall contain information on:
+(a)
+the location, areal extent and waste volume, or where appropriate, the estimated volume, of the extractive waste facility;
+(b)
+the operator or former operator of the extractive waste facility and, where applicable, their legal successor;
+(c)
+the approximate quantities and concentrations of all raw materials contained in the extractive waste and, where available, in the original mineral deposit, in accordance with paragraph 7;
+(d)
+any additional information considered relevant by the Member State to enable the recovery of critical raw materials from the extractive waste facility.
+5.   By 24 November 2027, Member States shall adopt and implement measures to promote the recovery of critical raw materials from extractive waste, in particular from closed extractive waste facilities identified in the database referred to in paragraph 4 as containing potentially economically recoverable critical raw materials.
+6.   The database referred to in paragraph 4 shall be put in place by 24 November 2026 and all the information shall be introduced in that database by 24 May 2027. It shall be made available in a publicly accessible and digital form and updated at least every three years to incorporate additional available information and newly closed or newly identified facilities.
+7.   In order to provide the information referred to in paragraph 4, point (c), Member States shall carry out at least the following activities:
+(a)
+for closed extractive waste facilities, Member States shall, by 24 November 2026, comprehensively review the available permitting files, or other available documentation when permitting files do not exist;
+(b)
+for such extractive waste facilities where available information could indicate the presence of potentially economically recoverable quantities of critical raw materials, Member States shall, by 24 May 2026, also conduct representative geochemical sampling;
+(c)
+for such extractive waste facilities where the activities described under points (a) and (b) of this paragraph have indicated potentially economically recoverable quantities of critical raw materials, Member States shall, by 24 March 2027, also carry out a more detailed sampling with subsequent chemical and mineralogical characterisation involving core logging or equivalent techniques, where this is environmentally sound in accordance with applicable environmental requirements at Union level and with the requirements of Directive 2006/21/EC where relevant.
+8.   The activities referred to in paragraph 7 shall be carried out within the limits of national legal systems pertaining to mineral resources, waste, property rights, land ownership, environmental and health impacts and any other relevant provisions. Where such factors inhibit the activities, the Member State authorities shall seek the cooperation of the operator or owner of the extractive waste facility. The results of the activities referred to in paragraph 7 shall be made accessible as part of the database referred to in paragraph 4. Where possible, the Member States shall include in the database a classification of the closed extractive waste facilities according to the United Nations Framework Classification for Resources.

@@ -1,0 +1,50 @@
+Article 37
+Registers and their accessibility
+1.   The Agency shall set up and maintain, where relevant in cooperation with the competent national actors:
+(a)
+the European Vehicle Register in accordance with Article 47 of Directive (EU) 2016/797;
+(b)
+the European register of authorised vehicle types in accordance with Article 48 of Directive (EU) 2016/797.
+2.   The Agency shall act as the system authority for all registers and databases referred to in Directive (EU) 2016/797, Directive (EU) 2016/798 and Directive 2007/59/EC. Its actions in that capacity shall include, in particular:
+(a)
+developing and maintaining specifications of the registers;
+(b)
+coordinating developments in the Member States in relation to the registers;
+(c)
+providing guidance on the registers to relevant stakeholders;
+(d)
+addressing recommendations to the Commission regarding improvements to the specifications of existing registers, where necessary including simplification and deletion of redundant information, and any need to set up new ones, subject to a cost-benefit analysis.
+3.   The Agency shall make the following documents and registers provided for in Directive (EU) 2016/797 and Directive (EU) 2016/798 publicly available:
+(a)
+the ‘EC’ declarations of verification of subsystems;
+(b)
+the ‘EC’ declarations of conformity of interoperability constituents and ‘EC’ declarations of suitability of use of interoperability constituents;
+(c)
+the licences issued in accordance with Article 24(8) of Directive 2012/34/EU of the European Parliament and of the Council (21);
+(d)
+the single safety certificates issued in accordance with Article 10 of Directive (EU) 2016/798;
+(e)
+the investigation reports sent to the Agency in accordance with Article 24 of Directive (EU) 2016/798;
+(f)
+the national rules notified to the Commission in accordance with Article 8 of Directive (EU) 2016/798 and Article 14 of Directive (EU) 2016/797;
+(g)
+the vehicle registers referred to in Article 47 of Directive (EU) 2016/797, including via the links to relevant national registers;
+(h)
+the infrastructure registers, including via the links to relevant national registers;
+(i)
+the registers relating to entities in charge of maintenance and their certification bodies;
+(j)
+the European register of authorised types of vehicles in accordance with Article 48 of Directive (EU) 2016/797;
+(k)
+the register of requests for changes and planned changes to the ERTMS specifications, in accordance with Article 28(2) of this Regulation;
+(l)
+the register of requests for changes and planned changes to the TSIs for telematics applications for passengers (‘TAPs’) and telematics applications for freight (‘TAFs’), in accordance with Article 23(2) of this Regulation;
+(m)
+the register of vehicle keeper markings kept by the Agency in accordance with the TSI on operation and traffic management;
+(n)
+the quality reports issued in accordance with Article 28(2) of Regulation (EC) No 1371/2007 of the European Parliament and of the Council (22).
+4.   The practical arrangements for sending the documents referred to in paragraph 3 shall be discussed and agreed by the Commission and the Member States on the basis of a draft prepared by the Agency.
+5.   When the documents referred to in paragraph 3 are being sent, the bodies concerned may indicate which documents are not to be disclosed to the public for reasons of security.
+6.   The national authorities responsible for issuing the licences referred to in point (c) of paragraph 3 of this Article shall notify the Agency of each individual decision to issue, renew, amend or revoke those licenses, in accordance with Directive 2012/34/EU.
+The national safety authorities responsible for issuing the single safety certificates referred to in point (d) of paragraph 3 of this Article shall notify the Agency, in accordance with Article 10(16) of Directive (EU) 2016/798, of each individual decision to issue, renew, amend, restrict or revoke those certificates.
+7.   The Agency may include any public document or link relevant to the objectives of this Regulation in the public database, taking into account applicable Union legislation on data protection.

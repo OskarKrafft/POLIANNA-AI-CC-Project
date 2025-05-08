@@ -1,0 +1,43 @@
+Article 9
+Methods for calculating the estimated value of public contracts, framework agreements and dynamic purchasing systems
+1.   The calculation of the estimated value of a public contract shall be based on the total amount payable, net of VAT, as estimated by the contracting authority. This calculation shall take account of the estimated total amount, including any form of option and any renewals of the contract.
+Where the contracting authority provides for prizes or payments to candidates or tenderers it shall take them into account when calculating the estimated value of the contract.
+2.   This estimate must be valid at the moment at which the contract notice is sent, as provided for in Article 35(2), or, in cases where such notice is not required, at the moment at which the contracting authority commences the contract awarding procedure.
+3.   No works project or proposed purchase of a certain quantity of supplies and/or services may be subdivided to prevent its coming within the scope of this Directive.
+4.   With regard to public works contracts, calculation of the estimated value shall take account of both the cost of the works and the total estimated value of the supplies necessary for executing the works and placed at the contractor's disposal by the contracting authorities.
+5.
+(a)
+Where a proposed work or purchase of services may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots.
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 7, this Directive shall apply to the awarding of each lot.
+However, the contracting authorities may waive such application in respect of lots the estimated value of which net of VAT is less than EUR 80 000 for services or EUR 1 million for works, provided that the aggregate value of those lots does not exceed 20 % of the aggregate value of the lots as a whole.
+(b)
+Where a proposal for the acquisition of similar supplies may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots when applying Article 7(a) and (b).
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 7, this Directive shall apply to the awarding of each lot.
+However, the contracting authorities may waive such application in respect of lots, the estimated value of which, net of VAT, is less than EUR 80 000, provided that the aggregate cost of those lots does not exceed 20 % of the aggregate value of the lots as a whole.
+6.   With regard to public supply contracts relating to the leasing, hire, rental or hire purchase of products, the value to be taken as a basis for calculating the estimated contract value shall be as follows:
+(a)
+in the case of fixed-term public contracts, if that term is less than or equal to 12 months, the total estimated value for the term of the contract or, if the term of the contract is greater than 12 months, the total value including the estimated residual value;
+(b)
+in the case of public contracts without a fixed term or the term of which cannot be defined, the monthly value multiplied by 48.
+7.   In the case of public supply or service contracts which are regular in nature or which are intended to be renewed within a given period, the calculation of the estimated contract value shall be based on the following:
+(a)
+either the total actual value of the successive contracts of the same type awarded during the preceding 12 months or financial year adjusted, if possible, to take account of the changes in quantity or value which would occur in the course of the 12 months following the initial contract;
+(b)
+or the total estimated value of the successive contracts awarded during the 12 months following the first delivery, or during the financial year if that is longer than 12 months.
+The choice of method used to calculate the estimated value of a public contract may not be made with the intention of excluding it from the scope of this Directive.
+8.   With regard to public service contracts, the value to be taken as a basis for calculating the estimated contract value shall, where appropriate, be the following:
+(a)
+for the following types of services:
+(i)
+insurance services: the premium payable and other forms of remuneration;
+(ii)
+banking and other financial services: the fees, commissions, interest and other forms of remuneration;
+(iii)
+design contracts: fees, commission payable and other forms of remuneration;
+(b)
+for service contracts which do not indicate a total price:
+(i)
+in the case of fixed-term contracts, if that term is less than or equal to 48 months: the total value for their full term;
+(ii)
+in the case of contracts without a fixed term or with a term greater than 48 months: the monthly value multiplied by 48.
+9.   With regard to framework agreements and dynamic purchasing systems, the value to be taken into consideration shall be the maximum estimated value net of VAT of all the contracts envisaged for the total term of the framework agreement or the dynamic purchasing system.

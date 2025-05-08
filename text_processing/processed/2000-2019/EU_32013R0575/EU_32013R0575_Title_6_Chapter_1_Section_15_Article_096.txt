@@ -1,0 +1,21 @@
+Article 96
+Own funds requirements for investment firms which hold initial capital as laid down in Article 28(2) of Directive 2013/36/EU
+1.   For the purposes of Article 92(3), the following categories of investment firm which hold initial capital in accordance with Article 28(2) of Directive 2013/36/EU shall use the calculation of the total risk exposure amount specified in paragraph 2 of this Article:
+(a)
+investment firms that deal on own account only for the purpose of fulfilling or executing a client order or for the purpose of gaining entrance to a clearing and settlement system or a recognised exchange when acting in an agency capacity or executing a client order;
+(b)
+investment firms that meet all the following conditions:
+(i)
+that do not hold client money or securities;
+(ii)
+that undertake only dealing on own account;
+(iii)
+that have no external customers;
+(iv)
+for which the execution and settlement whose transactions takes place under the responsibility of a clearing institution and are guaranteed by that clearing institution.
+2.   For investment firms referred to in paragraph 1, total risk exposure amount shall be calculated as the sum of the following:
+(a)
+points (a) to (d) and (f) of Article 92(3) after applying Article 92(4);
+(b)
+the amount referred to in Article 97 multiplied by 12,5.
+3.   Investment firms referred to in paragraph 1 are subject to all other provisions regarding operational risk laid down in Title VII, Chapter 3, Section II, Sub-section 1 of Directive 2013/36/EU.

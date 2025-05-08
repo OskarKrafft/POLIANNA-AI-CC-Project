@@ -1,0 +1,22 @@
+Article 86
+Implementing measures
+The Commission shall adopt implementing measures laying down the following:
+(a)
+actuarial and statistical methodologies to calculate the best estimate referred to in Article 77(2);
+(b)
+the relevant risk-free interest rate term structure to be used to calculate the best estimate referred to in Article 77(2);
+(c)
+the circumstances in which technical provisions shall be calculated as a whole, or as a sum of a best estimate and a risk margin, and the methods to be used in the case where technical provisions are calculated as a whole;
+(d)
+the methods and assumptions to be used in the calculation of the risk margin including the determination of the amount of eligible own funds necessary to support the insurance and reinsurance obligations and the calibration of the Cost-of-Capital rate;
+(e)
+the lines of business on the basis of which insurance and reinsurance obligations are to be segmented in order to calculate technical provisions;
+(f)
+the standards to be met with respect to ensuring the appropriateness, completeness and accuracy of the data used in the calculation of technical provisions, and the specific circumstances in which it would be appropriate to use approximations, including case-by-case approaches, to calculate the best estimate;
+(g)
+the methodologies to be used when calculating the counterparty default adjustment referred to in Article 81 designed to capture expected losses due to default of the counterparty;
+(h)
+where necessary, simplified methods and techniques to calculate technical provisions, in order to ensure the actuarial and statistical methods referred to in points (a) and (d) are proportionate to the nature, scale and complexity of the risks supported by insurance and reinsurance undertakings including captive insurance and reinsurance undertakings.
+Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 301(3).
+Subsection 1
+Determination of own funds

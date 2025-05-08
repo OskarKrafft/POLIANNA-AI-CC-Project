@@ -1,0 +1,7 @@
+Article 252
+Originator and sponsor institutions
+For an originator institution or sponsor institution, the risk-weighted exposure amounts calculated in respect of its securitisation positions in any one securitisation may be limited to the risk-weighted exposure amounts which would currently be calculated for the securitised exposures had they not been securitised subject to the presumed application of a 150 % risk weight to the following:
+(a)
+all items currently in default;
+(b)
+all items associated with particularly high risk in accordance with Article 128 amongst the securitised exposures.

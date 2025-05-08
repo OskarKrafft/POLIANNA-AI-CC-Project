@@ -1,0 +1,15 @@
+Article 48
+Requirements for the offer to the public or admission to trading of e-money tokens
+1.   A person shall not make an offer to the public or seek the admission to trading of an e-money token, within the Union, unless that person is the issuer of such e-money token and:
+(a)
+is authorised as a credit institution or as an electronic money institution; and
+(b)
+has notified a crypto-asset white paper to the competent authority and has published that crypto-asset white paper in accordance with Article 51.
+Notwithstanding the first subparagraph, upon the written consent of the issuer, other persons may offer to the public or seek the admission to trading of the e-money token. Those persons shall comply with Articles 50 and 53.
+2.   E-money tokens shall be deemed to be electronic money.
+An e-money token that references an official currency of a Member State shall be deemed to be offered to the public in the Union.
+3.   Titles II and III of Directive 2009/110/EC shall apply with respect to e-money tokens unless otherwise stated in this Title.
+4.   Paragraph 1 of this Article shall not apply to issuers of e-money tokens exempted in accordance with Article 9(1) of Directive 2009/110/EC.
+5.   This Title, with the exception of paragraph 7 of this Article and Article 51, shall not apply in respect of e-money tokens exempt pursuant to Article 1(4) and (5) of Directive 2009/110/EC.
+6.   Issuers of e-money tokens shall, at least 40 working days before the date on which they intend to offer to the public those e-money tokens or seek their admission to trading, notify their competent authority of that intention.
+7.   Where paragraph 4 or 5 applies, the issuers of e-money tokens shall draw up a crypto-asset white paper and notify such crypto-asset white paper to the competent authority in accordance with Article 51.

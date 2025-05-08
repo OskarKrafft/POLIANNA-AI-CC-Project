@@ -1,0 +1,44 @@
+Article 13
+Technical building systems
+1.   Member States shall, for the purpose of optimising the energy use of technical building systems, set system requirements, using energy-saving technologies, in respect of the overall energy performance, the proper installation, the appropriate dimensioning, adjustment and control and, where appropriate, the hydronic balancing of the technical building systems which are installed in new or existing buildings. When setting up the requirements, Member States shall take account of design conditions and typical or average operating conditions.
+System requirements shall be set for new and for the replacement and upgrading of existing technical building systems and shall be applied in so far as technically, economically and functionally feasible.
+Member States may set requirements related to the greenhouse gas emissions of, or to the type of fuel used by heat generators or to the minimum part of renewable energy used for heating at building’s level, provided that such requirements do not constitute an unjustified market barrier.
+Member States shall ensure that the requirements they set for technical building systems reach at least the latest cost-optimal levels.
+2.   Member States may set specific system requirements for technical building systems in order to facilitate the effective installation and operation of low temperature heating systems in new or renovated buildings.
+3.   Member States shall require new buildings, where technically and economically feasible, to be equipped with self-regulating devices for the separate regulation of the temperature in each room or, where justified, in a designated heated or cooled zone of the building unit and, where appropriate, with hydronic balancing. The installation of such self-regulating devices and, where appropriate, hydronic balancing in existing buildings shall be required when heat generators or cooling generators are replaced, where technically and economically feasible.
+4.   Member States shall set requirements for the implementation of adequate indoor environmental quality standards in buildings in order to maintain a healthy indoor climate.
+5.   Member States shall require non-residential zero-emission buildings to be equipped with measuring and control devices for the monitoring and regulation of indoor air quality. In existing non-residential buildings, the installation of such devices shall be required, where technically and economically feasible, when a building undergoes a major renovation. Member States may require the installation of such devices in residential buildings.
+6.   Member States shall ensure that, when a technical building system is installed, the overall energy performance of the altered part and, where relevant, of the complete altered system is assessed. The results shall be documented and passed on to the building owner, so that they remain available and can be used for the verification of compliance with the minimum requirements laid down pursuant to paragraph 1 and the issue of energy performance certificates.
+Member States shall take the necessary measures to ensure that the energy performance of technical building systems is optimised where they are retrofitted or replaced.
+Member States shall promote energy storage for renewable energy in buildings.
+Member States may provide for new incentives and funding to encourage the switch from fossil-fuel-based heating and cooling systems to non-fossil-fuel-based heating and cooling systems.
+7.   Member States shall strive to replace stand-alone boilers powered by fossil fuels in existing buildings, in line with the national phase-out plans for fossil fuel boilers.
+8.   The Commission shall issue guidance on what qualifies as a fossil fuel boiler.
+9.   Member States shall lay down requirements to ensure that, where technically and economically feasible, non-residential buildings are equipped with building automation and control systems, as follows:
+(a)
+by 31 December 2024, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of over 290 kW;
+(b)
+by 31 December 2029, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of over 70 kW.
+10.   The building automation and control systems shall be capable of:
+(a)
+continuously monitoring, logging, analysing and allowing for adjusting energy use;
+(b)
+benchmarking the building’s energy efficiency, detecting losses in efficiency of technical building systems, and informing the person responsible for the facilities or technical building management about opportunities for energy efficiency improvement;
+(c)
+allowing communication with connected technical building systems and other appliances inside the building, and being interoperable with technical building systems across different types of proprietary technologies, devices and manufacturers;
+(d)
+by 29 May 2026 monitoring of indoor environmental quality.
+11.   Member States shall lay down requirements to ensure that, where technically, economically and functionally feasible, from 29 May 2026, new residential buildings and residential buildings undergoing major renovations are equipped with the following:
+(a)
+the functionality of continuous electronic monitoring that measures systems’ efficiency and informs building owners or managers in the case of a significant variation and when system servicing is necessary;
+(b)
+effective control functionalities to ensure optimum generation, distribution, storage, use of energy and, where applicable, hydronic balance;
+(c)
+a capacity to react to external signals and adjust the energy consumption.
+Member States may exclude single-family houses undergoing major renovations from the requirements laid down in this paragraph where the costs of installation exceed the benefits.
+12.   Member States shall lay down requirements to ensure that, where technically and economically feasible, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of:
+(a)
+over 290 kW are equipped with automatic lighting controls by 31 December 2027;
+(b)
+over 70 kW are equipped with automatic lighting controls by 31 December 2029.
+The automatic lighting controls shall be suitably zoned and capable of occupancy detection.

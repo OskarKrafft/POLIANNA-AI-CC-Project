@@ -1,0 +1,39 @@
+Article 28
+Recyclability of permanent magnets
+1.   From two years after the date of entry into force of the implementing act referred to in paragraph 2, any natural or legal person that places on the market magnetic resonance imaging devices, wind energy generators, industrial robots, motor vehicles, light means of transport, cooling generators, heat pumps, electric motors, including where electric motors are integrated in other products, automatic washing machines, tumble driers, microwaves, vacuum cleaners or dishwashers shall ensure that those products bear a conspicuous, clearly legible and indelible label indicating:
+(a)
+whether those products incorporate one or more permanent magnets;
+(b)
+if the product incorporates one or more permanent magnets, whether those permanent magnets belong to any of the following types:
+(i)
+neodymium-iron-boron;
+(ii)
+samarium-cobalt;
+(iii)
+aluminium-nickel-cobalt;
+(iv)
+ferrite.
+2.   By 24 November 2026, the Commission shall adopt an implementing act establishing the format for the labelling referred to in paragraph 1 of this Article. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 39(3).
+3.   From two years after the date of entry into force of the implementing act referred to in paragraph 2, any natural or legal person that places on the market products referred to in paragraph 1 incorporating one or more permanent magnets of the types referred in paragraph 1, point (b) shall ensure that a data carrier is present on or in the product.
+4.   The data carrier referred to in paragraph 3 shall be linked to a unique product identifier that provides access to the following:
+(a)
+the name, registered trade name or registered trademark and the postal address of the natural or legal person responsible and, where available, electronic means of communication where they can be contacted;
+(b)
+information on the weight, location and chemical composition of all individual permanent magnets included in the product, and on the presence and type of magnet coatings, glues and any additives used;
+(c)
+information enabling access and safe removal of all permanent magnets incorporated in the product, at least including the sequence of all removal steps, tools or technologies required for the access and removal of the permanent magnet, without prejudice to the provision of information to treatment facilities pursuant to Article 15(1) of Directive 2012/19/EU.
+5.   For products where the incorporated permanent magnets are exclusively contained in one or more electric motors incorporated in the product, the information referred to in paragraph 4, point (b), may be replaced by information on the location of those electric motors, and the information referred to in paragraph 4, point (c), may be replaced by information on the access and removal of the electric motors, at least including the sequence of all removal steps, tools or technologies required for the access and removal of the electric motors.
+6.   For products referred to in paragraph 3 for which a product passport is required pursuant to another Union legal act, the information referred to in paragraph 4 shall be included in that product passport.
+7.   The natural or legal person placing a product referred to in paragraph 3 on the market shall ensure that information referred to in paragraph 4 is complete, up-to-date, and accurate and remains available for a period at least equal to the product’s typical lifetime plus 10 years, including after an insolvency, a liquidation or a cessation of activity in the Union of the natural or legal person responsible. That person may authorise another natural or legal person to act on their behalf.
+The information referred to in paragraph 4 shall refer to the product model or, where the information differs between units of the same model, to a particular batch or unit. The information referred to in paragraph 4 shall be accessible to repairers, recyclers, market surveillance authorities and customs authorities.
+8.   Where information requirements relating to the recycling of permanent magnets are established in Union harmonisation legislation for any of the products listed in paragraph 1, those requirements shall apply to the products concerned in place of this Article.
+9.   Products primarily designed for defence or space applications shall be exempt from the requirements laid down in this Article.
+10.   From 24 May 2029, this Article shall apply to magnetic resonance imaging devices, motor vehicles and light means of transport that are type-approved vehicles of category L.
+11.   This Article shall not apply to:
+(a)
+special purpose vehicles as defined in Article 3, point (31), of Regulation (EU) 2018/858;
+(b)
+parts of a vehicle, other than the base vehicle, that have been type-approved in multi-stage type approval of category N1, N2, N3, M2 or M3;
+(c)
+vehicles produced in small series, as defined in Article 3, point (30), of Regulation (EU) 2018/858.
+12.   The Commission is empowered to adopt a delegated act in accordance with Article 38 to supplement this Regulation by providing a list of Combined Nomenclature codes in accordance with Annex I to Council Regulation (EEC) No 2658/87 (44) and product descriptions corresponding to the products referred to in paragraph 1 of this Article with the aim of facilitating the work of customs authorities in relation to those products and the requirements set out in this Article and in Article 29.

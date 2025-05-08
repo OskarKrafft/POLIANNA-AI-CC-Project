@@ -1,0 +1,100 @@
+Article 308
+Own funds requirements for pre-funded contributions to the default fund of a QCCP
+
+1.   The exposure value for an institution's pre-funded contribution to the default fund of a QCCP (DFi) shall be the amount paid in or the market value of the assets delivered by that institution reduced by any amount of that contribution that the QCCP has already used to absorb its losses following the default of one or more of its clearing members.
+2.   An institution shall calculate the own funds requirement (Ki) to cover the exposure arising from its pre-funded contribution (DFi) as follows:
+
+
+
+
+
+where:
+β
+=
+the concentration factor communicated to the institution by the CCP;
+N
+=
+the number of clearing members communicated to the institution by the CCP;
+DFCM
+
+=
+the sum of pre-funded contributions of all clearing members of the CCP 
+
+ communicated to the institution by the CCP;
+KCM
+
+=
+the sum of the own funds requirements of all clearing members of the CCP calculated in accordance with the applicable formula specified in paragraph 3 
+
+.
+3.   An institution shall calculate KCM as follows:
+(a)
+where KCCP ≤ DFCCP, the institution shall use the following formula:
+
+
+
+;
+(b)
+where DFCCP < KCCP ≤DF*, the institution shall use the following formula:
+
+
+
+;
+(c)
+where DF* < KCCP, the institution shall use the following formula:
+
+
+
+
+
+where:
+DFCCP
+
+=
+the pre-funded financial resources of the CCP communicated to the institution by the CCP;
+KCCP
+
+=
+the hypothetical capital of the CCP communicated to the institution by the CCP;
+DF*
+=
+
+
+
+;
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+=
+the average pre-funded contribution, 
+
+, communicated to the institution by the CCP;
+c1
+
+=
+a capital factor equal to 
+
+
+
+c2
+
+=
+a capital factor equal to 100 %;
+μ
+=
+1,2.
+4.   An institution shall calculate the risk weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 2 multiplied by 12,5.
+5.   Where KCCP is equal to zero, institutions shall use the value for c1 of 0,16 % for the purpose of the calculation in paragraph 3.

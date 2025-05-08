@@ -1,0 +1,61 @@
+Article 2
+Definitions
+1.   For the purpose of this Regulation, the following definitions apply:
+1)
+‘transmission’ means the transport of natural gas through a network, which mainly contains high-pressure pipelines, other than an upstream pipeline network and other than the part of high-pressure pipelines primarily used in the context of local distribution of natural gas, with a view to its delivery to customers, but not including supply;
+2)
+‘transport contract’ means a contract which the transmission system operator has concluded with a network user with a view to carrying out transmission;
+3)
+‘capacity’ means the maximum flow, expressed in normal cubic meters per time unit or in energy unit per time unit, to which the network user is entitled in accordance with the provisions of the transport contract;
+4)
+‘unused capacity’ means firm capacity which a network user has acquired under a transport contract but which that user has not nominated by the deadline specified in the contract;
+5)
+‘congestion management’ means management of the capacity portfolio of the transmission system operator with a view to optimal and maximum use of the technical capacity and the timely detection of future congestion and saturation points;
+6)
+‘secondary market’ means the market of the capacity traded otherwise than on the primary market;
+7)
+‘nomination’ means the prior reporting by the network user to the transmission system operator of the actual flow that the network user wishes to inject into or withdraw from the system;
+8)
+‘re-nomination’ means the subsequent reporting of a corrected nomination;
+9)
+‘system integrity’ means any situation in respect of a transmission network including necessary transmission facilities in which the pressure and the quality of the natural gas remain within the minimum and maximum limits laid down by the transmission system operator, so that the transmission of natural gas is guaranteed from a technical standpoint;
+10)
+‘balancing period’ means the period within which the off-take of an amount of natural gas, expressed in units of energy, must be offset by every network user by means of the injection of the same amount of natural gas into the transmission network in accordance with the transport contract or the network code;
+11)
+‘network user’ means a customer or a potential customer of a transmission system operator, and transmission system operators themselves in so far as it is necessary for them to carry out their functions in relation to transmission;
+12)
+‘interruptible services’ means services offered by the transmission system operator in relation to interruptible capacity;
+13)
+‘interruptible capacity’ means gas transmission capacity that may be interrupted by the transmission system operator in accordance with the conditions stipulated in the transport contract;
+14)
+‘long-term services’ means services offered by the transmission system operator with a duration of one year or more;
+15)
+‘short-term services’ means services offered by the transmission system operator with a duration of less than one year;
+16)
+‘firm capacity’ means gas transmission capacity contractually guaranteed as uninterruptible by the transmission system operator;
+17)
+‘firm services’ mean services offered by the transmission system operator in relation to firm capacity;
+18)
+‘technical capacity’ means the maximum firm capacity that the transmission system operator can offer to the network users, taking account of system integrity and the operational requirements of the transmission network;
+19)
+‘contracted capacity’ means capacity that the transmission system operator has allocated to a network user by means of a transport contract;
+20)
+‘available capacity’ means the part of the technical capacity that is not allocated and is still available to the system at that moment;
+21)
+‘contractual congestion’ means a situation where the level of firm capacity demand exceeds the technical capacity;
+22)
+‘primary market’ means the market of the capacity traded directly by the transmission system operator;
+23)
+‘physical congestion’ means a situation where the level of demand for actual deliveries exceeds the technical capacity at some point in time;
+24)
+‘LNG facility capacity’ means capacity at an LNG terminal for the liquefaction of natural gas or the importation, offloading, ancillary services, temporary storage and re-gasification of LNG;
+25)
+‘space’ means the volume of gas which a user of a storage facility is entitled to use for the storage of gas;
+26)
+‘deliverability’ means the rate at which the storage facility user is entitled to withdraw gas from the storage facility;
+27)
+‘injectability’ means the rate at which the storage facility user is entitled to inject gas into the storage facility;
+28)
+‘storage capacity’ means any combination of space, injectability and deliverability.
+2.   Without prejudice to the definitions in paragraph 1 of this Article, the definitions contained in Article 2 of Directive 2009/73/EC, which are relevant for the application of this Regulation, also apply, with the exception of the definition of transmission in point 3 of that Article.
+The definitions in points 3 to 23 of paragraph 1 of this Article in relation to transmission apply by analogy in relation to storage and LNG facilities.

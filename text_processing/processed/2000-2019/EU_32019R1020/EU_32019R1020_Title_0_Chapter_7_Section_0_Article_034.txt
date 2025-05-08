@@ -1,0 +1,30 @@
+Article 34
+Information and communication system
+1.   The Commission shall further develop and maintain an information and communication system for the collection, processing and storage of information, in a structured form, on issues relating to the enforcement of Union harmonisation legislation, with the aim of improving the sharing of data among Member States, including for the purpose of requests for information, providing a comprehensive overview of market surveillance activities, results and trends. The Commission, market surveillance authorities, single liaison offices, and authorities designated under Article 25(1) shall have access to that system. The Commission shall develop and maintain the public user interface of this system, where key information for end-users about market surveillance activities shall be provided.
+2.   The Commission shall further develop and maintain electronic interfaces between the system referred to in paragraph 1 and national market surveillance systems.
+3.   Single liaison offices shall enter the following information in the information and communication system:
+(a)
+the identity of the market surveillance authorities in their Member State and areas of competence of those authorities pursuant to Article 10(2);
+(b)
+the identity of the authorities designated under Article 25(1);
+(c)
+the national market surveillance strategy drawn up by their Member State under Article 13 and the results from the review and assessment of the market surveillance strategy.
+4.   Market surveillance authorities shall enter into the information and communication system in relation to products made available on the market for which an in-depth check of compliance has been carried out, without prejudice to Article 12 of Directive 2001/95/EC and Article 20 of this Regulation, and where applicable, in relation to products entering the Union market for which the process for the release for free circulation has been suspended in accordance with Article 26 of this Regulation, in their territory, the following information concerning:
+(a)
+measures according to Article 16(5) taken by that market surveillance authority;
+(b)
+reports of testing carried out by them;
+(c)
+corrective action taken by economic operators concerned;
+(d)
+readily available reports on injuries caused by the product in question;
+(e)
+any objection raised by a Member State in accordance with the applicable safeguard procedure in the Union harmonisation legislation applicable to the product and any subsequent follow-up;
+(f)
+where available, failures by authorised representatives to comply with Article 5(2);
+(g)
+where available, failures by manufacturers to comply with Article 5(1).
+5.   Where market surveillance authorities consider it useful, they may enter into the information and communication system any additional information related to the checks they perform and results of testing carried out by them or at their request.
+6.   Where relevant for the enforcement of Union harmonisation legislation and for the purpose of minimising risk, customs authorities shall extract from national customs systems information on products placed under the customs procedure ‘release for free circulation’ related to the enforcement of Union harmonisation legislation and transmit it to the information and communication system.
+7.   The Commission shall develop an electronic interface to enable the transmission of data between national customs systems and the information and communication system. This interface shall be in place within four years from the date of adoption of the relevant implementing act referred to in paragraph 8.
+8.   The Commission shall adopt implementing acts specifying the details of implementation arrangements for paragraphs 1 to 7 of this Article, and in particular the data processing to be applied on data collected in accordance with paragraph 1 of this Article, and defining the data to be transmitted in accordance with paragraphs 6 and 7 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).

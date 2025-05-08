@@ -1,0 +1,13 @@
+Article 269
+Use of credit assessments
+1.   An institution may nominate one or more ECAIs the credit assessments of which shall be used in the calculation of its risk-weighted exposure amounts under this Chapter (a ‧nominated ECAI‧).
+2.   An institution shall use credit assessments consistently and not selectively in respect of its securitisation positions, in accordance with the following principles:
+(a)
+an institution may not use an ECAI's credit assessments for its positions in some tranches and another ECAI's credit assessments for its positions in other tranches within the same securitisation that may or may not be rated by the first ECAI;
+(b)
+where a position has two credit assessments by nominated ECAIs, the institution shall use the less favourable credit assessment;
+(c)
+where a position has more than two credit assessments by nominated ECAIs, the two most favourable credit assessments shall be used. If the two most favourable assessments are different, the less favourable of the two shall be used;
+(d)
+an institution shall not actively solicit the withdrawal of less favourable ratings.
+3.   Where credit protection eligible under Chapter 4 is provided directly to the SSPE, and that protection is reflected in the credit assessment of a position by a nominated ECAI, the risk weight associated with that credit assessment may be used. Where the protection is not eligible under Chapter 4, the credit assessment shall not be recognised. Where the credit protection is not provided to the SSPE but directly to a securitisation position, the credit assessment shall not be recognised.

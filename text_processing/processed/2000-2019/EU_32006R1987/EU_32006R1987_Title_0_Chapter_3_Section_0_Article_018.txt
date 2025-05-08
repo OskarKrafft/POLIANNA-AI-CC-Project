@@ -1,0 +1,7 @@
+Article 18
+Keeping of records at central level
+1.   The Management Authority shall ensure that every access to and all exchanges of personal data within CS-SIS are recorded for the purposes mentioned in Article 12(1) and (2).
+2.   The records shall show, in particular, the history of the alerts, the date and time of the data transmitted, the data used to perform searches, the reference to the data transmitted and the name of the competent authority responsible for processing the data.
+3.   The records may only be used for the purpose mentioned in paragraph 1 and shall be deleted at the earliest one year, and at the latest three years, after their creation. The records which include the history of alerts shall be erased one to three years after deletion of the alerts.
+4.   Records may be kept longer if they are required for monitoring procedures that are already under way.
+5.   The competent authorities in charge of checking whether a search is lawful, monitoring the lawfulness of data processing, self-monitoring and ensuring the proper functioning of CS-SIS, data integrity and security, shall have access, within the limits of their competence and at their request, to those records for the purpose of fulfilling their tasks.

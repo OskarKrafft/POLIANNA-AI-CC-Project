@@ -1,0 +1,60 @@
+Whereas:
+(1)
+Council Directive 96/96/EC of 20 December 1996 on the approximation of the laws of the Member States relating to roadworthiness tests for motor vehicles and their trailers (3) has been substantially amended several times (4). Since further amendments are to be made, it should be recast in the interests of clarity.
+(2)
+Within the framework of the common transport policy, certain road traffic within the Community should operate under the most favourable circumstances as regards both safety and competitive conditions applying to carriers in the Member States.
+(3)
+The growth of road traffic and the resultant increase in danger and nuisances present all Member States with safety problems of a similar nature and seriousness.
+(4)
+Testing during the lifecycle of a vehicle should be relatively simple, quick and inexpensive.
+(5)
+The minimum Community standards and methods to be used for testing the items listed in this Directive should therefore be defined in separate Directives.
+(6)
+It is necessary to adapt rapidly to technical progress the standards and methods laid down in the separate Directives and, in order to facilitate implementation of the measures required for this purpose, to establish a procedure for close cooperation between the Member States and the Commission within a committee on the adaptation to technical progress of the Directive on roadworthiness tests for motor vehicles and their trailers.
+(7)
+With regard to braking systems it is difficult to set values for such matters as air pressure settings and build-up times, given the variance in the equipment and methods within the Community.
+(8)
+It is recognised by all concerned with vehicle testing that the method of testing and, in particular, whether the vehicle is tested in a laden, part-laden or unladen condition, can influence the degree of confidence testers have as to the roadworthiness of the braking system.
+(9)
+The prescription of brake force reference values for various laden conditions for each vehicle model should help restore that confidence. This Directive should enable testing under this regime as an alternative to testing against minimum performance values for each vehicle category.
+(10)
+With regard to braking systems the scope of this Directive should relate in the main to vehicles which have been granted component type-approval in accordance with Council Directive 71/320/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to the braking devices of certain categories of motor vehicles and their trailers (5) although it is recognised that certain types of vehicle have been granted such approval in accordance with national standards which may differ from the requirements of that Directive.
+(11)
+Member States may extend the scope of the braking test to include vehicles or test items outside the scope of this Directive.
+(12)
+Member States may make the braking test more stringent or increase the frequency of testing.
+(13)
+This Directive is intended to maintain emissions at a low level throughout the useful life of a vehicle by means of regular exhaust emission tests and to ensure that vehicles which are major polluters are withdrawn from service until they are brought to a proper state of maintenance.
+(14)
+Bad tuning and inadequate maintenance are detrimental not only to the engine but also to the environment since they cause increased pollution and fuel consumption. It is important that environment-friendly transport be developed.
+(15)
+In the case of compression-ignition (diesel) engines measurement of the opacity of the exhaust fumes is deemed to be an adequate indicator of the condition of the vehicle’s state of maintenance, with regard to emissions.
+(16)
+For positive-ignition (petrol) engines, measurement of carbon monoxide emissions from the exhaust pipe when the engine is idling is deemed to be an adequate indicator of the vehicle’s state of maintenance, with regard to emissions.
+(17)
+The failure rate in exhaust-emission tests for vehicles which have not been regularly maintained may well be high.
+(18)
+In the case of petrol-engined vehicles for which the type-approval standards specify that they must be equipped with advanced emission control systems such as three-way catalytic converters which are lambda-probe controlled, the regular emission test standards must be more stringent than for conventional vehicles.
+(19)
+Directive 98/69/EC of the European Parliament and of the Council of 13 October 1998 relating to measures to be taken against air pollution by emissions from motor vehicles (6) requires the introduction, from 2000, of on-board diagnostic (OBD) systems for petrol-driven cars and light commercial vehicles to monitor the functioning of the vehicle’s emission control system in service. Similarly, from 2003, OBD systems are required also for new diesel vehicles.
+(20)
+Member States may, if appropriate, exclude from the scope of this Directive certain vehicles that are considered to be of historic interest. They may also establish their own testing standards for such vehicles. However, such a right must not lead to the application of stricter standards than those which the vehicles concerned were originally designed to meet.
+(21)
+Simple, common diagnostic systems are available that can be used by testing organisations to test the vast majority of the speed limiters equipped. For those vehicles that are not accessible by such readily available diagnostic tools, the authorities will need to either make use of available equipment from the original vehicle manufacturer or provide for the acceptance of appropriate test certification from the vehicle manufacturer or its franchise organisation.
+(22)
+Periodic verification of the correct functioning of the speed limiter should be facilitated for the vehicles that are fitted with the new recording equipment (digital tachograph) in accordance with Council Regulation (EC) No 2135/98 of 24 September 1998 amending Regulation (EEC) No 3821/85 on recording equipment in road transport and Directive 88/599/EEC concerning the application of Regulations (EEC) No 3820/85 and (EEC) No 3821/85 (7). Since the year 2003, new vehicles are fitted with such equipment.
+(23)
+Technical requirements relating to taxis and ambulances are similar to those for private cars. The items to be checked may therefore be similar, although the frequency of tests is different.
+(24)
+Each Member State must ensure, within its own area of jurisdiction, that roadworthiness tests are conducted methodically and to a high standard.
+(25)
+The Commission should verify the practical application of this Directive.
+(26)
+Since the objectives of the proposed action, namely to harmonise the rules on roadworthiness tests, to prevent distortion of competition as between road hauliers and to guarantee that vehicles are properly checked and maintained, cannot be achieved by the Member States acting alone and can therefore, by reason of the scale of the action, be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+(27)
+The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (8).
+(28)
+In particular, the Commission should be empowered to define certain minimum standards and methods for testing and to adapt them to technical progress. Since those measures are of general scope and are designed to amend non-essential elements of this Directive by supplementing it with new non-essential elements, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+(29)
+This Directive should be without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex III, Part B,
+HAVE ADOPTED THIS DIRECTIVE:

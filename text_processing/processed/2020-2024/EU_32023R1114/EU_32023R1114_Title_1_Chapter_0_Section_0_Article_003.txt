@@ -1,0 +1,142 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(1)
+‘distributed ledger technology’ or ‘DLT’ means a technology that enables the operation and use of distributed ledgers;
+(2)
+‘distributed ledger’ means an information repository that keeps records of transactions and that is shared across, and synchronised between, a set of DLT network nodes using a consensus mechanism;
+(3)
+‘consensus mechanism’ means the rules and procedures by which an agreement is reached, among DLT network nodes, that a transaction is validated;
+(4)
+‘DLT network node’ means a device or process that is part of a network and that holds a complete or partial replica of records of all transactions on a distributed ledger;
+(5)
+‘crypto-asset’ means a digital representation of a value or of a right that is able to be transferred and stored electronically using distributed ledger technology or similar technology;
+(6)
+‘asset-referenced token’ means a type of crypto-asset that is not an electronic money token and that purports to maintain a stable value by referencing another value or right or a combination thereof, including one or more official currencies;
+(7)
+‘electronic money token’ or ‘e-money token’ means a type of crypto-asset that purports to maintain a stable value by referencing the value of one official currency;
+(8)
+‘official currency’ means an official currency of a country that is issued by a central bank or other monetary authority;
+(9)
+‘utility token’ means a type of crypto-asset that is only intended to provide access to a good or a service supplied by its issuer;
+(10)
+‘issuer’ means a natural or legal person, or other undertaking, who issues crypto-assets;
+(11)
+‘applicant issuer’ means an issuer of asset-referenced tokens or e-money tokens who applies for authorisation to offer to the public or seeks the admission to trading of those crypto-assets;
+(12)
+‘offer to the public’ means a communication to persons in any form, and by any means, presenting sufficient information on the terms of the offer and the crypto-assets to be offered so as to enable prospective holders to decide whether to purchase those crypto-assets;
+(13)
+‘offeror’ means a natural or legal person, or other undertaking, or the issuer, who offers crypto-assets to the public;
+(14)
+‘funds’ means funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;
+(15)
+‘crypto-asset service provider’ means a legal person or other undertaking whose occupation or business is the provision of one or more crypto-asset services to clients on a professional basis, and that is allowed to provide crypto-asset services in accordance with Article 59;
+(16)
+‘crypto-asset service’ means any of the following services and activities relating to any crypto-asset:
+(a)
+providing custody and administration of crypto-assets on behalf of clients;
+(b)
+operation of a trading platform for crypto-assets;
+(c)
+exchange of crypto-assets for funds;
+(d)
+exchange of crypto-assets for other crypto-assets;
+(e)
+execution of orders for crypto-assets on behalf of clients;
+(f)
+placing of crypto-assets;
+(g)
+reception and transmission of orders for crypto-assets on behalf of clients;
+(h)
+providing advice on crypto-assets;
+(i)
+providing portfolio management on crypto-assets;
+(j)
+providing transfer services for crypto-assets on behalf of clients;
+(17)
+‘providing custody and administration of crypto-assets on behalf of clients’ means the safekeeping or controlling, on behalf of clients, of crypto-assets or of the means of access to such crypto-assets, where applicable in the form of private cryptographic keys;
+(18)
+‘operation of a trading platform for crypto-assets’ means the management of one or more multilateral systems, which bring together or facilitate the bringing together of multiple third-party purchasing and selling interests in crypto-assets, in the system and in accordance with its rules, in a way that results in a contract, either by exchanging crypto-assets for funds or by the exchange of crypto-assets for other crypto-assets;
+(19)
+‘exchange of crypto-assets for funds’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for funds by using proprietary capital;
+(20)
+‘exchange of crypto-assets for other crypto-assets’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for other crypto-assets by using proprietary capital;
+(21)
+‘execution of orders for crypto-assets on behalf of clients’ means the conclusion of agreements, on behalf of clients, to purchase or sell one or more crypto-assets or the subscription on behalf of clients for one or more crypto-assets, and includes the conclusion of contracts to sell crypto-assets at the moment of their offer to the public or admission to trading;
+(22)
+‘placing of crypto-assets’ means the marketing, on behalf of or for the account of the offeror or a party related to the offeror, of crypto-assets to purchasers;
+(23)
+‘reception and transmission of orders for crypto-assets on behalf of clients’ means the reception from a person of an order to purchase or sell one or more crypto-assets or to subscribe for one or more crypto-assets and the transmission of that order to a third party for execution;
+(24)
+‘providing advice on crypto-assets’ means offering, giving or agreeing to give personalised recommendations to a client, either at the client’s request or on the initiative of the crypto-asset service provider providing the advice, in respect of one or more transactions relating to crypto-assets, or the use of crypto-asset services;
+(25)
+‘providing portfolio management of crypto-assets’ means managing portfolios in accordance with mandates given by clients on a discretionary client-by-client basis where such portfolios include one or more crypto-assets;
+(26)
+‘providing transfer services for crypto-assets on behalf of clients’ means providing services of transfer, on behalf of a natural or legal person, of crypto-assets from one distributed ledger address or account to another;
+(27)
+‘management body’ means the body or bodies of an issuer, offeror or person seeking admission to trading, or of a crypto-asset service provider, which are appointed in accordance with national law, which are empowered to set the entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making in the entity and include the persons who effectively direct the business of the entity;
+(28)
+‘credit institution’ means a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 and authorised under Directive 2013/36/EU;
+(29)
+‘investment firm’ means an investment firm as defined in Article 4(1), point (2), of Regulation (EU) No 575/2013 and authorised under Directive 2014/65/EU;
+(30)
+‘qualified investors’ means persons or entities that are listed in Section I, points (1) to (4), of Annex II to Directive 2014/65/EU;
+(31)
+‘close links’ means close links as defined in Article 4(1), point (35), of Directive 2014/65/EU;
+(32)
+‘reserve of assets’ means the basket of reserve assets securing the claim against the issuer;
+(33)
+‘home Member State’ means:
+(a)
+where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has its registered office in the Union, the Member State where that offeror or person has its registered office;
+(b)
+where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has no registered office in the Union but does have one or more branches in the Union, the Member State chosen by that offeror or person from among the Member States where it has branches;
+(c)
+where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens is established in a third country and has no branch in the Union, either the Member State where the crypto-assets are intended to be offered to the public for the first time or, at the choice of the offeror or person seeking admission to trading, the Member State where the first application for admission to trading of those crypto-assets is made;
+(d)
+in the case of an issuer of asset-referenced tokens, the Member State where the issuer of asset-referenced tokens has its registered office;
+(e)
+in the case of an issuer of e-money tokens, the Member State where the issuer of e-money tokens is authorised as a credit institution under Directive 2013/36/EU or as an electronic money institution under Directive 2009/110/EC;
+(f)
+in the case of crypto-asset service providers, the Member State where the crypto-asset service provider has its registered office;
+(34)
+‘host Member State’ means the Member State where an offeror or person seeking admission to trading has made an offer to the public of crypto-assets or is seeking admission to trading, or where a crypto-asset service provider provides crypto-asset services, where different from the home Member State;
+(35)
+‘competent authority’ means one or more authorities:
+(a)
+designated by each Member State in accordance with Article 93 concerning offerors, persons seeking admission to trading of crypto-assets other than asset-referenced tokens and e-money tokens, issuers of asset-referenced tokens, or crypto-asset service providers;
+(b)
+designated by each Member State for the application of Directive 2009/110/EC concerning issuers of e-money tokens;
+(36)
+‘qualifying holding’ means any direct or indirect holding in an issuer of asset-referenced tokens or in a crypto-asset service provider which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council (32), respectively, taking into account the conditions for the aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the issuer of asset-referenced tokens or the management of the crypto-asset service provider in which that holding subsists;
+(37)
+‘retail holder’ means any natural person who is acting for purposes which are outside that person’s trade, business, craft or profession;
+(38)
+‘online interface’ means any software, including a website, part of a website or an application, that is operated by or on behalf of an offeror or crypto-asset service provider, and which serves to give holders of crypto-assets access to their crypto-assets and to give clients access to crypto-asset services;
+(39)
+‘client’ means any natural or legal person to whom a crypto-asset service provider provides crypto-asset services;
+(40)
+‘matched principal trading’ means matched principal trading as defined in Article 4(1), point (38), of Directive 2014/65/EU;
+(41)
+‘payment services’ means payment services as defined in Article 4, point (3), of Directive (EU) 2015/2366;
+(42)
+‘payment service provider’ means a payment service provider as defined in Article 4, point (11), of Directive (EU) 2015/2366;
+(43)
+‘electronic money institution’ means an electronic money institution as defined in Article 2, point (1), of Directive 2009/110/EC;
+(44)
+‘electronic money’ means electronic money as defined in Article 2, point (2), of Directive 2009/110/EC;
+(45)
+‘personal data’ means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+(46)
+‘payment institution’ means a payment institution as defined in Article 4, point (4), of Directive (EU) 2015/2366;
+(47)
+‘UCITS management company’ means a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament and of the Council (33);
+(48)
+‘alternative investment fund manager’ means an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the Council (34);
+(49)
+‘financial instrument’ means financial instruments as defined in Article 4(1), point (15), of Directive 2014/65/EU;
+(50)
+‘deposit’ means a deposit as defined in Article 2(1), point (3), of Directive 2014/49/EU;
+(51)
+‘structured deposit’ means a structured deposit as defined in Article 4(1), point (43), of Directive 2014/65/EU.
+2.   The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by further specifying technical elements of the definitions laid down in paragraph 1 of this Article, and to adjust those definitions to market developments and technological developments.

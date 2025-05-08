@@ -1,0 +1,50 @@
+Article 52
+Business reorganisation plan
+1.   Member States shall require that, within one month after the application of the bail-in tool to an institution or entity referred to in point (b), (c) or (d) of Article 1(1) in accordance with point (a) of Article 43(2), the management body or the person or persons appointed in accordance with Article 72(1) shall draw up and submit to the resolution authority, a business reorganisation plan that satisfies the requirements of paragraphs 4 and 5 of this Article. Where the Union State aid framework is applicable, Member States shall ensure that such a plan is compatible with the restructuring plan that the institution or entity referred to in point (b), (c) or (d) of Article 1(1) is required to submit to the Commission under that framework.
+2.   When the bail-in tool in point (a) of Article 43(2) is applied to two or more group entities, the business reorganisation plan shall be prepared by the Union parent institution and cover all of the institutions in the group in accordance with the procedure specified in Articles 7 and 8 and shall be submitted to the group-level resolution authority. The group-level resolution authority shall communicate the plan to other resolution authorities concerned and to EBA.
+3.   In exceptional circumstances, and if it is necessary for achieving the resolution objectives, the resolution authority may extend the period in paragraph 1 up to a maximum of two months since the application of the bail-in tool.
+Where the business reorganisation plan is required to be notified within the Union State aid framework, the resolution authority may extend the period in paragraph 1 up to a maximum of two months since the application of the bail-in tool or until the deadline laid down by the Union State aid framework, whichever occurs earlier.
+4.   A business reorganisation plan shall set out measures aiming to restore the long-term viability of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) or parts of its business within a reasonable timescale. Those measures shall be based on realistic assumptions as to the economic and financial market conditions under which the institution or entity referred to in point (b), (c) or (d) of Article 1(1) will operate.
+The business reorganisation plan shall take account, inter alia, of the current state and future prospects of the financial markets, reflecting best-case and worst-case assumptions, including a combination of events allowing the identification of the institution’s main vulnerabilities. Assumptions shall be compared with appropriate sector-wide benchmarks.
+5.   A business reorganisation plan shall include at least the following elements:
+(a)
+a detailed diagnosis of the factors and problems that caused the institution or entity referred to in point (b), (c) or (d) of Article 1(1) to fail or to be likely to fail, and the circumstances that led to its difficulties;
+(b)
+a description of the measures aiming to restore the long-term viability of the institution or entity referred to in point (b), (c) or (d) of Article 1(1) that are to be adopted;
+(c)
+a timetable for the implementation of those measures.
+6.   Measures aiming to restore the long-term viability of an institution or entity referred to in point (b), (c) or (d) of Article 1(1) may include:
+(a)
+the reorganisation of the activities of the institution or entity referred to in point (b), (c) or (d) of Article 1(1);
+(b)
+changes to the operational systems and infrastructure within the institution;
+(c)
+the withdrawal from loss-making activities;
+(d)
+the restructuring of existing activities that can be made competitive;
+(e)
+the sale of assets or of business lines.
+7.   Within one month of the date of submission of the business reorganisation plan, the relevant resolution authority shall assess the likelihood that the plan, if implemented, will restore the long-term viability of the institution or entity referred to in point (b), (c) or (d) of Article 1(1). The assessment shall be completed in agreement with the relevant competent authority.
+If the resolution authority and the competent authority are satisfied that the plan would achieve that objective, the resolution authority shall approve the plan.
+8.   If the resolution authority is not satisfied that the plan would achieve the objective referred to in paragraph 7, the resolution authority, in agreement with the competent authority, shall notify the management body or the person or persons appointed in accordance with Article 72(1) of its concerns and require the amendment of the plan in a way that addresses those concerns.
+9.   Within two weeks from the date of receipt of the notification referred to in paragraph 8, the management body or the person or persons appointed in accordance with Article 72(1) shall submit an amended plan to the resolution authority for approval. The resolution authority shall assess the amended plan, and shall notify the management body or the person or persons appointed in accordance with Article 72(1) within one week whether it is satisfied that the plan, as amended, addresses the concerns notified or whether further amendment is required.
+10.   The management body or the person or persons appointed in accordance with Article 72(1) shall implement the reorganisation plan as agreed by the resolution authority and competent authority, and shall submit a report to the resolution authority at least every six months on progress in the implementation of the plan.
+11.   The management body or the person or persons appointed in accordance with Article 72(1) shall revise the plan if, in the opinion of the resolution authority with the agreement of the competent authority, it is necessary to achieve the aim referred to in paragraph 4, and shall submit any such revision to the resolution authority for approval.
+12.   EBA shall develop draft regulatory technical standards to specify further:
+(a)
+the minimum elements that should be included in a business reorganisation plan pursuant to paragraph 5; and
+(b)
+the minimum contents of the reports pursuant to paragraph 10.
+EBA shall submit those draft regulatory technical standards to the Commission by 3 January 2016.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+13.   EBA shall, by 3 January 2016, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify further the minimum criteria that a business reorganisation plan is to fulfil for approval by the resolution authority pursuant to paragraph 7.
+14.   Taking into account, where appropriate, experience acquired in the application of the guidelines referred to in paragraph 13, EBA may develop draft regulatory technical standards in order to specify further the minimum criteria that a business reorganisation plan is to fulfil for approval by the resolution authority pursuant to paragraph 7.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Subsection 4
+
+
+
+Bail-in tool: ancillary provisions
+
+

@@ -1,0 +1,50 @@
+Article 9
+Resolution plans
+1.   Member States shall ensure that resolution authorities, after having consulted the supervisory authority, draw up a resolution plan for each insurance or reinsurance undertaking that is not part of a group subject to resolution planning pursuant to Articles 10 and 11, and that meets the conditions laid down in paragraph 2 of this Article. The resolution plan shall provide for the resolution actions which the resolution authority may take where the insurance or reinsurance undertaking meets the conditions for resolution referred to in Article 19(1) or Article 20(3).
+2.   Resolution authorities shall draw up resolution plans for insurance and reinsurance undertakings for which they assess that it is more likely, when compared to other undertakings under their remit, that resolution action would be in the public interest as referred to in Article 19(5) in the event of the failure of the undertaking concerned, or for which the authorities assess that they perform a critical function. Those assessments shall take into account, as a minimum, the necessity to achieve resolution objectives and the undertaking’s size, business model, risk profile, interconnectedness, substitutability and in particular its cross-border activity.
+On the basis of the assessments referred to in the first subparagraph, resolution authorities shall ensure that at least 40 % of the Member State’s life insurance and reinsurance market and 40 % of its non-life insurance and reinsurance market – the life market share being based on gross technical provisions and the non-life market share being based on gross written premiums – are subject to resolution planning. In the calculation of the market coverage level, the subsidiary undertakings of a group may be taken into account where those subsidiary undertakings are covered in the group resolution plan.
+Small and non-complex undertakings shall not be subject to resolution planning requirements, except where the resolution authority considers that such an undertaking represents a particular risk at national or regional level.
+3.   Where the insurance or reinsurance undertaking concerned carries out significant cross-border activities, the home resolution authorities shall provide the draft resolution plan to the host supervisory or resolution authorities. The host supervisory or resolution authorities may examine the draft resolution plan to identify any actions in the draft resolution plan which may adversely impact policy holders, the real economy or the financial stability in their Member State and make recommendations to the home resolution authority with regard to those matters. The home resolution authority shall provide a reasoned reply as to its decision to follow or not the recommendations. Where the home resolution authority fails to properly take into account the recommendations of the host supervisory or resolution authority, the host supervisory or resolution authority may refer the matter to EIOPA in accordance with Article 31(2), point (c), of Regulation (EU) No 1094/2010.
+4.   When specifying the options for application of resolution tools and powers, resolution plans shall take into consideration relevant resolution scenarios, including the scenario where the failure of the insurance or reinsurance undertaking is idiosyncratic and the scenario where it occurs at a time of broader financial instability or system-wide events.
+Resolution plans shall not assume any extraordinary public financial support besides, where available, the use of insurance guarantee schemes or of any financing arrangements.
+5.   Resolution authorities shall review, and where necessary update, resolution plans at least every two years, and in any case:
+(a)
+after any material change to the legal or organisational structure of the insurance or reinsurance undertaking, to its business, or to its financial position, that could have a material effect on the effectiveness of the plan or would otherwise necessitate a revision of the resolution plan;
+(b)
+when a material change to the financial position of the insurance or reinsurance undertaking that could have a material effect on the effectiveness of the plan, or otherwise necessitate a revision of the resolution plan, becomes foreseeable.
+Insurance and reinsurance undertakings and supervisory authorities shall promptly communicate to the resolution authorities any event that necessitates a revision or update of the resolution plan.
+6.   Without prejudice to Article 4, resolution plans shall set out options for applying the resolution tools to, and exercising resolution powers with respect to, the insurance or reinsurance undertaking. Resolution plans shall contain, quantified whenever appropriate and possible, all of the following:
+(a)
+a summary of the key elements of the plan;
+(b)
+a summary of the material changes to the undertaking that have occurred since the latest resolution-related information was filed;
+(c)
+a demonstration of how critical functions and core business lines could be legally and economically separated, to the extent necessary, from other functions so as to ensure continuity upon the failure of the undertaking;
+(d)
+an identification of those assets which would be expected to qualify as collateral;
+(e)
+an estimation of the timeframe for executing each material aspect of the plan;
+(f)
+a detailed description of the assessment of resolvability, including the assessment of feasibility and credibility of winding-up under normal insolvency proceedings, carried out in accordance with Article 13;
+(g)
+a description of any measures required pursuant to Article 15 to address or remove impediments to resolvability identified as a result of the assessment carried out in accordance with Article 13;
+(h)
+an explanation as to how the resolution options could be financed without the assumption of any extraordinary public financial support besides, where available, the use of insurance guarantee schemes or of any financing arrangements;
+(i)
+a detailed description of the different resolution strategies that could be applied in light of the different possible scenarios and the applicable timescales;
+(j)
+a description of critical interdependencies;
+(k)
+an analysis of the impact of the resolution plan on the employees of the undertaking, including an assessment of any associated costs, and a description of envisaged procedures to consult staff during the resolution process, taking into account national systems for dialogue with social partners where applicable;
+(l)
+a plan for communicating with the media and the public;
+(m)
+a description of essential operations and systems for maintaining the continuous functioning of the undertaking’s operational processes;
+(n)
+where applicable, any opinion expressed by the undertaking in relation to the resolution plan.
+The summary of the key elements of the plan shall be disclosed to the insurance or reinsurance undertaking.
+7.   The resolution authority shall transmit the resolution plans and any changes thereto to the supervisory authorities concerned.
+8.   EIOPA shall develop draft regulatory technical standards to specify further the contents of the resolution plan.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 29 July 2026.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.
+9.   EIOPA shall, by 29 January 2027, issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to specify further the criteria for the identification of critical functions.

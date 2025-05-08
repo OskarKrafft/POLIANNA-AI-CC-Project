@@ -1,0 +1,34 @@
+Article 64
+Withdrawal of authorisation of a crypto-asset service provider
+1.   Competent authorities shall withdraw the authorisation of a crypto-asset service provider if the crypto-asset service provider does any of the following:
+(a)
+has not used its authorisation within 12 months of the date of the authorisation;
+(b)
+has expressly renounced its authorisation;
+(c)
+has not provided crypto-asset services for nine consecutive months;
+(d)
+has obtained its authorisation by irregular means, such as by making false statements in its application for authorisation;
+(e)
+no longer meets the conditions under which the authorisation was granted and has not taken the remedial action requested by the competent authority within the specified timeframe;
+(f)
+fails to have in place effective systems, procedures and arrangements to detect and prevent money laundering and terrorist financing in accordance with Directive (EU) 2015/849;
+(g)
+has seriously infringed this Regulation, including the provisions relating to the protection of holders of crypto-assets or of clients of crypto-asset service providers, or market integrity.
+2.   Competent authorities may withdraw authorisation as a crypto-asset service provider in any of the following situations:
+(a)
+the crypto-asset service provider has infringed the provisions of national law transposing Directive (EU) 2015/849;
+(b)
+the crypto-asset service provider has lost its authorisation as a payment institution or its authorisation as an electronic money institution, and that crypto-asset service provider has failed to remedy the situation within 40 calendar days.
+3.   Where a competent authority withdraws an authorisation as a crypto-asset service provider, it shall notify ESMA and the single points of contact of the host Member States without undue delay. ESMA shall make such information available in the register referred to in Article 109.
+4.   Competent authorities may limit the withdrawal of authorisation to a particular crypto-asset service.
+5.   Before withdrawing an authorisation as a crypto-asset service provider, competent authorities shall consult the competent authority of another Member State where the crypto-asset service provider concerned is:
+(a)
+a subsidiary of a crypto-asset service provider authorised in that other Member State;
+(b)
+a subsidiary of the parent undertaking of a crypto-asset service provider authorised in that other Member State;
+(c)
+controlled by the same natural or legal persons who control a crypto-asset service provider authorised in that other Member State.
+6.   Before withdrawing an authorisation as a crypto-asset service provider, competent authorities may consult the authority competent for supervising compliance of the crypto-asset service provider with the rules on anti-money laundering and counter-terrorist financing.
+7.   EBA, ESMA and any competent authority of a host Member State may at any time request that the competent authority of the home Member State examine whether the crypto-asset service provider still complies with the conditions under which the authorisation was granted, when there are grounds to suspect it may no longer be the case.
+8.   Crypto-asset service providers shall establish, implement and maintain adequate procedures ensuring the timely and orderly transfer of their clients’ crypto-assets and funds to another crypto-asset service provider when an authorisation is withdrawn.

@@ -1,0 +1,58 @@
+Article 76
+Operation of a trading platform for crypto-assets
+1.   Crypto-asset service providers operating a trading platform for crypto-assets shall lay down, maintain and implement clear and transparent operating rules for the trading platform. Those operating rules shall at least:
+(a)
+set the approval processes, including customer due diligence requirements commensurate to the money laundering or terrorist financing risk presented by the applicant in accordance with Directive (EU) 2015/849, that are applied before admitting crypto-assets to the trading platform;
+(b)
+define exclusion categories, if any, of the types of crypto-assets that are not admitted to trading;
+(c)
+set out the policies, procedures and the level of fees, if any, for the admission to trading;
+(d)
+set objective, non-discriminatory rules and proportionate criteria for participation in the trading activities, which promote fair and open access to the trading platform for clients willing to trade;
+(e)
+set non-discretionary rules and procedures to ensure fair and orderly trading and objective criteria for the efficient execution of orders;
+(f)
+set conditions for crypto-assets to remain accessible for trading, including liquidity thresholds and periodic disclosure requirements;
+(g)
+set conditions under which trading of crypto-assets can be suspended;
+(h)
+set procedures to ensure efficient settlement of both crypto-assets and funds.
+For the purposes of point (a) of the first subparagraph, the operating rules shall clearly state that a crypto-asset is not to be admitted to trading where no corresponding crypto-asset white paper has been published in the cases required by this Regulation.
+2.   Before admitting a crypto-asset to trading, crypto-asset service providers operating a trading platform for crypto-assets shall ensure that the crypto-asset complies with the operating rules of the trading platform and shall assess the suitability of the crypto-asset concerned. When assessing the suitability of a crypto-asset, the crypto-asset service providers operating a trading platform shall evaluate, in particular, the reliability of the technical solutions used and the potential association to illicit or fraudulent activities, taking into account the experience, track record and reputation of the issuer of those crypto-assets and its development team. The crypto-asset service providers operating a trading platform shall also assess the suitability of the crypto-assets other than asset-referenced tokens or e-money tokens referred to in Article 4(3), first subparagraph, points (a) to (d).
+3.   The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets.
+4.   The operating rules referred to in paragraph 1 shall be drawn up in an official language of the home Member State, or in a language customary in the sphere of international finance.
+If the operation of a trading platform for crypto-assets is provided in another Member State, the operating rules referred to in paragraph 1 shall be drawn up in an official language of the host Member State, or in a language customary in the sphere of international finance.
+5.   Crypto-asset service providers operating a trading platform for crypto-assets shall not deal on own account on the trading platform for crypto-assets they operate, including where they provide the exchange of crypto-assets for funds or other crypto-assets.
+6.   Crypto-asset service providers operating a trading platform for crypto-assets shall only be allowed to engage in matched principal trading where the client has consented to that process. Crypto-asset service providers shall provide the competent authority with information explaining their use of matched principal trading. The competent authority shall monitor the engagement of crypto-asset service providers in matched principal trading, and ensure that their engagement in matched principal trading continues to fall within the definition of such trading and does not give rise to conflicts of interest between the crypto-asset service providers and their clients.
+7.   Crypto-asset service providers operating a trading platform for crypto-assets shall have in place effective systems, procedures and arrangements to ensure that their trading systems:
+(a)
+are resilient;
+(b)
+have sufficient capacity to deal with peak order and message volumes;
+(c)
+are able to ensure orderly trading under conditions of severe market stress;
+(d)
+are able to reject orders that exceed pre-determined volume and price thresholds or are clearly erroneous;
+(e)
+are fully tested to ensure that the conditions under points (a) to (d) are met;
+(f)
+are subject to effective business continuity arrangements to ensure the continuity of their services if there is any failure of the trading system;
+(g)
+are able to prevent or detect market abuse;
+(h)
+are sufficiently robust to prevent their abuse for the purposes of money laundering or terrorist financing.
+8.   Crypto-asset service providers operating a trading platform for crypto-assets shall inform their competent authority when they identify cases of market abuse or attempted market abuse occurring on or through their trading systems.
+9.   Crypto-asset service providers operating a trading platform for crypto-assets shall make public any bid and ask prices and the depth of trading interests at those prices which are advertised for crypto-assets through their trading platforms. The crypto-asset service providers concerned shall make that information available to the public on a continuous basis during trading hours.
+10.   Crypto-asset service providers operating a trading platform for crypto-assets shall make public the price, volume and time of the transactions executed in respect of crypto-assets traded on their trading platforms. They shall make those details for all such transactions public as close to real-time as is technically possible.
+11.   Crypto-asset service providers operating a trading platform for crypto-assets shall make the information published in accordance with paragraphs 9 and 10 available to the public on a reasonable commercial basis and ensure non-discriminatory access to that information. That information shall be made available free of charge 15 minutes after publication in a machine-readable format and it shall remain published for at least two years.
+12.   Crypto-asset service providers operating a trading platform for crypto-assets shall initiate the final settlement of a crypto-asset transaction on the distributed ledger within 24 hours of the transaction being executed on the trading platform or, in the case of transactions settled outside the distributed ledger, by the closing of the day at the latest.
+13.   Crypto-asset service providers operating a trading platform for crypto-assets shall ensure that their fee structures are transparent, fair and non-discriminatory and that they do not create incentives to place, modify or cancel orders or to execute transactions in a way that contributes to disorderly trading conditions or market abuse as referred to in Title VI.
+14.   Crypto-asset service providers operating a trading platform for crypto-assets shall maintain resources and have back-up facilities in place to enable them to report to their competent authority at all times.
+15.   Crypto-asset service providers operating a trading platform shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in crypto-assets that are advertised through their systems, or give the competent authority access to the order book so that the competent authority is able to monitor the trading activity. That relevant data shall contain the characteristics of the order, including those that link an order with the executed transactions that stem from that order.
+16.   ESMA shall develop draft regulatory technical standards to further specify:
+(a)
+the manner in which transparency data, including the level of disaggregation of the data to be made available to the public as referred to in paragraphs 1, 9 and 10, is to be presented;
+(b)
+the content and format of order book records to be maintained as specified in paragraph 15.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

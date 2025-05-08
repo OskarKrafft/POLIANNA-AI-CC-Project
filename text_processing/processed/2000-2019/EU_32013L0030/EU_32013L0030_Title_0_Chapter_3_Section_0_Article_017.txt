@@ -1,0 +1,14 @@
+Article 17
+Independent verification
+1.   Member States shall ensure that operators and owners establish schemes for independent verification and that they prepare a description of such schemes, to be submitted pursuant to point (d) of Article 11(1) and included within the safety and environmental management system submitted pursuant to point (b) of Article 11(1). The description shall contain the information specified in Annex I, Part 5.
+2.   The results of the independent verification shall be without prejudice to the responsibility of the operator or the owner for the correct and safe functioning of the equipment and systems under verification.
+3.   The selection of the independent verifier and the design of schemes for independent verification shall meet the criteria of Annex V.
+4.   The schemes for independent verification shall be established:
+(a)
+in respect of installations, to give independent assurance that the safety and environmental critical elements identified in the risk assessment for the installation, as described in the report on major hazards, are suitable and that the schedule of examination and testing of the safety and environmental critical elements is suitable, up-to-date and operating as intended;
+(b)
+in respect of notifications of well operations, to give independent assurance that the well design and well control measures are suitable for the anticipated well conditions at all times.
+5.   Member States shall ensure that operators and owners respond to and take appropriate action based on the advice of the independent verifier.
+6.   Member States shall require operators and owners to ensure that advice received from the independent verifier pursuant to point (a) of paragraph 4 and records of action taken on the basis of such advice are made available to the competent authority and retained by the operator or the owner for a period of six months after completion of the offshore oil and gas operations to which they relate.
+7.   Member States shall require operators of wells to ensure that the findings and comments of the independent verifier pursuant to point (b) of paragraph 4 of this Article and their actions in response to those findings and comments are presented in the notification of well operations prepared in accordance with Article 15.
+8.   For a production installation, the verification scheme shall be in place prior to the completion of the design. For a non-production installation, the scheme shall be in place prior to the commencement of operations in the offshore waters of Member States.

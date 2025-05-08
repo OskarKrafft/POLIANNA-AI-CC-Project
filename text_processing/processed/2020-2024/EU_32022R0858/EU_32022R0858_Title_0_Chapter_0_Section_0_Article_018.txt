@@ -1,0 +1,11 @@
+Article 18
+Amendments to Directive 2014/65/EU
+Directive 2014/65/EU is amended as follows:
+(1)
+in Article 4(1), point (15) is replaced by the following:
+‘(15)
+‘financial instrument’ means those instruments specified in Section C of Annex I, including such instruments issued by means of distributed ledger technology;’;
+(2)
+in Article 93, the following paragraph is inserted:
+‘3a.   By 23 March 2023, Member States shall adopt and publish the provisions necessary to comply with point (15) of Article 4(1) and shall communicate them to the Commission. They shall apply those provisions from 23 March 2023.
+By way of derogation from the first subparagraph, Member States that cannot adopt provisions necessary to comply with point (15) of Article 4(1) by 23 March 2023, because their legislative procedures take more than nine months, shall benefit from an extension of a maximum of six months from 23 March 2023, provided that they notify the Commission of their need to make use of that extension by 23 March 2023.’.

@@ -1,0 +1,95 @@
+Article 94
+Powers of competent authorities
+1.   In order to perform their duties under Titles II to VI of this Regulation, competent authorities shall have, in accordance with national law, at least the following supervisory and investigative powers:
+(a)
+to require any person to provide information and documents which the competent authorities consider could be relevant for the performance of their duties;
+(b)
+to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(c)
+to prohibit the provision of crypto-asset services where they find that this Regulation has been infringed;
+(d)
+to disclose, or to require a crypto-asset servicer provider to disclose, all material information which might have an effect on the provision of the crypto-asset services concerned, in order to ensure the protection of the interests of clients, in particular retail holders, or the smooth operation of the market;
+(e)
+to make public the fact that a crypto-asset service provider fails to fulfil its obligations;
+(f)
+to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services where the competent authorities consider that the crypto-asset service provider’s situation is such that the provision of the crypto-asset service would be detrimental to the interests of clients, in particular retail holders;
+(g)
+to require the transfer of existing contracts to another crypto-asset service provider in cases where a crypto-asset service provider’s authorisation is withdrawn in accordance with Article 64, subject to the agreement of the clients and the crypto-asset service provider to which the contracts are to be transferred;
+(h)
+where there is a reason to assume that a person is providing crypto-asset services without authorisation, to order the immediate cessation of the activity without prior warning or imposition of a deadline;
+(i)
+to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens to amend their crypto-asset white paper or further amend their modified crypto-asset white paper, where they find that the crypto-asset white paper or the modified crypto-asset white paper does not contain the information required by Article 6, 19 or 51;
+(j)
+to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to amend their marketing communications, where they find that the marketing communications do not comply with the requirements set out in Article 7, 29 or 53 of this Regulation;
+(k)
+to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to include additional information in their crypto-asset white papers, where necessary for financial stability or the protection of the interests of the holders of crypto-assets, in particular retail holders;
+(l)
+to suspend an offer to the public or an admission to trading of crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(m)
+to prohibit an offer to the public or an admission to trading of crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;
+(n)
+to suspend, or require a crypto-asset service provider operating a trading platform for crypto-assets to suspend, trading of the crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(o)
+to prohibit trading of crypto-assets on a trading platform for crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;
+(p)
+to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(q)
+to require offerors, persons seeking admission to trading of crypto-assets, issuers of asset-referenced tokens or e-money tokens or relevant crypto-asset service providers to cease or suspend marketing communications for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
+(r)
+to make public the fact that an offeror, a person seeking admission to trading of a crypto-asset or an issuer of an asset-referenced token or e-money token, fails to fulfil its obligations under this Regulation;
+(s)
+to disclose, or to require the offeror, the person seeking admission to trading of a crypto-asset or the issuer of the asset-referenced token or e-money token, to disclose all material information which may have an effect on the assessment of the crypto-asset offered to the public or admitted to trading in order to ensure the protection of the interests of holders of crypto-assets, in particular retail holders, or the smooth operation of the market;
+(t)
+to suspend, or require the relevant crypto-asset service provider operating the trading platform for crypto-assets to suspend, the crypto-assets from trading where they consider that the situation of the offeror, the person seeking admission to trading of a crypto-asset or the issuer of an asset-referenced token or an e-money token is such that trading would be detrimental to the interests of the holders of crypto-assets, in particular retail holders;
+(u)
+where there is a reason to assume that a person is issuing asset-referenced tokens or e-money tokens without authorisation or a person is offering or seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens without a crypto-asset white paper notified in accordance with Article 8, to order the immediate cessation of the activity without prior warning or imposition of a deadline;
+(v)
+to take any type of measure to ensure that an offeror or a person seeking admission to trading of crypto-assets, an issuer of an asset-referenced token or an e-money token or a crypto-asset service provider comply with this Regulation including to require the cessation of any practice or conduct that the competent authorities consider contrary to this Regulation;
+(w)
+to carry out on-site inspections or investigations at sites other than the private residences of natural persons, and for that purpose to enter premises in order to access documents and other data in any form;
+(x)
+to outsource verifications or investigations to auditors or experts;
+(y)
+to require the removal of a natural person from the management body of an issuer of an asset-referenced token or of a crypto-asset service provider;
+(z)
+to request any person to take steps to reduce the size of its position or exposure to crypto-assets;
+(aa)
+where no other effective means are available to bring about the cessation of the infringement of this Regulation and in order to avoid the risk of serious harm to the interests of clients or holders of crypto-assets to take all necessary measures, including by requesting a third party or a public authority to implement such measures, to:
+(i)
+remove content or restrict access to an online interface or to order the explicit display of a warning to clients and holders of crypto-assets when they access an online interface;
+(ii)
+order a hosting service provider to remove, disable or restrict access to an online interface; or
+(iii)
+order domain registries or registrars to delete a fully qualified domain name and allow the competent authority concerned to register it;
+(ab)
+to require an issuer of an asset-referenced token or e-money token, in accordance with Article 23(4), 24(3) or 58(3), to introduce a minimum denomination amount or to limit the amount issued.
+2.   Supervisory and investigative powers exercised in relation to offerors, persons seeking admission to trading, issuers and crypto-asset service providers, are without prejudice to powers granted to the same or other supervisory authorities regarding those entities, including powers granted to relevant competent authorities under the provisions of national law transposing Directive 2009/110/EC and prudential supervisory powers granted to the ECB under Regulation (EU) No 1024/2013.
+3.   In order to fulfil their duties under Title VI, competent authorities shall have, in accordance with national law, at least the following supervisory and investigatory powers in addition to the powers referred to in paragraph 1:
+(a)
+to access any document and data in any form, and to receive or take a copy thereof;
+(b)
+to require or demand information from any person, including those who are successively involved in the transmission of orders or conduct of the operations concerned, as well as their principals, and if necessary, to summon and question any such person with a view to obtain information;
+(c)
+to enter the premises of natural and legal persons in order to seize documents and data in any form where a reasonable suspicion exists that documents or data relating to the subject matter of the inspection or investigation might be relevant to prove a case of insider dealing or market manipulation;
+(d)
+to refer matters for criminal prosecution;
+(e)
+to require, insofar as permitted by national law, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of an infringement and where such records may be relevant to the investigation of an infringement of Articles 88 to 91;
+(f)
+to request the freezing or sequestration of assets, or both;
+(g)
+to impose a temporary prohibition on the exercise of professional activity;
+(h)
+to take all necessary measures to ensure that the public is correctly informed, inter alia, by correcting false or misleading disclosed information, including by requiring an offeror, person seeking admission to trading or issuer or other person who has published or disseminated false or misleading information to publish a corrective statement.
+4.   Where necessary under national law, the competent authority may ask the relevant court to decide on the use of the powers referred to in paragraphs 1 and 2.
+5.   Competent authorities shall exercise the powers referred to in paragraphs 1 and 2 in any of the following ways:
+(a)
+directly;
+(b)
+in collaboration with other authorities, including authorities competent for the prevention and fight against money laundering and terrorist financing;
+(c)
+under their responsibility, by delegation to the authorities referred to in point (b);
+(d)
+by application to the competent courts.
+6.   Member States shall ensure that appropriate measures are in place so that competent authorities can exercise the supervisory and investigatory powers that are necessary to perform their duties.
+7.   A person making information available to the competent authority in accordance with this Regulation shall not be considered to infringe any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision, and shall not be subject to liability of any kind related to such notification.

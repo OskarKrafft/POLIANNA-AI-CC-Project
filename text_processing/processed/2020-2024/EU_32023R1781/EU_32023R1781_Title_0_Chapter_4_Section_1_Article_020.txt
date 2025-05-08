@@ -1,0 +1,17 @@
+Article 20
+Monitoring and anticipation
+1.   The Commission, in consultation with the European Semiconductor Board, shall carry out regular monitoring of the semiconductor value chain with a view to identifying factors that may disrupt, compromise or negatively affect the supply of semiconductors or trade in semiconductors. For the purposes of this Regulation, the monitoring shall consist of the following activities:
+(a)
+monitoring of early warning indicators identified pursuant to Article 19;
+(b)
+monitoring by Member States of the integrity of activities carried out by the key market actors identified pursuant to Article 21 and reporting by Member States on major events that may hinder the regular operations of such activities;
+(c)
+identifying best practices for preventive risk mitigation and increased transparency in the semiconductor sector.
+The Commission, after consulting the European Semiconductor Board, shall define the frequency of the monitoring on the basis of the needs of the semiconductor sector.
+The Commission shall coordinate the activities related to the monitoring of the semiconductor sector, on the basis of information collected pursuant to Article 19 or from other sources, such as international partners.
+2.   The Commission shall pay particular attention to SMEs to minimise administrative burden resulting from the information collection.
+3.   The Commission shall invite key market actors, a representative set of users of semiconductors from the critical sectors, representative organisations of the semiconductor value chain and other relevant stakeholders to provide information, on a voluntary basis, for the purpose of carrying out monitoring activities in accordance with paragraph 1, first subparagraph, point (a).
+4.   For the purposes of paragraph 1, first subparagraph, point (b), Member States may request information, on a voluntary basis, from key market actors where necessary and proportionate.
+5.   For the purposes of paragraph 3 national competent authorities shall establish and maintain a list of contacts of all relevant undertakings operating along the semiconductor supply chain established in their territory. That list shall be transmitted to the Commission. The Commission shall provide for a standardised format for the list of contacts with a view to ensuring interoperability.
+6.   Any acquired information pursuant to this Article shall be handled in accordance with Article 32.
+7.   On the basis of the information collected through the activities under paragraph 1, the Commission shall provide a report of the aggregated findings to the European Semiconductor Board in the form of regular updates. The European Semiconductor Board shall meet to assess the results of the monitoring. The Commission shall invite representative organisations of the semiconductor sector to such meetings. Where relevant, the Commission may invite key market actors, users of semiconductors from the critical sectors, authorities or representative organisations of partner third countries, and experts from academia and civil society to such meetings.

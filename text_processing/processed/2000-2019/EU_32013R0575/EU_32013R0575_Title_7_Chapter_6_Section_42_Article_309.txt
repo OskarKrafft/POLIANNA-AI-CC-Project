@@ -1,0 +1,11 @@
+Article 309
+Own funds requirements for pre-funded contributions to the default fund of a non-qualifying CCP and for unfunded contributions to a non-qualifying CCP
+1.   An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its pre-funded contributions to the default fund of a non-qualifying CCP (DFi) and from unfunded contributions (UCi) to such CCP:
+
+
+
+
+
+where c2·and μ are defined as in Article 308(3).
+2.   For the purpose of paragraph 1, unfunded contributions means contributions that an institution acting as a clearing member has contractually committed to provide to a CCP after the CCP has depleted its default fund to cover the losses it incurred following the default of one or more of its clearing members.
+3.   An institution shall calculate the risk weighted exposure amounts for exposures arising from an institution's pre-funded contribution for the purposes of Article 92(3) as the own funds requirement (Ki) determined in accordance with paragraph 1 multiplied by 12,5.

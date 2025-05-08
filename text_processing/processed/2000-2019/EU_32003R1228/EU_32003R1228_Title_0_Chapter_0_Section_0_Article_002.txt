@@ -1,0 +1,57 @@
+Article 2
+Definitions
+1.   For the purpose of this Regulation, the definitions contained in Article 2 of Directive 2003/54/EC of the European Parliament and of the Council of 26 June 2003 concerning common rules for the internal market in electricity and repealing Directive 96/92/EC (6) shall apply with the exception of the definition of ‘interconnector’ which shall be replaced by the following:
+
+
+‘interconnector’
+ means a transmission line which crosses or spans a border between Member States and which connects the national transmission systems of the Member States;.
+2.   The following definitions shall also apply:
+
+
+(a)
+   
+‘regulatory authorities’
+ means the regulatory authorities referred to in Article 23(1) of Directive 2003/54/EC;
+(a)
+
+
+(b)
+   
+‘cross-border flow’
+ means a physical flow of electricity on a transmission network of a Member State that results from the impact of the activity of producers and/or consumers outside of that Member State on its transmission network. If transmission networks of two or more Member States form part, entirely or partly, of a single control block, for the purpose of the inter-transmission system operator (TSO) compensation mechanism referred to in Article 3 only, the control block as a whole shall be considered as forming part of the transmission network of one of the Member States concerned, in order to avoid flows within control blocks being considered as cross-border flows and giving rise to compensation payments under Article 3. The regulatory authorities of the Member States concerned may decide which of the Member States concerned shall be the one of which the control block as a whole shall be considered to form part of;
+(b)
+
+
+(c)
+   
+‘congestion’
+ means a situation in which an interconnection linking national transmission networks, cannot accommodate all physical flows resulting from international trade requested by market participants, because of a lack of capacity of the interconnectors and/or the national transmission systems concerned;
+(c)
+
+
+(d)
+   
+‘declared export’
+ of electricity means the dispatch of electricity in one Member State on the basis of an underlying contractual arrangement to the effect that the simultaneous corresponding take-up (‘declared import’) of electricity will take place in another Member State or a third country;
+(d)
+
+
+(e)
+   
+‘declared transit’
+ of electricity means a circumstance where a ‘declared export’ of electricity occurs and where the nominated path for the transaction involves a country in which neither the dispatch nor the simultaneous corresponding take-up of the electricity will take place;
+(e)
+
+
+(f)
+   
+‘declared import’
+ of electricity means the take-up of electricity in a Member State or a third country simultaneously with the dispatch of electricity (‘declared export’) in another Member State;
+(f)
+
+
+(g)
+   
+‘new interconnector’
+ means an interconnector not completed by the date of entry into force of this Regulation.
+(g)

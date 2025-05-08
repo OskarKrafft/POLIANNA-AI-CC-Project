@@ -1,0 +1,33 @@
+Article 242
+Definitions
+For the purposes of this Chapter, the following definitions shall apply:
+(1)
+‧excess spread‧ means finance charge collections and other fee income received in respect of the securitised exposures net of costs and expenses;
+(2)
+‧clean-up call option‧ means a contractual option for the originator to repurchase or extinguish the securitisation positions before all of the underlying exposures have been repaid, when the amount of outstanding exposures falls below a specified level;
+(3)
+‧liquidity facility‧ means the securitisation position arising from a contractual agreement to provide funding to ensure timeliness of cash flows to investors;
+(4)
+‧KIRB‧ means 8 % of the risk-weighted exposure amounts that would be calculated under Chapter 3 in respect of the securitised exposures, had they not been securitised, plus the amount of expected losses associated with those exposures calculated under that Chapter;
+(5)
+‧ratings based method‧ means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Article 261;
+(6)
+‧supervisory formula method‧ means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Article 262;
+(7)
+‧unrated position‧ means a securitisation position which does not have an eligible credit assessment by an ECAI as referred to in Section 4;
+(8)
+‧rated position‧ means a securitisation position which has an eligible credit assessment by an ECAI as referred to in Section 4;
+(9)
+‧asset-backed commercial paper (ABCP) programme‧ means a programme of securitisations the securities issued by which predominantly take the form of commercial paper with an original maturity of one year or less;
+(10)
+‧traditional securitisation‧ means a securitisation involving the economic transfer of the exposures being securitised. This shall be accomplished by the transfer of ownership of the securitised exposures from the originator institution to an SSPE or through sub-participation by an SSPE. The securities issued do not represent payment obligations of the originator institution;
+(11)
+‧synthetic securitisation‧ means a securitisation where the transfer of risk is achieved by the use of credit derivatives or guarantees, and the exposures being securitised remain exposures of the originator institution;
+(12)
+‧revolving exposure‧ means an exposure whereby customers' outstanding balances are permitted to fluctuate based on their decisions to borrow and repay, up to an agreed limit;
+(13)
+‧revolving securitisation‧ means a securitisation where the securitisation structure itself revolves by exposures being added to or removed from the pool of exposures irrespective of whether the exposures revolve or not;
+(14)
+‧early amortisation provision‧ means a contractual clause in a securitisations of revolving exposures or a revolving securitisation which requires, on the occurrence of defined events, investors' positions to be redeemed before the originally stated maturity of the securities issued;
+(15)
+‧first loss tranche‧ means the most subordinated tranche in a securitisation that is the first tranche to bear losses incurred on the securitised exposures and thereby provides protection to the second loss and, where relevant, higher ranking tranches.

@@ -1,0 +1,20 @@
+Article 53
+Coordinated timing of assignments
+1.   Member States shall cooperate in order to coordinate the use of harmonised radio spectrum for electronic communications networks and services in the Union taking due account of the different national market situations. This may include identifying one, or, where appropriate, several common dates by which the use of specific harmonised radio spectrum is to be authorised.
+2.   Where harmonised conditions have been set by technical implementing measures in accordance with Decision No 676/2002/EC in order to enable the radio spectrum use for wireless broadband networks and services, Member States shall allow the use of that radio spectrum, as soon as possible and at the latest 30 months after the adoption of that measure, or as soon as possible after the lifting of any decision to allow alternative use on an exceptional basis pursuant to Article 45(3) of this Directive. This is without prejudice to Decision (EU) 2017/899 and to the Commission’s right of initiative to propose legislative acts.
+3.   A Member State may delay the deadline provided for in paragraph 2 of this Article for a specific band under the following circumstances:
+(a)
+to the extent justified by a restriction to the use of that band based on the general interest objective provided in point (a) or (d) of Article 45(5);
+(b)
+in the case of unresolved cross-border coordination issues resulting in harmful interference with third countries, provided the affected Member State has, where appropriate, requested Union assistance pursuant to Article 28(5);
+(c)
+safeguarding national security and defence; or
+(d)
+force majeure.
+The Member State concerned shall review such a delay at least every two years.
+4.   A Member State may delay the deadline provided for in paragraph 2 for a specific band to the extent necessary and up to 30 months in the case of:
+(a)
+unresolved cross-border coordination issues resulting in harmful interference between Member States, provided that the affected Member State takes all necessary measures in a timely manner pursuant to Article 28(3) and (4);
+(b)
+the need to ensure, and the complexity of ensuring, the technical migration of existing users of that band.
+5.   In the event of a delay under paragraph 3 or 4, the Member State concerned shall inform the other Member States and the Commission in a timely manner, stating the reasons.

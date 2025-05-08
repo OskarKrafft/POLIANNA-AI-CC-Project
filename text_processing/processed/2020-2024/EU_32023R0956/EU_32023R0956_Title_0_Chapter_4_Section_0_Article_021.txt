@@ -1,0 +1,6 @@
+Article 21
+Price of CBAM certificates
+1.   The Commission shall calculate the price of CBAM certificates as the average of the closing prices of EU ETS allowances on the auction platform, in accordance with the procedures laid down in Regulation (EU) No 1031/2010, for each calendar week.
+For those calendar weeks in which no auctions are scheduled on the auction platform, the price of CBAM certificates shall be the average of the closing prices of EU ETS allowances of the last week in which auctions on the auction platform took place.
+2.   The Commission shall publish the average price, as referred to in the second subparagraph of paragraph 1, on its website or in any other appropriate manner on the first working day of the following calendar week. That price shall apply from the first working day following that of its publication to the first working day of the following calendar week.
+3.   The Commission is empowered to adopt implementing acts on the application of the methodology provided for in paragraph 1 of this Article to calculate the average price of CBAM certificates and the practical arrangements for the publication of that price. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 29(2).

@@ -1,0 +1,32 @@
+Article 142
+The early-detection and exclusion system
+1.   Information exchanged within the early-detection and exclusion system referred to in Article 135 shall be centralised in a database set up by the Commission (‘the database’) and shall be managed in accordance with the right to privacy and other rights provided for in Regulation (EC) No 45/2001.
+Information on cases of early detection, exclusion and/or financial penalties shall be entered in the database by the authorising officer responsible after notifying the person or entity concerned, as referred to in Article 135(2). Such notification may be deferred in exceptional circumstances, where there are compelling legitimate grounds to preserve the confidentiality of an investigation or of national judicial proceedings, until such compelling legitimate grounds to preserve the confidentiality cease to exist.
+In accordance with Regulation (EC) No 45/2001, the Commission shall upon request inform the person or entity subject to the early-detection and exclusion system, as referred to in Article 135(2), of the data stored in the database relating to that person or entity.
+The information contained in the database shall be updated, where appropriate, following a rectification, an erasure or any modification of data. It shall only be published in accordance with Article 140.
+2.   The early-detection and exclusion system shall be based on facts and findings as referred to in the fourth subparagraph of Article 136(2) and on the transmission of information to the Commission, in particular, by:
+(a)
+EPPO in respect of those Member States participating in enhanced cooperation pursuant to Regulation (EU) 2017/1939, or OLAF in accordance with Regulation (EU, Euratom) No 883/2013 where an investigation completed or in progress shows that it might be appropriate to take precautionary measures or actions to protect the financial interests of the Union, with due regard to the respect for procedural and fundamental rights, and to the protection of whistle-blowers;
+(b)
+an authorising officer of the Commission, of a European office set up by the Commission or of an executive agency;
+(c)
+a Union institution, a European office, an agency other than those referred to in point (b) of this paragraph, or a body or a person entrusted with implementation of CFSP actions;
+(d)
+entities implementing the budget in accordance with Article 63, in cases of detected fraud and/or irregularity and their follow up, where the transmission of information is required by sector-specific rules;
+(e)
+persons or entities implementing Union funds pursuant to point (c) of the first subparagraph of Article 62(1), in cases of detected fraud and/or irregularity and their follow up.
+3.   Except where information is to be submitted in accordance with sector-specific rules, the information to be transmitted pursuant to paragraph 2 of this Article shall include:
+(a)
+the identification of the entity or person concerned;
+(b)
+a summary of the risks detected or the facts in question;
+(c)
+information that could assist the authorising officer in carrying out the verification referred to in paragraph 4 of this Article or in taking a decision on exclusion as referred to in Article 136(1) or (2), or a decision to impose a financial penalty as referred to in Article 138;
+(d)
+where applicable, information on any special measures necessary to ensure the confidentiality of the information transmitted, including measures for the safeguarding of evidence to protect the investigation or the national judicial proceedings.
+4.   The Commission shall without delay transmit the information referred to in paragraph 3 to its authorising officers and those of its executive agencies, all other Union institutions, Union bodies, European offices and agencies through the database referred to in paragraph 1 in order to allow them to carry out the necessary verification in respect of their ongoing award procedures and existing legal commitments.
+In carrying out that verification, the authorising officer responsible shall exercise his or her powers as set out in Article 74 and shall not go beyond what is foreseen in the terms and conditions of the award procedure and legal commitments.
+The retention period for the information related to the early detection transmitted in accordance with paragraph 3 of this Article shall not exceed one year. If, during that period, the authorising officer responsible requests the panel to issue a recommendation in a case concerning exclusion or financial penalties, the retention period may be extended until such time as the authorising officer responsible has taken a decision.
+5.   All persons and entities involved in budget implementation in accordance with Article 62 shall be granted access by the Commission to the information on decisions on exclusion pursuant to Article 136 to enable them to verify whether there is an exclusion in the system with a view to taking this information into account, as appropriate and on their own responsibility, when awarding contracts in budget implementation.
+6.   As part of the annual report of the Commission to the European Parliament and to the Council pursuant to Article 325(5) TFEU, the Commission shall provide aggregate information on the decisions taken by the authorising officers under Articles 135 to 142 of this Regulation. That report shall also provide further information on any decisions taken by the authorising officers pursuant to point (b) of the first subparagraph of Article 136(6) of this Regulation and Article 140(2) of this Regulation and on any decisions by the authorising officers to deviate from the recommendation of the panel pursuant to the third subparagraph of Article 143(6) of this Regulation.
+The information referred to in the first subparagraph of this paragraph shall be provided with due regard to confidentiality requirements and shall, in particular, not allow for the identification of the person or entity concerned, as referred to in Article 135(2).

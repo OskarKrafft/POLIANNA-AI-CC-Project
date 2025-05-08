@@ -1,0 +1,42 @@
+Article 318
+Calculation of net loss and gross loss
+1.   For the purposes of Article 316(1), institutions shall calculate for each operational risk event a net loss as follows:
+
+net loss = gross loss – recovery
+
+where:
+gross loss
+= a loss linked to an operational risk event before recoveries of any type;
+recovery
+= one or multiple independent occurrences, related to the original operational risk event, separated in time, in which funds or inflows of economic benefits are received from a third party.
+Institutions shall maintain on an ongoing basis an updated calculation of the net loss for each specific operational risk event. To that end, institutions shall update the net loss calculation based on the observed or estimated variations of the gross loss and the recovery for each of the last 10 financial years. Where losses, linked to the same operational risk event, are observed during multiple financial years within that 10-year time window, the institution shall calculate and maintain updated:
+(a)
+the net loss, gross loss and recovery for each of the financial years of the 10-year time window where that net loss, gross loss and recovery were recorded;
+(b)
+the aggregated net loss, aggregated gross loss and aggregated recovery of all relevant financial years of the 10-year time window.
+2.   For the purposes of paragraph 1, the following items shall be included in the gross loss computation:
+(a)
+direct charges, such as impairments, settlements, amounts paid to make good the damage, penalties and interest in arrears and legal fees, to the institution’s profit and loss accounts and write-downs due to the operational risk event, including:
+(i)
+where the operational risk event relates to market risk, the costs to unwind market positions in the recorded loss amount of the operational risk items;
+(ii)
+where payments relate to failures or inadequate processes of the institution, penalties, interest charges, late-payment charges, legal fees and, with the exclusion of the tax amount originally due, tax, unless that amount is already included under point (e);
+(b)
+costs incurred as a consequence of the operational risk event, including external expenses with a direct link to the operational risk event and costs of repair or replacement, incurred to restore the position that was prevailing before the operational risk event occurred;
+(c)
+provisions or reserves accounted for in the profit and loss accounts against the potential operational loss impact, including those from misconduct events;
+(d)
+losses stemming from operational risk events with a definitive financial impact which are temporarily booked in transitory or suspense accounts and are not yet reflected in the profit and loss accounts (“pending losses”);
+(e)
+negative economic impacts booked in a financial year and which are due to operational risk events impacting the cash flows or financial statements of previous financial years (“timing losses”).
+For the purposes of the first subparagraph, point (d), material pending losses shall be included in the loss data set within a time period commensurate with the size and age of the pending item.
+For the purposes of the first subparagraph, point (e), the institution shall include in the loss data set material timing losses where those losses are due to operational risk events that span more than one financial year. Institutions shall include in the recorded loss amount of the operational risk item of a financial year losses that are due to the correction of booking errors that occurred in any previous financial year, even where those losses do not directly affect third parties. Where there are material timing losses and the operational risk event affects directly third parties, including customers, providers and employees of the institution, the institution shall also include the official restatement of previously issued financial reports.
+3.   For the purposes of paragraph 1, the following items shall be excluded from the gross loss computation:
+(a)
+costs of general maintenance of contracts on property, plant or equipment;
+(b)
+internal or external expenditure to enhance the business after the operational risk losses, including upgrades, improvements, risk assessment initiatives and enhancements;
+(c)
+insurance premiums.
+4.   For the purposes of paragraph 1, recoveries shall be used to reduce gross losses only where the institution has received payment. Receivables shall not be considered as recoveries.
+Upon request from the competent authority, the institution shall provide all documentation needed to verify the payments received and factored in the calculation of the net loss of an operational risk event.

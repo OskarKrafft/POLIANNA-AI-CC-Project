@@ -1,0 +1,45 @@
+Article 17
+New interconnectors
+1.   New direct current interconnectors may, upon request, be exempted, for a limited period of time, from the provisions of Article 16(6) of this Regulation and Articles 9, 32 and Article 37(6) and (10) of Directive 2009/72/EC under the following conditions:
+(a)
+the investment must enhance competition in electricity supply;
+(b)
+the level of risk attached to the investment is such that the investment would not take place unless an exemption is granted;
+(c)
+the interconnector must be owned by a natural or legal person which is separate at least in terms of its legal form from the system operators in whose systems that interconnector will be built;
+(d)
+charges are levied on users of that interconnector;
+(e)
+since the partial market opening referred to in Article 19 of Directive 96/92/EC of the European Parliament and of the Council of 19 December 1996 concerning common rules for the internal market in electricity (10), no part of the capital or operating costs of the interconnector has been recovered from any component of charges made for the use of transmission or distribution systems linked by the interconnector; and
+(f)
+the exemption must not be to the detriment of competition or the effective functioning of the internal market in electricity, or the efficient functioning of the regulated system to which the interconnector is linked.
+2.   Paragraph 1 shall also apply, in exceptional cases, to alternating current interconnectors provided that the costs and risks of the investment in question are particularly high when compared with the costs and risks normally incurred when connecting two neighbouring national transmission systems by an alternating current interconnector.
+3.   Paragraph 1 shall also apply to significant increases of capacity in existing interconnectors.
+4.   The decision on the exemption under paragraphs 1, 2 and 3 shall be taken on a case-by-case basis by the regulatory authorities of the Member States concerned. An exemption may cover all or part of the capacity of the new interconnector, or of the existing interconnector with significantly increased capacity.
+Within two months from the date on which the request for exemption was received by the last of the regulatory authorities concerned, the Agency may submit an advisory opinion to those regulatory authorities which could provide a basis for their decision.
+In deciding to grant an exemption, consideration shall be given, on a case-by-case basis, to the need to impose conditions regarding the duration of the exemption and non-discriminatory access to the interconnector. When deciding those conditions, account shall, in particular, be taken of additional capacity to be built or the modification of existing capacity, the time-frame of the project and national circumstances.
+Before granting an exemption, the regulatory authorities of the Member States concerned shall decide upon the rules and mechanisms for management and allocation of capacity. Congestion-management rules shall include the obligation to offer unused capacity on the market and users of the facility shall be entitled to trade their contracted capacities on the secondary market. In the assessment of the criteria referred to in points (a), (b) and (f) of paragraph 1, the results of the capacity-allocation procedure shall be taken into account.
+Where all the regulatory authorities concerned have reached agreement on the exemption decision within six months, they shall inform the Agency of that decision.
+The exemption decision, including any conditions referred to in the second subparagraph of this paragraph, shall be duly reasoned and published.
+5.   The decision referred to in paragraph 4 shall be taken by the Agency:
+(a)
+where all the regulatory authorities concerned have not been able to reach an agreement within six months from the date the exemption was requested before the last of those regulatory authorities; or
+(b)
+upon a joint request from the regulatory authorities concerned.
+Before taking such a decision, the Agency shall consult the regulatory authorities concerned and the applicants.
+6.   Notwithstanding paragraphs 4 and 5, Member States may provide for the regulatory authority or the Agency, as the case may be, to submit, for formal decision, to the relevant body in the Member State, its opinion on the request for an exemption. That opinion shall be published together with the decision.
+7.   A copy of every request for exemption shall be transmitted for information without delay by the regulatory authorities to the Agency and to the Commission on receipt. The decision shall be notified, without delay, by the regulatory authorities concerned or by the Agency (notifying bodies), to the Commission, together with all the relevant information with respect to the decision. That information may be submitted to the Commission in aggregate form, enabling the Commission to reach a well-founded decision. In particular, the information shall contain:
+(a)
+the detailed reasons on the basis of which the exemption was granted or refused, including the financial information justifying the need for the exemption;
+(b)
+the analysis undertaken of the effect on competition and the effective functioning of the internal market in electricity resulting from the grant of the exemption;
+(c)
+the reasons for the time period and the share of the total capacity of the interconnector in question for which the exemption is granted; and
+(d)
+the result of the consultation of the regulatory authorities concerned.
+8.   Within a period of two months from the day following receipt of notification under paragraph 7, the Commission may take a decision requesting the notifying bodies to amend or withdraw the decision to grant an exemption. That two-month period may be extended by an additional period of two months where further information is sought by the Commission. That additional period shall begin on the day following receipt of the complete information. The initial two-month period may also be extended by consent of both the Commission and the notifying bodies.
+When the requested information is not provided within the period set out in the request, the notification shall be deemed to be withdrawn unless, before the expiry of that period, either the period is extended by consent of both the Commission and the notifying bodies, or the notifying bodies, in a duly reasoned statement, inform the Commission that they consider the notification to be complete.
+The notifying bodies shall comply with a Commission decision to amend or withdraw the exemption decision within one month and shall inform the Commission accordingly.
+The Commission shall preserve the confidentiality of commercially sensitive information.
+The Commission's approval of an exemption decision shall expire two years after the date of its adoption in the event that construction of the interconnector has not yet started by that date, and five years after the date of its adoption if the interconnector has not become operational by that date, unless the Commission decides that any delay is due to major obstacles beyond the control of the person to whom the exemption has been granted.
+9.   The Commission may adopt Guidelines for the application of the conditions laid down in paragraph 1 of this Article and set out the procedure to be followed for the application of paragraphs 4, 7 and 8 of this Article. Those measures, designed to amend non-essential elements of this Regulation by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 23(2).

@@ -1,0 +1,26 @@
+Article 76
+Reporting to the Commission
+1.   Member States shall make publicly available in an aggregated form for each calendar year and in the format established by the Commission in the implementing act adopted pursuant to paragraph 5, the following data on portable batteries, LMT batteries, SLI batteries, industrial batteries and electric vehicle batteries, according to battery categories and their chemistries:
+(a)
+the amount of batteries made available on the market for the first time in a Member State, including those incorporated in appliances, vehicles or industrial products, but excluding batteries that have left the territory of that Member State in that year, before being sold to end-users;
+(b)
+the amount of waste batteries collected in accordance with Articles 59, 60 and 61, and collection rates calculated on the basis of the methodology set out in Annex XI;
+(c)
+the amount of waste industrial batteries and the amount of waste electric vehicle batteries collected and delivered to permitted facilities for preparation for re-use or preparation for repurposing;
+(d)
+the values for the recycling efficiencies achieved as referred to in Part B of Annex XII and the values for the recovery of materials achieved as referred to in Part C of Annex XII, regarding the batteries collected in that Member State.
+Member States shall make those data available within 18 months of the end of the reporting year for which the data are collected. They shall make those data public electronically in the format established by the Commission in accordance with paragraph 5, using easily accessible data services. The data shall be machine readable, sortable and searchable, and shall respect open standards for third party use. Member States shall notify the Commission when the data referred to in the first subparagraph are made available.
+The first reporting period shall concern the first full calendar year after the entry into force of the implementing act that establishes the format for reporting to the Commission, in accordance with paragraph 5.
+In addition to the obligations under Directives 2000/53/EC and 2012/19/EU, data referred to in paragraph 1, first subparagraph, points (a) to (d), of this Article shall include batteries incorporated into vehicles and appliances, and waste batteries removed from those vehicles and appliances in accordance with Article 65.
+2.   Reporting on the recycling efficiency and recovery of materials referred to in paragraph 1, first subparagraph, point (d), shall cover all individual steps of recycling and all corresponding output fractions.
+3.   The data made available by Member States in accordance with this Article shall be accompanied by a quality check report to be presented in the format established by the Commission in accordance with paragraph 5.
+4.   The Commission shall collect and review the information made available in accordance with this Article. The Commission shall publish a report assessing the organisation of the data collection, the sources of data and the methodology used in Member States as well as the completeness, reliability, timeliness and consistency of those data. That assessment may include specific recommendations for improvement. The report shall be drawn up within 6 months of the first reporting of the data by Member States and every four years thereafter.
+5.   The Commission shall, by 18 August 2025, adopt implementing acts laying down the format for the data and information to be reported to the Commission, as well as assessment methods and operational conditions related to collection and treatment of waste batteries, for the purpose of paragraphs 1 and 4 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).
+
+CHAPTER IX
+
+
+
+Digital battery passport
+
+

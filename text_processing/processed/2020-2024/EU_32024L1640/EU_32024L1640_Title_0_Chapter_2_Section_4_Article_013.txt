@@ -1,0 +1,36 @@
+Article 13
+Procedure for the verification and mutual recognition of a legitimate interest to access beneficial ownership information
+1.   Member States shall ensure that entities in charge of the central registers as referred to in Article 10 take measures to verify the existence of the legitimate interest referred to in Article 12 on the basis of documents, information and data obtained from the natural or legal person seeking access to the central register (‘applicant’) and, where necessary, information available to them pursuant to Article 12(3).
+2.   The existence of a legitimate interest to access beneficial ownership information shall be determined by taking into consideration:
+(a)
+the function or occupation of the applicant; and
+(b)
+with the exception of persons referred to in Article 12(2), first subparagraph, points (a) and (b), the connection with the specific legal entities or legal arrangements whose information is being sought.
+3.   Member States shall ensure that where access to information is requested by a person whose legitimate interest in accessing beneficial ownership information under one of the categories set out in Article 12(2), first subparagraph, has already been verified by the central register of another Member State, the verification of the condition laid down in paragraph 2, point (a), of this Article is satisfied by collecting proof of the legitimate interest issued by the central register of that other Member State.
+Member States may apply the procedure set out in the first subparagraph of this paragraph to the additional categories identified by other Member States pursuant to Article 12(2), second subparagraph.
+4.   Member States shall ensure that entities in charge of central registers verify the identity of applicants whenever they access the registers. To that end, Member States shall ensure that sufficient processes are available for the verification of the identity of the applicant, including by allowing the use of electronic identification means and relevant qualified trust services as set out in Regulation (EU) No 910/2014 of the European Parliament and of the Council (39).
+5.   For the purposes of paragraph 2, point (a), Member States shall ensure that central registers have mechanisms in place to allow repeated access to persons with a legitimate interest to access beneficial ownership information without the need to assess their function or occupation whenever accessing the information.
+6.   From 10 November 2026, Member States shall ensure that the entities in charge of central registers conduct the verification referred to in paragraph 1 and provide a response to the applicant within 12 working days.
+By way of derogation from the first subparagraph, in the case of a sudden high number of requests for accessing beneficial ownership information pursuant to this Article, the deadline for providing a response to the applicant may be extended by 12 working days. If, after the extension has lapsed, the number of incoming requests continues to be high, that deadline may be extended by additional 12 working days.
+Member States shall notify the Commission of any extension as referred to in the second subparagraph in a timely manner.
+Where entities in charge of central registers decide to grant access to beneficial ownership information, they shall issue a certificate granting access for 3 years. Entities in charge of central registers shall respond to any subsequent request to access beneficial ownership information by the same person within 7 working days.
+7.   Member States shall ensure that entities in charge of central registers shall only refuse a request to access beneficial ownership information on one of the following grounds:
+(a)
+the applicant has not provided the necessary information or documents pursuant to paragraph 1;
+(b)
+a legitimate interest to access beneficial ownership information has not been demonstrated;
+(c)
+where on the basis of information in its possession, the entity in charge of the central register has a reasonable concern that the information will not be used for the purposes for which it was requested or that the information will be used for purposes that are not connected to the prevention of money laundering, its predicate offences or terrorist financing;
+(d)
+one or more of the situations referred to in Article 15 applies;
+(e)
+in the cases referred to in paragraph 3, the legitimate interest to access beneficial ownership information granted by the central register of another Member State does not extend to the purposes for which the information is sought;
+(f)
+where the applicant is in a third country and responding to the request to access information would not comply with the provisions of Chapter V of Regulation (EU) 2016/679.
+Member States shall ensure that entities in charge of central registers consider requesting additional information or documents from the applicant prior to refusing a request for access on the grounds listed in points (a), (b), (c) and (e) of the first subparagraph. Where entities in charge of central registers request additional information, the deadline for providing a response shall be extended by 7 working days.
+8.   Where entities in charge of central registers refuse to provide access to information pursuant to paragraph 7, Member States shall require that they inform the applicant of the reasons for refusal and of their right of redress. The entity in charge of the central register shall document the steps taken to assess the request and to obtain additional information pursuant to paragraph 7, second subparagraph.
+Member States shall ensure that entities in charge of central registers are able to revoke access where any of the grounds listed in paragraph 7 arise or become known to the entity in charge of the central register after such access has been granted, including, where relevant, on the basis of revocation by a central register in another Member State.
+9.   Member States shall ensure that they have in place judicial or administrative remedies for challenging the refusal or revocation of access pursuant to paragraph 7.
+10.   Member States shall ensure that entities in charge of central registers are able to repeat the verification of the function or occupation identified under paragraph 2, point (a), from time-to-time and in any case not earlier than 12 months after granting access, unless the entity in charge of the central register has reasonable grounds to believe that the legitimate interest no longer exists.
+11.   Member States shall require persons who have been granted access pursuant to this Article to notify the entity in charge of the central register of changes that may trigger the cessation of a valid legitimate interest, including changes concerning their function or occupation.
+12.   Member States may choose to make beneficial ownership information held in their central registers available to the applicants upon payment of a fee, which shall be limited to what is strictly necessary to cover the costs of ensuring the quality of the information held in those registers and of making the information available. Those fees shall be established in such a way so as not to undermine the effective access to the information held in the central registers.

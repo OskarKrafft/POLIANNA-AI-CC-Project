@@ -1,0 +1,7 @@
+Article 32
+Vehicle numbering system
+1.   Any vehicle placed in service in the Community rail system shall carry a European vehicle number (EVN) assigned when the first authorisation for placing in service is granted.
+2.   The applicant for the first authorisation shall be responsible for marking the vehicle in question with the EVN assigned to it.
+3.   The EVN shall be specified in the TSI on operation and traffic management.
+4.   A vehicle shall be assigned an EVN only once, unless otherwise specified in the TSI on operation and traffic management.
+5.   Notwithstanding paragraph 1, in the case of vehicles operated or intended to be operated from or to third countries the track gauge of which is different from that of the main rail network within the Community, Member States may accept vehicles clearly identified according to a different coding system.

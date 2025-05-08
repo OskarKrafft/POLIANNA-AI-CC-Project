@@ -1,0 +1,16 @@
+Article 19
+Obligations of public sector bodies, the Commission, the European Central Bank and Union bodies
+1.   A public sector body, the Commission, the European Central Bank or a Union body receiving data pursuant to a request made under Article 14 shall:
+(a)
+not use the data in a manner incompatible with the purpose for which they were requested;
+(b)
+have implemented technical and organisational measures that preserve the confidentiality and integrity of the requested data and the security of the data transfers, in particular personal data, and safeguard the rights and freedoms of data subjects;
+(c)
+erase the data as soon as they are no longer necessary for the stated purpose and inform the data holder and individuals or organisations that received the data pursuant to Article 21(1) without undue delay that the data have been erased, unless archiving of the data is required in accordance with Union or national law on public access to documents in the context of transparency obligations.
+2.   A public sector body, the Commission, the European Central Bank, a Union body or a third party receiving data under this Chapter shall not:
+(a)
+use the data or insights about the economic situation, assets and production or operation methods of the data holder to develop or enhance a connected product or related service that competes with the connected product or related service of the data holder;
+(b)
+share the data with another third party for any of the purposes referred to in point (a).
+3.   Disclosure of trade secrets to a public sector body, the Commission, the European Central Bank or a Union body shall be required only to the extent that it is strictly necessary to achieve the purpose of a request under Article 15. In such a case, the data holder or, where they are not the same person, the trade secret holder shall identify the data which are protected as trade secrets, including in the relevant metadata. The public sector body, the Commission, the European Central Bank or the Union body shall, prior to the disclosure of trade secrets, take all necessary and appropriate technical and organisational measures to preserve the confidentiality of the trade secrets, including, as appropriate, the use of model contractual terms, technical standards and the application of codes of conduct.
+4.   A public sector body, the Commission, the European Central Bank or a Union body shall be responsible for the security of the data it receives.

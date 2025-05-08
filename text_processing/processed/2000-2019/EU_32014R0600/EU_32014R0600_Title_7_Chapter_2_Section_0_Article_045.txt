@@ -1,0 +1,42 @@
+Article 45
+Position management powers of ESMA
+1.   In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA shall, where both conditions in paragraph 2 are satisfied, take one or more of the following measures:
+(a)
+request from any person all relevant information regarding the size and purpose of a position or exposure entered into via a derivative;
+(b)
+after analysing the information obtained in accordance with point (a), require any such person to reduce the size of or to eliminate the position or exposure in accordance with the delegated act referred to in paragraph 10(b);
+(c)
+as a last resort, limit the ability of a person from entering into a commodity derivative.
+2.   ESMA shall take a decision under paragraph 1 only if both of the following conditions are fulfilled:
+(a)
+the measures listed in paragraph 1 address a threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union;
+(b)
+a competent authority or competent authorities have not taken measures to address the threat or the measures taken do not sufficiently address the threat;
+ESMA shall perform its assessment of the fulfilment of the conditions referred to in points (a) and (b) of the first subparagraph of this paragraph in accordance with the criteria and factors provided for in the delegated act referred to in paragraph 10(a) of this Article.
+3.   When taking measures referred to in paragraph 1 ESMA shall ensure that the measure:
+(a)
+significantly addresses the threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union or significantly improve the ability of competent authorities to monitor the threat as measured in accordance with the criteria and factors provided for in the delegated act referred to in paragraph 10(a) of this Article;
+(b)
+does not create a risk of regulatory arbitrage as measured in accordance with paragraph 10(c) of this Article;
+(c)
+does not have any of the following detrimental effects on the efficiency of financial markets that is disproportionate to the benefits of the measure: reducing liquidity in those markets, restraining the conditions for reducing risks directly related to the commercial activity of a non-financial counterparty, or creating uncertainty for market participants.
+ESMA shall consult the Agency for the Cooperation of Energy Regulators established under Regulation (EC) No 713/2009 of the European Parliament and of the Council (29) before taking any measures related to wholesale energy products.
+ESMA shall consult the public bodies competent for the oversight, administration and regulation of physical agricultural markets under Regulation (EC) No 1234/2007, before taking any measure related to agricultural commodity derivatives.
+4.   Before deciding to undertake or renew any measure referred to in paragraph 1, ESMA shall notify relevant competent authorities of the measure it proposes. In the case of a request under points (a) or (b) of paragraph 1 the notification shall include the identity of the person or persons to whom it was addressed and the details and reasons therefor. In the event of a measure under paragraph 1(c) the notification shall include details of the person concerned, the applicable financial instruments, the relevant quantitative measures such as the maximum size of a position the person in question can enter into, and the reasons therefor.
+5.   The notification shall be made not less than 24 hours before the measure is intended to take effect or to be renewed. In exceptional circumstances, ESMA may make the notification less than 24 hours before the measure is intended to take effect where it is not possible to give 24 hours notice.
+6.   ESMA shall publish on its website notice of any decision to impose or renew any measure referred to in paragraph 1(c). The notice shall include details on the person concerned, the applicable financial instruments, the relevant quantitative measures such as the maximum size of a position the person in question can enter into, and the reasons therefor.
+7.   A measure referred to in paragraph 1(c) shall take effect when the notice is published or at a time specified in the notice that is after its publication and shall only apply to a transaction entered into after the measure takes effect.
+8.   ESMA shall review its measures referred to in paragraph 1(c) at appropriate intervals and at least every three months. If a measure is not renewed after that three month period, it shall automatically expire. Paragraphs 2 to 8 shall also apply to a renewal of measures.
+9.   A measure adopted by ESMA under this Article shall prevail over any previous measure taken by a competent authority under Article 69(2)(o) or (p) of Directive 2014/65/EU.
+10.   The Commission shall adopt in accordance with Article 50 delegated acts to specify criteria and factors to determine:
+(a)
+the existence of a threat to the orderly functioning and integrity of financial markets, including commodity derivative markets in accordance with the objectives listed in Article 57(1) of Directive 2014/65/EU and including in relation to delivery arrangements for physical commodities, or to the stability of the whole or part of the financial system in the Union as referred to in paragraph 2(a) taking account of the degree to which positions are used to hedge positions in physical commodities or commodity contracts and the degree to which prices in underlying markets are set by reference to the prices of commodity derivatives;
+(b)
+the appropriate reduction of a position or exposure entered into via a derivative referred to in paragraph 1(b) of this Article;
+(c)
+the situations where a risk of regulatory arbitrage as referred to in paragraph 3(b) of this Article could arise.
+Those criteria and factors shall take into account the regulatory technical standards referred to in Article 57(3) of Directive 2014/65/EU and shall differentiate between situations where ESMA takes action because a competent authority has failed to act and those where ESMA addresses an additional risk which the competent authority is not able to sufficiently address pursuant to Article 69(2)(j) or (o) of Directive 2014/65/EU.
+TITLE VIII
+
+PROVISION OF SERVICES AND PERFORMANCE OF ACTIVITIES BY THIRD-COUNTRY FIRMS FOLLOWING AN EQUIVALENCE DECISION WITH OR WITHOUT A BRANCH
+

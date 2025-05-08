@@ -1,0 +1,20 @@
+Article 8
+Projects of common interest in the area of digital connectivity infrastructure
+1.   Projects of common interest in the area of digital connectivity infrastructure are those projects that make an important contribution to the Union’s strategic connectivity objectives and/or provide the network infrastructure supporting the digital transformation of the economy and society, as well as the Union’s Digital Single Market.
+2.   Projects of common interest in the area of digital connectivity infrastructure shall meet the following criteria:
+(a)
+the project contributes to the specific objective provided for in Article 3(2), point (c); and
+(b)
+the project deploys the best available and best suited technology for that specific project, which proposes the best balance in terms of data flow capacity, transmission security, network resilience, cyber security and cost efficiency.
+3.   Studies that aim to develop and identify projects of common interest in the area of digital connectivity infrastructure shall be eligible for funding under this Regulation.
+4.   Without prejudice to the award criteria laid down in Article 14, priority for funding shall be determined taking into account the following criteria:
+(a)
+actions contributing to deployment of and access to very high capacity networks, including 5G systems and other state-of-the-art connectivity, in accordance with Union strategic connectivity targets in areas where socioeconomic drivers are located shall be prioritised, taking into account the connectivity needs of those areas and the additional area coverage generated, including for households, in accordance with Part V, point 1, of the Annex; stand-alone deployments to socioeconomic drivers shall be eligible for funding, provided that those deployments are economically proportionate and physically practicable;
+(b)
+actions contributing to the provision of very high-quality local wireless connectivity in local communities shall be prioritised in accordance with Part V, point 2, of the Annex;
+(c)
+actions contributing to the deployment of 5G corridors along major transport paths, including on the TEN-T, such as those listed in Part V, point 3, of the Annex, shall be prioritised to ensure coverage along those major transport paths, enabling the uninterrupted provision of synergy digital services, taking into account its socioeconomic relevance relative to any currently installed technological solutions in a forward looking approach;
+(d)
+projects of common interest which aim to deploy or significantly upgrade cross-border backbone networks linking the Union to third countries and to reinforce links between electronic communications networks within the Union territory, including submarine cables, shall be prioritised according to the extent to which they significantly contribute to the increased performance, resilience and very high capacity of those electronic communications networks;
+(e)
+projects of common interest deploying operational digital platforms shall prioritise actions based on state-of-the-art technologies, taking into account aspects such as interoperability, cybersecurity, data privacy and re-use.

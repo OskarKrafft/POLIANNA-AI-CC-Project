@@ -1,0 +1,218 @@
+Article 279
+Calculation of the risk position
+For the purpose of calculating the risk category add-ons referred to in Articles 280a to 280f, institutions shall calculate the risk position of each transaction of a netting set as follows:
+ 
+RiskPosition = δ · AdjNot · MF
+where:
+δ
+=
+the supervisory delta of the transaction calculated in accordance with the formula laid down in Article 279a;
+AdjNot
+=
+the adjusted notional amount of the transaction calculated in accordance with Article 279b; and
+MF
+=
+the maturity factor of the transaction calculated in accordance with the formula laid down in Article 279c.
+Article 279a
+Supervisory delta
+1.   Institutions shall calculate the supervisory delta as follows:
+(a)
+for call and put options that entitle the option buyer to purchase or sell an underlying instrument at a positive price on a single or multiple dates in the future, except where those options are mapped to the interest rate risk category, institutions shall use the following formula:
+
+
+
+
+
+where:
+δ
+=
+the supervisory delta;
+sign
+=
+– 1 where the transaction is a sold call option or a bought put option;
+sign
+=
++ 1 where the transaction is a bought call option or sold put option;
+type
+=
+– 1 where the transaction is a put option;
+type
+=
++ 1 where the transaction is a call option;
+N(x)
+=
+the cumulative distribution function for a standard normal random variable meaning the probability that a normal random variable with mean zero and variance of one is less than or equal to x;
+P
+=
+the spot or forward price of the underlying instrument of the option; for options the cash flows of which depend on an average value of the price of the underlying instrument, P shall be equal to the average value at the calculation date;
+K
+=
+the strike price of the option;
+T
+=
+the expiry date of the option; for options which can be exercised at one future date only, the expiry date is equal to that date; for options which can be exercised at multiple future dates, the expiry date is equal to the latest of those dates; the expiry date shall be expressed in years using the relevant business day convention; and
+σ
+=
+the supervisory volatility of the option determined in accordance with Table 1 on the basis of the risk category of the transaction and the nature of the underlying instrument of the option.
+
+Table 1
+
+Risk category
+Underlying instrument
+Supervisory volatility
+Foreign exchange
+All
+15 %
+Credit
+Single-name instrument
+100 %
+Multiple-names instrument
+80 %
+Equity
+Single-name instrument
+120 %
+Multiple-names instrument
+75 %
+Commodity
+Electricity
+150 %
+Other commodities (excluding electricity)
+70 %
+Others
+All
+150 %
+Institutions using the forward price of the underlying instrument of an option shall ensure that:
+(i)
+the forward price is consistent with the characteristics of the option;
+(ii)
+the forward price is calculated using a relevant interest rate prevailing at the reporting date;
+(iii)
+the forward price integrates the expected cash flows of the underlying instrument before the expiry of the option;
+(b)
+for tranches of a synthetic securitisation and a nth-to-default credit derivative, institutions shall use the following formula:
+
+
+
+
+
+where:
+sign =
+ 
++ 1 where credit protection has been obtained through the transaction
+– 1 where credit protection has been provided through the transaction
+A
+=
+the attachment point of the tranche; for a nth-to-default credit derivative transaction based on reference entities k, A = (n – 1)/k; and
+D
+=
+the detachment point of the tranche; for a nth-to-default credit derivative transaction based on reference entities k, D = n/k;
+(c)
+for transactions not referred to in point (a) or (b), institutions shall use the following supervisory delta:
+δ =
+ 
++ 1 if the transaction is a long position in the primary risk driver or in the most material risk driver in the given risk category
+– 1 if the transaction is a short position in the primary risk driver or in the most material risk driver in the given risk category
+2.   For the purposes of this Section, a long position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3) means that the market value of the transaction increases when the value of that risk driver increases and a short position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3) means that the market value of the transaction decreases when the value of that risk driver increases.
+3.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+in accordance with international regulatory developments, the formula that institutions shall use to calculate the supervisory delta of call and put options mapped to the interest rate risk category compatible with market conditions in which interest rates may be negative as well as the supervisory volatility that is suitable for that formula;
+(b)
+the method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3).
+EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+Article 279b
+Adjusted notional amount
+1.   Institutions shall calculate the adjusted notional amount as follows:
+(a)
+for transactions mapped to the interest rate risk category or the credit risk category, institutions shall calculate the adjusted notional amount as the product of the notional amount of the derivative contract and the supervisory duration factor, which shall be calculated as follows:
+
+
+
+
+
+where:
+R
+=
+the supervisory discount rate; R = 5 %;
+S
+=
+the period between the start date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention; and
+E
+=
+the period between the end date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention.
+The start date of a transaction is the earliest date at which at least a contractual payment under the transaction, to or from the institution, is either fixed or exchanged, other than payments related to the exchange of collateral in a margin agreement. Where the transaction has already been fixing or making payments at the reporting date, the start date of a transaction shall be equal to 0.
+Where a transaction involves one or more contractual future dates on which the institution or the counterparty may decide to terminate the transaction prior to its contractual maturity, the start date of a transaction shall be equal to the earliest of the following:
+(i)
+the date or the earliest of the multiple future dates at which the institution or the counterparty may decide to terminate the transaction earlier than its contractual maturity;
+(ii)
+the date at which a transaction starts fixing or making payments, other than payments related to the exchange of collateral in a margin agreement.
+Where a transaction has a financial instrument as the underlying instrument that may give rise to contractual obligations additional to those of the transaction, the start date of a transaction shall be determined on the basis of the earliest date at which the underlying instrument starts fixing or making payments.
+The end date of a transaction is the latest date at which a contractual payment under the transaction, to or from the institution, is or may be exchanged.
+Where a transaction has a financial instrument as an underlying instrument that may give rise to contractual obligations additional to those of the transaction, the end date of a transaction shall be determined on the basis of the last contractual payment of the underlying instrument of the transaction.
+Where a transaction is structured to settle an outstanding exposure following specified payment dates and where the terms are reset so that the market value of the transaction is zero on those specified dates, the settlement of the outstanding exposure at those specified dates is considered a contractual payment under the same transaction;
+(b)
+for transactions mapped to the foreign exchange risk category, institutions shall calculate the adjusted notional amount as follows:
+(i)
+where the transaction consists of one payment leg, the adjusted notional amount shall be the notional amount of the derivative contract;
+(ii)
+where the transaction consists of two payment legs and the notional amount of one payment leg is denominated in the institution's reporting currency, the adjusted notional amount shall be the notional amount of the other payment leg;
+(iii)
+where the transaction consists of two payment legs and the notional amount of each payment leg is denominated in a currency other than the institution's reporting currency, the adjusted notional amount shall be the largest of the notional amounts of the two payment legs after those amounts have been converted into the institution's reporting currency at the prevailing spot exchange rate;
+(c)
+for transactions mapped to the equity risk category or commodity risk category, institutions shall calculate the adjusted notional amount as the product of the market price of one unit of the underlying instrument of the transaction and the number of units in the underlying instrument referenced by the transaction;
+where a transaction mapped to the equity risk category or commodity risk category is contractually expressed as a notional amount, institutions shall use the notional amount of the transaction rather than the number of units in the underlying instrument as the adjusted notional amount;
+(d)
+for transactions mapped to the other risks category, institutions shall calculate the adjusted notional amount on the basis of the most appropriate method among the methods set out in points (a), (b) and (c), depending on the nature and characteristics of the underlying instrument of the transaction.
+2.   Institutions shall determine the notional amount or number of units of the underlying instrument for the purpose of calculating the adjusted notional amount of a transaction referred to in paragraph 1 as follows:
+(a)
+where the notional amount or the number of units of the underlying instrument of a transaction is not fixed until its contractual maturity:
+(i)
+for deterministic notional amounts and numbers of units of the underlying instrument, the notional amount shall be the weighted average of all the deterministic values of notional amounts or number of units of the underlying instrument, as applicable, until the contractual maturity of the transaction, where the weights are the proportion of the time period during which each value of notional amount applies;
+(ii)
+for stochastic notional amounts and numbers of units of the underlying instrument, the notional amount shall be the amount determined by fixing current market values within the formula for calculating the future market values;
+(b)
+for contracts with multiple exchanges of the notional amount, the notional amount shall be multiplied by the number of remaining payments still to be made in accordance with the contracts;
+(c)
+for contracts that provide for a multiplication of the cash-flow payments or a multiplication of the underlying of the derivative contract, the notional amount shall be adjusted by an institution to take into account the effects of the multiplication on the risk structure of those contracts.
+3.   Institutions shall convert the adjusted notional amount of a transaction into their reporting currency at the prevailing spot exchange rate where the adjusted notional amount is calculated under this Article from a contractual notional amount or a market price of the number of units of the underlying instrument denominated in another currency.
+Article 279c
+Maturity Factor
+1.   Institutions shall calculate the maturity factor as follows:
+(a)
+for transactions included in the netting sets referred to in Article 275(1), institutions shall use the following formula:
+
+
+
+
+
+where:
+MF
+=
+the maturity factor;
+M
+=
+the remaining maturity of the transaction which is equal to the period of time needed for the termination of all contractual obligations of the transaction; for that purpose, any optionality of a derivative contract shall be considered to be a contractual obligation; the remaining maturity shall be expressed in years using the relevant business day convention;
+where a transaction has another derivative contract as underlying instrument that may give rise to additional contractual obligations beyond the contractual obligations of the transaction, the remaining maturity of the transaction shall be equal to the period of time needed for the termination of all contractual obligations of the underlying instrument;
+where a transaction is structured to settle outstanding exposure following specified payment dates and where the terms are reset so that the market value of the transaction is zero on those specified dates, the remaining maturity of the transaction shall be equal to the time until the next reset date; and
+OneBusinessYear
+=
+one year expressed in business days using the relevant business day convention;
+(b)
+for transactions included in the netting sets referred to in Article 275(2) and (3), the maturity factor is defined as:
+
+
+
+
+
+where:
+MF
+=
+the maturity factor;
+MPOR
+=
+the margin period of risk of the netting set determined in accordance with Article 285(2) to (5); and
+OneBusinessYear
+=
+one year expressed in business days using the relevant business day convention.
+When determining the margin period of risk for transactions between a client and a clearing member, an institution acting either as the client or as the clearing member shall replace the minimum period set out in point (b) of Article 285(2) with five business days.
+2.   For the purposes of paragraph 1, the remaining maturity shall be equal to the period of time until the next reset date for transactions that are structured to settle outstanding exposure following specified payment dates and where the terms are reset in such a way that the market value of the contract shall be zero on those specified payment dates.

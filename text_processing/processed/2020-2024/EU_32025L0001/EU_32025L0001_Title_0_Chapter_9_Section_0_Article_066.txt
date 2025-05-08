@@ -1,0 +1,56 @@
+Article 66
+Confidentiality
+1.   Member States shall ensure that the requirements of professional secrecy are binding in respect of the following persons, authorities and bodies and that no confidential information is disclosed by any of them:
+(a)
+resolution authorities;
+(b)
+supervisory authorities and EIOPA;
+(c)
+competent ministries;
+(d)
+special managers appointed in accordance with Article 44 of this Directive;
+(e)
+potential acquirers that have been contacted by the supervisory authorities or solicited by the resolution authorities, irrespective of whether that contact or solicitation was made as a preparation for the use of the sale-of-business tool, and irrespective of whether the solicitation resulted in an acquisition;
+(f)
+auditors, accountants, legal and professional advisors, valuers and other experts directly or indirectly engaged by the resolution authorities, supervisory authorities, competent ministries or by the potential acquirers referred to in point (e);
+(g)
+bodies which administer insurance guarantee schemes;
+(h)
+the body in charge of the financing arrangements;
+(i)
+central banks and other authorities involved in the resolution process;
+(j)
+a bridge undertaking or an asset and liability management vehicle;
+(k)
+any other person who provides or has provided services directly or indirectly, permanently or occasionally, to persons referred to in points (a) to (j);
+(l)
+senior management, members of the administrative, management and supervisory body, and employees of the bodies or entities referred to in points (a) to (j) before, during and after their appointment.
+(m)
+the relevant resolution authority designated in accordance with Article 3 of Directive 2014/59/EU and the competent authority within the meaning of Regulation (EU) No 575/2013.
+2.   Without prejudice to the generality of the requirements under paragraph 1, Member States shall ensure that the persons referred to in paragraph 1 are prohibited from disclosing confidential information received during the course of their professional activities, or received from a supervisory authority or resolution authority in connection with that authority’s functions, to any person or authority, unless in the following situations:
+(a)
+the disclosure is made in the exercise of their functions under this Directive;
+(b)
+the disclosure is made in summary or collective form in such a way that individual entities referred to in Article 1(1), points (a) to (e), cannot be identified;
+(c)
+the disclosure is made with the express and prior consent of the authority or the entity referred to in Article 1(1), points (a) to (e), which provided the information.
+Member States shall ensure that the persons referred to in paragraph 1 assess the possible effects of disclosing information on the public interest in relation to financial, monetary or economic policy, on the commercial interests of natural and legal persons, on the purposes of inspections, on investigations and on audits.
+The procedure for assessing the effects referred to in the second subparagraph shall include a specific assessment of the effects of any disclosure of the contents and details of pre-emptive recovery plans and resolution plans as referred to in Articles 5, 7, 9, 10 and 12 and the result of any assessment carried out under Articles 6, 8 and 13.
+Member States shall ensure that any person or entity referred to in paragraph 1 is subject to civil liability in the event of an infringement of this Article.
+3.   Member States shall ensure that the persons referred to in paragraph 1, points (a), (b), (c), (g), (i) and (j), have internal rules in place to ensure compliance with the confidentiality requirements laid down in paragraphs 1 and 2, including rules to secure secrecy of information between persons directly involved in the resolution process.
+4.   Paragraphs 1 to 3 of this Article shall not prevent:
+(a)
+employees and experts of the bodies or entities referred to in paragraph 1, points (a) to (i), from sharing information among themselves within each body or entity;
+(b)
+resolution authorities and supervisory authorities, including their employees and experts, from sharing information with each other and with other Union resolution authorities, other Union supervisory authorities, competent ministries, central banks, insurance guarantee schemes, authorities responsible for normal insolvency proceedings, authorities responsible for maintaining the stability of the financial system in Member States through the use of macroprudential rules, persons charged with carrying out statutory audits of accounts, EIOPA, or, subject to Article 80, third-country authorities that carry out functions that are equivalent to the functions carried out by resolution authorities, or, subject to strict confidentiality requirements, to a potential acquirer for the purpose of planning or carrying out a resolution action;
+(c)
+the exchange of information between resolution authorities and tax authorities in the same Member State to the extent that such exchange is allowed by national law; where that information originates in another Member State, it shall be exchanged only with the express consent of the authority from which the information originates.
+5.   Member States may authorise the exchange of information with any of the following:
+(a)
+subject to strict confidentiality requirements, any other person where necessary for the purpose of planning or carrying out a resolution action;
+(b)
+parliamentary enquiry committees in their Member State, courts of auditors in their Member State and other entities in charge of enquiries in their Member State, under appropriate conditions;
+(c)
+national authorities responsible for overseeing payment systems, the authorities responsible for normal insolvency proceedings, the authorities entrusted with the public duty of supervising other financial sector entities, the authorities responsible for the supervision of financial markets, credit institutions and investment firms and inspectors acting on their behalf, the authorities of Member States responsible for maintaining the stability of the financial system in Member States through the use of macroprudential rules, the authorities responsible for protecting the stability of the financial system, and persons charged with carrying out statutory audits.
+6.   Paragraphs 1 to 5 shall be without prejudice to national law concerning the disclosure of information for the purposes of legal proceedings in criminal or civil cases.
+7.   EIOPA shall, by 29 January 2027, issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to specify how information should be provided in summary or collective form for the purposes of paragraph 2, point (b), of this Article.

@@ -1,0 +1,5 @@
+Article 5
+Provision of information on interconnection capacities
+1.   Transmission system operators shall put in place coordination and information exchange mechanisms to ensure the security of the networks in the context of congestion management.
+2.   The safety, operational and planning standards used by transmission system operators shall be made public. The information published shall include a general scheme for the calculation of the total transfer capacity and the transmission reliability margin based upon the electrical and physical features of the network. Such schemes shall be subject to the approval of the regulatory authorities.
+3.   Transmission system operators shall publish estimates of available transfer capacity for each day, indicating any available transfer capacity already reserved. These publications shall be made at specified intervals before the day of transport and shall include, in any case, week-ahead and month-ahead estimates, as well as a quantitative indication of the expected reliability of the available capacity.

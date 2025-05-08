@@ -1,0 +1,31 @@
+Article 3
+Obligation to make product data and related service data accessible to the user
+1.   Connected products shall be designed and manufactured, and related services shall be designed and provided, in such a manner that product data and related service data, including the relevant metadata necessary to interpret and use those data, are, by default, easily, securely, free of charge, in a comprehensive, structured, commonly used and machine-readable format, and, where relevant and technically feasible, directly accessible to the user.
+2.   Before concluding a contract for the purchase, rent or lease of a connected product, the seller, rentor or lessor, which may be the manufacturer, shall provide at least the following information to the user, in a clear and comprehensible manner:
+(a)
+the type, format and estimated volume of product data which the connected product is capable of generating;
+(b)
+whether the connected product is capable of generating data continuously and in real-time;
+(c)
+whether the connected product is capable of storing data on-device or on a remote server, including, where applicable, the intended duration of retention;
+(d)
+how the user may access, retrieve or, where relevant, erase the data, including the technical means to do so, as well as their terms of use and quality of service.
+3.   Before concluding a contract for the provision of a related service, the provider of such related service shall provide at least the following information to the user, in a clear and comprehensible manner:
+(a)
+the nature, estimated volume and collection frequency of product data that the prospective data holder is expected to obtain and, where relevant, the arrangements for the user to access or retrieve such data, including the prospective data holder’s data storage arrangements and the duration of retention;
+(b)
+the nature and estimated volume of related service data to be generated, as well as the arrangements for the user to access or retrieve such data, including the prospective data holder’s data storage arrangements and the duration of retention;
+(c)
+whether the prospective data holder expects to use readily available data itself and the purposes for which those data are to be used, and whether it intends to allow one or more third parties to use the data for purposes agreed upon with the user;
+(d)
+the identity of the prospective data holder, such as its trading name and the geographical address at which it is established and, where applicable, of other data processing parties;
+(e)
+the means of communication which make it possible to contact the prospective data holder quickly and communicate with that data holder efficiently;
+(f)
+how the user can request that the data are shared with a third party and, where applicable, end the data sharing;
+(g)
+the user’s right to lodge a complaint alleging an infringement of any of the provisions of this Chapter with the competent authority designated pursuant to Article 37;
+(h)
+whether a prospective data holder is the holder of trade secrets contained in the data that is accessible from the connected product or generated during the provision of a related service, and, where the prospective data holder is not the trade secret holder, the identity of the trade secret holder;
+(i)
+the duration of the contract between the user and the prospective data holder, as well as the arrangements for terminating such a contract.

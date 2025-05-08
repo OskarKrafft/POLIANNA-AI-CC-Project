@@ -1,0 +1,5 @@
+Article 2
+Scope
+1.   This Regulation applies to the greenhouse gas emissions from IPCC source categories of energy, industrial processes and product use, agriculture and waste as determined pursuant to Regulation (EU) No 525/2013, excluding greenhouse gas emissions from the activities listed in Annex I to Directive 2003/87/EC.
+2.   Without prejudice to Article 7 and Article 9(2) of this Regulation, this Regulation does not apply to greenhouse gas emissions and removals covered by Regulation (EU) 2018/841.
+3.   For the purposes of this Regulation, CO2 emissions from IPCC source category ‘1.A.3.A civil aviation’ shall be treated as zero.

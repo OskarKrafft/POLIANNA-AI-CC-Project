@@ -1,0 +1,34 @@
+Article 5
+Placing on the market and putting into service
+1.   A device may be placed on the market or put into service only if it complies with this Regulation when duly supplied and properly installed, maintained and used in accordance with its intended purpose.
+2.   A device shall meet the general safety and performance requirements set out in Annex I which apply to it, taking into account its intended purpose.
+3.   Demonstration of conformity with the general safety and performance requirements shall include a performance evaluation in accordance with Article 56.
+4.   Devices that are manufactured and used within health institutions, with the exception of devices for performance studies, shall be considered as having been put into service.
+5.   With the exception of the relevant general safety and performance requirements set out in Annex I, the requirements of this Regulation shall not apply to devices manufactured and used only within health institutions established in the Union, provided that all of the following conditions are met:
+(a)
+the devices are not transferred to another legal entity;
+(b)
+manufacture and use of the devices occur under appropriate quality management systems;
+(c)
+the laboratory of the health institution is compliant with standard EN ISO 15189 or where applicable national provisions, including national provisions regarding accreditation;
+(d)
+the health institution justifies in its documentation that the target patient group's specific needs cannot be met, or cannot be met at the appropriate level of performance by an equivalent device available on the market;
+(e)
+the health institution provides information upon request on the use of such devices to its competent authority, which shall include a justification of their manufacturing, modification and use;
+(f)
+the health institution draws up a declaration which it shall make publicly available, including:
+(i)
+the name and address of the manufacturing health institution,
+(ii)
+the details necessary to identify the devices,
+(iii)
+a declaration that the devices meet the general safety and performance requirements set out in Annex I to this Regulation and, where applicable, information on which requirements are not fully met with a reasoned justification therefor;
+(g)
+as regards class D devices in accordance with the rules set out in Annex VIII, the health institution draws up documentation that makes it possible to have an understanding of the manufacturing facility, the manufacturing process, the design and performance data of the devices, including the intended purpose, and that is sufficiently detailed to enable the competent authority to ascertain that the general safety and performance requirements set out in Annex I to this Regulation are met. Member States may apply this provision also to class A, B or C devices in accordance with the rules set out in Annex VIII;
+(h)
+the health institution takes all necessary measures to ensure that all devices are manufactured in accordance with the documentation referred to in point (g); and
+(i)
+the health institution reviews experience gained from clinical use of the devices and takes all necessary corrective actions.
+Member States may require that such health institutions submit to the competent authority any further relevant information about such devices which have been manufactured and used on their territory. Member States shall retain the right to restrict the manufacture and use of any specific type of such devices and shall be permitted access to inspect the activities of the health institutions.
+This paragraph shall not apply to devices that are manufactured on an industrial scale.
+6.   In order to ensure the uniform application of Annex I, the Commission may adopt implementing acts to the extent necessary to resolve issues of divergent interpretation and of practical application. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3).

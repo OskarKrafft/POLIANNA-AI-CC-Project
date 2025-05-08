@@ -1,0 +1,142 @@
+Article 1
+Regulation (EC) No 443/2009 is amended as follows:
+(1)
+in Article 1, the second paragraph is replaced by the following:
+‘From 2020 onwards, this Regulation sets a target of 95 g CO2/km for the average emissions of the new car fleet as measured in accordance with Regulation (EC) No 715/2007 and Annex XII to Regulation (EC) No 692/2008 and its implementing measures and innovative technologies.’;
+(2)
+in Article 2, the following paragraph is added:
+‘4.   With effect from 1 January 2012, Article 4, Article 8(4)(b) and (c), Article 9 and Article 10(1)(a) and (c) shall not apply to a manufacturer which, together with all of its connected undertakings, is responsible for fewer than 1 000 new passenger cars registered in the Union in the previous calendar year.’;
+(3)
+in point (a) of Article 3(2), the first indent is replaced by the following:
+‘—
+the power to exercise more than half the voting rights, or’;
+(4)
+in Article 4, the second paragraph is replaced by the following:
+
+                                 ‘For the purposes of determining each manufacturer’s average specific emissions of CO2, the following percentages of each manufacturer’s new passenger cars registered in the relevant year shall be taken into account:
+—
+65 % in 2012,
+—
+75 % in 2013,
+—
+80 % in 2014,
+—
+100 % from 2015 to 2019,
+—
+95 % in 2020,
+—
+100 % by the end of 2020 onwards.’;
+(5)
+the following Article is inserted:
+‘Article 5a
+Super-credits for 95 g CO2/km target
+In calculating the average specific emissions of CO2, each new passenger car with specific emissions of CO2 of less than 50 g CO2/km shall be counted as:
+—
+2 passenger cars in 2020,
+—
+1,67 passenger cars in 2021,
+—
+1,33 passenger cars in 2022,
+—
+1 passenger car from 2023,
+for the year in which it is registered in the period from 2020 to 2022, subject to a cap of 7,5 g CO2/km over that period for each manufacturer.’;
+(6)
+in Article 8, paragraph 9 is replaced by the following:
+‘9.   The Commission shall adopt detailed rules on the procedures for monitoring and reporting of data under this Article and on the application of Annex II by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14(2).
+The Commission shall be empowered to adopt delegated acts in accordance with Article 14a in order to amend the data requirements and data parameters set out in Annex II.’;
+(7)
+in Article 9, paragraph 3 is replaced by the following:
+‘3.   The Commission shall determine the means for collecting excess emissions premiums under paragraph 1 by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14(2).’;
+(8)
+Article 11 is amended as follows:
+(a)
+in paragraph 3, the last sentence is deleted;
+(b)
+in paragraph 4, point (b) of the second subparagraph is replaced by the following:
+‘(b)
+if the application is in relation to points (a) and (b) of point 1 of Annex I, a target which is a 25 % reduction on the average specific emissions of CO2 in 2007 or, where a single application is made in respect of a number of connected undertakings, a 25 % reduction on the average of those undertakings’ average specific emissions of CO2 in 2007.’;
+(c)
+in paragraph 4, second subparagraph, the following point is added:
+‘(c)
+if the application is in relation to point (c) of point 1 of Annex I, a target which is a 45 % reduction on the average specific emissions of CO2 in 2007 or, where a single application is made in respect of a number of connected undertakings, a 45 % reduction on the average of those undertakings’ average specific emissions of CO2 in 2007.’;
+(d)
+paragraph 8 is replaced by the following:
+‘8.   The Commission shall be empowered to adopt delegated acts in accordance with Article 14a laying down rules to supplement paragraphs 1 to 7 of this Article, as regards the interpretation of the eligibility criteria for derogations, the content of the applications, and the content and assessment of programmes for the reduction of specific emissions of CO2.’;
+(9)
+Article 12 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   Upon application by a supplier or a manufacturer, CO2 savings achieved through the use of innovative technologies or a combination of innovative technologies (“innovative technology packages”) shall be considered.
+Such technologies shall be taken into consideration only if the methodology used to assess them is capable of producing verifiable, repeatable and comparable results.
+The total contribution of those technologies to reducing the specific emissions target of a manufacturer may be up to 7 g CO2/km.’;
+(b)
+in paragraph 2, the first sentence is replaced by the following:
+
+                                          ‘The Commission shall adopt, by means of implementing acts, detailed provisions for a procedure to approve the innovative technologies or innovative technology packages referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14(2) of this Regulation.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   A supplier or a manufacturer who applies for a measure to be approved as an innovative technology or innovative technology package shall submit a report, including a verification report undertaken by an independent and certified body, to the Commission. In the event of a possible interaction of the measure with another innovative technology or innovative technology package already approved, the report shall mention that interaction and the verification report shall evaluate to what extent that interaction modifies the reduction achieved by each measure.’;
+(10)
+Article 13 is amended as follows:
+(a)
+in paragraph 2, the third subparagraph is replaced by the following:
+
+                                          ‘The Commission shall, by means of delegated acts, adopt those measures in accordance with Article 14a.’;
+(b)
+the second subparagraph of paragraph 3 is deleted;
+(c)
+paragraph 5 is replaced by the following:
+‘5.   By 31 December 2015, the Commission shall review the specific emissions targets and the modalities set out herein, as well as the other aspects of this Regulation, including whether a utility parameter is still needed and whether mass or footprint is the more sustainable utility parameter, in order to establish the CO2 emissions targets for new passenger cars for the period beyond 2020. In that regard, the assessment of the necessary rate of reduction shall be in line with the Union’s long-term climate goals and the implications for the development of cost effective CO2-reducing technology for cars. The Commission shall submit a report to the European Parliament and to the Council with the result of that review. That report shall include any appropriate proposals for amending this Regulation, including the possible setting of a realistic and achievable target, based on a comprehensive impact assessment that will consider the continued competitiveness of the car industry and its dependent industries. When developing such proposals, the Commission shall ensure they are as neutral as possible from the point of view of competition and are socially equitable and sustainable.’;
+(d)
+paragraph 7 is replaced by the following:
+‘7.   The Commission shall, by means of implementing acts, determine the correlation parameters necessary in order to reflect any change in the regulatory test procedure for the measurement of specific CO2 emissions referred to in Regulation (EC) No 715/2007 and Regulation (EC) No 692/2008. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14(2) of this Regulation.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 14a in order to adapt the formulae set out in Annex I, using the methodology adopted pursuant to the first subparagraph, while ensuring that reduction requirements of comparable stringency for manufacturers and vehicles of different utility are required under the old and new test procedures.’;
+(11)
+Article 14 is replaced by the following:
+‘Article 14
+Committee procedure
+1.   The Commission shall be assisted by the Climate Change Committee established by Article 9 of Decision No 280/2004/EC of the European Parliament and of the Council (*1). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*2).
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+3.   Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*1)  Decision No 280/2004/EC of the European Parliament and of the Council of 11 February 2004 concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (OJ L 49, 19.2.2004, p. 1)."
+                        
+
+(*2)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).’;"
+                        
+(12)
+the following Article is inserted:
+‘Article 14a
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adapt delegated acts referred to in the second subparagraph of Article 8(9), Article 11(8), the third subparagraph of Article 13(2) and the second subparagraph of Article 13(7) shall be conferred on the Commission for a period of five years from 8 April 2014. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in the second subparagraph of Article 8(9), Article 11(8), the third subparagraph of Article 13(2) and the second subparagraph of Article 13(7) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+5.   A delegated act adopted pursuant to the second subparagraph of Article 8(9), Article 11(8), the third subparagraph of Article 13(2) and the second subparagraph of Article 13(7) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.’;
+(13)
+in point 1 of Annex I, the following point is added:
+‘(c)
+From 2020:
+
+
+
+
+
+Where:
+
+M= mass of the vehicle in kilograms (kg)
+
+M0
+= the value adopted pursuant to Article 13(2)
+
+a= 0,0333.’;
+(14)
+Annex II is amended as follows:
+(a)
+in point 1 of Part A, the following point is added:
+‘(n)
+maximum net power.’;
+(b)
+in the table ‘Detailed data specified in point 1 of Part A’, the following column is added:
+
+                                    ‘Maximum net power (kW)’.

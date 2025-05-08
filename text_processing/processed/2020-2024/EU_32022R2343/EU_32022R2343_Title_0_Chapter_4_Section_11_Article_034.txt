@@ -1,0 +1,4 @@
+Article 34
+Vessel monitoring system (VMS)
+1.   Member States shall, no later than two working days following detection or notification of technical failure or non-functioning of the vessel monitoring device on board a Union fishing vessel, forward the geographical position of the vessel to the IOTC Secretariat, or shall ensure that these positions are forwarded to the IOTC Secretariat by the master or the owner of the vessel, or their representative.
+2.   Where a Member State suspects that one or more vessel monitoring devices on board the vessel of another flag Member State or another CPC do not meet required operational conditions, or have been tampered with, it shall immediately notify the Commission, or a body designated by it. The Commission, or the body designated by it, shall forward the notification to the IOTC Secretariat and the vessel’s flag State.

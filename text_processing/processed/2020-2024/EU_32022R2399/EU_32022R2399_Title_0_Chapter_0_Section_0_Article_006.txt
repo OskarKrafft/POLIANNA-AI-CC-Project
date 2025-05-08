@@ -1,0 +1,23 @@
+Article 6
+Processing of personal data in EU CSW-CERTEX
+1.   Processing of personal data may take place in EU CSW-CERTEX only for the following purposes:
+(a)
+enabling information to be exchanged between the national single window environments for customs and the Union non-customs systems referred to in the Annex as regards the Union non-customs formalities listed therein;
+(b)
+performing the business and technical transformation of data listed in Article 10(2), where this is necessary in order to enable the exchange of information referred to in point (a) of this paragraph.
+2.   Processing of personal data may take place in EU CSW-CERTEX only in respect of the following categories of data subjects:
+(a)
+natural persons whose personal information is contained in the customs declaration or re-export declaration;
+(b)
+natural persons whose personal information is contained in the supporting documents, or in any other additional documentary evidence required for the fulfilment of the Union non-customs formalities listed in the Annex;
+(c)
+authorised staff of customs authorities, partner competent authorities or any other relevant authority or authorised body whose personal information is contained in any documents referred to in points (a) and (b);
+(d)
+Commission staff and third-party providers acting on behalf of the Commission that perform EU CSW-CERTEX-related operations and maintenance activities.
+3.   Processing of personal data may take place in EU CSW-CERTEX only in respect of the following categories of personal data:
+(a)
+the name, address, country code and identification number of the natural persons referred to in paragraph 2, points (a) and (b), required either by customs legislation or by Union legislation other than customs legislation in order to fulfil customs and Union non-customs formalities;
+(b)
+the name and signature of the staff referred to in paragraph 2, points (c) and (d).
+4.   With the exception of technical logs indicating the supporting documents exchanged and the flow of such exchange, EU CSW-CERTEX shall not store any information exchanged between the national single window environments for customs and Union non-customs systems.
+5.   The transformation of personal data referred to in paragraph 1, point (b), shall be performed using information technology infrastructure located in the Union.

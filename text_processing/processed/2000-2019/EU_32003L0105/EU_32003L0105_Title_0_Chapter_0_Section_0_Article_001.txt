@@ -1,0 +1,55 @@
+Article 1
+Directive 96/82/EC is hereby amended as follows:
+1. Article 4 is amended as follows:
+(a) Points (e) and (f) are replaced by the following:
+"(e) the exploitation (exploration, extraction and processing) of minerals in mines, quarries, or by means of boreholes, with the exception of chemical and thermal processing operations and storage related to those operations which involve dangerous substances, as defined in Annex I;
+(f) the offshore exploration and exploitation of minerals, including hydrocarbons;"
+(b) The following point shall be added:
+"(g) waste land-fill sites, with the exception of operational tailings disposal facilities, including tailing ponds or dams, containing dangerous substances as defined in Annex I, in particular when used in connection with the chemical and thermal processing of minerals."
+2. Article 6 is amended as follows:
+(a) The following indent is added in paragraph 1:
+"- for establishments which subsequently fall within the scope of this Directive, within three months after the date on which this Directive applies to the establishment concerned, as laid down in the first subparagraph of Article 2(1)."
+(b) The following indent is inserted after the first indent of Article 6(4):
+"- modification of an establishment or an installation which could have significant repercussions on major accident hazards, or".
+3. The following paragraph is inserted in Article 7:
+"1a. For establishments which subsequently fall within the scope of this Directive, the document referred to in paragraph 1 shall be drawn up without delay, but at all events within three months after the date on which this Directive applies to the establishment concerned, as laid down in the first subparagraph of Article 2(1)."
+4. Article 8(2)(b) is replaced by the following:
+"(b) provision is made for cooperation in informing the public and in supplying information to the authority responsible for the preparation of external emergency plans."
+5. Article 9 is amended as follows:
+(a) The first subparagraph of paragraph 2 is replaced by the following:
+"2. The safety report shall contain at least the data and information listed in Annex II. It shall name the relevant organisations involved in the drawing up of the report. It shall also contain an updated inventory of the dangerous substances present in the establishment."
+(b) The following indent is inserted between the third and fourth indents of paragraph 3:
+"- for establishments which subsequently fall within the scope of this Directive, without delay, but at all events within one year after the date on which this Directive applies to the establishment concerned, as laid down in the first subparagraph of Article 2(1)."
+(c) In paragraph 4, the reference to "the second, third, and fourth indents" becomes "the second, third, fourth and fifth indents" respectively.
+(d) The following point is added to Article 9(6):
+"(d) The Commission is invited to review by 31 December 2006 in close cooperation with the Member States, the existing 'Guidance on the Preparation of a Safety Report'."
+6. Article 11 is amended as follows:
+(a) The following indent is added to points (a) and (b) of paragraph 1:
+"- for establishments which subsequently fall within the scope of this Directive, without delay, but at all events within one year after the date on which this Directive applies to the establishment concerned, as laid down in the first subparagraph of Article 2(1)."
+(b) Paragraph 3 is replaced by the following:
+"3. Without prejudice to the obligations of the competent authorities, Member States shall ensure that the internal emergency plans provided for in this Directive are drawn up in consultation with the personnel working inside the establishment, including long-term relevant subcontracted personnel, and that the public is consulted on external emergency plans when they are established or updated."
+(c) The following paragraph is inserted:
+"4a. With regard to external emergency plans, Member States should take into account the need to facilitate enhanced cooperation in civil protection assistance in major emergencies."
+7. Article 12 is amended as follows:
+(a) The second subparagraph of paragraph 1 is replaced by the following:"Member States shall ensure that their land-use and/or other relevant policies and the procedures for implementing those policies take account of the need, in the long term, to maintain appropriate distances between establishments covered by this Directive and residential areas, buildings and areas of public use, major transport routes as far as possible, recreational areas and areas of particular natural sensitivity or interest and, in the case of existing establishments, of the need for additional technical measures in accordance with Article 5 so as not to increase the risks to people."
+(b) The following paragraph is inserted:
+"1a. The Commission is invited by 31 December 2006, in close cooperation with the Member States, to draw up guidelines defining a technical database including risk data and risk scenarios, to be used for assessing the compatibility between the establishments covered by this Directive and the areas described in paragraph 1. The definition of this database shall as far as possible take account of the evaluations made by the competent authorities, the information obtained from operators and all other relevant information such as the socioeconomic benefits of development and the mitigating effects of emergency plans."
+8. Article 13 is amended as follows:
+(a) The first subparagraph of paragraph 1 is replaced by the following:
+"1. Member States shall ensure that information on safety measures and on the requisite behaviour in the event of an accident is supplied regularly and in the most appropriate form, without their having to request it, to all persons and all establishments serving the public (such as schools and hospitals) liable to be affected by a major accident originating in an establishment covered by Article 9."
+(b) Paragraph 6 is replaced by the following:
+"6. In the case of establishments subject to the provisions of Article 9, Member States shall ensure that the inventory of dangerous substances provided for in Article 9(2) is made available to the public subject to the provisions of paragraph 4 of this Article and Article 20."
+9. The following paragraph is inserted in Article 19:
+"1a. For establishments covered by this Directive, Member States shall supply the Commission with at least the following information:
+(a) the name or trade name of the operator and the full address of the establishment concerned; and
+(b) the activity or activities of the establishment.
+The Commission shall set up and keep up to date a database containing the information supplied by the Member States. Access to the database shall be reserved to persons authorised by the Commission or the competent authorities of the Member States."
+10. Annex I is amended as set out in the Annex.
+11. In Annex II, point IV part B is replaced by the following:
+"B. Assessment of the extent and severity of the consequences of identified major accidents including maps, images or, as appropriate, equivalent descriptions, showing areas which are liable to be affected by such accidents arising from the establishment, subject to the provisions of Articles 13(4) and 20."
+12. In Annex III, point (c) is amended as follows:
+(a) point (i) is replaced by the following:
+"(i) organisation and personnel - the roles and responsibilities of personnel involved in the management of major hazards at all levels in the organisation. The identification of training needs of such personnel and the provision of the training so identified. The involvement of employees and of subcontracted personnel working in the establishment."
+(b) point (v) is replaced by the following:
+"(v) Planning for emergencies - adoption and implementation of procedures to identify foreseeable emergencies by systematic analysis, to prepare, test and review emergency plans to respond to such emergencies and to provide specific training for the staff concerned. Such training shall be given to all personnel working in the establishment, including relevant subcontracted personnel."
+

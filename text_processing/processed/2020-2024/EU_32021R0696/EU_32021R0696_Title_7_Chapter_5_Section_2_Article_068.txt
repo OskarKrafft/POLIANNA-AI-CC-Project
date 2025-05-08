@@ -1,0 +1,16 @@
+Article 68
+GOVSATCOM participants and competent authorities
+1.   Member States, the Council, the Commission and the EEAS shall be GOVSATCOM participants insofar as they authorise GOVSATCOM users, or provide satellite communication capacities, ground segment sites or part of the ground segment facilities.
+Where the Council, the Commission or the EEAS authorise GOVSATCOM users, or provide satellite communication capacities, ground segment sites or part of the ground segment facilities, on the territory of a Member State, such authorisation or provision shall not contravene neutrality or non-alignment provisions stipulated in the constitutional law of that Member State.
+2.   Union agencies may become GOVSATCOM participants only insofar as necessary to fulfil their tasks and in accordance with detailed rules laid down in an administrative arrangement concluded between the agency concerned and the Union institution that supervises it.
+3.   Third countries and international organisations may become GOVSATCOM participants in accordance with Article 7.
+4.   Each GOVSATCOM participant shall designate one competent GOVSATCOM authority.
+5.   A competent GOVSATCOM authority shall ensure that:
+(a)
+the use of services is in compliance with the applicable security requirements;
+(b)
+the access rights for GOVSATCOM users are determined and managed;
+(c)
+user equipment and associated electronic communication connections and information are used and managed in accordance with applicable security requirements;
+(d)
+a central point of contact is established to assist as necessary in the reporting of security risks and threats, in particular the detection of potentially harmful electromagnetic interference affecting the services under this component.

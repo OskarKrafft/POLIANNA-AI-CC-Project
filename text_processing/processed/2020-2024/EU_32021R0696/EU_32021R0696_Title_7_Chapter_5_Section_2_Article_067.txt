@@ -1,0 +1,4 @@
+Article 67
+Ground segment infrastructure and operation
+1.   The ground segment shall include infrastructure necessary to enable the provision of services to GOVSATCOM users in accordance with Article 66, particularly the GOVSATCOM Hubs which shall be procured under this component to connect GOVSATCOM users with providers of satellite communication capacities and services. The ground segment and its operation shall comply with the general security requirements referred to in Article 34(2), defined for GOVSATCOM.
+2.   The Commission shall determine, by means of implementing acts, the location of the ground segment infrastructure. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(3), and shall be without prejudice to the right of a Member State to decide not to host any such infrastructure.

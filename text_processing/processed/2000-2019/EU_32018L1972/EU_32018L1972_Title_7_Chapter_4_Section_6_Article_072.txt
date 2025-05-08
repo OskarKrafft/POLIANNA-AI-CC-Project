@@ -1,0 +1,46 @@
+Article 73
+Obligations of access to, and use of, specific network elements and associated facilities
+1.   National regulatory authorities may, in accordance with Article 68, impose obligations on undertakings to meet reasonable requests for access to, and use of, specific network elements and associated facilities, in situations where the national regulatory authorities consider that denial of access or unreasonable terms and conditions having a similar effect would hinder the emergence of a sustainable competitive market at the retail level, and would not be in the end-user’s interest.
+National regulatory authorities may require undertakings inter alia:
+(a)
+to give third parties access to, and use of, specific physical network elements and associated facilities, as appropriate, including unbundled access to the local loop and sub-loop;
+(b)
+to give third parties access to specific active or virtual network elements and services;
+(c)
+to negotiate in good faith with undertakings requesting access;
+(d)
+not to withdraw access to facilities already granted;
+(e)
+to provide specific services on a wholesale basis for resale by third parties;
+(f)
+to grant open access to technical interfaces, protocols or other key technologies that are indispensable for the interoperability of services or virtual network services;
+(g)
+to provide co-location or other forms of associated facilities sharing;
+(h)
+to provide specific services needed to ensure interoperability of end-to-end services to users, or roaming on mobile networks;
+(i)
+to provide access to operational support systems or similar software systems necessary to ensure fair competition in the provision of services;
+(j)
+to interconnect networks or network facilities;
+(k)
+to provide access to associated services such as identity, location and presence service.
+National regulatory authorities may subject those obligations to conditions covering fairness, reasonableness and timeliness.
+2.   Where national regulatory authorities consider the appropriateness of imposing any of the possible specific obligations referred to in paragraph 1 of this Article, and in particular where they assess, in accordance with the principle of proportionality, whether and how such obligations are to be imposed, they shall analyse whether other forms of access to wholesale inputs, either on the same or on a related wholesale market, would be sufficient to address the identified problem in the end-user’s interest. That assessment shall include commercial access offers, regulated access pursuant to Article 61, or existing or planned regulated access to other wholesale inputs pursuant to this Article. National regulatory authorities shall take account in particular of the following factors:
+(a)
+the technical and economic viability of using or installing competing facilities, in light of the rate of market development, taking into account the nature and type of interconnection or access involved, including the viability of other upstream access products, such as access to ducts;
+(b)
+the expected technological evolution affecting network design and management;
+(c)
+the need to ensure technology neutrality enabling the parties to design and manage their own networks;
+(d)
+the feasibility of providing the access offered, in relation to the capacity available;
+(e)
+the initial investment by the facility owner, taking account of any public investment made and the risks involved in making the investment, with particular regard to investments in, and risk levels associated with, very high capacity networks;
+(f)
+the need to safeguard competition in the long term, with particular attention to economically efficient infrastructure-based competition and innovative business models that support sustainable competition, such as those based on co-investment in networks;
+(g)
+where appropriate, any relevant intellectual property rights;
+(h)
+the provision of pan-European services.
+Where a national regulatory authority considers, in accordance with Article 68, imposing obligations on the basis of Articles 72 or of this Article, it shall examine whether the imposition of obligations in accordance with Article 72 alone would be a proportionate means by which to promote competition and the end-user's interest.
+3.   When imposing obligations on an undertaking to provide access in accordance with this Article, national regulatory authorities may lay down technical or operational conditions to be met by the provider or the beneficiaries of such access, where necessary to ensure normal operation of the network. Obligations to follow specific technical standards or specifications shall comply with the standards and specifications laid down in accordance with Article 39.

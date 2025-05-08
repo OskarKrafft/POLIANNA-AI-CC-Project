@@ -1,0 +1,16 @@
+Article 35
+Content of the European assessment document
+1.   A European assessment document shall contain the following elements:
+(a)
+a description of the product or product category covered and its intended use; and
+(b)
+the list of essential characteristics, relevant for the intended use of the product or product category as agreed between the manufacturer and the organisation of TABs as well as predetermined environmental essential characteristics as set out in Annex II, and the methods and criteria for assessing the performance of the product or product category in relation to the essential characteristics listed.
+2.   The European assessment document shall set out:
+(a)
+the technical details necessary for the implementation of the assessment and verification systems that are to be applied in accordance with the delegated acts adopted under Article 10(2);
+(b)
+the guidelines, including technical details necessary for drawing up general product information, instructions for use and safety information as referred to in Annex IV;
+(c)
+the guidelines to ensure interoperability of the human and machine readable formats for the declaration of performance and conformity in accordance with paragraph 16(2), point (b).
+3.   Where the performance of the product can appropriately be assessed by reference to its essential characteristics, including assessment methods and criteria, already established for them in harmonised technical specifications or other European assessment documents, those existing essential characteristics and their methods and criteria shall be incorporated as parts of the European assessment document, unless it is technically necessary to deviate from that rule.
+Where applicable, these principles shall also apply for threshold levels and classes of performance adopted in accordance with Article 5(5).

@@ -1,0 +1,6 @@
+Article 12
+Data and metadata transmission and deadlines
+1.   For the reference year 2020, Member States shall transmit validated core and module data and a quality report to the Commission (Eurostat) within 15 months after the end of the reference year.
+2.   For the reference years 2023 and 2026, Member States shall transmit validated core and module data and a quality report to the Commission (Eurostat) within 12 months after the end of the reference year.
+3.   The data transmitted to the Commission (Eurostat) shall be at the level of individual agricultural holdings. The module and the ad-hoc data shall be linked to the core data listed in Annex III at the individual agricultural holding level for the same reference year. The records provided shall include the extrapolation factors and information on stratification.
+4.   Member States shall transmit the data and metadata using a technical format specified by the Commission (Eurostat). The data and metadata shall be provided to the Commission (Eurostat) through the single entry point services.

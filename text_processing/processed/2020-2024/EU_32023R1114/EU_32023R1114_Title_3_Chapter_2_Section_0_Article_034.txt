@@ -1,0 +1,47 @@
+Article 34
+Governance arrangements
+1.   Issuers of asset-referenced tokens shall have robust governance arrangements, including a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which they are or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.
+2.   Members of the management body of issuers of asset-referenced tokens shall be of sufficiently good repute and possess the appropriate knowledge, skills and experience, both individually and collectively, to perform their duties. In particular, they shall not have been convicted of offences relating to money laundering or terrorist financing or of any other offences that would affect their good repute. They shall also demonstrate that they are capable of committing sufficient time to effectively perform their duties.
+3.   The management body of issuers of asset-referenced tokens shall assess and periodically review the effectiveness of the policy arrangements and procedures put in place to comply with Chapters 2, 3, 5 and 6 of this Title and take appropriate measures to address any deficiencies in that respect.
+4.   Shareholders or members, whether direct or indirect, that have qualifying holdings in issuers of asset-referenced tokens shall be of sufficiently good repute and, in particular, shall not have been convicted of offences relating to money laundering or terrorist financing or of any other offences that would affect their good repute.
+5.   Issuers of asset-referenced tokens shall adopt policies and procedures that are sufficiently effective to ensure compliance with this Regulation. Issuers of asset-referenced tokens shall establish, maintain and implement, in particular, policies and procedures on:
+(a)
+the reserve of assets referred to in Article 36;
+(b)
+the custody of the reserve assets, including the segregation of assets, as specified in Article 37;
+(c)
+the rights granted to the holders of asset-referenced tokens, as specified in Article 39;
+(d)
+the mechanism through which asset-referenced tokens are issued and redeemed;
+(e)
+the protocols for validating transactions in asset-referenced tokens;
+(f)
+the functioning of the issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such distributed ledger technology or similar technology that is operated by the issuers or a third party acting on their behalf;
+(g)
+the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;
+(h)
+arrangements with third-party entities for operating the reserve of assets, and for the investment of the reserve assets, the custody of the reserve assets and, where applicable, the distribution of the asset-referenced tokens to the public;
+(i)
+the written consent of the issuers of asset-referenced tokens given to other persons that might offer or seek the admission to trading of the asset-referenced tokens;
+(j)
+complaints-handling, as specified in Article 31;
+(k)
+conflicts of interest, as specified in Article 32.
+Where issuers of asset-referenced tokens enter into arrangements as referred to in the first subparagraph, point (h), those arrangements shall be set out in a contract with the third-party entities. Those contractual arrangements shall set out the roles, responsibilities, rights and obligations both of the issuers of asset-referenced tokens and of the third-party entities. Any contractual arrangement with cross-jurisdictional implications shall provide for an unambiguous choice of applicable law.
+6.   Unless they have initiated a redemption plan referred to in Article 47, issuers of asset-referenced tokens shall employ appropriate and proportionate systems, resources and procedures to ensure the continued and regular performance of their services and activities. To that end, issuers of asset-referenced tokens shall maintain all of their systems and security access protocols in conformity with the appropriate Union standards.
+7.   If the issuer of an asset-referenced token decides to discontinue the provision of its services and activities, including by discontinuing the issue of that asset-referenced token, it shall submit a plan to the competent authority for approval of such discontinuation.
+8.   Issuers of asset-referenced tokens shall identify sources of operational risk and minimise those risks through the development of appropriate systems, controls and procedures.
+9.   Issuers of asset-referenced tokens shall establish a business continuity policy and plans to ensure, in the case of an interruption of their ICT systems and procedures, the preservation of essential data and functions and the maintenance of their activities or, where that is not possible, the timely recovery of such data and functions and the timely resumption of their activities.
+10.   Issuers of asset-referenced tokens shall have in place internal control mechanisms and effective procedures for risk management, including effective control and safeguard arrangements for managing ICT systems as required by Regulation (EU) 2022/2554 of the European Parliament and of the Council (37). The procedures shall provide for a comprehensive assessment relating to the reliance on third-party entities as referred to in paragraph 5, first subparagraph, point (h), of this Article. Issuers of asset-referenced tokens shall monitor and evaluate on a regular basis the adequacy and effectiveness of the internal control mechanisms and procedures for risk assessment and take appropriate measures to address any deficiencies in that respect.
+11.   Issuers of asset-referenced tokens shall have systems and procedures in place that are adequate to safeguard the availability, authenticity, integrity and confidentiality of data as required by Regulation (EU) 2022/2554 and in line with Regulation (EU) 2016/679. Those systems shall record and safeguard relevant data and information collected and produced in the course of the issuers’ activities.
+12.   Issuers of asset-referenced tokens shall ensure that they are regularly audited by independent auditors. The results of those audits shall be communicated to the management body of the issuer concerned and made available to the competent authority.
+13.   By 30 June 2024, EBA, in close cooperation with ESMA and the ECB, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 specifying the minimum content of the governance arrangements on:
+(a)
+the monitoring tools for the risks referred to in paragraph 8;
+(b)
+the business continuity plan referred to in paragraph 9;
+(c)
+the internal control mechanism referred to in paragraph 10;
+(d)
+the audits referred to in paragraph 12, including the minimum documentation to be used in the audit.
+When issuing the guidelines referred to in the first subparagraph, EBA shall take into account the provisions on governance requirements in other Union legislative acts on financial services, including Directive 2014/65/EU.

@@ -1,0 +1,46 @@
+Article 1
+Amendments to Regulation (EU) 2019/942
+Regulation (EU) 2019/942 is amended as follows:
+(1)
+Article 2 is amended as follows:
+(a)
+the following point is inserted:
+‘(aa)
+issue opinions and recommendations addressed to the single allocation platform established in accordance with Commission Regulation (EU) 2016/1719 (*1);
+
+(*1)  Commission Regulation (EU) 2016/1719 of 26 September 2016 establishing a guideline on forward capacity allocation (OJ L 259, 27.9.2016, p. 42).’;"
+                        
+(b)
+point (d) is replaced by the following:
+‘(d)
+issue individual decisions on the provision of information in accordance with Article 3(2), Article 7(2), point (b), and Article 8, point (c); on approving the methodologies, terms and conditions in accordance with Article 4(4), Article 5(2), (3) and (4); on bidding zones reviews as referred to in Article 5(7); on technical issues as referred to in Article 6(1); on arbitration between regulators in accordance with Article 6(10); related to regional coordination centres as referred to in Article 7(2), point (a); on approving and amending methodologies and calculations and technical specifications as referred to in Article 9(1); on approving and amending methodologies as referred to in Article 9(3); on exemptions as referred to in Article 10; on infrastructure as referred to in Article 11, point (d); on matters related to wholesale market integrity and transparency pursuant to Article 12; and on approving and amending the joint proposal from the ENTSO for Electricity and the EU DSO entity regarding the type of data and format and the methodology related to the analysis to be provided as regards the flexibility needs pursuant to Article 5(9).’
+;
+(2)
+in Article 3(2), the following subparagraph is added:
+‘This paragraph shall also apply to the single allocation platform established in accordance with Regulation (EU) 2016/1719.’
+(3)
+in Article 4, the following paragraph is added:
+‘9.   Paragraphs 6, 7 and 8 of this Article shall also apply to the single allocation platform established in accordance with Regulation (EU) 2016/1719.’
+(4)
+Article 5 is amended as follows:
+(a)
+in paragraph 8, the following subparagraph is added:
+
+                                          ‘ACER shall monitor the single allocation platform established in accordance with Regulation (EU) 2016/1719.’
+                                       
+(b)
+the following paragraph is added:
+‘9.   ACER shall approve and where necessary amend the joint proposal from the ENTSO for Electricity and the EU DSO entity regarding the type of data and format and the methodology related to the analysis to be provided as regards the flexibility needs pursuant to Article 19e(6) of Regulation (EU) 2019/943.’
+(5)
+in Article 6, paragraph 9, is replaced by the following:
+‘9.   ACER shall submit opinions to the regulatory authority concerned and to the Commission pursuant to Article 8(1b) and Article 16(3) of Regulation (EU) 2019/943.’
+(6)
+Article 15 is amended as follows:
+(a)
+in paragraph 4, the following subparagraph is added:
+
+                                          ‘ACER shall issue a report on the impact of using peak-shaving products on the Union electricity market during a crisis following the assessment pursuant to Article 7a(7) of Regulation (EU) 2019/943 and a report on the impact of developing peak-shaving products on the Union electricity market under normal market circumstances following the assessment pursuant to Article 7a(8) of that Regulation.’
+                                       
+(b)
+the following paragraph is added:
+‘5.   ACER shall issue a report pursuant to Article 19e(7) of Regulation (EU) 2019/943 analysing the national reports on the estimated flexibility needs and providing recommendations on issues of cross-border relevance regarding the findings of the regulatory authority or another authority or entity designated by a Member State.’.

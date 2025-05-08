@@ -1,0 +1,41 @@
+Article 2
+Scope
+1.   European business statistics shall cover:
+(a)
+the structure, economic activities and performance of the statistical units, their R&D and innovation activities, their information and communication technologies (ICT) usage and e-commerce, as well as global value chains. For the purpose of this Regulation, European business statistics shall also cover R&D statistics in the higher education, government and private non-profit sectors;
+(b)
+the production of manufactured goods and services and the international trade in goods and services.
+2.   The European framework for statistical business registers shall cover the national statistical business registers and the EuroGroups Register, as well as the data exchanges between them in accordance with Article 10.
+3.   The national statistical business registers referred to in paragraph 2 shall comprise:
+(a)
+all enterprises carrying out economic activities contributing to the gross domestic product (GDP), and their local units;
+(b)
+the legal units of which those enterprises consist;
+(c)
+for those enterprises which due to their size have a significant influence and whose kind-of-activity units (KAUs) have a significant influence on the aggregated (national) data either:
+(i)
+the KAU and size of each KAU of which those enterprises consist; or
+(ii)
+the NACE code of the secondary activities of those enterprises as laid down in Regulation (EC) No 1893/2006 of the European Parliament and of the Council (22) and the size of each of those secondary activities;
+(d)
+enterprise groups to which those enterprises belong.
+4.   The EuroGroups Register shall comprise the following units defined in Council Regulation (EEC) No 696/93 (23):
+(a)
+all enterprises carrying out economic activities contributing to the GDP which form part of a multinational enterprise group;
+(b)
+the legal units of which those enterprises consist;
+(c)
+multinational enterprise groups to which those enterprises belong.
+5.   Households shall not fall within the scope of the European framework for statistical business registers insofar as the goods and services they produce are destined to their own consumption, or involve letting out of own property.
+6.   Local units of foreign enterprises not constituting separate legal entities (branches), and classified as quasi-corporations in accordance with Regulation (EU) No 549/2013, shall be deemed to be enterprises for the purposes of the national statistical business registers and the EuroGroups Register.
+7.   Enterprise groups shall be identified through the links of control between their legal units in accordance with Regulation (EU) No 549/2013.
+8.   When referring to national statistical business registers and the EuroGroups Register, this Regulation shall apply only to units which, wholly or partially, exercise an economic activity and economically inactive legal units, which are part of an enterprise in combination with economically active legal units.
+9.   For the purposes of the European framework for statistical business registers, the following shall be considered to be an economic activity:
+(a)
+any activity comprising the offer of goods and services on a given market;
+(b)
+non-market services contributing to the GDP;
+(c)
+direct and indirect holdings of active legal units.
+Holding assets and/or liabilities may also be considered to be an economic activity.
+10.   Statistical units within the European framework for statistical business registers shall be defined in accordance with Regulation (EEC) No 696/93, subject to the limitations specified in this Article.

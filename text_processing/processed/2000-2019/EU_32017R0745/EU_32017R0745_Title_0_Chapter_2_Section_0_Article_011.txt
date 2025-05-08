@@ -1,0 +1,26 @@
+Article 11
+Authorised representative
+1.   Where the manufacturer of a device is not established in a Member State, the device may only be placed on the Union market if the manufacturer designates a sole authorised representative.
+2.   The designation shall constitute the authorised representative's mandate, it shall be valid only when accepted in writing by the authorised representative and shall be effective at least for all devices of the same generic device group.
+3.   The authorised representative shall perform the tasks specified in the mandate agreed between it and the manufacturer. The authorised representative shall provide a copy of the mandate to the competent authority, upon request.
+The mandate shall require, and the manufacturer shall enable, the authorised representative to perform at least the following tasks in relation to the devices that it covers:
+(a)
+verify that the EU declaration of conformity and technical documentation have been drawn up and, where applicable, that an appropriate conformity assessment procedure has been carried out by the manufacturer;
+(b)
+keep available a copy of the technical documentation, the EU declaration of conformity and, if applicable, a copy of the relevant certificate, including any amendments and supplements, issued in accordance with Article 56, at the disposal of competent authorities for the period referred to in Article 10(8);
+(c)
+comply with the registration obligations laid down in Article 31 and verify that the manufacturer has complied with the registration obligations laid down in Articles 27 and 29;
+(d)
+in response to a request from a competent authority, provide that competent authority with all the information and documentation necessary to demonstrate the conformity of a device, in an official Union language determined by the Member State concerned;
+(e)
+forward to the manufacturer any request by a competent authority of the Member State in which the authorised representative has its registered place of business for samples, or access to a device and verify that the competent authority receives the samples or is given access to the device;
+(f)
+cooperate with the competent authorities on any preventive or corrective action taken to eliminate or, if that is not possible, mitigate the risks posed by devices;
+(g)
+immediately inform the manufacturer about complaints and reports from healthcare professionals, patients and users about suspected incidents related to a device for which they have been designated;
+(h)
+terminate the mandate if the manufacturer acts contrary to its obligations under this Regulation.
+4.   The mandate referred to in paragraph 3 of this Article shall not delegate the manufacturer's obligations laid down in Article 10(1), (2), (3), (4), (6), (7), (9), (10), (11) and (12).
+5.   Without prejudice to paragraph 4 of this Article, where the manufacturer is not established in a Member State and has not complied with the obligations laid down in Article 10, the authorised representative shall be legally liable for defective devices on the same basis as, and jointly and severally with, the manufacturer.
+6.   An authorised representative who terminates its mandate on the ground referred to in point (h) of paragraph 3 shall immediately inform the competent authority of the Member State in which it is established and, where applicable, the notified body that was involved in the conformity assessment for the device of the termination of the mandate and the reasons therefor.
+7.   Any reference in this Regulation to the competent authority of the Member State in which the manufacturer has its registered place of business shall be understood as a reference to the competent authority of the Member State in which the authorised representative, designated by a manufacturer referred to in paragraph 1, has its registered place of business.

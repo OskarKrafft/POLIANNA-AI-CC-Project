@@ -1,0 +1,7 @@
+Article 68
+Processing and protection of personal data
+1.   Member States and the Commission shall collect personal data for the purposes set out in Article 67(1). They shall not process this data in a way that is incompatible with those purposes.
+2.   Where personal data are processed for monitoring and evaluation purposes as referred to in Article 67(1), they shall be made anonymous and processed in aggregated form only.
+3.   Personal data shall be processed in accordance with Directive 95/46/EC and Regulation (EC) No 45/2001. In particular, such data shall not be stored in a form which permits identification of data subjects for longer than is necessary for the purposes for which they were collected or for which they are further processed, taking into account the minimum retention periods laid down in the applicable national and Union law.
+4.   Member States shall inform the data subjects that their personal data may be processed by national and Union bodies in accordance with paragraph 1, and that in this respect they enjoy the rights set out in Directive 95/46/EC and Regulation (EC) No 45/2001, respectively.
+5.   This Article shall be subject to Articles 111 to 114 of Regulation (EU) No 1306/2013.

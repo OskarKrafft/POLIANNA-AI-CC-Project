@@ -1,0 +1,23 @@
+Article 248
+Implicit support
+1.   A sponsor institution, or an originator institution which in respect of a securitisation has made use of Article 245(1) and (2) in the calculation of risk-weighted exposure amounts or has sold instruments from its trading book to the effect that it is no longer required to hold own funds for the risks of those instruments shall not, with a view to reducing potential or actual losses to investors, provide support to the securitisation beyond its contractual obligations. A transaction shall not be considered to provide support if it is executed at arm's length conditions and taken into account in the assessment of significant risk transfer. Any such transaction shall be, regardless of whether it provides support, notified to the competent authorities and subject to the institution's credit review and approval process. The institution shall, when assessing whether the transaction is not structured to provide support, adequately consider at least all the following:
+(a)
+the price of the repurchase;
+(b)
+the institution's capital and liquidity position before and after repurchase;
+(c)
+the performance of the securitised exposures;
+(d)
+the performance of the securitisation positions;
+(e)
+the impact of support on the losses expected to be incurred by the originator relative to investors.
+2.   EBA shall, in accordance with Article 16 of Regulation (EU) No 1093/2010, issue guidelines on what constitutes arm's length conditions and when a transaction is not structured to provide support.
+3.   If an originator institution or a sponsor institution fails to comply with paragraph 1 in respect of a securitisation this institution shall at a minimum hold own funds against all of the securitised exposures as if they had not been securitised.
+
+Sub-Section 2
+
+
+
+Originator institutions' calculation of risk-weighted exposure amounts securitised in a synthetic securitisation
+
+

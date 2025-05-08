@@ -1,0 +1,39 @@
+Article 4
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1)
+‘Intelligent Transport Systems’ or ‘ITS’ means systems in which information and communication technologies are applied in the field of road transport, including infrastructure, vehicles and users, and in traffic management and mobility management, as well as for interfaces with other modes of transport;
+(2)
+‘interoperability’ means the capacity of systems and the underlying business processes to exchange data and to share information and knowledge;
+(3)
+‘ITS application’ means an operational instrument for the application of ITS;
+(4)
+‘ITS service’ means the provision of an ITS application through a well-defined organisational and operational framework with the aim of contributing to user safety, efficiency, comfort and/or to facilitate or support transport and travel operations;
+(5)
+‘ITS service provider’ means any provider of an ITS service, whether public or private;
+(6)
+‘ITS user’ means any user of ITS applications or services including travellers, vulnerable road users, road transport infrastructure users and operators, fleet managers and operators of emergency services;
+(7)
+‘vulnerable road users’ means non-motorised road users, such as pedestrians and cyclists as well as motor-cyclists and persons with disabilities or reduced mobility and orientation;
+(8)
+‘nomadic device’ means a portable communication or information device that can be brought inside the vehicle to support the driving task and/or the transport operations;
+(9)
+‘platform’ means an on-board or off-board unit enabling the deployment, provision, exploitation and integration of ITS applications and services;
+(10)
+‘architecture’ means the conceptual design that defines the structure, behaviour and integration of a given system in its surrounding context;
+(11)
+‘interface’ means a facility between systems which provides the media through which they can connect and interact;
+(12)
+‘compatibility’ means the general ability of a device or system to work with another device or system without modification;
+(13)
+‘continuity of services’ means the ability to ensure seamless services on transport networks across the Union;
+(14)
+‘road data’ means data on road infrastructure characteristics, including fixed traffic signs or their regulatory safety attributes;
+(15)
+‘traffic data’ means historic and real-time data on road traffic characteristics;
+(16)
+‘travel data’ means basic data such as public transport timetables and tariffs, necessary to provide multi-modal travel information before and during the trip to facilitate travel planning, booking and adaptation;
+(17)
+‘specification’ means a binding measure laying down provisions containing requirements, procedures or any other relevant rules;
+(18)
+‘standard’ means standard as defined in Article 1(6) of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations (16).

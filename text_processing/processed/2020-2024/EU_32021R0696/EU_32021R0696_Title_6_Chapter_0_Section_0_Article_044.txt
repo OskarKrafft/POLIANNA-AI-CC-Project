@@ -1,0 +1,21 @@
+Article 44
+Eligible actions
+The exploitation of Galileo and EGNOS shall cover the following eligible actions:
+(a)
+the management, operation, maintenance, continuous improvement, evolution and protection of space-based infrastructure, including upgrades and obsolescence management;
+(b)
+the management, operation, maintenance, continuous improvement, evolution and protection of the ground-based infrastructure, in particular ground-based centres and stations referred to in Implementing Decision (EU) 2016/413 or Commission Implementing Decision (EU) 2017/1406 (45), networks, including upgrades and obsolescence management;
+(c)
+the development of future generations of the systems and the evolution of the services provided by Galileo and EGNOS, including by taking into account the needs of relevant stakeholders; this shall not affect future decisions on the Union financial perspectives;
+(d)
+support the development of Galileo and EGNOS downstream applications and the development and evolution of fundamental technological elements, such as Galileo-enabled chipsets and receivers;
+(e)
+the support of certification and standardisation activities related to Galileo and EGNOS, in particular in the transport sector;
+(f)
+the continuous provision of the services provided by Galileo and EGNOS and, in complementarity with Member States and private sector initiatives, the market development of those services, in particular in order to maximise the socio-economic benefits referred to in point (b) of Article 4(1);
+(g)
+cooperation with other regional or global satellite navigation systems, including to facilitate compatibility and interoperability;
+(h)
+elements to monitor the reliability of the systems and their exploitation, and the performance of the services;
+(i)
+activities related to the provision of services and to the coordination of the extension of their coverage.

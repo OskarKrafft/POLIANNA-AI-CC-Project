@@ -1,0 +1,34 @@
+Article 336
+Own funds requirement for non-securitisation debt instruments
+1.   The institution shall assign its net positions in the trading book in instruments that are not securitisation positions as calculated in accordance with Article 327 to the appropriate categories in Table 1 on the basis of their issuer or obligor, external or internal credit assessment, and residual maturity, and then multiply them by the weightings shown in that table. It shall sum its weighted positions resulting from the application of this Article regardless of whether they are long or short in order to calculate its own funds requirement against specific risk.
+
+Table 1
+
+Categories
+Specific risk own funds requirement
+Debt securities which would receive a 0 % risk weight under the Standardised Approach for credit risk.
+0  %
+Debt securities which would receive a 20 % or 50 % risk weight under the Standardised Approach for credit risk and other qualifying items as defined in paragraph 4.
+0,25 % (residual term to final maturity six months or less)
+1,00 % (residual term to final maturity greater than six months and up to and including 24 months)
+1,60 % (residual term to maturity exceeding 24 months)
+Debt securities which would receive a 100 % risk weight under the Standardised Approach for credit risk.
+8,00  %
+Debt which would receive a 150 % risk weight under the Standardised Approach for credit risk.
+12,00  %
+2.   For institutions which apply the IRB Approach to the exposure class of which the issuer of the debt instrument forms part, to qualify for a risk weight under the Standardised Approach for credit risk as referred to in paragraph 1, the issuer of the exposure shall have an internal rating with a PD equivalent to or lower than that associated with the appropriate credit quality step under the Standardised Approach.
+3.   Institutions may calculate the specific risk requirements for any bonds that qualify for a 10 % risk weight in accordance with the treatment set out in Article 129(4), (5) and (6) as half of the applicable specific risk own funds requirement for the second category in Table 1.
+4.   Other qualifying items are:
+(a)
+long and short positions in assets for which a credit assessment by a nominated ECAI is not available and which meet all of the following conditions:
+(i)
+they are considered by the institution concerned to be sufficiently liquid;
+(ii)
+their investment quality is, according to the institution's own discretion, at least equivalent to that of the assets referred to under Table 1 second row;
+(iii)
+they are listed on at least one regulated market in a Member State or on a stock exchange in a third country provided that the exchange is recognised by the competent authorities of the relevant Member State;
+(b)
+long and short positions in assets issued by institutions subject to the own funds requirements set out in this Regulation which are considered by the institution concerned to be sufficiently liquid and whose investment quality is, according to the institution's own discretion, at least equivalent to that of the assets referred to under Table 1 second row;
+(c)
+securities issued by institutions that are deemed to be of equivalent, or higher, credit quality than those associated with credit quality step 2 under the Standardised Approach for credit risk of exposures to institutions and that are subject to supervisory and regulatory arrangements comparable to those under this Regulation and Directive 2013/36/EU.
+Institutions that make use of point (a) or (b) shall have a documented methodology in place to assess whether assets meet the requirements in those points and shall notify this methodology to the competent authorities.

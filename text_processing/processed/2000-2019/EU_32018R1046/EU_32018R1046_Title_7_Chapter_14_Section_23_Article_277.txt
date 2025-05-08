@@ -1,0 +1,24 @@
+Article 277
+Amendments to Regulation (EU) No 283/2014
+Regulation (EU) No 283/2014 is amended as follows:
+(1)
+in Article 2(2), point (e) is replaced by the following:
+‘(e)
+“generic services” means gateway services linking one or more national infrastructures to core service platforms as well as services increasing the capacity of a digital service infrastructure by providing access to high performance computing, storage and data management facilities;’;
+(2)
+Article 5 is amended as follows:
+(a)
+paragraph 4 is replaced by the following:
+‘4.   Actions contributing to projects of common interest in the field of digital service infrastructures shall be supported by:
+(a)
+procurement;
+(b)
+grants; and/or
+(c)
+financial instruments as provided for in paragraph 5.’;
+(b)
+the following paragraph is inserted:
+‘4a.   The overall contribution from the Union budget to financial instruments for digital service infrastructures referred to in point (c) of paragraph 4 of this Article shall not exceed 10 % of the financial envelope for the telecommunications sector referred to in point (b) of Article 5(1) of Regulation (EU) No 1316/2013.’;
+(3)
+in Article 8, paragraph 1 is replaced by the following:
+‘1.   On the basis of information received under the third paragraph of Article 22 of Regulation (EU) No 1316/2013, Member States and the Commission shall exchange information and best practices about the progress made in the implementation of this Regulation, including the use of financial instruments. Where appropriate, Member States shall involve local and regional authorities in the process. The Commission shall publish a yearly overview of that information and submit it to the European Parliament and to the Council.’.

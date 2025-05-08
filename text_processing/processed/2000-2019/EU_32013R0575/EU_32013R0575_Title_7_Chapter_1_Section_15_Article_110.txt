@@ -1,0 +1,25 @@
+Article 110
+Treatment of credit risk adjustment
+1.   Institutions applying the Standardised Approach shall treat general credit risk adjustments in accordance with Article 62(c).
+2.   Institutions applying the IRB Approach shall treat general credit risk adjustments in accordance with Article 159, Article 62(d) and Article 36(1)(d).
+For the purposes of this Article and Chapters 2 and 3, general and specific credit risk adjustments shall exclude funds for general banking risk.
+3.   Institutions using the IRB Approach that apply the Standardised Approach for a part of their exposures on consolidated or individual basis, in accordance with Articles 148 and 150 shall determine the part of general credit risk adjustment that shall be assigned to the treatment of general credit risk adjustment under the Standardised Approach and to the treatment of general credit risk adjustment under the IRB Approach as follows:
+(a)
+where applicable when an institution included in the consolidation exclusively applies the IRB Approach, general credit risk adjustments of this institution shall be assigned to the treatment set out in paragraph 2;
+(b)
+where applicable, when an institution included in the consolidation exclusively applies the Standardised Approach, general credit risk adjustment of this institution shall be assigned to the treatment set out in paragraph 1;
+(c)
+The remainder of credit risk adjustment shall be assigned on a pro rata basis according to the proportion of risk weighted exposure amounts subject to the Standardised Approach and subject to the IRB Approach.
+4.   EBA shall develop draft regulatory technical standards to specify the calculation of specific credit risk adjustments and general credit risk adjustments under the applicable accounting framework for the following:
+(a)
+exposure value under the Standardised Approach referred to in Article 111;
+(b)
+exposure value under the IRB Approach referred to in Articles 166 to 168;
+(c)
+treatment of expected loss amounts referred to in Article 159;
+(d)
+exposure value for the calculation of the risk-weighted exposure amounts for securitisation position referred to in Articles 246 and 266;
+(e)
+the determination of default under Article 178.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

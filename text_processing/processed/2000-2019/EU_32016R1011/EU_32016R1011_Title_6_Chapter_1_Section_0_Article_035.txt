@@ -1,0 +1,15 @@
+Article 35
+Withdrawal or suspension of authorisation or registration
+1.   A competent authority may withdraw or suspend the authorisation or registration of an administrator where the administrator:
+(a)
+expressly renounces the authorisation or registration or has provided no benchmarks for the preceding 12 months;
+(b)
+has obtained the authorisation or registration, or has endorsed a benchmark, by making false statements or by any other irregular means;
+(c)
+no longer meets the conditions under which it was authorised or registered; or
+(d)
+has seriously or repeatedly infringed the provisions of this Regulation.
+2.   The competent authority shall notify ESMA of its decision within five working days of the adoption of said decision.
+ESMA shall promptly update the register provided for in Article 36.
+3.   Following the adoption of a decision to suspend the authorisation or registration of an administrator, and where cessation of the benchmark would result in a force majeure event, or frustrate or otherwise breach the terms of any financial contract or financial instrument, or the rules of any investment fund, which references that benchmark, as specified in the delegated act adopted pursuant to Article 51(6), the provision of the benchmark in question may be permitted by the relevant competent authority of the Member State where the administrator is located until the decision of suspension has been withdrawn. During that period of time, the use of such benchmark by supervised entities shall be permitted only for financial contracts, financial instruments and investment funds that already reference the benchmark.
+4.   Following the adoption of a decision to withdraw the authorisation or registration of an administrator, Article 28(2) shall apply.

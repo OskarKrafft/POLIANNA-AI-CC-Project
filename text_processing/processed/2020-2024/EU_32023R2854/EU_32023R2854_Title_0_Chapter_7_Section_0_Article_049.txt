@@ -1,0 +1,32 @@
+Article 49
+Evaluation and review
+1.   By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee. That evaluation shall assess, in particular:
+(a)
+situations to be considered to be situations of exceptional need for the purpose of Article 15 of this Regulation and the application of Chapter V of this Regulation in practice, in particular the experience in the application of Chapter V of this Regulation by public sector bodies, the Commission, the European Central Bank and Union bodies; the number and outcome of the proceedings brought to the competent authority under Article 18(5) on the application of Chapter V of this Regulation, as reported by the competent authorities; the impact of other obligations laid down in Union or national law for the purposes of complying with requests for access to information; the impact of voluntary data-sharing mechanisms, such as those put in place by data altruism organisations recognised under Regulation (EU) 2022/868, on meeting the objectives of Chapter V of this Regulation, and the role of personal data in the context of Article 15 of this Regulation, including the evolution of privacy-enhancing technologies;
+(b)
+the impact of this Regulation on the use of data in the economy, including on data innovation, data monetisation practices and data intermediation services, as well as on data sharing within the common European data spaces;
+(c)
+the accessibility and use of different categories and types of data;
+(d)
+the exclusion of certain categories of enterprises as beneficiaries under Article 5;
+(e)
+the absence of any impact on intellectual property rights;
+(f)
+the impact on trade secrets, including on the protection against their unlawful acquisition, use and disclosure, as well as the impact of the mechanism allowing the data holder to refuse the user’s request under Article 4(8) and Article 5(11), taking into account, to the extent possible, any revision of Directive (EU) 2016/943;
+(g)
+whether the list of unfair contractual terms referred to in Article 13 is up-to-date in light of new business practices and the rapid pace of market innovation;
+(h)
+changes in the contractual practices of providers of data processing services and whether this results in sufficient compliance with Article 25;
+(i)
+the diminution of charges imposed by providers of data processing services for the switching process, in line with the gradual withdrawal of switching charges pursuant to Article 29;
+(j)
+the interplay of this Regulation with other Union legal acts of relevance to the data economy;
+(k)
+the prevention of unlawful governmental access to non-personal data;
+(l)
+the efficacy of the enforcement regime required under Article 37;
+(m)
+the impact of this Regulation on SMEs with regard to their capacity to innovate and to the availability of data processing services for users in the Union and the burden of complying with new obligations.
+2.   By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee. That evaluation shall assess the impact of Articles 23 to 31 and Articles 34 and 35, in particular regarding pricing and the diversity of data processing services offered within the Union, with a special focus on SME providers.
+3.   Member States shall provide the Commission with the information necessary for the preparation of the reports referred to in paragraphs 1 and 2.
+4.   On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.

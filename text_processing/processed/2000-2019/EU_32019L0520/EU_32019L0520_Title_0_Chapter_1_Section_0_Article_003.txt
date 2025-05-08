@@ -1,0 +1,16 @@
+Article 3
+Technological solutions
+1.   All new electronic road toll systems which require the installation or use of OBE shall, for carrying out electronic toll transactions, use one or more of the following technologies:
+(a)
+satellite positioning;
+(b)
+mobile communications;
+(c)
+5,8 GHz microwave technology.
+Existing electronic road toll systems which require the installation or use of OBE and use other technologies shall comply with the requirements set out in the first subparagraph of this paragraph if substantial technological improvements are carried out.
+2.   The Commission shall request the relevant standardisation bodies, in accordance with the procedure laid down by Directive (EU) 2015/1535 of the European Parliament and of the Council (12) to swiftly adopt standards applicable to electronic road toll systems with regard to the technologies listed in the first subparagraph of paragraph 1 and the ANPR technology, and to update them where necessary. The Commission shall request that the standardisation bodies ensure the continual compatibility of interoperability constituents.
+3.   OBE which uses satellite positioning technology and is placed on the market after 19 October 2021 shall be compatible with the positioning services provided by the Galileo and the European Geostationary Navigation Overlay Service (‘EGNOS’) systems.
+4.   Without prejudice to paragraph 6, EETS providers shall make available to EETS users OBE which is suitable for use, interoperable and capable of communicating with the relevant electronic road toll systems in service in the Member States using the technologies listed in the first subparagraph of paragraph 1.
+5.   The OBE may use its own hardware and software, use elements of other hardware and software present in the vehicle, or both. For the purpose of communicating with other hardware systems present in the vehicle, the OBE may use technologies other than those listed in the first subparagraph of paragraph 1, provided that security, quality of service and privacy are ensured.
+EETS OBE is allowed to facilitate services other than tolling, provided that the operation of such services does not interfere with the toll services in any EETS domain.
+6.   Without prejudice to the right of Member States to introduce electronic road toll systems for light-duty vehicles based on satellite positioning or mobile communications, EETS providers may until 31 December 2027 provide users of light-duty vehicles with OBE suitable for use with 5,8 GHz microwave technology only, to be used in EETS domains which do not require satellite positioning or mobile communications technologies.

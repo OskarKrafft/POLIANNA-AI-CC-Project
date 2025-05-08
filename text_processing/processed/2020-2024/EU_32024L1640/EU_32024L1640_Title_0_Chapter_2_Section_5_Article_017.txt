@@ -1,0 +1,31 @@
+Article 17
+Implementing acts for the interconnection of registers
+1.   The Commission may set out, by means of implementing acts, technical specifications and procedures necessary to provide for the interconnection of Member States’ central registers in accordance with Article 10(19) with regard to:
+(a)
+the technical specifications defining the set of the technical data necessary for the platform to perform its functions as well as the method of storage, use and protection of such data;
+(b)
+the common criteria according to which beneficial ownership information is available through the system of interconnection of central registers, depending on the level of access granted by Member States;
+(c)
+the technical details on how the information on beneficial owners is to be made available;
+(d)
+the technical conditions of availability of services provided by the system of interconnection of central registers;
+(e)
+the technical arrangements to implement the different types of access to information on beneficial ownership in accordance with Articles 11 and 12 of this Directive, including the authentication of users through the use of electronic identification means and relevant trust services as set out in Regulation (EU) No 910/2014;
+(f)
+the payment arrangements where access to beneficial ownership information is subject to the payment of a fee according to Articles 11(4) and 13(12) taking into account available payment facilities such as remote payment transactions.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+2.   The Commission may set out, by means of implementing acts, technical specifications and procedures necessary to provide for the interconnection of Member States’ centralised automated mechanisms as referred to in Article 16(6), with regard to:
+(a)
+the technical specification defining the methods of communication by electronic means for the purposes of BARIS;
+(b)
+the technical specification of the communication protocols;
+(c)
+the technical specifications defining the data security, data protection safeguards, use and protection of the information which is searchable and accessible by means of BARIS;
+(d)
+the common criteria according to which bank account information is searchable through BARIS;
+(e)
+the technical details on how the information is made available by means of BARIS, including the authentication of users through the use of electronic identification means and relevant trust services as set out in Regulation (EU) No 910/2014;
+(f)
+the technical conditions of availability of services provided by BARIS.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 72(2).
+3.   When adopting the implementing acts referred to in paragraphs 1 and 2, the Commission shall take into account proven technology and existing practices. The Commission shall ensure that BARIS to be developed and operated does not incur costs beyond what is absolutely necessary in order to implement this Directive.

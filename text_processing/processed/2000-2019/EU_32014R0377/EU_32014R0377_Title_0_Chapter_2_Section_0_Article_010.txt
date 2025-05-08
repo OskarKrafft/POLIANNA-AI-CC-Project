@@ -1,0 +1,28 @@
+Article 10
+The role of European Space Agency
+1.   The Commission shall conclude a delegation agreement with ESA entrusting it with the following tasks:
+(a)
+ensuring the technical coordination of the Copernicus space component;
+(b)
+defining the overall system architecture for the Copernicus space component and its evolution on the basis of user requirements, coordinated by the Commission;
+(c)
+managing the funds allocated;
+(d)
+ensuring monitoring and control procedures.
+(e)
+developing new dedicated missions;
+(f)
+procuring recurrent dedicated missions;
+(g)
+operating the dedicated missions, except those operated by EUMETSAT in accordance with paragraph 2 of this Article;
+(h)
+coordinating a scheme for access to contributing mission data by Copernicus services;
+(i)
+procuring access rights and negotiating conditions of use of commercial satellite data required by the Copernicus services referred to in Article 5(1).
+2.   The Commission shall conclude a delegation agreement with EUMETSAT entrusting it with the responsibility to operate dedicated missions and provide access to contributing mission data, pursuant to its mandate and expertise.
+3.   The delegation agreements with ESA and EUMETSAT shall be concluded on the basis of a delegation decision adopted by the Commission in accordance with point (c) of Article 58(1) of the Financial Regulation.
+4.   In accordance with Article 60 of the Financial Regulation, ESA and EUMETSAT shall act, wherever appropriate, as contracting authorities with the capacity to take decisions regarding the implementation and coordination of the procurement tasks delegated to them.
+5.   The delegation agreements shall, insofar as necessary for the tasks and budget implementation delegated, lay down the general conditions for the management of the funds entrusted to ESA and EUMETSAT and shall take into consideration, where appropriate, the ESA Long-Term Scenario (LTS). In particular, they shall lay down the actions to be implemented as regards the development, procurement and operation of the Copernicus space component, the relevant financing, management procedures and monitoring and control measures, the measures applicable in the event of inadequate implementation of contracts in terms of costs, schedule, performance and procurement, as well as the rules regarding ownership of all tangible and intangible assets.
+6.   The monitoring and control measures shall, in particular, provide for a provisional cost forecast system, for systematic information to the Commission on costs and schedule, and, in the event of a discrepancy between the planned budgets, performance and schedule, for corrective action ensuring the implementation of the activities within the limits of the budgets allocated.
+7.   The Copernicus Committee shall be consulted on the delegation decision referred to in paragraph 3 of this Article, in accordance with the advisory procedure referred to in Article 30(3). The Copernicus Committee shall be informed in advance of the delegation agreements to be concluded by the Union, represented by the Commission, with ESA and EUMETSAT.
+8.   The Commission shall inform the Copernicus Committee of the results of the evaluation of the procurement tenders and of the contracts with private sector entities to be concluded by ESA and EUMETSAT, including the information relating to subcontracting.

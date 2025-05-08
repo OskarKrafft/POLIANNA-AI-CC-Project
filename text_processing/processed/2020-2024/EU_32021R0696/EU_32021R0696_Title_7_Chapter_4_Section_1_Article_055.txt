@@ -1,0 +1,25 @@
+Article 55
+SST services
+1.   SST services shall comprise:
+(a)
+the risk assessment of collision between spacecraft or between spacecraft and space debris and the potential generation of collision avoidance alerts during the phases of launch, early orbit, orbit raising, in-orbit operations and disposal phases of spacecraft missions;
+(b)
+the detection and characterisation of in-orbit fragmentations, break-ups or collisions;
+(c)
+the risk assessment of the uncontrolled re-entry of space objects and space debris into the Earth’s atmosphere and the generation of related information, including the estimation of the timeframe and likely location of possible impact;
+(d)
+the development of activities in preparation of:
+(i)
+space debris mitigation in order to reduce their generation; and
+(ii)
+space debris remediation by managing the existing space debris.
+2.   SST services shall be free of charge, available at any time without interruption and adapted to the needs of the SST users referred to in Article 56.
+3.   Member States participating in the SST sub-component, the Commission and, where relevant, the SST Front desk referred to in Article 59(1), shall not be held liable for:
+(a)
+damage resulting from the lack of or interruption in the provision of SST services;
+(b)
+delay in the provision of SST services;
+(c)
+inaccuracy of the information provided through the SST services;
+(d)
+action undertaken in response to the provision of SST services.

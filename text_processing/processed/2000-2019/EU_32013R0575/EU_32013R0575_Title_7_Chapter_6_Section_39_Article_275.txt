@@ -1,0 +1,19 @@
+Article 275
+Original Exposure Method
+1.   The exposure value is the notional amount of each instrument multiplied by the percentages set out in Table 3.
+
+Table 3
+
+Original maturity
+Interest-rate contracts
+Contracts concerning foreign-exchange rates and gold
+One year or less
+0,5  %
+2  %
+Over one year, not exceeding two years
+1  %
+5  %
+Additional allowance for each additional year
+1  %
+3  %
+2.   For calculating the exposure value of interest-rate contracts, an institution may choose to use either the original or residual maturity.

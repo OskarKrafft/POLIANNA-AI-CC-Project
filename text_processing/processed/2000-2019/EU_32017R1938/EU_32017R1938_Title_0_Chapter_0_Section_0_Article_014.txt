@@ -1,0 +1,48 @@
+Article 14
+Information exchange
+1.   Where a Member State has declared one of the crisis levels referred to in Article 11(1), the natural gas undertakings concerned shall make available, on a daily basis, in particular the following information to the competent authority of the Member State concerned:
+(a)
+the daily gas demand and gas supply forecasts for the following three days, in million cubic metres per day (mcm/d);
+(b)
+the daily flow of gas at all cross-border entry and exit points as well as at all points connecting a production facility, a storage facility or an LNG terminal to the network, in million cubic metres per day (mcm/d);
+(c)
+the period, expressed in days, for which it is expected that supply of gas to protected customers can be ensured.
+2.   In the event of a regional or Union emergency, the Commission may request that the competent authority referred to in paragraph 1 provide it without delay with at least:
+(a)
+the information set out in paragraph 1;
+(b)
+information on the measures planned to be undertaken and those already implemented by the competent authority to mitigate the emergency, and information on their effectiveness;
+(c)
+the requests made for additional measures to be taken by other competent authorities;
+(d)
+the measures implemented at the request of other competent authorities.
+3.   After an emergency, the competent authority referred to in paragraph 1 shall, as soon as possible and at the latest six weeks after the lifting of the emergency, provide the Commission with a detailed assessment of the emergency and the effectiveness of the measures implemented, including an assessment of the economic impact of the emergency, the impact on the electricity sector and the assistance provided to or received from, the Union and its Member States. Such assessment shall be made available to the GCG and shall be reflected in the updates of the preventive action plans and the emergency plans.
+The Commission shall analyse the assessments of the competent authorities and shall inform the Member States, the European Parliament and the GCG of the results of its analysis in an aggregated form.
+4.   In duly justified circumstances irrespective of a declaration of an emergency, the competent authority of the most affected Member State may require natural gas undertakings to provide the information referred to in paragraph 1 or additional information necessary to assess the overall situation of the gas supply in the Member State or other Member States, including contractual information, other than price information. The Commission may request from the competent authorities the information provided by natural gas undertakings under this paragraph, provided that the same information has not been transmitted already to the Commission.
+5.   Where the Commission considers the gas supply in the Union or part of the Union to be at risk or is likely to be at risk that may lead to the declaration of one of the crisis levels referred to in Article 11(1), it may require the competent authorities concerned to collect and submit to the Commission information necessary to assess of the gas supply situation. The Commission shall share its assessment with the GCG.
+6.   In order for the competent authorities and the Commission to assess the security of gas supply situation at national, regional and Union level, each natural gas undertaking shall notify:
+(a)
+to the competent authority concerned the following details of gas supply contracts with a cross-border dimension and a duration of more than one year which it has concluded to procure gas:
+(i)
+contract duration;
+(ii)
+yearly contracted volumes;
+(iii)
+contracted maximum daily volumes in the event of an alert or emergency;
+(iv)
+contracted delivery points;
+(v)
+minimum daily and monthly gas volumes;
+(vi)
+conditions for the suspension of gas deliveries.
+(vii)
+an indication whether the contract individually or cumulatively with its contracts with the same supplier or its affiliates is equivalent to or exceeds the threshold of 28 % as referred to in point (b) of paragraph 6 in the most affected Member State.
+(b)
+to the competent authority of the most affected Member State immediately after their conclusion or modification its gas supply contracts with a duration of more than one year, concluded or modified on or after 1 November 2017 that individually or cumulatively with its contracts with the same supplier or its affiliates is equivalent to 28 % or more of yearly gas consumption in that Member State to be calculated on the basis of the most recent available data. In addition, by 2 November 2018 natural gas undertakings shall notify the competent authority of all existing contracts fulfilling the same conditions. The notification obligation shall not cover price information and shall not apply to the modifications related only to the gas price. The notification obligation shall also apply to all commercial agreements that are relevant for the execution of the gas supply contract excluding price information.
+The competent authority shall notify the data listed in point (a) of the first subparagraph to the Commission in an anonymised form. In the event of new contracts being concluded or changes being made to existing contracts, the whole set of data shall be notified by the end of September of the relevant year. Where the competent authority has doubts whether a given contract obtained under point (b) of the first subparagraph puts the security of gas supply of a Member State or a region at risk, it shall notify the contract to the Commission.
+7.   In circumstances duly justified by the need to guarantee transparency of key gas supply contracts relevant to the security of gas supply, and where the competent authority of the most affected Member State or the Commission considers that a gas supply contract may jeopardise the security of gas supply of a Member State, of a region or of the Union, the competent authority of the Member State or the Commission may request the natural gas undertaking to provide the contract, excluding price information, for the assessment of its impact on the security of gas supply. The request shall be reasoned and may cover also details of any other commercial agreements that are relevant for the execution of the gas supply contract excluding price information. The justification shall include the proportionality of the administrative burden involved.
+8.   The competent authorities that receive information on the basis of point (b) of paragraph 6 or paragraph 7 of this Article shall assess the received information for security of gas supply purposes within three months and submit the results of their assessment to the Commission.
+9.   The competent authority shall take into account the information received under this Article in the preparation of the risk assessment, preventive action plan and emergency plan or their respective updates. The Commission may adopt an opinion proposing to the competent authority to amend the risk assessments or plans on the basis of the information received under this Article. The competent authority concerned shall review the risk assessment and the plans concerned by the request in accordance with the procedure set out in Article 8(9).
+10.   By 2 May 2019, the Member States shall lay down the rules on penalties applicable to infringements by natural gas undertakings of paragraph 6 or 7 of this Article and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+11.   For the purpose of this Article, ‘the most affected Member State’ shall mean a Member State where a contract party of a given contract has the most of its sales of gas or customers located.
+12.   All contracts or contractual information received on the basis of paragraphs 6 and 7 as well as the respective assessments by the competent authorities or the Commission shall remain confidential. The competent authorities and the Commission shall ensure full confidentiality.

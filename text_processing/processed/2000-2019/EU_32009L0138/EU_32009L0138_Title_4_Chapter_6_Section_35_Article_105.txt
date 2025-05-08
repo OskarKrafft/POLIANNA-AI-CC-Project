@@ -1,0 +1,50 @@
+Article 105
+Calculation of the Basic Solvency Capital Requirement
+1.   The Basic Solvency Capital Requirement shall be calculated in accordance with paragraphs 2 to 6.
+2.   The non-life underwriting risk module shall reflect the risk arising from non-life insurance obligations, in relation to the perils covered and the processes used in the conduct of business.
+It shall take account of the uncertainty in the results of insurance and reinsurance undertakings related to the existing insurance and reinsurance obligations as well as to the new business expected to be written over the following 12 months.
+It shall be calculated, in accordance with point (2) of Annex IV, as a combination of the capital requirements for at least the following sub-modules:
+(a)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from fluctuations in the timing, frequency and severity of insured events, and in the timing and amount of claim settlements (non-life premium and reserve risk);
+(b)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from significant uncertainty of pricing and provisioning assumptions related to extreme or exceptional events (non-life catastrophe risk).
+3.   The life underwriting risk module shall reflect the risk arising from life insurance obligations, in relation to the perils covered and the processes used in the conduct of business.
+It shall be calculated, in accordance with point (3) of Annex IV, as a combination of the capital requirements for at least the following sub-modules:
+(a)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level, trend, or volatility of mortality rates, where an increase in the mortality rate leads to an increase in the value of insurance liabilities (mortality risk);
+(b)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level, trend, or volatility of mortality rates, where a decrease in the mortality rate leads to an increase in the value of insurance liabilities (longevity risk);
+(c)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level, trend or volatility of disability, sickness and morbidity rates (disability – morbidity risk);
+(d)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level, trend, or volatility of the expenses incurred in servicing insurance or reinsurance contracts (life-expense risk);
+(e)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from fluctuations in the level, trend, or volatility of the revision rates applied to annuities, due to changes in the legal environment or in the state of health of the person insured (revision risk);
+(f)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level or volatility of the rates of policy lapses, terminations, renewals and surrenders (lapse risk);
+(g)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from the significant uncertainty of pricing and provisioning assumptions related to extreme or irregular events (life-catastrophe risk).
+4.   The health underwriting risk module shall reflect the risk arising from the underwriting of health insurance obligations, whether it is pursued on a similar technical basis to that of life insurance or not, following from both the perils covered and the processes used in the conduct of business.
+It shall cover at least the following risks:
+(a)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from changes in the level, trend, or volatility of the expenses incurred in servicing insurance or reinsurance contracts;
+(b)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from fluctuations in the timing, frequency and severity of insured events, and in the timing and amount of claim settlements at the time of provisioning;
+(c)
+the risk of loss, or of adverse change in the value of insurance liabilities, resulting from the significant uncertainty of pricing and provisioning assumptions related to outbreaks of major epidemics, as well as the unusual accumulation of risks under such extreme circumstances.
+5.   The market risk module shall reflect the risk arising from the level or volatility of market prices of financial instruments which have an impact upon the value of the assets and liabilities of the undertaking. It shall properly reflect the structural mismatch between assets and liabilities, in particular with respect to the duration thereof.
+It shall be calculated, in accordance with point (4) of Annex IV, as a combination of the capital requirements for at least the following sub-modules:
+(a)
+the sensitivity of the values of assets, liabilities and financial instruments to changes in the term structure of interest rates, or in the volatility of interest rates (interest rate risk);
+(b)
+the sensitivity of the values of assets, liabilities and financial instruments to changes in the level or in the volatility of market prices of equities (equity risk);
+(c)
+the sensitivity of the values of assets, liabilities and financial instruments to changes in the level or in the volatility of market prices of real estate (property risk);
+(d)
+the sensitivity of the values of assets, liabilities and financial instruments to changes in the level or in the volatility of credit spreads over the risk-free interest rate term structure (spread risk);
+(e)
+the sensitivity of the values of assets, liabilities and financial instruments to changes in the level or in the volatility of currency exchange rates (currency risk);
+(f)
+additional risks to an insurance or reinsurance undertaking stemming either from lack of diversification in the asset portfolio or from large exposure to default risk by a single issuer of securities or a group of related issuers (market risk concentrations).
+6.   The counterparty default risk module shall reflect possible losses due to unexpected default, or deterioration in the credit standing, of the counterparties and debtors of insurance and reinsurance undertakings over the following 12 months. The counterparty default risk module shall cover risk-mitigating contracts, such as reinsurance arrangements, securitisations and derivatives, and receivables from intermediaries, as well as any other credit exposures which are not covered in the spread risk sub-module. It shall take appropriate account of collateral or other security held by or for the account of the insurance or reinsurance undertaking and the risks associated therewith.
+For each counterparty, the counterparty default risk module shall take account of the overall counterparty risk exposure of the insurance or reinsurance undertaking concerned to that counterparty, irrespective of the legal form of its contractual obligations to that undertaking.

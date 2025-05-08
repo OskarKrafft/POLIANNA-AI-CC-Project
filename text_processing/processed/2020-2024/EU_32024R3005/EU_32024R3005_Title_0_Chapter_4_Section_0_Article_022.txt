@@ -1,0 +1,13 @@
+Article 22
+Exemptions from governance requirements
+1.   An ESG rating provider may lodge a request with ESMA to be exempted from complying with the requirements laid down in Article 15(6), (8) and (10).
+2.   When assessing a request as referred to in paragraph 1 of this Article, ESMA shall verify whether the following conditions are met:
+(a)
+the ESG rating provider is a small ESG rating provider, within the meaning of Article 5(1);
+(b)
+the ESG rating provider has implemented measures and procedures, and in particular internal control mechanisms, reporting arrangements and measures, that ensure the independence of rating analysts and persons approving ESG ratings and that ensure effective compliance with this Regulation;
+(c)
+the ESG rating provider has shown that its size has not been determined in such a way as to circumvent the requirements of this Regulation;
+(d)
+the ESG rating provider has demonstrated with sufficient clarity that the requirements laid down in Article 15(6), (8) and (10) are not proportionate to the nature, scale or complexity of the business of that ESG rating provider or in view of the nature or range of the issuance of ESG ratings.
+On the basis of those considerations, ESMA may exempt the ESG rating provider from all of the requirements laid down in Article 15(6), (8) and (10) or, in duly justified cases and based on the elements provided by the ESG rating provider pursuant to the first subparagraph, point (d), of this paragraph, from some of those requirements only.

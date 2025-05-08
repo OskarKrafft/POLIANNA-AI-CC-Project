@@ -1,0 +1,6 @@
+Article 21
+RtM K‐factor requirement
+1.   The RtM K‐factor requirement for the trading book positions of an investment firm dealing on own account, whether for itself or on behalf of a client shall be either K‐NPR calculated in accordance with Article 22 or K‐CMG calculated in accordance with Article 23.
+2.   Investment firms shall manage their trading book in accordance with Chapter 3 of Title I of Part Three of Regulation (EU) No 575/2013.
+3.   The RtM K‐factor requirement applies to all trading book positions, which include in particular positions in debt instruments (including securitisation instruments), equity instruments, collective investment undertakings (CIUs), foreign exchange and gold, and commodities (including emission allowances).
+4.   For the purpose of calculating the RtM K‐factor requirement, an investment firm shall include positions other than trading book positions where those give rise to foreign exchange risk or commodity risk.

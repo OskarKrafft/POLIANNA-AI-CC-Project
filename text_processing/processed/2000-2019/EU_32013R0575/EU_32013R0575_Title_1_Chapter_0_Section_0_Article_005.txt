@@ -1,0 +1,9 @@
+Article 5
+Definitions specific to capital requirements for credit risk
+For the purposes of Part Three, Title II, the following definitions shall apply:
+(1)
+‧exposure‧ means an asset or off-balance sheet item;
+(2)
+‧loss‧ means economic loss, including material discount effects, and material direct and indirect costs associated with collecting on the instrument;
+(3)
+‧expected loss‧ or ‧EL‧ means the ratio of the amount expected to be lost on an exposure from a potential default of a counterparty or dilution over a one year period to the amount outstanding at default.

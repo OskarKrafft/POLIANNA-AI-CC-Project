@@ -1,0 +1,12 @@
+Article 29
+European Data Innovation Board
+1.   The Commission shall establish a European Data Innovation Board in the form of an expert group, consisting of representatives of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations of all Member States, the European Data Protection Board, the European Data Protection Supervisor, ENISA, the Commission, the EU SME Envoy or a representative appointed by the network of SME envoys, and other representatives of relevant bodies in specific sectors as well as bodies with specific expertise. In its appointments of individual experts, the Commission shall aim to achieve gender and geographical balance among the members of the expert group.
+2.   The European Data Innovation Board shall consist of at least the following three subgroups:
+(a)
+a subgroup composed of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations, with a view to carrying out the tasks pursuant to Article 30, points (a), (c), (j) and (k);
+(b)
+a subgroup for technical discussions on standardisation, portability and interoperability pursuant to Article 30, points (f) and (g);
+(c)
+a subgroup for stakeholder involvement composed of relevant representatives from industry, research, academia, civil society, standardisation organisations, relevant common European data spaces and other relevant stakeholders and third parties advising the European Data Innovation Board on tasks pursuant to Article 30, points (d), (e), (f), (g) and (h).
+3.   The Commission shall chair the meetings of the European Data Innovation Board.
+4.   The European Data Innovation Board shall be assisted by a secretariat provided by the Commission.

@@ -1,0 +1,21 @@
+Article 19
+Strategic mapping of the Union’s semiconductor sector
+1.   The Commission shall carry out a strategic mapping of the Union’s semiconductor sector in cooperation with the European Semiconductor Board. The strategic mapping shall provide an analysis of the Union’s strengths and weaknesses in the global semiconductor sector and identify factors such as:
+(a)
+key products and critical infrastructures in the internal market that are depending on the supply of semiconductors;
+(b)
+main user industries in the Union and their current and expected needs and dependencies, including an analysis of the possible risks to security of supply also linked to insufficient investment;
+(c)
+key segments of the Union’s semiconductor supply chain, including design, software for design, materials, manufacturing equipment, semiconductor manufacturing and outsourced back-end;
+(d)
+the technological characteristics, the dependencies on third-country technology and providers, and bottlenecks of the Union’s semiconductor sector including access to inputs;
+(e)
+current and expected needs for skills and effective access to qualified workforce in the semiconductor sector;
+(f)
+where appropriate, the potential impact of crisis measures referred to in Articles 25, 26, and 27 on the semiconductor sector.
+2.   The Commission shall inform the European Semiconductor Board of the aggregate results of the strategic mapping on a regular basis.
+3.   The Commission shall, on the basis of the outcome of the strategic mapping carried out pursuant to paragraph 1 and after consulting the European Semiconductor Board, develop a list of early warning indicators. The Commission, after consulting the European Semiconductor Board, shall review the list of early warning indicators on a regular basis, at least every two years.
+4.   The Commission shall, after consulting the European Semiconductor Board, develop a framework and methodology for a strategic mapping of the semiconductor sector. The Commission shall update the framework and the methodology where necessary.
+5.   The strategic mapping shall be based, inter alia, on publicly and commercially available data and relevant non-confidential information from undertakings, the result of similar analysis performed, including in the context of Union law on raw materials and renewable energy, as well as the evaluations carried out pursuant to Article 40(1). Where this is not enough to develop the strategic mapping pursuant to paragraph 1 of this Article, the Commission may issue voluntary information requests to actors on the semiconductor value chain in the Union, after consulting the European Semiconductor Board. The Commission shall use the standardised and secure means for the collection and processing of information, referred to in Article 32(4), for the purposes of such information requests.
+6.   Any information obtained pursuant to this Article shall be treated in compliance with the confidentiality obligations set out in Article 32.
+7.   The Commission shall, after consulting the European Semiconductor Board, adopt guidance for the provision of information pursuant to paragraph 5. The Commission shall update that guidance when necessary.

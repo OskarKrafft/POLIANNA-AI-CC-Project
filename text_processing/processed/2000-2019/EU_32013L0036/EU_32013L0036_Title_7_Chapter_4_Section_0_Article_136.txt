@@ -1,0 +1,35 @@
+Article 136
+Setting countercyclical buffer rates
+1.   Each Member State shall designate a public authority or body (a ‧designated authority‧) that is responsible for setting the countercyclical buffer rate for that Member State.
+2.   Each designated authority shall calculate for every quarter a buffer guide as a reference to guide its exercise of judgment in setting the countercyclical buffer rate in accordance with paragraph 3. The buffer guide shall reflect, in a meaningful way, the credit cycle and the risks due to excess credit growth in the Member State and shall duly take into account specificities of the national economy. It shall be based on the deviation of the ratio of credit-to-GDP from its long-term trend, taking into account, inter alia:
+(a)
+an indicator of growth of levels of credit within that jurisdiction and, in particular, an indicator reflective of the changes in the ratio of credit granted in that Member State to GDP;
+(b)
+any current guidance maintained by the ESRB in accordance with Article 135(1)(b).
+3.   Each designated authority shall assess and set the appropriate countercyclical buffer rate for its Member State on a quarterly basis, and in so doing shall take into account:
+(a)
+the buffer guide calculated in accordance with paragraph 2;
+(b)
+any current guidance maintained by the ESRB in accordance with Article 135(1)(a), (c) and (d) and any recommendations issued by the ESRB on the setting of a buffer rate;
+(c)
+other variables that the designated authority considers relevant for addressing cyclical systemic risk.
+4.   The countercyclical buffer rate, expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of institutions that have credit exposures in that Member State, shall be between 0 % and 2,5 %, calibrated in steps of 0,25 percentage points or multiples of 0,25 percentage points. Where justified on the basis of the considerations set out in paragraph 3, a designated authority may set a countercyclical buffer rate in excess of 2,5 % of the total risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 for the purpose set out in Article 140(2) of this Directive.
+5.   Where a designated authority sets the countercyclical buffer rate above zero for the first time, or where, thereafter, a designated authority increases the prevailing countercyclical buffer rate setting, it shall also decide the date from which the institutions must apply that increased buffer for the purposes of calculating their institution-specific countercyclical capital buffer. That date shall be no later than 12 months after the date when the increased buffer setting is announced in accordance with paragraph 7. If the date is less than 12 months after the increased buffer setting is announced, that shorter deadline for application shall be justified on the basis of exceptional circumstances.
+6.   If a designated authority reduces the existing countercyclical buffer rate, whether or not it is reduced to zero, it shall also decide an indicative period during which no increase in the buffer is expected. However, that indicative period shall not bind the designated authority.
+7.   Each designated authority shall announce the quarterly setting of the countercyclical buffer rate by publication on its website. The announcement shall include at least the following information:
+(a)
+the applicable countercyclical buffer rate;
+(b)
+the relevant credit-to-GDP-ratio and its deviation from the long-tem trend;
+(c)
+the buffer guide calculated in accordance with paragraph 2;
+(d)
+a justification for that buffer rate;
+(e)
+where the buffer rate is increased, the date from which the institutions must apply that increased buffer rate for the purposes of calculating their institution-specific countercyclical capital buffer;
+(f)
+where the date referred to in point (e) is less than 12 months after the date of the announcement under this paragraph, a reference to the exceptional circumstances that justify that shorter deadline for application;
+(g)
+where the buffer rate is decreased, the indicative period during which no increase in the buffer rate is expected, together with a justification for that period;
+Designated authorities shall take all reasonable steps to coordinate the timing of that announcement.
+Designated authorities shall notify each quarterly setting of the countercyclical buffer rate and the information specified in points (a) to (g) to the ESRB. The ESRB shall publish on its website all such notified buffer rates and related information.

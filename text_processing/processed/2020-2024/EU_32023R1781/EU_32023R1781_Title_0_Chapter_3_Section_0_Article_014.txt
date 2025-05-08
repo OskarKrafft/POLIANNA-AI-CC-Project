@@ -1,0 +1,15 @@
+Article 14
+Open EU foundries
+1.   Open EU foundries shall be first-of-a-kind facilities for semiconductor manufacturing in the Union that offer production capacity to unrelated undertakings and thereby contribute to the security of supply for the internal market and the resilience of the Union’s semiconductor ecosystem and in addition they may, where relevant, contribute to the security of the global semiconductor supply chain.
+2.   At the time of submitting an application in accordance with Article 15(1), an open EU foundry shall be required to qualify as a first-of-a-kind facility.
+3.   An open EU foundry shall meet the following requirements:
+(a)
+its establishment has a clear positive impact, with spill-over effects beyond the undertaking or the Member State concerned, on the Union’s semiconductor value chain in the medium to long term, with a view to ensuring security of supply and resilience of the semiconductor ecosystem, including the growth of start-ups and SMEs, and contributing to the Union’s green and digital transitions, taking into account, in particular, the extent to which it offers front-end or back-end production capacity, or both, to undertakings which are not related to the facility, if there is sufficient demand;
+(b)
+it provides an assurance that it is not subject to the extraterritorial application of public service obligations of third countries in a way that may undermine the undertaking’s ability to comply with the obligations set out in Article 26(1) and commits to informing the Commission when such obligation arises;
+(c)
+it invests in the Union in continued innovation with a view to achieving concrete advances in semiconductor technology or preparing next-generation technologies;
+(d)
+it supports the Union’s talent pipeline by developing and deploying educational and skills training and by increasing the pool of qualified and skilled workforce.
+4.   Where an open EU foundry offers production capacity to undertakings not related to the operator of the facility, it shall establish and maintain adequate and effective functional separation of the design and manufacturing processes in order to ensure the protection of information obtained at each stage.
+5.   For the purpose of investing in the continued innovation in accordance with paragraph 3, point (c), of this Article, open EU foundries shall have preferential access to the pilot lines established in accordance with Article 5, point (b). Any such preferential access shall neither exclude nor prevent effective access on fair terms to the pilot lines by other interested undertakings, in particular start-ups and SMEs.

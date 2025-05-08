@@ -1,0 +1,10 @@
+Article 64
+Support for PPP operations
+1.   In the case of a PPP operation where the beneficiary is a public law body, expenditure under a PPP operation which has been incurred and paid by the private partner may, by way of derogation from Article 65(2), be considered as incurred and paid by a beneficiary and included in a request for payment to the Commission provided that the following conditions are met:
+(a)
+the beneficiary has entered into a PPP agreement with a private partner;
+(b)
+the managing authority has verified that the expenditure declared by the beneficiary has been paid by the private partner and that the operation complies with applicable Union and national law, the programme and the conditions for support of the operation.
+2.   Payments to beneficiaries made in respect of expenditure included in a request for payment in accordance with paragraph 1 shall be paid into an escrow account set up for that purpose in the name of the beneficiary.
+3.   The funds paid into the escrow account referred to in paragraph 2 shall be used for payments in accordance with the PPP agreement, including any payments to be made in the event of termination of the PPP agreement.
+4.   The Commission shall be empowered to adopt delegated acts in accordance with Article 149 laying down the minimum requirements to be included in PPP agreements which are necessary for the application of the derogation laid down in paragraph 1 of this Article, including provisions related to termination of the PPP agreement and for the purpose of ensuring an adequate audit trail.

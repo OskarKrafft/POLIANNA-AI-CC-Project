@@ -1,0 +1,45 @@
+Article 8
+Interoperable Europe portal
+1.   The Commission shall provide a portal as a single point of entry for information related to cross-border interoperability of trans-European digital public services (the ‘Interoperable Europe portal’). The Interoperable Europe portal shall be electronically accessible to all citizens, including persons with disabilities, and such access shall be free of charge. The Interoperable Europe portal shall have at least the following functions:
+(a)
+providing access to Interoperable Europe solutions in a user-friendly manner and at least searchable per Member State and per public service;
+(b)
+providing access to interoperability solutions other than Interoperable Europe solutions, such as those:
+(i)
+shared pursuant to Article 4(3);
+(ii)
+provided for pursuant to other Union policies;
+(iii)
+published on other portals, catalogues or repositories connected to the Interoperable Europe portal;
+(c)
+providing access to ICT technical specifications eligible for referencing in accordance with Article 13 of Regulation (EU) No 1025/2012;
+(d)
+providing access to information on the processing of personal data in the context of interoperability regulatory sandboxes referred to in Articles 11 and 12, where any high risk to the rights and freedoms of the data subjects, as referred to in Article 35(1) of Regulation (EU) 2016/679 and in Article 39 of Regulation (EU) 2018/1725, has been identified, as well as access to information on response mechanisms to promptly mitigate that risk, including, where appropriate, disclosure of the data protection impact assessment;
+(e)
+fostering knowledge exchange between members of the Interoperable Europe Community referred to in Article 16, such as providing a feedback system for the expression of views on measures proposed by the Board or for expressions of interest in participating in actions related to the implementation of this Regulation;
+(f)
+listing best practices and knowledge sharing supporting interoperability, including, where appropriate, guidance on public procurement, cybersecurity, IT integration and data governance;
+(g)
+providing access to the data resulting from interoperability-related monitoring carried out pursuant to Article 20;
+(h)
+allowing citizens, businesses, in particular SMEs, and civil society organisations to provide feedback on the published content.
+2.   The Board may propose that the Commission publish other interoperability solutions on the Interoperable Europe portal or have them referred to on the Interoperable Europe portal.
+3.   The solutions accessible through the Interoperable Europe portal shall:
+(a)
+not be subject to third party rights that prevent their distribution and use;
+(b)
+not contain personal data or confidential information;
+(c)
+have a high-level of alignment with the Interoperable Europe solutions, which may be proven by publishing the outcome of the interoperability assessment referred to in Article 3 and in the Annex;
+(d)
+use a licence that allows the solution at least to be reused by other Union entities or public sector bodies, or be issued as open source;
+(e)
+be regularly maintained under the responsibility of the owner of the interoperability solution.
+4.   Where a Union entity or public sector body provides a portal, catalogue or repository with similar functions, it shall take the necessary and proportionate measures to ensure interoperability with the Interoperable Europe portal. Where such portals collect open source solutions, they shall allow for the use of the European Union Public Licence.
+5.   The Commission may adopt guidelines on interoperability for portals, catalogues or repositories with similar functions as those referred to in paragraph 4.
+
+Chapter 3
+
+
+Interoperable Europe support measures
+

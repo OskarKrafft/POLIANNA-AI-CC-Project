@@ -1,0 +1,24 @@
+Article 6
+Aspects for assessing the safety of products
+1.   When assessing whether a product is a safe product, the following aspects in particular shall be taken into account:
+(a)
+the characteristics of the product, including its design, technical features, composition, packaging, instructions for assembly and, where applicable, for installation, use and maintenance;
+(b)
+the effect on other products, where it is reasonably foreseeable that the product will be used with other products, including the interconnection of those products;
+(c)
+the effect that other products might have on the product to be assessed, where it is reasonably foreseeable that other products will be used with that product, including the effect of non-embedded items that are meant to determine, change or complete the way the product to be assessed works, which has to be taken into consideration when assessing the safety of the product to be assessed;
+(d)
+the presentation of the product, the labelling, including the labelling regarding age suitability for children, any warnings and instructions for its safe use and disposal, and any other indication or information regarding the product;
+(e)
+the categories of consumers using the product, in particular by assessing the risk for vulnerable consumers such as children, older people and persons with disabilities, as well as the impact of gender differences on health and safety;
+(f)
+the appearance of the product where it is likely to lead consumers to use the product in a way different to what it was designed for, and in particular:
+(i)
+where a product, although not foodstuff, resembles foodstuff and is likely to be confused with foodstuff due to its form, odour, colour, appearance, packaging, labelling, volume, size or other characteristics and might therefore be placed in the mouth, sucked or ingested by consumers, especially by children;
+(ii)
+where a product, although neither designed nor intended for use by children, is likely to be used by children or resembles an object commonly recognised as appealing to or intended for use by children because of its design, packaging or characteristics;
+(g)
+when required by the nature of the product, the appropriate cybersecurity features necessary to protect the product against external influences, including malicious third parties, where such an influence might have an impact on the safety of the product, including the possible loss of interconnection;
+(h)
+when required by the nature of the product, the evolving, learning and predictive functionalities of the product.
+2.   The feasibility of obtaining higher levels of safety or the availability of other products presenting a lesser degree of risk shall not constitute grounds for considering a product to be a dangerous product.

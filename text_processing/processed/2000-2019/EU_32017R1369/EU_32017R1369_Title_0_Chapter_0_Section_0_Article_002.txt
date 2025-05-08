@@ -1,0 +1,55 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions apply:
+(1)
+‘energy-related product’ or ‘product’ means a good or system with an impact on energy consumption during use which is placed on the market or put into service, including parts with an impact on energy consumption during use which are placed on the market or put into service for customers and that are intended to be incorporated into products;
+(2)
+‘product group’ means a group of products which have the same main functionality;
+(3)
+‘system’ means a combination of several goods which when put together perform a specific function in an expected environment and of which the energy efficiency can then be determined as a single entity;
+(4)
+‘model’ means a version of a product of which all units share the same technical characteristics relevant for the label and the product information sheet and the same model identifier;
+(5)
+‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same supplier's name;
+(6)
+‘equivalent model’ means a model which has the same technical characteristics relevant for the label and the same product information sheet, but which is placed on the market or put into service by the same supplier as another model with a different model identifier;
+(7)
+‘making available on the market’ means the supply of a product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+(8)
+‘placing on the market’ means the first making available of a product on the Union market;
+(9)
+‘putting into service’ means the first use of a product for its intended purpose on the Union market;
+(10)
+‘manufacturer’ means a natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under its name or trademark;
+(11)
+‘authorised representative’ means a natural or legal person established in the Union who has received a written mandate from the manufacturer to act on its behalf in relation to specified tasks;
+(12)
+‘importer’ means a natural or legal person established in the Union who places a product from a third country on the Union market;
+(13)
+‘dealer’ means a retailer or other natural or legal person who offers for sale, hire, or hire purchase, or displays products to customers or installers in the course of a commercial activity, whether or not in return for payment;
+(14)
+‘supplier’ means a manufacturer established in the Union, the authorised representative of a manufacturer who is not established in the Union, or an importer, who places a product on the Union market;
+(15)
+‘distance selling’ means the offer for sale, hire or hire purchase by mail order, catalogue, internet, telemarketing or by any other method by which the potential customer cannot be expected to see the product displayed;
+(16)
+‘customer’ means a natural or legal person who buys, hires or receives a product for own use whether or not acting for purposes which are outside its trade, business, craft or profession;
+(17)
+‘energy efficiency’ means the ratio of output of performance, service, goods or energy to input of energy;
+(18)
+‘harmonised standard’ means standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012 of the European Parliament and of the Council (11);
+(19)
+‘label’ means a graphic diagram, either in printed or electronic form, including a closed scale using only letters from A to G, each letter representing a class and each class corresponding to energy savings, in seven different colours from dark green to red, in order to inform customers about energy efficiency and energy consumption; it includes rescaled labels and labels with fewer classes and colours in accordance with Article 11(10) and (11);
+(20)
+‘rescaling’ means an exercise making the requirements for achieving the energy class on a label for a particular product group more stringent;
+(21)
+‘rescaled label’ means a label for a particular product group that has undergone rescaling and is distinguishable from labels before rescaling while preserving a visual and perceptible coherence of all labels;
+(22)
+‘product information sheet’ means a standard document containing information relating to a product, in printed or electronic form;
+(23)
+‘technical documentation’ means documentation sufficient to enable market surveillance authorities to assess the accuracy of the label and the product information sheet of a product, including test reports or similar technical evidence;
+(24)
+‘supplementary information’ means information, as specified in a delegated act, on the functional and environmental performance of a product;
+(25)
+‘product database’ means a collection of data concerning products, which is arranged in a systematic manner and consists of a consumer-oriented public part, where information concerning individual product parameters is accessible by electronic means, an online portal for accessibility and a compliance part, with clearly specified accessibility and security requirements;
+(26)
+‘verification tolerance’ means the maximum admissible deviation of the measurement and calculation results of the verification tests performed by, or on behalf of, market surveillance authorities, compared to the values of the declared or published parameters, reflecting deviation arising from interlaboratory variation.

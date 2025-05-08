@@ -1,0 +1,28 @@
+Article 13
+Statistical data elements
+1.   The microdata referred to in point (a) of Article 12(1) shall contain the following statistical data elements:
+(a)
+the individual identification number allocated to the partner operator in the Member State of import, in accordance with Article 214 of Directive 2006/112/EC;
+(b)
+the reference period;
+(c)
+the trade flow;
+(d)
+the commodity;
+(e)
+the partner Member State;
+(f)
+the country of origin;
+(g)
+the value of the goods;
+(h)
+the quantity of the goods;
+(i)
+the nature of the transaction.
+The microdata referred to in point (a) of Article 12(1) may contain the mode of transport and the delivery terms, provided that Member State of export collects those statistical data elements.
+The Commission may adopt implementing acts specifying the statistical data elements referred to in points (a) to (i) of the first subparagraph of this paragraph, and specifying the list of statistical data elements applicable for the specific goods or movements and the data compiled by using the particulars of customs declarations referred to in points (b) and (c) of Article 12(1).
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).
+2.   Member States may, under certain conditions that comply with quality requirements, simplify the information to be provided, provided that such simplification has no detrimental effects on the quality of the statistics.
+In specific cases, Member States may collect a reduced set of statistical data elements as referred to in paragraph 1 or collect the information related to certain of those data elements at a less detailed level.
+The Commission may adopt implementing acts specifying the arrangements of the simplification referred to in the first subparagraph and the maximum value of the intra‐Union exports benefitting from such simplification.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 23(2).

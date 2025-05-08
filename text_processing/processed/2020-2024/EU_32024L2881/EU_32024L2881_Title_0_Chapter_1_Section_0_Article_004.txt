@@ -1,0 +1,93 @@
+Article 4
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘ambient air’ means outdoor air in the troposphere, excluding workplaces as defined in Article 2 of Council Directive 89/654/EEC (19) where provisions concerning health and safety at work apply and to which members of the public do not have regular access;
+(2)
+‘air quality standards’ means limit values, target values, average exposure reduction obligations, average exposure concentration objectives, critical levels, alert thresholds, information thresholds and long-term objectives;
+(3)
+‘pollutant’ means any substance present in ambient air and likely to have harmful effects on human health or the environment;
+(4)
+‘level’ means the concentration of a pollutant in ambient air or the deposition thereof on surfaces in a given time;
+(5)
+‘total deposition’ means the total mass of pollutants which is transferred from the atmosphere to surfaces, such as soil, vegetation, water or buildings, in a given area within a given time;
+(6)
+‘PM10’ means particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM10, EN 12341, with a 50 % efficiency cut-off at 10 μm aerodynamic diameter;
+(7)
+‘PM2,5’ means particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM2,5, EN 12341, with a 50 % efficiency cut-off at 2,5 μm aerodynamic diameter;
+(8)
+‘oxides of nitrogen’ means the sum of the volume mixing ratio (ppbv) of nitrogen monoxide (nitric oxide) and nitrogen dioxide expressed in units of mass concentration of nitrogen dioxide (μg/m3);
+(9)
+‘arsenic’, ‘cadmium’, ‘lead’, ‘nickel’ and ‘benzo(a)pyrene’ mean the total content of these elements and compounds in the PM10 fraction;
+(10)
+‘polycyclic aromatic hydrocarbons’ means those organic compounds, composed of at least two fused aromatic rings made entirely from carbon and hydrogen;
+(11)
+‘total gaseous mercury’ means elemental mercury vapour (Hg0) and reactive gaseous mercury, i.e. water-soluble mercury species with sufficiently high vapour pressure to exist in the gas phase;
+(12)
+‘volatile organic compounds’ or ‘VOC’ means organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
+(13)
+‘ozone precursor substances’ means substances which contribute to the formation of ground-level ozone;
+(14)
+‘black carbon’ or ‘BC’ means carbonaceous aerosols measured by light absorption;
+(15)
+‘ultrafine particles’ or ‘UFP’ means particles with a diameter less than or equal to 100 nm, where UFP are measured as the particle number concentrations per cubic centimetre for a size range with a lower limit of 10 nm and for a size range with no restriction on the upper limit;
+(16)
+‘oxidative potential of particulate matter’ means a measure of the capacity of particulate matter to oxidise potential target molecules;
+(17)
+‘zone’ means part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management;
+(18)
+‘average exposure territorial unit’ means a part of the territory of a Member State designated by that Member State for the purposes of determining the average exposure indicator, corresponding to a NUTS 1 or NUTS 2 region as set out in Regulation (EC) No 1059/2003 of the European Parliament and of the Council (20) or a combination of two or more adjacent NUTS 1 or NUTS 2 regions, provided that their total combined size is smaller than the entire territory of that Member State and not larger than 85 000 km2;
+(19)
+‘agglomeration’ means a conurbation with a population in excess of 250 000 inhabitants or, where the population is 250 000 inhabitants or fewer, with a given population density per km2 to be established by the Member States;
+(20)
+‘assessment’ means any method used to measure, calculate, predict or estimate levels;
+(21)
+‘assessment threshold’ means the level that determines the required assessment regime to be used to assess ambient air quality;
+(22)
+‘fixed measurements’ means measurements taken at sampling points, either continuously or by random sampling, at constant locations for at least 1 calendar year to determine the levels in accordance with the relevant data quality objectives;
+(23)
+‘indicative measurements’ means measurements, taken either at regular intervals during a calendar year or by random sampling, to determine the levels in accordance with data quality objectives that are less strict than those required for fixed measurements;
+(24)
+‘modelling application’ means application of a modelling system, understood as a chain of models and submodels, including all necessary input data, and any post-processing;
+(25)
+‘objective estimation’ means information on the concentration or deposition level of a specific pollutant obtained through expert analysis and which can include use of statistical tools;
+(26)
+‘spatial representativeness’ means an assessment approach whereby the air quality metrics observed at a sampling point are representative for an explicitly delineated geographical area to the extent that air quality metrics within that area do not differ from the metrics observed at the sampling point by more than a pre-defined tolerance level;
+(27)
+‘air pollution hotspots’ means locations within a zone with the highest concentrations to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit values or target values, including where the pollution level is strongly influenced by the emissions from heavy pollution sources, such as nearby congested and heavily trafficked roads, a single industrial source or an industrial area with many sources, ports, airports, intensive residential heating, or a combination thereof;
+(28)
+‘urban background locations’ means places in urban and suburban areas where levels are representative of the exposure of the general urban population;
+(29)
+‘rural background locations’ means places in rural areas with low population density where levels are representative of the exposure of the general rural population, vegetation and natural ecosystems;
+(30)
+‘monitoring supersite’ means a monitoring station at an urban background location or rural background location that combines multiple sampling points to gather long-term data on several pollutants;
+(31)
+‘limit value’ means a level which is fixed on the basis of scientific knowledge, with the aim of avoiding, preventing or reducing harmful effects on human health or the environment, and which is to be attained within a given period and not to be exceeded once attained;
+(32)
+‘target value’ means a level fixed on the basis of scientific knowledge, with the aim of avoiding, preventing or reducing harmful effects on human health or the environment, to be attained where possible over a given period;
+(33)
+‘average exposure indicator’ or ‘AEI’ means an average level determined on the basis of measurements at urban background locations throughout the average exposure territorial unit or, if there is no urban area located in that territorial unit, at rural background locations, and which reflects population exposure, used to check whether the average exposure reduction obligation and the average exposure concentration objective for that territorial unit have been met;
+(34)
+‘average exposure reduction obligation’ means a percentage reduction of the average exposure of the population, expressed as an average exposure indicator, of an average exposure territorial unit, set with the aim of reducing harmful effects on human health, to be attained over a given period and not to be exceeded once attained;
+(35)
+‘average exposure concentration objective’ means a level of the average exposure indicator to be attained, with the aim of reducing harmful effects on human health;
+(36)
+‘critical level’ means a level above which direct adverse effects can occur on some receptors, such as trees, other plants or natural ecosystems but not on humans;
+(37)
+‘alert threshold’ means a level beyond which there is a risk to human health from brief exposure for the population as a whole and at which immediate steps are to be taken by Member States;
+(38)
+‘information threshold’ means a level beyond which there is a risk to human health from brief exposure for particularly sensitive population and vulnerable groups and for which immediate and appropriate information is necessary;
+(39)
+‘long-term objective’ means a level to be attained in the long-term, save where not achievable through proportionate measures, with the aim of providing effective protection of human health and the environment;
+(40)
+‘contributions from natural sources’ means emissions of pollutants not caused directly or indirectly by human activities, including natural events such as volcanic eruptions, seismic activities, geothermal activities, wild-land fires, high-wind events, sea sprays or the atmospheric re-suspension or transport of natural particles from dry regions;
+(41)
+‘air quality plan’ means a plan that sets out policies and measures in order to comply with limit values, target values or average exposure reduction obligations once these have been exceeded;
+(42)
+‘air quality roadmap’ means an air quality plan, adopted ahead of the attainment deadline of limit values and target values, that sets out policies and measures in order to comply with those limit values and target values within the attainment deadline;
+(43)
+‘short-term action plan’ means a plan that sets out emergency measures to be taken in the short term to reduce the immediate risk or the duration of the exceedance of the alert thresholds;
+(44)
+‘sensitive population and vulnerable groups’ means those population groups that are permanently or temporarily more sensitive or more vulnerable to the effects of air pollution than the average population, because of specific characteristics that make the health effects of exposure more significant or because they have a higher sensitivity or a lower threshold for health effects or have a reduced ability to protect themselves;
+(45)
+‘the public concerned’ means one or more natural or legal persons affected or likely to be affected by, or having an interest in, the decision-making procedures related to the implementation of Article 9, 19 or 20; for the purposes of this definition, non-governmental organisations promoting the protection of human health or the environment and meeting any requirements under national law shall be deemed to have an interest.

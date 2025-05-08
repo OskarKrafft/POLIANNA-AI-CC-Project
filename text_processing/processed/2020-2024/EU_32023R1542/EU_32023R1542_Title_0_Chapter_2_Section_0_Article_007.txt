@@ -1,0 +1,63 @@
+Article 7
+Carbon footprint of electric vehicle batteries, rechargeable industrial batteries and LMT batteries
+1.   For electric vehicle batteries, rechargeable industrial batteries with a capacity greater than 2 kWh and LMT batteries a carbon footprint declaration shall be drawn up for each battery model per manufacturing plant, in accordance with the implementing act referred to in the fourth subparagraph and containing, at least, the following information:
+(a)
+administrative information about the manufacturer;
+(b)
+information about the battery model;
+(c)
+information about the geographic location of the battery manufacturing plant;
+(d)
+the carbon footprint of the battery, calculated as kg of carbon dioxide equivalent per one kWh of the total energy provided by the battery over its expected service life;
+(e)
+the carbon footprint of the battery differentiated according to life cycle stage as described in point 4 of Annex II;
+(f)
+the identification number of the EU declaration of conformity of the battery;
+(g)
+a web link giving access to a public version of the study supporting the carbon footprint values referred to in points (d) and (e).
+The carbon footprint declaration shall apply from:
+(a)
+18 February 2025 or 12 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for electric vehicle batteries;
+(b)
+18 February 2026 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for rechargeable industrial batteries except those with exclusively external storage;
+(c)
+18 August 2028 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for LMT batteries;
+(d)
+18 August 2030 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for rechargeable industrial batteries with external storage.
+Until it becomes accessible via the QR code referred to in Article 13(6), the carbon footprint declaration shall accompany the battery.
+The Commission shall, by 18 February 2024 for electric vehicle batteries, 18 February 2025 for rechargeable industrial batteries, except those with external storage, 18 February 2027 for LMT batteries and 18 February 2029 for industrial batteries with external storage, adopt:
+(a)
+a delegated act in accordance with Article 89 to supplement this Regulation by establishing the methodology for the calculation and verification of the carbon footprint of the battery referred to in the first subparagraph, point (d), in accordance with the essential elements set out in Annex II;
+(b)
+an implementing act establishing the format for the carbon footprint declaration referred to in the first subparagraph. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 90(3).
+2.   Electric vehicle batteries, rechargeable industrial batteries with a capacity greater than 2 kWh and LMT batteries shall bear a conspicuous, clearly legible and indelible label indicating the carbon footprint of the battery referred to in paragraph 1, first subparagraph, point (d) and declaring the carbon footprint performance class to which the relevant battery model per manufacturing plant corresponds.
+For batteries referred to in the first subparagraph, the technical documentation referred to in Annex VIII shall demonstrate that the carbon footprint declared and the related classification into a carbon footprint performance class have been calculated in accordance with the methodology set out in the delegated acts adopted by the Commission pursuant to paragraph 1, fourth subparagraph, point (a) and the fourth subparagraph, point (a), of this paragraph.
+The carbon footprint performance class requirements in the first subparagraph shall apply from:
+(a)
+18 August 2026 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for electric vehicle batteries;
+(b)
+18 August 2027 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for rechargeable industrial batteries except those with exclusively external storage;
+(c)
+18 February 2030 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for LMT batteries;
+(d)
+18 February 2032 or 18 months after the date of entry into force either of the delegated act or of the implementing act respectively referred to in the fourth subparagraph, points (a) and (b), whichever is the latest, for rechargeable industrial batteries with external storage.
+The Commission shall, by 18 February 2025 for electric vehicle batteries, 18 August 2026 for rechargeable industrial batteries except those with exclusively external storage, 18 August 2028 for LMT batteries and 18 August 2030 for rechargeable industrial batteries with external storage, adopt:
+(a)
+a delegated act in accordance with Article 89 to supplement this Regulation by establishing the carbon footprint performance classes referred to in the first subparagraph. In preparing that delegated act, the Commission shall take into account the conditions set out in point 8 of Annex II;
+(b)
+an implementing act establishing the formats for the labelling referred to in the first subparagraph and the format for the declaration on the carbon footprint performance class referred to in that subparagraph. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 90(3).
+The Commission shall, in accordance with the conditions set out in point 8 of Annex II, review the number of performance classes and the thresholds between them, every three years and, where appropriate, adopt delegated acts in accordance with Article 89 to amend the number of performance classes and thresholds between them with a view to keeping them representative of the market reality and expected developments in the market.
+3.   For electric vehicle batteries, rechargeable industrial batteries with a capacity greater than 2 kWh and LMT batteries, the technical documentation referred to in Annex VIII shall demonstrate that the declared life cycle carbon footprint value for the relevant battery model per manufacturing plant, is below the maximum threshold established in the delegated act adopted pursuant to the third subparagraph.
+The requirement for a maximum life cycle carbon footprint threshold referred to in the first subparagraph shall apply as of:
+(a)
+18 February 2028 or 18 months after the date of entry into force of the delegated act referred to in the third subparagraph, whichever is the latest, for electric vehicle batteries;
+(b)
+18 February 2029 or 18 months after the date of entry into force of the delegated act referred to in the third subparagraph, whichever is the latest, for rechargeable industrial batteries except those with exclusively external storage;
+(c)
+18 August 2031 or 18 months after the date of entry into force of the delegated act referred to in the third subparagraph, whichever is the latest, for LMT batteries;
+(d)
+18 August 2033 or 18 months after the date of entry into force of the delegated act referred to in the third subparagraph, whichever is the latest, for rechargeable industrial batteries with external storage.
+The Commission shall, by 18 August 2026 for electric vehicle batteries, 18 February 2028 for rechargeable industrial batteries, except those with external storage, 18 February 2030 for LMT batteries and 18 February 2032 for industrial batteries with external storage, adopt a delegated act in accordance with Article 89 to supplement this Regulation by determining the maximum life cycle carbon footprint threshold referred to in the first subparagraph. In preparing that delegated act, the Commission shall take into account the relevant conditions set out in point 9 of Annex II.
+The introduction of a maximum life cycle carbon footprint threshold shall trigger, if necessary, a reclassification of the carbon footprint performance classes referred to in paragraph 2.
+4.   By 31 December 2030, the Commission shall assess the feasibility of extending the requirements in this Article to portable batteries, and the requirement laid down in paragraph 3 to rechargeable industrial batteries with a capacity of 2 kWh or less. To that end, the Commission shall submit a report to the European Parliament and the Council and consider taking the appropriate measures, including the adoption of legislative proposals.
+5.   Paragraphs 1, 2 and 3 shall not apply to a battery that has been subject to preparation for re-use, preparation for repurposing, repurposing or remanufacturing, if the battery had already been placed on the market or put into service before undergoing such operations.

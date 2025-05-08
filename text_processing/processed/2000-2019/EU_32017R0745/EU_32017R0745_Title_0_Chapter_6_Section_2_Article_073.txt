@@ -1,0 +1,23 @@
+Article 73
+Electronic system on clinical investigations
+1.   The Commission shall, in collaboration with the Member States, set up, manage and maintain an electronic system:
+(a)
+to create the single identification numbers for clinical investigations referred to in Article 70(1);
+(b)
+to be used as an entry point for the submission of all applications or notifications for clinical investigations referred to in Articles 70, 74, 75 and 78 and for all other submission of data, or processing of data in this context;
+(c)
+for the exchange of information relating to clinical investigations in accordance with this Regulation between the Member States and between them and the Commission including the exchange of information referred to in Articles 70 and 76;
+(d)
+for information to be provided by the sponsor in accordance with Article 77, including the clinical investigation report and its summary as required in paragraph 5 of that Article;
+(e)
+for reporting on serious adverse events and device deficiencies and related updates referred to in Article 80.
+2.   When setting up the electronic system referred in paragraph 1 of this Article, the Commission shall ensure that it is interoperable with the EU database for clinical trials on medicinal products for human use set up in accordance with Article 81 of Regulation (EU) No 536/2014 of the European Parliament and of the Council (37) as concerns combined clinical investigations of devices with a clinical trial under that Regulation.
+3.   The information referred to in point (c) of paragraph 1 shall only be accessible to the Member States and the Commission. The information referred to in the other points of that paragraph shall be accessible to the public, unless, for all or parts of that information, confidentiality of the information is justified on any of the following grounds:
+(a)
+protection of personal data in accordance with Regulation (EC) No 45/2001;
+(b)
+protection of commercially confidential information, especially in the investigators brochure, in particular through taking into account the status of the conformity assessment for the device, unless there is an overriding public interest in disclosure;
+(c)
+effective supervision of the conduct of the clinical investigation by the Member State(s) concerned.
+4.   No personal data of subjects shall be publicly available.
+5.   The user interface of the electronic system referred to in paragraph 1 shall be available in all official languages of the Union.

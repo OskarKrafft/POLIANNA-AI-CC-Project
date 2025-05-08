@@ -1,0 +1,33 @@
+Article 5
+Drafting, adoption and review of TSIs
+1.   In order to set out the specific objectives of each TSI, the Commission shall be empowered to adopt delegated acts in accordance with Article 50 concerning, in particular and where appropriate:
+(a)
+the geographical and technical scope of the TSIs;
+(b)
+the applicable essential requirements;
+(c)
+the list of regulatory, technical and operational conditions to be harmonised at the level of subsystems and at the level of the interfaces between subsystems and their expected level of harmonisation;
+(d)
+the railway-specific procedures for assessment of conformity and suitability for use of the interoperability constituents;
+(e)
+the railway-specific procedures to assess the ‘EC’ verification of the subsystems;
+(f)
+the categories of staff involved in the operation and maintenance of the subsystems concerned and the general objectives for setting the minimum requirements for professional qualifications and health and safety conditions for the staff concerned;
+(g)
+any other necessary element to be taken into account to ensure interoperability pursuant to Article 1(1) and (2) within the Union rail system, such as alignment of TSI with European and international standards or specifications.
+When adopting those delegated acts, the Commission shall justify the need for a new or substantially amended TSI, including its impact on existing rules and technical specifications.
+2.   In order to ensure uniform implementation of the delegated acts referred to in paragraph 1, the Commission shall request that the Agency draft TSIs and amendments thereto and make the relevant recommendations to the Commission.
+Each draft TSI shall be drawn up in the following stages:
+(a)
+the Agency shall identify the basic parameters for the TSI as well as the interfaces with the other subsystems and any other specific cases that may be necessary;
+(b)
+the Agency shall draw up the draft TSI on the basis of the basic parameters referred to in point (a). Where appropriate, the Agency shall take account of technical progress, of standardisation work already carried out, of working parties already in place and of acknowledged research work.
+3.   When drafting or reviewing each TSI, including the basic parameters, the Agency shall take account of the estimated costs and benefits of all the technical solutions considered, together with the interfaces between them, so as to establish and implement the most viable solutions. That assessment shall indicate the likely impact on all the operators and economic actors involved and shall take due account of the requirements of Directive (EU) 2016/798. Member States shall participate in this assessment by providing, where appropriate, the requisite data.
+4.   The Agency shall draft the TSIs and amendments thereto in accordance with Articles 5 and 19 of Regulation (EU) 2016/796 while fulfilling the criteria of openness, consensus and transparency as defined in Annex II to Regulation (EU) No 1025/2012.
+5.   The committee referred to in Article 51 (‘the committee’) shall be kept periodically informed of the preparatory work on the TSIs. During that work, to comply with the delegated acts referred to in paragraph 1 of this Article, the Commission may formulate any terms of reference or useful recommendations concerning the design of the TSIs and a cost-benefit analysis. In particular, the Commission may require that alternative solutions be examined and that the assessment of the cost and benefits of those alternative solutions be set out in the report annexed to the draft TSI.
+6.   Where different subsystems have to be placed in service simultaneously for reasons of technical compatibility, the dates of application of the relevant TSIs shall be the same.
+7.   When drafting, adopting or reviewing the TSIs, the Agency shall take account of the opinion of users as regards the characteristics which have a direct impact on the conditions in which they use the subsystems. To that end, the Agency shall consult associations and bodies representing users during the drafting and review phases of the TSIs. It shall enclose with the draft TSI a report on the results of that consultation.
+8.   In accordance with Article 7 of Regulation (EU) 2016/796, the Commission, with the assistance of the committee, shall draw up and periodically update the list of passengers' associations and bodies to be consulted. That list may be re-examined and updated at the request of a Member State or upon the initiative of the Commission.
+9.   When drafting or reviewing the TSIs, the Agency shall take account of the opinion of the social partners as regards the professional qualifications and health and safety conditions at work referred to in point (g) of Article 4(3). To that end, the Agency shall consult the social partners before submitting to the Commission recommendations on TSIs and their amendments. The social partners shall be consulted within the Sectoral Dialogue Committee set up in accordance with Commission Decision 98/500/EC (13). The social partners shall issue their opinion within three months of the consultation.
+10.   When the revision of a TSI leads to a change of requirements, the new TSI version shall ensure compatibility with subsystems placed in service in accordance with former TSI versions.
+11.   The Commission shall establish, by means of implementing acts, TSIs to implement the specific objectives set out in the delegated acts referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 51(3). They shall include all the elements listed in Article 4(3) and meet all the requirements set out in Article 4(4) to (6) and (8).

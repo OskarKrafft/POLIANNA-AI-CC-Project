@@ -1,0 +1,14 @@
+Article 18
+Exhaust emission requirements for EU type-approval
+1.   Manufacturers shall ensure that engine types and engine families are designed, constructed and assembled so as to comply with the requirements laid down in Chapter II and this Chapter.
+2.   As from the dates for the placing on the market of the engines set out in Annex III, engine types and engine families shall not exceed the exhaust emission limit values referred to as Stage V and set out in Annex II.
+Where, in accordance with the parameters defining the engine family laid down in the relevant implementing act, one engine family covers more than one power range, the parent engine (for the purposes of the EU type-approval) and all engine types within the same family (for the purposes of conformity of production) shall, with respect to the applicable power ranges:
+(a)
+meet the most stringent emission limit values;
+(b)
+be tested using the test cycles that correspond to the most stringent emission limit values;
+(c)
+be subject to the earliest applicable dates for the EU type-approval and placing on the market set out in Annex III.
+3.   The exhaust emissions of engine types and engine families shall be measured on the basis of the test cycles set out in Article 24 and in accordance with Article 25.
+4.   Engine types and engine families shall be designed and fitted with emission control strategies in such a way as to prevent tampering to the extent possible. The use of defeat strategies shall be prohibited.
+5.   The Commission shall adopt implementing acts laying down the details for the parameters to be used for the definition of engine types and engine families, including their operation modes, and the technical details for the prevention of tampering as referred to in paragraph 4 of this Article. Those implementing acts shall be adopted, by 31 December 2016, in accordance with the examination procedure referred to in Article 56(2).

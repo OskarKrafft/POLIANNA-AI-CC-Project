@@ -1,0 +1,68 @@
+Article 1
+Scope
+1.   This Directive shall apply to the design, manufacture and conformity assessment of pressure equipment and assemblies with a maximum allowable pressure PS greater than 0,5 bar.
+2.   This Directive shall not apply to:
+(a)
+pipelines comprising piping or a system of piping designed for the conveyance of any fluid or substance to or from an installation (onshore or offshore) starting from and including the last isolation device located within the confines of the installation, including all the annexed equipment designed specifically for pipelines; this exclusion shall not apply to standard pressure equipment such as may be found in pressure reduction stations or compression stations;
+(b)
+networks for the supply, distribution and discharge of water and associated equipment and headraces such as penstocks, pressure tunnels, pressure shafts for hydroelectric installations and their related specific accessories;
+(c)
+simple pressure vessels covered by Directive 2014/29/EU of the European Parliament and of the Council (13);
+(d)
+aerosol dispensers covered by Council Directive 75/324/EEC (14);
+(e)
+equipment intended for the functioning of vehicles defined by the following legal acts:
+(i)
+Directive 2007/46/EC of the European Parliament and of the Council (15);
+(ii)
+Regulation (EU) No 167/2013 of the European Parliament and of the Council (16);
+(iii)
+Regulation (EU) No 168/2013 of the European Parliament and of the Council (17);
+(f)
+equipment classified as no higher than category I under Article 13 of this Directive and covered by one of the following Directives:
+(i)
+Directive 2006/42/EC of the European Parliament and of the Council (18);
+(ii)
+Directive 2014/33/EU of the European Parliament and of the Council (19);
+(iii)
+Directive 2014/35/EU of the European Parliament and of the Council (20);
+(iv)
+Council Directive 93/42/EEC (21);
+(v)
+Directive 2009/142/EC of the European Parliament and of the Council (22);
+(vi)
+Directive 2014/34/EU of the European Parliament and of the Council (23);
+(g)
+equipment covered by point (b) of Article 346(1) TFEU;
+(h)
+items specifically designed for nuclear use, failure of which may cause an emission of radioactivity;
+(i)
+well-control equipment used in the petroleum, gas or geothermal exploration and extraction industry and in underground storage which is intended to contain and/or control well pressure; this shall comprise the wellhead (Christmas tree), the blow out preventers (BOP), the piping manifolds and all their equipment upstream;
+(j)
+equipment comprising casings or machinery where the dimensioning, choice of material and manufacturing rules are based primarily on requirements for sufficient strength, rigidity and stability to meet the static and dynamic operational effects or other operational characteristics and for which pressure is not a significant design factor; such equipment may include:
+(i)
+engines including turbines and internal combustion engines;
+(ii)
+steam engines, gas/steam turbines, turbo-generators, compressors, pumps and actuating devices;
+(k)
+blast furnaces including the furnace cooling system, hot-blast recuperators, dust extractors and blast-furnace exhaust-gas scrubbers and direct reducing cupolas, including the furnace cooling, gas converters and pans for melting, re-melting, de-gassing and casting of steel, iron and non-ferrous metals;
+(l)
+enclosures for high-voltage electrical equipment such as switchgear, control gear, transformers, and rotating machines;
+(m)
+pressurised pipes for the containment of transmission systems, e.g. for electrical power and telephone cables;
+(n)
+ships, rockets, aircraft and mobile off-shore units, as well as equipment specifically intended for installation on board or the propulsion thereof;
+(o)
+pressure equipment consisting of a flexible casing, e.g. tyres, air cushions, balls used for play, inflatable craft, and other similar pressure equipment;
+(p)
+exhaust and inlet silencers;
+(q)
+bottles or cans for carbonated drinks for final consumption;
+(r)
+vessels designed for the transport and distribution of drinks having a PS·V of not more than 500 bar·L and a maximum allowable pressure not exceeding 7 bar;
+(s)
+equipment covered by Directive 2008/68/EC and Directive 2010/35/EU and equipment covered by the International Maritime Dangerous Goods Code and the Convention on International Civil Aviation;
+(t)
+radiators and pipes in warm water heating systems;
+(u)
+vessels designed to contain liquids with a gas pressure above the liquid of not more than 0,5 bar.

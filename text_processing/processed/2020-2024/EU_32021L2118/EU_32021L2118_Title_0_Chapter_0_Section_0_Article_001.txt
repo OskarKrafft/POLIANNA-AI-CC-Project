@@ -1,0 +1,377 @@
+Article 1
+Directive 2009/103/EC is amended as follows:
+(1)
+Article 1 is amended as follows:
+(a)
+point 1 is replaced by the following:
+‘1.
+“vehicle” means:
+(a)
+any motor vehicle propelled exclusively by mechanical power on land but not running on rails with:
+(i)
+a maximum design speed of more than 25 km/h; or
+(ii)
+a maximum net weight of more than 25 kg and a maximum design speed of more than 14 km/h;
+(b)
+any trailer to be used with a vehicle referred to in point (a), whether coupled or uncoupled.
+Without prejudice to points (a) and (b), wheelchair vehicles exclusively intended for use by persons with physical disabilities are not considered to be vehicles referred to in this Directive;’;
+(b)
+the following point is inserted:
+‘1a.
+“use of a vehicle” means any use of a vehicle that is consistent with the vehicle’s function as a means of transport at the time of the accident, irrespective of the vehicle’s characteristics and irrespective of the terrain on which the motor vehicle is used and of whether it is stationary or in motion;’;
+(c)
+point 2 is replaced by the following:
+‘2.
+“injured party” and “party injured” means any person entitled to compensation in respect of any loss or injury caused by vehicles;’;
+(d)
+the following point is added:
+‘8.
+“home Member State” means ‘home Member State’ as defined in Article 13(8), point (a), of Directive 2009/138/EC of the European Parliament and of the Council (*1).
+
+(*1)  Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).’;"
+                        
+(2)
+Article 3 is amended as follows:
+(a)
+the first paragraph is replaced by the following:
+
+                                          ‘Each Member State shall, subject to Article 5, take all appropriate measures to ensure that civil liability in respect of the use of a vehicle normally based in its territory is covered by insurance.’;
+(b)
+the following paragraph is inserted after the first paragraph:
+
+                                          ‘This Directive shall not apply to the use of a vehicle in motorsport events and activities, including races, competitions, training, testing and demonstrations in a restricted and demarcated area in a Member State, where the Member State ensures that the organiser of the activity or any other party has taken out an alternative insurance or guarantee policy covering the damage to any third party, including spectators and other bystanders but not necessarily covering the damage to the participating drivers and their vehicles.’;
+(3)
+Article 4 is replaced by the following:
+‘Article 4
+Checks on insurance
+1.   Member States shall refrain from making checks on insurance against civil liability in respect of vehicles normally based in the territory of another Member State and in respect of vehicles normally based in the territory of a third country entering their territory from the territory of another Member State.
+However, they may carry out such checks on insurance provided that those checks are non-discriminatory, necessary and proportionate to achieve the end pursued, and:
+(a)
+are carried out as part of a control which is not aimed exclusively at insurance verification; or
+(b)
+form part of a general system of checks on the national territory which are carried out also in respect of vehicles normally based in the territory of the Member State carrying out the check, and do not require the vehicle to stop.
+2.   On the basis of the law of the Member State to which the controller is subject, personal data may be processed where necessary for the purpose of combatting the uninsured driving of vehicles in Member States other than the Member State of the territory in which they are normally based. That law shall be in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council (*2) and shall also lay down suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests.
+Those Member State measures shall, in particular, specify the precise purpose for which the data is to be processed, refer to the relevant legal basis, comply with the relevant security requirements and respect the principles of necessity, proportionality, and purpose limitation, and shall set a proportionate data retention period. The personal data processed pursuant to this Article exclusively for the purpose of handling an insurance check shall only be retained for as long as they are necessary for that purpose, and as soon as this has been achieved, they shall be fully erased. Where an insurance check shows that a vehicle is covered by compulsory insurance under Article 3, the controller shall immediately erase those data. When a check is unable to determine if a vehicle is covered by compulsory insurance under Article 3, the data shall only be retained for a limited period, not exceeding the number of days necessary to determine whether the insurance coverage exists.
+
+(*2)  Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).’;"
+                        
+(4)
+in Article 5, the following paragraphs are added:
+‘3.   A Member State may derogate from Article 3 in respect of vehicles that are temporarily or permanently withdrawn and prohibited from use, provided that a formal administrative procedure or other verifiable measure in accordance with national law has been put in place.
+Any Member State so derogating shall ensure that vehicles referred to in the first subparagraph are treated in the same way as vehicles in respect of which the insurance obligation referred to in Article 3 has not been satisfied.
+The guarantee fund of the Member State in which an accident has taken place shall then have a claim against the guarantee fund in the Member State where the vehicle is normally based.
+4.   A Member State may derogate from Article 3 in respect of vehicles used exclusively on areas with restricted access, in accordance with its national law.
+Any Member State so derogating shall ensure that vehicles referred to in the first subparagraph are treated in the same way as vehicles in respect of which the insurance obligation referred to in Article 3 has not been satisfied.
+The guarantee fund of the Member State in which an accident has taken place shall then have a claim against the guarantee fund in the Member State where the vehicle is normally based.
+5.   A Member State may derogate from Article 3 in respect of vehicles not admitted for use on public roads in accordance with its national law.
+Any Member State derogating from Article 3 in respect of vehicles referred to in the first subparagraph shall ensure that those vehicles are treated in the same way as vehicles in respect of which the insurance obligation referred to in Article 3 has not been satisfied.
+The guarantee fund of the Member State in which an accident has taken place shall then have a claim against the guarantee fund in the Member State where the vehicle is normally based.
+6.   Where a Member State derogates, under paragraph 5, from Article 3 in respect of vehicles not admitted for use on public roads, that Member State may also derogate from Article 10 in respect of compensation for damage caused by those vehicles in areas not accessible to the public due to a legal or physical restriction on access to such areas, as defined by its national laws.
+7.   In respect of paragraphs 3 to 6, Member States shall notify the Commission of the use of the derogation and the particular arrangements concerning its implementation. The Commission shall publish a list of those derogations.’;
+(5)
+Article 9 is replaced by the following:
+‘Article 9
+Minimum amounts
+1.   Without prejudice to any higher guarantees which Member States may prescribe, each Member State shall require the insurance referred to in Article 3 to be compulsory in respect of the following minimum amounts:
+(a)
+for personal injuries: EUR 6 450 000 per accident, irrespective of the number of injured parties, or EUR 1 300 000 per injured party;
+(b)
+for damage to property, EUR 1 300 000 per accident, irrespective of the number of injured parties.
+For Member States that have not adopted the euro, the minimum amounts shall be converted into their national currency by applying the exchange rate of 22 December 2021, published in the Official Journal of the European Union.
+2.   Every five years from 22 December 2021, the Commission shall review the amounts referred to in paragraph 1 in line with the harmonised index of consumer prices (HICP) established pursuant to Regulation (EU) 2016/792 of the European Parliament and of the Council (*3).
+The Commission shall adopt delegated acts in accordance with Article 28b concerning the adaptation of those amounts to the HICP within six months after the end of each five year period.
+For Member States that have not adopted the euro, the amounts shall be converted into their national currency by applying the exchange rate of the date of the calculation of the new minimum amounts published in the Official Journal of the European Union.
+
+(*3)  Regulation (EU) 2016/792 of the European Parliament and of the Council of 11 May 2016 on harmonised indices of consumer prices and the house price index, and repealing Council Regulation (EC) No 2494/95 (OJ L 135, 24.5.2016, p. 11).’;"
+                        
+(6)
+the title of Chapter 4 is replaced by the following:
+
+                                       ‘CHAPTER 4
+
+COMPENSATION FOR DAMAGE CAUSED BY AN UNIDENTIFIED VEHICLE OR A VEHICLE IN RESPECT OF WHICH THE INSURANCE OBLIGATION PROVIDED FOR IN ARTICLE 3 HAS NOT BEEN SATISFIED AND COMPENSATION IN CASE OF INSOLVENCY
+                                       ’;
+(7)
+Article 10 is amended as follows:
+(a)
+in paragraph 1, the second subparagraph is replaced by the following:
+
+                                          ‘The first subparagraph shall be without prejudice to the right of the Member States to regard compensation by the body as subsidiary or non-subsidiary and the right to make provision for the settlement of claims between the body and the person or persons responsible for the accident and other insurers or social security bodies required to compensate the injured party in respect of the same accident. However, Member States may not allow the body to make the payment of compensation conditional on the injured party establishing, in any way, that the person liable is unable or refuses to pay.’;
+(b)
+in paragraph 2, the first subparagraph is replaced by the following:
+‘2.   The injured party may in any event apply directly to the body which, on the basis of information provided at its request by the injured party, shall be obliged to give him or her a reasoned reply regarding the payment of any compensation.’;
+(c)
+in paragraph 3, the second subparagraph is replaced by the following:
+
+                                          ‘However, where the body has paid compensation for significant personal injuries to any party injured as a result of the same accident in which damage to property was caused by an unidentified vehicle, Member States may not exclude the payment of compensation for damage to property on the basis that the vehicle is unidentified. Nevertheless, Member States may provide for an excess of not more than EUR 500 to be borne by the injured party who suffers such damage to property.’;
+(d)
+paragraph 4 is replaced by the following:
+‘4.   Each Member State shall apply its laws, regulations and administrative provisions to the payment of compensation by the body, without prejudice to any other practice which is more favourable to the injured party.’;
+(8)
+the following Article is inserted:
+‘Article 10a
+Protection of injured parties in respect of damage resulting from accidents occurring in their Member State of residence in the case of the insolvency of an insurance undertaking
+1.   Each Member State shall set up or authorise a body entrusted with the task of providing compensation to injured parties resident within its territory, at least up to the limits of the insurance obligation, for damage to property or personal injuries caused by a vehicle insured by an insurance undertaking, from the moment when:
+(a)
+the insurance undertaking is subject to bankruptcy proceedings; or
+(b)
+the insurance undertaking is subject to winding-up proceedings as defined in Article 268(1), point (d), of Directive 2009/138/EC.
+2.   Each Member State shall take appropriate measures to ensure that the body referred to in paragraph 1 has sufficient funds available to compensate injured parties in accordance with the rules set out in paragraph 10 when compensation payments are due in situations provided for in paragraph 1, points (a) and (b). Those measures may include requirements to make financial contributions, provided that they are only imposed on insurance undertakings that have been authorised by the Member State imposing them.
+3.   Without prejudice to any obligation under Article 280 of Directive 2009/138/EC, each Member State shall ensure that, whenever an order is made or a decision is taken by a competent court or any other competent authority to commence the proceedings referred to in paragraph 1, point (a) or (b), in respect of an insurance undertaking of which that Member State is the home Member State, that order or decision is made public. The body referred to in paragraph 1 established in the home Member State of the insurance undertaking shall ensure that all the bodies referred to in paragraph 1 in all Member States are promptly informed about that order or decision.
+4.   The injured party may present a claim directly to the body referred to in paragraph 1.
+5.   Upon receipt of the claim, the body referred to in paragraph 1 shall inform the equivalent body in the home Member State of the insurance undertaking and the insurance undertaking subject to bankruptcy or winding-up proceedings, or its administrator or liquidator, as defined in Article 268(1), points (e) and (f), of Directive 2009/138/EC, respectively, that it has received a claim from the injured party.
+6.   The insurance undertaking subject to bankruptcy or winding-up proceedings, or its administrator or liquidator, shall inform the body referred to in paragraph 1 when it compensates or denies liability with regard to a claim that has also been received by the body referred to in paragraph 1.
+7.   Member States shall ensure that the body referred to in paragraph 1, on the basis, inter alia, of information provided at its request by the injured party, provides the injured party with a reasoned offer of compensation or a reasoned reply as provided for in the second subparagraph of this paragraph, in accordance with the applicable national law, within three months from the date when the injured party presented his or her claim for compensation to the body.
+For the purposes of the first subparagraph, the body shall:
+(a)
+make a reasoned offer of compensation, where it has established that it is liable to provide compensation pursuant to paragraph 1, point (a) or (b), the claim is not contested and the damages have been partially or fully quantified;
+(b)
+provide a reasoned reply to the points made in the claim, where it has established that it is not liable to provide compensation pursuant to paragraph 1, point (a) or (b), or where liability is denied or has not been clearly determined or the damages have not been fully quantified.
+8.   Where compensation is due in accordance with the second subparagraph, point (a), of paragraph 7, the body referred to in paragraph 1 shall pay the compensation to the injured party without undue delay and in any event within three months of the acceptance by the injured party of the reasoned offer of compensation referred to in the second subparagraph, point (a), of paragraph 7.
+Where the damage has been only partially quantified, the requirements concerning the payment of the compensation set out in the first subparagraph shall apply in respect of that partially quantified damage, and from the moment of acceptance of the corresponding reasoned offer of compensation.
+9.   Member States shall ensure that the body referred to in paragraph 1 has all the necessary powers and competences to be able to cooperate in due time with other such bodies in other Member States, with bodies set up or authorised under Article 25a in all Member States and with other interested parties, including an insurance undertaking subject to bankruptcy or winding-up proceedings, its administrator or liquidator, and the national competent authorities of the Member States, at all stages during the proceedings referred to in this Article. Such cooperation shall include requesting, receiving and providing information, including on the details of specific claims, where relevant.
+10.   Where the home Member State of the insurance undertaking referred to in paragraph 1 is different from the Member State in which the injured party is resident, the body referred to in paragraph 1 in the Member State in which the injured party is resident which has compensated the injured party in accordance with paragraph 8 shall be entitled to claim full reimbursement of the sum paid by way of compensation from the body referred to in paragraph 1 in the home Member State of the insurance undertaking.
+The body referred to in paragraph 1 in the home Member State of the insurance undertaking shall make the payment to the body referred to in paragraph 1 in the Member State in which the injured party is resident which has compensated the injured party in accordance with paragraph 8 in a reasonable time not exceeding six months, unless otherwise agreed in writing by those bodies, after it has received a claim for such reimbursement.
+The body that has provided compensation pursuant to the first subparagraph shall be subrogated to the injured party in his or her rights against the person who caused the accident or his or her insurance undertaking, except against the policyholder or other insured person who caused the accident in so far as the liability of the policyholder or of the insured person would be covered by the insolvent insurance undertaking in accordance with the applicable national law. Each Member State shall be obliged to acknowledge this subrogation as provided for by any other Member State.
+11.   Paragraphs 1 to 10 shall be without prejudice to the right of Member States to:
+(a)
+regard compensation paid by the body referred to in paragraph 1 as subsidiary or non-subsidiary;
+(b)
+make provision for the settlement of claims in respect of the same accident between:
+(i)
+the body referred to in paragraph 1;
+(ii)
+the person or persons responsible for the accident;
+(iii)
+other insurance undertakings or social security bodies required to compensate the injured party.
+12.   Member States shall not allow the body referred to in paragraph 1 to make the payment of compensation subject to any requirements other than those laid down in this Directive. In particular, Member States shall not allow the body referred to in paragraph 1 to make the payment of compensation subject to the requirement that the injured party establishes that the legal or natural person liable is unable, or refuses, to pay.
+13.   The bodies referred to in paragraph 1 or the entities referred to in the second subparagraph of this paragraph shall strive to conclude an agreement by 23 December 2023 to implement this Article, concerning their functions and obligations and the procedures for reimbursement pursuant to this Article.
+For that purpose, by 23 June 2023 each Member State shall:
+(a)
+set up or authorise the body referred to in paragraph 1 and empower it to negotiate and conclude such an agreement; or
+(b)
+designate an entity and empower it to negotiate and conclude such an agreement, to which the body referred to in paragraph 1 will become a party when it is set up or authorised.
+The agreement referred to in the first subparagraph shall be immediately notified to the Commission.
+Where the agreement referred to in the first subparagraph is not concluded by 23 December 2023, the Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 28b in order to specify the procedural tasks and the procedural obligations of the bodies referred to in paragraph 1 with regard to reimbursement.’;
+(9)
+in Article 11, the first paragraph is replaced by the following:
+
+                              ‘In the event of a dispute between the body referred to in Article 10(1) and the civil liability insurer as to which must compensate the injured party, the Member States shall take the appropriate measures so that one of those parties is designated to be responsible in the first instance for paying compensation to the injured party without delay.’;
+(10)
+the title of Chapter 5 is replaced by the following:
+
+                                       ‘CHAPTER 5
+
+SPECIAL CATEGORIES OF INJURED PARTY, EXCLUSION CLAUSES, SINGLE PREMIUM, VEHICLES DISPATCHED FROM ONE MEMBER STATE TO ANOTHER
+                                       ’;
+(11)
+the title of Article 12 is replaced by the following:
+
+                              ‘
+                              Special categories of injured party
+                              ’;
+(12)
+Article 13 is amended as follows:
+(a)
+in paragraph 1:
+(i)
+the introductory part of the first subparagraph is replaced by the following:
+‘1.
+Each Member State shall take all appropriate measures to ensure that any statutory provision or any contractual clause contained in an insurance policy issued in accordance with Article 3 shall be deemed to be void in respect of claims by third parties injured as a result of an accident where that statutory provision or contractual clause excludes from insurance the use or driving of vehicles by:’;
+(ii)
+the third subparagraph is replaced by the following:
+
+                                                      ‘Member States shall have the option – in the case of accidents occurring on their territory – of not applying the provision in the first subparagraph if and in so far as the injured party may obtain compensation for the damage suffered from a social security body.’;
+(b)
+in paragraph 2, the second subparagraph is replaced by the following:
+
+                                          ‘Member States which, in the case of vehicles stolen or obtained by violence, provide that the body referred to in Article 10(1) is to pay compensation may fix in respect of damage to property an excess of not more than EUR 250 to be borne by the injured party.’;
+(13)
+in Article 15, paragraph 1 is replaced by the following:
+‘1.   By way of derogation from Article 13, point (13)(b), of Directive 2009/138/EC, where a vehicle is dispatched from one Member State to another, the Member State in which the risk is situated shall be considered, depending on the choice of the person responsible for third party liability cover, to be either the Member State of registration or, immediately upon acceptance of delivery by the purchaser, the Member State of destination, for a period of 30 days, even if the vehicle has not formally been registered in the Member State of destination.
+Member States shall ensure that the information centre referred to in Article 23 of the Member State where the vehicle is registered, of the Member State of destination, where different, and of any other relevant Member State, such as the Member State where an accident occurred, or where an injured party is resident, cooperate with each other to ensure that the necessary information on the dispatched vehicle that they have in accordance with Article 23 is available.’;
+(14)
+the following Article is inserted:
+‘Article 15a
+Protection of injured parties in accidents involving a trailer towed by a vehicle
+1.   In the case of an accident caused by a set of vehicles consisting of a vehicle towing a trailer, where the trailer has a separate third party liability insurance, the injured party may bring his or her claim directly against the insurance undertaking that insured the trailer, where:
+(a)
+the trailer can be identified, but the vehicle that towed it cannot be identified; and
+(b)
+the applicable national law provides for the insurer of the trailer to provide compensation.
+An insurance undertaking that has compensated the injured party shall have recourse to the undertaking that insured the towing vehicle, or to the body referred to in Article 10(1), if and to the extent that this is provided for under the applicable national law.
+This paragraph shall be without prejudice to applicable national law providing for rules more favourable to the injured party.
+2.   In the case of an accident caused by a set of vehicles consisting of a vehicle towing a trailer, the insurer of the trailer, unless the applicable national law requires it to provide full compensation, shall, at the request of the injured party, inform him or her without undue delay of:
+(a)
+the identity of the insurer of the towing vehicle; or
+(b)
+where the insurer of the trailer cannot identify the insurer of the towing vehicle, the compensation mechanism provided for in Article 10.’;
+(15)
+Article 16 is replaced by the following:
+‘Article 16
+Statement relating to the third party liability claims
+Member States shall ensure that the policyholder has the right to request at any time a statement relating to the third party liability claims involving the vehicle or vehicles covered by the insurance contract at least during the preceding five years of the contractual relationship, or to the absence of such claims (“claims-history statement”).
+The insurance undertaking, or a body which may have been appointed by a Member State to provide compulsory insurance or to supply such statements, shall provide that claims-history statement to the policyholder within 15 days of the request. They shall do so using the form of the claims-history statement.
+Member States shall ensure that, when taking account of claims-history statements issued by other insurance undertakings or other bodies as referred to in the second paragraph, insurance undertakings do not treat policyholders in a discriminatory manner or surcharge their premiums because of their nationality or solely on the basis of their previous Member State of residence.
+Member States shall ensure that, where an insurance undertaking takes into account claims-history statements when determining premiums, it shall treat those issued in other Member States as equal to those issued by an insurance undertaking or bodies as referred to in the second paragraph within the same Member State, including when applying any discounts.
+Member States shall ensure that insurance undertakings publish a general overview of their policies in respect of their use of claims-history statements when calculating premiums.
+The Commission shall adopt by 23 July 2023 implementing acts specifying by means of a template, the form and content of the claims-history statement referred to in the second paragraph. That template shall contain information on the following:
+(a)
+the identity of the insurance undertaking or the body issuing the claims-history statement;
+(b)
+the identity of the policyholder, including his or her contact information;
+(c)
+the vehicle insured and its vehicle identification number;
+(d)
+the start date and end date of the insurance cover of the vehicle;
+(e)
+the number of third party liability claims settled under the insurance contract of the policyholder during the period covered by the claims-history statement, including the date of each claim;
+(f)
+additional information relevant under the rules or practices applicable in the Member States.
+The Commission shall consult all interested parties and work closely with the Member States before adopting those implementing acts.
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 28a(2).’;
+(16)
+the following Article is inserted:
+‘Article 16a
+Motor insurance price comparison tools
+1.   Member States may choose to certify tools which enable consumers free of charge to compare prices, tariffs and coverage between providers of the compulsory insurance referred to in Article 3 as “motor insurance independent price comparison tools” if the conditions of paragraph 2 are met.
+2.   A comparison tool within the meaning of paragraph 1 shall:
+(a)
+be operationally independent from the providers of the compulsory insurance referred to in Article 3 and ensure that service providers are given equal treatment in search results;
+(b)
+clearly disclose the identity of the owners and operators of the comparison tool;
+(c)
+set out the clear, objective criteria on which the comparison is based;
+(d)
+use plain and unambiguous language;
+(e)
+provide accurate and up-to-date information and state the time of the last update;
+(f)
+be open to any provider of the compulsory insurance referred to in Article 3, make available the relevant information, include a broad range of offers covering a significant part of the motor insurance market and, where the information presented is not a complete overview of that market, provide the user with a clear statement to that effect, before displaying results;
+(g)
+provide an effective procedure to report incorrect information;
+(h)
+include a statement that prices are based on the information provided and are not binding on insurance providers.’;
+(17)
+Article 23 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘1a.
+Member States shall ensure that insurance undertakings or other entities are required to provide the information referred to in paragraph 1, point (a)(i), (ii) and (iii), to the information centres and to inform them whenever an insurance policy becomes invalid or otherwise no longer covers a vehicle with a registration number.’;
+(b)
+paragraph 6 is replaced by the following:
+‘6.   The processing of personal data resulting from paragraphs 1 to 5 shall be carried out in accordance with Regulation (EU) 2016/679.’;
+(18)
+the following Article is inserted:
+‘Article 25a
+Protection of injured parties in respect of damage resulting from accidents occurring in a Member State other than their Member State of residence in the case of the insolvency of an insurance undertaking
+1.   Each Member State shall set up or authorise a body entrusted with the task of providing compensation to injured parties resident within its territory, in the cases referred to in Article 20(1), at least up to the limits of the insurance obligation, for damage to property or personal injuries caused by a vehicle insured by an insurance undertaking, from the moment when:
+(a)
+the insurance undertaking is subject to bankruptcy proceedings; or
+(b)
+the insurance undertaking is subject to winding-up proceedings as defined in Article 268(1), point (d), of Directive 2009/138/EC.
+2.   Each Member State shall take appropriate measures to ensure that the body referred to in paragraph 1 has sufficient funds available to compensate injured parties in accordance with the rules set out in paragraph 10 when compensation payments are due in situations provided for in paragraph 1, points (a) and (b). Those measures may include requirements to make financial contributions, provided that they are only imposed on insurance undertakings that have been authorised by the Member State imposing them.
+3.   Without prejudice to any obligation under Article 280 of Directive 2009/138/EC, each Member State shall ensure that, whenever an order is made or a decision is taken by a competent court or any other competent authority to commence the proceedings referred to in paragraph 1, point (a) or (b), in respect of an insurance undertaking of which that Member State is the home Member State, that order or decision is made public. The body referred to in paragraph 1 established in the home Member State of the insurance undertaking shall ensure that all the bodies referred to in paragraph 1 and all the compensation bodies referred to in Article 24 in all Member States are promptly informed about that order or decision.
+4.   The injured party may present a claim directly to the body referred to in paragraph 1.
+5.   Upon receipt of the claim, the body referred to in paragraph 1 shall inform the equivalent body in the home Member State of the insurance undertaking, the compensation body under Article 24 in the Member State of residence of the injured party and the insurance undertaking subject to bankruptcy or winding-up proceedings, or its administrator or liquidator, as defined in Article 268(1), points (e) and (f), of Directive 2009/138/EC, respectively, that it has received a claim from the injured party.
+6.   The insurance undertaking subject to bankruptcy or winding-up proceedings, or its administrator or liquidator, shall inform the body referred to in paragraph 1 when it compensates or denies liability with regard to a claim that has also been received by the body referred to in paragraph 1.
+7.   Member States shall ensure that the body referred to in paragraph 1, on the basis, inter alia, of information provided at its request by the injured party, provides the injured party with a reasoned offer of compensation or a reasoned reply as provided for in the second subparagraph of this paragraph, in accordance with the applicable national law, within three months from the date when the injured party presented his or her claim for compensation to the body.
+For the purposes of the first subparagraph, the body shall:
+(a)
+make a reasoned offer of compensation, where it has established that it is liable to provide compensation pursuant to paragraph 1, point (a) or (b), the claim is not contested and the damages have been partially or fully quantified;
+(b)
+provide a reasoned reply to the points made in the claim, where it has established that it is not liable to provide compensation pursuant to paragraph 1, point (a) or (b), or where liability is denied or has not been clearly determined or the damages have not been fully quantified.
+8.   Where compensation is due in accordance with the second subparagraph, point (a), of paragraph 7, the body referred to in paragraph 1 shall pay the compensation to the injured party without undue delay and in any event within three months of the acceptance by the injured party of the reasoned offer of compensation referred to in the second subparagraph, point (a), of paragraph 7.
+Where the damage has been only partially quantified, the requirements concerning the payment of the compensation set out in the first subparagraph shall apply in respect of that partially quantified damage, and from the moment of acceptance of the corresponding reasoned offer of compensation.
+9.   Member States shall ensure that the body referred to in paragraph 1 has all the necessary powers and competences to be able to cooperate in due time with other such bodies in other Member States, with bodies set up or authorised under Articles 10a and 24 in all Member States and with other interested parties, including an insurance undertaking subject to bankruptcy or winding-up proceedings, its claims representative or administrator or liquidator, and the national competent authorities of the Member States, at all stages during the proceedings referred to in this Article. Such cooperation shall include requesting, receiving and providing information, including on the details of specific claims, where relevant.
+10.   Where the home Member State of the insurance undertaking referred to in paragraph 1 is different from the Member State in which the injured party is resident, the body referred to in paragraph 1 in the Member State in which the injured party is resident which has compensated the injured party in accordance with paragraph 8 shall be entitled to claim full reimbursement of the sum paid by way of compensation from the body referred to in paragraph 1 in the home Member State of the insurance undertaking.
+The body referred to in paragraph 1 in the home Member State of the insurance undertaking shall make the payment to the body referred to in paragraph 1 in the Member State in which the injured party is resident which has compensated the injured party in accordance with paragraph 8 in a reasonable time not exceeding six months, unless otherwise agreed in writing by those bodies, after it has received a claim for such reimbursement.
+The body that has provided compensation pursuant to the first subparagraph shall be subrogated to the injured party in his or her rights against the person who caused the accident or his or her insurance undertaking, except against the policyholder or other insured person who caused the accident in so far as the liability of the policyholder or of the insured person would be covered by the insolvent insurance undertaking in accordance with the applicable national law. Each Member State shall be obliged to acknowledge this subrogation as provided for by any other Member State.
+11.   Paragraphs 1 to 10 shall be without prejudice to the right of Member States to:
+(a)
+regard compensation paid by the body referred to in paragraph 1 as subsidiary or non-subsidiary;
+(b)
+make provision for the settlement of claims in respect of the same accident between:
+(i)
+the body referred to in paragraph 1;
+(ii)
+the person or persons responsible for the accident;
+(iii)
+other insurance undertakings or social security bodies required to compensate the injured party.
+12.   Member States shall not allow the body referred to in paragraph 1 to make the payment of compensation subject to any requirements other than those laid down in this Directive. In particular, Member States shall not allow the body referred to in paragraph 1 to make the payment of compensation subject to the requirement that the injured party establishes that the legal or natural person liable is unable, or refuses, to pay.
+13.   The bodies referred to in paragraph 1 or the entities referred to in the second subparagraph of this paragraph shall strive to conclude an agreement by 23 December 2023 to implement this Article, concerning their functions and obligations and the procedures for reimbursement pursuant to this Article.
+For that purpose, by 23 June 2023 each Member State shall:
+(a)
+set up or authorise the body referred to in paragraph 1 and empower it to negotiate and conclude such an agreement; or
+(b)
+designate an entity and empower it to negotiate and conclude such an agreement, to which the body referred to in paragraph 1 will become a party when it is set up or authorised.
+The agreement referred to in the first subparagraph shall be immediately notified to the Commission.
+Where the agreement referred to in the first subparagraph is not concluded by 23 December 2023, the Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 28b in order to specify the procedural tasks and the procedural obligations of the bodies referred to in paragraph 1 with regard to reimbursement.’;
+(19)
+in Article 26, the first paragraph is replaced by the following:
+
+                              ‘Member States shall take all appropriate measures to facilitate the timely provision to the injured parties, their insurers or their legal representatives of the basic data necessary for the settlement of claims.’;
+(20)
+the following Article is inserted:
+‘Article 26a
+Information to injured parties
+Member States which set up or authorise different compensation bodies under Article 10(1), Article 10a(1), Article 24(1) and Article 25a(1) shall ensure that injured parties have access to essential information on possible ways to apply for compensation.’;
+(21)
+in Article 28(1), the following subparagraph is added:
+
+                              ‘The Member States may require motor insurance that meets the requirements of this Directive for any motor equipment used on land that is not covered by the definition of “vehicle” in Article 1, point 1, and to which Article 3 does not apply.’;
+(22)
+the following Articles are inserted:
+‘Article 28a
+Committee procedure
+1.   The Commission shall be assisted by the European Insurance and Occupational Pensions Committee established by Commission Decision 2004/9/EC (*4).That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (*5).
+2.   Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+Article 28b
+Exercise of delegated powers
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 9(2) shall be conferred on the Commission for an indeterminate period of time from 22 December 2021.
+The power to adopt delegated acts referred to in Article 10a(13), fourth subparagraph, and Article 25a(13), fourth subparagraph, shall be conferred on the Commission for a period of seven years from 22 December 2021. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension no later than three months before the end of each period.
+3.   The delegation of power referred to in Article 9(2), Article 10a(13), fourth subparagraph, and Article 25a(13), fourth subparagraph, may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of that decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making (*6).
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6.   A delegated act adopted pursuant to Article 9(2), Article 10a(13), fourth subparagraph, and Article 25a(13), fourth subparagraph, shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.
+Article 28c
+Evaluation and review
+1.   No later than five years after the respective dates of application of Articles 10a and 25a as referred to in Article 30, second, third and fourth paragraph, the Commission shall submit a report to the European Parliament and to the Council on the functioning of, the cooperation between and the funding of the bodies referred to in Articles 10a and 25a. Where appropriate, the report shall be accompanied by a legislative proposal. With regard to the funding of those bodies, that report shall include at least:
+(a)
+an assessment of the financing capacities and financing needs of the compensation bodies in relation to their potential liabilities, taking into account the risk of insolvency of motor insurers in the Member States’ markets;
+(b)
+an assessment of the harmonisation of the funding approach of the compensation bodies;
+(c)
+if the report is accompanied by a legislative proposal, an assessment of the impact of contributions upon motor insurance contract premiums.
+2.   No later than 24 December 2030, the Commission shall submit a report to the European Parliament, to the Council and to the European Economic and Social Committee evaluating the implementation of this Directive, with the exception of the elements that are concerned by the evaluation referred to in paragraph 1, including in respect of:
+(a)
+the application of this Directive with regard to technological developments, in particular with regard to autonomous and semi- autonomous vehicles;
+(b)
+the adequacy of the scope of this Directive, considering the accident risks posed by different motor vehicles;
+(c)
+in the form of a review, the effectiveness of information exchange systems for the purposes of checks on insurance in cross-border situations, including, if needed, an assessment, for such cases, of the feasibility of using existing information exchange systems, and in any event, an analysis of the objectives of the information exchange systems and an assessment of their costs; and
+(d)
+the use by insurance undertakings of systems in which premiums are influenced by the policyholders’ claims-history statements, inter alia, bonus-malus systems or “no claims bonus”.
+That report shall be accompanied, where appropriate, by a legislative proposal.
+
+(*4)  Commission Decision 2004/9/EC of 5 November 2003 establishing the European Insurance and Occupational Pensions Committee (OJ L 3, 7.1.2004, p. 34)."
+                        
+
+(*5)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13)."
+                        
+
+(*6)  
+                                          OJ L 123, 12.5.2016, p. 1.’;"
+                        
+(23)
+in Article 30, the following paragraphs are added:
+ 
+
+                                    ‘Article 10a(1) to (12) shall apply from the date of the agreement referred to in Article 10a(13), first subparagraph, or from the date of application of the Commission delegated act referred to in Article 10a(13), fourth subparagraph.
+ 
+Article 25a(1) to (12) shall apply from the date of the agreement referred to in Article 25a(13), first subparagraph, or from the date of application of the Commission delegated act referred to in Article 25a(13), fourth subparagraph.
+ 
+However, Articles 10a(1) to (12) and Article 25a(1) to (12) shall not apply before 23 December 2023.
+ 
+Article 16, second paragraph, second sentence, and third, fourth and fifth paragraphs shall apply from 23 April 2024 or from the date of application of the Commission implementing act referred to in Article 16, sixth paragraph, whichever is the later.’.

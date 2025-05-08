@@ -1,0 +1,14 @@
+Article 38
+Refusal of access and connection
+1.   Transmission system operators, distribution system operators and hydrogen network operators may refuse access or connection to the natural gas or hydrogen system on the basis of lack of capacity or a lack of connection.
+2.   Without prejudice to Union and national decarbonisation objectives and existing requirements to reduce or switch from fossil gas consumption, Member States shall take appropriate measures to ensure that the transmission system operator, distribution system operator or hydrogen network operators refusing access or connection to the natural gas system or hydrogen system on the basis of lack of capacity or a lack of connection makes the necessary enhancements as far as it is economic to do so or when a potential customer is willing to pay for them.
+3.   Access to the system for renewable gas and low-carbon gas may only be refused subject to Articles 20 and 36 of Regulation (EU) 2024/1789.
+4.   By way of derogation from paragraphs 1, 2 and 3 of this Article, a Member State shall ensure that transmission system operators and distribution system operators are allowed to refuse access or connection, or to disconnect, natural gas network users, in particular to ensure compliance with the implementation of the climate-neutrality objective set out in Article 2(1) of Regulation (EU) 2021/1119, provided that:
+(a)
+the network development plan established pursuant to Article 55 provides for the decommissioning of the transmission system or relevant parts thereof;
+(b)
+the relevant national authority has approved the network decommissioning plan pursuant to Article 57(3);
+(c)
+the relevant distribution network operator, exempted to submit a network decommissioning plan pursuant to Article 57(5), has informed the relevant national authority of the decommissioning of the distribution network or relevant parts thereof.
+5.   Member States allowing for the refusal of access or connection or for the disconnection of network users pursuant to paragraph 4 of this Article shall provide for a regulatory framework for refusal of access or connection or for disconnection that is based on objective, transparent and non-discriminatory criteria established by the regulatory authority, taking into account the interests affected, the existing requirements to reduce or switch from natural gas consumption and the relevant local heating and cooling plans established pursuant to Article 25(6) of Directive (EU) 2023/1791. Member States shall take adequate measures to protect network users in accordance with Article 13 of this Directive when allowing disconnection.
+6.   Any refusal of access or connection and any disconnection pursuant to this Article shall be duly substantiated.

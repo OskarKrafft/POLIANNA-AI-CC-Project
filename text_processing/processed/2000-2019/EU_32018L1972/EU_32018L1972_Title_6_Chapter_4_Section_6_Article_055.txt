@@ -1,0 +1,17 @@
+Article 56
+Access to radio local area networks
+1.   Competent authorities shall allow the provision of access through RLANs to a public electronic communications network, as well as the use of the harmonised radio spectrum for that provision, subject only to applicable general authorisation conditions relating to radio spectrum use as referred to in Article 46(1).
+Where that provision is not part of an economic activity or is ancillary to an economic activity or a public service which is not dependent on the conveyance of signals on those networks, any undertaking, public authority or end-user providing such access shall not be subject to any general authorisation for the provision of electronic communications networks or services pursuant to Article 12, to obligations regarding end-users rights pursuant to Title II of Part III, or to obligations to interconnect their networks pursuant to Article 61(1).
+2.   Article 12 of Directive 2000/31/EC shall apply.
+3.   Competent authorities shall not prevent providers of public electronic communications networks or publicly available electronic communications services from allowing access to their networks to the public, through RLANs, which may be located at an end-user’s premises, subject to compliance with the applicable general authorisation conditions and the prior informed agreement of the end-user.
+4.   In accordance in particular with Article 3(1) of Regulation (EU) 2015/2120, competent authorities shall ensure that providers of public electronic communications networks or publicly available electronic communications services do not unilaterally restrict or prevent end-users from:
+(a)
+accessing RLANs of their choice provided by third parties; or
+(b)
+allowing reciprocally or, more generally, accessing the networks of such providers by other end-users through RLANs, including on the basis of third-party initiatives which aggregate and make publicly accessible the RLANs of different end-users.
+5.   Competent authorities shall not limit or prevent end-users from allowing access, reciprocally or otherwise, to their RLANs by other end-users, including on the basis of third-party initiatives which aggregate and make the RLANs of different end-users publicly accessible.
+6.   Competent authorities shall not unduly restrict the provision of access to RLANs to the public:
+(a)
+by public sector bodies or in public spaces close to premises occupied by such public sector bodies, when that provision is ancillary to the public services provided on those premises;
+(b)
+by initiatives of non-governmental organisations or public sector bodies to aggregate and make reciprocally or more generally accessible the RLANs of different end-users, including, where applicable, the RLANs to which public access is provided in accordance with point (a).

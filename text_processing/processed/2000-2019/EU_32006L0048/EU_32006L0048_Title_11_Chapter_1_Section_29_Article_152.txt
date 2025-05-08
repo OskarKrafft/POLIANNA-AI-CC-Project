@@ -1,0 +1,29 @@
+Article 152
+1.   Credit institutions calculating risk‐weighted exposure amounts in accordance with Articles 84 to 89 shall during the first, second and third twelve‐month periods after 31 December 2006 provide own funds which are at all times more than or equal to the amounts indicated in paragraphs 3, 4 and 5.
+2.   Credit institutions using the Advanced Measurement Approaches as specified in Article 105 for the calculation of their capital requirements for operational risk shall, during the second and third twelve‐month periods after 31 December 2006, provide own funds which are at all times more than or equal to the amounts indicated in paragraphs 4 and 5.
+3.   For the first twelve‐month period referred to in paragraph 1, the amount of own funds shall be 95 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Council Directive 93/6/EEC of 15 March 1993 on the capital adequacy of investment firms and credit institutions (23) as that Directive and Directive 2000/12/EC stood prior to 1 January 2007.
+4.   For the second twelve‐month period referred to in paragraph 1, the amount of own funds shall be 90 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC stood prior to 1 January 2007.
+5.   For the third twelve‐month period referred to in paragraph 1, the amount of own funds shall be 80 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC stood prior .to 1 January 2007.
+6.   Compliance with the requirements of paragraphs 1 to 5 shall be on the basis of amounts of own funds fully adjusted to reflect differences in the calculation of own funds under Directive 2000/12/EC and Directive 93/6/EEC as those Directives stood prior to 1 January 2007 and the calculation of own funds under this Directive deriving from the separate treatments of expected loss and unexpected loss under Articles 84 to 89 of this Directive.
+7.   For the purposes of paragraphs 1 to 6 of this Article, Articles 68 to 73 shall apply.
+8.   Until 1 January 2008 credit institutions may treat the Articles constituting the Standardised Approach set out in Title V, Chapter 2, Section 3, Subsection 1 as being replaced by Articles 42 to 46 of Directive 2000/12/EC as those Articles stood prior to 1 January 2007.
+9.   Where the discretion referred to in paragraph 8 is exercised, the following shall apply concerning the provisions of Directive 2000/12/EC:
+(a)
+the provisions of that Directive referred to in Articles 42 to 46 shall apply as they stood prior to 1 January 2007;
+(b)
+‘risk‐adjusted value’ as referred to in Article 42(1) of that Directive shall mean ‘risk‐weighted exposure amount’;
+(c)
+the figures produced by Article 42(2) of that Directive shall be considered risk‐weighted exposure amounts;
+(d)
+‘credit derivatives’ shall be included in the list of ‘Full risk’ items in Annex II of that Directive; and
+(e)
+the treatment set out in Article 43(3) of that Directive shall apply to derivative instruments listed in Annex IV of that Directive whether on‐ or off‐balance sheet and the figures produced by the treatment set out in Annex III shall be considered risk‐weighted exposure amounts.
+10.   Where the discretion referred to in paragraph 8 is exercised, the following shall apply in relation to the treatment of exposures for which the Standardised Approach is used:
+(a)
+Title V, Chapter 2, Section 3, Subsection 3 relating to the recognition of credit risk mitigation shall not apply;
+(b)
+Title V, Chapter 2, Section 3, Subsection 4 concerning the treatment of securitisation may be disapplied by competent authorities.
+11.   Where the discretion referred to in paragraph 8 is exercised, the capital requirement for operational risk under Article 75(d) shall be reduced by the percentage representing the ratio of the value of the credit institution's exposures for which risk‐weighted exposure amounts are calculated in accordance with the discretion referred to in paragraph 8 to the total value of its exposures.
+12.   Where a credit institution calculates risk‐weighted exposure amounts for all of its exposures in accordance with the discretion referred to in paragraph 8, Articles 48 to 50 of Directive 2000/12/EC relating to large exposures may apply as they stood prior to 1 January 2007.
+13.   Where the discretion referred to in paragraph 8 is exercised, references to Articles 78 to 83 of this Directive shall be read as references to Articles 42 to 46 of Directive 2000/12/EC as those Articles stood prior to 1 January 2007.
+14.   If the discretion referred to in paragraph 8 is exercised, Articles 123, 124, 145 and 149 shall not apply before the date referred to therein.

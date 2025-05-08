@@ -1,0 +1,18 @@
+Article 12
+One-stop shop
+1.   The Agency shall establish and manage an information and communications system with at least the following one-stop-shop functions:
+(a)
+a single entry point through which the applicant shall submit its application files for type authorisation, vehicle authorisations for placing on the market and single safety certificates. Where the area of use or operation is limited to a network or networks within one Member State only, the single entry point shall be developed so as to ensure that the applicant selects the authority it wishes to process the application for issuing authorisations or single safety certificates for the whole procedure;
+(b)
+a common information-exchange platform, providing the Agency and national safety authorities with information about all applications for authorisations and single safety certificates, the stages of these procedures and their outcome, and, where applicable, the requests and decisions of the Board of Appeal;
+(c)
+a common information-exchange platform, providing the Agency and national safety authorities with information about requests for approvals by the Agency in accordance with Article 19 of Directive (EU) 2016/797 and applications for authorisations of trackside control-command and signalling subsystems involving European Train Control System (ETCS) and/or Global System for Mobile Communications – Railway (GSM-R) equipment, the stages of these procedures and their outcome, and, where applicable, the requests and decisions of the Board of Appeal;
+(d)
+an early-warning system able to identify at an early stage the needs for coordination between decisions to be taken by national safety authorities and the Agency in the case of different applications requesting similar authorisations or single safety certificates.
+2.   The technical and functional specifications of the one-stop shop referred to in paragraph 1 shall be developed in cooperation with the network of national safety authorities referred to in Article 38 on the basis of a draft prepared by the Agency taking into account the results of a cost-benefit analysis. On this basis, the Management Board shall adopt the technical and functional specifications and a plan to establish the one-stop shop. The one-stop shop shall be developed without prejudice to the intellectual property rights and the required confidentiality level, and taking into consideration, if appropriate, the IT applications and registers already set up by the Agency, such as those referred to in Article 37.
+3.   The one-stop shop shall be operational by 16 June 2019.
+4.   The Agency shall monitor the applications submitted through the one-stop shop, in particular by using the early-warning system referred to in point (d) of paragraph 1. If different applications requesting similar authorisations or single safety certificates are detected, the Agency shall ensure appropriate follow-up, such as:
+(a)
+informing applicant(s) that there is another or similar request for authorisation or certification;
+(b)
+coordinating with the relevant national safety authority in order to ensure consistency of decisions to be taken by national safety authorities and the Agency. If no mutually acceptable solution can be found within 1 month of the beginning of the coordination process, the matter shall be referred for arbitration to the Board of Appeal referred to in Articles 55, 61 and 62.

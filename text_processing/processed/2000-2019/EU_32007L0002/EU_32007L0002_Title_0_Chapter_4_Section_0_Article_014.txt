@@ -1,0 +1,5 @@
+Article 14
+1.   Member States shall ensure that the services referred to in points (a) and (b) of Article 11(1) are available to the public free of charge.
+2.   By way of derogation from paragraph 1, Member States may allow a public authority supplying a service referred to in point (b) of Article 11(1) to apply charges where such charges secure the maintenance of spatial data sets and corresponding data services, especially in cases involving very large volumes of frequently updated data.
+3.   Data made available through the view services referred to in point (b) of Article 11(1) may be in a form preventing their re-use for commercial purposes.
+4.   Where public authorities levy charges for the services referred to in points (b), (c) or (e) of Article 11(1), Member States shall ensure that e-commerce services are available. Such services may be covered by disclaimers, click-licences or, where necessary, licences.

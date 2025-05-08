@@ -1,0 +1,10 @@
+Article 5
+Interim environmental objectives
+The national emission ceilings in Annex I shall have as their purpose to meet broadly the following interim environmental objectives, for the Community as a whole, by 2010:
+(a) Acidification
+The areas where critical loads are exceeded shall be reduced by at least 50 % (in each grid cell) compared with the 1990 situation.
+(b) Health-related ground-level ozone exposure
+The ground-level ozone load above the critical level for human health (AOT60=0) shall be reduced by two-thirds in all grid cells compared with the 1990 situation. In addition, the ground-level ozone load shall not exceed an absolute limit of 2,9 ppm.h in any grid cell.
+(c) Vegetation-related ground-level ozone exposure
+The ground-level ozone load above the critical level for crops and semi-natural vegetation (AOT40=3 ppm.h) shall be reduced by one-third in all grid cells compared with the 1990 situation. In addition, the ground-level ozone load shall not exceed an absolute limit of 10 ppm.h, expressed as an exceedance of the critical level of 3 ppm.h in any grid cell.
+

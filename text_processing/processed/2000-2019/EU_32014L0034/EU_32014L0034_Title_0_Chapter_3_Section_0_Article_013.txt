@@ -1,0 +1,28 @@
+Article 13
+Conformity assessment procedures
+1.   The procedures to be followed for assessing the conformity of equipment and, where necessary, the devices referred to in point (b) of Article 1(1) shall be as follows:
+(a)
+for equipment-groups I and II, equipment-categories M 1 and 1, the EU-type examination set out in Annex III, in conjunction with either of the following:
+—
+conformity to type based on quality assurance of the production process set out in Annex IV,
+—
+conformity to type based on product verification set out in Annex V;
+(b)
+for equipment-groups I and II, equipment categories M 2 and 2:
+(i)
+in the case of internal combustion engines and electrical equipment in these groups and categories, the EU-type examination set out in Annex III, in conjunction with either of the following:
+—
+conformity to type based on internal production control plus supervised product testing set out in Annex VI,
+—
+conformity to type based on product quality assurance set out in Annex VII;
+(ii)
+in the case of other equipment in these groups and categories, internal production control set out in Annex VIII and the communication of the technical documentation provided for in Annex VIII, point 2, to a notified body, which shall acknowledge receipt of it as soon as possible and shall retain it;
+(c)
+for equipment-group II, equipment category 3, internal production control set out in Annex VIII;
+(d)
+for equipment-groups I and II, in addition to the procedures referred to in points (a), (b) and (c) of this paragraph, conformity based on unit verification set out in Annex IX may also be followed.
+2.   The procedure referred to in point (a) or (d) of paragraph 1 shall be used for conformity assessment of protective systems.
+3.   The procedures referred to in paragraph 1 shall be applied in respect of components with the exception of the affixing of the CE marking and the drawing up of the EU declaration of conformity. A written attestation of conformity shall be issued by the manufacturer, declaring the conformity of the components with the applicable provisions of this Directive and stating their characteristics and how they must be incorporated into equipment or protective systems to assist compliance with the essential health and safety requirements set out in Annex II applicable to finished equipment or protective systems.
+4.   With regard to the safety aspects referred to in point 1.2.7 of Annex II, in addition to the conformity assessment procedures referred to in paragraphs 1 and 2, the procedure referred to in Annex VIII may also be followed.
+5.   By derogation from paragraphs 1, 2 and 4, the competent authorities may, on a duly justified request, authorise the placing on the market and putting into service on the territory of the Member State concerned of the products other than components in respect of which the procedures referred to in paragraphs 1, 2 and 4 have not been applied and the use of which is in the interests of protection.
+6.   Documents and correspondence relating to the conformity assessment procedures referred to in paragraphs 1 to 4 shall be drawn up in a language, determined by the Member State concerned.

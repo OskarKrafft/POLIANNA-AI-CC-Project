@@ -1,0 +1,4 @@
+Article 1
+Scope
+This Directive applies to the devices and systems with a measuring function defined in the instrument-specific annexes concerning water meters (MI-001), gas meters and volume conversion devices (MI-002), active electrical energy meters (MI-003), heat meters (MI-004), measuring systems for continuous and dynamic measurement of quantities of liquids other then water (MI-005), automatic weighing instruments (MI-006), taximeters (MI-007), material measures (MI-008), dimensional measuring instruments (MI-009) and exhaust gas analysers (MI-010).
+

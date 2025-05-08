@@ -1,0 +1,25 @@
+Article 4
+Assessment of major-accident hazards for a particular dangerous substance
+1.   The Commission shall assess, where appropriate or in any event on the basis of a notification by a Member State in accordance with paragraph 2, whether it is impossible in practice for a particular dangerous substance covered by Part 1 or listed in Part 2 of Annex I, to cause a release of matter or energy that could create a major accident under both normal and abnormal conditions which can reasonably be foreseen. That assessment shall take into account the information referred to in paragraph 3, and shall be based on one or more of the following characteristics:
+(a)
+the physical form of the dangerous substance under normal processing or handling conditions or in an unplanned loss of containment;
+(b)
+the inherent properties of the dangerous substance, in particular those related to dispersive behaviour in a major-accident scenario, such as molecular mass and saturated vapour pressure;
+(c)
+the maximum concentration of the substances in the case of mixtures.
+For the purposes of the first subparagraph, the containment and generic packing of the dangerous substance should, where appropriate, also be taken into account, including in particular where covered under specific Union legislation.
+2.   Where a Member State considers that a dangerous substance does not present a major-accident hazard in accordance with paragraph 1, it shall notify the Commission together with supporting justification, including the information referred to in paragraph 3.
+3.   For the purposes of paragraphs 1 and 2, information necessary for assessing the health, physical and environmental hazard properties of the dangerous substance concerned shall include:
+(a)
+a comprehensive list of properties necessary to assess the dangerous substance’s potential for causing physical, health or environmental harm;
+(b)
+physical and chemical properties (for instance molecular mass, saturated vapour pressure, inherent toxicity, boiling point, reactivity, viscosity, solubility and other relevant properties);
+(c)
+health and physical hazard properties (for instance reactivity, flammability, toxicity together with additional factors such as mode of attack on the body, injury to fatality ratio, and long-term effects, and other properties as relevant);
+(d)
+environmental hazard properties (for instance ecotoxicity, persistence, bio-accumulation, potential for long-range environmental transport, and other properties as relevant);
+(e)
+where available, the Union classification of the substance or mixture;
+(f)
+information about substance-specific operating conditions (for instance temperature, pressure and other conditions as relevant) under which the dangerous substance is stored, used and/or may be present in the event of foreseeable abnormal operations or an accident such as fire.
+4.   Following the assessment referred to in paragraph 1, the Commission shall, if appropriate, present a legislative proposal to the European Parliament and to the Council to exclude the dangerous substance concerned from the scope of this Directive.

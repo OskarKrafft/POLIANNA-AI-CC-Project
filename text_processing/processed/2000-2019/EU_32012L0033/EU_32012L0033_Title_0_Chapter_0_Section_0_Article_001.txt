@@ -1,0 +1,265 @@
+Article 1
+Amendments to Directive 1999/32/EC
+Directive 1999/32/EC is amended as follows:
+(1)
+in Article 1(2), point (h) is replaced by the following:
+‧(h)
+without prejudice to Article 3a, fuels used on board vessels employing emission abatement methods in accordance with Articles 4c and 4e.‧;
+(2)
+Article 2 is amended as follows:
+(a)
+points 1 and 2 are replaced by the following:
+‧(1)
+
+heavy fuel oil means:
+—
+any petroleum-derived liquid fuel, excluding marine fuel, falling within CN code 2710 19 51 to 2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39, or
+—
+any petroleum-derived liquid fuel, other than gas oil as defined in points 2 and 3, which, by reason of its distillation limits, falls within the category of heavy oils intended for use as fuel and of which less than 65 % by volume (including losses) distils at 250 °C by the ASTM D86 method. If the distillation cannot be determined by the ASTM D86 method, the petroleum product is likewise categorised as a heavy fuel oil;
+(2)
+
+gas oil means:
+—
+any petroleum-derived liquid fuel, excluding marine fuel, falling within CN code 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 or 2710 20 19, or
+—
+any petroleum-derived liquid fuel, excluding marine fuel, of which less than 65 % by volume (including losses) distils at 250 °C and of which at least 85 % by volume (including losses) distils at 350 °C by the ASTM D86 method.
+Diesel fuels as defined in point 2 of Article 2 of Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels (*1) are excluded from this definition. Fuels used in non-road mobile machinery and agricultural tractors are also excluded from this definition;
+
+(*1)  
+                                                OJ L 350, 28.12.1998, p. 58.‧;"
+                        
+(b)
+points 3a and 3b are replaced by the following:
+‧(3a)
+marine diesel oil means any marine fuel as defined for DMB grade in Table I of ISO 8217 with the exception of the reference to the sulphur content;
+(3b)
+marine gas oil means any marine fuel as defined for DMX, DMA and DMZ grades in Table I of ISO 8217 with the exception of the reference to the sulphur content;‧;
+(c)
+point 3m is replaced by the following:
+‧(3m)
+emission abatement method means any fitting, material, appliance or apparatus to be fitted in a ship or other procedure, alternative fuel, or compliance method, used as an alternative to low sulphur marine fuel meeting the requirements set out in this Directive, that is verifiable, quantifiable and enforceable;‧;
+(3)
+Article 3 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‧1.   Member States shall ensure that heavy fuel oils are not used within their territory if their sulphur content exceeds 1 % by mass.
+2.   Until 31 December 2015, subject to appropriate monitoring of emissions by competent authorities, paragraph 1 shall not apply to heavy fuel oils used:
+(a)
+in combustion plants which fall within the scope of Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants (*2), which are subject to Article 4(1) or (2) or Article 4(3)(a) of that Directive and which comply with the emission limits for sulphur dioxide for such plants as set out in that Directive;
+(b)
+in combustion plants which fall within the scope of Directive 2001/80/EC, which are subject to Article 4(3)(b) and Article 4(6) of that Directive and the monthly average sulphur dioxide emissions of which do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis;
+(c)
+in combustion plants which do not fall under points (a) or (b), and the monthly average sulphur dioxide emissions of which do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis;
+(d)
+for combustion in refineries, where the monthly average of emissions of sulphur dioxide averaged over all combustion plants in the refinery, irrespective of the type of fuel or fuel combination used, but excluding plants which fall under points (a) and (b), gas turbines and gas engines, do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis.
+3.   As from 1 January 2016, subject to appropriate monitoring of emissions by competent authorities, paragraph 1 shall not apply to heavy fuel oils used:
+(a)
+in combustion plants which fall within the scope of Chapter III of Directive 2010/75/EU of the European Parliament and of the Council (*3), and which comply with the emission limits for sulphur dioxide for such plants as set out in Annex V to that Directive or, where those emission limit values are not applicable according to that Directive, for which the monthly average sulphur dioxide emissions do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis;
+(b)
+in combustion plants which do not fall under point (a), and the monthly average sulphur dioxide emissions of which do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis;
+(c)
+for combustion in refineries, where the monthly average of emissions of sulphur dioxide averaged over all combustion plants in the refinery, irrespective of the type of fuel or fuel combination used, but excluding plants falling under point (a), gas turbines and gas engines, do not exceed 1 700 mg/Nm3 at an oxygen content in the flue gas of 3 % by volume on a dry basis.
+Member States shall take the necessary measures to ensure that no combustion plant using heavy fuel oil with a sulphur concentration greater than that referred to in paragraph 1 is operated without a permit issued by a competent authority, which specifies the emission limits.
+
+(*2)  
+                                                               OJ L 309, 27.11.2001, p. 1."
+                        
+
+(*3)  
+                                                               OJ L 334, 17.12.2010, p. 17.‧;"
+                        
+(b)
+paragraph 3 is deleted;
+(4)
+the following Article is inserted:
+‧Article 3a
+Maximum sulphur content in marine fuel
+Member States shall ensure that marine fuels are not used within their territory if their sulphur content exceeds 3,50 % by mass, except for fuels supplied to ships using emission abatement methods subject to Article 4c operating in closed mode.‧;
+(5)
+in Article 4, paragraph 1 is replaced by the following:
+‧1.   Member States shall ensure that gas oils are not used within their territory if their sulphur content exceeds 0,10 % by mass.‧;
+(6)
+Article 4a is amended as follows:
+(a)
+the title is replaced by the following:
+
+
+                                             ‧Maximum sulphur content of marine fuels used in territorial seas, exclusive economic zones and pollution control zones of Member States, including SOx Emission Control Areas and by passenger ships operating on regular services to or from Union ports‧;
+
+(b)
+paragraph 1 is replaced by the following:
+‧1.   Member States shall take all necessary measures to ensure that marine fuels are not used in the areas of their territorial seas, exclusive economic zones and pollution control zones falling within SOx Emission Control Areas if the sulphur content of those fuels by mass exceeds:
+(a)
+1,00 % until 31 December 2014;
+(b)
+0,10 % as from 1 January 2015.
+This paragraph shall apply to all vessels of all flags, including vessels whose journey began outside the Union. The Commission shall have due regard to any future changes to the requirements pursuant to Annex VI to MARPOL applicable within SOx Emission Control Areas, and, where appropriate, without undue delay make any relevant proposals with a view to amending this Directive accordingly.‧;
+(c)
+the following paragraph is inserted:
+‧1a.   Member States shall take all necessary measures to ensure that marine fuels are not used in the areas of their territorial seas, exclusive economic zones and pollution control zones if the sulphur content of those fuels by mass exceeds:
+(a)
+3,50 % as from 18 June 2014;
+(b)
+0,50 % as from 1 January 2020.
+This paragraph shall apply to all vessels of all flags, including vessels whose journey began outside of the Union, without prejudice to paragraphs 1 and 4 of this Article and Article 4b.‧;
+(d)
+paragraphs 4, 5, 6 and 7 are replaced by the following:
+‧4.   Member States shall take all necessary measures to ensure that marine fuels are not used in their territorial seas, exclusive economic zones and pollution control zones falling outside SOx Emission Control Areas by passenger ships operating on regular services to or from any Union port if the sulphur content of those fuels exceeds 1,50 % by mass until 1 January 2020.
+Member States shall be responsible for the enforcement of this requirement at least in respect of vessels flying their flag and vessels of all flags while in their ports.
+5.   Member States shall require the correct completion of ships' logbooks, including fuel-changeover operations.
+5a.   Member States shall endeavour to ensure the availability of marine fuels which comply with this Directive and inform the Commission of the availability of such marine fuels in its ports and terminals.
+5b.   If a ship is found by a Member State not to be in compliance with the standards for marine fuels which comply with this Directive, the competent authority of the Member State is entitled to require the ship to:
+(a)
+present a record of the actions taken to attempt to achieve compliance; and
+(b)
+provide evidence that it attempted to purchase marine fuel which complies with this Directive in accordance with its voyage plan and, if it was not made available where planned, that attempts were made to locate alternative sources for such marine fuel and that, despite best efforts to obtain marine fuel which complies with this Directive, no such marine fuel was made available for purchase.
+The ship shall not be required to deviate from its intended voyage or to delay unduly the voyage in order to achieve compliance.
+If a ship provides the information referred to in the first subparagraph, the Member State concerned shall take into account all relevant circumstances and the evidence presented to determine the appropriate action to take, including not taking control measures.
+A ship shall notify its flag State, and the competent authority of the relevant port of destination, when it cannot purchase marine fuel which complies with this Directive.
+A port State shall notify the Commission when a ship has presented evidence of the non-availability of marine fuels which comply with this Directive.
+6.   Member States shall, in accordance with regulation 18 of Annex VI to MARPOL:
+(a)
+maintain a publicly available register of local suppliers of marine fuel;
+(b)
+ensure that the sulphur content of all marine fuels sold in their territory is documented by the supplier on a bunker delivery note, accompanied by a sealed sample signed by the representative of the receiving ship;
+(c)
+take action against marine fuel suppliers that have been found to deliver fuel that does not comply with the specification stated on the bunker delivery note;
+(d)
+ensure that remedial action is taken to bring any non-compliant marine fuel discovered into compliance.
+7.   Member States shall ensure that marine diesel oils are not placed on the market in their territory if the sulphur content of those marine diesel oils exceeds 1,50 % by mass.‧;
+(e)
+paragraph 8 is deleted;
+(7)
+Articles 4b and 4c are replaced by the following:
+‧Article 4b
+Maximum sulphur content of marine fuels used by ships at berth in Union ports
+1.   Member States shall take all necessary measures to ensure that ships at berth in Union ports do not use marine fuels with a sulphur content exceeding 0,10 % by mass, allowing sufficient time for the crew to complete any necessary fuel-changeover operation as soon as possible after arrival at berth and as late as possible before departure.
+Member States shall require the time of any fuel-changeover operation to be recorded in ships' logbooks.
+2.   Paragraph 1 shall not apply:
+(a)
+whenever, according to published timetables, ships are due to be at berth for less than two hours;
+(b)
+to ships which switch off all engines and use shore-side electricity while at berth in ports.
+3.   Member States shall ensure that marine gas oils are not placed on the market in their territory if the sulphur content of those marine gas oils exceeds 0,10 % by mass.
+Article 4c
+Emission abatement methods
+1.   Member States shall allow the use of emission abatement methods by ships of all flags in their ports, territorial seas, exclusive economic zones and pollution control zones, as an alternative to using marine fuels that meet the requirements of Articles 4a and 4b, subject to paragraphs 2 and 3 of this Article.
+2.   Ships using the emission abatement methods referred to in paragraph 1 shall continuously achieve reductions of sulphur dioxide emissions that are at least equivalent to the reductions that would be achieved by using marine fuels that meet the requirements of Articles 4a and 4b. Equivalent emission values shall be determined in accordance with Annex I.
+2a.   Member States shall, as an alternative solution for reducing emissions, encourage the use of onshore power supply systems by docked vessels.
+3.   The emission abatement methods referred to in paragraph 1 shall comply with the criteria specified in the instruments referred to in Annex II.
+4.   Where justified in the light of scientific and technical progress regarding alternative emission abatement methods and in such a way as to ensure strict consistency with the relevant instruments and standards adopted by the IMO, the Commission shall:
+(a)
+be empowered to adopt delegated acts in accordance with Article 9a amending Annexes I and II;
+(b)
+adopt implementing acts laying down the detailed requirements for monitoring of emissions, where appropriate. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9(2).‧;
+(8)
+the following Articles are inserted:
+‧Article 4d
+Approval of emission abatement methods for use on board ships flying the flag of a Member State
+1.   Emission abatement methods falling within the scope of Council Directive 96/98/EC (*4) shall be approved in accordance with that Directive.
+2.   Emission abatement methods not covered by paragraph 1 of this Article shall be approved in accordance with the procedure referred to in Article 3(2) of Regulation (EC) No 2099/2002 of the European Parliament and of the Council of 5 November 2002 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) (*5), taking into account:
+(a)
+guidelines developed by the IMO;
+(b)
+the results of any trials conducted under Article 4e;
+(c)
+effects on the environment, including achievable emission reductions, and impacts on ecosystems in enclosed ports, harbours and estuaries; and
+(d)
+the feasibility of monitoring and verification.
+Article 4e
+Trials of new emission abatement methods
+Member States may, in cooperation with other Member States, as appropriate, approve trials of ship emission abatement methods on vessels flying their flag, or in sea areas within their jurisdiction. During those trials, the use of marine fuels meeting the requirements of Articles 4a and 4b shall not be mandatory, provided that all of the following conditions are fulfilled:
+(a)
+the Commission and any port State concerned are notified in writing at least six months before trials begin;
+(b)
+permits for trials do not exceed 18 months in duration;
+(c)
+all ships involved install tamper-proof equipment for the continuous monitoring of funnel gas emissions and use it throughout the trial period;
+(d)
+all ships involved achieve emission reductions which are at least equivalent to those which would be achieved through the sulphur limits for fuels specified in this Directive;
+(e)
+there are proper waste management systems in place for any waste generated by the emission abatement methods throughout the trial period;
+(f)
+there is an assessment of impacts on the marine environment, particularly ecosystems in enclosed ports, harbours and estuaries throughout the trial period; and
+(g)
+full results are provided to the Commission, and made publicly available, within six months of the end of the trials.
+Article 4f
+Financial measures
+Member States may adopt financial measures in favour of operators affected by this Directive where such financial measures are in accordance with State aid rules applicable and to be adopted in this area.
+
+(*4)  
+                                          OJ L 46, 17.2.1997, p. 25."
+                        
+
+(*5)  
+                                             OJ L 324, 29.11.2002, p. 1.‧;"
+                        
+(9)
+Article 6 is replaced by the following:
+‧Article 6
+Sampling and analysis
+1.   Member States shall take all necessary measures to check by sampling that the sulphur content of fuels used complies with Articles 3, 3a, 4, 4a and 4b. The sampling shall commence on the date on which the relevant limit for maximum sulphur content in the fuel comes into force. It shall be carried out periodically with sufficient frequency and quantities in such a way that the samples are representative of the fuel examined, and in the case of marine fuel, of the fuel being used by vessels while in relevant sea areas and ports. The samples shall be analysed without undue delay.
+1a.   The following means of sampling, analysis and inspection of marine fuel shall be used:
+(a)
+inspection of ships' log books and bunker delivery notes;
+and, as appropriate, the following means of sampling and analysis:
+(b)
+sampling of the marine fuel for on-board combustion while being delivered to ships, in accordance with the Guidelines for the sampling of fuel oil for determination of compliance with the revised MARPOL Annex VI adopted on 17 July 2009 by Resolution 182(59) of the Marine Environment Protection Committee (MEPC) of the IMO, and analysis of its sulphur content; or
+(c)
+sampling and analysis of the sulphur content of marine fuel for on-board combustion contained in tanks, where technically and economically feasible, and in sealed bunker samples on board ships.
+1b.   The Commission shall be empowered to adopt implementing acts concerning:
+(a)
+the frequency of sampling;
+(b)
+the sampling methods;
+(c)
+the definition of a sample representative of the fuel examined.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9(2).
+2.   The reference method adopted for determining the sulphur content shall be ISO method 8754 (2003) or PrEN ISO 14596 (2007).
+In order to determine whether marine fuel delivered to and used on board ships is compliant with the sulphur limits required by Articles 3a, 4, 4a and 4b the fuel verification procedure set out in Appendix VI to Annex VI to MARPOL shall be used.‧;
+(10)
+Article 7 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‧1.   Each year by 30 June, Member States shall, on the basis of the results of the sampling, analysis and inspections carried out in accordance with Article 6, submit a report to the Commission on the compliance with the sulphur standards set out in this Directive for the preceding year.
+On the basis of the reports received in accordance with the first subparagraph of this paragraph and the notifications regarding the non-availability of marine fuel which complies with this Directive submitted by Member States in accordance with the fifth subparagraph of Article 4a(5b), the Commission shall, within 12 months from the date referred to in the first subparagraph of this paragraph, draw up and publish a report on the implementation of this Directive. The Commission shall evaluate the need for further strengthening the relevant provisions of this Directive and make any appropriate legislative proposals to that effect.‧;
+(b)
+the following paragraph is inserted:
+‧1a.   The Commission may adopt implementing acts concerning the information to be included in the report and the format of the report. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9(2).‧;
+(c)
+paragraphs 2 and 3 are replaced by the following:
+‧2.   By 31 December 2013 the Commission shall submit a report to the European Parliament and to the Council which shall be accompanied, if appropriate, by legislative proposals. The Commission shall consider in its report the potential for reducing air pollution taking into account, inter alia: annual reports submitted in accordance with paragraphs 1 and 1a; observed air quality and acidification; fuel costs; potential economic impact and observed modal shift; and progress in reducing emissions from ships.
+3.   The Commission shall, in cooperation with Member States and stakeholders, by 31 December 2012, develop appropriate measures, including those identified in the Commission's staff working paper of 16 September 2011 entitled "Pollutant emission reduction from maritime transport and the sustainable waterborne transport toolbox" promoting compliance with the environmental standards of this Directive, and minimising the possible negative impacts.‧;
+(d)
+paragraph 4 is replaced by the following:
+‧4.   The Commission shall be empowered to adopt delegated acts in accordance with Article 9a concerning the adaptations of Article 2, points 1, 2, 3, 3a, 3b and 4, point (b) of Article 6(1a) and Article 6(2) to scientific and technical progress. Such adaptations shall not result in any direct changes to the scope of this Directive or to sulphur limits for fuels specified in this Directive.‧;
+(11)
+Article 8 is deleted;
+(12)
+Article 9 is replaced by the following:
+‧Article 9
+Committee procedure
+1.   The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (*6).
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*6)  
+                                          OJ L 55, 28.2.2011, p. 13.‧;"
+                        
+(13)
+the following Article is inserted:
+‧Article 9a
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The power to adopt delegated acts referred to in Article 4c(4) and Article 7(4) shall be conferred on the Commission for a period of five years from 17 December 2012. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in Article 4c(4) and Article 7(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the powers specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+5.   A delegated act adopted pursuant to Article 4c(4) and Article 7(4) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.‧;
+(14)
+Article 11 is replaced by the following:
+‧Article 11
+Penalties
+1.   Member States shall determine the penalties applicable to breaches of the national provisions adopted pursuant to this Directive.
+2.   The penalties determined must be effective, proportionate and dissuasive and may include fines calculated in such a way as to ensure that the fines at least deprive those responsible of the economic benefits derived from their infringement and that those fines gradually increase for repeated infringements.‧;
+(15)
+the Annex to Directive 1999/32/EC is replaced by the Annex to this Directive.

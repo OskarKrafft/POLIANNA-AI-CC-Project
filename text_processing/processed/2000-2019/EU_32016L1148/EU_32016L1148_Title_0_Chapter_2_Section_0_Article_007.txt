@@ -1,0 +1,19 @@
+Article 7
+National strategy on the security of network and information systems
+1.   Each Member State shall adopt a national strategy on the security of network and information systems defining the strategic objectives and appropriate policy and regulatory measures with a view to achieving and maintaining a high level of security of network and information systems and covering at least the sectors referred to in Annex II and the services referred to in Annex III. The national strategy on the security of network and information systems shall address, in particular, the following issues:
+(a)
+the objectives and priorities of the national strategy on the security of network and information systems;
+(b)
+a governance framework to achieve the objectives and priorities of the national strategy on the security of network and information systems, including roles and responsibilities of the government bodies and the other relevant actors;
+(c)
+the identification of measures relating to preparedness, response and recovery, including cooperation between the public and private sectors;
+(d)
+an indication of the education, awareness-raising and training programmes relating to the national strategy on the security of network and information systems;
+(e)
+an indication of the research and development plans relating to the national strategy on the security of network and information systems;
+(f)
+a risk assessment plan to identify risks;
+(g)
+a list of the various actors involved in the implementation of the national strategy on the security of network and information systems.
+2.   Member States may request the assistance of ENISA in developing national strategies on the security of network and information systems.
+3.   Member States shall communicate their national strategies on the security of network and information systems to the Commission within three months from their adoption. In so doing, Member States may exclude elements of the strategy which relate to national security.

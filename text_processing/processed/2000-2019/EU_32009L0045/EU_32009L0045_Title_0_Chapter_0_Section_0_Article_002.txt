@@ -1,0 +1,67 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+(a)
+‘International Conventions’ means the 1974 International Convention for the Safety of Life at Sea (the 1974 SOLAS Convention), as amended, and the 1966 International Convention on Load Lines, together with the Protocols and amendments thereto;
+(b)
+‘Intact Stability Code’ means the ‘Code on Intact Stability for all types of ships covered by IMO Instruments’ contained in IMO Assembly Resolution A.749(18) of 4 November 1993, as amended;
+(c)
+‘High-Speed Craft Code’ means the ‘International Code for Safety of High-Speed Craft’ contained in IMO Maritime Safety Committee Resolution MSC.36(63) of 20 May 1994, in its up-to-date version;
+(d)
+‘GMDSS’ means the Global Maritime Distress and Safety System as laid down in Chapter IV of the 1974 SOLAS Convention, as amended;
+(e)
+‘a passenger ship’ means a ship which carries more than 12 passengers;
+(f)
+‘ro-ro passenger ship’ means a ship carrying more than 12 passengers, having ro-ro cargo spaces or special category spaces, as defined in Regulation II-2/A/2 contained in Annex I;
+(g)
+‘high-speed passenger craft’ means a high-speed craft as defined in Regulation X/1 of the 1974 SOLAS Convention, as amended, which carries more than 12 passengers, with the exception of passenger ships engaged on domestic voyages in sea areas of Class B, C or D when:
+(i)
+their displacement corresponding to the design waterline is less than 500 m3; and
+(ii)
+their maximum speed, as defined in paragraph 1.4.30 of the High-Speed Craft Code, is less than 20 knots;
+(h)
+‘new ship’ means a ship the keel of which was laid or which was at a similar stage of construction on or after 1 July 1998; a ‘similar stage of construction’ means the stage at which:
+(i)
+construction identifiable with a specific ship begins; and
+(ii)
+assembly of that ship has commenced comprising at least 50 tonnes or 1 % of the estimated mass of all structural material, whichever is less;
+(i)
+‘existing ship’ means a ship which is not a new ship;
+(j)
+‘age’ means the age of the ship, expressed in terms of the number of years after the date of its delivery;
+(k)
+‘passenger’ means every person other than:
+(i)
+the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and
+(ii)
+a child under one year of age;
+(l)
+‘length of a ship’, unless expressly provided otherwise, means 96 % of the total length on a water line at 85 % of the least moulded depth measured from the top of the keel, or the length from the fore side of the stem to the axis of the rudder stock on that waterline, if that be greater. In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline;
+(m)
+‘bow height’ means the bow height defined in Regulation 39 of the 1966 International Convention on Load Lines as the vertical distance at the forward perpendicular between the waterline corresponding to the assigned summer freeboard and the designed trim and the top of the exposed deck at side;
+(n)
+‘ship with a full deck’ means a ship that is provided with a complete deck, exposed to weather and sea, which has permanent means of closing all openings in the weatherpart thereof and below which all openings in the sides of the ship are fitted with permanent means of at least weathertight closing;
+the complete deck may be a watertight deck or equivalent structure consisting of a non-watertight deck completely covered by a weathertight structure of adequate strength to maintain the weathertight integrity and fitted with weathertight closing appliances;
+(o)
+‘international voyage’ means a voyage by sea from a port of a Member State to a port outside that Member State, or conversely;
+(p)
+‘domestic voyage’ means a voyage in sea areas from a port of a Member State to the same or another port within that Member State;
+(q)
+‘sea area’ means an area as established pursuant to Article 4(2);
+however, for the application of the provisions on radiocommunication, the definitions of sea areas will be those defined in Regulation 2, Chapter IV of the 1974 SOLAS Convention, as amended;
+(r)
+‘port area’ means an area other than a sea area, as defined by the Member States, extending to the outermost permanent harbour works forming an integral part of the harbour system, or to the limits defined by natural geographical features protecting an estuary or similar sheltered area;
+(s)
+‘place of refuge’ means any naturally or artificially sheltered area which may be used as a shelter by a ship or craft under conditions likely to endanger its safety;
+(t)
+‘Administration of the flag State’ means the competent authorities of the State whose flag the ship or craft is entitled to fly;
+(u)
+‘host State’ means a Member State to or from whose port(s) a ship or craft, flying a flag other than the flag of that Member State, is carrying out domestic voyages;
+(v)
+‘recognised organisation’ means an organisation recognised in conformity with Article 4 of Council Directive 94/57/EC of 22 November 1994 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations (13);
+(w)
+‘a mile’ is 1 852 metres;
+(x)
+‘significant wave height’ means the average height of the highest third of wave heights observed over a given period;
+(y)
+‘persons with reduced mobility’ means anyone who has a particular difficulty when using public transport, including elderly persons, disabled persons, persons with sensory impairments and wheelchair users, pregnant women and persons accompanying small children.

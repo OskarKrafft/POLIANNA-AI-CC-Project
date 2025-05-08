@@ -1,0 +1,9 @@
+Article 21
+Balancing rules and imbalance charges
+1.   Balancing rules shall be designed in a fair, non-discriminatory and transparent manner and shall be based on objective criteria. Balancing rules shall reflect genuine system needs taking into account the resources available to the transmission system operator. Balancing rules shall be market-based.
+2.   In order to enable network users to take timely corrective action, the transmission system operator shall provide sufficient, well-timed and reliable on-line based information on the balancing status of network users.
+The information provided shall reflect the level of information available to the transmission system operator and the settlement period for which imbalance charges are calculated.
+No charge shall be made for the provision of information under this paragraph.
+3.   Imbalance charges shall be cost-reflective to the extent possible, whilst providing appropriate incentives on network users to balance their input and off-take of gas. They shall avoid cross-subsidisation between network users and shall not hamper the entry of new market entrants.
+Any calculation methodology for imbalance charges as well as the final tariffs shall be made public by the competent authorities or the transmission system operator, as appropriate.
+4.   Member States shall ensure that transmission system operators endeavour to harmonise balancing regimes and streamline structures and levels of balancing charges in order to facilitate gas trade.

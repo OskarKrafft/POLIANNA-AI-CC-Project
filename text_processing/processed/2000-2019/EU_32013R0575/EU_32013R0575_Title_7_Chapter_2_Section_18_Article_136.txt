@@ -1,0 +1,27 @@
+Article 136
+Mapping of ECAI's credit assessments
+1.   EBA, EIOPA and ESMA shall, through the Joint Committee, develop draft implementing technical standards to specify for all ECAIs, with which of the credit quality steps set out in Section 2 the relevant credit assessments of the ECAI correspond (‧mapping‧). Those determinations shall be objective and consistent.
+EBA, EIOPA and ESMA shall submit those draft implementing technical standards to the Commission by 1 July 2014 and shall submit revised draft implementing technical standards where necessary.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.
+2.   When determining the mapping of credit assessments, EBA, EIOPA and ESMA shall comply with the following requirements:
+(a)
+in order to differentiate between the relative degrees of risk expressed by each credit assessment, EBA, EIOPA and ESMA shall consider quantitative factors such as the long-term default rate associated with all items assigned the same credit assessment. For recently established ECAIs and for those that have compiled only a short record of default data, EBA, EIOPA and ESMA shall ask the ECAI what it believes to be the long-term default rate associated with all items assigned the same credit assessment;
+(b)
+in order to differentiate between the relative degrees of risk expressed by each credit assessment, EBA, EIOPA and ESMA shall consider qualitative factors such as the pool of issuers that the ECAI covers, the range of credit assessments that the ECAI assigns, each credit assessment meaning and the ECAI's definition of default;
+(c)
+EBA, EIOPA and ESMA shall compare default rates experienced for each credit assessment of a particular ECAI and compare them with a benchmark built on the basis of default rates experienced by other ECAIs on a population of issuers that present an equivalent level of credit risk;
+(d)
+where the default rates experienced for the credit assessment of a particular ECAI are materially and systematically higher then the benchmark, EBA, EIOPA and ESMA shall assign a higher credit quality step in the credit quality assessment scale to the ECAI credit assessment;
+(e)
+where EBA, EIOPA and ESMA have increased the associated risk weight for a specific credit assessment of a particular ECAI, and where default rates experienced for that ECAI's credit assessment are no longer materially and systematically higher than the benchmark, EBA, EIOPA and ESMA may restore the original credit quality step in the credit quality assessment scale for the ECAI credit assessment.
+3.   EBA, EIOPA and ESMA shall develop draft implementing technical standards to specify the quantitative factors referred to in point (a), the qualitative factors referred to in point (b) and the benchmark referred to in point (c) of paragraph 2.
+EBA, EIOPA and ESMA shall submit those draft implementing technical standards to the Commission by 1 July 2014.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.
+
+Sub-Section 3
+
+
+
+Use of credit assessments by Export Credit Agencies
+
+

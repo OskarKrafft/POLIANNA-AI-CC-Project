@@ -1,0 +1,47 @@
+Article 4
+Obligations of the manufacturers concerning construction of vehicles, systems, components and separate technical units
+1.   Manufacturers shall ensure that the new vehicles that they manufacture, which are sold, registered or enter into service in the Union, are type-approved in accordance with this Regulation. From the specific dates of application set out in this Regulation, manufacturers shall ensure that the new systems, components or separate technical units, including engines, traction batteries, brake systems, tyres and replacement pollution control systems requiring type-approval which they manufacture and which are sold or enter into service in the Union are type-approved in accordance with this Regulation.
+2.   Manufacturers shall design, construct and assemble vehicles to comply with this Regulation, including complying with the emission limits set out in Annex I under the conditions set out in Annex III and respecting the values declared in the certificate of conformity and in the type-approval documentation for the lifetime of the vehicle, as set out in Table 1 of Annex IV. Those vehicles shall be designated as ‘Euro 7’ vehicles.
+3.   Where applicable, when manufacturers, national authorities, Commission or recognised third parties are verifying compliance with the exhaust emission limits, where the testing is performed in extended driving conditions, the emissions shall be divided by the extended driving divider set out in UN Regulation No 168 (25).
+4.   Manufacturers shall design and construct systems, components or separate technical units, including engines, electric motors, traction batteries, brake systems, tyres and replacement pollution control systems to comply with this Regulation, including with the emission limits set out in Annex I under the testing conditions set out in Annex III.
+5.   Manufacturers shall not design, construct and assemble vehicles with manipulation devices or manipulation strategies.
+6.   Manufacturers shall design, construct and assemble vehicles of categories M1, M2, M3, N1, N2 and N3 with:
+(a)
+OBD systems that can detect malfunctioning systems which lead to exhaust emission exceedances or the malfunctioning of components related to emission performance in order to facilitate repairs;
+(b)
+OBM systems capable of monitoring exhaust emissions;
+(c)
+OBFCM devices to monitor their real-world fuel and electric energy consumption and other relevant parameters, which are needed to determine their real-world fuel and energy efficiency;
+(d)
+SOH monitors of the traction battery;
+(e)
+excess exhaust emissions driver warning systems;
+(f)
+low-reagent driver warning systems;
+(g)
+devices communicating off-board vehicle generated data used for compliance with this Regulation and OBFCM data, including for the purpose of periodic roadworthiness tests in accordance with Directive 2014/45/EU of the European Parliament and of the Council (26) and technical roadside inspections in accordance with Directive 2014/47/EU of the European Parliament and of the Council (27), and for the purpose of communicating with recharging infrastructure and stationary power systems capable of supporting smart and bidirectional charging functionalities.
+7.   Manufacturers shall design, construct and assemble vehicles of categories M1, M2, M3, N1, N2 and N3 in such a way as to minimise vulnerabilities, arising in all phases of their life-cycle, that may lead to tampering with the following:
+(a)
+fuel and reagent injection system,
+(b)
+engine and engine control units,
+(c)
+traction batteries and related management systems,
+(d)
+odometer,
+(e)
+pollution control systems,
+(f)
+electric motor and related control units,
+(g)
+OBFCM device,
+(h)
+OBD system,
+(i)
+OBM system, and
+(j)
+EVP.
+8.   Manufacturers shall prevent the possibility of the exploitation of the vulnerabilities referred to in paragraph 7 to the fullest extent possible based on the best available knowledge at the time of type-approval. When such a vulnerability is found, manufacturers shall take all the possible measures, taking into account the state of technology, to remove the vulnerability, by software update or any other appropriate means.
+9.   Manufacturers shall not deny access on anti-tampering grounds to information, tools or processes required to develop, install and activate compatible aftermarket replacement parts meeting the technical requirements of the manufacturer unless they can demonstrate that withholding information, tools and processes in question is a proportionate means in addressing the antitampering concerns at issue.
+10.   Environmental data about the vehicle type and the environmental performance of individual vehicles shall be made available to users and, where appropriate, displayed inside the vehicle. Those data shall cover data from the EVP, the OBM system and the OBFCM device, including lifetime values, and the state of health of the traction battery.
+11.   Manufacturers shall ensure the secure transmission of data related to emissions and battery durability by taking cybersecurity measures in accordance with UN Regulation No 155 (28).

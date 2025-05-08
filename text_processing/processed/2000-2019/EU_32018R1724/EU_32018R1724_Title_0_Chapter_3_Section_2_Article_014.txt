@@ -1,0 +1,31 @@
+Article 14
+Technical system for the cross-border automated exchange of evidence and application of the ‘once-only’ principle
+1.   For the purpose of the exchange of evidence for the online procedures listed in Annex II to this Regulation and the procedures provided for in Directives 2005/36/EC, 2006/123/EC, 2014/24/EU and 2014/25/EU, a technical system for the automated exchange of evidence between competent authorities in different Member States (‘the technical system’) shall be established by the Commission in cooperation with the Member States.
+2.   Where competent authorities lawfully issue, in their own Member State and in an electronic format that allows automated exchange, evidence that is relevant for the online procedures referred to in paragraph 1, they shall also make such evidence available to requesting competent authorities from other Member States in an electronic format that allows automated exchange.
+3.   The technical system shall, in particular:
+(a)
+enable the processing of requests for evidence at the explicit request of the user;
+(b)
+enable the processing of requests for evidence to be accessed or exchanged;
+(c)
+allow the transmission of evidence between competent authorities;
+(d)
+allow the processing of the evidence by the requesting competent authority;
+(e)
+ensure the confidentiality and integrity of the evidence;
+(f)
+enable the possibility for the user to preview the evidence to be used by the requesting competent authority and to choose whether or not to proceed with the exchange of evidence;
+(g)
+ensure an adequate level of interoperability with other relevant systems;
+(h)
+ensure a high level of security for the transmission and processing of evidence;
+(i)
+not process evidence beyond what is technically necessary for the exchange of evidence, and then only for the duration necessary for that purpose.
+4.   The use of the technical system shall not be obligatory for users and shall only be permitted at their explicit request, unless otherwise provided under Union or national law. The users shall be permitted to submit evidence by means other than the technical system and directly to the requesting competent authority.
+5.   The possibility of previewing the evidence, referred to in point (f) of paragraph 3 of this Article shall not be required for procedures where the automated cross-border data exchange without such preview is allowed under applicable Union or national law. That possibility of previewing the evidence shall be without prejudice to the obligation to provide the information under Articles 13 and 14 of Regulation (EU) 2016/679.
+6.   Member States shall integrate the fully operational technical system as part of the procedures referred to in paragraph 1.
+7.   The competent authorities responsible for the online procedures referred to in paragraph 1 shall, upon an explicit, freely given, specific, informed and unambiguous request of the user concerned, request evidence directly from competent authorities issuing evidence in other Member States through the technical system. The issuing competent authorities referred to in paragraph 2 shall, in accordance with point (e) of paragraph 3, make such evidence available through the same system.
+8.   The evidence made available to the requesting competent authority shall be limited to what has been requested and shall only be used by that authority for the purpose of the procedure for which the evidence was exchanged. The evidence exchanged through the technical system shall, for the purposes of the requesting competent authority, be deemed to be authentic.
+9.   By 12 June 2021, the Commission shall adopt implementing acts to set out the technical and operational specifications of the technical system necessary for the implementation of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 37(2).
+10.   Paragraphs 1 to 8 shall not apply to procedures established at Union level which provide for different mechanisms for the exchange of evidence, unless the technical system necessary for the implementation of this Article is integrated into those procedures in accordance with the rules of the Union acts that establish those procedures.
+11.   The Commission and each of the Member States shall be responsible for the development, availability, maintenance, supervision, monitoring and security management of their respective parts of the technical system.

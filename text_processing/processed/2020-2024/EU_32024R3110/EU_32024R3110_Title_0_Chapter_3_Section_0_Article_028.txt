@@ -1,0 +1,18 @@
+Article 28
+Obligations of online marketplaces
+1.   An online marketplace shall:
+(a)
+for the purpose of complying with Article 31(1) of Regulation (EU) 2022/2065 of the European Parliament and of the Council (28), design and organise its online interface in such a way that allows economic operators to fulfil their obligations under Article 29(2) of this Regulation;
+(b)
+establish a single contact point for direct communication with Member States’ competent national authorities in relation to compliance with this Regulation, which can be the same as the contact point referred to in Article 22(1) of Regulation (EU) 2023/988 or Article 11(1) of Regulation (EU) 2022/2065;
+(c)
+give an appropriate answer to notices related to the notification of accidents and other incidents involving products received in accordance with Article 16 of Regulation (EU) 2022/2065;
+(d)
+cooperate to ensure effective market surveillance measures, including by abstaining from putting in place obstacles to such measures;
+(e)
+inform the competent national authorities of any action taken with regard to the non-compliance or suspected non-compliance of products covered by this Regulation;
+(f)
+establish a regular and structured exchange of information regarding content that has been removed by online marketplaces at the request of competent national authorities;
+2.   As far as powers conferred by Member States in accordance to Article 14 of Regulation (EU) 2019/1020 are concerned, Member States shall confer on their market surveillance authorities the power, in respect of all products covered by this Regulation, to order an online marketplace to remove from its online interface specific illegal content referring to a non-compliant product, to disable access to it, or to display an explicit warning to end users when they access it. Such orders shall comply with Article 9 of Regulation (EU) 2022/2065.
+3.   An online marketplace shall take the necessary measures to receive and process in accordance with Article 9 of Regulation (EU) 2022/2065 the orders referred to in paragraph 2 of this Article.
+4.   This Article shall also apply to manufacturers, importers, or distributors offering products online without the involvement of an online marketplace.

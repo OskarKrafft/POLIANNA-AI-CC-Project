@@ -1,0 +1,64 @@
+Article 298
+Effects of recognition of netting as risk-reducing
+1.   The following treatment applies to contractual netting agreements:
+(a)
+netting for the purposes of Sections 5 and 6 shall be recognised as set out in those Sections;
+(b)
+in the case of contracts for novation, the single net amounts fixed by such contracts rather than the gross amounts involved, may be weighted.
+In the application of Section 3, institutions may take the contract for novation into account when determining:
+(i)
+the current replacement cost referred to in Article 274(1);
+(ii)
+the notional principal amounts or underlying values referred to in Article 274(2).
+In the application of Section 4, in determining the notional amount referred to in Article 275(1) institutions may take into account the contract for novation for the purposes of calculating the notional principal amount In such cases, institutions shall apply the percentages of Table 3.
+(c)
+In the case of other netting agreements, institutions shall apply Section 3 as follows:
+(i)
+the current replacement cost referred to in Article 274(1) for the contracts included in a netting agreement shall be obtained by taking account of the actual hypothetical net replacement cost which results from the agreement; in the case where netting leads to a net obligation for the institution calculating the net replacement cost, the current replacement cost is calculated as ‧0‧;
+(ii)
+the figure for potential future credit exposure referred to in Article 274(2) for all contracts included in a netting agreement shall be reduced in accordance with the following formula:
+
+
+
+
+
+where:
+PCEred
+
+=
+the reduced figure for potential future credit exposure for all contracts with a given counterparty included in a legally valid bilateral netting agreement;
+PCEgross
+
+=
+the sum of the figures for potential future credit exposure for all contracts with a given counterparty which are included in a legally valid bilateral netting agreement and are calculated by multiplying their notional principal amounts by the percentages set out in Table 1;
+NGR
+=
+the net-to-gross ratio calculated as the quotient of the net replacement cost for all contracts included in a legally valid bilateral netting agreement with a given counterparty (numerator) and the gross replacement cost for all contracts included in a legally valid bilateral netting agreement with that counterparty (denominator).
+2.   When carrying out the calculation of the potential future credit exposure in accordance with the formula set out in paragraph 1, institutions may treat perfectly matching contracts included in the netting agreement as if they were a single contract with a notional principal equivalent to the net receipts.
+In the application of Article 275(1) institutions may treat perfectly matching contracts included in the netting agreement as if they were a single contract with a notional principal equivalent to the net receipts, and the notional principal amounts shall be multiplied by the percentages given in Table 3.
+For the purposes of this paragraph, perfectly matching contracts are forward foreign-exchange contracts or similar contracts in which a notional principal is equivalent to cash flows if the cash flows fall due on the same value date and fully in the same currency.
+3.   For all other contracts included in a netting agreement, the percentages applicable may be reduced as indicated in Table 6:
+
+Table 6
+
+Original maturity
+Interest-rate contracts
+Foreign-exchange contracts
+One year or less
+0,35  %
+1,50  %
+More than one year but not more than two years
+0,75  %
+3,75  %
+Additional allowance for each additional year
+0,75  %
+2,25  %
+4.   In the case of interest-rate contracts, institutions may, subject to the consent of their competent authorities, choose either original or residual maturity.
+
+Section 8
+
+
+
+Items in the trading book
+
+

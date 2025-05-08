@@ -1,0 +1,14 @@
+Article 3
+Collection of data
+1. Member States shall, whilst complying with conditions as to quality and accuracy to be defined in accordance with the procedure referred to in Article 7(2), acquire the data necessary for the specification of the characteristics listed in Annexes I and II by means either of:
+- surveys,
+- administrative or other sources, such as the reporting obligations under Community legislation on waste management,
+- statistical estimation procedures on the basis of samples or waste-related estimators, or
+- a combination of these means.
+In order to reduce response burdens, the national authorities and the Commission shall, subject to the limits and the conditions fixed by each Member State and by the Commission in their respective fields of competence, have access to administrative data sources.
+2. In order to reduce the administrative burden on small enterprises, enterprises of less than 10 employees shall be excluded from surveys, unless they contribute significantly to the generation of waste.
+3. Member States shall produce statistical results, following the breakdown set out in Annexes I and II.
+4. The exclusion referred to in paragraph 2 must be consistent with the coverage and quality objectives as referred to in Section 7(1) of Annexes I and II.
+5. Member States shall transmit the results, including confidential data, to Eurostat in an appropriate format and within a set period of time from the end of the respective reference periods, as laid down in Annexes I and II.
+6. The treatment of confidential data and the transmission of such data as provided for in paragraph 5 shall be carried out in accordance with the existing Community provisions governing statistical confidentiality.
+

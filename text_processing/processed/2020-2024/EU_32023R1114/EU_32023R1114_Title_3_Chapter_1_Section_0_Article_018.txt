@@ -1,0 +1,59 @@
+Article 18
+Application for authorisation
+1.   Legal persons or other undertakings that intend to offer to the public or seek the admission to trading of asset-referenced tokens shall submit their application for an authorisation referred to in Article 16 to the competent authority of their home Member State.
+2.   The application referred to in paragraph 1 shall contain all of the following information:
+(a)
+the address of the applicant issuer;
+(b)
+the legal entity identifier of the applicant issuer;
+(c)
+the articles of association of the applicant issuer, where applicable;
+(d)
+a programme of operations, setting out the business model that the applicant issuer intends to follow;
+(e)
+a legal opinion that the asset-referenced token does not qualify as either of the following:
+(i)
+a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4); or
+(ii)
+an e-money token;
+(f)
+a detailed description of the applicant issuer’s governance arrangements as referred to in Article 34(1);
+(g)
+where cooperation arrangements with specific crypto-asset service providers exist, a description of their internal control mechanisms and procedures to ensure compliance with the obligations in relation to the prevention of money laundering and terrorist financing under Directive (EU) 2015/849;
+(h)
+the identity of the members of the management body of the applicant issuer;
+(i)
+proof that the persons referred to in point (h) are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage the applicant issuer;
+(j)
+proof that any shareholder or member, whether direct or indirect, that has a qualifying holding in the applicant issuer is of sufficiently good repute;
+(k)
+a crypto-asset white paper as referred to in Article 19;
+(l)
+the policies and procedures referred to in Article 34(5), first subparagraph;
+(m)
+a description of the contractual arrangements with the third-party entities as referred to in Article 34(5), second subparagraph;
+(n)
+a description of the applicant issuer’s business continuity policy referred to in Article 34(9);
+(o)
+a description of the internal control mechanisms and risk management procedures referred to in Article 34(10);
+(p)
+a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data as referred to in Article 34(11);
+(q)
+a description of the applicant issuer’s complaints-handling procedures as referred to in Article 31;
+(r)
+where applicable, a list of host Member States where the applicant issuer intends to offer the asset-referenced token to the public or intends to seek admission to trading of the asset-referenced token.
+3.   Issuers that have already been authorised in respect of one asset-referenced token shall not be required to submit, for the purposes of authorisation in respect of another asset-referenced token, any information that was previously submitted by them to the competent authority where such information would be identical. When submitting the information listed in paragraph 2, the issuer shall expressly confirm that any information not resubmitted is still up-to-date.
+4.   The competent authority shall promptly, and in any event within two working days of receipt of an application pursuant to paragraph 1, acknowledge receipt thereof in writing to the applicant issuer.
+5.   For the purposes of paragraph 2, points (i) and (j), the applicant issuer of the asset-referenced token shall provide proof of all of the following:
+(a)
+for all members of the management body, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability;
+(b)
+that the members of the management body of the applicant issuer of the asset-referenced token collectively possess the appropriate knowledge, skills and experience to manage the issuer of the asset-referenced token and that those persons are required to commit sufficient time to perform their duties;
+(c)
+for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant issuer, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
+6.   EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards to further specify the information referred to in paragraph 2.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+7.   EBA, in close cooperation with ESMA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the information to be included in the application in order to ensure uniformity across the Union.
+EBA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

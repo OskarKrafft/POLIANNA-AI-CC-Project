@@ -1,0 +1,15 @@
+Article 117
+Supervisory responsibilities of EBA with respect to issuers of significant asset-referenced tokens and issuers of significant e-money tokens
+1.   Where an asset-referenced token has been classified as significant in accordance with Article 43 or 44, the issuer of such asset-referenced token shall carry out its activities under the supervision of EBA.
+Without prejudice to the powers of national competent authorities under paragraph 2 of this Article, EBA shall exercise the powers of competent authorities conferred by Articles 22 to 25, 29, 33 Article 34(7) and (12), Article 35(3) and (5), Article 36(10) and Articles 41, 42, 46 and 47 as regards issuers of significant asset-referenced tokens.
+2.   Where an issuer of a significant asset-referenced token also provides crypto-asset services or issues crypto-assets that are not significant asset-referenced tokens, those services and activities shall remain under the supervision of the competent authority of the home Member State.
+3.   Where an asset-referenced token has been classified as significant in accordance with Article 43, EBA shall conduct a supervisory reassessment to ensure that the issuer complies with Title III.
+4.   Where an e-money token issued by an electronic money institution has been classified as significant in accordance with Article 56 or 57, EBA shall supervise the compliance of the issuer of such significant e-money token with Articles 55 and 58.
+For the purposes of the supervision of compliance with Articles 55 and 58, EBA shall exercise the powers of the competent authorities conferred on them by Articles 22 and 23, Article 24(3), Article 35(3) and (5), Article 36(10) and Articles 46 and 47, as regards electronic money institutions issuing significant e-money tokens.
+5.   EBA shall exercise its supervisory powers as provided in paragraphs 1 to 4 in close cooperation with the other competent authorities responsible for supervising the issuer, in particular:
+(a)
+the prudential supervisory authority, including, where applicable, the ECB under Regulation (EU) No 1024/2013;
+(b)
+relevant competent authorities under national law transposing Directive 2009/110/EC, where applicable;
+(c)
+the competent authorities referred to in Article 20(1).

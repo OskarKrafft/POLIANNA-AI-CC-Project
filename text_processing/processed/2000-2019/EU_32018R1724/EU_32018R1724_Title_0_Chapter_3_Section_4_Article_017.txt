@@ -1,0 +1,13 @@
+Article 17
+Quality monitoring
+1.   The national coordinators referred to in Article 28 and the Commission shall, within their respective competences, regularly monitor the compliance of the information, procedures and assistance and problem-solving services available through the gateway with the quality requirements laid down in Articles 8 to 13 and 16. The monitoring shall be carried out on the basis of the data gathered in accordance with Articles 24 and 25.
+2.   In the event of a deterioration in the quality of the information, of the procedures and of the assistance or problem-solving services referred to in paragraph 1 provided by the competent authorities, the Commission shall, taking into account the seriousness and persistence of the deterioration, take one or more of the following measures:
+(a)
+inform the relevant national coordinator and ask for remedial action;
+(b)
+submit for discussion in the gateway coordination group recommended actions to improve compliance with the quality requirements;
+(c)
+send a letter with recommendations to the Member State concerned;
+(d)
+temporarily disconnect the information, the procedure, or the assistance or problem-solving service from the gateway.
+3.   Where an assistance or problem-solving service to which links are provided in accordance with Article 7(3) consistently does not comply with requirements laid down in Articles 11 and 16, or no longer meets the needs of the users as indicated by the data gathered in accordance with Articles 24 and 25, the Commission may, after consultation with the relevant national coordinator and, where necessary, with the gateway coordination group, disconnect it from the gateway.

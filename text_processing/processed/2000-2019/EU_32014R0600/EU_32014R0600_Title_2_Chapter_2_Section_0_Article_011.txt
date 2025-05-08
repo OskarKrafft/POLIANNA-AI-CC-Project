@@ -1,0 +1,36 @@
+Article 11
+Authorisation of deferred publication
+1.   Competent authorities shall be able to authorise market operators and investment firms operating a trading venue to provide for deferred publication of the details of transactions based on the size or type of the transaction.
+In particular, the competent authorities may authorise the deferred publication in respect of transactions that:
+(a)
+are large in scale compared with the normal market size for that bond, structured finance product, emission allowance or derivative traded on a trading venue, or for that class of bond, structured finance product, emission allowance or derivative traded on a trading venue; or
+(b)
+are related to a bond, structured finance product, emission allowance or derivative traded on a trading venue, or a class of bond, structured finance product, emission allowance or derivative traded on a trading venue for which there is not a liquid market;
+(c)
+are above a size specific to that bond, structured finance product, emission allowance or derivative traded on a trading venue, or that class of bond, structured finance product, emission allowance or derivative traded on a trading venue, which would expose liquidity providers to undue risk and takes into account whether the relevant market participants are retail or wholesale investors.
+Market operators and investment firms operating a trading venue shall obtain the competent authority’s prior approval of proposed arrangements for deferred trade-publication, and shall clearly disclose those arrangements to market participants and the public. ESMA shall monitor the application of those arrangements for deferred trade-publication and shall submit an annual report to the Commission on how they are used in practice.
+2.   The competent authority responsible for supervising one or more trading venues on which a class of bond, structured finance product, emission allowance or derivative is traded may, where the liquidity of that class of financial instrument falls below the threshold determined in accordance with the methodology as referred to in Article 9(5)(a), temporarily suspend the obligations referred to in Article 10. That threshold shall be defined based on objective criteria specific to the market for the financial instrument concerned. Such temporary suspension shall be published on the website of the relevant competent authority.
+The temporary suspension shall be valid for an initial period not exceeding three months from the date of its publication on the website of the relevant competent authority. Such a suspension may be renewed for further periods not exceeding three months at a time if the grounds for the temporary suspension continue to be applicable. Where the temporary suspension is not renewed after that three-month period, it shall automatically lapse.
+Before suspending or renewing the temporary suspension of the obligations referred to in Article 10, the relevant competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary suspension is justified in accordance with the first and second subparagraphs.
+3.   Competent authorities may, in conjunction with an authorisation of deferred publication:
+(a)
+request the publication of limited details of a transaction or details of several transactions in an aggregated form, or a combination thereof, during the time period of deferral;
+(b)
+allow the omission of the publication of the volume of an individual transaction during an extended time period of deferral;
+(c)
+regarding non-equity instruments that are not sovereign debt, allow the publication of several transactions in an aggregated form during an extended time period of deferral;
+(d)
+regarding sovereign debt instruments, allow the publication of several transactions in an aggregated form for an indefinite period of time.
+In relation to sovereign debt instruments, points (b) and (d) may be used either separately or consecutively whereby once the volume omission extended period lapses, the volumes could then be published in aggregated form.
+In relation to all other financial instruments, when the deferral time period lapses, the outstanding details of the transaction and all the details of the transactions on an individual basis shall be published.
+4.   ESMA shall develop draft regulatory technical standards to specify the following in such a way as to enable the publication of information required under Article 64 of Directive 2014/65/EU:
+(a)
+the details of transactions that investment firms, including systematic internalisers, and market operators and investment firms operating a trading venue shall make available to the public for each class of financial instrument concerned in accordance with Article 10(1), including identifiers for the different types of transactions published under Article 10(1) and Article 21(1), distinguishing between those determined by factors linked primarily to the valuation of the financial instruments and those determined by other factors;
+(b)
+the time limit that would be deemed in compliance with the obligation to publish as close to real time as possible including when trades are executed outside ordinary trading hours;
+(c)
+the conditions for authorising investment firms, including systematic internalisers, and market operators and investment firms operating a trading venue, to provide for deferred publication of the details of transactions for each class of financial instrument concerned in accordance with paragraph 1 of this Article and with Article 21(4);
+(d)
+the criteria to be applied when determining the size or type of a transaction for which deferred publication and publication of limited details of a transaction, or publication of details of several transactions in an aggregated form, or omission of the publication of the volume of a transaction with particular reference to allowing an extended length of time of deferral for certain financial instruments depending on their liquidity, is allowed under paragraph 3.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

@@ -1,0 +1,9 @@
+Article 310
+Alternative calculation of own funds requirement for exposures to a QCCP
+
+An institution shall apply the following formula to calculate the own funds requirement (Ki) for the exposures arising from its trade exposures and the trade exposures of its clients (TEi) and pre-funded contributions (DFi) to the default fund of a QCCP:
+
+
+
+
+

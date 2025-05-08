@@ -1,0 +1,8 @@
+Article 8
+Notification of radio interface specifications and assignment of radio equipment classes
+1.   Member States shall notify, in accordance with the procedure set out in Directive 98/34/EC, the radio interfaces which they intend to regulate except:
+(a)
+the radio interfaces which fully and without any deviation comply with the Commission decisions on the harmonised use of radio spectrum adopted pursuant to Decision No 676/2002/EC; and
+(b)
+the radio interfaces which, in accordance with implementing acts adopted pursuant to paragraph 2 of this Article, correspond to radio equipment which can be put into service and used without restrictions within the Union.
+2.   The Commission shall adopt implementing acts establishing the equivalence between notified radio interfaces and assigning a radio equipment class, details of which shall be published in the Official Journal of the European Union. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 45(3).

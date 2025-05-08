@@ -1,0 +1,6 @@
+Article 13
+Data harmonisation and rationalisation
+1.   The Commission shall identify the common data set required for the customs declaration or re-export declaration and for the supporting documents required for the Union non-customs formalities listed in the Annex (‘common data set’).
+2.   The Commission shall also identify the additional data elements subject solely to Union legislation other than customs legislation. Those additional data elements shall be identified by the corresponding acronym of the Union non-customs formality listed in the Annex, followed by the suffix ‘partner competent authority data set’.
+3.   The common data set, the additional data elements referred to in paragraph 2 and the data set required to place the goods under a specific customs procedure or to re-export them shall constitute an integrated data set, containing all data needed by customs authorities and partner competent authorities.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 21 supplementing this Regulation by identifying, on the one hand, the data elements of the common data set referred to in paragraph 1 of this Article and, on the other hand, the additional data elements referred to in paragraph 2 of this Article for each of the relevant Union acts applicable to Union non-customs formalities listed in the Annex.

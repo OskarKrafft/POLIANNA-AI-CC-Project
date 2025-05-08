@@ -1,0 +1,33 @@
+Article 2
+Definitions
+For the purpose of this Directive, the following definitions apply:
+(1)
+‘alternative fuels’ means fuels or power sources which serve, at least partly, as a substitute for fossil oil sources in the energy supply to transport and which have the potential to contribute to its decarbonisation and enhance the environmental performance of the transport sector. They include, inter alia:
+—
+electricity,
+—
+hydrogen,
+—
+biofuels as defined in point (i) of Article 2 of Directive 2009/28/EC,
+—
+synthetic and paraffinic fuels,
+—
+natural gas, including biomethane, in gaseous form (compressed natural gas (CNG)) and liquefied form (liquefied natural gas (LNG)), and
+—
+liquefied petroleum gas (LPG);
+(2)
+‘electric vehicle’ means a motor vehicle equipped with a powertrain containing at least one non-peripheral electric machine as energy converter with an electric rechargeable energy storage system, which can be recharged externally;
+(3)
+‘recharging point’ means an interface that is capable of charging one electric vehicle at a time or exchanging a battery of one electric vehicle at a time;
+(4)
+‘normal power recharging point’ means a recharging point that allows for a transfer of electricity to an electric vehicle with a power less than or equal to 22 kW, excluding devices with a power less than or equal to 3,7 kW, which are installed in private households or the primary purpose of which is not recharging electric vehicles, and which are not accessible to the public;
+(5)
+‘high power recharging point’ means a recharging point that allows for a transfer of electricity to an electric vehicle with a power of more than 22 kW;
+(6)
+‘shore-side electricity supply’ means the provision of shore-side electrical power through a standardised interface to seagoing ships or inland waterway vessels at berth;
+(7)
+‘recharging or refuelling point accessible to the public’ means a recharging or refuelling point to supply an alternative fuel which provides Union-wide non-discriminatory access to users. Non-discriminatory access may include different terms of authentication, use and payment;
+(8)
+‘refuelling point’ means a refuelling facility for the provision of any fuel with the exception of LNG, through a fixed or a mobile installation;
+(9)
+‘refuelling point for LNG’ means a refuelling facility for the provision of LNG, consisting of either a fixed or mobile facility, offshore facility, or other system.

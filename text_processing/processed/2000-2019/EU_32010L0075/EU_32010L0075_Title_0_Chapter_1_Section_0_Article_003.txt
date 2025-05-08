@@ -1,0 +1,139 @@
+Article 3
+Definitions
+For the purposes of this Directive the following definitions shall apply:
+(1)
+‘substance’ means any chemical element and its compounds, with the exception of the following substances:
+(a)
+radioactive substances as defined in Article 1 of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation (20);
+(b)
+genetically modified micro-organisms as defined in Article 2(b) of Directive 2009/41/EC of the European Parliament and the Council of 6 May 2009 on the contained use of genetically modified micro-organisms (21);
+(c)
+genetically modified organisms as defined in point 2 of Article 2 of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms (22);
+(2)
+‘pollution’ means the direct or indirect introduction, as a result of human activity, of substances, vibrations, heat or noise into air, water or land which may be harmful to human health or the quality of the environment, result in damage to material property, or impair or interfere with amenities and other legitimate uses of the environment;
+(3)
+‘installation’ means a stationary technical unit within which one or more activities listed in Annex I or in Part 1 of Annex VII are carried out, and any other directly associated activities on the same site which have a technical connection with the activities listed in those Annexes and which could have an effect on emissions and pollution;
+(4)
+‘emission’ means the direct or indirect release of substances, vibrations, heat or noise from individual or diffuse sources in the installation into air, water or land;
+(5)
+‘emission limit value’ means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during one or more periods of time;
+(6)
+‘environmental quality standard’ means the set of requirements which must be fulfilled at a given time by a given environment or particular part thereof, as set out in Union law;
+(7)
+‘permit’ means a written authorisation to operate all or part of an installation or combustion plant, waste incineration plant or waste co-incineration plant;
+(8)
+‘general binding rules’ means emission limit values or other conditions, at least at sector level, that are adopted with the intention of being used directly to set permit conditions;
+(9)
+‘substantial change’ means a change in the nature or functioning, or an extension, of an installation or combustion plant, waste incineration plant or waste co-incineration plant which may have significant negative effects on human health or the environment;
+(10)
+‘best available techniques’ means the most effective and advanced stage in the development of activities and their methods of operation which indicates the practical suitability of particular techniques for providing the basis for emission limit values and other permit conditions designed to prevent and, where that is not practicable, to reduce emissions and the impact on the environment as a whole:
+(a)
+‘techniques’ includes both the technology used and the way in which the installation is designed, built, maintained, operated and decommissioned;
+(b)
+‘available techniques’ means those developed on a scale which allows implementation in the relevant industrial sector, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced inside the Member State in question, as long as they are reasonably accessible to the operator;
+(c)
+‘best’ means most effective in achieving a high general level of protection of the environment as a whole;
+(11)
+‘BAT reference document’ means a document, resulting from the exchange of information organised pursuant to Article 13, drawn up for defined activities and describing, in particular, applied techniques, present emissions and consumption levels, techniques considered for the determination of best available techniques as well as BAT conclusions and any emerging techniques, giving special consideration to the criteria listed in Annex III;
+(12)
+‘BAT conclusions’ means a document containing the parts of a BAT reference document laying down the conclusions on best available techniques, their description, information to assess their applicability, the emission levels associated with the best available techniques, associated monitoring, associated consumption levels and, where appropriate, relevant site remediation measures;
+(13)
+‘emission levels associated with the best available techniques’ means the range of emission levels obtained under normal operating conditions using a best available technique or a combination of best available techniques, as described in BAT conclusions, expressed as an average over a given period of time, under specified reference conditions;
+(14)
+‘emerging technique’ means a novel technique for an industrial activity that, if commercially developed, could provide either a higher general level of protection of the environment or at least the same level of protection of the environment and higher cost savings than existing best available techniques;
+(15)
+‘operator’ means any natural or legal person who operates or controls in whole or in part the installation or combustion plant, waste incineration plant or waste co-incineration plant or, where this is provided for in national law, to whom decisive economic power over the technical functioning of the installation or plant has been delegated;
+(16)
+‘the public’ means one or more natural or legal persons and, in accordance with national law or practice, their associations, organisations or groups;
+(17)
+‘the public concerned’ means the public affected or likely to be affected by, or having an interest in, the taking of a decision on the granting or the updating of a permit or of permit conditions; for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under national law shall be deemed to have an interest;
+(18)
+‘hazardous substances’ means substances or mixtures as defined in Article 3 of Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures (23);
+(19)
+‘baseline report’ means information on the state of soil and groundwater contamination by relevant hazardous substances;
+(20)
+‘groundwater’ means groundwater as defined in point 2 of Article 2 of Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (24);
+(21)
+‘soil’ means the top layer of the Earth’s crust situated between the bedrock and the surface. The soil is composed of mineral particles, organic matter, water, air and living organisms;
+(22)
+‘environmental inspection’ means all actions, including site visits, monitoring of emissions and checks of internal reports and follow-up documents, verification of self-monitoring, checking of the techniques used and adequacy of the environment management of the installation, undertaken by or on behalf of the competent authority to check and promote compliance of installations with their permit conditions and, where necessary, to monitor their environmental impact;
+(23)
+‘poultry’ means poultry as defined in point 1 of Article 2 of Council Directive 90/539/EEC of 15 October 1990 on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs (25);
+(24)
+‘fuel’ means any solid, liquid or gaseous combustible material;
+(25)
+‘combustion plant’ means any technical apparatus in which fuels are oxidised in order to use the heat thus generated;
+(26)
+‘stack’ means a structure containing one or more flues providing a passage for waste gases in order to discharge them into the air;
+(27)
+‘operating hours’ means the time, expressed in hours, during which a combustion plant, in whole or in part, is operating and discharging emissions into the air, excluding start-up and shut-down periods;
+(28)
+‘rate of desulphurisation’ means the ratio over a given period of time of the quantity of sulphur which is not emitted into air by a combustion plant to the quantity of sulphur contained in the solid fuel which is introduced into the combustion plant facilities and which is used in the plant over the same period of time;
+(29)
+‘indigenous solid fuel’ means a naturally occurring solid fuel fired in a combustion plant specifically designed for that fuel and extracted locally;
+(30)
+‘determinative fuel’ means the fuel which, amongst all fuels used in a multi-fuel firing combustion plant using the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, has the highest emission limit value as set out in Part 1 of Annex V, or, in the case of several fuels having the same emission limit value, the fuel having the highest thermal input amongst those fuels;
+(31)
+‘biomass’ means any of the following:
+(a)
+products consisting of any vegetable matter from agriculture or forestry which can be used as a fuel for the purpose of recovering its energy content;
+(b)
+the following waste:
+(i)
+vegetable waste from agriculture and forestry;
+(ii)
+vegetable waste from the food processing industry, if the heat generated is recovered;
+(iii)
+fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered;
+(iv)
+cork waste;
+(v)
+wood waste with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating and which includes, in particular, such wood waste originating from construction and demolition waste;
+(32)
+‘multi-fuel firing combustion plant’ means any combustion plant which may be fired simultaneously or alternately by two or more types of fuel;
+(33)
+‘gas turbine’ means any rotating machine which converts thermal energy into mechanical work, consisting mainly of a compressor, a thermal device in which fuel is oxidised in order to heat the working fluid, and a turbine;
+(34)
+‘gas engine’ means an internal combustion engine which operates according to the Otto cycle and uses spark ignition or, in case of dual fuel engines, compression ignition to burn fuel;
+(35)
+‘diesel engine’ means an internal combustion engine which operates according to the diesel cycle and uses compression ignition to burn fuel;
+(36)
+‘small isolated system’ means a small isolated system as defined in point 26 of Article 2 of Directive 2003/54/EC of the European Parliament and of the Council of 26 June 2003 concerning common rules for the internal market in electricity (26);
+(37)
+‘waste’ means waste as defined in point 1 of Article 3 of Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste (27);
+(38)
+‘hazardous waste’ means hazardous waste as defined in point 2 of Article 3 of Directive 2008/98/EC;
+(39)
+‘mixed municipal waste’ means waste from households as well as commercial, industrial and institutional waste which, because of its nature and composition, is similar to waste from households, but excluding fractions indicated under heading 20 01 of the Annex to Decision 2000/532/EC (28) that are collected separately at source and excluding the other waste indicated under heading 20 02 of that Annex;
+(40)
+‘waste incineration plant’ means any stationary or mobile technical unit and equipment dedicated to the thermal treatment of waste, with or without recovery of the combustion heat generated, through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
+(41)
+‘waste co-incineration plant’ means any stationary or mobile technical unit whose main purpose is the generation of energy or production of material products and which uses waste as a regular or additional fuel or in which waste is thermally treated for the purpose of disposal through the incineration by oxidation of waste as well as other thermal treatment processes, such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated;
+(42)
+‘nominal capacity’ means the sum of the incineration capacities of the furnaces of which a waste incineration plant or a waste co-incineration plant is composed, as specified by the constructor and confirmed by the operator, with due account being taken of the calorific value of the waste, expressed as the quantity of waste incinerated per hour;
+(43)
+‘dioxins and furans’ means all polychlorinated dibenzo-p-dioxins and dibenzofurans listed in Part 2 of Annex VI;
+(44)
+‘organic compound’ means any compound containing at least the element carbon and one or more of hydrogen, halogens, oxygen, sulphur, phosphorus, silicon or nitrogen, with the exception of carbon oxides and inorganic carbonates and bicarbonates;
+(45)
+‘volatile organic compound’ means any organic compound as well as the fraction of creosote, having at 293,15 K a vapour pressure of 0,01 kPa or more, or having a corresponding volatility under the particular conditions of use;
+(46)
+‘organic solvent’ means any volatile organic compound which is used for any of the following:
+(a)
+alone or in combination with other agents, and without undergoing a chemical change, to dissolve raw materials, products or waste materials;
+(b)
+as a cleaning agent to dissolve contaminants;
+(c)
+as a dissolver;
+(d)
+as a dispersion medium;
+(e)
+as a viscosity adjuster;
+(f)
+as a surface tension adjuster;
+(g)
+as a plasticiser;
+(h)
+as a preservative;
+(47)
+‘coating’ means coating as defined in point 8 of Article 2 of Directive 2004/42/EC of the European Parliament and of the Council of 21 April 2004 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products (29).

@@ -1,0 +1,69 @@
+Article 3
+Definitions
+For the purposes of this Directive, the following definitions apply:
+(1)
+‘Union rail system’ means the Union rail system as defined in point (1) of Article 2 of Directive (EU) 2016/797;
+(2)
+‘infrastructure manager’ means an infrastructure manager as defined in point (2) of Article 3 of Directive 2012/34/EU of the European Parliament and of the Council (10);
+(3)
+‘railway undertaking’ means a railway undertaking as defined in point (1) of Article 3 of Directive 2012/34/EU, and any other public or private undertaking, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking is to ensure traction, including undertakings which provide traction only;
+(4)
+‘technical specification for interoperability’ (TSI) means a specification adopted in accordance with Directive (EU) 2016/797 by which each subsystem or part of a subsystem is covered in order to meet the essential requirements and ensure the interoperability of the Union rail system;
+(5)
+‘common safety targets’ (CSTs) means the minimum safety levels that are to be reached by the system as a whole, and where feasible, by different parts of the Union rail system (such as the conventional rail system, the high-speed rail system, long railway tunnels or lines solely used for freight transport);
+(6)
+‘common safety methods’ (CSMs) means the methods describing the assessment of safety levels and achievement of safety targets and compliance with other safety requirements;
+(7)
+‘national safety authority’ means the national body entrusted with the tasks regarding railway safety in accordance with this Directive or any body entrusted by several Member States with those tasks in order to ensure a unified safety regime;
+(8)
+‘national rules’ means all binding rules adopted in a Member State, irrespective of the body issuing them, which contain railway safety or technical requirements, other than those laid down by Union or international rules, and which are applicable within that Member State to railway undertakings, infrastructure managers or third parties;
+(9)
+‘safety management system’ means the organisation, arrangements and procedures established by an infrastructure manager or a railway undertaking to ensure the safe management of its operations;
+(10)
+‘investigator-in-charge’ means a person responsible for the organisation, conduct and control of an investigation;
+(11)
+‘accident’ means an unwanted or unintended sudden event or a specific chain of such events which have harmful consequences; accidents are divided into the following categories: collisions; derailments; level crossing accidents; accidents to persons involving rolling stock in motion; fires and others;
+(12)
+‘serious accident’ means any train collision or derailment of trains resulting in the death of at least one person or serious injuries to five or more persons or extensive damage to rolling stock, the infrastructure or the environment, and any other accident with the same consequences which has an obvious impact on railway safety regulation or the management of safety; ‘extensive damage’ means damage that can be immediately assessed by the investigating body to cost at least EUR 2 million in total;
+(13)
+‘incident’ means any occurrence, other than an accident or serious accident, affecting the safety of railway operations;
+(14)
+‘investigation’ means a process conducted for the purpose of accident and incident prevention which includes the gathering and analysis of information, the drawing of conclusions, including the determination of causes and, when appropriate, the making of safety recommendations;
+(15)
+‘causes’ means actions, omissions, events or conditions, or a combination thereof, which led to an accident or incident;
+(16)
+‘light rail’ means an urban and/or suburban rail transport system with a crashworthiness of C-III or C-IV (in accordance with EN 15227:2011) and a maximum strength of vehicle of 800 kN (longitudinal compressive force in coupling area); light rail systems may have their own right of way or share it with road traffic and usually do not exchange vehicles with long-distance passenger or freight traffic;
+(17)
+‘conformity assessment body’ means a body that has been notified or designated to be responsible for conformity assessment activities, including calibration, testing, certification and inspection; a conformity assessment body is classified as a ‘notified body’ following notification by a Member State; a conformity assessment body is classified as a ‘designated body’ following designation by a Member State;
+(18)
+‘interoperability constituents’ means the interoperability constituents as defined in point (7) of Article 2 of Directive (EU) 2016/797;
+(19)
+‘keeper’ means the natural or legal person that, being the owner of a vehicle or having the right to use it, exploits the vehicle as a means of transport and is registered as such in a vehicle register referred to in Article 47 of Directive (EU) 2016/797;
+(20)
+‘entity in charge of maintenance’ (‘ECM’) means an entity in charge of the maintenance of a vehicle, and registered as such in a vehicle register referred to in Article 47 of Directive (EU) 2016/797;
+(21)
+‘vehicle’ means a railway vehicle suitable for circulation on wheels on railway lines, with or without traction; a vehicle is composed of one or more structural and functional subsystems;
+(22)
+‘manufacturer’ means the manufacturer as defined in point (36) of Article 2 of Directive (EU) 2016/797;
+(23)
+‘consignor’ means an enterprise which consigns goods either on its own behalf or for a third party;
+(24)
+‘consignee’ means any natural or legal person who receives goods pursuant to a contract of carriage; if the transport operation takes place without a contract of carriage, any natural or legal person that takes charge of the goods on arrivals shall be deemed to be the consignee;
+(25)
+‘loader’ means an enterprise which loads packaged goods, small containers or portable tanks into or onto a wagon or a container, or which loads a container, bulk-container, multiple-element gas container, tank-container or portable tank onto a wagon;
+(26)
+‘unloader’ means an enterprise which removes a container, bulk-container, multiple-element gas container, tank-container or portable tank from a wagon, or any enterprise which unloads packaged goods, small containers or portable tanks out of or from a wagon or a container, or any enterprise which discharges goods from a tank (tank-wagon, demountable tank, portable tank or tank-container), or from a battery-wagon or multiple-element gas container, or from a wagon, large container or small container for carriage in bulk or a bulk-container;
+(27)
+‘filler’ means an enterprise that loads goods into a tank (including a tank-wagon, wagon with demountable tank, portable tank or tank-container), into a wagon, large container or small container for carriage in bulk, or into a battery-wagon or multiple-element gas container;
+(28)
+‘unfiller’ means an enterprise that removes goods from a tank (including a tank-wagon, wagon with demountable tank, portable tank or tank-container), a wagon, a large container or small container for carriage in bulk, or from a battery-wagon or multiple-element gas container;
+(29)
+‘carrier’ means an enterprise which carries out a transport operation pursuant to a contract of carriage;
+(30)
+‘contracting entity’ means a public or private entity which orders the design and/or construction or the renewal or upgrading of a subsystem;
+(31)
+‘type of operation’ means the type characterised by passenger transport, including or excluding high-speed services, freight transport, including or excluding dangerous goods services, and shunting services only;
+(32)
+‘extent of operation’ means the extent characterised by the number of passengers and/or volume of goods and the estimated size of a railway undertaking in terms of number of employees working in the railway sector (i.e., as a micro, small, medium-sized or large enterprise);
+(33)
+‘area of operation’ means a network or networks within one or more Member States where a railway undertaking intends to operate.

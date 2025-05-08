@@ -1,0 +1,17 @@
+Article 46
+Recovery plan
+1.   An issuer of an asset-referenced token shall draw up and maintain a recovery plan providing for measures to be taken by the issuer to restore compliance with the requirements applicable to the reserve of assets in cases where the issuer fails to comply with those requirements.
+The recovery plan shall also include the preservation of the issuer’s services related to the asset-referenced token, the timely recovery of operations and the fulfilment of the issuer’s obligations in the case of events that pose a significant risk of disrupting operations.
+The recovery plan shall include appropriate conditions and procedures to ensure the timely implementation of recovery actions as well as a wide range of recovery options, including:
+(a)
+liquidity fees on redemptions;
+(b)
+limits on the amount of the asset-referenced token that can be redeemed on any working day;
+(c)
+suspension of redemptions.
+2.   The issuer of the asset-referenced token shall notify the recovery plan to the competent authority within six months of the date of authorisation pursuant to Article 21 or within six months of the date of approval of the crypto-asset white paper pursuant to Article 17. The competent authority shall require amendments to the recovery plan where necessary to ensure its proper implementation and shall notify its decision requesting those amendments to the issuer within 40 working days of the date of notification of that plan. That decision shall be implemented by the issuer within 40 working days of the date of notification of that decision. The issuer shall regularly review and update the recovery plan.
+Where applicable, the issuer shall also notify the recovery plan to its resolution and prudential supervisory authorities in parallel to the competent authority.
+3.   Where the issuer fails to comply with the requirements applicable to the reserve of assets as referred to in Chapter 3 of this Title or, due to a rapidly deteriorating financial condition, is likely in the near future to not comply with those requirements, the competent authority, in order to ensure compliance with the applicable requirements, shall have the power to require the issuer to implement one or more of the arrangements or measures set out in the recovery plan or to update such a recovery plan when the circumstances are different from the assumptions set out in the initial recovery plan and implement one or more of the arrangements or measures set out in the updated plan within a specific timeframe.
+4.   In the circumstances referred to in paragraph 3, the competent authority shall have the power to temporarily suspend the redemption of asset-referenced tokens, provided that the suspension is justified having regard to the interests of the holders of asset-referenced tokens and financial stability.
+5.   Where applicable, the competent authority shall notify the issuer’s resolution and prudential supervisory authorities of any measure taken pursuant to paragraphs 3 and 4.
+6.   EBA, after consultation with ESMA, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify the format of the recovery plan and the information to be provided in the recovery plan.

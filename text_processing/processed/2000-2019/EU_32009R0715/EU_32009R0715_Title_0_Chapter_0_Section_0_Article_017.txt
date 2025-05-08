@@ -1,0 +1,15 @@
+Article 17
+Principles of capacity-allocation mechanisms and congestion-management procedures concerning storage and LNG facilities
+1.   The maximum storage and LNG facility capacity shall be made available to market participants, taking into account system integrity and operation.
+2.   LNG and storage system operators shall implement and publish non-discriminatory and transparent capacity-allocation mechanisms which shall:
+(a)
+provide appropriate economic signals for the efficient and maximum use of capacity and facilitate investment in new infrastructure;
+(b)
+be compatible with the market mechanism including spot markets and trading hubs, while being flexible and capable of adapting to evolving market circumstances; and
+(c)
+be compatible with the connected network access systems.
+3.   LNG and storage facility contracts shall include measures to prevent capacity-hoarding, by taking into account the following principles, which shall apply in cases of contractual congestion:
+(a)
+the system operator must offer unused LNG facility and storage capacity on the primary market without delay; for storage facilities this must be at least on a day-ahead and interruptible basis;
+(b)
+LNG and storage facility users who wish to re-sell their contracted capacity on the secondary market must be entitled to do so.

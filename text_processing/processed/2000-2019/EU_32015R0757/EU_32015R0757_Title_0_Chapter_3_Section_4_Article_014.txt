@@ -1,0 +1,23 @@
+Article 14
+General obligations and principles for the verifiers
+1.   The verifier shall be independent from the company or from the operator of a ship and shall carry out the activities required under this Regulation in the public interest. For that purpose, neither the verifier nor any part of the same legal entity shall be a company or ship operator, the owner of a company, or be owned by them, nor shall the verifier have relations with the company that could affect its independence and impartiality.
+2.   When considering the verification of the emissions report and of the monitoring procedures applied by the company, the verifier shall assess the reliability, credibility and accuracy of the monitoring systems and of the reported data and information relating to CO2 emissions, in particular:
+(a)
+the attribution of fuel consumption to voyages;
+(b)
+the reported fuel consumption data and related measurements and calculations;
+(c)
+the choice and the employment of emission factors;
+(d)
+the calculations leading to the determination of the overall CO2 emissions;
+(e)
+the calculations leading to the determination of the energy efficiency.
+3.   The verifier shall only consider emissions reports submitted in accordance with Article 12 if reliable and credible data and information enable the CO2 emissions to be determined with a reasonable degree of certainty and provided that the following are ensured:
+(a)
+the reported data are coherent in relation to estimated data that are based on ship tracking data and characteristics such as the installed engine power;
+(b)
+the reported data are free of inconsistencies, in particular when comparing the total volume of fuel purchased annually by each ship and the aggregate fuel consumption during voyages;
+(c)
+the collection of the data has been carried out in accordance with the applicable rules; and
+(d)
+the relevant records of the ship are complete and consistent.

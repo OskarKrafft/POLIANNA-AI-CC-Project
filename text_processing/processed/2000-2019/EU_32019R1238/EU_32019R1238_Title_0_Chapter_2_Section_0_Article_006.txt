@@ -1,0 +1,38 @@
+Article 6
+Application for registration of a PEPP
+1.   Only the following financial undertakings authorised or registered under Union law may apply for registration of a PEPP:
+(a)
+credit institutions authorised in accordance with Directive 2013/36/EU of the European Parliament and of the Council (19);
+(b)
+insurance undertakings authorised in accordance with Directive 2009/138/EC of the European Parliament and of the Council (20), engaged in direct life insurance according to Article 2(3) of Directive 2009/138/EC and Annex II to that Directive;
+(c)
+institutions for occupational retirement provision (IORPs) authorised or registered in accordance with Directive (EU) 2016/2341 which, pursuant to national law, are authorised and supervised to provide also personal pension products. In that case, all assets and liabilities corresponding to PEPP provision business shall be ring-fenced, without any possibility to transfer them to the other retirement provision business of the institution;
+(d)
+investment firms authorised in accordance with Directive 2014/65/EU, providing portfolio management;
+(e)
+investment companies or management companies authorised in accordance with Directive 2009/65/EC;
+(f)
+EU alternative investment fund managers (EU AIFM) authorised in accordance with Directive 2011/61/EU.
+2.   Financial undertakings listed in paragraph 1 of this Article shall submit the application for registration of a PEPP to their competent authorities. The application shall include the following:
+(a)
+the standard contract terms of the PEPP contract to be proposed to PEPP savers, as referred to in Article 4;
+(b)
+information on the identity of the applicant;
+(c)
+information on arrangements regarding portfolio and risk management and administration with regard to the PEPP, including arrangements as referred to in Articles 19(2), 42(5) and 49(3);
+(d)
+a list of Member States where the applicant PEPP provider intends to market the PEPP, where applicable;
+(e)
+information on the identity of the depositary, where applicable;
+(f)
+PEPP key information as referred to in Article 26;
+(g)
+a list of Member States for which the applicant PEPP provider will be able to ensure the immediate opening of a sub-account.
+3.   The competent authorities shall assess whether the application referred to in paragraph 2 is complete within 15 working days of receipt of the application.
+The competent authorities shall set a time limit by which the applicant is to provide additional information, if the application is not complete. After the application is considered to be complete, the competent authorities shall notify the applicant accordingly.
+4.   Within three months of the date of the submission of the complete application under paragraph 3, the competent authorities shall take a decision for registration of a PEPP only if the applicant is eligible to provide PEPPs according to paragraph 1 and if the information and documents submitted in the application for registration referred to in paragraph 2 comply with this Regulation.
+5.   Within five working days of taking a decision for registration of the PEPP, competent authorities shall communicate to EIOPA the decision as well as the information and documents referred to in points (a), (b), (d), (f) and (g) of paragraph 2 and shall inform the applicant PEPP provider accordingly.
+EIOPA shall not be responsible or be held liable for a decision for registration taken by competent authorities.
+Where the competent authorities refuse to grant registration, they shall issue a reasoned decision which shall be subject to a right to appeal.
+6.   In the event that there is more than one competent authority in a Member State for a specific type of financial undertaking as referred to in paragraph 1, that Member State shall designate a single competent authority for each type of financial undertaking referred to in paragraph 1 to be responsible for the registration procedure and for the communication with EIOPA.
+Any subsequent modifications to the information and documents provided in the application referred to in paragraph 2 shall be immediately notified to the competent authorities. Where modifications are in relation to the information and documents referred to in points (a), (b), (d), (f) and (g) of paragraph 2, the competent authorities shall communicate those modifications to EIOPA without undue delay.

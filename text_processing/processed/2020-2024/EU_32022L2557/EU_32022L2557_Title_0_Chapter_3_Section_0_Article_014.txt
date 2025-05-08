@@ -1,0 +1,16 @@
+Article 14
+Background checks
+1.   Member States shall specify the conditions under which a critical entity is permitted, in duly reasoned cases and taking into account the Member State risk assessment, to submit requests for background checks on persons who:
+(a)
+hold sensitive roles in or for the benefit of the critical entity, in particular in relation to the resilience of the critical entity;
+(b)
+are authorised to directly or remotely access its premises, information or control systems, including in connection with the security of the critical entity;
+(c)
+are under consideration for recruitment to positions that fall under the criteria set out in point (a) or (b).
+2.   Requests as referred to in paragraph 1 of this Article shall be assessed within a reasonable timeframe and processed in accordance with national law and procedures and relevant and applicable Union law, including Regulation (EU) 2016/679 and Directive (EU) 2016/680 of the European Parliament and of the Council (37). Background checks shall be proportionate and strictly limited to what is necessary. They shall be carried out for the sole purpose of evaluating a potential security risk to the critical entity concerned.
+3.   A background check as referred to in paragraph 1 shall, at least:
+(a)
+corroborate the identity of the person who is the subject of the background check;
+(b)
+check the criminal records of that person with regards to offences which would be relevant for a specific position.
+When carrying out background checks, Member States shall use the European Criminal Records Information System in accordance with the procedures set out in Framework Decision 2009/315/JHA and, where relevant and applicable, Regulation (EU) 2019/816 for the purpose of obtaining information from criminal records held by other Member States. The central authorities referred to in Article 3(1) of Framework Decision 2009/315/JHA and in Article 3, point (5), of Regulation (EU) 2019/816 shall provide replies to requests for such information within 10 working days from the date on which the request was received in accordance with Article 8(1) of Framework Decision 2009/315/JHA.

@@ -1,0 +1,22 @@
+Article 17
+Conformity assessment procedures
+1.   The manufacturer shall perform a conformity assessment of the radio equipment with a view to meeting the essential requirements set out in Article 3. The conformity assessment shall take into account all intended operating conditions and, for the essential requirement set out in point (a) of Article 3(1), the assessment shall also take into account the reasonably foreseeable conditions. Where the radio equipment is capable of taking different configurations, the conformity assessment shall confirm whether the radio equipment meets the essential requirements set out in Article 3 in all possible configurations.
+2.   Manufacturers shall demonstrate compliance of radio equipment with the essential requirements set out in Article 3(1) using any of the following conformity assessment procedures:
+(a)
+internal production control set out in Annex II;
+(b)
+EU-type examination that is followed by the conformity to type based on internal production control set out in Annex III;
+(c)
+conformity based on full quality assurance set out in Annex IV.
+3.   Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 3(2) and (3), the manufacturer has applied harmonised standards the references of which have been published in the Official Journal of the European Union, he shall use any of the following procedures:
+(a)
+internal production control set out in Annex II;
+(b)
+EU-type examination that is followed by the conformity to type based on internal production control set out in Annex III;
+(c)
+conformity based on full quality assurance set out in Annex IV.
+4.   Where, in assessing the compliance of radio equipment with the essential requirements set out in Article 3(2) and (3), the manufacturer has not applied or has applied only in part harmonised standards the references of which have been published in the Official Journal of the European Union, or where such harmonised standards do not exist, radio equipment shall be submitted with regard to those essential requirements to either of the following procedures:
+(a)
+EU-type examination that is followed by the conformity to type based on internal production control set out in Annex III;
+(b)
+conformity based on full quality assurance set out in Annex IV.

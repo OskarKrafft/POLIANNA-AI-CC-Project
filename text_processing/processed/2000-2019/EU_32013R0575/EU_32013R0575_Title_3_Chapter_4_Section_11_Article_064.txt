@@ -1,0 +1,7 @@
+Article 64
+Amortisation of Tier 2 instruments
+The extent to which Tier 2 instruments qualify as Tier 2 items during the final five years of maturity of the instruments is calculated by multiplying the result derived from the calculation in point (a) by the amount referred to in point (b) as follows:
+(a)
+the nominal amount of the instruments or subordinated loans on the first day of the final five year period of their contractual maturity divided by the number of calendar days in that period;
+(b)
+the number of remaining calendar days of contractual maturity of the instruments or subordinated loans.

@@ -1,0 +1,58 @@
+Article 50
+AML/CFT supervisory colleges in the non-financial sector
+1.   Member States shall ensure that the non-financial supervisors in charge of the parent undertaking of a group of obliged entities in the non-financial sector or of the head office of an obliged entity in the non-financial sector are able to set up dedicated AML/CFT supervisory colleges in any of the following situations:
+(a)
+where an obliged entity in the non-financial sector, or a group thereof, has set up establishments in at least two different Member States other than the Member State where its head office is located;
+(b)
+where a third-country entity subject to AML/CFT requirements other than a credit institution or a financial institution has set up establishments in at least three Member States.
+This paragraph shall also apply to structures which share common ownership, management or compliance control, including networks or partnerships to which group-wide requirements apply pursuant to Article 16 of Regulation (EU) 2024/1624.
+The permanent members of the college shall be the non-financial supervisor in charge of the parent undertaking or of the head office and the non-financial supervisors in charge of establishments in host Member States or of supervision of that obliged entity in other Member States in the cases covered by Article 37(1), second subparagraph.
+2.   Member States shall ensure that where the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity does not set up a college, non-financial supervisors referred to in paragraph 1, second subparagraph, point (b), can submit an opinion that, having regard to the money laundering and terrorist financing risks to which the obliged entity or group is exposed and the scale of its cross-border activities, a college shall be set up. That opinion shall be submitted by at least two non-financial supervisors and addressed to:
+(a)
+the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity;
+(b)
+AMLA;
+(c)
+all other non-financial supervisors.
+Where the non-financial supervisor referred to in point (a) of the first subparagraph of this paragraph is a self-regulatory body, that opinion shall also be submitted to the public authority in charge of overseeing that self-regulatory body pursuant to Article 52.
+3.   Where, after an opinion is submitted pursuant to paragraph 2, the non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity still considers that it is not necessary to set up a college, Member States shall ensure that the other non-financial supervisors are able to set up the college, provided that it is composed of at least two members. In those cases, those non-financial supervisors shall decide among them who is the supervisor in charge of the college. The non-financial supervisor in charge of the parent undertaking of a group or of the head office of an obliged entity shall be informed of the activities of the college and be able to join the college at any time.
+4.   For the purposes of paragraph 1, Member States shall ensure that non-financial supervisors identify:
+(a)
+all obliged entities in the non-financial sector that have their head office in their Member State and that have establishments in other Member States or third countries;
+(b)
+all establishments set up by those obliged entities in other Member States or third countries;
+(c)
+establishments set up in their territory by obliged entities in the non-financial sector from other Member States or third countries.
+5.   Where obliged entities in the non-financial sector carry out activities in other Member States under the freedom to provide services, the non-financial supervisor of the home Member State may invite the non-financial supervisors of those Member States to participate in the college as observers.
+6.   Where a group in the non-financial sector includes any credit institution or financial institution, but their presence in the group does not meet the threshold for setting up a college pursuant to Article 49, the supervisor setting up the college shall invite the financial supervisors of those credit institutions or financial institutions to participate in the college.
+7.   Member States may allow the setting up of AML/CFT supervisory colleges when an obliged entity in the non-financial sector established in the Union has set up establishments in at least two third countries. Non-financial supervisors may invite their counterparts in those third countries to set up such college. The non-financial supervisors participating in the college shall establish a written agreement detailing the conditions and procedures for the cooperation and exchange of information.
+Where the college is set up in relation to obliged entities referred to in Article 3, points (3)(a) and (b), of Regulation (EU) 2024/1624 or groups thereof, the written agreement referred to in the first subparagraph of this paragraph shall also include procedures to ensure that no information collected pursuant to Article 21(2) of Regulation (EU) 2024/1624 is shared, unless the second subparagraph of Article 21(2) applies.
+8.   Member States shall ensure that colleges are used, among others, for exchanging information, providing mutual assistance or coordinating the supervisory approach to the group or obliged entity, including, where relevant, the taking of appropriate and proportionate measures to address serious breaches of Regulations (EU) 2024/1624 and (EU) 2023/1113 that are detected at the level of the group or of the obliged entity, or across the establishments set up by the group or obliged entity in the jurisdiction of a supervisor participating in the college.
+9.   AMLA may attend the meetings of the AML/CFT supervisory colleges and shall facilitate their work in accordance with Article 36 of Regulation (EU) 2024/1620. Where AMLA decides to participate in the meetings of an AML/CFT supervisory college, it shall have the status of an observer.
+10.   Non-financial supervisors may allow their counterparts in third countries to participate in AML/CFT supervisory colleges as observers in the case referred to in paragraph 1, point (b), or where Union obliged entities in the non-financial sector or groups thereof operate branches and subsidiaries in those third countries, provided that:
+(a)
+the third-country counterparts submit a request for participation and the members of the college agree with their participation, or the members of the college agree to invite those third-country counterparts;
+(b)
+Union data protection rules concerning data transfers are complied with;
+(c)
+the third-country counterparts sign the written agreement referred to in paragraph 7 and share within the college the relevant information they possess for the supervision of the obliged entity or of the group;
+(d)
+the information disclosed is subject to a guarantee of professional secrecy requirements at least equivalent to that referred to in Article 67(1) and is used solely for the purposes of performing the supervisory tasks of the participating non-financial supervisors or of the counterparts in third countries.
+Member States shall ensure that non-financial supervisors in charge of the parent undertaking of a group or of the head office of an obliged entity or, in the cases covered by paragraph 3, of the college carry out an assessment of whether the conditions of the first subparagraph of this paragraph are met and submit it to the permanent members of the college. That assessment shall be carried out prior to the third-country counterpart being allowed to join the college and may be repeated as necessary thereafter. The non-financial supervisors in charge of the assessment may seek the support of AMLA for the performance of that assessment.
+11.   Where deemed necessary by the permanent members of the college, additional observers may be invited, provided that confidentiality requirements are complied with. Observers may include FIUs.
+12.   Where the members of a college disagree on the measures to be taken in relation to an obliged entity, they may refer the matter to AMLA and request its assistance in accordance with Article 38 of Regulation (EU) 2024/1620. AMLA shall provide its opinion on the matter of disagreement within 2 months.
+13.   By 10 July 2026, AMLA shall develop draft regulatory technical standards and submit them to the Commission for adoption. Those draft regulatory technical standards shall specify:
+(a)
+the general conditions for the functioning of the AML/CFT supervisory colleges in the non-financial sector, including the terms of cooperation between permanent members and with observers, and the operational functioning of such colleges;
+(b)
+the template for the written agreement to be signed by non-financial supervisors pursuant to paragraph 7;
+(c)
+conditions for the participation of non-financial supervisors in third countries;
+(d)
+any additional measure to be implemented by the colleges when groups include credit institutions or financial institutions.
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 49 to 52 of Regulation (EU) 2024/1620.
+14.   By 10 July 2029 and every 2 years thereafter, AMLA shall issue an opinion on the functioning of AML/CFT supervisory colleges in the non-financial sector. That opinion shall include:
+(a)
+an overview of the colleges set up by non-financial supervisors;
+(b)
+an assessment of the actions taken by those colleges and the level of cooperation attained, including difficulties faced in the functioning of the colleges.

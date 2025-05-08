@@ -1,0 +1,13 @@
+Article 277
+Transactions with a linear risk profile
+1.   Institutions shall map transactions with a linear risk profile to risk positions in accordance with the following provisions:
+(a)
+transactions with a linear risk profile with equities (including equity indices), gold, other precious metals or other commodities as the underlying shall be mapped to a risk position in the respective equity (or equity index) or commodity and an interest rate risk position for the payment leg;
+(b)
+transactions with a linear risk profile with a debt instrument as the underlying instrument shall be mapped to an interest rate risk position for the debt instrument and another interest rate risk position for the payment leg;
+(c)
+transactions with a linear risk profile that stipulate the exchange of payment against payment, including foreign exchange forwards, shall be mapped to an interest rate risk position for each of the payment legs.
+Where, under a transaction mentioned in point (a), (b) or (c), a payment leg or the underlying debt instrument is denominated in foreign currency, that payment leg or underlying instrument shall also be mapped to a risk position in that currency.
+2.   For the purposes of paragraph 1, the size of a risk position from a transaction with linear risk profile shall be the effective notional value (market price multiplied by quantity) of the underlying financial instruments or commodities converted to the institution's domestic currency by multiplication with the relevant exchange rate, except for debt instruments.
+3.   For debt instruments and for payment legs, the size of the risk position shall be the effective notional value of the outstanding gross payments (including the notional amount) converted to the currency of the home Member State, multiplied by the modified duration of the debt instrument or payment leg, as the case may be.
+4.   The size of a risk position from a credit default swap shall be the notional value of the reference debt instrument multiplied by the remaining maturity of the credit default swap.

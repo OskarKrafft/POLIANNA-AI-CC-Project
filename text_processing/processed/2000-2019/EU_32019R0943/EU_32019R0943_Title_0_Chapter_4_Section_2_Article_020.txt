@@ -1,0 +1,24 @@
+Article 20
+Resource adequacy in the internal market for electricity
+1.   Member States shall monitor resource adequacy within their territory on the basis of the European resource adequacy assessment referred to in Article 23. For the purpose of complementing the European resource adequacy assessment, Member States may also carry out national resource adequacy assessments pursuant to Article 24.
+2.   Where the European resource adequacy assessment referred to in Article 23 or national resource adequacy assessment referred to in Article 24 identifies a resource adequacy concern, the Member State concerned shall identify any regulatory distortions or market failures that caused or contributed to the emergence of the concern.
+3.   Member States with identified resource adequacy concerns shall develop and publish an implementation plan with a timeline for adopting measures to eliminate any identified regulatory distortions or market failures as a part of the State aid process. When addressing resource adequacy concerns, the Member States shall in particular take into account the principles set out in Article 3 and shall consider:
+(a)
+removing regulatory distortions;
+(b)
+removing price caps in accordance with Article 10;
+(c)
+introducing a shortage pricing function for balancing energy as referred to in Article 44(3) of Regulation (EU) 2017/2195;
+(d)
+increasing interconnection and internal grid capacity with a view to reaching at least their interconnection targets as referred in point (d)(1) of Article 4 of Regulation (EU) 2018/1999;
+(e)
+enabling self-generation, energy storage, demand side measures and energy efficiency by adopting measures to eliminate any identified regulatory distortions;
+(f)
+ensuring cost-efficient and market-based procurement of balancing and ancillary services;
+(g)
+removing regulated prices where required by Article 5 of Directive (EU) 2019/944.
+4.   The Member States concerned shall submit their implementation plans to the Commission for review.
+5.   Within four months of receipt of the implementation plan, the Commission shall issue an opinion on whether the measures are sufficient to eliminate the regulatory distortions or market failures that were identified pursuant to paragraph 2, and may invite the Member States to amend their implementation plans accordingly.
+6.   The Member States concerned shall monitor the application of their implementation plans and shall publish the results of the monitoring in an annual report and shall submit that report to the Commission.
+7.   The Commission shall issue an opinion on whether the implementation plans have been sufficiently implemented and whether the resource adequacy concern has been resolved.
+8.   Member States shall continue to adhere to the implementation plan after the identified resource adequacy concern has been resolved.

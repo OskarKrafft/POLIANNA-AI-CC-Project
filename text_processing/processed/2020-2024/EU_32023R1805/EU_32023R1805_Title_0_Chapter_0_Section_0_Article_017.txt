@@ -1,0 +1,15 @@
+Article 17
+Additional checks by a competent authority
+1.   At any time, the competent authority of the administering State in respect of a company may, for any of its ships, conduct, in relation to the two previous reporting periods, additional checks of any of the following:
+(a)
+the FuelEU report that complies with this Regulation established in accordance with Articles 15 and 16;
+(b)
+the verification report established in accordance with Article 16;
+(c)
+the calculations made by the verifier in accordance with Article 16(4).
+2.   At the request of the competent authority referred to in paragraph 1, the company shall provide any necessary information or documents enabling the competent authority to conduct additional checks and shall allow access to the premises of the company or the ship to facilitate such additional checks.
+3.   The competent authority referred to in paragraph 1 of this Article shall issue an additional checks report including, where applicable, the updated calculations made in application of Article 17(1), point (c), the updated amount of the compliance surplus or of the advance compliance surplus and the updated amount of the FuelEU penalty.
+4.   Where the additional checks report referred to in paragraph 3 of this Article identifies misstatements, non-conformities or miscalculations resulting in a non-conformity with the requirements set out in Article 4 or 6 and, consequently, in a FuelEU penalty or a modification of the amount of a FuelEU penalty already paid, the competent authority referred to in paragraph 1 of this Article shall notify to the company concerned the corresponding amount of the FuelEU penalty or of the modified FuelEU penalty. Member States shall ensure that the company responsible for the ship during the period subject to the additional checks shall pay an amount equal to the FuelEU penalty or the modified FuelEU penalty within one month after its notification, in accordance with the arrangements provided for in Article 23.
+5.   The competent authority referred to in paragraph 1 shall remove without delay from the FuelEU database the FuelEU document of compliance of a ship in respect of which its company has not paid in due time the FuelEU penalties referred to in paragraph 4 and shall notify that removal to the company concerned in a timely manner. It shall re-issue the relevant FuelEU document of compliance only when an amount equal to the FuelEU penalty has been paid, provided that the other conditions set out in this Regulation for holding the FuelEU document of compliance are fulfilled by the company.
+6.   Paragraph 5 shall not apply to a ship which has been transferred to a company other than the company that assumed responsibility for its operation during the period subject to the additional checks.
+7.   The actions referred to in this Article, the additional checks report referred to in paragraph 3 and proof of the payments of the FuelEU penalties shall be recorded without delay in the FuelEU database by the entities that performed those actions or made that report or payment.

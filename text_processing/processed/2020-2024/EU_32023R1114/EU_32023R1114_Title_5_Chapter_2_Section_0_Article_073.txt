@@ -1,0 +1,21 @@
+Article 73
+Outsourcing
+1.   Crypto-asset service providers that outsource services or activities to third parties for the performance of operational functions shall take all reasonable steps to avoid additional operational risk. They shall remain fully responsible for discharging all of their obligations pursuant to this Title and shall ensure at all times that the following conditions are met:
+(a)
+outsourcing does not result in the delegation of the responsibility of the crypto-asset service providers;
+(b)
+outsourcing does not alter the relationship between the crypto-asset service providers and their clients, nor the obligations of the crypto-asset service providers towards their clients;
+(c)
+outsourcing does not alter the conditions for the authorisation of the crypto-asset service providers;
+(d)
+third parties involved in the outsourcing cooperate with the competent authority of the crypto-asset service providers’ home Member State and the outsourcing does not prevent the exercise of the supervisory functions of competent authorities, including on-site access to acquire any relevant information needed to fulfil those functions;
+(e)
+crypto-asset service providers retain the expertise and resources necessary for evaluating the quality of the services provided, for supervising the outsourced services effectively and for managing the risks associated with the outsourcing on an ongoing basis;
+(f)
+crypto-asset service providers have direct access to the relevant information of the outsourced services;
+(g)
+crypto-asset service providers ensure that third parties involved in the outsourcing meet the data protection standards of the Union.
+For the purposes of point (g) of the first subparagraph, crypto-asset service providers are responsible for ensuring that the data protection standards are set out in the written agreements referred to in paragraph 3.
+2.   Crypto-asset service providers shall have a policy on their outsourcing, including on contingency plans and exit strategies, taking into account the scale, the nature and the range of crypto-asset services provided.
+3.   Crypto-asset service providers shall define in a written agreement their rights and obligations and those of the third parties to which they are outsourcing services or activities. Outsourcing agreements shall give crypto-asset service providers the right to terminate those agreements.
+4.   Crypto-asset service providers and third parties shall, upon request, make available to the competent authorities and other relevant authorities all information necessary to enable those authorities to assess compliance of the outsourced activities with the requirements of this Title.

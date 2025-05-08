@@ -1,0 +1,54 @@
+Article 18
+Single access point to real estate information
+1.   Member States shall ensure that competent authorities have immediate and direct access free of charge to information which allows for the identification in a timely manner of any real estate property and of the natural persons or legal entities or legal arrangements owning that property, as well as to information allowing for the identification and analysis of transactions involving real estate. That access shall be provided via a single access point to be established in each Member State which allows competent authorities to access, via electronic means, information in digital format, which shall be, where possible machine-readable.
+Access to the single access points referred to in the first subparagraph shall also be granted to AMLA for the purposes of joint analyses pursuant to Article 32 of this Directive and Article 40 of Regulation (EU) 2024/1620.
+2.   Member States shall ensure that at least the following information is made available through the single access point referred to in paragraph 1:
+(a)
+information on the property:
+(i)
+cadastral parcel and cadastral reference;
+(ii)
+geographical location, including address of the property;
+(iii)
+area/size of the property;
+(iv)
+type of property, including whether built or non-built property and destination of use;
+(b)
+information on ownership:
+(i)
+the name of the owner and any person purporting to act on behalf of the owner;
+(ii)
+where the owner is a legal entity, the name and legal form of the legal entity, as well as the company unique identification number and the tax identification number;
+(iii)
+where the owner is a legal arrangement, the name of the legal arrangement and the tax identification number;
+(iv)
+price at which the property has been acquired;
+(v)
+where applicable, any entitlements or restrictions;
+(c)
+information on encumbrances regarding:
+(i)
+mortgages;
+(ii)
+judicial restrictions;
+(iii)
+property rights;
+(iv)
+other guarantees, if any;
+(d)
+history of property ownership, price and related encumbrances;
+(e)
+relevant documents.
+Member States shall ensure that, where a cadastral parcel includes multiple properties, the information referred to in the first subparagraph is provided in relation to each property in that cadastral parcel.
+Member States shall ensure that historical information pursuant to the first subparagraph, point (d), covers at least the period from 8 July 2019.
+3.   Member States shall put in place mechanisms to ensure that the information provided through the single access point referred to in paragraph 1 is up to date and accurate.
+4.   Member States shall have measures in place to ensure that information held electronically is provided immediately to the requesting competent authority. Where that information is not held electronically, Member States shall ensure that it is provided in a timely manner and in such a way as not to undermine the activities of the requesting competent authority.
+5.   By 10 October 2029, Member States shall notify to the Commission:
+(a)
+the characteristics of the single access point referred to in paragraph 1 established at national level, including the website at which it can be accessed;
+(b)
+the list of competent authorities granted access to the single access point referred to in paragraph 1;
+(c)
+any data made available to competent authorities in addition to those listed in paragraph 2.
+Member States shall update such notification when changes to the list of competent authorities or to the extent of access to information granted occurs. The Commission shall make that information, including any change to it, available to the other Member States.
+6.   By 10 July 2032, the Commission shall submit a report to the European Parliament and to the Council assessing the conditions and the technical specifications and procedures for ensuring secure and efficient interconnection of the single access points referred to in paragraph 1. Where appropriate, that report shall be accompanied by a legislative proposal.

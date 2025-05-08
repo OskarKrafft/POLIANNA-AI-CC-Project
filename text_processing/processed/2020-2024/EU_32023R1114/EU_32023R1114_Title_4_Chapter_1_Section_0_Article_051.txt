@@ -1,0 +1,57 @@
+Article 51
+Content and form of the crypto-asset white paper for e-money tokens
+1.   A crypto-asset white paper for an e-money token shall contain all of the following information, as further specified in Annex III:
+(a)
+information about the issuer of the e-money token;
+(b)
+information about the e-money token;
+(c)
+information about the offer to the public of the e-money token or its admission to trading;
+(d)
+information on the rights and obligations attached to the e-money token;
+(e)
+information on the underlying technology;
+(f)
+information on the risks;
+(g)
+information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the e-money token.
+The crypto-asset white paper shall also include the identity of the person other than the issuer that offers the e-money token to the public or seeks its admission to trading pursuant to Article 48(1), second subparagraph, and the reason why that particular person offers that e-money token or seeks its admission to trading.
+2.   All the information listed in paragraph 1 shall be fair, clear and not misleading. The crypto-asset white paper shall not contain material omissions and shall be presented in a concise and comprehensible form.
+3.   The crypto-asset white paper shall contain the following clear and prominent statement on the first page:
+
+                           ‘This crypto-asset white paper has not been approved by any competent authority in any Member State of the European Union. The issuer of the crypto-asset is solely responsible for the content of this crypto-asset white paper.’.
+4.   The crypto-asset white paper shall contain a clear warning that:
+(a)
+the e-money token is not covered by the investor compensation schemes under Directive 97/9/EC;
+(b)
+the e-money token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+5.   The crypto-asset white paper shall contain a statement from the management body of the issuer of the e-money token. That statement, which shall be inserted after the statement referred to in paragraph 3, shall confirm that the crypto-asset white paper complies with this Title and that, to the best of the knowledge of the management body, the information presented in the crypto-asset white paper is complete, fair, clear and not misleading and that the crypto-asset white paper makes no omission likely to affect its import.
+6.   The crypto-asset white paper shall contain a summary, inserted after the statement referred to in paragraph 5, which shall in brief and non-technical language provide key information about the offer to the public of the e-money token or the intended admission to trading of such e-money token. The summary shall be easily understandable and presented and laid out in a clear and comprehensive format, using characters of readable size. The summary of the crypto-asset white paper shall provide appropriate information about the characteristics of the crypto-assets concerned in order to help prospective holders of the crypto-assets to make an informed decision.
+The summary shall contain a warning that:
+(a)
+it should be read as an introduction to the crypto-asset white paper;
+(b)
+the prospective holder should base any decision to purchase the e-money token on the content of the crypto-asset white paper as a whole and not on the summary alone;
+(c)
+the offer to the public of the e-money token does not constitute an offer or solicitation to purchase financial instruments and that any such offer or solicitation can be made only by means of a prospectus or other offer documents pursuant to the applicable national law;
+(d)
+the crypto-asset white paper does not constitute a prospectus as referred to in Regulation (EU) 2017/1129 or any other offer document pursuant to Union or national law.
+The summary shall state that holders of the e-money token have a right of redemption at any time and at par value as well as the conditions for redemption.
+7.   The crypto-asset white paper shall contain the date of its notification and a table of contents.
+8.   The crypto-asset white paper shall be drawn up in an official language of the home Member State or in a language customary in the sphere of international finance.
+Where the e-money token is also offered in a Member State other than the home Member State, the crypto-asset white paper shall also be drawn up in an official language of the host Member State or in a language customary in the sphere of international finance.
+9.   The crypto-asset white paper shall be made available in a machine-readable format.
+10.   ESMA, in cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, formats and templates for the purposes of paragraph 9.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+11.   Issuers of e-money tokens shall notify their crypto-asset white paper to their competent authority at least 20 working days before the date of their publication.
+Competent authorities shall not require prior approval of crypto-asset white papers before their publication.
+12.   Any significant new factor, any material mistake or any material inaccuracy that is capable of affecting the assessment of the e-money token shall be described in a modified crypto-asset white paper drawn up by the issuers, notified to the competent authorities and published on the issuers’ websites.
+13.   Before offering the e-money token to the public in the Union or seeking an admission to trading of the e-money token, the issuer of such e-money token shall publish a crypto-asset white paper on its website.
+14.   The issuer of the e-money token shall together with the notification of the crypto-asset white paper pursuant to paragraph 11 of this Article provide the competent authority with the information referred to in Article 109(4). The competent authority shall communicate to ESMA, within five working days of receipt of the information from the issuer, the information specified in Article 109(4).
+The competent authority shall also communicate to ESMA any modified crypto-asset white paper and any withdrawal of the authorisation of the issuer of the e-money token.
+ESMA shall make such information available in the register, under Article 109(4), by the starting date of the offer to the public or admission to trading or, in the case of a modified crypto-asset white paper, or withdrawal of the authorisation, without undue delay.
+15.   ESMA, in cooperation with EBA, shall develop draft regulatory technical standards on the content, methodologies and presentation of the information referred to in paragraph 1, point (g), in respect of the sustainability indicators in relation to adverse impacts on the climate and other environment‐related adverse impacts.
+When developing the draft regulatory technical standards referred to in the first subparagraph, ESMA shall consider the various types of consensus mechanisms used to validate transactions in crypto-assets, their incentive structures and the use of energy, renewable energy and natural resources, the production of waste, and greenhouse gas emissions. ESMA shall update the regulatory technical standards in the light of regulatory and technological developments.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

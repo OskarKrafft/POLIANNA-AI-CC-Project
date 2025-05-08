@@ -1,0 +1,27 @@
+Article 9
+Compliance verification by the Commission
+1.   The Commission shall organise and carry out, at its own expense, tests and inspections to verify that vehicles, systems, components and separate technical units comply with the relevant requirements.
+The tests and inspections shall be performed, inter alia, by means of laboratory tests and on-road tests, on the basis of statistically relevant samples, and shall be supplemented by documentary checks.
+When carrying out those tests and inspections, the Commission shall take account of:
+(a)
+established principles of risk assessment;
+(b)
+substantiated complaints; and
+(c)
+any other relevant information, including information exchanged in the Forum, testing results published by recognised third parties that meet the requirements laid down by the implementing acts referred to in Article 13(10), information concerning new technologies on the market and reports resulting from on-road remote sensing.
+The Commission may entrust the performance of tests or inspections to technical services, in which case, the technical service shall be acting on behalf of the Commission. Where the Commission entrusts the performance of tests or inspections to technical services for the purposes of this Article, the Commission shall ensure that the technical service that is used is not the same as the technical service that performed the original type-approval test.
+Those tests and inspections may take place:
+(a)
+on new vehicles supplied by manufacturers or other economic operator, as provided for in paragraph 2;
+(b)
+on registered vehicles with the agreement of the holder of the vehicle registration certificate.
+2.   Manufacturers holding type-approvals or other economic operators shall, upon request, supply to the Commission, in return for fair compensation, a statistically relevant number of production vehicles, systems, components and separate technical units selected by the Commission that are representative for the vehicles, systems, components and separate technical units available for placing on the market under that type-approval. Such vehicles, systems, components and separate technical units shall be supplied for testing at the time and place, and for such period, as required by the Commission.
+3.   Before the Commission carries out its tests and inspections, it shall notify the Member State that granted the type-approval and the Member State where the vehicle, system, component or separate technical unit was made available on the market.
+The Member States shall cooperate with the Commission when the Commission carries out the tests and inspections.
+4.   For the purpose of enabling the Commission to carry out the tests and inspections under this Article, Member States shall without undue delay make available to the Commission the necessary information related to the type-approval of the vehicles, systems, components and separate technical units that are subject to compliance verification. That information shall include at least the information included in the EU type-approval certificate and its attachments referred to in Article 28(1).
+5.   Manufacturers shall make available to the Commission, free of charge and without undue delay, any data which are needed for the purpose of compliance verification and which are not available in the EU type-approval certificate and its attachments referred to in Article 28(1).
+Such data shall include all parameters and settings that are necessary to accurately replicate the test conditions that applied at the time of the type-approval testing. The Commission shall adopt implementing acts specifying the data that are to be made available, subject to the protection of commercial secrets and the preservation of personal data pursuant to Union and national law. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2).
+6.   Where the Commission establishes that the vehicles, systems, components or separate technical units do not comply with the type-approval requirements laid down in this Regulation, that the vehicles, systems, components or separate technical unit do not comply with the type-approval or that the type-approval has been granted on the basis of incorrect data, it shall initiate the procedure provided for in Articles 53 or 54.
+Where the tests and inspections call into question the correctness of the type-approval itself, the Commission shall immediately inform the approval authority or authorities concerned as well as the Forum.
+The Commission shall inform the relevant approval authorities and market surveillance authorities in order for them to take appropriate measures to alert users within the Union, within an adequate timeframe, of any non-compliance that it has identified in relation to any vehicle, system, component or separate technical unit so as to prevent or reduce the risk of injury or other damage.
+The Commission shall make publicly available a report of its findings following any compliance verification testing it has carried out and shall forward its findings to the Member States and to the Forum. That report shall contain details of the vehicles, systems, components and separate technical units that were assessed and the identity of the manufacturer concerned, as well as a short description of the findings, including the nature of the non-compliance, if any.

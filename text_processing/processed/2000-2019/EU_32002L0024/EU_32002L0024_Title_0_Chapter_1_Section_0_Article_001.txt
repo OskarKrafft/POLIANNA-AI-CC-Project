@@ -1,0 +1,32 @@
+Article 1
+1. This Directive applies to all two or three-wheel motor vehicles, whether twin-wheeled or otherwise, intended to travel on the road, and to the components or separate technical units of such vehicles.
+This Directive does not apply to the following vehicles:
+(a) vehicles with a maximum design speed not exceeding 6 km/h;
+(b) vehicles intended for pedestrian control;
+(c) vehicles intended for use by the physically handicapped;
+(d) vehicles intended for use in competition, on roads or in off-road conditions;
+(e) vehicles already in use before the application date of Directive 92/61/EEC;
+(f) tractors and machines, used for agricultural or similar purposes;
+(g) vehicles designed primarily for off-road leisure use having wheels arranged symmetrically with one wheel at the front of the vehicle and two at the rear;
+(h) cycles with pedal assistance which are equipped with an auxiliary electric motor having a maximum continuous rated power of 0,25 kW, of which the output is progressively reduced and finally cut off as the vehicle reaches a speed of 25 km/h, or sooner, if the cyclist stops pedalling,
+nor to the components or technical units thereof unless they are intended to be fitted to vehicles covered by this Directive.
+It does not apply to the approval of single vehicles except that Member States granting such approvals shall accept any type-approval of components and separate technical units granted under this Directive instead of under the relevant national requirements.
+2. The vehicles referred to in paragraph 1 shall be subdivided into:
+(a) mopeds, i.e. two-wheel vehicles (category L1e) or three-wheel vehicles (category L2e) with a maximum design speed of not more than 45 km/h and characterised by:
+(i) in the case of the two-wheel type, an engine whose:
+- cylinder capacity does not exceed 50 cm3 in the case of the internal combustion type, or
+- maximum continuous rated power is no more than 4 kW in the case of an electric motor;
+(ii) in the case of the three-wheel type, an engine whose:
+- cylinder capacity does not exceed 50 cm3 if of the spark (positive) ignition type, or
+- maximum net power output does not exceed 4 kW in the case of other internal combustion engines, or
+- maximum continuous rated power does not exceed 4 kW in the case of an electric motor;
+(b) motorcycles, i.e. two-wheel vehicles without a sidecar (category L3e) or with a sidecar (category L4e), fitted with an engine having a cylinder capacity of more than 50 cm3 if of the internal combustion type and/or having a maximum design speed of more than 45 km/h,
+(c) motor tricycles, i.e. vehicles with three symmetrically arranged wheels (category L5e) fitted with an engine having a cylinder capacity of more than 50 cm3 if of the internal combustion type and/or a maximum design speed of more than 45 km/h.
+3. This Directive shall also apply to quadricycles, i.e. motor vehicles with four wheels having the following characteristics:
+(a) light quadricycles whose unladen mass is not more than 350 kg (category L6e), not including the mass of the batteries in case of electric vehicles, whose maximum design speed is not more than 45 km/h, and
+(i) whose engine cylinder capacity does not exceed 50 cm3 for spark (positive) ignition engines, or
+(ii) whose maximum net power output does not exceed 4 kW in the case of other internal combustion engines, or
+(iii) whose maximum continuous rated power does not exceed 4 kW in the case of an electric motor.
+These vehicles shall fulfil the technical requirements applicable to three-wheel mopeds of category L2e unless specified differently in any of the separate directives;
+(b) quadricycles, other than those referred to in (a), whose unladen mass is not more than 400 kg (category L7e) (550 kg for vehicles intended for carrying goods), not including the mass of batteries in the case of electric vehicles, and whose maximum net engine power does not exceed 15 kW. These vehicles shall be considered to be motor tricycles and shall fulfil the technical requirements applicable to motor tricycles of category L5e unless specified differently in any of the separate Directives.
+

@@ -1,0 +1,47 @@
+Article 17
+Requests for data to be made available
+1.   When requesting data pursuant to Article 14, a public sector body, the Commission, the European Central Bank or a Union body shall:
+(a)
+specify the data required, including the relevant metadata necessary to interpret and use those data;
+(b)
+demonstrate that the conditions necessary for the existence of an exceptional need as referred to in Article 15 for the purpose of which the data are requested are met;
+(c)
+explain the purpose of the request, the intended use of the data requested, including, where applicable, by a third party in accordance with paragraph 4 of this Article, the duration of that use, and, where relevant, how the processing of personal data is to address the exceptional need;
+(d)
+specify, if possible, when the data are expected to be erased by all parties that have access to them;
+(e)
+justify the choice of data holder to which the request is addressed;
+(f)
+specify any other public sector bodies or the Commission, European Central Bank or Union bodies and the third parties with which the data requested is expected to be shared with;
+(g)
+where personal data are requested, specify any technical and organisational measures necessary and proportionate to implement data protection principles and necessary safeguards, such as pseudonymisation, and whether anonymisation can be applied by the data holder before making the data available;
+(h)
+state the legal provision allocating to the requesting public sector body, the Commission, the European Central Bank or the Union body the specific task carried out in the public interest relevant for requesting the data;
+(i)
+specify the deadline by which the data are to be made available and the deadline referred to in Article 18(2) by which the data holder may decline or seek modification of the request;
+(j)
+make its best efforts to avoid compliance with the data request resulting in the data holders’ liability for infringement of Union or national law.
+2.   A request for data made pursuant to paragraph 1 of this Article shall:
+(a)
+be made in writing and expressed in clear, concise and plain language understandable to the data holder;
+(b)
+be specific regarding the type of data requested and correspond to data which the data holder has control over at the time of the request;
+(c)
+be proportionate to the exceptional need and duly justified, regarding the granularity and volume of the data requested and frequency of access of the data requested;
+(d)
+respect the legitimate aims of the data holder, committing to ensuring the protection of trade secrets in accordance with Article 19(3), and the cost and effort required to make the data available;
+(e)
+concern non-personal data, and only if this is demonstrated to be insufficient to respond to the exceptional need to use data, in accordance with Article 15(1), point (a), request personal data in pseudonymised form and establish the technical and organisational measures that are to be taken to protect the data;
+(f)
+inform the data holder of the penalties that are to be imposed pursuant to Article 40 by the competent authority designated pursuant to Article 37 in the event of non-compliance with the request;
+(g)
+where the request is made by a public sector body, be transmitted to the data coordinator referred to in Article 37 of the Member State where the requesting public sector body is established, who shall make the request publicly available online without undue delay unless the data coordinator considers that such publication would create a risk for public security;
+(h)
+where the request is made by the Commission, the European Central Bank or a Union body, be made available online without undue delay;
+(i)
+where personal data are requested, be notified without undue delay to the supervisory authority responsible for monitoring the application of Regulation (EU) 2016/679 in the Member State where the public sector body is established.
+The European Central Bank and Union bodies shall inform the Commission of their requests.
+3.   A public sector body, the Commission, the European Central Bank or a Union body shall not make data obtained pursuant to this Chapter available for reuse as defined in Article 2, point (2), of Regulation (EU) 2022/868 or Article 2, point (11), of Directive (EU) 2019/1024. Regulation (EU) 2022/868 and Directive (EU) 2019/1024 shall not apply to the data held by public sector bodies obtained pursuant to this Chapter.
+4.   Paragraph 3 of this Article does not preclude a public sector body, the Commission, the European Central Bank or a Union body to exchange data obtained pursuant to this Chapter with another public sector body or the Commission, the European Central Bank or a Union body in view of completing the tasks referred to in Article 15, as specified in the request in accordance with paragraph 1, point (f), of this Article or to make the data available to a third party where it has delegated, by means of a publicly available agreement, technical inspections or other functions to that third party. The obligations on public sector bodies pursuant to Article 19, in particular safeguards to preserve the confidentiality of trade secrets, shall apply also to such third parties. Where a public sector body, the Commission, the European Central Bank or a Union body transmits or makes data available under this paragraph, it shall notify the data holder from whom the data was received without undue delay.
+5.   Where the data holder considers that its rights under this Chapter have been infringed by the transmission or making available of data, it may lodge a complaint with the competent authority designated pursuant to Article 37 of the Member State where the data holder is established.
+6.   The Commission shall develop a model template for requests pursuant to this Article.

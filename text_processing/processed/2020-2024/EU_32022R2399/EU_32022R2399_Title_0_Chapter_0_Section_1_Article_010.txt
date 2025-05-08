@@ -1,0 +1,18 @@
+Article 10
+Information exchanged and processed through EU CSW-CERTEX and its use
+1.   For each of the Union non-customs formalities listed in the Annex, EU CSW-CERTEX shall enable information to be exchanged between the national single window environments for customs and the relevant Union non-customs systems for the following purposes:
+(a)
+making the relevant data available to customs authorities for them to perform the necessary verification of those formalities in accordance with Regulation (EU) No 952/2013 in an automated manner;
+(b)
+making the relevant data available to partner competent authorities for them to perform quantity management of authorised goods in Union non-customs systems based on the goods declared to customs authorities and released by those authorities;
+(c)
+facilitating and supporting the integration of procedures between customs authorities and partner competent authorities, for the fully automated fulfilment of the formalities required to place the goods under a customs procedure or to re-export them, and the cooperation concerning the coordination of controls in accordance with Article 47(1) of Regulation (EU) No 952/2013, without prejudice to the national implementation of those procedures;
+(d)
+enabling any other automated data transfer between customs authorities and the relevant partner competent authorities required by Union legislation establishing Union non-customs formalities, without prejudice to the national use of that data.
+2.   For each of the Union non-customs formalities listed in the Annex, EU CSW-CERTEX shall provide the following functionalities:
+(a)
+aligning customs and non-customs terminology where possible, and identifying the customs procedure or the re-export for which the supporting document can be used, based on the administrative decision of the partner competent authority indicated in the supporting document; and
+(b)
+transforming, where necessary, the format of the data required to fulfil the relevant Union non-customs formalities into a format of data compatible with the customs declaration or re-export declaration and vice versa without changing the content of the data.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 21 supplementing this Regulation by specifying the data elements to be exchanged through EU CSW-CERTEX in accordance with paragraph 1 of this Article.
+4.   The Commission shall adopt implementing acts, establishing specific rules for the information exchange referred to in paragraphs 1 and 2 of this Article, including, where appropriate, any specific rules to ensure the protection of personal data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(2).

@@ -1,0 +1,10 @@
+Article 14
+Open science
+1.   The Programme shall encourage open science as an approach to the scientific process based on cooperative work and diffusing knowledge, in particular in accordance with the following elements which shall be ensured in accordance with Article 39(3) of this Regulation:
+(a)
+open access to scientific publications resulting from research funded under the Programme;
+(b)
+open access to research data, including those underlying scientific publications, in accordance with the principle 'as open as possible, as closed as necessary'.
+2.   The principle of reciprocity in open science shall be promoted and encouraged in all association and cooperation agreements with third countries, including agreements signed by funding bodies entrusted with the indirect management of the Programme.
+3.   Responsible management of research data shall be ensured in line with the principles 'findability', 'accessibility', 'interoperability' and 'reusability' (the 'FAIR principles'). Attention shall also be paid to the long-term preservation of data.
+4.   Other open science practices shall be promoted and encouraged, including for the benefit of SMEs.

@@ -1,0 +1,29 @@
+Article 57
+Definitions
+For the purposes of this Chapter, the following definitions shall apply:
+(1)
+‘existing installation’ means an installation in operation on 29 March 1999 or which was granted a permit or registered before 1 April 2001 or the operator of which submitted a complete application for a permit before 1 April 2001, provided that that installation was put in operation no later than 1 April 2002;
+(2)
+‘waste gases’ means the final gaseous discharge containing volatile organic compounds or other pollutants from a stack or abatement equipment into air;
+(3)
+‘fugitive emissions’ means any emissions not in waste gases of volatile organic compounds into air, soil and water as well as solvents contained in any products, unless otherwise stated in Part 2 of Annex VII;
+(4)
+‘total emissions’ means the sum of fugitive emissions and emissions in waste gases;
+(5)
+‘mixture’ means mixture as defined in Article 3(2) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) and establishing a European Chemicals Agency (38),
+(6)
+‘adhesive’ means any mixture, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used to adhere separate parts of a product;
+(7)
+‘ink’ means a mixture, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used in a printing activity to impress text or images on to a surface;
+(8)
+‘varnish’ means a transparent coating;
+(9)
+‘consumption’ means the total input of organic solvents into an installation per calendar year, or any other 12-month period, less any volatile organic compounds that are recovered for re-use;
+(10)
+‘input’ means the quantity of organic solvents and their quantity in mixtures used when carrying out an activity, including the solvents recycled inside and outside the installation, and which are counted every time they are used to carry out the activity;
+(11)
+‘re-use’ means the use of organic solvents recovered from an installation for any technical or commercial purpose and including use as a fuel but excluding the final disposal of such recovered organic solvent as waste;
+(12)
+‘contained conditions’ means conditions under which an installation is operated so that the volatile organic compounds released from the activity are collected and discharged in a controlled way either via a stack or abatement equipment and are, therefore, not entirely fugitive;
+(13)
+‘start-up and shut-down operations’ means operations excluding regularly oscillating activity phases whilst bringing an activity, an equipment item or a tank into or out of service or into or out of an idling state.

@@ -1,0 +1,28 @@
+Article 11
+Responsibilities
+1.   The Commission and the Member States shall jointly, and in accordance with the relevant provisions of Union law referred to in the definition in point (2) of Article 2, ensure the development and operation of the European electronic systems, including their design, specification, conformance testing, deployment, maintenance, evolution, modernisation, security, quality assurance and quality control.
+2.   The Commission shall, in particular, ensure the following:
+(a)
+the development and operation of common components;
+(b)
+the overall coordination of the development and operation of European electronic systems with a view to achieving their operability, cyber-resilience, interconnectivity, continuous improvement and synchronised implementation, and, as part of that overall coordination, the facilitation of an efficient and swift communication with and between Member States on matters related to those systems;
+(c)
+the coordination of European electronic systems at Union level with a view to their promotion and implementation at national level;
+(d)
+the coordination of the development and operation of European electronic systems as regards their interactions with third parties, excluding actions designed to meet national requirements;
+(e)
+the coordination of European electronic systems with other relevant actions relating to eGovernment at Union level;
+(f)
+the timely and transparent communication with the stakeholders that are concerned with the implementation of European electronic systems at Union and Member State level, in particular about delays in the implementation of common and national components.
+3.   The Member States shall, in particular, ensure the following:
+(a)
+the development and operation of national components;
+(b)
+the coordination of the development and operation of the national components at national level;
+(c)
+the coordination of European electronic systems with other relevant actions relating to eGovernment at national level;
+(d)
+the regular provision to the Commission of information on the measures taken to enable the customs authorities or economic operators concerned to make full and effective use of the European electronic systems;
+(e)
+the implementation at national level of European electronic systems.
+4.   The Commission shall publish and regularly update, for information purposes, an indicative list of the European electronic systems financed under the Programme.

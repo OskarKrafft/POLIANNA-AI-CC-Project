@@ -1,0 +1,17 @@
+Article 101
+Ongoing review of the permission to use internal approaches
+1.   Competent authorities shall review on a regular basis, and at least every 3 years, institutions' compliance with the requirements regarding approaches that require permission by the competent authorities before using such approaches for the calculation of own funds requirements in accordance with Part Three of Regulation (EU) No 575/2013. They shall have particular regard to changes in an institution's business and to the implementation of those approaches to new products. Where material deficiencies are identified in risk capture by an institution's internal approach, competent authorities shall ensure they are rectified or take appropriate steps to mitigate their consequences, including by imposing higher multiplication factors, or imposing capital add-ons, or taking other appropriate and effective measures.
+2.   The competent authorities shall in particular review and assess whether the institution uses well developed and up-to-date techniques and practices for those approaches.
+3.   If for an internal market risk model numerous overshootings referred to in Article 366 of Regulation (EU) No 575/2013 indicate that the model is not or is no longer sufficiently accurate, the competent authorities shall revoke the permission for using the internal model or impose appropriate measures to ensure that the model is improved promptly.
+4.   If an institution has received permission to apply an approach that requires permission by the competent authorities before using such an approach for the calculation of own funds requirements in accordance with Part Three of Regulation (EU) No 575/2013 but does not meet the requirements for applying that approach anymore, the competent authorities shall require the institution to either demonstrate to the satisfaction of the competent authorities that the effect of non-compliance is immaterial where applicable in accordance with Regulation (EU) No 575/2013 or present a plan for the timely restoration of compliance with the requirements and set a deadline for its implementation. The competent authorities shall require improvements to that plan if it is unlikely to result in full compliance or if the deadline is inappropriate. If the institution is unlikely to be able to restore compliance within an appropriate deadline and, where applicable, has not satisfactorily demonstrated that the effect of non-compliance is immaterial, the permission to use the approach shall be revoked or limited to compliant areas or those where compliance can be achieved within an appropriate deadline.
+5.   In order to promote consistent soundness of internal approaches in the Union, EBA shall analyse internal approaches across institutions, including the consistency of implementation of the definition of default and how those institutions treat similar risks or exposures.
+EBA shall develop guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010, which contain benchmarks on the basis of that analysis.
+Competent authorities shall take into account that analysis and those benchmarks for the review of the permissions they grant to institutions to use internal approaches.
+
+Section IV
+
+
+
+Supervisory measures and powers
+
+

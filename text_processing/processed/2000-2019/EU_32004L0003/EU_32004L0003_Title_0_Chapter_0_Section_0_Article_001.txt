@@ -1,0 +1,8 @@
+Article 1
+Directive 70/156/EEC is hereby amended as follows:
+(a) row 39 of Annex IV, part I, is replaced by the following:
+">TABLE>"
+(b) in the Community certificate of conformity for complete or completed vehicles of categories N1, N2 and N3 in Annex IX, part I, page 2, the following point shall be added:
+"
+>PIC FILE= "L_2004049EN.003701.TIF">"
+

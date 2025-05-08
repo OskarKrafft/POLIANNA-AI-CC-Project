@@ -1,0 +1,80 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions shall apply:
+(1)
+‘inside information’ means information of a precise nature which has not been made public, which relates, directly or indirectly, to one or more wholesale energy products and which, if it were made public, would be likely to significantly affect the prices of those wholesale energy products.
+For the purposes of this definition, ‘information’ means:
+(a)
+information which is required to be made public in accordance with Regulations (EC) No 714/2009 and (EC) No 715/2009, including guidelines and network codes adopted pursuant to those Regulations;
+(b)
+information relating to the capacity and use of facilities for production, storage, consumption or transmission of electricity or natural gas or related to the capacity and use of LNG facilities, including planned or unplanned unavailability of these facilities;
+(c)
+information which is required to be disclosed in accordance with legal or regulatory provisions at Union or national level, market rules, and contracts or customs on the relevant wholesale energy market, in so far as this information is likely to have a significant effect on the prices of wholesale energy products; and
+(d)
+other information that a reasonable market participant would be likely to use as part of the basis of its decision to enter into a transaction relating to, or to issue an order to trade in, a wholesale energy product.
+Information shall be deemed to be of a precise nature if it indicates a set of circumstances which exists or may reasonably be expected to come into existence, or an event which has occurred or may reasonably be expected to do so, and if it is specific enough to enable a conclusion to be drawn as to the possible effect of that set of circumstances or event on the prices of wholesale energy products;
+(2)
+‘market manipulation’ means:
+(a)
+entering into any transaction or issuing any order to trade in wholesale energy products which:
+(i)
+gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+(ii)
+secures or attempts to secure, by a person, or persons acting in collaboration, the price of one or several wholesale energy products at an artificial level, unless the person who entered into the transaction or issued the order to trade establishes that his reasons for doing so are legitimate and that that transaction or order to trade conforms to accepted market practices on the wholesale energy market concerned; or
+(iii)
+employs or attempts to employ a fictitious device or any other form of deception or contrivance which gives, or is likely to give, false or misleading signals regarding the supply of, demand for, or price of wholesale energy products;
+or
+(b)
+disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of wholesale energy products, including the dissemination of rumours and false or misleading news, where the disseminating person knew, or ought to have known, that the information was false or misleading.
+When information is disseminated for the purposes of journalism or artistic expression, such dissemination of information shall be assessed taking into account the rules governing the freedom of the press and freedom of expression in other media, unless:
+(i)
+those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question; or
+(ii)
+the disclosure or dissemination is made with the intention of misleading the market as to the supply of, demand for, or price of wholesale energy products;
+(3)
+‘attempt to manipulate the market’ means:
+(a)
+entering into any transaction, issuing any order to trade or taking any other action relating to a wholesale energy product with the intention of:
+(i)
+giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+(ii)
+securing the price of one or several wholesale energy products at an artificial level, unless the person who entered into the transaction or issued the order to trade establishes that his reasons for doing so are legitimate and that that transaction or order to trade conforms to accepted market practices on the wholesale energy market concerned; or
+(iii)
+employing a fictitious device or any other form of deception or contrivance which gives, or is likely to give, false or misleading signals regarding the supply of, demand for, or price of wholesale energy products;
+or
+(b)
+disseminating information through the media, including the internet, or by any other means with the intention of giving false or misleading signals as to the supply of, demand for, or price of wholesale energy products;
+(4)
+‘wholesale energy products’ means the following contracts and derivatives, irrespective of where and how they are traded:
+(a)
+contracts for the supply of electricity or natural gas where delivery is in the Union;
+(b)
+derivatives relating to electricity or natural gas produced, traded or delivered in the Union;
+(c)
+contracts relating to the transportation of electricity or natural gas in the Union;
+(d)
+derivatives relating to the transportation of electricity or natural gas in the Union.
+Contracts for the supply and distribution of electricity or natural gas for the use of final customers are not wholesale energy products. However, contracts for the supply and distribution of electricity or natural gas to final customers with a consumption capacity greater than the threshold set out in the second paragraph of point (5) shall be treated as wholesale energy products;
+(5)
+‘consumption capacity’ means the consumption of a final customer of either electricity or natural gas at full use of that customer's production capacity. It comprises all consumption by that customer as a single economic entity, in so far as consumption takes place on markets with interrelated wholesale prices.
+For the purposes of this definition, consumption at individual plants under the control of a single economic entity that have a consumption capacity of less than 600 GWh per year shall not be taken into account in so far as those plants do not exert a joint influence on wholesale energy market prices due to their being located in different relevant geographical markets;
+(6)
+‘wholesale energy market’ means any market within the Union on which wholesale energy products are traded;
+(7)
+‘market participant’ means any person, including transmission system operators, who enters into transactions, including the placing of orders to trade, in one or more wholesale energy markets;
+(8)
+‘person’ means any natural or legal person;
+(9)
+‘competent financial authority’ means a competent authority designated in accordance with the procedure laid down in Article 11 of Directive 2003/6/EC;
+(10)
+‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 35(1) of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity (10) or Article 39(1) of Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas (11);
+(11)
+‘transmission system operator’ has the meaning set out in point 4 of Article 2 of Directive 2009/72/EC and in point 4 of Article 2 of Directive 2009/73/EC;
+(12)
+‘parent undertaking’ means a parent undertaking within the meaning of Articles 1 and 2 of the Seventh Council Directive 83/349/EEC of 13 June 1983 based on Article 54(3)(g) of the Treaty on consolidated accounts (12);
+(13)
+‘related undertaking’ means either a subsidiary or other undertaking in which a participation is held, or an undertaking linked with another undertaking by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+(14)
+‘distribution of natural gas’ has the meaning set out in point (5) of Article 2 of Directive 2009/73/EC;
+(15)
+‘distribution of electricity’ has the meaning set out in point (5) of Article 2 of Directive 2009/72/EC.

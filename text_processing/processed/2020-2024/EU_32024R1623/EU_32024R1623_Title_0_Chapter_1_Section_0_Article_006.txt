@@ -1,0 +1,102 @@
+Article 314
+Business indicator
+1.   Institutions shall calculate their business indicator in accordance with the following formula:
+
+BI = ILDC + SC + FC
+
+where:
+BI
+= the business indicator, expressed in billions of euro;
+ILDC
+= the interest, leases and dividend component, expressed in billions of euro and calculated in accordance with paragraph 2;
+SC
+= the services component, expressed in billions of euro and calculated in accordance with paragraph 5;
+FC
+= the financial component, expressed in billions of euro and calculated in accordance with paragraph 6.
+2.   For the purposes of paragraph 1, the interest, leases and dividend component shall be calculated in accordance with the following formula:
+
+
+
+
+
+where:
+ILDC
+= the interest, leases and dividend component;
+IC
+= the interest component, which is the institution’s interest income from all financial assets and other interest income, including finance income from financial leases and income from operating leases and profits from leased assets, minus the institution’s interest expenses from all financial liabilities and other interest expenses, including interest expense from financial and operating leases, depreciation and impairment of, and losses from, operating leased assets, calculated as the annual average of the absolute values of the differences over the last three financial years;
+AC
+= the asset component, which is the sum of the institution’s total gross outstanding loans, advances, interest bearing securities, including government bonds, and lease assets, calculated as the annual average over the last three financial years on the basis of the amounts at the end of each of the respective financial years;
+DC
+= the dividend component, which is the institution’s dividend income from investments in stocks and funds not consolidated in the financial statements of the institution, including dividend income from non-consolidated subsidiaries, associates and joint ventures, calculated as the annual average over the last three financial years.
+3.   By way of derogation from paragraph 2, an EU parent institution may, until 31 December 2027, request permission from its consolidating supervisor to calculate a separate interest, leases and dividend component for any of its specific subsidiary institutions and to add the outcome of that calculation to the interest, leases and dividend component calculated, on a consolidated basis, for the other entities of the group where all of the following conditions are met:
+(a)
+the subsidiaries’ retail or commercial banking activities account for the majority of their activity;
+(b)
+a significant proportion of the subsidiaries’ retail or commercial banking activities comprise loans associated with a high PD;
+(c)
+the use of the derogation provides an appropriate basis for calculating the EU parent institution’s own funds requirement for operational risk.
+Once granted, the permission, and its conditions, shall be reassessed by the consolidating supervisor every two years.
+The consolidating supervisor shall notify EBA as soon as such permission is granted, confirmed or withdrawn.
+By 31 December 2031, EBA shall report to the Commission on the use and appropriateness of the derogation referred to in the first subparagraph having regard, in particular, to the specific business models concerned and to the adequacy of the related own funds requirement for operational risk. On the basis of that report, and taking due account of the related internationally agreed standards developed by the BCBS, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal by 31 December 2032.
+4.   Until 31 December 2027 or until the consolidating supervisor grants permission in accordance with paragraph 3, whichever is earlier, an EU parent institution that has been granted permission to apply the alternative standardised approach to its business lines of retail banking and commercial banking to calculate its own funds requirement for operational risk may, after having informed its consolidating supervisor, continue to use the alternative standardised approach as set out in the version of this Regulation applicable on 8 July 2024 for the purpose of calculating the own funds requirement for operational risk relating to those two business lines and according to the scope of the existing permission.
+5.   For the purposes of paragraph 1, the services component shall be calculated in accordance with the following formula:
+
+SC = max(OI,OE) + max(FI,FE)
+
+where:
+SC
+= the services component;
+OI
+= the other operating income, which is the annual average over the last three financial years of the institution’s income from ordinary banking operations not included in other items of the business indicator but of similar nature;
+OE
+= the other operating expenses, which is the annual average over the last three financial years of the institution’s expenses and losses from ordinary banking operations not included in other items of the business indicator but of similar nature, and from operational risk events;
+FI
+= the fee and commission income component, which is the annual average over the last three financial years of the institution’s income received from providing advice and services, including income received by the institution as an outsourcer of financial services;
+FE
+= the fee and commission expenses component, which is the annual average over the last three financial years of the institution’s expenses paid for receiving advice and services, including outsourcing fees paid by the institution for the supply of financial services, but excluding outsourcing fees paid for the supply of non-financial services.
+Subject to the prior permission of the competent authority, and to the extent that the institutional protection scheme has at its disposal suitable and uniformly stipulated systems for the monitoring and classification of operational risks, institutions that are members of an institutional protection scheme meeting the requirements of Article 113(7) may calculate the services component net of any income received from, or expenses paid to, institutions that are members of the same institutional protection scheme. Any losses resulting from the related operational risks are subject to mutualisation across institutional protection scheme members.
+6.   For the purposes of paragraph 1, the financial component shall be calculated in accordance with the following formula:
+
+FC = TC + BC
+
+where:
+FC
+= the financial component;
+TC
+= the trading book component, which is the annual average of the absolute values over the last three financial years of the net profit or loss, as applicable, on the institution’s trading book, determined as appropriate either in accordance with accounting standards or in accordance with Part Three, Title I, Chapter 3, including from trading assets and trading liabilities, from hedge accounting and from exchange differences;
+BC
+= the banking book component, which is the annual average of the absolute values over the last three financial years of the net profit or loss, as applicable, on the institution’s non-trading book, including from financial assets and liabilities measured at fair value through profit and loss, from hedge accounting, from exchange differences and from realised gains and losses on financial assets and liabilities not measured at fair value through profit and loss.
+7.   Institutions shall not use any of the following elements in the calculation of their business indicator:
+(a)
+income and expenses from insurance or reinsurance business;
+(b)
+premiums paid and payments received from insurance or reinsurance policies purchased;
+(c)
+administrative expenses, including staff expenses, outsourcing fees paid for the supply of non-financial services, and other administrative expenses;
+(d)
+recovery of administrative expenses including recovery of payments on behalf of customers;
+(e)
+expenses of premises and fixed assets, except where those expenses result from operational risk events;
+(f)
+depreciation of tangible assets and amortisation of intangible assets, except the depreciation related to operating lease assets, which shall be included in financial and operating lease expenses;
+(g)
+provisions and reversal of provisions, except where those provisions relate to operational risk events;
+(h)
+expenses due to share capital repayable on demand;
+(i)
+impairment and reversal of impairment;
+(j)
+changes in goodwill recognised in profit or loss;
+(k)
+corporate income tax.
+8.   Where an institution has been in operation for less than three years, it shall use forward-looking business estimates in calculating the relevant components of its business indicator, subject to the satisfaction of its competent authority. The institution shall start using historical data as soon as that data are available.
+9.   EBA shall develop draft regulatory technical standards to specify the following:
+(a)
+the components of the business indicator, and their use, by developing lists of typical sub-items, taking into account international regulatory standards and, where appropriate, the prudential boundary defined in Part Three, Title I, Chapter 3;
+(b)
+the elements listed in paragraph 7 of this Article.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+10.   EBA shall develop draft implementing technical standards to specify the items of the business indicator by mapping those items with the corresponding reporting cells set out in Commission Implementing Regulation (EU) 2021/451 (*14), where appropriate.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2026.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

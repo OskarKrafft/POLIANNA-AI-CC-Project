@@ -1,0 +1,51 @@
+Article 2
+Definitions
+For the purpose of this Directive, the following definitions shall apply:
+1.
+‘building’ means a roofed construction having walls, for which energy is used to condition the indoor climate;
+2.
+‘nearly zero-energy building’ means a building that has a very high energy performance, as determined in accordance with Annex I. The nearly zero or very low amount of energy required should be covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or nearby;
+3.
+‘technical building system’ means technical equipment for the heating, cooling, ventilation, hot water, lighting or for a combination thereof, of a building or building unit;
+4.
+‘energy performance of a building’ means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;
+5.
+‘primary energy’ means energy from renewable and non-renewable sources which has not undergone any conversion or transformation process;
+6.
+‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases;
+7.
+‘building envelope’ means the integrated elements of a building which separate its interior from the outdoor environment;
+8.
+‘building unit’ means a section, floor or apartment within a building which is designed or altered to be used separately;
+9.
+‘building element’ means a technical building system or an element of the building envelope;
+10.
+‘major renovation’ means the renovation of a building where:
+(a)
+the total cost of the renovation relating to the building envelope or the technical building systems is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated; or
+(b)
+more than 25 % of the surface of the building envelope undergoes renovation;
+Member States may choose to apply option (a) or (b).
+11.
+‘European standard’ means a standard adopted by the European Committee for Standardisation, the European Committee for Electrotechnical Standardisation or the European Telecommunications Standards Institute and made available for public use;
+12.
+‘energy performance certificate’ means a certificate recognised by a Member State or by a legal person designated by it, which indicates the energy performance of a building or building unit, calculated according to a methodology adopted in accordance with Article 3;
+13.
+‘cogeneration’ means simultaneous generation in one process of thermal energy and electrical and/or mechanical energy;
+14.
+‘cost-optimal level’ means the energy performance level which leads to the lowest cost during the estimated economic lifecycle, where:
+(a)
+the lowest cost is determined taking into account energy-related investment costs, maintenance and operating costs (including energy costs and savings, the category of building concerned, earnings from energy produced), where applicable, and disposal costs, where applicable; and
+(b)
+the estimated economic lifecycle is determined by each Member State. It refers to the remaining estimated economic lifecycle of a building where energy performance requirements are set for the building as a whole, or to the estimated economic lifecycle of a building element where energy performance requirements are set for building elements.
+The cost-optimal level shall lie within the range of performance levels where the cost benefit analysis calculated over the estimated economic lifecycle is positive;
+15.
+‘air-conditioning system’ means a combination of the components required to provide a form of indoor air treatment, by which temperature is controlled or can be lowered;
+16.
+‘boiler’ means the combined boiler body-burner unit, designed to transmit to fluids the heat released from burning;
+17.
+‘effective rated output’ means the maximum calorific output, expressed in kW, specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;
+18.
+‘heat pump’ means a machine, a device or installation that transfers heat from natural surroundings such as air, water or ground to buildings or industrial applications by reversing the natural flow of heat such that it flows from a lower to a higher temperature. For reversible heat pumps, it may also move heat from the building to the natural surroundings;
+19.
+‘district heating’ or ‘district cooling’ means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling.

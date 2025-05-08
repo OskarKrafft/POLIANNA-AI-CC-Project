@@ -1,0 +1,12 @@
+Article 14
+Non-compliance of interoperability constituents with essential requirements
+1.   Where a Member State finds that an interoperability constituent covered by the ‘EC’ declaration of conformity or suitability for use and placed on the market is unlikely, when used as intended, to meet the essential requirements, it shall take all necessary steps to restrict its field of application, prohibit its use or withdraw it from the market. The Member State shall forthwith inform the Commission of the measures taken and give the reasons for its decision, stating in particular whether failure to conform is due to:
+(a)
+failure to meet the essential requirements;
+(b)
+incorrect application of European specifications where application of such specifications is relied upon;
+(c)
+inadequacy of European specifications.
+2.   The Commission shall consult the parties concerned as quickly as possible. Where, following that consultation, the Commission establishes that the measure is justified it shall forthwith inform the Member State that has taken the initiative as well as the other Member States thereof. Where, after that consultation, the Commission establishes that the measure is unjustified it shall forthwith inform the Member State that has taken the initiative and the manufacturer or his authorised representative established within the Community thereof. Where the decision referred to in paragraph 1 is justified by the existence of a gap in European specifications, the procedure set out in Article 12 shall apply.
+3.   Where an interoperability constituent bearing the ‘EC’ declaration of conformity fails to comply, the competent Member State shall take appropriate measures against whomsoever has drawn up the declaration and shall inform the Commission and the other Member States thereof.
+4.   The Commission shall ensure that the Member States are kept informed of the course and results of that procedure.

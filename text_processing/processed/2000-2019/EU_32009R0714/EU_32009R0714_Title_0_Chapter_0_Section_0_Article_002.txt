@@ -1,0 +1,22 @@
+Article 2
+Definitions
+1.   For the purpose of this Regulation, the definitions contained in Article 2 of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity (8) apply, with the exception of the definition of ‘interconnector’ which shall be replaced by the following:
+—
+
+                        ‘interconnector’ means a transmission line which crosses or spans a border between Member States and which connects the national transmission systems of the Member States.
+2.   The following definitions shall apply:
+(a)
+‘regulatory authorities’ means the regulatory authorities referred to in Article 35(1) of Directive 2009/72/EC;
+(b)
+‘cross-border flow’ means a physical flow of electricity on a transmission network of a Member State that results from the impact of the activity of producers and/or consumers outside that Member State on its transmission network;
+(c)
+‘congestion’ means a situation in which an interconnection linking national transmission networks cannot accommodate all physical flows resulting from international trade requested by market participants, because of a lack of capacity of the interconnectors and/or the national transmission systems concerned;
+(d)
+‘declared export’ means the dispatch of electricity in one Member State on the basis of an underlying contractual arrangement to the effect that the simultaneous corresponding take-up (declared import) of electricity will take place in another Member State or a third country;
+(e)
+‘declared transit’ means a circumstance where a declared export of electricity occurs and where the nominated path for the transaction involves a country in which neither the dispatch nor the simultaneous corresponding take-up of the electricity will take place;
+(f)
+‘declared import’ means the take-up of electricity in a Member State or a third country simultaneously with the dispatch of electricity (declared export) in another Member State;
+(g)
+‘new interconnector’ means an interconnector not completed by 4 August 2003.
+For the purpose of the inter-transmission system operator compensation mechanism referred to in Article 13 only, where transmission networks of two or more Member States form part, in whole or in part, of a single control block, the control block as a whole shall be considered as forming part of the transmission network of one of the Member States concerned, in order to avoid flows within control blocks being considered as cross-border flows under point (b) of the first subparagraph of this paragraph and giving rise to compensation payments under Article 13. The regulatory authorities of the Member States concerned may decide which of the Member States concerned shall be that of which the control block as a whole is to be considered to form part.

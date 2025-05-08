@@ -1,0 +1,14 @@
+Article 143
+Permission to use the IRB Approach
+1.   Where the conditions set out in this Chapter are met, the competent authority shall permit institutions to calculate their risk-weighted exposure amounts using the Internal Ratings Based Approach (hereinafter referred to as ‧IRB Approach‧).
+2.   Prior permission to the use the IRB Approach, including own estimates of LGD and conversion factors, shall be required for each exposure class and for each rating system and internal model approaches to equity exposures and for each approach to estimating LGDs and conversion factors used.
+3.   Institutions shall obtain the prior permission of the competent authorities for the following:
+(a)
+material changes to the range of application of a rating system or an internal models approach to equity exposures that the institution has received permission to use;
+(b)
+material changes to a rating system or an internal models approach to equity exposures that the institution has received permission to use.
+The range of application of a rating system shall comprise all exposures of the relevant type of exposure for which that rating system was developed.
+4.   Institutions shall notify the competent authorities of all changes to rating systems and internal models approaches to equity exposures.
+5.   EBA shall develop draft regulatory technical standards to specify the conditions for assessing the materiality of the use of an existing rating system for other additional exposures not already covered by that rating system and changes to rating systems or internal models approaches to equity exposures under the IRB Approach.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2013.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

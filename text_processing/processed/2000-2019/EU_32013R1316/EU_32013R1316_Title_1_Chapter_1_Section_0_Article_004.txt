@@ -1,0 +1,79 @@
+Article 4
+Specific sectoral objectives
+1.   Without prejudice to the general objectives set out in Article 3, the CEF shall contribute to the achievement of the specific sectoral objectives referred to in paragraphs 2, 3 and 4 of this Article.
+2.   In the transport sector, the CEF shall support projects of common interest, as identified in Article 7(2) of Regulation (EU) No 1315/2013, that pursue the objectives set out below, as further specified under Article 4 of that Regulation:
+(a)
+removing bottlenecks, enhancing rail interoperability, bridging missing links and, in particular, improving cross-border sections. The achievement of this objective shall be measured by:
+(i)
+the number of new or improved cross-border connections;
+(ii)
+the number of kilometres of railway line adapted to the European nominal gauge standard and fitted with ERTMS;
+(iii)
+the number of removed bottlenecks and sections of increased capacity on transport routes for all modes which have received funding from the CEF;
+(iv)
+the length of the inland waterway network by class in the Union; and
+(v)
+the length of the railway network in the Union upgraded following the requirements set out in Article 39(2) of Regulation (EU) No 1315/2013;
+(b)
+ensuring sustainable and efficient transport systems in the long run, with a view to preparing for expected future transport flows, as well as enabling all modes of transport to be decarbonised through transition to innovative low-carbon and energy-efficient transport technologies, while optimising safety. The achievement of this objective shall be measured by:
+(i)
+the number of supply points for alternative fuels for vehicles using the TEN-T core network for road transport in the Union;
+(ii)
+the number of inland and maritime ports of the TEN-T core network equipped with supply points for alternative fuels in the Union; and
+(iii)
+the reduction in casualties on the road network in the Union;
+(c)
+optimising the integration and interconnection of transport modes and enhancing the interoperability of transport services, while ensuring the accessibility of transport infrastructures. The achievement of this objective shall be measured by:
+(i)
+the number of multimodal logistic platforms, including inland and maritime ports and airports, connected to the railway network;
+(ii)
+the number of improved rail-road terminals, and the number of improved or new connections between ports through motorways of the sea;
+(iii)
+the number of kilometres of inland waterways fitted with RIS; and
+(iv)
+the level of deployment of the SESAR system, VTMIS and ITS for the road sector.
+The indicators referred to in this paragraph shall not apply to Member States which do not have a rail network or an inland waterway network, as appropriate.
+Those indicators shall not constitute selection or eligibility criteria for actions for support from the CEF.
+Indicative percentages reflecting the proportion of the overall budgetary resources referred to in point (a) of Article 5(1) to be allocated to each of the three transport-specific objectives are set out in Part IV of Annex I to this Regulation. The Commission shall not deviate from those indicative percentages by more than 5 percentage points;
+3.   In the energy sector, the CEF shall support projects of common interest that pursue one or more of the following objectives:
+(a)
+increasing competitiveness by promoting the further integration of the internal energy market and the interoperability of electricity and gas networks across borders. The achievement of this objective shall be measured ex post by:
+(i)
+the number of projects effectively interconnecting Member States' networks and removing internal constraints;
+(ii)
+the reduction or elimination of Member States' energy isolation;
+(iii)
+the percentage of electricity cross-border transmission power in relation to installed electricity generation capacity in the relevant Member States;
+(iv)
+price convergence in the gas and/or electricity markets of the Member States concerned; and
+(v)
+the percentage of the highest peak demand of the two Member States concerned covered by reversible flow interconnections for gas;
+(b)
+enhancing Union security of energy supply;
+The achievement of this objective shall be measured ex post by:
+(i)
+the number of projects allowing diversification of supply sources, supplying counterparts and routes;
+(ii)
+the number of projects increasing storage capacity;
+(iii)
+system resilience, taking into account the number of supply disruptions and their duration;
+(iv)
+the amount of avoided curtailment of renewable energy;
+(v)
+the connection of isolated markets to more diversified supply sources;
+(vi)
+the optimal use of energy infrastructure assets;
+(c)
+contributing to sustainable development and protection of the environment, inter alia by the integration of energy from renewable sources into the transmission network, and by the development of smart energy networks and carbon dioxide networks.
+The achievement of this objective shall be measured ex post by:
+(i)
+the amount of renewable electricity transmitted from generation to major consumption centres and storage sites;
+(ii)
+the amount of avoided curtailment of renewable energy;
+(iii)
+the number of deployed smart grid projects which benefited from the CEF and the demand response enabled by them;
+(iv)
+the amount of CO2 emissions prevented by the projects which benefited from the CEF.
+The indicators referred to in this paragraph, used for the ex post measurement of the achievement of the objectives, shall not constitute selection or eligibility criteria for actions of support from the CEF.
+The conditions of eligibility for Union financial assistance for projects of common interest are set out in Article 14 of Regulation (EU) No 347/2013, whilst the selection criteria for projects of common interest are set out in Article 4 of that Regulation.
+4.   In the telecommunications sector, the CEF shall support actions that pursue the objectives specified in a Regulation on guidelines for trans-European networks in the area of telecommunications infrastructure.

@@ -1,0 +1,46 @@
+Article 14
+Report and review
+1.   By 24 March 2026, ESMA shall present a report to the Commission on:
+(a)
+the functioning of DLT market infrastructures throughout the Union;
+(b)
+the number of DLT market infrastructures;
+(c)
+the types of exemption requested by DLT market infrastructures and the types of exemption granted;
+(d)
+the number and value of DLT financial instruments that are admitted to trading and that are recorded on DLT market infrastructures;
+(e)
+the number and value of transactions traded or settled on DLT market infrastructures;
+(f)
+the types of distributed ledger technology used and technical issues related to the use of distributed ledger technology, including the matters listed in Article 11(1), second subparagraph, point (b), and on the impact of the use of distributed ledger technology on the climate policy objectives of the Union;
+(g)
+the procedures put in place by operators of DLT SSs or DLT TSSs in accordance with Article 5(3), point (b);
+(h)
+any risks, vulnerabilities or inefficiencies posed by the use of distributed ledger technology to investor protection, market integrity or financial stability, including any novel types of legal, systemic and operational risks, which are not sufficiently addressed by Union financial services legislation, and any other unintended effects on liquidity, volatility, investor protection, market integrity or financial stability;
+(i)
+any risks of regulatory arbitrage or issues affecting the level playing field between DLT market infrastructures under the pilot regime provided for in this Regulation and between DLT market infrastructures and other market infrastructures using legacy systems;
+(j)
+any issues relating to interoperability between DLT market infrastructures and other infrastructures using legacy systems;
+(k)
+any benefits and costs resulting from the use of a distributed ledger technology in terms of additional liquidity and financing for start-ups and small- and medium-sized enterprises, safety and efficiency improvements, energy consumption and risk mitigation throughout the entire trading and post-trading chain, including with regard to the recording and safekeeping of DLT financial instruments, the traceability of transactions and enhanced compliance with know-your-customer and anti-money laundering processes, corporate actions and direct exercise of investor rights by means of smart contracts, and reporting and supervisory functions at the level of the DLT market infrastructure;
+(l)
+any refusals to grant specific permissions or exemptions, any modifications or withdrawals of such specific permissions or exemptions as well as any compensatory or corrective measures;
+(m)
+any cessation of business by a DLT market infrastructure and the reasons for that cessation of business;
+(n)
+the appropriateness of the thresholds referred to in Article 3 and Article 5(8), including the potential implications resulting from an increase of those thresholds, taking into account, in particular, systemic considerations and different types of distributed ledger technology; and
+(o)
+an overall assessment of the costs and benefits of the pilot regime provided for in this Regulation and a recommendation whether, and under which conditions, to continue this pilot regime.
+2.   On the basis of the report referred to in paragraph 1, within three months of receipt of that report, the Commission shall present a report to the European Parliament and to the Council. That report shall include a cost-benefit analysis on whether the pilot regime provided for in this Regulation should be:
+(a)
+extended for a further period of up to three years;
+(b)
+extended to other types of financial instrument that can be issued, recorded, transferred or stored using a distributed ledger technology;
+(c)
+amended;
+(d)
+made permanent through appropriate amendments of the relevant Union financial services legislation; or
+(e)
+terminated, including all specific permissions granted under this Regulation.
+In its report, the Commission may propose any appropriate amendment to Union financial services legislation or any harmonisation of national laws that would facilitate the use of distributed ledger technology in the financial sector, as well as any measures needed for the transition of DLT market infrastructures away from the pilot regime provided for in this Regulation.
+In the event that this pilot regime is extended for a further period as provided for in the first subparagraph, point (a), of this paragraph, the Commission shall ask ESMA to submit an additional report in accordance with paragraph 1 no later than three months before the end of the extension period. Upon receipt of that report, the Commission shall submit to the European Parliament and the Council an additional report in accordance with this paragraph.

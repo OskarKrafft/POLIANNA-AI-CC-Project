@@ -1,0 +1,58 @@
+Article 45
+Management of radio spectrum
+1.   Taking due account of the fact that radio spectrum is a public good that has an important social, cultural and economic value, Member States shall ensure the effective management of radio spectrum for electronic communications networks and services in their territory in accordance with Articles 3 and 4. They shall ensure that the allocation of, the issuing of general authorisations in respect of, and the granting of individual rights of use for radio spectrum for electronic communications networks and services by competent authorities are based on objective, transparent, pro-competitive, non-discriminatory and proportionate criteria.
+In applying this Article, Member States shall respect relevant international agreements, including the ITU Radio Regulations and other agreements adopted in the framework of the ITU applicable to radio spectrum, such as the agreement reached at the Regional Radiocommunications Conference of 2006, and may take public policy considerations into account.
+2.   Member States shall promote the harmonisation of use of radio spectrum by electronic communications networks and services across the Union, consistent with the need to ensure effective and efficient use thereof and in pursuit of benefits for the consumer such as competition, economies of scale and interoperability of networks and services. In so doing, they shall act in accordance with Article 4 of this Directive and with Decision No 676/2002/EC, inter alia, by:
+(a)
+pursuing wireless broadband coverage of their national territory and population at high quality and speed, as well as coverage of major national and European transport paths, including trans-European transport network as referred to in Regulation (EU) No 1315/2013 of the European Parliament and of the Council (46);
+(b)
+facilitating the rapid development in the Union of new wireless communications technologies and applications, including, where appropriate, in a cross-sectoral approach;
+(c)
+ensuring predictability and consistency in the granting, renewal, amendment, restriction and withdrawal of rights of use for radio spectrum in order to promote long-term investments;
+(d)
+ensuring the prevention of cross-border or national harmful interference in accordance with Articles 28 and 46 respectively, and taking appropriate pre-emptive and remedial measures to that end;
+(e)
+promoting the shared use of radio spectrum between similar or different uses of radio spectrum in accordance with competition law;
+(f)
+applying the most appropriate and least onerous authorisation system possible in accordance with Article 46 in such a way as to maximise flexibility, sharing and efficiency in the use of radio spectrum;
+(g)
+applying rules for the granting, transfer, renewal, modification and withdrawal of rights of use for radio spectrum that are clearly and transparently laid down in order to guarantee regulatory certainty, consistency and predictability;
+(h)
+pursuing consistency and predictability throughout the Union regarding the way the use of radio spectrum is authorised in protecting public health taking into account Recommendation 1999/519/EC.
+For the purpose of the first subparagraph, and in the context of the development of technical implementing measures for a radio spectrum band under Decision No 676/2002/EC, the Commission may request the RSPG to issue an opinion recommending the most appropriate authorisation regimes for the use of radio spectrum in that band or parts thereof. Where appropriate and taking utmost account of such opinion, the Commission may adopt a recommendation with a view to promoting a consistent approach in the Union with regard to the authorisation regimes for the use of that band.
+Where the Commission is considering the adoption of measures in accordance with Article 39(1), (4), (5) and (6), it may request the opinion of the RSPG with regard to the implications of any such standard or specification for the coordination, harmonisation and availability of radio spectrum. The Commission shall take utmost account of the RSPG’s opinion in taking any subsequent steps.
+3.   In the case of a national or regional lack of market demand for the use of a band in the harmonised radio spectrum, Member States may allow an alternative use of all or part of that band, including the existing use, in accordance with paragraphs 4 and 5 of this Article, provided that:
+(a)
+the finding of a lack of market demand for the use of such a band is based on a public consultation in accordance with Article 23, including a forward-looking assessment of market demand;
+(b)
+such alternative use does not prevent or hinder the availability or the use of such a band in other Member States; and
+(c)
+the Member State concerned takes due account of the long-term availability or use of such a band in the Union and the economies of scale for equipment resulting from using the harmonised radio spectrum in the Union.
+Any decision to allow alternative use on an exceptional basis shall be subject to a regular review and shall in any event be reviewed promptly upon a duly justified request by a prospective user to the competent authority for use of the band in accordance with the technical implementing measure. The Member State shall inform the Commission and the other Member States of the decision taken, together with the reasons therefor, as well as of the outcome of any review.
+4.   Without prejudice to the second subparagraph, Member States shall ensure that all types of technology used for the provision of electronic communications networks or services may be used in the radio spectrum declared available for electronic communications services in their National Frequency Allocation Plan in accordance with Union law.
+Member States may, however, provide for proportionate and non-discriminatory restrictions to the types of radio network or wireless access technology used for electronic communications services where this is necessary to:
+(a)
+avoid harmful interference;
+(b)
+protect public health against electromagnetic fields, taking utmost account of Recommendation 1999/519/EC;
+(c)
+ensure technical quality of service;
+(d)
+ensure maximisation of radio spectrum sharing;
+(e)
+safeguard efficient use of radio spectrum; or
+(f)
+ensure the fulfilment of a general interest objective in accordance with paragraph 5.
+5.   Without prejudice to the second subparagraph, Member States shall ensure that all types of electronic communications services may be provided in the radio spectrum declared available for electronic communications services in their National Frequency Allocation Plan in accordance with Union law. Member States may, however, provide for proportionate and non-discriminatory restrictions to the types of electronic communications services to be provided, including, where necessary, to fulfil a requirement under the ITU Radio Regulations.
+Measures that require an electronic communications service to be provided in a specific band available for electronic communications services shall be justified in order to ensure the fulfilment of a general interest objective as laid down by the Member States in accordance with Union law, including, but not limited to:
+(a)
+safety of life;
+(b)
+the promotion of social, regional or territorial cohesion;
+(c)
+the avoidance of inefficient use of radio spectrum; or
+(d)
+the promotion of cultural and linguistic diversity and media pluralism, for example the provision of radio and television broadcasting services.
+A measure which prohibits the provision of any other electronic communications service in a specific band may be provided for only where justified by the need to protect the safety of life services. Member States may, on an exceptional basis, also extend such a measure in order to fulfil other general interest objectives as laid down by the Member States in accordance with Union law.
+6.   Member States shall regularly review the necessity of the restrictions referred to in paragraphs 4 and 5, and shall make the results of those reviews public.
+7.   Restrictions established prior to 25 May 2011 shall comply with paragraphs 4 and 5 by 20 December 2018.

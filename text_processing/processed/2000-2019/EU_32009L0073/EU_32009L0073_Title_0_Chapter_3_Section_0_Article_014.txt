@@ -1,0 +1,26 @@
+Article 14
+Independent system operators
+1.   Where the transmission system belongs to a vertically integrated undertaking on 3 September 2009, Member States may decide not to apply Article 9(1) and designate an independent system operator upon a proposal from the transmission system owner. Such designation shall be subject to approval by the Commission.
+2.   The Member State may approve and designate an independent system operator only where:
+(a)
+the candidate operator has demonstrated that it complies with the requirements of Article 9(1)(b), (c) and (d);
+(b)
+the candidate operator has demonstrated that it has at its disposal the required financial, technical, physical and human resources to carry out its tasks under Article 13;
+(c)
+the candidate operator has undertaken to comply with a ten-year network development plan monitored by the regulatory authority;
+(d)
+the transmission system owner has demonstrated its ability to comply with its obligations under paragraph 5. To that end, it shall provide all the draft contractual arrangements with the candidate undertaking and any other relevant entity; and
+(e)
+the candidate operator has demonstrated its ability to comply with its obligations under Regulation (EC) No 715/2009 including the cooperation of transmission system operators at European and regional level.
+3.   Undertakings which have been certified by the regulatory authority as having complied with the requirements of Article 11 and of paragraph 2 of this Article shall be approved and designated as independent system operators by Member States. The certification procedure in either Article 10 of this Directive and Article 3 of Regulation (EC) No 715/2009 or in Article 11 of this Directive shall be applicable.
+4.   Each independent system operator shall be responsible for granting and managing third-party access, including the collection of access charges and congestion charges, for operating, maintaining and developing the transmission system, as well as for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of the new infrastructure. For this purpose, the independent system operator shall act as a transmission system operator in accordance with this Chapter. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.
+5.   Where an independent system operator has been designated, the transmission system owner shall:
+(a)
+provide all the relevant cooperation and support to the independent system operator for the fulfilment of its tasks, including in particular all relevant information;
+(b)
+finance the investments decided by the independent system operator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator. The relevant financing arrangements shall be subject to approval by the regulatory authority. Prior to such approval, the regulatory authority shall consult the transmission system owner together with other interested parties;
+(c)
+provide for the coverage of liability relating to the network assets, excluding the liability relating to the tasks of the independent system operator; and
+(d)
+provide guarantees to facilitate financing any network expansions with the exception of those investments where, pursuant to point (b), it has given its agreement to financing by any interested party including the independent system operator.
+6.   In close cooperation with the regulatory authority, the relevant national competition authority shall be granted all relevant powers to effectively monitor compliance of the transmission system owner with its obligations under paragraph 5.

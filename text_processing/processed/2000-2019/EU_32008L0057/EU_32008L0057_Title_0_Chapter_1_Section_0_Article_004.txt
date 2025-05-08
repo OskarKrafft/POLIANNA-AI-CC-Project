@@ -1,0 +1,4 @@
+Article 4
+Essential requirements
+1.   The rail system, subsystems and interoperability constituents including interfaces shall meet the relevant essential requirements.
+2.   The further technical specifications referred to in Article 34 of Directive 2004/17/EC which are necessary to complete European specifications or other standards in use within the Community must not conflict with the essential requirements.

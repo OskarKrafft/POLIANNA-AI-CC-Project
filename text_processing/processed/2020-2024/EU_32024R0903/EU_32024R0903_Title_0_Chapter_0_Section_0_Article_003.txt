@@ -1,0 +1,16 @@
+Article 3
+Interoperability assessment
+1.   Before taking a decision on new or substantially modified binding requirements, a Union entity or a public sector body shall carry out an interoperability assessment.
+Where, in relation to binding requirements, an interoperability assessment has already been carried out or where binding requirements are implemented by solutions provided by Union entities, the public sector body concerned shall not be required to carry out a further interoperability assessment in relation to those requirements. A single interoperability assessment may be carried out to address a set of binding requirements.
+The Union entity or public sector body concerned may also carry out the interoperability assessment in other cases.
+2.   An interoperability assessment shall, in an appropriate manner, identify and assess the following:
+(a)
+the effects of the binding requirements on cross-border interoperability, using the European Interoperability Framework referred to in Article 6as a support tool;
+(b)
+the stakeholders to which the binding requirements are relevant;
+(c)
+the Interoperable Europe solutions referred to in Article 7 that support the implementation of the binding requirements.
+The Union entity or public sector body concerned shall publish, in a machine-readable format facilitating automated translation, a report presenting the outcome of the interoperability assessment, including the items listed in the Annex, on an official website. It shall share that report electronically with the Interoperable Europe Board established pursuant to Article 15 (the ‘Board’). The requirements laid down in this paragraph shall not restrict existing Member States’ rules on access to documents. The publication of that report shall not compromise intellectual property rights or trade secrets, public order or security.
+3.   Union entities and public sector bodies may decide which body is to provide the necessary support to carry out the interoperability assessment. The Commission shall provide technical tools to support the interoperability assessment, including an online tool to facilitate the completion of the report and its publication on the Interoperable Europe portal referred to in Article 8.
+4.   The Union entity or public sector body concerned shall consult recipients of the services directly affected, including citizens, or their representatives. That consultation shall be without prejudice to the protection of commercial or public interests or the security of such services.
+5.   By 12 January 2025, the Board shall adopt the guidelines referred to in Article 15(5), point (a).

@@ -1,0 +1,17 @@
+Article 186
+Own funds requirement and risk quantification
+For the purpose of calculating own funds requirements institutions shall meet the following standards:
+(a)
+the estimate of potential loss shall be robust to adverse market movements relevant to the long-term risk profile of the institution's specific holdings. The data used to represent return distributions shall reflect the longest sample period for which data is available and meaningful in representing the risk profile of the institution's specific equity exposures. The data used shall be sufficient to provide conservative, statistically reliable and robust loss estimates that are not based purely on subjective or judgmental considerations. The shock employed shall provide a conservative estimate of potential losses over a relevant long-term market or business cycle. The institution shall combine empirical analysis of available data with adjustments based on a variety of factors in order to attain model outputs that achieve appropriate realism and conservatism. In constructing Value at Risk (VaR) models estimating potential quarterly losses, institutions may use quarterly data or convert shorter horizon period data to a quarterly equivalent using an analytically appropriate method supported by empirical evidence and through a well-developed and documented thought process and analysis. Such an approach shall be applied conservatively and consistently over time. Where only limited relevant data is available the institution shall add appropriate margins of conservatism;
+(b)
+the models used shall capture adequately all of the material risks embodied in equity returns including both the general market risk and specific risk exposure of the institution's equity portfolio. The internal models shall adequately explain historical price variation, capture both the magnitude and changes in the composition of potential concentrations, and be robust to adverse market environments. The population of risk exposures represented in the data used for estimation shall be closely matched to or at least comparable with those of the institution's equity exposures;
+(c)
+the internal model shall be appropriate for the risk profile and complexity of an institution's equity portfolio. Where an institution has material holdings with values that are highly non-linear in nature the internal models shall be designed to capture appropriately the risks associated with such instruments;
+(d)
+mapping of individual positions to proxies, market indices, and risk factors shall be plausible, intuitive, and conceptually sound;
+(e)
+institutions shall demonstrate through empirical analyses the appropriateness of risk factors, including their ability to cover both general and specific risk;
+(f)
+the estimates of the return volatility of equity exposures shall incorporate relevant and available data, information, and methods. Independently reviewed internal data or data from external sources including pooled data shall be used;
+(g)
+a rigorous and comprehensive stress-testing programme shall be in place.

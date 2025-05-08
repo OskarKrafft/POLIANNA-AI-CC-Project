@@ -1,0 +1,6 @@
+Article 25
+Reliability standard
+1.   When applying capacity mechanisms Member States shall have a reliability standard in place. A reliability standard shall indicate the necessary level of security of supply of the Member State in a transparent manner. In the case of cross-border bidding zones, such reliability standards shall be established jointly by the relevant authorities.
+2.   The reliability standard shall be set by the Member State or by a competent authority designated by the Member State, following a proposal by the regulatory authority. The reliability standard shall be based on the methodology set out in Article 23(6).
+3.   The reliability standard shall be calculated using at least the value of lost load and the cost of new entry over a given timeframe and shall be expressed as ‘expected energy not served’ and ‘loss of load expectation’.
+4.   When applying capacity mechanisms, the parameters determining the amount of capacity procured in the capacity mechanism shall be approved by the Member State or by a competent authority designated by the Member State, on the basis of a proposal of the regulatory authority.

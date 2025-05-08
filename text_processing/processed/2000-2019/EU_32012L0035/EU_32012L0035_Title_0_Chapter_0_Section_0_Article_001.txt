@@ -1,0 +1,320 @@
+Article 1
+Amendments to Directive 2008/106/EC
+Directive 2008/106/EC is amended as follows:
+(1)
+Article 1 is amended as follows:
+(a)
+points (18) and (19) are replaced by the following:
+‘(18)
+“Radio Regulations” means the radio regulations annexed to, or regarded as being annexed to, the International Telecommunication Convention, as amended;
+(19)
+“passenger ship” means a ship as defined in the International Convention for the Safety of Life at Sea, 1974 (SOLAS 74), as amended;’;
+(b)
+point (24) is replaced by the following:
+‘(24)
+“STCW Code” means the Seafarers’ Training, Certification and Watchkeeping (STCW) Code as adopted by the 1995 Conference resolution 2, in its up-to-date version;’;
+(c)
+point (27) is deleted;
+(d)
+point (28) is replaced by the following:
+‘(28)
+“seagoing service” means service on board a ship relevant to the issue or revalidation of a certificate of competency, certificate of proficiency or other qualification;’;
+(e)
+the following points are added:
+‘(32)
+“GMDSS radio operator” means a person qualified in accordance with Chapter IV of Annex I;
+(33)
+“ISPS Code” means the International Ship and Port Facility Security Code adopted on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the SOLAS 74, in its up-to-date version;
+(34)
+“ship security officer” means the person on board a ship, accountable to the master, designated by the company as responsible for the security of the ship including implementation and maintenance of the ship security plan and liaison with the company security officer and port facility security officers;
+(35)
+“security duties” include all security tasks and duties on board ships as defined by Chapter XI/2 of the SOLAS 74, as amended, and by the ISPS Code;
+(36)
+“certificate of competency” means a certificate issued and endorsed for masters, officers and GMDSS radio operators in accordance with Chapters II, III, IV or VII of Annex I, and entitling the lawful holder thereof to serve in the capacity and perform the functions involved at the level of responsibility specified therein;
+(37)
+“certificate of proficiency” means a certificate, other than a certificate of competency, issued to a seafarer stating that the relevant requirements of training, competencies or sea-going service in this Directive have been met;
+(38)
+“documentary evidence” means documentation, other than a certificate of competency or certificate of proficiency, used to establish that the relevant requirements in this Directive have been met;
+(39)
+“electro-technical officer” means an officer qualified in accordance with Chapter III of Annex I;
+(40)
+“able seafarer deck” means a rating qualified in accordance with Chapter II of Annex I;
+(41)
+“able seafarer engine” means a rating qualified in accordance with Chapter III of Annex I;
+(42)
+“electro-technical rating” means a rating qualified in accordance with Chapter III of Annex I.’;
+(2)
+in Article 3, paragraph 1 is replaced by the following:
+‘1.   Member States shall take the measures necessary to ensure that seafarers serving on ships as referred to in Article 2 are trained as a minimum in accordance with the requirements of the STCW Convention, as laid down in Annex I to this Directive, and hold certificates as defined in points (36) and (37) of Article 1, and/or documentary evidence as defined in point (38) of Article 1.’;
+(3)
+Article 4 is deleted;
+(4)
+Article 5 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Certificates of competency, certificates of proficiency and endorsements’;
+(b)
+paragraph 1 is replaced by the following:
+‘1.   Member States shall ensure that certificates of competency and certificates of proficiency are issued only to candidates who comply with the requirements of this Article.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Certificates of competency and certificates of proficiency shall be issued in accordance with Regulation I/2, paragraph 3 of the Annex to the STCW Convention.’;
+(d)
+the following paragraph is inserted:
+‘3a.   Certificates of competency shall be issued only by the Member States, following verification of the authenticity and validity of any necessary documentary evidence and in accordance with the provisions laid down in this Article.’;
+(e)
+at the end of paragraph 5, the following sentence is added:
+‘Endorsements attesting the issue of a certificate of competency and endorsements attesting a certificate of proficiency issued to masters and officers in accordance with the Regulations V/1-1 and V/1-2 of Annex I shall be issued only if all the requirements of the STCW Convention and this Directive have been complied with.’;
+(f)
+paragraphs 6 and 7 are replaced by the following:
+‘6   A Member State which recognises a certificate of competency, or a certificate of proficiency, issued to masters and officers in accordance with Regulations V/1-1 and V/1-2 of the Annex to the STCW Convention under the procedure laid down in Article 19(2) of this Directive shall endorse that certificate to attest its recognition only after ensuring the authenticity and validity of the certificate. The form of the endorsement used shall be that set out in paragraph 3 of Section A-I/2 of the STCW Code.
+7.   The endorsements referred to in paragraphs 5 and 6:
+(a)
+may be issued as separate documents;
+(b)
+shall be issued by Member States only;
+(c)
+shall each be assigned a unique number, except for endorsements attesting the issue of a certificate of competency, which may be assigned the same number as the certificate of competency concerned, provided that that number is unique; and
+(d)
+shall each expire as soon as the endorsed certificate of competency or certificate of proficiency issued to masters and officers in accordance with Regulations V/1-1 and V/1-2 of the Annex to the STCW Convention expires or is withdrawn, suspended or cancelled by the Member State or third country which issued it and, in any case, within five years of their date of issue.’;
+(g)
+the following paragraphs are added:
+‘11.   Candidates for certification shall provide satisfactory proof:
+(a)
+of their identity;
+(b)
+that their age is not less than that prescribed in the Regulations listed in Annex I relevant to the certificate of competency or certificate of proficiency applied for;
+(c)
+that they meet the standards of medical fitness, specified in Section A-I/9 of the STCW Code;
+(d)
+that they have completed the seagoing service and any related compulsory training prescribed in the Regulations listed in Annex I for the certificate of competency or certificate of proficiency applied for; and
+(e)
+that they meet the standards of competence prescribed in the Regulations listed in Annex I for the capacities, functions and levels that are to be identified in the endorsement of the certificate of competency.
+This paragraph shall not apply to recognition of endorsements under Regulation I/10 of the STCW Convention.
+12.   Each Member State shall undertake:
+(a)
+to maintain a register or registers of all certificates of competency and certificates of proficiency and endorsements for masters and officers and, where applicable, ratings which are issued, have expired or have been revalidated, suspended, cancelled or reported as lost or destroyed, as well as of dispensations issued;
+(b)
+to make available information on the status of certificates of competency, endorsements and dispensations to other Member States or other Parties to the STCW Convention and companies which request verification of the authenticity and validity of certificates of competency and/or certificates issued to masters and officers in accordance with Regulations V/1-1 and V/1-2 of Annex I produced to them by seafarers seeking recognition, under Regulation I/10 of the STCW Convention, or employment on board ship.
+13.   As of 1 January 2017, the information required to be available in accordance with point (b) of paragraph 12 shall be made available by electronic means.’;
+(5)
+the following Article is inserted:
+‘Article 5a
+Information to the Commission
+Each Member State shall make available to the Commission on a yearly basis the information indicated in Annex V to this Directive on certificates of competency, endorsements attesting the recognition of certificates of competency as well as, on a voluntary basis, certificates of proficiency issued to ratings in accordance with Chapters II, III, and VII of the Annex to the STCW Convention, for the purposes of statistical analysis only and exclusively for use by Member States and the Commission in policy-making.’;
+(6)
+Article 7 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘1a.   A Member State, for ships afforded the benefits of the near-coastal voyage provisions of the STCW Convention, which includes voyages off the coast of other Member States or of Parties to the STCW Convention within the limits of their near-coastal definition, shall enter into an undertaking with the Member States or Parties concerned specifying both the details of the trading areas involved and other relevant provisions.’;
+(b)
+the following paragraphs are inserted:
+‘3a.   The certificates of competency of seafarers issued by a Member State or a Party to the STCW Convention for its defined near-coastal voyage limits may be accepted by other Member States for service in their defined near-coastal voyage limits, provided the Member States or Parties concerned enter into an undertaking specifying the details of the trading areas involved and other relevant conditions thereof.
+3b.   Member States defining near-coastal voyages, in accordance with the requirements of this Article, shall:
+(a)
+meet the principles governing near-coastal voyages specified in Section A-I/3 of the STCW Code;
+(b)
+incorporate the near-coastal voyage limits in the endorsements issued pursuant to Article 5.’;
+(7)
+in Article 8, paragraph 1 is replaced by the following:
+‘1.   Member States shall take and enforce appropriate measures to prevent fraud and other unlawful practices involving certificates and endorsements issued, and shall provide for penalties that are effective, proportionate and dissuasive.’;
+(8)
+Article 9 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   Member States shall establish processes and procedures for the impartial investigation of any reported incompetence, act, omission or compromise to security that may pose a direct threat to safety of life or property at sea or to the marine environment, on the part of the holders of certificates of competency and certificates of proficiency or endorsements issued by that Member State in connection with their performance of duties relating to their certificates of competency and certificates of proficiency and for the withdrawal, suspension and cancellation of such certificates of competency and certificates of proficiency for such cause and for the prevention of fraud.
+2.   Member States shall take and enforce appropriate measures to prevent fraud and other unlawful practices involving certificates of competency and certificates of proficiency and endorsements issued.’;
+(b)
+in paragraph 3, the introductory wording is replaced by the following:
+
+                                          ‘Penalties or disciplinary measures shall be prescribed and enforced in cases in which:’;
+(9)
+Article 10 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (a) is replaced by the following:
+‘(a)
+all training, assessment of competence, certification, including medical certification, endorsement and revalidation activities carried out by non-governmental agencies or entities under their authority are continuously monitored through a quality standards system to ensure the achievement of defined objectives, including those concerning the qualifications and experience of instructors and assessors, in accordance with Section A-I/8 of the STCW Code;’;
+(ii)
+point (b) is replaced by the following:
+‘(b)
+where governmental agencies or entities perform such activities, there is a quality standards system in accordance with Section A-I/8 of the STCW Code;’;
+(iii)
+point (c) is replaced by the following:
+‘(c)
+education and training objectives and related quality standards of competence to be achieved are clearly defined and that the levels of knowledge, understanding and skills appropriate to the examinations and assessments required under the STCW Convention are identified;’;
+(b)
+in paragraph 2, the following point is added:
+‘(d)
+all applicable provisions of the STCW Convention and Code, including amendments are covered by the quality standards system. Member States may also include within this system the other applicable provisions of this Directive.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   A report relating to each evaluation carried out pursuant to paragraph 2 shall be communicated by the Member State concerned to the Commission, in accordance with the format specified in Section A-I/7 of the STCW Code, within six months of the date of the evaluation.’;
+(10)
+Article 11 is replaced by the following:
+‘Article 11
+Medical standards
+1.   Each Member State shall establish standards of medical fitness for seafarers and procedures for the issue of a medical certificate in accordance with this Article and Section A-I/9 of the STCW Code, taking into account, as appropriate, Section B-I/9 of the STCW Code.
+2.   Each Member State shall ensure that those responsible for assessing the medical fitness of seafarers are medical practitioners recognised by that Member State for the purpose of seafarer medical examinations, in accordance with the Section A-I/9 of the STCW Code.
+3.   Every seafarer holding a certificate of competency or a certificate of proficiency, issued under the provisions of the STCW Convention, who is serving at sea shall also hold a valid medical certificate issued in accordance with this Article and Section A-I/9 of the STCW Code.
+4.   Candidates for medical certification shall:
+(a)
+be not less than 16 years of age;
+(b)
+provide satisfactory proof of their identity; and
+(c)
+meet the applicable medical fitness standards established by the Member State concerned.
+5.   Medical certificates shall remain valid for a maximum period of two years unless the seafarer is under the age of 18, in which case the maximum period of validity shall be one year.
+6.   If the period of validity of a medical certificate expires in the course of a voyage, Regulation I/9 of the Annex to the STCW Convention shall apply.
+7.   In urgent cases, a Member State may permit a seafarer to work without a valid medical certificate. In such cases, Regulation I/9 of the Annex to the STCW Convention shall apply.’;
+(11)
+Article 12 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Revalidation of certificates of competency and certificates of proficiency’;
+(b)
+the following paragraph is inserted:
+‘2a.   Every master and officer shall, for continuing seagoing service on board tankers, meet the requirements of paragraph 1 of this Article and be required, at intervals not exceeding five years, to establish continued professional competence for tankers in accordance with paragraph 3 of Section A-I/11 of the STCW Code.’;
+(c)
+paragraph 3 is replaced by the following:
+‘3.   Each Member State shall compare the standards of competence which are required of candidates for certificates of competency issued until 1 January 2017 with those specified for the relevant certificate of competency in Part A of the STCW Code, and shall determine the need to require the holders of such certificates of competency to undergo appropriate refresher and updating training or assessment.’;
+(d)
+paragraph 5 is replaced by the following:
+‘5.   For the purpose of updating the knowledge of masters, officers and radio operators, each Member State shall ensure that the texts of recent changes in national and international regulations concerning the safety of life at sea, security and the protection of the marine environment are made available to ships entitled to fly its flag, while respecting point (b) of Article 14(3) and Article 18.’;
+(12)
+in Article 13, paragraph 2 is deleted;
+(13)
+Article 14 is amended as follows:
+(a)
+in paragraph 1, the following points are added:
+‘(f)
+seafarers assigned to any of its ships have received refresher and updating training as required by the STCW Convention;
+(g)
+at all times on board its ships there shall be effective oral communication in accordance with paragraphs 3 and 4 of Chapter V of Regulation 14, of the SOLAS 74, as amended.’;
+(b)
+the following paragraph is added:
+‘4.   Companies shall ensure that masters, officers and other personnel assigned specific duties and responsibilities on board their ro-ro passenger ships shall have completed familiarisation training to attain the abilities that are appropriate to the capacity to be filled and duties and responsibilities to be taken up, taking into account the guidance given in Section B-I/14 of the STCW Code.’;
+(14)
+Article 15 is replaced by the following:
+‘Article 15
+Fitness for duty
+1.   For the purpose of preventing fatigue, Member States shall:
+(a)
+establish and enforce rest periods for watchkeeping personnel and those whose duties involve designated safety, security and prevention of pollution duties in accordance with paragraphs 3 to 13;
+(b)
+require that watch systems are arranged in such a way that the efficiency of watchkeeping personnel is not impaired by fatigue, and that duties are organised in such a way that the first watch at the start of a voyage and subsequent relieving watches are sufficiently rested and otherwise fit for duty.
+2.   Member States shall, for the purpose of preventing drug and alcohol abuse, ensure that adequate measures are established in accordance with the provisions laid down in this Article.
+3.   Member States shall take account of the danger posed by fatigue of seafarers, especially those whose duties involve the safe and secure operation of a ship.
+4.   All persons who are assigned duty as officer in charge of a watch or as a rating forming part of a watch, and those whose duties involve designated safety, prevention of pollution and security duties shall be provided with a rest period of not less than:
+(a)
+a minimum of 10 hours of rest in any 24-hour period; and
+(b)
+77 hours in any seven-day period.
+5.   The hours of rest may be divided into no more than two periods, one of which shall be at least six hours in length, and the intervals between consecutive periods of rest shall not exceed 14 hours.
+6.   The requirements for rest periods laid down in paragraphs 4 and 5 need not be maintained in the case of an emergency or in other overriding operational conditions. Musters, firefighting and lifeboat drills, and drills prescribed by national laws and regulations and by international instruments, shall be conducted in a manner that minimises the disturbance of rest periods and does not induce fatigue.
+7.   Member States shall require that watch schedules be posted where they are easily accessible. The schedules shall be established in a standardised format in the working language or languages of the ship and in English.
+8.   When a seafarer is on call, such as when a machinery space is unattended, the seafarer shall have an adequate compensatory rest period if the normal period of rest is disturbed by call-outs to work.
+9.   Member States shall require that records of daily hours of rest of seafarers be maintained in a standardised format, in the working language or languages of the ship and in English, to allow monitoring and verification of compliance with this Article. Seafarers shall receive a copy of the records pertaining to them, which shall be endorsed by the master, or by a person authorised by the master, and by the seafarers.
+10.   Notwithstanding the rules laid down in paragraphs 3 to 9, the master of a ship shall be entitled to require a seafarer to perform any hours of work necessary for the immediate safety of the ship, persons on board or cargo, or for the purpose of giving assistance to other ships or persons in distress at sea. Accordingly, the master may suspend the schedule of hours of rest and require a seafarer to perform any hours of work necessary until the normal situation has been restored. As soon as practicable after the normal situation has been restored, the master shall ensure that any seafarers who have performed work in a scheduled rest period are provided with an adequate period of rest.
+11.   With due regard for the general principles of the protection of the health and safety of workers and in line with Directive 1999/63/EC Member States may, by means of national laws, regulations or a procedure for the competent authority, authorise or register collective agreements permitting exceptions to the required hours of rest set out in point (b) of paragraph 4 and in paragraph 5 of this Article provided that the rest period is no less than 70 hours in any seven-day period and respects the limits set out in paragraphs 12 and 13 of this Article. Such exceptions shall, as far as possible, follow the standards set out but may take account of more frequent or longer leave periods, or the granting of compensatory leave for watchkeeping seafarers or seafarers working on board ships on short voyages. Exceptions shall, as far as possible, take into account the guidance regarding prevention of fatigue laid down in Section B-VIII/1 of the STCW Code. Exceptions to the minimum hours of rest provided for in point (a) of paragraph 4 of this Article shall not be allowed.
+12.   Exceptions referred to in paragraph 11 to the weekly rest period provided for in point (b) of paragraph 4 shall not be allowed for more than two consecutive weeks. The intervals between two periods of exceptions on board shall not be less than twice the duration of the exception.
+13.   In the framework of possible exceptions to paragraph 5 referred to in paragraph 11, the minimum hours of rest in any 24-hour period provided for in point (a) of paragraph 4 may be divided into no more than three periods of rest, one of which shall be at least six hours in length and neither of the two other periods shall be less than one hour in length. The intervals between consecutive periods of rest shall not exceed 14 hours. Exceptions shall not extend beyond two 24-hour periods in any seven-day period.
+14.   Member States shall establish, for the purpose of preventing alcohol abuse, a limit of not greater than 0,05 % blood alcohol level (BAC) or 0,25 mg/l alcohol in the breath or a quantity of alcohol leading to such alcohol concentration for masters, officers and other seafarers while performing designated safety, security and marine environmental duties.’;
+(15)
+in Article 17(1), point (c) is replaced by the following:
+‘(c)
+issue the certificates referred to in Article 5;’;
+(16)
+Article 19 is amended as follows:
+(a)
+the title is replaced by the following:
+‘Recognition of certificates of competency and certificates of proficiency’;
+(b)
+paragraph 1 is replaced by the following:
+‘1.   Seafarers who do not possess the certificates of competency issued by Member States and/or the certificates of proficiency issued by Member States to masters and officers in accordance with Regulations V/1-1 and V/1-2 of the STCW Convention, may be allowed to serve on ships flying the flag of a Member State provided that a decision on the recognition of their certificates of competency and certificates of proficiency has been adopted through the procedures set out in paragraphs 2 to 6 of this Article.’;
+(c)
+in paragraph 2, the first subparagraph is replaced by the following:
+‘2.   A Member State which intends to recognise, by endorsement, the certificates of competency and/or the certificates of proficiency referred to in paragraph 1 issued by a third country to a master, officer or radio operator, for service on ships flying its flag, shall submit a request for recognition of that third country to the Commission, stating its reasons.’;
+(d)
+paragraph 3 is replaced by the following:
+‘3.   The decision on the recognition of a third country shall be taken by the Commission. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2), within 18 months of the date of the request for the recognition. The Member State submitting the request may decide to recognise the third country unilaterally until a decision is taken under this paragraph.’;
+(17)
+in Article 20, paragraph 6 is replaced by the following:
+‘6.   The decision on the withdrawal of the recognition shall be taken by the Commission. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2). The Member States concerned shall take appropriate measures to implement the decision.’;
+(18)
+in Article 22, paragraph 1 is replaced by the following:
+‘1.   Irrespective of the flag it flies, each ship, with the exception of those types of ships excluded by Article 2, shall, while in the ports of a Member State, be subject to port State control by officers duly authorised by that Member State to verify that all seafarers serving on board who are required to hold a certificate of competency and/or a certificate of proficiency and/or documentary evidence under the STCW Convention, hold such a certificate of competency or valid dispensation and/or certificate of proficiency and/or documentary evidence.’;
+(19)
+in Article 23(1), point (a) is replaced by the following:
+‘(a)
+verification that every seafarer serving on board who is required to hold a certificate of competency and/or a certificate of proficiency in accordance with the STCW Convention holds such a certificate of competency or valid dispensation and/or certificate of proficiency, or provides documentary proof that an application for an endorsement attesting recognition of a certificate of competency has been submitted to the authorities of the flag State;’;
+(20)
+in Article 23, paragraph 2 is amended as follows:
+(a)
+the introductory wording is replaced by the following:
+‘2.   The ability of the ship’s seafarers to maintain watchkeeping and security standards, as appropriate, as required by the STCW Convention shall be assessed in accordance with Part A of the STCW Code if there are clear grounds for believing that such standards are not being maintained because any of the following has occurred:’;
+(b)
+point (d) is replaced by the following:
+‘(d)
+the ship is otherwise being operated in such a manner as to pose a danger to persons, property or the environment, or to compromise security;’;
+(21)
+the following Article is inserted:
+‘Article 25a
+Information for statistical purposes
+1.   The Member States shall communicate the information listed in Annex V to the Commission for the purposes of statistical analysis only. Such information may not be used for administrative, legal or verification purposes, and is exclusively for use by Member States and the Commission in policy-making.
+2.   That information shall be made available by Member States to the Commission on a yearly basis and in electronic format and shall include information registered until 31 December of the previous year. Member States shall retain all property rights to the information in its raw data format. Processed statistics drawn up on the basis of such information shall be made publicly available in accordance with the provisions on transparency and protection of information set out in Article 4 of Regulation (EC) No 1406/2002.
+3.   In order to ensure the protection of personal data, Member States shall anonymise all personal information as indicated in Annex V by using software provided or accepted by the Commission before transmitting it to the Commission. The Commission shall use this anonymised information only.
+4.   Member States and the Commission shall ensure that measures for collecting, submitting, storing, analysing and disseminating such information are designed in such a way that statistical analysis is made possible.
+For the purposes of the first subparagraph, the Commission shall adopt detailed measures regarding the technical requirements necessary to ensure the appropriate management of the statistical data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).’;
+(22)
+Article 27 is replaced by the following:
+‘Article 27
+Amendment
+The Commission shall be empowered to adopt delegated acts, in accordance with Article 27a, amending Annex V to this Directive with respect to specific and relevant content and details of the information that needs to be reported by Member States provided that such acts are limited to taking into account the amendments to the STCW Convention and Code and respect the safeguards on data protection. Such delegated acts shall not change the provisions of anonymisation of data as required by Article 25a(3).’;
+(23)
+the following Article is inserted:
+‘Article 27a
+Exercise of the delegation
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2.   The delegation of power referred to in Article 27 shall be conferred on the Commission for a period of five years from 3 January 2013. The Commission shall draw up a report in respect of the delegation of power not later than 4 April 2017. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+3.   The delegation of power referred to in Article 27 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+4.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+5.   A delegated act adopted pursuant to Article 27 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.’;
+(24)
+Article 28 is replaced by the following:
+‘Article 28
+Committee procedure
+1.   The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002 of the European Parliament and of the Council (*1). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (*2).
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*1)  
+                                          OJ L 324, 29.11.2002, p. 1."
+                        
+
+(*2)  
+                                          OJ L 55, 28.2.2011, p. 13.’;"
+                        
+(25)
+Article 29 is replaced by the following:
+‘Article 29
+Penalties
+Member States shall lay down systems of penalties for breaching the national provisions adopted pursuant to Articles 3, 5, 7, 9 to 15, 17, 18, 19, 22, 23, 24 and Annex I, and shall take all the measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.’;
+(26)
+Article 30 is replaced by the following:
+‘Article 30
+Transitional provisions
+In respect of those seafarers who commenced approved seagoing service, an approved education and training programme or an approved training course before 1 July 2013, Member States may continue to issue, recognise and endorse, until 1 January 2017, certificates of competency in accordance with the requirements of this Directive as they were before 3 January 2013.
+Until 1 January 2017, Member States may continue to renew and revalidate certificates of competency and endorsements in accordance with the requirements of this Directive as they were before 3 January 2013’;
+(27)
+Article 33 is deleted;
+(28)
+this point does not concern the English version;
+(29)
+the Annexes are amended as follows:
+(a)
+Annex I to Directive 2008/106/EC is replaced by Annex I to this Directive;
+(b)
+Annex II to Directive 2008/106/EC is amended as laid down in Annex II to this Directive;
+(c)
+the text set out in Annex III to this Directive is added as Annex V to Directive 2008/106/EC.

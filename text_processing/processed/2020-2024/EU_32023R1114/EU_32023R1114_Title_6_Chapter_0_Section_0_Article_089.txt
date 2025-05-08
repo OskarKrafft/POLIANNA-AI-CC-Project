@@ -1,0 +1,21 @@
+Article 89
+Prohibition of insider dealing
+1.   For the purposes of this Regulation, insider dealing shall be deemed to arise where a person possesses inside information and uses that information by acquiring or disposing of, for its own account or for the account of a third party, directly or indirectly, crypto-assets to which that information relates. The use of inside information by cancelling or amending an order concerning a crypto-asset to which the information relates where the order was placed before the person concerned possessed the inside information, shall also be considered to be insider dealing. The use of inside information shall also comprise submitting, modifying or withdrawing a bid by a person for its own account or for the account of a third party.
+2.   No person shall engage or attempt to engage in insider dealing or use inside information about crypto-assets to acquire, or dispose of, those crypto-assets, directly or indirectly, whether for that person’s own account or for the account of a third party. No person shall recommend that another person engage in insider dealing or induce another person to engage in insider dealing.
+3.   No person in the possession of inside information about crypto-assets shall, based on that inside information, recommend or induce another person:
+(a)
+to acquire or dispose of those crypto-assets; or
+(b)
+to cancel or amend an order concerning those crypto-assets.
+4.   The use of a recommendation or inducement as referred to in paragraph 3 amounts to insider dealing within the meaning of this Article where the person using that recommendation or inducement knows or ought to know that it is based on inside information.
+5.   This Article applies to any person who possesses inside information as a result of:
+(a)
+being a member of the administrative, management or supervisory bodies of the issuer, the offeror, or the person seeking admission to trading;
+(b)
+having a holding in the capital of the issuer, the offeror, or the person seeking admission to trading;
+(c)
+having access to the information through the exercise of an employment, profession or duties or in relation to its role in the distributed ledger technology or similar technology; or
+(d)
+being involved in criminal activities.
+This Article also applies to any person who possesses inside information under circumstances other than those referred to in the first subparagraph where that person knows or ought to know that it is inside information.
+6.   Where person as referred to in paragraph 1 is a legal person, this Article shall apply, in accordance with national law, to the natural persons who participate in the decision to carry out the acquisition, disposal, cancellation or amendment of an order for the account of the legal person concerned.

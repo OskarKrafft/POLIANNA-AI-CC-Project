@@ -1,0 +1,36 @@
+Article 19
+Technical support in the field of railway interoperability
+1.   The Agency shall:
+(a)
+address recommendations to the Commission on the TSIs and their revision, in accordance with Article 5 of Directive (EU) 2016/797;
+(b)
+address recommendations to the Commission on the templates for the ‘EC’ declaration of verification and for documents of the technical file that has to accompany it for the purposes of Article 15(9) of Directive (EU) 2016/797;
+(c)
+address recommendations to the Commission on specifications for registers and their revision for the purposes of Articles 47, 48 and 49 of Directive (EU) 2016/797;
+(d)
+issue opinions which constitute acceptable means of compliance concerning deficiencies in TSIs, in accordance with Article 6(4) of Directive (EU) 2016/797, and provide those opinions to the Commission;
+(e)
+at the request of the Commission, issue opinions to it regarding requests by Member States for non-application of TSIs, in accordance with Article 7 of Directive (EU) 2016/797;
+(f)
+issue technical documents, in accordance with Article 4(8) of Directive (EU) 2016/797;
+(g)
+issue a decision for approval before any call for tenders relating to ERTMS trackside equipment in order to ensure harmonised implementation of the ERTMS in the Union pursuant to Article 19 of Directive (EU) 2016/797;
+(h)
+issue recommendations to the Commission regarding the training and certification of on-board staff with safety-critical tasks;
+(i)
+issue detailed guidance concerning standards for the relevant European standardisation bodies to complement the mandate given to them by the Commission;
+(j)
+address recommendations to the Commission relating to the working conditions of all staff carrying out safety-critical tasks;
+(k)
+address recommendations to the Commission in relation to harmonised standards to be developed by European standardisation bodies and standards relating to interchangeable spare parts which may improve the level of safety and interoperability of the Union rail system;
+(l)
+address, where appropriate, recommendations to the Commission in relation to safety-critical components.
+2.   In drafting recommendations as referred to in points (a), (b), (c), (h), (k) and (l) of paragraph 1, the Agency shall:
+(a)
+ensure that the TSIs and the specifications for registers are adapted to technical progress, market trends and social requirements;
+(b)
+ensure that the development and updating of the TSIs and the development of any European standards which prove necessary for interoperability are coordinated, and maintain relevant contacts with European standardisation bodies;
+(c)
+participate, where appropriate, as an observer in the relevant working groups established by recognised standardisation bodies.
+3.   The Agency may issue guidelines and other non-binding documents to facilitate the implementation of railway interoperability legislation, including assistance to Member States in identifying national rules that can be repealed further to the adoption or revision of TSIs.
+4.   In cases of non-compliance of interoperability constituents with essential requirements, the Agency shall assist the Commission in accordance with Article 11 of Directive (EU) 2016/797.

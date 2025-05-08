@@ -1,0 +1,8 @@
+Article 344
+Stock indices
+1.   EBA shall develop draft implementing technical standards listing the stock indices for which the treatments set out in the second sentence of paragraph 4 is available.
+EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+2.   Before the entry into force of the technical standards referred to in paragraph 1, institutions may continue to apply the treatment set out in paragraphs 3 and 4, where the competent authorities have applied that treatment before 1 January 2014.
+3.   Stock-index futures, the delta-weighted equivalents of options in stock-index futures and stock indices collectively referred to hereafter as ‧stock-index futures‧, may be broken down into positions in each of their constituent equities. These positions may be treated as underlying positions in the equities in question, and may, be netted against opposite positions in the underlying equities themselves. Institutions shall notify the competent authority of the use they make of that treatment.
+4.   Where a stock-index future is not broken down into its underlying positions, it shall be treated as if it were an individual equity. However, the specific risk on this individual equity can be ignored if the stock-index future in question is exchange traded and represents a relevant appropriately diversified index.

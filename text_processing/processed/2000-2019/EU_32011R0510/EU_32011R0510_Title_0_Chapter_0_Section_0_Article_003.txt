@@ -1,0 +1,42 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘average specific emissions of CO2’ means, in relation to a manufacturer, the average of the specific emissions of CO2 of all light commercial vehicles of which it is the manufacturer;
+(b)
+‘certificate of conformity’ means the certificate referred to in Article 18 of Directive 2007/46/EC;
+(c)
+‘completed vehicle’ means a vehicle where type-approval is granted following completion of a process of multi-stage type-approval in accordance with Directive 2007/46/EC;
+(d)
+‘complete vehicle’ means any vehicle which does not need to be completed in order to meet the relevant technical requirements of Directive 2007/46/EC;
+(e)
+‘base vehicle’ means any vehicle which is used at the initial stage of a multi-stage type-approval process;
+(f)
+‘manufacturer’ means the person or body responsible to the approval authority for all aspects of the EC type-approval procedure in accordance with Directive 2007/46/EC and for ensuring conformity of production;
+(g)
+‘mass’ means the mass of the vehicle with bodywork in running order as stated in the certificate of conformity and defined in Section 2.6 of Annex I to Directive 2007/46/EC;
+(h)
+‘specific emissions of CO2’ means the emissions of a light commercial vehicle measured in accordance with Regulation (EC) No 715/2007 and specified as the CO2 mass emission (combined) in the certificate of conformity of the complete or completed vehicle;
+(i)
+‘specific emissions target’ means, in relation to a manufacturer, the average of the indicative specific emissions of CO2 determined in accordance with Annex I in respect of each new light commercial vehicle for which it is the manufacturer, or, if the manufacturer is granted a derogation in accordance with Article 11, the specific emissions target determined according to that derogation;
+(j)
+‘footprint’ means the average track width multiplied by the wheelbase as stated in the certificate of conformity and defined in Sections 2.1 and 2.3 of Annex I to Directive 2007/46/EC;
+(k)
+‘payload’ means the difference between the technically permissible maximum laden mass pursuant to Annex II to Directive 2007/46/EC and the mass of the vehicle.
+2.   For the purposes of this Regulation ‘a group of connected manufacturers’ means a manufacturer and its connected undertakings. In relation to a manufacturer, ‘connected undertakings’ means:
+(a)
+undertakings in which the manufacturer has, directly or indirectly:
+(i)
+the power to exercise more than half the voting rights; or
+(ii)
+the power to appoint more than half the members of the supervisory board, board of management or bodies legally representing the undertaking; or
+(iii)
+the right to manage the undertaking's affairs;
+(b)
+undertakings which directly or indirectly have, over the manufacturer, the rights or powers listed in point (a);
+(c)
+undertakings in which an undertaking referred to in point (b) has, directly or indirectly, the rights or powers listed in point (a);
+(d)
+undertakings in which the manufacturer together with one or more of the undertakings referred to in points (a), (b) or (c), or in which two or more of the latter undertakings, jointly have the rights or powers listed in point (a);
+(e)
+undertakings in which the rights or the powers listed in point (a) are jointly held by the manufacturer or one or more of its connected undertakings referred to in points (a) to (d) and one or more third parties.

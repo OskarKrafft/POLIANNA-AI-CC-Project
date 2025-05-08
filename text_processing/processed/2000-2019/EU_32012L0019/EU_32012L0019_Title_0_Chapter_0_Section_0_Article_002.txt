@@ -1,0 +1,31 @@
+Article 2
+Scope
+1.   This Directive shall apply to electrical and electronic equipment (EEE) as follows:
+(a)
+from 13 August 2012 to 14 August 2018 (transitional period), subject to paragraph 3, to EEE falling within the categories set out in Annex I. Annex II contains an indicative list of EEE which falls within the categories set out in Annex I;
+(b)
+from 15 August 2018, subject to paragraphs 3 and 4, to all EEE. All EEE shall be classified within the categories set out in Annex III. Annex IV contains a non-exhaustive list of EEE which falls within the categories set out in Annex III (open scope).
+2.   This Directive shall apply without prejudice to the requirements of Union legislation on safety and health, on chemicals, in particular Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency (18), as well as of specific Union waste management or product design legislation.
+3.   This Directive shall not apply to any of the following EEE:
+(a)
+equipment which is necessary for the protection of the essential interests of the security of Member States, including arms, munitions and war material intended for specifically military purposes;
+(b)
+equipment which is specifically designed and installed as part of another type of equipment that is excluded from or does not fall within the scope of this Directive, which can fulfil its function only if it is part of that equipment;
+(c)
+filament bulbs.
+4.   In addition to the equipment specified in paragraph 3, from 15 August 2018, this Directive shall not apply to the following EEE:
+(a)
+equipment designed to be sent into space;
+(b)
+large-scale stationary industrial tools;
+(c)
+large-scale fixed installations, except any equipment which is not specifically designed and installed as part of those installations;
+(d)
+means of transport for persons or goods, excluding electric two-wheel vehicles which are not type-approved;
+(e)
+non-road mobile machinery made available exclusively for professional use;
+(f)
+equipment specifically designed solely for the purposes of research and development that is only made available on a business-to-business basis;
+(g)
+medical devices and in vitro diagnostic medical devices, where such devices are expected to be infective prior to end of life, and active implantable medical devices.
+5.   No later than 14 August 2015, the Commission shall review the scope of this Directive set out in point (b) of paragraph 1, including the parameters to distinguish between large and small equipment in Annex III, and shall present a report thereon to the European Parliament and to the Council. The report shall be accompanied by a legislative proposal, if appropriate.

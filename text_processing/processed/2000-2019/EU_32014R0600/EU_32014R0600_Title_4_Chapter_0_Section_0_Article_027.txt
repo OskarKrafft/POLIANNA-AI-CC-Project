@@ -1,0 +1,19 @@
+Article 27
+Obligation to supply financial instrument reference data
+1.   With regard to financial instruments admitted to trading on regulated markets or traded on MTFs or OTFs, trading venues shall provide competent authorities with identifying reference data for the purposes of transaction reporting under Article 26.
+With regard to other financial instruments covered by Article 26(2) traded on its system, each systematic internaliser shall provide its competent authority with reference data relating to those financial instruments.
+Identifying reference data shall be made ready for submission to the competent authority in an electronic and standardised format before trading commences in the financial instrument that it refers to. The financial instrument reference data shall be updated whenever there are changes to the data with respect to a financial instrument. Those notifications are to be transmitted by competent authorities without delay to ESMA, which shall publish them immediately on its website. ESMA shall give competent authorities access to those reference data.
+2.   In order to allow competent authorities to monitor, pursuant to Article 26, the activities of investment firms to ensure that they act honestly, fairly and professionally and in a manner which promotes the integrity of the market, ESMA and the competent authorities shall establish the necessary arrangements in order to ensure that:
+(a)
+ESMA and the competent authorities effectively receive the financial instrument reference data pursuant to paragraph 1;
+(b)
+the quality of the data so received is appropriate for the purpose of transaction reporting under Article 26;
+(c)
+the financial instrument reference data received pursuant to paragraph 1 is efficiently exchanged between the relevant competent authorities.
+3.   ESMA shall develop draft regulatory technical standards to specify:
+(a)
+data standards and formats for the financial instrument reference data in accordance with paragraph 1, including the methods and arrangements for supplying the data and any update thereto to competent authorities and transmitting it to ESMA in accordance with paragraph 1, and the form and content of such data;
+(b)
+the technical measures that are necessary in relation to the arrangements to be made by ESMA and the competent authorities pursuant to paragraph 2.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

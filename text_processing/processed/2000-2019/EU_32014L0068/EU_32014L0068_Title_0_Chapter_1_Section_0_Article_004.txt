@@ -1,0 +1,43 @@
+Article 4
+Technical requirements
+1.   The following pressure equipment shall satisfy the essential safety requirements set out in Annex I:
+(a)
+vessels, except those referred to in point (b), for:
+(i)
+gases, liquefied gases, gases dissolved under pressure, vapours and also those liquids whose vapour pressure at the maximum allowable temperature is greater than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+—
+for fluids in Group 1 with a volume greater than 1 L and a product of PS and V greater than 25 bar·L, or with a pressure PS greater than 200 bar (Annex II, table 1),
+—
+for fluids in Group 2, with a volume greater than 1 L and a product of PS and V is greater than 50 bar·L, or with a pressure PS greater than 1 000 bar, and all portable extinguishers and bottles for breathing apparatus (Annex II, table 2);
+(ii)
+liquids having a vapour pressure at the maximum allowable temperature of not more than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+—
+for fluids in Group 1 with a volume greater than 1 L and a product of PS and V greater than 200 bar·L, or with a pressure PS greater than 500 bar (Annex II, table 3),
+—
+for fluids in Group 2 with a pressure PS greater than 10 bar and a product of PS and V greater than 10 000 bar·L, or with a pressure PS greater than 1 000 bar (Annex II, table 4);
+(b)
+fired or otherwise heated pressure equipment with the risk of overheating intended for generation of steam or super-heated water at temperatures higher than 110 °C having a volume greater than 2 L, and all pressure cookers (Annex II, table 5);
+(c)
+piping intended for:
+(i)
+gases, liquefied gases, gases dissolved under pressure, vapours and those liquids whose vapour pressure at the maximum allowable temperature is greater than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+—
+for fluids in Group 1 with a DN greater than 25 (Annex II, table 6),
+—
+for fluids in Group 2 with a DN greater than 32 and a product of PS and DN greater than 1 000 bar (Annex II, table 7);
+(ii)
+liquids having a vapour pressure at the maximum allowable temperature of not more than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+—
+for fluids in Group 1 with a DN greater than 25 and a product of PS and DN greater than 2 000 bar (Annex II, table 8),
+—
+for fluids in Group 2 with a PS greater than 10 bar, a DN greater than 200 and a product of PS and DN greater than 5 000 bar (Annex II, table 9).
+(d)
+safety and pressure accessories intended for equipment covered by points (a), (b), and (c) including where such equipment is incorporated into an assembly.
+2.   The following assemblies which include at least one item of pressure equipment covered by paragraph 1 shall satisfy the essential safety requirements set out in Annex I:
+(a)
+assemblies intended for generating steam or superheated water at a temperature higher than 110 °C comprising at least one item of fired or otherwise heated pressure equipment presenting a risk of overheating;
+(b)
+assemblies other than those referred to in point (a), if the manufacturer intends them to be made available on the market and put into service as assemblies.
+By way of derogation from the first subparagraph, assemblies intended for generating warm water at temperatures not greater than 110 °C which are manually fed with solid fuels and have a PS·V greater than 50 bar·L shall comply with the essential safety requirements referred to in points 2.10, 2.11, 3.4, 5 (a) and 5 (d) of Annex I.
+3.   Pressure equipment and assemblies below or equal to the limits set out in points (a), (b) and (c) of paragraph 1 and in paragraph 2 respectively shall be designed and manufactured in accordance with the sound engineering practice of a Member State in order to ensure safe use. Pressure equipment and assemblies shall be accompanied by adequate instructions for use.
+Without prejudice to other applicable Union harmonisation legislation providing for its affixing, such equipment or assemblies shall not bear the CE marking referred to in Article 18.

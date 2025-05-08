@@ -1,0 +1,9 @@
+Article 15
+Confidentiality
+1.   Information received pursuant to this Regulation shall be used only for the purpose for which it was supplied, requested, or obtained.
+2.   A person who supplies information referred to in paragraph 1 may request such information be treated as confidential. That request shall be accompanied by a non-confidential and meaningful summary of the information concerned or a statement of the reasons explaining why the information concerned cannot be summarised.
+3.   The European Parliament, the Council, the Commission, Member States or their respective officials shall not reveal any information of a confidential nature received pursuant to this Regulation without specific permission from the person that supplies such information.
+4.   Paragraphs 2 and 3 shall not preclude the Commission from disclosing general information in a meaningful summary, provided that the disclosure does not allow the identity of the person that supplied it to be known.
+The disclosure of such general information shall take into account the legitimate interest of the parties concerned in not having confidential information disclosed.
+5.   Member State officials shall be subject to a duty of professional secrecy with regard to any confidential information which has come to their knowledge in the course of the performance of their official duties in relation to this Regulation.
+6.   The Commission shall provide a secure and encrypted system to support direct cooperation and exchange of information with Member State officials.

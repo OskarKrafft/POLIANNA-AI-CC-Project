@@ -1,0 +1,25 @@
+Article 33
+National vehicle registers
+1.   Each Member State shall keep a register of the vehicles authorised in its territory. This register shall meet the following criteria:
+(a)
+it shall comply with the common specifications referred to in paragraph 2;
+(b)
+it shall be kept updated by a body independent of any railway undertaking;
+(c)
+it shall be accessible to the safety authorities and investigating bodies designated in Articles 16 and 21 of Directive 2004/49/EC; it shall also be made accessible, in response to any legitimate request, to the regulatory bodies designated in Article 30 of Directive 2001/14/EC, and to the Agency, the railway undertaking and the infrastructure managers, as well as those persons or organisations registering vehicles or identified in the register.
+2.   Common specifications for the register shall be adopted in accordance with the regulatory procedure referred to in Article 29(3) and on the basis of draft specifications prepared by the Agency. Those draft specifications shall include content, data format, functional and technical architecture, operating mode, including arrangements for the exchange of data, and rules for data input and consultation. For each vehicle, the register shall contain at least the following information:
+(a)
+the EVN;
+(b)
+references to the ‘EC’ declaration of verification and the issuing body;
+(c)
+references to the European register of authorised types of vehicles referred to in Article 34;
+(d)
+identification of the owner of the vehicle and the keeper;
+(e)
+restrictions on how the vehicle may be used;
+(f)
+the entity in charge of maintenance.
+3.   The registration holder shall immediately declare any modification to the data entered in the national vehicle register, the destruction of a vehicle or its decision to no longer register a vehicle, to the authority of any Member State where the vehicle has been authorised.
+4.   As long as Member States' national vehicle registers are not linked, each Member State shall update its register with the modifications made by another Member State in its own register, as regards the data with which it is concerned.
+5.   In the case of vehicles placed in service for the first time in a third country and authorised in a Member State for placing in service on its territory, that Member State shall ensure that the data listed in paragraph 2(d) to (f) can be retrieved through the national vehicle register. Data referred to in paragraph 2(f) may be substituted by safety critical data relating to the maintenance schedule.

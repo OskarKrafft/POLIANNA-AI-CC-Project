@@ -1,0 +1,56 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the definitions laid down in Article 3 of Regulation (EU) 2018/858 apply.
+In addition, the following definitions apply:
+(1)
+‘vulnerable road user’ means non-motorised road users, including, in particular, cyclists and pedestrians, as well as users of powered two-wheelers;
+(2)
+‘tyre pressure monitoring system’ means a system fitted on a vehicle which can evaluate the pressure of the tyres or the variation of pressure over time and transmit corresponding information to the user while the vehicle is running;
+(3)
+‘intelligent speed assistance’ means a system to aid the driver in maintaining the appropriate speed for the road environment by providing dedicated and appropriate feedback;
+(4)
+‘alcohol interlock installation facilitation’ means a standardised interface that facilitates the fitting of aftermarket alcohol interlock devices in motor vehicles;
+(5)
+‘driver drowsiness and attention warning’ means a system that assesses the driver’s alertness through vehicle systems analysis and warns the driver if needed;
+(6)
+‘advanced driver distraction warning’ means a system that helps the driver to continue to pay attention to the traffic situation and that warns the driver when he or she is distracted;
+(7)
+‘emergency stop signal’ means a light-signalling function to indicate to other road users to the rear of the vehicle that a high retardation force is being applied to the vehicle relative to the prevailing road conditions;
+(8)
+‘reversing detection’ means a system to make the driver aware of people and objects at the rear of the vehicle with the primary aim of avoiding collisions when reversing;
+(9)
+‘lane departure warning system’ means a system to warn the driver that the vehicle is drifting out of its travel lane;
+(10)
+‘advanced emergency braking system’ means a system which can automatically detect a potential collision and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating a collision;
+(11)
+‘emergency lane-keeping system’ means a system that assists the driver in keeping a safe position of the vehicle with respect to the lane or road boundary, at least when a lane departure occurs or is about to occur and a collision might be imminent;
+(12)
+‘vehicle master control switch’ means the device by which the vehicle’s on-board electronics system is brought, from being switched off, as in the case where a vehicle is parked without the driver being present, to normal operation mode;
+(13)
+‘event data recorder’ means a system with the only purpose of recording and storing critical crash-related parameters and information shortly before, during and immediately after a collision;
+(14)
+‘frontal protection system’ means a separate structure or structures, such as a bull bar, or a supplementary bumper which, in addition to the original‐equipment bumper, is intended to protect the external surface of the vehicle from damage in the event of a collision with an object, with the exception of structures having a mass of less than 0,5 kg, intended to protect only the vehicle’s lights;
+(15)
+‘bumper’ means any front, lower, outer structures of a vehicle, including attachments thereto, which are intended to give protection to a vehicle when involved in a low speed frontal collision with another vehicle; it does not include however any frontal protection system;
+(16)
+‘hydrogen-powered vehicle’ means any motor vehicle that uses hydrogen as fuel to propel the vehicle;
+(17)
+‘hydrogen system’ means an assembly of hydrogen components and connecting parts fitted on a hydrogen-powered vehicle, excluding the hydrogen-powered propulsion system or the auxiliary power unit;
+(18)
+‘hydrogen-powered propulsion system’ means the energy converter used to propel the vehicle;
+(19)
+‘hydrogen component’ means hydrogen containers and all other parts of hydrogen‐powered vehicles that are in direct contact with hydrogen or which form part of a hydrogen system;
+(20)
+‘hydrogen container’ means the component within the hydrogen system that stores the primary volume of hydrogen fuel;
+(21)
+‘automated vehicle’ means a motor vehicle designed and constructed to move autonomously for certain periods of time without continuous driver supervision but in respect of which driver intervention is still expected or required;
+(22)
+‘fully automated vehicle’ means a motor vehicle that has been designed and constructed to move autonomously without any driver supervision;
+(23)
+‘driver availability monitoring system’ means a system to assess whether the driver is in a position to take over the driving function from an automated vehicle in particular situations, where appropriate;
+(24)
+‘vehicle platooning’ means the linking of two or more vehicles in a convoy using connectivity technology and automated driving support systems which allow the vehicles to maintain automatically a set, close distance between each other when connected for certain parts of a journey and to adapt to changes in the movement of the lead vehicle with little to no action from the drivers;
+(25)
+‘maximum mass’ means the technically permissible maximum laden mass stated by the manufacturer;
+(26)
+‘A-pillar’ means the foremost and outermost roof support extending from the chassis to the roof of the vehicle.

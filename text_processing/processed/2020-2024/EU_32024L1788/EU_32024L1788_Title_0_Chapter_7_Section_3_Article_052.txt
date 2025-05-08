@@ -1,0 +1,14 @@
+Article 52
+Geographically confined hydrogen networks
+1.   Member States may provide for regulatory authorities to grant a derogation from Articles 68 and 71 or from Article 46 for hydrogen networks which transport hydrogen within a geographically confined, industrial or commercial area. For the duration of the derogation, such network shall fulfil all the following conditions:
+(a)
+it shall not include hydrogen interconnectors;
+(b)
+it shall not have direct connections to hydrogen storage facilities or hydrogen terminals, unless such storage facilities or terminals are also connected to a hydrogen network which does not benefit from a derogation granted pursuant to this Article or to Article 51;
+(c)
+it shall primarily serve the purpose of supplying hydrogen to customers directly connected to this network; and
+(d)
+it shall not be connected to any other hydrogen network, except to networks also benefiting from a derogation granted pursuant to this Article which are operated by the same hydrogen network operator.
+2.   The regulatory authority shall adopt a decision to withdraw the derogation pursuant to paragraph 1 if it concludes that the continued application of the derogation would carry the risk of impeding competition or adversely affecting the efficient deployment of hydrogen infrastructure or the development and functioning of the market for hydrogen in the Union or the Member State, or where any of the conditions listed in paragraph 1 is no longer fulfilled.
+Every seven years from the granting of a derogation pursuant to paragraph 1, the regulatory authority shall publish an assessment of the impact of the derogation on competition, on hydrogen infrastructure and on the development and functioning of the market for hydrogen in the Union or the Member State.
+Member States shall take the necessary measures to ensure that access requests of hydrogen producers as well as connection requests of industrial customers are notified to the regulatory authority, made public and treated pursuant to Article 42. Publication of access requests shall preserve the confidentiality of commercially sensitive information.

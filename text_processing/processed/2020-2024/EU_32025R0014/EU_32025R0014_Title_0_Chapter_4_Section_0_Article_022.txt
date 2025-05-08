@@ -1,0 +1,19 @@
+Article 22
+Demonstrating compliance for EU type-approval
+1.   For the purpose of granting EU type-approval of non-road mobile machinery, compliance shall be demonstrated with the requirements laid down in this Regulation, and in particular the applicable technical requirements.
+2.   The manufacturer or its representative for EU type-approval shall demonstrate compliance with the applicable technical requirements by drawing up technical documentation.
+3.   The technical documentation referred to in paragraph 2 shall include a declaration of compliance from the manufacturer or, if tests are required by the delegated acts adopted pursuant to this Regulation, relevant test reports resulting from the following test procedures:
+(a)
+testing carried out by the manufacturer; for testing procedures included in this point the responsibility of the approval authority is limited to checking that both the declaration and the testing reports are included within the file;
+(b)
+testing carried out by a technical service designated to perform such activity or the accredited in-house technical service, referred to in Article 43, of that manufacturer;
+(c)
+testing carried out by the manufacturer under the supervision of a technical service designated to perform such activity, other than an accredited in-house technical service referred to in Article 43.
+4.   For the EU type-approval of non-road mobile machinery, components or separate technical units which are type-approved in accordance with the procedures and requirements set out in Regulation (EU) No 167/2013 or Regulation (EU) 2018/858 shall be accepted if they are correctly installed and integrated into the non-road mobile machinery and do not affect the conformity of that machinery with the applicable technical requirements.
+5.   The Commission shall adopt implementing acts laying down the general requirements for the format of the test reports referred to in paragraph 3 with which such test reports shall comply. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 49(2).
+6.   The manufacturer or its representative for EU type-approval shall make available to the approval authority as much non-road mobile machinery as is required under the relevant delegated acts adopted pursuant to this Regulation for the performance of the tests set out by those delegated acts.
+The required tests shall be performed on non-road mobile machinery which is representative of the type to be approved.
+However, the manufacturer or its representative for EU type-approval may select, subject to the agreement of the approval authority, non-road mobile machinery which is not a representative of the type concerned but which combines a number of the most unfavourable features with regard to the required level of performance. Virtual testing methods may be used to aid decision-making during the selection process.
+7.   Subject to the agreement of the approval authority, virtual testing methods may be used as alternatives to the test procedures referred to in paragraph 3 at the request of the manufacturer or its representative for EU type-approval with respect to those requirements established in the delegated acts adopted pursuant to paragraph 9.
+8.   Virtual testing methods shall fulfil the conditions set out in the delegated acts adopted pursuant to paragraph 9.
+9.   In order to ensure that the results obtained through virtual testing are as meaningful as those obtained through physical testing, the Commission is empowered to adopt delegated acts in accordance with Article 50, which supplement this Regulation by setting out the requirements, compliance with which can be tested by means of virtual testing, and the conditions under which that virtual testing is to be performed.

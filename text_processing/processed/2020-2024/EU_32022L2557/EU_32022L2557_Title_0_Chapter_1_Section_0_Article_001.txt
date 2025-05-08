@@ -1,0 +1,27 @@
+Article 1
+Subject matter and scope
+1.   This Directive:
+(a)
+lays down obligations on Member States to take specific measures aimed at ensuring that services which are essential for the maintenance of vital societal functions or economic activities within the scope of Article 114 TFEU are provided in an unobstructed manner in the internal market, in particular obligations to identify critical entities and to support critical entities in meeting the obligations imposed on them;
+(b)
+lays down obligations for critical entities aimed at enhancing their resilience and ability to provide services as referred to in point (a) in the internal market;
+(c)
+establishes rules:
+(i)
+on the supervision of critical entities;
+(ii)
+on enforcement;
+(iii)
+for the identification of critical entities of particular European significance and on advisory missions to assess the measures that such entities have put in place to meet their obligations under Chapter III;
+(d)
+establishes common procedures for cooperation and reporting on the application of this Directive;
+(e)
+lays down measures with a view to achieving a high level of resilience of critical entities in order to ensure the provision of essential services within the Union and to improve the functioning of the internal market.
+2.   This Directive shall not apply to matters covered by Directive (EU) 2022/2555, without prejudice to Article 8 of this Directive. In light of the relationship between the physical security and cybersecurity of critical entities, Member States shall ensure that this Directive and Directive (EU) 2022/2555 are implemented in a coordinated manner.
+3.   Where provisions of sector-specific Union legal acts require critical entities to take measures to enhance their resilience and where those requirements are recognised by Member States as at least equivalent to the corresponding obligations laid down in this Directive, the relevant provisions of this Directive, including the provisions on supervision and enforcement laid down in Chapter VI, shall not apply.
+4.   Without prejudice to Article 346 TFEU, information that is confidential pursuant to Union or national rules, such as rules on business confidentiality, shall be exchanged with the Commission and other relevant authorities in accordance with this Directive only where that exchange is necessary for the application of this Directive. The information exchanged shall be limited to that which is relevant and proportionate to the purpose of that exchange. The exchange of information shall preserve the confidentiality of that information and the security and commercial interests of critical entities, while respecting the security of Member States.
+5.   This Directive is without prejudice to the Member States’ responsibility for safeguarding national security and defence and their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and maintaining law and order.
+6.   This Directive does not apply to public administration entities that carry out their activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences.
+7.   Member States may decide that Article 11 and Chapters III, IV and VI, in whole or in part, do not apply to specific critical entities which carry out activities in the areas of national security, public security, defence or law enforcement, including the investigation, detection and prosecution of criminal offences, or which provide services exclusively to the public administration entities referred to in paragraph 6 of this Article.
+8.   The obligations laid down in this Directive shall not entail the supply of information the disclosure of which would be contrary to the essential interests of Member States’ national security, public security or defence.
+9.   This Directive is without prejudice to Union law on the protection of personal data, in particular Regulation (EU) 2016/679 of the European Parliament and of the Council (28) and Directive 2002/58/EC of the European Parliament and of the Council (29).

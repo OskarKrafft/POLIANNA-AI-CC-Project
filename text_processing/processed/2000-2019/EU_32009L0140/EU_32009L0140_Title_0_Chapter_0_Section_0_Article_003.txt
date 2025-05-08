@@ -1,0 +1,187 @@
+Article 2
+Amendments to Directive 2002/19/EC (Access Directive)
+Directive 2002/19/EC is hereby amended as follows:
+1)
+Article 2 shall be amended as follows:
+(a)
+point (a) shall be replaced by the following:
+‘(a)
+“access” means the making available of facilities and/or services to another undertaking, under defined conditions, on either an exclusive or non-exclusive basis, for the purpose of providing electronic communications services, including when they are used for the delivery of information society services or broadcast content services. It covers inter alia: access to network elements and associated facilities, which may involve the connection of equipment, by fixed or non-fixed means (in particular this includes access to the local loop and to facilities and services necessary to provide services over the local loop); access to physical infrastructure including buildings, ducts and masts; access to relevant software systems including operational support systems; access to information systems or databases for pre-ordering, provisioning, ordering, maintaining and repair requests, and billing; access to number translation or systems offering equivalent functionality; access to fixed and mobile networks, in particular for roaming; access to conditional access systems for digital television services and access to virtual network services.’;
+(b)
+point (e) shall be replaced by the following:
+‘(e)
+“local loop” means the physical circuit connecting the network termination point to a distribution frame or equivalent facility in the fixed public electronic communications network.’;
+2)
+Article 4(1) shall be replaced by the following:
+‘1.   Operators of public communications networks shall have a right and, when requested by other undertakings so authorised in accordance with Article 4 of Directive 2002/20/EC (Authorisation Directive), an obligation to negotiate interconnection with each other for the purpose of providing publicly available electronic communications services, in order to ensure provision and interoperability of services throughout the Community. Operators shall offer access and interconnection to other undertakings on terms and conditions consistent with obligations imposed by the national regulatory authority pursuant to Articles 5 to 8.’;
+3)
+Article 5 shall be amended as follows:
+(a)
+paragraph 1 shall be amended as follows:
+(i)
+the first subparagraph shall be replaced by the following:
+‘1.   National regulatory authorities shall, acting in pursuit of the objectives set out in Article 8 of Directive 2002/21/EC (Framework Directive), encourage and where appropriate ensure, in accordance with the provisions of this Directive, adequate access and interconnection, and the interoperability of services, exercising their responsibility in a way that promotes efficiency, sustainable competition, efficient investment and innovation, and gives the maximum benefit to end-users.’;
+(ii)
+the following point shall be inserted:
+‘(ab)
+in justified cases and to the extent that is necessary, the obligations on undertakings that control access to end-users to make their services interoperable.’;
+(b)
+paragraph 2 shall be replaced by the following:
+‘2.   Obligations and conditions imposed in accordance with paragraph 1 shall be objective, transparent, proportionate and non-discriminatory, and shall be implemented in accordance with the procedures referred to in Articles 6, 7 and 7a of Directive 2002/21/EC (Framework Directive).’;
+(c)
+paragraph 3 shall be deleted;
+(d)
+paragraph 4 shall be replaced by the following:
+‘3.   With regard to access and interconnection referred to in paragraph 1, Member States shall ensure that the national regulatory authority is empowered to intervene at its own initiative where justified in order to secure the policy objectives of Article 8 of Directive 2002/21/EC (Framework Directive), in accordance with the provisions of this Directive and the procedures referred to in Articles 6 and 7, 20 and 21 of Directive 2002/21/EC (Framework Directive).’;
+4)
+Article 6(2) shall be replaced by the following:
+‘2.   In the light of market and technological developments, the Commission may adopt implementing measures to amend Annex I. The measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3).’;
+5)
+Article 7 shall be deleted;
+6)
+Article 8 shall be amended as follows:
+(a)
+in paragraph 1, the words ‘Articles 9 to 13’ shall be replaced by the words ‘Articles 9 to 13a’;
+(b)
+paragraph 3 shall be amended as follows:
+(i)
+the first subparagraph shall be amended as follows:
+—
+in the first indent, the words ‘Articles 5(1), 5(2) and 6’ shall be replaced by the words ‘Articles 5(1) and 6’,
+—
+in the second indent, ‘Directive 97/66/EC of the European Parliament and of the Council of 15 December 1997 concerning the processing of personal data and the protection of privacy in the telecommunications sector (*4)
+                                                               ’ shall be replaced by ‘Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (*5).
+(ii)
+the second subparagraph shall be replaced by the following:
+
+                                                      “In exceptional circumstances, when a national regulatory authority intends to impose on operators with significant market power obligations for access or interconnection other than those set out in Articles 9 to 13 in this Directive, it shall submit this request to the Commission. The Commission shall take utmost account of the opinion of the Body of Europeans Regulators for Electronic Communications (BEREC) (*6). The Commission, acting in accordance with Article 14(2), shall take a decision authorising or preventing the national regulatory authority from taking such measures.
+
+(*6)  Regulation (EC) No 1211/2009 of the European Parliament and of the Council of 25 November 2009 establishing the Body of European Regulators for Electronic Communications (BEREC) and the Office.”;"
+                        
+7)
+Article 9 shall be amended as follows:
+(a)
+paragraph 1 shall be replaced by the following:
+“1.   National regulatory authorities may, in accordance with the provisions of Article 8, impose obligations for transparency in relation to interconnection and/or access, requiring operators to make public specified information, such as accounting information, technical specifications, network characteristics, terms and conditions for supply and use, including any conditions limiting access to and/or use of services and applications where such conditions are allowed by Member States in conformity with Community law, and prices.”;
+(b)
+paragraph 4 shall be replaced by the following:
+“4.   Notwithstanding paragraph 3, where an operator has obligations under Article 12 concerning wholesale network infrastructure access, national regulatory authorities shall ensure the publication of a reference offer containing at least the elements set out in Annex II.”;
+(c)
+paragraph 5 shall be replaced by the following:
+“5.   The Commission may adopt the necessary amendments to Annex II in order to adapt it to technological and market developments. The measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 14(3). In implementing the provisions of this paragraph, the Commission may be assisted by BEREC.”;
+8)
+Article 12 shall be amended as follows:
+(a)
+in paragraph 1, point (a) shall be replaced by the following:
+“(a)
+to give third parties access to specified network elements and/or facilities, including access to network elements which are not active and/or unbundled access to the local loop, to, inter alia, allow carrier selection and/or pre-selection and/or subscriber line resale offer;”;
+(b)
+in paragraph 1, point (f) shall be replaced by the following:
+“(f)
+to provide co-location or other forms of associated facilities sharing;”;
+(c)
+in paragraph 1, the following point shall be added:
+“(j)
+to provide access to associated services such as identity, location and presence service.”;
+(d)
+in paragraph 2, the introductory phrase and point (a) shall be replaced by the following:
+“2.   When national regulatory authorities are considering the obligations referred in paragraph 1, and in particular when assessing how such obligations would be imposed proportionate to the objectives set out in Article 8 of Directive 2002/21/EC (Framework Directive), they shall take account in particular of the following factors:
+(a)
+the technical and economic viability of using or installing competing facilities, in the light of the rate of market development, taking into account the nature and type of interconnection and/or access involved, including the viability of other upstream access products such as access to ducts;”;
+(e)
+in paragraph 2, points (c) and (d) shall be replaced by the following:
+“(c)
+the initial investment by the facility owner, taking account of any public investment made and the risks involved in making the investment;
+(d)
+the need to safeguard competition in the long term, with particular attention to economically efficient infrastructure-based competition;”;
+(f)
+the following paragraph 3 shall be added:
+“3.   When imposing obligations on an operator to provide access in accordance with the provisions of this Article, national regulatory authorities may lay down technical or operational conditions to be met by the provider and/or beneficiaries of such access where necessary to ensure normal operation of the network. Obligations to follow specific technical standards or specifications shall be in compliance with the standards and specifications laid down in accordance with Article 17 of Directive 2002/21/EC (Framework Directive).”;
+9)
+Article 13(1) shall be replaced by the following:
+“1.   A national regulatory authority may, in accordance with the provisions of Article 8, impose obligations relating to cost recovery and price controls, including obligations for cost orientation of prices and obligations concerning cost accounting systems, for the provision of specific types of interconnection and/or access, in situations where a market analysis indicates that a lack of effective competition means that the operator concerned may sustain prices at an excessively high level, or may apply a price squeeze, to the detriment of end-users. To encourage investments by the operator, including in next generation networks, national regulatory authorities shall take into account the investment made by the operator, and allow him a reasonable rate of return on adequate capital employed, taking into account any risks specific to a particular new investment network project.”;
+10)
+the following Articles shall be inserted:
+“Article 13a
+Functional separation
+1.   Where the national regulatory authority concludes that the appropriate obligations imposed under Articles 9 to 13 have failed to achieve effective competition and that there are important and persisting competition problems and/or market failures identified in relation to the wholesale provision of certain access product markets, it may, as an exceptional measure, in accordance with the provisions of the second subparagraph of Article 8(3), impose an obligation on vertically integrated undertakings to place activities related to the wholesale provision of relevant access products in an independently operating business entity.
+That business entity shall supply access products and services to all undertakings, including to other business entities within the parent company, on the same timescales, terms and conditions, including those relating to price and service levels, and by means of the same systems and processes.
+2.   When a national regulatory authority intends to impose an obligation for functional separation, it shall submit a proposal to the Commission that includes:
+(a)
+evidence justifying the conclusions of the national regulatory authority as referred to in paragraph 1;
+(b)
+a reasoned assessment that there is no or little prospect of effective and sustainable infrastructure-based competition within a reasonable time-frame;
+(c)
+an analysis of the expected impact on the regulatory authority, on the undertaking, in particular on the workforce of the separated undertaking and on the electronic communications sector as a whole, and on incentives to invest in a sector as a whole, particularly with regard to the need to ensure social and territorial cohesion, and on other stakeholders including, in particular, the expected impact on competition and any potential entailing effects on consumers;
+(d)
+an analysis of the reasons justifying that this obligation would be the most efficient means to enforce remedies aimed at addressing the competition problems/markets failures identified.
+3.   The draft measure shall include the following elements:
+(a)
+the precise nature and level of separation, specifying in particular the legal status of the separate business entity;
+(b)
+an identification of the assets of the separate business entity, and the products or services to be supplied by that entity;
+(c)
+the governance arrangements to ensure the independence of the staff employed by the separate business entity, and the corresponding incentive structure;
+(d)
+rules for ensuring compliance with the obligations;
+(e)
+rules for ensuring transparency of operational procedures, in particular towards other stakeholders;
+(f)
+a monitoring programme to ensure compliance, including the publication of an annual report.
+4.   Following the Commission's decision on the draft measure taken in accordance with Article 8(3), the national regulatory authority shall conduct a coordinated analysis of the different markets related to the access network in accordance with the procedure set out in Article 16 of Directive 2002/21/EC (Framework Directive). On the basis of its assessment, the national regulatory authority shall impose, maintain, amend or withdraw obligations, in accordance with Articles 6 and 7 of Directive 2002/21/EC (Framework Directive).
+5.   An undertaking on which functional separation has been imposed may be subject to any of the obligations identified in Articles 9 to13 in any specific market where it has been designated as having significant market power in accordance with Article 16 of Directive 2002/21/EC (Framework Directive), or any other obligations authorised by the Commission pursuant to Article 8(3).
+Article 13b
+Voluntary separation by a vertically integrated undertaking
+1.   Undertakings which have been designated as having significant market power in one or several relevant markets in accordance with Article 16 of Directive 2002/21/EC (Framework Directive) shall inform the national regulatory authority in advance and in a timely manner, in order to allow the national regulatory authority to assess the effect of the intended transaction, when they intend to transfer their local access network assets or a substantial part thereof to a separate legal entity under different ownership, or to establish a separate business entity in order to provide to all retail providers, including its own retail divisions, fully equivalent access products.
+Undertakings shall also inform the national regulatory authority of any change of that intent as well as the final outcome of the process of separation.
+2.   The national regulatory authority shall assess the effect of the intended transaction on existing regulatory obligations under Directive 2002/21/EC (Framework Directive).
+For that purpose, the national regulatory authority shall conduct a coordinated analysis of the different markets related to the access network in accordance with the procedure set out in Article 16 of Directive 2002/21/EC (Framework Directive).
+On the basis of its assessment, the national regulatory authority shall impose, maintain, amend or withdraw obligations, in accordance with Articles 6 and 7 of Directive 2002/21/EC (Framework Directive).
+3.   The legally and/or operationally separate business entity may be subject to any of the obligations identified in Articles 9 to 13 in any specific market where it has been designated as having significant market power in accordance with Article 16 of Directive 2002/21/EC (Framework Directive), or any other obligations authorised by the Commission pursuant to Article 8(3).”;
+11)
+Article 14 shall be amended as follows:
+(a)
+paragraph 3 shall be replaced by the following:
+“3.   Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.”;
+(b)
+paragraph 4 shall be deleted;
+12)
+Annex II shall be amended as follows:
+(a)
+the title shall be replaced by the following:
+
+                                                “MINIMUM LIST OF ITEMS TO BE INCLUDED IN A REFERENCE OFFER FOR WHOLESALE NETWORK INFRASTRUCTURE ACCESS, INCLUDING SHARED OR FULLY UNBUNDLED ACCESS TO THE LOCAL LOOP AT A FIXED LOCATION TO BE PUBLISHED BY NOTIFIED OPERATORS WITH SIGNIFICANT MARKET POWER (SMP);”
+                                             
+(b)
+definition (a) shall be replaced by the following:
+“(a)
+“local sub-loop” means a partial local loop connecting the network termination point to a concentration point or a specified intermediate access point in the fixed public electronic communications network;”
+(c)
+definition (c) shall be replaced by the following:
+“(c)
+“full unbundled access to the local loop” means the provision to a beneficiary of access to the local loop or local sub-loop of the SMP operator allowing the use of the full capacity of the network infrastructure;”
+(d)
+definition (d) shall be replaced by the following:
+“(d)
+“shared access to the local loop” means the provision to a beneficiary of access to the local loop or local sub-loop of the SMP operator, allowing the use of a specified part of the capacity of the network infrastructure such as a part of the frequency or an equivalent;”
+(e)
+in part A, points 1, 2 and 3 shall be replaced by the following:
+“1.
+Network elements to which access is offered covering in particular the following elements together with appropriate associated facilities:
+(a)
+unbundled access to local loops (full and shared);
+(b)
+unbundled access to local sub-loops (full and shared), including, when relevant, access to network elements which are not active for the purpose of roll-out of backhaul networks;
+(c)
+where relevant, duct access enabling the roll out of access networks.
+2.
+Information concerning the locations of physical access sites including cabinets and distribution frames, availability of local loops, sub-loops and backhaul in specific parts of the access network and when relevant, information concerning the locations of ducts and the availability within ducts;
+3.
+Technical conditions related to access and use of local loops and sub-loops, including the technical characteristics of the twisted pair and/or optical fibre and/or equivalent, cable distributors, and associated facilities and, when relevant, technical conditions related to access to ducts;”
+(f)
+in part B, point 1 shall be replaced by the following:
+“1.
+Information on the SMP operator's existing relevant sites or equipment locations and planned update thereof (*7).
+
+(*7)  Availability of this information may be restricted to interested parties only, in order to avoid public security concerns.”."
+                        

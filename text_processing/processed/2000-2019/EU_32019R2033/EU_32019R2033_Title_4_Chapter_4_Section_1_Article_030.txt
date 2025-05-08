@@ -1,0 +1,62 @@
+Article 30
+Collateral
+1.   All collateral for both bilateral and cleared transactions referred to in Article 25 shall be subject to volatility adjustments in accordance with the following table:
+
+Table 4
+
+Asset class
+Volatility adjustment repurchase transactions
+Volatility adjustment other transactions
+Debt securities issued by central governments or central banks
+≤ 1 year
+0,707 %
+1 %
+> 1 year ≤ 5 years
+2,121 %
+3 %
+> 5 years
+4,243 %
+6 %
+Debt securities issued by other entities
+≤ 1 year
+1,414 %
+2 %
+> 1 year ≤ 5 years
+4,243 %
+6 %
+> 5 years
+8,485 %
+12 %
+Securitisation positions
+≤ 1 year
+2,828 %
+4 %
+> 1 year ≤ 5 years
+8,485 %
+12 %
+> 5 years
+16,970 %
+24 %
+Listed equities and convertibles
+14,143 %
+20 %
+Other securities and commodities
+17,678 %
+25 %
+Gold
+10,607 %
+15 %
+Cash
+0 %
+0 %
+For the purposes of Table 4, securitisation positions shall not include re‐securitisation positions.
+Competent authorities may change the volatility adjustment for certain types of commodities for which there are different levels of volatility in prices. They shall notify EBA of such decisions together with the reasons for the changes.
+2.   The value of collateral shall be determined as follows:
+(a)
+for the purposes of points (a), (e) and (g) of Article 25(1), by the amount of collateral received by the investment firm from its counterparty decreased in accordance with Table 4;
+(b)
+for the transactions referred to in points (b), (c), (d) and (f) of Article 25(1), by the sum of the CMV of the security leg and the net amount of collateral posted or received by the investment firm.
+For securities financing transactions, where both legs of the transaction are securities, collateral is determined by the CMV of the security borrowed by the investment firm.
+Where the investment firm is purchasing or has lent the security, the CMV of the security shall be treated as a negative amount and shall be decreased to a larger negative amount, using the volatility adjustment in Table 4. Where the investment firm is selling or has borrowed the security, the CMV of the security shall be treated as a positive amount and be decreased using the volatility adjustment in Table 4.
+Where different types of transactions are covered by a contractual netting agreement, subject to the conditions laid down in Article 31, the applicable volatility adjustments for ‘other transactions’ of Table 4 shall be applied to the respective amounts calculated under points (a) and (b) of the first subparagraph on an issuer basis within each asset class.
+3.   Where there is a currency mismatch between the transaction and the collateral received or posted, an additional currency mismatch volatility adjustment of 8 % shall apply.

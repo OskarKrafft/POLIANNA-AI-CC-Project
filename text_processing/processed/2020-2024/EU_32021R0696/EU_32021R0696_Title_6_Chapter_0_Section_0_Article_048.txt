@@ -1,0 +1,4 @@
+Article 48
+Compatibility, interoperability and standardisation
+1.   Galileo and EGNOS, and the services which they provide, shall be compatible and interoperable from a technical point of view, including at user level.
+2.   Galileo and EGNOS, and the services which they provide, shall be compatible and interoperable with other satellite navigation systems and with conventional means of radio navigation, where the necessary compatibility and interoperability requirements and conditions thereof are laid down in international agreements.

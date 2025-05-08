@@ -1,0 +1,19 @@
+Article 5
+Roles and responsibilities of EU CSW-CERTEX
+1.   The Commission, in collaboration with the Member States, shall develop, integrate and operate EU CSW-CERTEX.
+2.   The Commission shall:
+(a)
+connect the Union non-customs systems referred to in the Annex with EU CSW-CERTEX by the dates set out in the Annex and enable information to be exchanged on the Union non-customs formalities listed therein;
+(b)
+provide timely guidance and assistance to Member States when they connect to EU CSW-CERTEX as referred to in paragraphs 4 and 5.
+3.   Where the Commission provides training on EU CSW-CERTEX, it shall do so under Regulation (EU) 2021/444 of the European Parliament and of the Council (15).
+4.   The Member States, assisted where necessary by the Commission, shall connect the national single window environments for customs with EU CSW-CERTEX by the dates set out in Part A of the Annex and enable information to be exchanged on the Union non-customs formalities listed in Part A thereof.
+5.   The Member States, assisted, where necessary, by the Commission, may connect the national single window environments for customs with EU CSW-CERTEX and enable information to be exchanged on the Union non-customs formalities listed in Part B of the Annex.
+6.   The Commission is empowered to adopt delegated acts in accordance with Article 21 to amend Part A of the Annex, as regards the Union non-customs formalities, their respective Union non-customs systems as laid down in Union legislation other than customs legislation, and the date for the connections referred to in paragraphs 2 and 4 of this Article.
+7.   The Commission is empowered to adopt delegated acts in accordance with Article 21 to amend Part B of the Annex as regards:
+(a)
+Union non-customs formalities and their respective voluntary Union non-customs systems laid down in Union legislation other than customs legislation, where the use of EU CSW-CERTEX is provided for in that legislation;
+(b)
+Union non-customs formalities and systems under Regulation (EU) 2021/821 of the European Parliament and of the Council (16) and Council Regulations (EC) No 2173/2005 (17) and (EC) No 338/97 (18); and
+(c)
+the date for the connection referred to in paragraph 2, point (a), of this Article for the Union non-customs systems referred to in points (a) and (b) of this paragraph.

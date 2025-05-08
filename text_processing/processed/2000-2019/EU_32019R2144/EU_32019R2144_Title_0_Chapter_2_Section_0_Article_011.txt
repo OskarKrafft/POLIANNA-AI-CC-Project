@@ -1,0 +1,18 @@
+Article 11
+Specific requirements relating to automated vehicles and fully automated vehicles
+1.   In addition to the other requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it that are applicable to vehicles of the respective categories, automated vehicles and fully automated vehicles shall comply with the technical specifications set out in the implementing acts referred to in paragraph 2 that relate to:
+(a)
+systems to replace the driver’s control of the vehicle, including signalling, steering, accelerating and braking;
+(b)
+systems to provide the vehicle with real-time information on the state of the vehicle and the surrounding area;
+(c)
+driver availability monitoring systems;
+(d)
+event data recorders for automated vehicles;
+(e)
+harmonised format for the exchange of data for instance for multi‐brand vehicle platooning;
+(f)
+systems to provide safety information to other road users.
+However, those technical specifications relating to driver availability monitoring systems, referred to in point (c) of the first subparagraph, shall not apply to fully automated vehicles.
+2.   The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the systems and other items listed in points (a) to (f) of paragraph 1 of this Article, and for the type-approval of automated and fully automated vehicles with regard to those systems and other items in order to ensure the safe operation of automated and fully automated vehicles on public roads.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2).

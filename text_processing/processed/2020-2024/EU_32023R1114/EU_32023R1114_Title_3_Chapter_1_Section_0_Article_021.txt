@@ -1,0 +1,19 @@
+Article 21
+Grant or refusal of the authorisation
+1.   Competent authorities shall, within 25 working days of receipt of the opinions referred to in Article 20(5), take a fully reasoned decision granting or refusing authorisation to the applicant issuer and, within five working days of taking that decision, notify it to the applicant issuer. Where an applicant issuer is authorised, its crypto-asset white paper shall be deemed to be approved.
+2.   Competent authorities shall refuse authorisation where there are objective and demonstrable grounds that:
+(a)
+the management body of the applicant issuer might pose a threat to its effective, sound and prudent management and business continuity and to the adequate consideration of the interest of its clients and the integrity of the market;
+(b)
+members of the management body do not meet the criteria set out in Article 34(2);
+(c)
+shareholders and members, whether direct or indirect, that have qualifying holdings do not meet the criteria of sufficiently good repute set out in Article 34(4);
+(d)
+the applicant issuer fails to meet or is likely to fail to meet any of the requirements of this Title;
+(e)
+the applicant issuer’s business model might pose a serious threat to market integrity, financial stability, the smooth operation of payment systems, or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
+3.   EBA and ESMA shall, by 30 June 2024, jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 and Article 16 of Regulation (EU) No 1095/2010, respectively, on the assessment of the suitability of the members of the management body of issuers of asset-referenced tokens and of the shareholders and members, whether direct or indirect, that have qualifying holdings in issuers of asset-referenced tokens.
+4.   Competent authorities shall also refuse authorisation if the ECB or, where applicable, the central bank gives a negative opinion under Article 20(5) on the grounds of a risk posed to the smooth operation of payment systems, monetary policy transmission, or monetary sovereignty.
+5.   Competent authorities shall, within two working days of granting authorisation, communicate to the single point of contact of the host Member States, to ESMA, to EBA, to the ECB and, where applicable, to the central bank referred to in Article 20(4), the information specified in Article 109(3).
+ESMA shall make such information available in the register, under Article 109(3), by the starting date of the offer to the public or admission to trading.
+6.   Competent authorities shall inform EBA, ESMA, the ECB and, where applicable, the central bank referred to in Article 20(4), of all requests for authorisations refused, and provide the underlying reasoning for the decision and, where applicable, an explanation for any deviation from the opinions referred to in Article 20(5).

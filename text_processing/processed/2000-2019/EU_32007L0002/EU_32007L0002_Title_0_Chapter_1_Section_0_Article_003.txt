@@ -1,0 +1,29 @@
+Article 3
+For the purposes of this Directive, the following definitions shall apply:
+1.
+‘infrastructure for spatial information’ means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with this Directive;
+2.
+‘spatial data’ means any data with a direct or indirect reference to a specific location or geographical area;
+3.
+‘spatial data set’ means an identifiable collection of spatial data;
+4.
+‘spatial data services’ means the operations which may be performed, by invoking a computer application, on the spatial data contained in spatial data sets or on the related metadata;
+5.
+‘spatial object’ means an abstract representation of a real-world phenomenon related to a specific location or geographical area;
+6.
+‘metadata’ means information describing spatial data sets and spatial data services and making it possible to discover, inventory and use them;
+7.
+‘interoperability’ means the possibility for spatial data sets to be combined, and for services to interact, without repetitive manual intervention, in such a way that the result is coherent and the added value of the data sets and services is enhanced;
+8.
+‘Inspire geo-portal’ means an Internet site, or equivalent, providing access to the services referred to in Article 11(1);
+9.
+‘public authority’ means:
+(a)
+any government or other public administration, including public advisory bodies, at national, regional or local level;
+(b)
+any natural or legal person performing public administrative functions under national law, including specific duties, activities or services in relation to the environment; and
+(c)
+any natural or legal person having public responsibilities or functions, or providing public services relating to the environment under the control of a body or person falling within (a) or (b).
+Member States may provide that when bodies or institutions are acting in a judicial or legislative capacity, they are not to be regarded as a public authority for the purposes of this Directive;
+10.
+‘third party’ means any natural or legal person other than a public authority.

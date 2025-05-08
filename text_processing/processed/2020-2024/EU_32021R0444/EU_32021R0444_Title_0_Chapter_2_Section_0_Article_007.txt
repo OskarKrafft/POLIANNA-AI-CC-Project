@@ -1,0 +1,26 @@
+Article 7
+Eligible actions
+1.   Only actions implementing the objectives set out in Article 3 shall be eligible for funding.
+2.   Actions complementing or supporting the actions implementing the objectives set out in the Customs Control Equipment Instrument Regulation shall also be eligible for funding under the Programme.
+3.   The actions referred to in paragraphs 1 and 2 shall include the following:
+(a)
+meetings and similar ad hoc events;
+(b)
+project-based structured collaboration, such as collaborative IT development by a group of Member States;
+(c)
+IT capacity-building actions, in particular the development and operation of European electronic systems;
+(d)
+human-competency and other capacity-building actions, including training and exchange of best practices;
+(e)
+support actions and other actions, including:
+(i)
+studies;
+(ii)
+innovation activities, in particular proof-of-concepts, pilot projects, prototyping initiatives, smart data mining and collaboration among systems;
+(iii)
+jointly developed communication actions;
+(iv)
+any other actions provided for in the work programmes referred to in Article 12, which are necessary for attaining, or are in support of, the objectives set out in Article 3.
+Annex I contains a non-exhaustive list of possible forms of actions as referred to in points (a), (b) and (d) of the first subparagraph.
+4.   Actions consisting in the development, deployment, maintenance and operation of adaptations of or extensions to the common components of the European electronic systems to enable cooperation with third countries that are not participating in the Programme or with international organisations shall be eligible for funding when they are of interest to the Union. The Commission shall put in place the necessary administrative arrangements, which may include a requirement for the third parties concerned to contribute financially to those actions.
+5.   Where an IT capacity-building action as referred to in point (c) of the first subparagraph of paragraph 3 of this Article concerns the development and operation of a European electronic system, only the costs related to the responsibilities conferred on the Commission pursuant to Article 11(2) shall be eligible for funding under the Programme. Member States shall bear the costs related to the responsibilities conferred on them pursuant to Article 11(3).

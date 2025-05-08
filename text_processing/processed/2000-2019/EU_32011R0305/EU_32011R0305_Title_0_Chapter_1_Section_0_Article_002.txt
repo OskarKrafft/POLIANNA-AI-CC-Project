@@ -1,0 +1,59 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions shall apply:
+1.
+‘construction product’ means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;
+2.
+‘kit’ means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;
+3.
+‘construction works’ means buildings and civil engineering works;
+4.
+‘essential characteristics’ means those characteristics of the construction product which relate to the basic requirements for construction works;
+5.
+‘performance of a construction product’ means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;
+6.
+‘level’ means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;
+7.
+‘class’ means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;
+8.
+‘threshold level’ means a minimum or maximum performance level of an essential characteristic of a construction product;
+9.
+‘product-type’ means the set of representative performance levels or classes of a construction product, in relation to its essential characteristics, produced using a given combination of raw materials or other elements in a specific production process;
+10.
+‘harmonised technical specifications’ means harmonised standards and European Assessment Documents;
+11.
+‘harmonised standard’ means a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC, on the basis of a request issued by the Commission, in accordance with Article 6 of that Directive;
+12.
+‘European Assessment Document’ means a document adopted by the organisation of TABs for the purposes of issuing European Technical Assessments;
+13.
+‘European Technical Assessment’ means the documented assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document;
+14.
+‘intended use’ means the intended use of the construction product as defined in the applicable harmonised technical specification;
+15.
+‘Specific Technical Documentation’ means documentation demonstrating that methods within the applicable system for assessment and verification of constancy of performance have been replaced by other methods, provided that the results obtained by those other methods are equivalent to the results obtained by the test methods of the corresponding harmonised standard;
+16.
+‘making available on the market’ means any supply of a construction product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+17.
+‘placing on the market’ means the first making available of a construction product on the Union market;
+18.
+‘economic operator’ means the manufacturer, importer, distributor or authorised representative;
+19.
+‘manufacturer’ means any natural or legal person who manufactures a construction product or who has such a product designed or manufactured, and markets that product under his name or trademark;
+20.
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a construction product available on the market;
+21.
+‘importer’ means any natural or legal person established within the Union, who places a construction product from a third country on the Union market;
+22.
+‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+23.
+‘withdrawal’ means any measure aimed at preventing a construction product in the supply chain from being made available on the market;
+24.
+‘recall’ means any measure aimed at achieving the return of a construction product that has already been made available to the end-user;
+25.
+‘accreditation’ has the meaning assigned to it by Regulation (EC) No 765/2008;
+26.
+‘factory production control’ means the documented, permanent and internal control of production in a factory, in accordance with the relevant harmonised technical specifications;
+27.
+‘micro-enterprise’ means a micro-enterprise as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (14);
+28.
+‘life cycle’ means the consecutive and interlinked stages of a construction product’s life, from raw material acquisition or generation from natural resources to final disposal.

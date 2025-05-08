@@ -1,0 +1,14 @@
+Article 85
+Qualifying Tier 1 instruments included in consolidated Tier 1 capital
+1.   Institutions shall determine the amount of qualifying Tier 1 capital of a subsidiary that is included in consolidated own funds by subtracting from the own funds of that undertaking the result of multiplying the amount referred to in point (a) by the percentage referred to in point (b):
+(a)
+the Tier 1 capital of the subsidiary minus the lower of the following:
+(i)
+the amount of Tier 1 capital of the subsidiary required to meet the sum of the requirement laid down in point (b) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory regulations in third countries insofar as those requirements are to be met by Tier 1 Capital;
+(ii)
+the amount of consolidated Tier 1 capital that relates to the subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in point (b) of Article 92(1), the requirements referred to in Articles 458 and 459, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in point (6) of Article 128 of Directive 2013/36/EU, the requirements referred to in Article 500 and any additional local supervisory regulations in third countries insofar as those requirements are to be met by Tier 1 Capital;
+(b)
+the qualifying Tier 1 capital of the subsidiary expressed as a percentage of all Tier 1 instruments of that undertaking plus the related share premium accounts, retained earnings and other reserves.
+2.   The calculation referred to in paragraph 1 shall be undertaken on a sub-consolidated basis for each subsidiary referred to in Article 81(1).
+An institution may choose not to undertake this calculation for a subsidiary referred to in Article 81(1). Where an institution takes such a decision, the qualifying Tier 1 capital of that subsidiary may not be included in consolidated Tier 1 capital.
+3.   Where a competent authority derogates from the application of prudential requirements on an individual basis, as laid down in Article 7, Tier 1 instruments within the subsidiaries to which the waiver is applied shall not be recognised in own funds at the sub-consolidated or at the consolidated level, as applicable.

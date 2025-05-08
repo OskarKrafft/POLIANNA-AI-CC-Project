@@ -1,0 +1,64 @@
+Article 274
+Mark-to-market Method
+1.   In order to determine the current replacement cost of all contracts with positive values, institutions shall attach the current market values to the contracts.
+2.   In order to determine the potential future credit exposure, institutions shall multiply the notional amounts or underlying values, as applicable, by the percentages in Table 1 and in accordance with the following principles:
+(a)
+contracts which do not fall within one of the five categories indicated in Table 1 shall be treated as contracts concerning commodities other than precious metals;
+(b)
+for contracts with multiple exchanges of principal, the percentages shall be multiplied by the number of remaining payments still to be made in accordance with the contract;
+(c)
+for contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset so that the market value of the contract is zero on those specified dates, the residual maturity shall be equal to the time until the next reset date. In the case of interest-rate contracts that meet those criteria and have a remaining maturity of over one year, the percentage shall be no lower than 0,5 %.
+
+Table 1
+
+Residual maturity
+Interest-rate contracts
+Contracts concerning foreign-exchange rates and gold
+Contracts concerning equities
+Contracts concerning precious metals except gold
+Contracts concerning commodities other than precious metals
+One year or less
+0  %
+1  %
+6  %
+7  %
+10  %
+Over one year, not exceeding five years
+0,5  %
+5  %
+8  %
+7  %
+12  %
+Over five years
+1,5  %
+7,5  %
+10  %
+8  %
+15  %
+3.   For contracts relating to commodities other than gold, which are referred to in point 3 of Annex II, an institution may, as an alternative to applying the percentages in Table 1, apply the percentages in Table 2 provided that that institution follows the extended maturity ladder approach set out in Article 361 for those contracts.
+
+Table 2
+
+Residual maturity
+Precious metals
+(except gold)
+Base metals
+Agricultural products
+(softs)
+Other, including energy products
+One year or less
+2  %
+2,5  %
+3  %
+4  %
+Over one year, not exceeding five years
+5  %
+4  %
+5  %
+6  %
+Over five years
+7,5  %
+8  %
+9  %
+10  %
+4.   The sum of current replacement cost and potential future credit exposure is the exposure value.

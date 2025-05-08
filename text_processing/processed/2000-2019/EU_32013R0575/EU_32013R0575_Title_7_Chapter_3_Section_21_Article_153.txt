@@ -1,0 +1,94 @@
+Article 153
+Risk weighted exposure amounts for exposures to corporates, institutions and central governments and central banks
+1.   Subject to the application of the specific treatments laid down in paragraphs 2, 3 and 4, the risk weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+
+
+
+
+
+where the risk weight RW is defined as
+(i)
+if PD = 0, RW shall be 0;
+(ii)
+if PD = 1, i.e., for defaulted exposures:
+—
+where institutions apply the LGD values set out in Article 161(1), RW shall be 0;
+—
+where institutions use own estimates of LGDs, RW shall be 
+
+;
+where the expected loss best estimate (hereinafter referred to as ‧ELBE
+                                          ‧) shall be the institution's best estimate of expected loss for the defaulted exposure in accordance with Article 181(1)(h);
+(iii)
+if 0 < PD < 1
+
+
+
+
+
+where:
+N(x)
+=
+the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x);
+G(Z)
+=
+denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) = z)
+R
+=
+denotes the coefficient of correlation, is defined as
+b
+=
+the maturity adjustment factor, which is defined as
+
+
+
+.
+2.   For all exposures to large financial sector entities, the co-efficient of correlation of paragraph 1(iii) is multiplied by 1,25. For all exposures to unregulated financial entities, the coefficients of correlation set out in paragraph 1(iii) and paragraph 4, as relevant, are multiplied by 1,25.
+3.   The risk weighted exposure amount for each exposure which meets the requirements set out in Articles 202 and 217 may be adjusted according to the following formula:
+
+
+
+
+
+where:
+PDpp
+
+=
+PD of the protection provider.
+RW shall be calculated using the relevant risk weight formula set out in point 1 for the exposure, the PD of the obligor and the LGD of a comparable direct exposure to the protection provider. The maturity factor (b) shall be calculated using the lower of the PD of the protection provider and the PD of the obligor.
+4.   For exposures to companies where the total annual sales for the consolidated group of which the firm is a part is less than EUR 50 million, institutions may use the following correlation formula in paragraph 1 (iii) for the calculation of risk weights for corporate exposures. In this formula S is expressed as total annual sales in millions of Euros with EUR 5 million ≤ S ≤ EUR 50 million. Reported sales of less than EUR 5 million shall be treated as if they were equivalent to EUR 5 million. For purchased receivables the total annual sales shall be the weighted average by individual exposures of the pool.
+
+
+
+
+
+Institutions shall substitute total assets of the consolidated group for total annual sales when total annual sales are not a meaningful indicator of firm size and total assets are a more meaningful indicator than total annual sales.
+5.   For specialised lending exposures in respect of which an institution is not able to estimate PDs or the institutions' PD estimates do not meet the requirements set out in Section 6, the institution shall assign risk weights to these exposures according to Table 1, as follows:
+
+Table 1
+
+Remaining Maturity
+Category 1
+Category 2
+Category 3
+Category 4
+Category 5
+Less than 2,5 years
+50  %
+70  %
+115  %
+250  %
+0  %
+Equal or more than 2,5 years
+70  %
+90  %
+115  %
+250  %
+0  %
+In assigning risk weights to specialised lending exposures institutions shall take into account the following factors: financial strength, political and legal environment, transaction and/or asset characteristics, strength of the sponsor and developer, including any public private partnership income stream, and security package.
+6.   For their purchased corporate receivables institutions shall comply with the requirements set out in Article 184. For purchased corporate receivables that comply in addition with the conditions set out in Article 154(5), and where it would be unduly burdensome for an institution to use the risk quantification standards for corporate exposures as set out in Section 6 for these receivables, the risk quantification standards for retail exposures as set out in Section 6 may be used.
+7.   For purchased corporate receivables, refundable purchase discounts, collateral or partial guarantees that provide first-loss protection for default losses, dilution losses, or both, may be treated as first-loss positions under the IRB securitisation framework.
+8.   Where an institution provides credit protection for a number of exposures under terms that the nth default among the exposures shall trigger payment and that this credit event shall terminate the contract, if the product has an external credit assessment from an ECAI the risk weights set out in Chapter 5 shall be applied. If the product is not rated by an ECAI, the risk weights of the exposures included in the basket will be aggregated, excluding n-1 exposures where the sum of the expected loss amount multiplied by 12,5 and the risk weighted exposure amount shall not exceed the nominal amount of the protection provided by the credit derivative multiplied by 12,5. The n-1 exposures to be excluded from the aggregation shall be determined on the basis that they shall include those exposures each of which produces a lower risk-weighted exposure amount than the risk-weighted exposure amount of any of the exposures included in the aggregation. A 1 250 % risk weight shall apply to positions in a basket for which an institution cannot determine the risk-weight under the IRB Approach.
+9.   EBA shall develop draft regulatory technical standards to specify how institutions shall take into account the factors referred to the second subparagraph of paragraph 5 when assigning risk weights to specialised lending exposures.
+EBA shall submit those draft regulatory technical standards to the Commission by 31 December 2014.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

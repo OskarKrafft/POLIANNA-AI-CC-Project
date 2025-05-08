@@ -1,0 +1,16 @@
+Article 52
+Competition
+1.   National regulatory and other competent authorities shall promote effective competition and avoid distortions of competition in the internal market when deciding to grant, amend or renew rights of use for radio spectrum for electronic communications networks and services in accordance with this Directive.
+2.   When Member States grant, amend or renew rights of use for radio spectrum, their national regulatory or other competent authorities upon the advice provided by national regulatory authority may take appropriate measures such as:
+(a)
+limiting the amount of radio spectrum bands for which rights of use are granted to any undertaking, or, in justified circumstances, attaching conditions to such rights of use, such as the provision of wholesale access, national or regional roaming, in certain bands or in certain groups of bands with similar characteristics;
+(b)
+reserving, if appropriate and justified with regard to a specific situation in the national market, a certain part of a radio spectrum band or group of bands for assignment to new entrants;
+(c)
+refusing to grant new rights of use for radio spectrum or to allow new radio spectrum uses in certain bands, or attaching conditions to the grant of new rights of use for radio spectrum or to the authorisation of new uses of radio spectrum, in order to avoid the distortion of competition by any assignment, transfer or accumulation of rights of use;
+(d)
+including conditions prohibiting, or imposing conditions on, transfers of rights of use for radio spectrum, not subject to Union or national merger control, where such transfers are likely to result in significant harm to competition;
+(e)
+amending the existing rights in accordance with this Directive where this is necessary to remedy ex post a distortion of competition by any transfer or accumulation of rights of use for radio spectrum.
+National regulatory and other competent authorities shall, taking into account market conditions and available benchmarks, base their decisions on an objective and forward-looking assessment of the market competitive conditions, of whether such measures are necessary to maintain or achieve effective competition, and of the likely effects of such measures on existing and future investments by market participants in particular for network roll-out. In doing so, they shall take into account the approach to market analysis as set out in Article 67(2).
+3.   When applying paragraph 2 of this Article, national regulatory and other competent authorities shall act in accordance with the procedures provided in Articles 18, 19, 23 and 35.

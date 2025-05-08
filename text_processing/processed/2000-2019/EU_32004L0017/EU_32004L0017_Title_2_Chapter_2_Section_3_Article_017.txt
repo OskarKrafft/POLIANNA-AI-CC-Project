@@ -1,0 +1,30 @@
+Article 17
+Methods of calculating the estimated value of contracts, framework agreements and dynamic purchasing systems
+1. The calculation of the estimated value of a contract shall be based on the total amount payable, net of VAT, as estimated by the contracting entity. This calculation shall take account of the estimated total amount, including any form of option and any renewals of the contract.
+Where the contracting entity provides for prizes or payments to candidates or tenderers it shall take them into account when calculating the estimated value of the contract.
+2. Contracting entities may not circumvent this Directive by splitting works projects or proposed purchases of a certain quantity of supplies and/or services or by using special methods for calculating the estimated value of contracts.
+3. With regard to framework agreements and dynamic purchasing systems, the estimated value to be taken into consideration shall be the maximum estimated value net of VAT of all the contracts envisaged for the total term of the agreement or system.
+4. For the purposes of Article 16, contracting entities shall include in the estimated value of a works contract both the cost of the works and the value of any supplies or services necessary for the execution of the works, which they make available to the contractor.
+5. The value of supplies or services which are not necessary for the performance of a particular works contract may not be added to the value of the works contract when to do so would result in removing the procurement of those supplies or services from the scope of this Directive.
+6. (a) Where a proposed work or purchase of services may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots.
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 16, this Directive shall apply to the awarding of each lot.
+However, the contracting entities may waive such application in respect of lots the estimated value of which, net of VAT, is less than EUR 80000 for services or EUR 1 million for works, provided that the aggregate value of those lots does not exceed 20 % of the aggregate value of the lots as a whole.
+(b) Where a proposal for the acquisition of similar supplies may result in contracts being awarded at the same time in the form of separate lots, account shall be taken of the total estimated value of all such lots when applying Article 16.
+Where the aggregate value of the lots is equal to or exceeds the threshold laid down in Article 16, this Directive shall apply to the awarding of each lot.
+However, the contracting entities may waive such application in respect of lots, the estimated value of which, net of VAT, is less than EUR 80000, provided that the aggregate cost of those lots does not exceed 20 % of the aggregate value of the lots as a whole.
+7. In the case of supply or service contracts which are regular in nature or which are intended to be renewed within a given period, the calculation of the estimated contract value shall be based on the following:
+(a) either the total actual value of the successive contracts of the same type awarded during the preceding twelve months or financial year adjusted, if possible, to take account of the changes in quantity or value which would occur in the course of the 12 months following the initial contract;
+(b) or the total estimated value of the successive contracts awarded during the 12 months following the first delivery, or during the financial year if that is longer than 12 months.
+8. The basis for calculating the estimated value of a contract including both supplies and services shall be the total value of the supplies and services, regardless of their respective shares. The calculation shall include the value of the siting and installation operations.
+9. With regard to supply contracts relating to the leasing, hire, rental or hire purchase of products, the value to be taken as a basis for calculating the estimated contract value shall be as follows:
+(a) in the case of fixed-term contracts, if that term is less than or equal to 12 months, the total estimated value for the term of the contract or, if the term of the contract is greater than 12 months, the total value including the estimated residual value;
+(b) in the case of contracts without a fixed term or the term of which cannot be defined, the monthly value multiplied by 48.
+10. For the purposes of calculating the estimated contract value of service contracts, the following amounts shall, where appropriate, be taken into account:
+(a) the premium payable, and other forms of remuneration, in the case of insurance services;
+(b) fees, commissions, interest and other modes of remuneration, in the case of banking and other financial services;
+(c) fees, commissions payable and other forms of remuneration, in the case of contracts involving design tasks.
+11. In the case of service contracts which do not indicate a total price, the value to be used as the basis for calculating the estimated contract value shall be:
+(a) in the case of fixed-term contracts, if that term is less than or equal to 48 months: the total value for their full term;
+(b) in the case of contracts without a fixed term or with a term greater than 48 months: the monthly value multiplied by 48.
+
+SUBSECTION 1

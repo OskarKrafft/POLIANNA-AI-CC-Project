@@ -1,0 +1,21 @@
+Article 19
+Extension and outsourcing of activities and services
+1.   An authorised CSD shall submit an application for authorisation to the competent authority of its home Member State where it wishes to outsource a core service to a third party under Article 30 or extend its activities to one or more of the following:
+(a)
+additional core services listed in Section A of the Annex, not covered by the initial authorisation;
+(b)
+ancillary services permitted under, but not explicitly listed in Section B of the Annex, not covered by the initial authorisation;
+(c)
+the operation of another securities settlement system;
+(d)
+the settlement of all or part of the cash leg of its securities settlement system in the books of another settlement agent;
+(e)
+setting up an interoperable link, including those with third-country CSDs.
+2.   The granting of authorisation under paragraph 1 shall follow the procedure laid down in Article 17.
+The competent authority shall inform the applicant CSD whether the authorisation has been granted or refused within three months of the submission of a complete application.
+3.   CSDs established in the Union that intend to establish an interoperable link shall submit an application for authorisation as required under point (e) of paragraph 1, to their respective competent authorities. Those authorities shall consult each other regarding the approval of the CSD link. In the event of divergent decisions and if agreed by both competent authorities the matter may be referred to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+4.   The authorities referred to in paragraph 3 shall refuse to authorise a link only where such a CSD link would threaten the smooth and orderly functioning of the financial markets or cause systemic risk.
+5.   Interoperable links of CSDs that outsource some of their services related to those interoperable links to a public entity in accordance with Article 30(5) and CSD links that are not referred to in point (e) of paragraph 1 shall not be subject to authorisation under that point but shall be notified to the CSDs’ competent and relevant authorities prior to their implementation by providing all relevant information that allows such authorities to assess compliance with the requirements provided in Article 48.
+6.   A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with the conditions and procedures provided in this Article. Where links are established with a third-country CSD the information provided by the requesting CSD shall allow the competent authority to evaluate whether such links fulfil the requirements provided in Article 48 or the requirements that are equivalent to those provided in Article 48.
+7.   The competent authority of the requesting CSD shall require that CSD to discontinue a CSD link that has been notified when such link does not fulfil the requirements provided for in Article 48 and thereby would threaten the smooth and orderly functioning of the financial markets or cause systemic risk. Where a competent authority requires the CSD to discontinue a CSD link, it shall follow the procedure laid down in Article 20(2) and (3).
+8.   The additional ancillary services explicitly listed in Section B of the Annex shall not be subject to authorisation, but shall be notified to the competent authority prior to their provision.

@@ -1,0 +1,52 @@
+Article 12
+Labelling and product and equipment information
+1.   Products and equipment that contain, or whose functioning relies upon, fluorinated greenhouse gases shall not be placed on the market unless they are labelled. This only applies to:
+(a)
+refrigeration equipment;
+(b)
+air-conditioning equipment;
+(c)
+heat pumps;
+(d)
+fire protection equipment;
+(e)
+electrical switchgear;
+(f)
+aerosol dispenser that contain fluorinated greenhouse gases, with the exception of metered dose inhalers for the delivery of pharmaceutical ingredients;
+(g)
+all fluorinated greenhouse gas containers;
+(h)
+fluorinated greenhouse gas-based solvents;
+(i)
+organic Rankine cycles.
+2.   Products or equipment subject to an exemption under Article 11(3) shall be labelled accordingly and shall include a reference that those products or equipment may only be used for the purpose for which an exemption under that Article was granted.
+3.   The label required pursuant to paragraph 1 shall indicate the following information:
+(a)
+a reference that the product or equipment contains fluorinated greenhouse gases or that its functioning relies upon such gases;
+(b)
+the accepted industry designation for the fluorinated greenhouse gases concerned or, if no such designation is available, the chemical name;
+(c)
+from 1 January 2017, the quantity expressed in weight and in CO2 equivalent of fluorinated greenhouse gases contained in the product or equipment, or the quantity of fluorinated greenhouse gases for which the equipment is designed, and the global warming potential of those gases.
+The label required pursuant to paragraph 1 shall indicate the following information, where applicable:
+(a)
+a reference that the fluorinated greenhouse gases are contained in hermetically sealed equipment;
+(b)
+a reference that the electrical switchgear has a tested leakage rate of less than 0,1 % per year as set out in the technical specification of the manufacturer.
+4.   The label shall be clearly readable and indelible and shall be placed either:
+(a)
+adjacent to the service ports for charging or recovering the fluorinated greenhouse gas; or
+(b)
+on that part of the product or equipment that contains the fluorinated greenhouse gas.
+The label shall be in the official languages of the Member State in which it is to be placed on the market.
+5.   Foams and pre-blended polyols that contain fluorinated greenhouse gases shall not be placed on the market unless the fluorinated greenhouse gases are identified with a label using the accepted industry designation or, if no such designation is available, the chemical name. The label shall clearly indicate that the foam or pre-blended polyol contains fluorinated greenhouse gases. In the case of foam boards, this information shall be clearly and indelibly stated on the boards.
+6.   Reclaimed or recycled fluorinated greenhouse gases shall be labelled with an indication that the substance has been reclaimed or recycled, information on the batch number and the name and address of the reclamation or recycling facility.
+7.   Fluorinated greenhouse gases placed on the market for destruction shall be labelled with an indication that the contents of the container may only be destroyed.
+8.   Fluorinated greenhouse gases placed on the market for direct export shall be labelled with an indication that the contents of the container may only be directly exported.
+9.   Fluorinated greenhouse gases placed on the market for the use in military equipment shall be labelled with an indication that the contents of the container may only be used for that purpose.
+10.   Fluorinated greenhouse gases placed on the market for the etching of semiconductor material or the cleaning of chemicals vapour deposition chambers within the semiconductor manufacturing sector shall be labelled with an indication that the contents of the container may only be used for that purpose.
+11.   Fluorinated greenhouse gases placed on the market for feedstock use shall be labelled with an indication that the contents of the container may only be used as feedstock.
+12.   Fluorinated greenhouse gases placed on the market for producing metered dose inhalers for the delivery of pharmaceutical ingredients shall be labelled with an indication that the contents of the container may only be used for that purpose.
+13.   The information referred to in paragraphs 3 and 5 shall be included in instruction manuals for the products and equipment concerned.
+In the case of products and equipment that contain fluorinated greenhouse gases with a global warming potential of 150 or more this information shall also be included in descriptions used for advertising.
+14.   The Commission may, by means of implementing acts, determine the format of the labels referred to in paragraph 1 and paragraphs 4 to 12 and may repeal acts adopted pursuant to Article 7(3) of Regulation (EC) No 842/2006. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 24.
+15.   The Commission shall be empowered to adopt delegated acts in accordance with Article 22 amending the labelling requirements set out in paragraphs 4 to 12 where appropriate in view of commercial or technological development.

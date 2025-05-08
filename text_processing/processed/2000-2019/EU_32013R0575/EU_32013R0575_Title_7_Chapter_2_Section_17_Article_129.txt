@@ -1,0 +1,71 @@
+Article 129
+Exposures in the form of covered bonds
+1.   To be eligible for the preferential treatment set out in paragraphs 4 and 5, bonds as referred to in Article 52(4) of Directive 2009/65/EC (covered bonds) shall meet the requirements set out in paragraph 7 and shall be collateralised by any of the following eligible assets:
+(a)
+exposures to or guaranteed by central governments, ESCB central banks, public sector entities, regional governments or local authorities in the Union;
+(b)
+exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify as a minimum for the credit quality step 2 as set out in this Chapter, provided that they do not exceed 20 % of the nominal amount of outstanding covered bonds of the issuing institutions;
+(c)
+exposures to institutions that qualify for the credit quality step 1 as set out in this Chapter. The total exposure of this kind shall not exceed 15 % of the nominal amount of outstanding covered bonds of the issuing institution. Exposures to institutions in the Union with a maturity not exceeding 100 days shall not be comprised by the step 1 requirement but those institutions shall as a minimum qualify for credit quality step 2 as set out in this Chapter;
+(d)
+loans secured by:
+(i)
+residential property up to the lesser of the principal amount of the liens that are combined with any prior liens and 80 % of the value of the pledged properties; or
+(ii)
+senior units issued by French Fonds Communs de Titrisation or equivalent securitisation entities governed by the laws of a Member State securitising residential property exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of residential mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 80 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Chapter and that such units do not exceed 10 % of the nominal amount of the outstanding issue.
+(e)
+residential loans fully guaranteed by an eligible protection provider referred to in Article 201 qualifying for the credit quality step 2 or above as set out in this Chapter, where the portion of each of the loans that is used to meet the requirement set out in this paragraph for collateralisation of the covered bond does not represent more than 80 % of the value of the corresponding residential property located in France, and where a loan-to-income ratio respects at most 33 % when the loan has been granted. There shall be no mortgage liens on the residential property when the loan is granted, and for the loans granted from 1 January 2014 the borrower shall be contractually committed not to grant such liens without the consent of the credit institution that granted the loan. The loan-to-income ratio represents the share of the gross income of the borrower that covers the reimbursement of the loan, including the interests. The protection provider shall be either a financial institution authorised and supervised by the competent authorities and subject to prudential requirements comparable to those applied to institutions in terms of robustness or an institution or an insurance undertaking. It shall establish a mutual guarantee fund or equivalent protection for insurance undertakings to absorb credit risk losses, whose calibration shall be periodically reviewed by the competent authorities. Both the credit institution and the protection provider shall carry out a creditworthiness assessment of the borrower;
+(f)
+loans secured by:
+(i)
+commercial immovable property up to the lesser of the principal amount of the liens that are combined with any prior liens and 60 % of the value of the pledged properties; or
+(ii)
+senior units issued by French Fonds Communs de Titrisation or equivalent securitisation entities governed by the laws of a Member State securitising commercial immovable property exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of commercial mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 60 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Chapter and that such units do not exceed 10 % of the nominal amount of the outstanding issue.
+Loans secured by commercial immovable property are eligible where the Loan to Value ratio of 60 % is exceeded up to a maximum level of 70 % if the value of the total assets pledged as collateral for the covered bonds exceed the nominal amount outstanding on the covered bond by at least 10 %, and the bondholders' claim meets the legal certainty requirements set out in Chapter 4. The bondholders' claim shall take priority over all other claims on the collateral;
+(g)
+loans secured by maritime liens on ships up to the difference between 60 % of the value of the pledged ship and the value of any prior maritime liens.
+For the purposes of points (c), (d)(ii) and (f)(ii) of the first subparagraph, exposures caused by transmission and management of payments of the obligors of, or liquidation proceeds in respect of, loans secured by pledged properties of the senior units or debt securities shall not be comprised in calculating the limits referred to in those points.
+The competent authorities may, after consulting EBA, partly waive the application of point (c) of the first subparagraph and allow credit quality step 2 for up to 10 % of the total exposure of the nominal amount of outstanding covered bonds of the issuing institution, provided that significant potential concentration problems in the Member States concerned can be documented due to the application of the credit quality step 1 requirement referred to in that point.
+2.   The situations referred to in points (a) to (f) of paragraph 1 shall also include collateral that is exclusively restricted by legislation to the protection of the bond-holders against losses.
+3.   Institutions shall for immovable property collateralising covered bonds meet the requirements set out in Article 208 and the valuation rules set out in Article 229(1).
+4.   Covered bonds for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 6a which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+
+Table 6a
+
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+10  %
+20  %
+20  %
+50  %
+50  %
+100  %
+5.   Covered bonds for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight on the basis of the risk weight assigned to senior unsecured exposures to the institution which issues them. The following correspondence between risk weights shall apply:
+(a)
+if the exposures to the institution are assigned a risk weight of 20 %, the covered bond shall be assigned a risk weight of 10 %;
+(b)
+if the exposures to the institution are assigned a risk weight of 50 %, the covered bond shall be assigned a risk weight of 20 %;
+(c)
+if the exposures to the institution are assigned a risk weight of 100 %, the covered bond shall be assigned a risk weight of 50 %;
+(d)
+if the exposures to the institution are assigned a risk weight of 150 %, the covered bond shall be assigned a risk weight of 100 %.
+6.   Covered bonds issued before 31 December 2007 are not subject to the requirements of paragraphs 1 and 3. They are eligible for the preferential treatment under paragraphs 4 and 5 until their maturity.
+7.   Exposures in the form of covered bonds are eligible for preferential treatment, provided that the institution investing in the covered bonds can demonstrate to the competent authorities that:
+(a)
+it receives portfolio information at least on:
+(i)
+the value of the cover pool and outstanding covered bonds;
+(ii)
+the geographical distribution and type of cover assets, loan size, interest rate and currency risks;
+(iii)
+the maturity structure of cover assets and covered bonds; and
+(iv)
+the percentage of loans more than ninety days past due;
+(b)
+the issuer makes the information referred to in point (a) available to the institution at least semi annually.

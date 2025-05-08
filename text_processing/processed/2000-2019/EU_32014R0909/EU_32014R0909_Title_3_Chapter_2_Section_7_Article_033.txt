@@ -1,0 +1,16 @@
+Article 33
+Requirements for participation
+1.   For each securities settlement system it operates a CSD shall have publicly disclosed criteria for participation which allow fair and open access for all legal persons that intend to become participants. Such criteria shall be transparent, objective, and non-discriminatory so as to ensure fair and open access to the CSD with due regard to risks to financial stability and the orderliness of markets. Criteria that restrict access shall be permitted only to the extent that their objective is to justifiably control a specified risk for the CSD.
+2.   A CSD shall treat requests for access promptly by providing a response to such requests within one month at the latest and shall make the procedures for treating access requests publicly available.
+3.   A CSD shall deny access to a participant meeting the criteria referred to in paragraph 1 only where duly justified in writing and based on a comprehensive risk assessment.
+In the event of a refusal, the requesting participant has the right to complain to the competent authority of the CSD that has refused access.
+That competent authority shall duly examine the complaint by assessing the reasons for refusal and shall provide the requesting participant with a reasoned reply.
+That competent authority shall consult the competent authority of the place of establishment of the requesting participant on its assessment of the complaint. Where the authority of the requesting participant disagrees with the assessment provided, any one of the two competent authorities may refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+Where the refusal by the CSD to grant access to the requesting participant is deemed to be unjustified, the competent authority of the CSD that has refused access shall issue an order requiring that CSD to grant access to the requesting participant.
+4.   A CSD shall have objective and transparent procedures for the suspension and orderly exit of participants that no longer meet the criteria for participation referred to in paragraph 1.
+5.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the risks to be taken into account by CSDs when carrying out a comprehensive risk assessment, and by competent authorities when assessing the reasons for refusal in accordance with paragraph 3 and the elements of the procedure referred to in paragraph 3.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+6.   ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms and templates for the procedure referred to in paragraph 3.
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

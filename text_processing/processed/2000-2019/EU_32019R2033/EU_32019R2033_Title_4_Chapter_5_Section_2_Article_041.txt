@@ -1,0 +1,24 @@
+Article 41
+Exclusions
+1.   The following exposures shall be excluded from the requirements set out in Article 37:
+(a)
+exposures which are entirely deducted from an investment firm’s own funds;
+(b)
+exposures incurred in the ordinary course of the settlement of payment services, foreign currency transactions, securities transactions and the provision of money transmission;
+(c)
+exposures constituting claims against:
+(i)
+central governments, central banks, public sector entities, international organisations or multilateral development banks and exposures guaranteed by or attributable to such persons, where those exposures receive a 0 % risk weight under Articles 114 to 118 of Regulation (EU) No 575/2013;
+(ii)
+the regional governments and local authorities of countries that are members of the European Economic Area;
+(iii)
+central counterparties and default fund contributions to central counterparties.
+2.   Competent authorities may fully or partially exempt the following exposures from the application of Article 37:
+(a)
+covered bonds;
+(b)
+exposures incurred by an investment firm to its parent undertaking, to other subsidiaries of that parent undertaking or to its own subsidiaries, insofar as those undertakings are supervised on a consolidated basis in accordance with Article 7 of this Regulation or with Regulation (EU) No 575/2013, are supervised for compliance with the group capital test in accordance with Article 8 of this Regulation, or are supervised in accordance with equivalent standards in force in a third country, and provided that the following conditions are met:
+(i)
+there is no current or foreseen material practical or legal impediment to the prompt transfer of capital or repayment of liabilities by the parent undertaking; and
+(ii)
+the risk evaluation, measurement and control procedures of the parent undertaking include the financial sector entity.

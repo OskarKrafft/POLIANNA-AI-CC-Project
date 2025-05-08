@@ -1,0 +1,17 @@
+Article 40
+Exemptions for new technologies or new concepts
+1.   The manufacturer may apply for an EU type-approval in respect of a type of vehicle, system, component or separate technical unit that incorporates new technologies or concepts which are incompatible with one or more acts listed in Annex II.
+2.   The approval authority shall grant the EU type-approval referred to in paragraph 1 where all of the following conditions are met:
+(a)
+the application states the reasons why the technologies or concepts in question make the system, component or separate technical unit incompatible with one or more acts listed in Annex II;
+(b)
+the application describes the safety and environmental implications of the new technology and the measures taken in order to ensure at least an equivalent level of safety and environmental protection as that provided by the requirements from which exemption is sought;
+(c)
+test descriptions and results are presented which prove that the condition in point (b) is met.
+3.   The granting of such an EU type-approval exempting new technologies or new concepts shall be subject to authorisation by the Commission. That authorisation shall be given by means of an implementing act. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 73(2).
+4.   Pending the decision on authorisation by the Commission, the approval authority may already issue the EU type-approval, but it shall be provisional, valid only in the territory of that Member State, in respect of a type of vehicle covered by the exemption sought. The approval authority shall inform the Commission and the other Member States thereof without delay by means of a file containing the information referred to in paragraph 2.
+The provisional nature and the limited territorial validity shall be apparent from the heading of the type-approval certificate and the heading of the certificate of conformity. The Commission may adopt implementing acts in order to provide for harmonised templates for the type-approval certificate and the certificate of conformity for the purposes of this paragraph. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(2).
+5.   Other approval authorities may decide to accept in writing the provisional approval referred to in paragraph 4 within their territory.
+6.   Where appropriate, the authorisation by the Commission referred to in paragraph 3 shall also specify whether it is subject to any restrictions. In all cases, the type-approval shall be valid for at least 36 months.
+7.   If the Commission decides to refuse authorisation, the approval authority shall immediately give notice to the holder of the provisional type-approval referred to in paragraph 4 that the provisional approval will be revoked six months after the date of the Commission’s refusal.
+However, vehicles manufactured in conformity with the provisional approval before it ceases to be valid may be placed on the market, registered or entered into service in any Member State that accepted the provisional approval.

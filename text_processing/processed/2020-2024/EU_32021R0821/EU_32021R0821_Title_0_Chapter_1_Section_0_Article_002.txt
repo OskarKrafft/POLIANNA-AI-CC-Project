@@ -1,0 +1,80 @@
+Article 2
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘dual-use items’ means items, including software and technology, which can be used for both civil and military purposes, and includes items which can be used for the design, development, production or use of nuclear, chemical or biological weapons or their means of delivery, including all items which can be used for both non-explosive uses and assisting in any way in the manufacture of nuclear weapons or other nuclear explosive devices;
+(2)
+‘export’ means:
+(a)
+an export procedure within the meaning of Article 269 of the Union Customs Code;
+(b)
+a re-export within the meaning of Article 270 of the Union Customs Code; a re-export also occurs if, during a transit through the customs territory of the Union according to point (11) of this Article, an exit summary declaration has to be lodged because the final destination of the items has been changed;
+(c)
+an outward processing procedure within the meaning of Article 259 of the Union Customs Code; or
+(d)
+transmission of software or technology by electronic media, including by fax, telephone, electronic mail or any other electronic means to a destination outside the customs territory of the Union; it includes making available in an electronic form such software and technology to natural or legal persons or to partnerships outside the customs territory of the Union; it also includes the oral transmission of technology when the technology is described over a voice transmission medium;
+(3)
+‘exporter’ means:
+(a)
+any natural or legal person or any partnership that, at the time when the export declaration or the re-export declaration or an exit summary declaration is accepted, holds the contract with the consignee in the third country and has the power to determine the sending of the items out of the customs territory of the Union; where no export contract has been concluded or if the holder of the contract does not act on its own behalf, exporter means the person who has the power to determine the sending of the items out of the customs territory of the Union; or
+(b)
+any natural or legal person or any partnership that decides to transmit software or technology by electronic media, including by fax, telephone, electronic mail or by any other electronic means to a destination outside the customs territory of the Union or to make available in an electronic form such software and technology to natural or legal persons or to partnerships outside the customs territory of the Union.
+Where the benefit of a right to dispose of the dual-use item belongs to a person resident or established outside the customs territory of the Union pursuant to the contract on which the export is based, the exporter shall be considered to be the contracting party resident or established in the customs territory of the Union;
+(c)
+where point (a) or (b) is not applicable, any natural person carrying the dual-use items to be exported where these dual-use items are contained in the person’s personal baggage within the meaning of point (a) of Article 1(19) of Commission Delegated Regulation (EU) 2015/2446 (13);
+(4)
+‘export declaration’ means an act whereby any natural or legal person or any partnership indicates, in the prescribed form and manner, the wish to place dual-use items specified in point (1) under an export procedure;
+(5)
+‘re-export declaration’ means an act within the meaning of Article 5(13) of the Union Customs Code;
+(6)
+‘exit summary declaration’ means an act within the meaning of Article 5(10) of the Union Customs Code;
+(7)
+‘brokering services’ means:
+(a)
+the negotiation or arrangement of transactions for the purchase, sale or supply of dual-use items from a third country to any other third country; or
+(b)
+the selling or buying of dual-use items that are located in third countries for their transfer to another third country.
+For the purposes of this Regulation, the sole provision of ancillary services is excluded from this definition. Ancillary services are transportation, financial services, insurance or re-insurance, or general advertising or promotion;
+(8)
+‘broker’ means any natural or legal person or any partnership that provides brokering services from the customs territory of the Union into the territory of a third country;
+(9)
+‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services, including by electronic means as well as by telephone or any other verbal forms of assistance;
+(10)
+‘provider of technical assistance’ means:
+(a)
+any natural or legal person or any partnership that provides technical assistance from the customs territory of the Union into the territory of a third country;
+(b)
+any natural or legal person or any partnership resident or established in a Member State that provides technical assistance within the territory of a third country; or
+(c)
+any natural or legal person or any partnership resident or established in a Member State that provides technical assistance to a resident of a third country temporarily present in the customs territory of the Union;
+(11)
+‘transit’ means a transport of non-Union dual-use items entering and passing through the customs territory of the Union with a destination outside the customs territory of the Union where those items:
+(a)
+are placed under an external transit procedure according to Article 226 of the Union Customs Code and only pass through the customs territory of the Union;
+(b)
+are trans-shipped within, or directly re-exported from, a free zone;
+(c)
+are in temporary storage and are directly re-exported from a temporary storage facility; or
+(d)
+were brought into the customs territory of the Union on the same vessel or aircraft that will take them out of that territory without unloading;
+(12)
+‘individual export authorisation’ means an authorisation granted to one specific exporter for one end-user or consignee in a third country and covering one or more dual-use items;
+(13)
+‘global export authorisation’ means an authorisation granted to one specific exporter in respect of a type or category of dual-use items which may be valid for exports to one or more specified end-users and/or in one or more specified third countries;
+(14)
+‘large project authorisation’ means an individual export authorisation or a global export authorisation granted to one specific exporter, in respect of a type or category of dual-use items which may be valid for exports to one or more specified end-users in one or more specified third countries for the purpose of a specified large-scale project;
+(15)
+‘Union general export authorisation’ means an export authorisation for exports to certain countries of destination that is available to all exporters who respect the conditions and requirements listed in Sections A to H of Annex II;
+(16)
+‘national general export authorisation’ means an export authorisation defined by national legislation in accordance with Article 12(6) and Section C of Annex III;
+(17)
+‘customs territory of the Union’ means the customs territory of the Union within the meaning of Article 4 of the Union Customs Code;
+(18)
+‘non-Union dual-use items’ means items that have the status of non-Union goods within the meaning of Article 5(24) of the Union Customs Code;
+(19)
+‘arms embargo’ means an arms embargo imposed by a decision or a common position adopted by the Council or a decision of the Organisation for Security and Cooperation in Europe (OSCE) or an arms embargo imposed by a binding resolution of the Security Council of the United Nations;
+(20)
+‘cyber-surveillance items’ means dual-use items specially designed to enable the covert surveillance of natural persons by monitoring, extracting, collecting or analysing data from information and telecommunication systems;
+(21)
+‘internal compliance programme’ or ‘ICP’ means ongoing effective, appropriate and proportionate policies and procedures adopted by exporters to facilitate compliance with the provisions and objectives of this Regulation and with the terms and conditions of the authorisations implemented under this Regulation, including, inter alia, due diligence measures assessing risks related to the export of the items to end-users and end-uses;
+(22)
+‘essentially identical transaction’ means a transaction concerning items with essentially identical parameters or technical characteristics and involving the same end-user or consignee as another transaction.

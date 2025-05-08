@@ -1,0 +1,16 @@
+Article 78
+Protection for security arrangements
+1.   Member States shall ensure that there is appropriate protection for liabilities secured under a security arrangement so as to prevent one of the following:
+(a)
+the transfer of assets against which the liability is secured unless that liability and benefit of the security are also transferred;
+(b)
+the transfer of a secured liability unless the benefit of the security are also transferred;
+(c)
+the transfer of the benefit of the security unless the secured liability is also transferred; or
+(d)
+the modification or termination of a security arrangement through the use of ancillary powers, if the effect of that modification or termination is that the liability ceases to be secured.
+2.   Notwithstanding paragraph 1, where necessary in order to ensure availability of the covered deposits the resolution authority may:
+(a)
+transfer covered deposits which are part of any of the arrangements mentioned in paragraph 1 without transferring other assets, rights or liabilities that are part of the same arrangement; and
+(b)
+transfer, modify or terminate those assets, rights or liabilities without transferring the covered deposits

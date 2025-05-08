@@ -1,0 +1,9 @@
+Article 232
+Group capital add-on
+In determining whether the consolidated group Solvency Capital Requirement appropriately reflects the risk profile of the group, the group supervisor shall pay particular attention to any case where the circumstances referred to in Article 37(1)(a) to (c) may arise at group level, in particular where:
+(a)
+a specific risk existing at group level would not be sufficiently covered by the standard formula or the internal model used, because it is difficult to quantify;
+(b)
+a capital add-on to the Solvency Capital Requirement of the related insurance or reinsurance undertakings is imposed by the supervisory authorities concerned, in accordance with Articles 37 and 231(7).
+Where the risk profile of the group is not adequately reflected, a capital add-on to the consolidated group Solvency Capital Requirement may be imposed.
+Article 37(1) to (5), together with implementing measures taken in accordance with Article 37(6), shall apply mutatis mutandis.

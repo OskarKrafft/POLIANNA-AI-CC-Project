@@ -1,0 +1,13 @@
+Article 14
+Information on the state of health and expected lifetime of batteries
+1.   From 18 August 2024, up-to-date data for the parameters for determining the state of health and expected lifetime of batteries as set out in Annex VII shall be contained in the battery management system of stationary battery energy storage systems, LMT batteries and electric vehicle batteries.
+2.   Read-only access to the data for the parameters set out in Annex VII through the battery management system referred to in paragraph 1 shall be provided, respecting the intellectual property rights of the battery manufacturer, on a non-discriminatory basis to the natural or legal person who has legally purchased the battery, including independent operators or waste management operators, or any third party acting on their behalf at any time, for the purpose of:
+(a)
+making the battery available to independent aggregators or market participants through energy storage;
+(b)
+evaluating the residual value or remaining lifetime of the battery and capability for further use, based on the estimation of the state of health of the battery;
+(c)
+facilitating the preparation for re-use, preparation for repurposing, repurposing or remanufacturing of the battery.
+3.   The battery management system shall include a software reset function, in case economic operators carrying out preparation for re-use, preparation for repurposing, repurposing or remanufacturing need to upload different battery management system software. If the software reset function is used, the original battery manufacturer shall not be held liable for any breach of the safety or functionality of the battery that could be attributed to battery management system software uploaded after that battery was placed on the market.
+4.   The Commission is empowered to adopt a delegated act in accordance with Article 89 to amend the parameters for determining the state of health and expected lifetime of batteries set out in Annex VII in view of market developments and technical and scientific progress and to ensure synergies with parameters set in UN Global Technical Regulation No 22 on in-vehicle battery durability for electrified vehicles, with due regard to the intellectual property rights of the battery manufacturer.
+5.   The provisions of this Article shall apply in addition to those laid down in Union law on type approval of vehicles.

@@ -1,0 +1,135 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(1)
+‘construction product’ means any formed or formless physical item, including 3D-printed products, or a kit that is placed on the market, including by means of supply to the construction site, for incorporation in a permanent manner into construction works or parts thereof with the exception of items that need first to be integrated into a kit or another construction product prior to being incorporated in a permanent manner into construction works;
+(2)
+‘product’ means a construction product or other item falling within the scope of this Regulation as set out in Article 2;
+(3)
+‘permanent’ means intended to remain in the construction work, or in parts thereof, after the completion of the construction or renovation process;
+(4)
+‘making available on the market’ means any supply of a product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge, regardless whether in the framework of providing a service or not;
+(5)
+‘placing on the market’ means the first making available of a product on the Union market, or the first making available on the Union market of a used product after a deinstallation of such a product;
+(6)
+‘performance’ means the degree to which a product has certain scalable essential characteristics;
+(7)
+‘essential characteristics’ means those characteristics of the product which relate to the basic requirements for construction works set out in Annex I, and those which are listed as predetermined environmental essential characteristics in Annex II;
+(8)
+‘product requirement’ means a characteristic, as set out in Annex III, which a product must have before it can be placed on the market;
+(9)
+‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the fulfilment service provider or any other natural or legal person who is subject to this Regulation in relation to the manufacturing or remanufacturing of products, including products to be reused, or to making those products available on the market, in accordance with this Regulation;
+(10)
+‘manufacturer’ means a ‘manufacturer’ as defined in Article 3, point (8), of Regulation (EU) 2019/1020;
+(11)
+‘3D-dataset’ means a set of numerical data describing the shape of an object by its outer dimensions and its cavities;
+(12)
+‘construction works’ means buildings and civil engineering works whether over or in the ground or water, including but not limited to roads, bridges, tunnels, pylons and other facilities for transport of electricity, communication cables, pipelines, aqueducts, dams, airports, ports, waterways, and installations which are the bases for the rails of railways;
+(13)
+‘level’ means the result of the assessment of the performance of a product in relation to its essential characteristics, expressed as a numerical value;
+(14)
+‘class’ means a range of levels, delimited by a minimum and a maximum value, of performance of a product;
+(15)
+‘threshold level’ means a minimum or maximum performance level of a product with regard to a certain essential characteristic;
+(16)
+‘key part’ means a part which is used as a component or spare part for a product and which has been specified by a harmonised technical specification as essential for the characterisation, safety or performance of a product;
+(17)
+‘kit’ means a product placed on the market by a single economic operator as a set of at least two separate items, none of which needs to be a product itself, intended to be incorporated together into construction works;
+(18)
+‘European assessment document’ or ‘EAD’ means a document adopted by the organisation of technical assessment bodies for the purposes of issuing European technical assessments;
+(19)
+‘European technical assessment’ or ‘ETA’ means the documented assessment of the performance of a product, in relation to its essential characteristics, in accordance with the respective European assessment document;
+(20)
+‘used product’ means a product that is not waste or has ceased to be waste in accordance with Directive 2008/98/EC, and which has been installed at least once into a construction work, and that:
+(a)
+has not undergone a process going beyond checking, cleaning or repairing recovery operations by which products or components of products are prepared so that they can be reused for construction purposes without any other pre-processing; or
+(b)
+has been subject to a transformative process going beyond checking, cleaning and repairing recovery operations which, according to the applicable harmonised technical specification, is qualified as non-essential to the product’s performance;
+(21)
+‘intended use’ means the purpose of a product as set out in the applicable harmonised technical specifications or European assessment documents;
+(22)
+‘declared use’ means the use intended by the manufacturer, including the conditions for usage, as set out in technical documentation, on labels, in general product information, in instructions for use, in safety information, or in publicity material;
+(23)
+‘repair’ means the process of fixing a faulty product or replacing its defective components, in order to return the product to a condition where it can fulfil its declared use;
+(24)
+‘maintenance’ means an action carried out to keep a product in a condition where it is able to function as specified;
+(25)
+‘remanufactured product’ means a product that is not waste, or has ceased to be waste in accordance with Directive 2008/98/EC, which has been installed at least once into a construction work, and that has been subject to a transformative process going beyond checking, cleaning and repairing recovery operations which, according to the applicable harmonised technical specification, are qualified as essential to the product’s performance;
+(26)
+‘risk’ means ‘risk’ as defined in Article 3, point (18), of Regulation (EU) 2019/1020;
+(27)
+‘product type’ means the abstract model of individual products, determined by the intended use and a set of characteristics which exclude any variation with regard to performance or to the fulfilment of product requirements set out in or in accordance with this Regulation, whilst identical products of different manufacturers belong to different product types;
+(28)
+‘state of the art’ means a way of achieving a certain goal which is either the most effective and advanced or close to it, or a way which is currently possible by applying common technologies, whether or not it is the most technologically advanced solution;
+(29)
+‘recycling’ means ‘recycling’ as defined in Article 3, point (17), of Directive 2008/98/EC;
+(30)
+‘fulfilment service provider’ means a ‘fulfilment service provider’ as defined in Article 3, point (11), of Regulation (EU) 2019/1020;
+(31)
+‘product family’ means all product types belonging to one of the families listed in Annex VII;
+(32)
+‘product category’ means a subset of the product types of a certain product family encompassing those product types which have in common a certain intended use as specified in harmonised technical specifications or European assessment documents;
+(33)
+‘factory production control’ means the documented, continuous and internal production control in a manufacturing plant with regard to certain parameters or quality aspects, reflecting the specificities of a respective product family or product category and manufacturing processes, and which aims at the constancy of performance or at the continuous fulfilment of product requirements, executed in accordance with Annex IX;
+(34)
+‘importer’ means an ‘importer’ as defined in Article 3, point (9), of Regulation (EU) 2019/1020;
+(35)
+‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market, including by offering products for sale, hire or hire purchase, or displaying products to customers or installers in the course of a commercial activity, and including through distance selling, whether or not in return for payment;
+(36)
+‘authorised representative’ means any natural or legal person established in the Union who has received a written mandate from a manufacturer to act on that manufacturer’s behalf in relation to specified tasks with regard to the manufacturer’s obligations under this Regulation;
+(37)
+‘individually manufactured’ means that, due to the specifications of the client, there is a need for readjustment of the production process for manufacture when compared with all other products produced for other clients by the economic operator in question;
+(38)
+‘micro-enterprise’ means a ‘micro-enterprise’ as defined in Article 2(3) of the Annex to Commission Recommendation 2003/361/EC (23);
+(39)
+‘custom-made’ means that, due to the specifications of the client, there is a variation in terms of size or material when compared with all other products produced for other clients by the economic operator in question;
+(40)
+‘permalink’ means an internet link to a website which is stable both for its content and the address (‘URL’);
+(41)
+‘data carrier’ means a linear bar code symbol, a two-dimensional symbol, or other automatic identification data capture medium that can be read by a device;
+(42)
+‘harmonised technical specifications’ means the performance harmonised standards which have been made mandatory for the purposes of the application of this Regulation in accordance with Article 5(8), the implementing acts referred to in Article 6(1) and the delegated acts referred to in Article 7(1), Article 9(3) and Article 10(2);
+(43)
+‘European standardisation organisation’ means a ‘European standardisation organisation’ as defined in Article 2, point (8) of Regulation (EU) No 1025/2012;
+(44)
+‘non-series process’ means a process that is neither predominantly automated or predominantly carried out using assembly-line techniques, nor repeated very often in relation to the volume of production by the economic operator concerned or the economic operators belonging to the same group of companies, determined by a common controlling natural or legal person, or the same organisational structure;
+(45)
+‘withdrawal’ means ‘withdrawal’ as defined in Article 3, point (23), of Regulation (EU) 2019/1020;
+(46)
+‘recall’ means ‘recall’ as defined in Article 3, point (22), of Regulation (EU) 2019/1020;
+(47)
+‘online marketplace’ means a provider of an intermediary service using an online interface which enables customers to conclude distance contracts with economic operators for the sale of products;
+(48)
+‘online interface’ means an ‘online interface’ as defined in Article 3, point (15), of Regulation (EU) 2019/1020;
+(49)
+‘supplier’ means any natural or legal person providing raw materials, intermediate products, or used products to manufacturers or to other persons providing raw materials, intermediate products, or used products to manufacturers;
+(50)
+‘service provider’ means any natural or legal person providing a service to a manufacturer or to a supplier of a key part, provided that the service is relevant for the manufacturing of products, including to their design, or to their deinstallation in the case of used products;
+(51)
+‘accreditation’ means ‘accreditation’ as defined in Article 2, point (10), of Regulation (EC) No 765/2008;
+(52)
+‘market surveillance authority’ means a ‘market surveillance authority’ as defined in Article 3, point (4), of Regulation (EU) 2019/1020;
+(53)
+‘life cycle’ means the consecutive and interlinked stages of a product’s life, from raw material acquisition or generation from natural resources, or in the case of products which have previously been incorporated into construction works, from the latest deinstallation from the construction work, to final disposal;
+(54)
+‘single liaison point’ means the authority designated as the focal point for contacts with the Commission and other Member States on construction product related issues;
+(55)
+‘notified body’ means a conformity assessment body authorised to carry out third-party assessment and verification tasks under this Regulation that has been duly notified;
+(56)
+‘notifying authority’ means the single public administration body, designated in accordance with this Regulation, in charge of the notification and monitoring of notified bodies;
+(57)
+‘technical assessment body’ or ‘TAB’ means a body, designated in accordance with this Regulation, that issues European technical assessments on the basis of European assessment documents;
+(58)
+‘designating authority’ means the single public administration body, designated in accordance with this Regulation, in charge of the designation and monitoring of TABs in a Member State;
+(59)
+‘product presenting a risk’ means a product that, whenever during its entire life cycle, has an inherent potential to affect adversely the health and safety of persons, the environment or the fulfilment of basic requirements for construction works when incorporated in those works, to a degree which, taking account of the state-of-the-art, goes beyond what is considered reasonable and acceptable in relation to its intended use and under normal or reasonably foreseeable conditions of use;
+(60)
+‘product presenting a serious risk’ means a ‘product presenting a serious risk’ as defined in Article 3, point (20), of Regulation (EU) 2019/1020;
+(61)
+‘by-product’ means a ‘by-product’ within the meaning of Article 5 of Directive 2008/98/EC;
+(62)
+‘recyclability’ means the capability of a material or product to be effectively and efficiently separated, collected, sorted and aggregated in specific waste streams for the purpose of being recycled into secondary raw materials while minimising the loss of quality or functionality compared to the relevant primary raw material;
+(63)
+‘crisis-relevant goods’ means ‘crisis-relevant goods’ as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council (24);
+(64)
+‘internal market emergency mode’ means ‘internal market emergency mode’ as defined in Article 3, point (3), of Regulation (EU) 2024/2747.

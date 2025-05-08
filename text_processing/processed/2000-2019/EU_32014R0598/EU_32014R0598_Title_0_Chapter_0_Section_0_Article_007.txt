@@ -1,0 +1,14 @@
+Article 7
+Noise performance information
+1.   Decisions on noise-related operating restrictions shall be based on the noise performance of the aircraft as determined by the certification procedure conducted in accordance with Volume 1 of Annex 16 to the Chicago Convention, sixth edition of March 2011.
+2.   At the request of the Commission, aircraft operators shall communicate the following noise information in respect of the aircraft that they operate at Union airports:
+(a)
+the aircraft nationality and registration mark;
+(b)
+the noise documentation of the aircraft used, together with the associated maximum take-off weight;
+(c)
+any modification of the aircraft which affects its noise performance and is stated on the noise documentation.
+3.   Upon request of the Agency, holders of an aircraft type certificate or a supplemental type certificate issued in accordance with Regulation (EC) No 216/2008 of the European Parliament and of the Council (9), and legal or natural persons operating aircraft for which no type certificate has been issued under that Regulation, shall provide aircraft noise and performance information for noise modelling purposes. The Agency shall specify the data required and the timeframe for, and the form and manner of, its provision. The Agency shall verify the received aircraft noise and performance information for modelling purposes and shall make the information available to other parties for noise modelling purposes.
+4.   The data referred to in paragraphs 2 and 3 of this Article shall be limited to what is strictly necessary and shall be provided free of charge, in electronic form and using the format specified, where applicable.
+5.   The Agency shall verify the aircraft noise and performance data for modelling purposes in relation to its tasks performed in accordance with Article 6(1) of Regulation (EC) No 216/2008.
+6.   Data shall be stored in a central database and made available to competent authorities, aircraft operators, air navigation service providers and airport operators for operational purposes.

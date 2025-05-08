@@ -1,0 +1,14 @@
+Article 28
+Revisions and extensions of EU type-approvals
+1.   Where particulars recorded in the information package have been changed, without requiring inspections or tests to be repeated, such an amendment shall be termed a ‘revision’.
+In the event of such a revision, the approval authority shall, without unjustified delay, revise the relevant pages of the information package as necessary, marking each of them to clearly show the nature of the amendment, and it shall also state the date of revision and include a revised index to the information package. A consolidated, updated version of the information package, accompanied by a detailed description of the amendments, shall be deemed to fulfil the requirement of this paragraph.
+2.   An amendment as referred to in paragraph 1 shall be termed an ‘extension’ where the particulars recorded in the information package have been changed and any of the following occurs:
+(a)
+further inspections or tests are required;
+(b)
+any information included in the EU type-approval certificate, with the exception of its attachments, has changed;
+(c)
+a new requirement set out in this Regulation or in a delegated or implementing act adopted pursuant to this Regulation becomes applicable to the approved engine type or engine family.
+In the event of an extension, the approval authority shall establish an updated EU type-approval certificate denoted by an extension number that shall be incremented in accordance with the number of successive extensions previously granted. That EU type-approval certificate shall clearly show the reason for the extension and the date of extension.
+3.   Whenever pages of the information package are amended or a consolidated, updated version is established, the index to the information package attached to the EU type-approval certificate shall be amended accordingly to indicate the date of the most recent extension or revision, or the date of the most recent consolidation of the updated version.
+4.   No amendment to the EU type-approval of an engine type or engine family shall be required if a new requirement referred to in point (c) of paragraph 2 is, from a technical point of view, irrelevant to that engine type or engine family with regard to its emission performance.

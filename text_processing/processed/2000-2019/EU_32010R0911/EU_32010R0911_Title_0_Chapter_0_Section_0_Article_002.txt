@@ -1,0 +1,22 @@
+Article 2
+Scope of GMES
+1.   The GMES programme shall build on the research activities carried out under Decision No 1982/2006/EC of the European Parliament and of the Council of 18 December 2006 concerning the Seventh Framework Programme of the European Community for research, technological development and demonstration activities (2007 to 2013) (14) and the GMES Space Component Programme of ESA.
+2.   The GMES programme shall comprise the following:
+(a)
+a service component ensuring access to information in support of the following areas:
+—
+atmosphere monitoring,
+—
+climate change monitoring in support of adaptation and mitigation policies,
+—
+emergency management,
+—
+land monitoring,
+—
+marine environment monitoring,
+—
+security;
+(b)
+a space component ensuring sustainable spaceborne observations for the service areas referred to in point (a);
+(c)
+an in-situ component ensuring observations through airborne, seaborne and ground-based installations for the service areas referred to in point (a).

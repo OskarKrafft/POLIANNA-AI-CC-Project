@@ -1,0 +1,60 @@
+Article 276
+Standardised Method
+1.   Institutions may use the Standardised Method (hereinafter referred to as ‧SM‧) only for calculating the exposure value for OTC derivatives and long settlement transactions.
+2.   When applying the SM, institutions shall calculate the exposure value separately for each netting set, net of collateral, as follows:
+
+
+
+
+
+where:
+CMV
+=
+current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, where:
+where:
+CMVi
+
+=
+the current market value of transaction i;
+CMC
+=
+the current market value of the collateral assigned to the netting set, where:
+where:
+CMCl
+
+=
+the current market value of collateral l;
+i
+=
+index designating transaction;
+l
+=
+index designating collateral;
+j
+=
+index designating hedging set category;
+The hedging sets for this purpose correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based.
+RPTij
+
+=
+risk position from transaction i with respect to hedging set j;
+RPClj
+
+=
+risk position from collateral l with respect to hedging set j;
+CCRMj
+
+=
+CCR Multiplier set out in Table 5 with respect to hedging set j;
+β
+=
+1,4.
+3.   For the purposes of the calculation under paragraph 2:
+(a)
+eligible collateral received from a counterparty shall have a positive sign and collateral posted to a counterparty shall have a negative sign;
+(b)
+only collateral that is eligible under Article 197, Article 198 and Article 299(2)(d) shall be used for the SM;
+(c)
+an institution may disregard the interest rate risk from payment legs with a remaining maturity of less than one year;
+(d)
+an institution may treat transactions that consist of two payment legs that are denominated in the same currency as a single aggregate transaction. The treatment for payment legs applies to the aggregate transaction.

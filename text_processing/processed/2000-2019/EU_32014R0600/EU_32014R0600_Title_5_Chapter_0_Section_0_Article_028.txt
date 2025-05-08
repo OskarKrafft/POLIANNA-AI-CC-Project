@@ -1,0 +1,30 @@
+Article 28
+Obligation to trade on regulated markets, MTFs or OTFs
+1.   Financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and non-financial counterparties that meet the conditions referred to in Article 10(1)(b) thereof shall conclude transactions which are neither intragroup transactions as defined in Article 3 of that Regulation nor transactions covered by the transitional provisions in Article 89 of that Regulation with other such financial counterparties or other such non-financial counterparties that meet the conditions referred to in Article 10(1)(b) of Regulation (EU) No 648/2012 in derivatives pertaining to a class of derivatives that has been declared subject to the trading obligation in accordance with the procedure set out in Article 32 and listed in the register referred to in Article 34 only on:
+(a)
+regulated markets;
+(b)
+MTFs;
+(c)
+OTFs; or
+(d)
+third-country trading venues, provided that the Commission has adopted a decision in accordance with paragraph 4 and provided that the third country provides for an effective equivalent system for the recognition of trading venues authorised under Directive 2014/65/EU to admit to trading or trade derivatives declared subject to a trading obligation in that third country on a non-exclusive basis.
+2.   The trading obligation shall also apply to counterparties referred to in paragraph 1 which enter into derivatives transactions pertaining to a class of derivatives that has been declared subject to the trading obligation with third-country financial institutions or other third-country entities that would be subject to the clearing obligation if they were established in the Union. The trading obligation shall also apply to third-country entities that would be subject to the clearing obligation if they were established in the Union, which enter into derivatives transactions pertaining to a class of derivatives that has been declared subject to the trading obligation, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such obligation is necessary or appropriate to prevent the evasion of any provision of this Regulation.
+ESMA shall regularly monitor the activity in derivatives which have not been declared subject to the trading obligation as described in paragraph 1 in order to identify cases where a particular class of contracts may pose systemic risk and to prevent regulatory arbitrage between derivative transactions subject to the trading obligation and derivative transactions which are not subject to the trading obligation.
+3.   Derivatives declared subject to the trading obligation pursuant to paragraph 1 shall be eligible to be admitted to trading on a regulated market or to trade on any trading venue as referred to in paragraph 1 on a non-exclusive and non-discriminatory basis.
+4.   The Commission may, in accordance with the examination procedure referred to in Article 51(2) adopt decisions determining that the legal and supervisory framework of a third country ensures that a trading venue authorised in that third country complies with legally binding requirements which are equivalent to the requirements for the trading venues referred to in paragraph 1(a), (b) or (c) of this Article, resulting from this Regulation, Directive 2014/65/EU, and Regulation (EU) No 596/2014, and which are subject to effective supervision and enforcement in that third country.
+Those decisions shall be for the sole purpose of determining eligibility as a trading venue for derivatives subject to the trading obligation.
+The legal and supervisory framework of a third country is considered to have equivalent effect where that framework fulfils all the following conditions:
+(a)
+trading venues in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+(b)
+trading venues have clear and transparent rules regarding admission of financial instruments to trading so that such financial instruments are capable of being traded in a fair, orderly and efficient manner, and are freely negotiable;
+(c)
+issuers of financial instruments are subject to periodic and ongoing information requirements ensuring a high level of investor protection;
+(d)
+it ensures market transparency and integrity via rules addressing market abuse in the form of insider dealing and market manipulation;
+A decision of the Commission under this paragraph may be limited to a category or categories of trading venues. In that case, a third-country trading venue is only included in paragraph 1(d) if it falls within a category covered by the Commission’s decision.
+5.   In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards to specify the types of contracts referred to in paragraph 2 which have a direct, substantial and foreseeable effect within the Union and the cases where the trading obligation is necessary or appropriate to prevent the evasion of any provision of this Regulation.
+ESMA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+Where possible and appropriate, the regulatory technical standards referred to in this paragraph shall be identical to those adopted under Article 4(4) of Regulation (EU) No 648/2012.

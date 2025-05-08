@@ -1,0 +1,21 @@
+Article 12
+Methodology
+1.   An administrator shall use a methodology for determining a benchmark that:
+(a)
+is robust and reliable;
+(b)
+has clear rules identifying how and when discretion may be exercised in the determination of that benchmark;
+(c)
+is rigorous, continuous and capable of validation including, where appropriate, back-testing against available transaction data;
+(d)
+is resilient and ensures that the benchmark can be calculated in the widest set of possible circumstances, without compromising its integrity;
+(e)
+is traceable and verifiable.
+2.   When developing a benchmark methodology, a benchmark administrator shall:
+(a)
+take into account factors including the size and normal liquidity of the market, the transparency of trading and the positions of market participants, market concentration, market dynamics, and the adequacy of any sample to represent the market or economic reality that the benchmark is intended to measure;
+(b)
+determine what constitutes an active market for the purposes of that benchmark; and
+(c)
+establish the priority given to different types of input data.
+3.   An administrator shall have in place clear published arrangements that identify the circumstances in which the quantity or quality of input data falls below the standards necessary for the methodology to determine the benchmark accurately and reliably, and that describe whether and how the benchmark is to be calculated in such circumstances.

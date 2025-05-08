@@ -1,0 +1,69 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘Union airport’ means an ‘airport’ as defined in Article 2, point (1), of Directive 2009/12/EC of the European Parliament and of the Council (12) where passenger traffic was higher than 800 000 passengers or where the freight traffic was higher than 100 000 tonnes in the previous reporting period, and which is not situated in an outermost region, as listed in Article 349 TFEU;
+(2)
+‘Union airport managing body’ means, in respect of a Union airport, the ‘airport managing body’ as defined in Article 2, point (2), of Directive 2009/12/EC or, where the Member State concerned has reserved the management of the centralised infrastructures for fuel distribution systems for another body pursuant to Article 8(1) of Council Directive 96/67/EC (13), that other body;
+(3)
+‘aircraft operator’ means a person that operated at least 500 commercial passenger air transport flights, or 52 commercial all-cargo air transport flights departing from Union airports in the previous reporting period or, where it is not possible for that person to be identified, the owner of the aircraft;
+(4)
+‘commercial air transport flight’ means a flight operated for the purposes of transport of passengers, cargo or mail for remuneration or hire, including a business aviation flight operated for commercial purposes;
+(5)
+‘route’ means a journey carried out on a flight, having regard to the places of departure and destination of that flight;
+(6)
+‘aviation fuel’ means drop-in fuel manufactured for direct use by aircraft;
+(7)
+‘sustainable aviation fuels’ (‘SAF’) means aviation fuels that are either:
+(a)
+synthetic aviation fuels;
+(b)
+aviation biofuels; or
+(c)
+recycled carbon aviation fuels;
+(8)
+‘aviation biofuels’ means aviation fuels that are either:
+(a)
+‘advanced biofuels’ as defined in Article 2, second paragraph, point (34), of Directive (EU) 2018/2001;
+(b)
+‘biofuels’ as defined in Article 2, second paragraph, point (33), of Directive (EU) 2018/2001, produced from the feedstock listed in Part B of Annex IX to that Directive; or
+(c)
+‘biofuels’ as defined in Article 2, second paragraph, point (33), of Directive (EU) 2018/2001, with the exception of biofuels produced from ‘food and feed crops’ as defined in Article 2, second paragraph, point (40), of that Directive, and which comply with the sustainability and lifecycle emissions savings criteria laid down in Article 29 of that Directive and are certified in compliance with Article 30 of that Directive;
+(9)
+‘recycled carbon aviation fuels’ means aviation fuels that are ‘recycled carbon fuels’ as defined in Article 2, second paragraph, point (35), of Directive (EU) 2018/2001, which comply with the lifecycle emissions savings threshold referred to in Article 29a(2) of that Directive and are certified in compliance with Article 30 of that Directive;
+(10)
+‘batch’ means a quantity of SAF that can be identified with a number and can be traced;
+(11)
+‘lifecycle emissions’ means carbon dioxide equivalent emissions of SAF that take into account carbon dioxide equivalent emissions of energy production, transport, distribution and use on-board, including during combustion, calculated in accordance with the methodologies adopted pursuant to Article 28(5) or Article 31(5) of Directive (EU) 2018/2001 or pursuant to relevant Union law;
+(12)
+‘synthetic aviation fuels’ means aviation fuels that are ‘renewable fuels of non-biological origin’, as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001, which comply with the lifecycle emissions savings threshold referred to in Article 29a(1) of that Directive and are certified in compliance with Article 30 of that Directive;
+(13)
+‘synthetic low-carbon aviation fuels’ means aviation fuels that are of non-biological origin, the energy content of which is derived from non-fossil low-carbon hydrogen, which meet lifecycle emissions savings threshold of 70 % and the methodologies for assessing such lifecycle emissions savings pursuant to relevant Union law;
+(14)
+‘conventional aviation fuels’ means aviation fuels produced from fossil non-renewable sources of hydrocarbon fuels;
+(15)
+‘low-carbon hydrogen for aviation’ means hydrogen for use in aircraft the energy content of which is derived from non-fossil non-renewable sources, which meets a lifecycle emissions savings threshold of 70 % and the methodologies for assessing such lifecycle emissions savings pursuant to relevant Union law;
+(16)
+‘renewable hydrogen for aviation’ means hydrogen for use in aircraft that qualifies as a ‘renewable fuel of non-biological origin’, as defined in Article 2, second paragraph, point (36), of Directive (EU) 2018/2001, and which complies with the lifecycle emissions savings threshold referred to in Article 29a(1) of that Directive and is certified in compliance with Article 30 of that Directive;
+(17)
+‘hydrogen for aviation’ means renewable hydrogen for aviation or low-carbon hydrogen for aviation;
+(18)
+‘low-carbon aviation fuels’ means synthetic low-carbon aviation fuels or low-carbon hydrogen for aviation;
+(19)
+‘aviation fuel supplier’ means a ‘fuel supplier’ as defined in Article 2, second paragraph, point (38), of Directive (EU) 2018/2001, supplying aviation fuel or hydrogen for aviation at a Union airport;
+(20)
+‘fuel handler’ means a supplier of groundhandling services that organises and carries out fuelling and defuelling operations, including the storage of fuel and the control of the quality and quantity of fuel deliveries, to aircraft operators at Union airports, as referred to in the Annex to Directive 96/67/EC;
+(21)
+‘principal place of business’ means the head office or registered office of an aviation fuel supplier in the Member State within which the principal financial and operational control of the aviation fuel supplier takes place;
+(22)
+‘reporting year’ means a period of one year, in which the reports referred to in Articles 8 and 10 are to be submitted, starting 1 January and ending 31 December;
+(23)
+‘reporting period’ means a period from 1 January until 31 December of the year preceding the reporting year;
+(24)
+‘yearly aviation fuel required’ means the amount of aviation fuel referred to as ‘trip fuel’ and ‘taxi fuel’ in Annex IV to Commission Regulation (EU) No 965/2012 (14) that is necessary to operate all the flights covered by this Regulation operated by an aircraft operator, departing from a given Union airport, over the course of a reporting period;
+(25)
+‘yearly non-tanked quantity’ means the difference between the yearly aviation fuel required and the actual fuel uplifted by an aircraft operator prior to flights covered by this Regulation departing from a given Union airport, over the course of a reporting period;
+(26)
+‘total yearly non-tanked quantity’ means the sum of the yearly non-tanked quantities by an aircraft operator at all Union airports over the course of a reporting period;
+(27)
+‘greenhouse gas scheme’ means a scheme granting benefits to aircraft operators for the use of SAF.

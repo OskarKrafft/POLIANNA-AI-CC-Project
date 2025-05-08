@@ -1,0 +1,55 @@
+Article 2
+Definitions
+For the purposes of this Directive:
+(a)
+‘trans-European rail system’ means the trans-European conventional and high-speed rail systems as set out in Annex I, points 1 and 2, respectively;
+(b)
+‘interoperability’ means the ability of a rail system to allow the safe and uninterrupted movement of trains which accomplish the required levels of performance for these lines. This ability depends on all the regulatory, technical and operational conditions which must be met in order to satisfy the essential requirements;
+(c)
+‘vehicle’ means a railway vehicle that runs on its own wheels on railway lines, with or without traction. A vehicle is composed of one or more structural and functional subsystems or parts of such subsystems;
+(d)
+‘network’ means the lines, stations, terminals, and all kinds of fixed equipment needed to ensure safe and continuous operation of the rail system;
+(e)
+‘subsystems’ means the result of the division of the rail system, as shown in Annex II. These subsystems, for which essential requirements must be laid down, may be structural or functional;
+(f)
+‘interoperability constituents’ means any elementary component, group of components, subassembly or complete assembly of equipment incorporated or intended to be incorporated into a subsystem, upon which the interoperability of the rail system depends directly or indirectly. The concept of a ‘constituent’ covers both tangible objects and intangible objects such as software;
+(g)
+‘essential requirements’ means all the conditions set out in Annex III which must be met by the rail system, the subsystems, and the interoperability constituents, including interfaces;
+(h)
+‘European specification’ means a common technical specification, a European technical approval or a national standard transposing a European standard, as defined in Annex XXI to Directive 2004/17/EC;
+(i)
+‘technical specification for interoperability’ (TSI) means a specification adopted in accordance with this Directive by which each subsystem or part subsystem is covered in order to meet the essential requirements and ensure the interoperability of the rail system;
+(j)
+‘notified bodies’ means the bodies which are responsible for assessing the conformity or suitability for use of the interoperability constituents or for appraising the ‘EC’ procedure for verification of the subsystems;
+(k)
+‘basic parameters’ means any regulatory, technical or operational condition which is critical to interoperability and is specified in the relevant TSIs;
+(l)
+‘specific case’ means any part of the rail system which needs special provisions in the TSIs, either temporary or definitive, because of geographical, topographical or urban environment constraints or those affecting compatibility with the existing system. This may include in particular railway lines and networks isolated from the rest of the Community, the loading gauge, the track gauge or space between the tracks and vehicles strictly intended for local, regional or historical use, as well as vehicles originating from or destined for third countries;
+(m)
+‘upgrading’ means any major modification work on a subsystem or part subsystem which improves the overall performance of the subsystem;
+(n)
+‘renewal’ means any major substitution work on a subsystem or part subsystem which does not change the overall performance of the subsystem;
+(o)
+‘existing rail system’ means the structure composed of lines and fixed installations of the existing rail system plus the vehicles of all categories and origin travelling on that infrastructure;
+(p)
+‘substitution in the framework of maintenance’ means any replacement of components by parts of identical function and performance in the framework of preventive or corrective maintenance;
+(q)
+‘placing in service’ means all the operations by which a subsystem or a vehicle is put into its design operating state;
+(r)
+‘contracting entity’ means any entity, whether public or private, which orders the design and/or construction or the renewal or upgrading of a subsystem. This entity may be a railway undertaking, an infrastructure manager or a keeper, or the concession holder responsible for carrying out a project;
+(s)
+‘keeper’ means the person or entity that, being the owner of a vehicle or having the right to use it, exploits the vehicle as a means of transport and is registered as such in the national vehicle register referred to in Article 33;
+(t)
+‘project at an advanced stage of development’ means any project whose planning/construction stage has reached a point where a change in the technical specifications would be unacceptable to the Member State concerned. Such an impediment may be legal, contractual, economic, financial, social or environmental in nature and must be duly substantiated;
+(u)
+‘harmonised standard’ means any European standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services (16) in connection with a mandate by the Commission drawn up in accordance with the procedure referred to in Article 6(3) of that Directive, which, by itself or together with other standards, provides a solution as regards compliance with a legal provision;
+(v)
+‘national safety authority’ means a safety authority as defined in Article 3(g) of Directive 2004/49/EC;
+(w)
+‘type’ means a vehicle type defining the basic design characteristics of the vehicle as covered by a single type-examination certificate described in module B of Decision 93/465/EEC;
+(x)
+‘series’ means a number of identical vehicles of a design type;
+(y)
+‘Agency’ means the European Railway Agency, as established by Regulation (EC) No 881/2004 of the European Parliament and of the Council of 29 April 2004 establishing a European railway agency (Agency Regulation) (17);
+(z)
+‘entity in charge of maintenance’ means an entity in charge of maintenance of a vehicle, and registered as such in the national vehicle register.

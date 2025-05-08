@@ -1,0 +1,12 @@
+Article 5
+Green Rewarding Mechanism
+1.   Where, pursuant to Article 3(3), the resources for the JTF are increased before 31 December 2024, the additional resources shall be distributed among Member States on the basis of the national shares set out in Annex I.
+2.   Where, pursuant to Article 3(3) of this Regulation, the resources for the JTF are increased after 31 December 2024, the additional resources shall be distributed among Member States in accordance with the methodology laid down in the second subparagraph of this paragraph, on the basis of change of greenhouse gas emissions of their industrial facilities in the period from the year 2018 to the latest year for which data is available, as reported in accordance with Article 7 of Regulation (EC) No 166/2006 of the European Parliament and of the Council (16). The change of greenhouse gas emissions of each Member State shall be calculated by aggregating the greenhouse gas emissions of only those NUTS level 3 regions that have been identified in the territorial just transition plans in accordance with Article 11(1) of this Regulation.
+The allocation of additional resources for each Member State shall be determined in accordance with the following:
+(a)
+for Member States that achieved a reduction in greenhouse gas emissions, the reduction in greenhouse gas emissions achieved by each Member State shall be calculated by expressing the level of greenhouse gas emissions of the latest reference year as a percentage of the greenhouse gas emissions observed in 2018; for Member States that have not achieved a reduction in greenhouse gas emissions, that percentage shall be set at 100 %;
+(b)
+the final share for each Member State shall be obtained by dividing national shares set out in Annex I by the percentages resulting from point (a); and
+(c)
+the result from the calculation under point (b) shall be rescaled in order to sum up to 100 %.
+3.   Member States shall include the additional resources in their programmes and submit a programme amendment in accordance with Article 24 of Regulation (EU) 2021/1060

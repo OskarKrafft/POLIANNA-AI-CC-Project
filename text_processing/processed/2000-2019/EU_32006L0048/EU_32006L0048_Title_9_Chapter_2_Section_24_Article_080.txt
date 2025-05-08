@@ -1,0 +1,41 @@
+Article 80
+1.   To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless deducted from own funds, in accordance with the provisions of Annex VI, Part 1. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Annex VI, Part 1, its credit quality. Credit quality may be determined by reference to the credit assessments of External Credit Assessment Institutions (‘ECAIs’) in accordance with the provisions of Articles 81 to 83 or the credit assessments of Export Credit Agencies as described in Annex VI, Part 1.
+2.   For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with this Subsection.
+3.   For the purposes of calculating risk-weighted exposure amounts for exposures to institutions, Member States shall decide whether to adopt the method based on the credit quality of the central government of the jurisdiction in which the institution is incorporated or the method based on the credit quality of the counterparty institution in accordance with Annex VI.
+4.   Notwithstanding paragraph 1, where an exposure is subject to credit protection the risk weight applicable to that item may be modified in accordance with Subsection 3.
+5.   Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Subsection 4.
+6.   Exposures the calculation of risk-weighted exposure amounts for which is not otherwise provided for under this Subsection shall be assigned a risk-weight of 100 %.
+7.   With the exception of exposures giving rise to liabilities in the form of the items referred to in paragraphs (a) to (h) of Article 57, competent authorities may exempt from the requirements of paragraph 1 of this Article the exposures of a credit institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC, provided that the following conditions are met:
+(a)
+the counterparty is an institution or a financial holding company, financial institution, asset management company or ancillary services undertaking subject to appropriate prudential requirements;
+(b)
+the counterparty is included in the same consolidation as the credit institution on a full basis;
+(c)
+the counterparty is subject to the same risk evaluation, measurement and control procedures as the credit institution;
+(d)
+the counterparty is established in the same Member State as the credit institution; and
+(e)
+there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the credit institution.
+In such a case, a risk weight of 0 % shall be assigned.
+8.   With the exception of exposures giving rise to liabilities in the form of the items referred to in points (a) to (h) of Article 57, competent authorities may exempt from the requirements of paragraph 1 of this Article the exposures to counterparties which are members of the same institutional protection scheme as the lending credit institution, provided that the following conditions are met:
+(a)
+the requirements set out in points (a), (d) and (e) of paragraph 7;
+(b)
+the credit institution and the counterparty have entered into a contractual or statutory liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to avoid bankruptcy in case it becomes necessary (referred to below as an institutional protection scheme);
+(c)
+the arrangements ensure that the institutional protection scheme will be able to grant support necessary under its commitment from funds readily available to it;
+(d)
+the institutional protection scheme disposes of suitable and uniformly stipulated systems for the monitoring and classification of risk (which gives a complete overview of the risk situations of all the individual members and the institutional protection scheme as a whole) with corresponding possibilities to take influence; those systems shall suitably monitor defaulted exposures in accordance with Annex VII, Part 4, point 44;
+(e)
+the institutional protection scheme conducts its own risk review which is communicated to the individual members;
+(f)
+the institutional protection scheme draws up and publishes once in a year either, a consolidated report comprising the balance sheet, the profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole, or a report comprising the aggregated balance sheet, the aggregated profit‐and‐loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole;
+(g)
+members of the institutional protection scheme are obliged to give advance notice of at least 24 months if they wish to end the arrangements;
+(h)
+the multiple use of elements eligible for the calculation of own funds (‘multiple gearing’) as well as any inappropriate creation of own funds between the members of the institutional protection scheme shall be eliminated;
+(i)
+the institutional protection scheme shall be based on a broad membership of credit institutions of a predominantly homogeneous business profile; and
+(j)
+the adequacy of the systems referred to in point (d) is approved and monitored at regular intervals by the relevant competent authorities.
+In such a case, a risk weight of 0 % shall be assigned.

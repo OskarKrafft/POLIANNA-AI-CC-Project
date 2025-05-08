@@ -1,0 +1,9 @@
+Article 50
+Eligible actions for data acquisition
+Eligible actions under Copernicus shall cover:
+(a)
+actions to provide enhanced continuity of existing Copernicus Sentinel missions and to develop, launch, maintain and operate further Copernicus Sentinels expanding the observation scope, giving priority in particular to observation capacities for monitoring anthropogenic CO2 and other greenhouse gas emissions, allowing for monitoring polar regions and enabling innovative environmental applications in agriculture, forest, water and marine resources management, and cultural heritage;
+(b)
+actions to provide access to Copernicus third-party data and information necessary to generate Copernicus Services or for use by the Union’s institutions, agencies, decentralised services and, where appropriate and cost-effective, national or regional public bodies;
+(c)
+actions to provide and coordinate access to Copernicus in-situ and other ancillary data necessary for the generation, calibration and validation of Copernicus data and Copernicus information, including where appropriate and cost-effective the use of existing national capacities and avoiding duplications.

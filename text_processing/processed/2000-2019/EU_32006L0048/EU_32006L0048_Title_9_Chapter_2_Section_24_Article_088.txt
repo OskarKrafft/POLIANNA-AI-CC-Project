@@ -1,0 +1,7 @@
+Article 88
+1.   The expected loss amounts for exposures belonging to one of the exposure classes referred to in points (a) to (e) of Article 86(1) shall be calculated in accordance with the methods set out in Annex VII, Part 1, points 29 to 35.
+2.   The calculation of expected loss amounts in accordance with Annex VII, Part 1, points 29 to 35 shall be based on the same input figures of PD, LGD and the exposure value for each exposure as being used for the calculation of risk-weighted exposure amounts in accordance with Article 87. For defaulted exposures, where credit institutions use own estimates of LGDs, expected loss (‘EL’) shall be the credit institution's best estimate of EL (‘ELBE,’) for the defaulted exposure, in accordance with Annex VII, Part 4, point 80.
+3.   The expected loss amounts for securitised exposures shall be calculated in accordance with Subsection 4.
+4.   The expected loss amount for exposures belonging to the exposure class referred to in point (g) of Article 86(1) shall be zero.
+5.   The expected loss amounts for dilution risk of purchased receivables shall be calculated in accordance with the methods set out in Annex VII, Part 1, point 35.
+6.   The expected loss amounts for exposures referred to in Article 87(11) and (12) shall be calculated in accordance with the methods set out in Annex VII, Part 1, points 29 to 35.

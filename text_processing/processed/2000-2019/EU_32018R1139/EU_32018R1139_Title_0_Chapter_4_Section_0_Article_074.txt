@@ -1,0 +1,80 @@
+Article 74
+Repository of information
+1.   The Agency shall, in cooperation with the Commission and the national competent authorities, establish and manage a repository of information necessary to ensure effective cooperation between the Agency and the national competent authorities concerning the exercise of their tasks relating to certification, oversight and enforcement under this Regulation.
+That repository shall include information about:
+(a)
+certificates issued and declarations received by the Agency and by national competent authorities in accordance with Chapter III and Articles 64 and 65 and Articles 77 to 82;
+(b)
+certificates issued and declarations received by qualified entities on behalf of the Agency and national competent authorities in accordance with Article 69(3);
+(c)
+accreditations granted by the Agency and by national competent authorities to qualified entities in accordance with Article 69, including information about the scope of the accreditation and the privileges granted;
+(d)
+the measures taken by Member States pursuant to Article 2(6) and (7), as well as the corresponding Commission decisions;
+(e)
+Member State decisions taken pursuant to Article 2(8);
+(f)
+Member States decisions taken pursuant to Article 41(5);
+(g)
+the reallocation by Member States of the responsibility for tasks to the Agency or to another Member State in accordance with Articles 64 and 65, including details about the reallocated tasks;
+(h)
+Commission decisions taken in accordance with Article 67;
+(i)
+notifications by national competent authorities concerning individual flight time specification schemes submitted to the Agency on the basis of the delegated acts adopted in accordance with point (b) of Article 32(1), and the corresponding Agency opinions issued in accordance with Article 76(7);
+(j)
+notifications by Member States concerning the measures taken to react immediately to a problem relating to civil aviation safety and concerning the granting of exemptions, and the corresponding Agency recommendations and Commission decisions, pursuant to Articles 70(1) and 71(1);
+(k)
+requests by Member States concerning other means of compliance with the essential requirements, and the corresponding Agency recommendations pursuant to Article 71(3);
+(l)
+notifications by the Agency and the corresponding Commission decisions pursuant to Article 76(4);
+(m)
+information which is available to the national competent authorities and related to the activities by aircraft involved in operations other than commercial air transport;
+(n)
+information related to the implementation of international standards and recommended practices, referred to in Article 90(4);
+(o)
+Member State and Commission decisions that have been notified pursuant to Article 62(5), including information about the tasks which are being exercised jointly;
+(p)
+exemptions granted by Member States pursuant to Article 41(6) and the corresponding Commission decisions;
+(q)
+measures of the Agency concerning flights above conflict zones applied in accordance with Article 88(3);
+(r)
+other information that may be necessary for ensuring effective cooperation between the Agency and the national competent authorities concerning the exercise of their tasks related to certification, oversight and enforcement under this Regulation.
+2.   The national competent authorities, aeromedical examiners and aeromedical centres shall also exchange through the repository information concerning medical fitness of pilots. Any such information which constitutes personal data, including health data, shall be limited to what is strictly necessary for ensuring effective certification and oversight of pilots in accordance with Article 21.
+3.   Any personal data, including health data, included in the repository shall be stored for no longer than is necessary for the purposes for which the data were collected or for which they are further processed.
+4.   Member States and the Agency shall ensure that data subjects whose personal data are processed in the repository are informed, ex ante, thereof.
+5.   Member States and the Agency may restrict the scope of the rights of the data subject to access, rectify and erase personal data included in the repository to the extent that it is strictly necessary to safeguard civil aviation safety, in accordance with Article 23 of Regulation (EU) 2016/679 and Article 20 of Regulation (EC) No 45/2001.
+6.   Without prejudice to paragraph 7, the Commission, the Agency, national competent authorities and any competent authority of the Member States entrusted with the investigation of civil aviation accidents and incidents shall, for the exercise of their tasks, have on-line and secure access to all information included in the repository.
+Where relevant, the Commission and the Agency may disseminate certain information included in the repository, other than information referred to in paragraph 2, to interested parties or make it publicly available.
+The Agency shall in any case make publicly available information concerning:
+(a)
+any certificates issued and any declarations received in accordance with Article 2(4);
+(b)
+any decision of the Commission or of a Member State that has been notified to it pursuant to Article 2(6) and (7);
+(c)
+any decision of a Member State that has been notified to it pursuant to the second subparagraph of Article 2(11).
+7.   The information included in the repository shall be protected from unauthorised access by appropriate tools and protocols. The access to and disclosure of the information referred to in paragraph 2 shall be restricted to persons who are responsible for the certification and oversight of the medical fitness of pilots, for the purpose of fulfilling their tasks under this Regulation. Limited access to this information may also be granted to other authorised persons for the purpose of ensuring the proper functioning of the repository, in particular for its technical maintenance. Persons authorised to have access to information which contains personal data shall receive prior training on the applicable personal data protection legislation and related safeguards.
+8.   The Commission shall adopt implementing acts laying down the necessary rules for the functioning and management of the repository and detailed requirements with regard to:
+(a)
+the technical aspects of the establishment and maintenance of the repository;
+(b)
+the classification of the information to be transmitted by the Commission, the Agency and the national competent authorities for inclusion in the repository, including the form and manner of transmitting such information;
+(c)
+regular and standardised updates of the information included in the repository;
+(d)
+the detailed arrangements for the dissemination and publication of certain information included in the repository in accordance with paragraph 6 of this Article;
+(e)
+the classification of information concerning the medical fitness of pilots to be transmitted by the national competent authorities, aero-medical examiners and aeromedical centres, for inclusion in the repository, including the form and manner of transmitting such information;
+(f)
+the detailed arrangements for protecting the information included in the repository from unauthorised access, restricting access to the information and protecting any personal data included in the repository in accordance with the applicable Union law on the protection of personal data, in particular against accidental or unlawful destruction, loss, alteration, or disclosure;
+(g)
+the maximum storage period allowed with regard to the personal data included in the repository, including the information concerning the medical fitness of pilots which constitutes personal data;
+(h)
+the detailed conditions in accordance with which Member States and the Agency may restrict the rights of the data subject to access, rectify and erase personal data included in the repository, for the purpose of paragraph 5 of this Article.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 127(3).
+
+SECTION I
+
+
+
+Tasks
+
+

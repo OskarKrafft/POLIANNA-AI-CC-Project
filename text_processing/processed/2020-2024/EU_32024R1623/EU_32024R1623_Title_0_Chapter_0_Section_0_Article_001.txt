@@ -1,0 +1,1512 @@
+Article 1
+Amendments to Regulation (EU) No 575/2013
+Regulation (EU) No 575/2013 is amended as follows:
+(1)
+Article 4 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+in point (1), point (b) is replaced by the following:
+‘(b)
+to carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU of the European Parliament and of the Council (*1), where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking, an insurance undertaking, or an investment firm for which the authorisation as a credit institution is waived in accordance with Article 8a of Directive 2013/36/EU:
+(i)
+the total value of the consolidated assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is equal to or exceeds EUR 30 billion;
+(ii)
+the total value of the assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that are established in the Union, including any of their branches and subsidiaries established in a third country, that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU is equal to or exceeds EUR 30 billion;
+(iii)
+the total value of the assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in the group that carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU, is equal to or exceeds EUR 30 billion, where the consolidating supervisor, in consultation with the supervisory college, so decides in order to address potential risks of circumvention or potential risks for financial stability of the Union;
+
+(*1)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).’;"
+                        
+(ii)
+point (12) is deleted;
+(iii)
+points (15) and (16) are replaced by the following:
+‘(15)
+“parent undertaking” means an undertaking that controls, within the meaning of point (37), one or more undertakings;
+(16)
+“subsidiary” means an undertaking that is controlled, within the meaning of point (37), by another undertaking; subsidiaries of subsidiaries shall also be considered to be subsidiaries of the undertaking that is their original parent undertaking;’
+;
+(iv)
+point (18) is replaced by the following:
+‘(18)
+“ancillary services undertaking” means an undertaking the principal activity of which, whether provided to undertakings inside the group or to clients outside the group, consists of any of the following:
+(a)
+a direct extension of banking;
+(b)
+operational leasing, the ownership or management of property, the provision of data processing services or any other activity insofar as those activities are ancillary to banking;
+(c)
+any other activity considered similar by EBA to those referred to in points (a) and (b);’
+;
+(v)
+point (20) is replaced by the following:
+‘(20)
+“financial holding company” means an undertaking that meets all of the following conditions:
+(a)
+it is a financial institution;
+(b)
+it is not a mixed financial holding company;
+(c)
+it has at least one subsidiary that is an institution;
+(d)
+more than 50 % of any of the following indicators are associated, on a steady basis, with subsidiaries that are institutions or financial institutions, and with activities carried out by the undertaking itself that are not related to the acquisition or owning of holdings in subsidiaries when those activities are of the same nature as the ones carried out by institutions or financial institutions:
+(i)
+the undertaking’s equity based on its consolidated situation;
+(ii)
+the undertaking’s assets based on its consolidated situation;
+(iii)
+the undertaking’s revenues based on its consolidated situation;
+(iv)
+the undertaking’s personnel based on its consolidated situation;
+(v)
+other indicators considered relevant by the competent authority.
+The competent authority may decide that an entity does not qualify as a financial holding company even if one of the indicators referred to in the first paragraph, points (i) to (iv), is met, where the competent authority considers that the relevant indicator does not convey a fair and true view of the main activities and risks of the group. Before making such decision, the competent authority shall consult EBA and provide a substantiated and detailed qualitative and quantitative justification. The competent authority shall have due regard to EBA’s opinion and, where it decides to deviate from it, shall within three months of the date of receipt of EBA’s opinion, provide to EBA the rationale for deviating from the relevant opinion;’
+                                                            
+;
+(vi)
+the following point is inserted:
+‘(20a)
+“investment holding company” means an investment holding company as defined in Article 4(1), point (23), of Regulation (EU) 2019/2033;’
+(vii)
+point (26) is replaced by the following:
+‘(26)
+“financial institution” means an undertaking that meets both of the following conditions:
+(a)
+it is not an institution, a pure industrial holding company, a securitisation special purpose entity, an insurance holding company as defined in Article 212(1), point (f), of Directive 2009/138/EC or a mixed-activity insurance holding company as defined in Article 212(1), point (g), of that Directive, except where a mixed-activity insurance holding company has a subsidiary institution;
+(b)
+it meets one or more of the following conditions:
+(i)
+the principal activity of the undertaking is to acquire or own holdings or to pursue one or more of the activities listed in Annex I, points 2 to 12 and points 15, 16 and 17, to Directive 2013/36/EU, or to pursue one or more of the services or activities listed in Annex I, Section A or B, to Directive 2014/65/EU in relation to financial instruments listed in Annex I, Section C, to Directive 2014/65/EU;
+(ii)
+the undertaking is an investment firm, a mixed financial holding company, an investment holding company, a payment services provider as categorised under Article 1(1), points (a) to (d), of Directive (EU) 2015/2366 of the European Parliament and of the Council (*2), an asset management company or an ancillary services undertaking;
+
+(*2)  Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35).’;"
+                        
+(viii)
+the following point is inserted:
+‘(26a)
+“pure industrial holding company” means an undertaking that meets all of the following conditions:
+(a)
+its principal activity is to acquire or own holdings;
+(b)
+it is not referred to in point (27)(a), or point (27)(d) to (l), of this paragraph and is not an investment firm or an asset management company, or a payment service provider as categorised under Article 1(1), points (a) to (d), of Directive (EU) 2015/2366;
+(c)
+it does not hold any participations in a financial sector entity;’
+;
+(ix)
+in point (27), point (c) is deleted;
+(x)
+point (28) is replaced by the following:
+‘(28)
+“parent institution in a Member State” means an institution in a Member State which has an institution or a financial institution as a subsidiary, or which holds a participation in an institution or financial institution, and which is not itself a subsidiary of another institution authorised in the same Member State, or of a financial holding company or mixed financial holding company set up in the same Member State;’
+;
+(xi)
+point (35) is replaced by the following:
+‘(35)
+“participation” means a participating interest as defined in Article 2, point (2), of Directive 2013/34/EU of the European Parliament and of the Council (*3), or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;
+
+(*3)  Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).’;"
+                        
+(xii)
+point (37) is replaced by the following:
+‘(37)
+“control” means the relationship between a parent undertaking and a subsidiary, as described in Article 22 of Directive 2013/34/EU, or in the accounting standards to which an institution is subject under Regulation (EC) No 1606/2002 of the European Parliament and of the Council (*4), or a similar relationship between any natural or legal person and an undertaking;
+
+(*4)  Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).’;"
+                        
+(xiii)
+point (52) is replaced by the following:
+‘(52)
+“operational risk” means the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events, including, but not limited to, legal risk, model risk or information and communication technology (ICT) risk, but excluding strategic and reputational risk;’
+;
+(xiv)
+the following points are inserted:
+‘(52a)
+“legal risk” means the risk of loss, including, expenses, fines, penalties or punitive damages, which an institution might incur as a consequence of events that result in legal proceedings, including the following:
+(a)
+supervisory actions and private settlements;
+(b)
+failure to act where action is necessary to comply with a legal obligation;
+(c)
+action taken to avoid compliance with a legal obligation;
+(d)
+misconduct events, which are events that arise from wilful or negligent misconduct, including inappropriate supply of financial services or the provision of inadequate or misleading information on the financial risk of products sold by the institution;
+(e)
+non-compliance with any requirement derived from national or international statutory or legislative provisions;
+(f)
+non-compliance with any requirement derived from contractual arrangements, or with internal rules and codes of conduct established in accordance with national or international rules and practices;
+(g)
+non-compliance with rules on ethics;
+(52b)
+“model risk” means the risk of loss resulting from decisions that are principally based on the output of internal models, due to errors in the design, development, parameter estimation, implementation, use or monitoring of such models, including the following:
+(a)
+the improper design of a selected internal model and its characteristics;
+(b)
+the inadequate verification of a selected internal model’s suitability for the financial instrument to be evaluated or for the product to be priced, or of the selected internal model’s suitability for the applicable market conditions;
+(c)
+errors in the implementation of a selected internal model;
+(d)
+incorrect mark-to-market valuations and risk measurement as a result of an error when booking a trade into the trading system;
+(e)
+the use of a selected internal model or of its outputs for a purpose for which that model was not intended or designed, including manipulation of the modelling parameters;
+(f)
+the untimely or ineffective monitoring or validation of model performance or of the predictive ability to assess whether the selected internal model remains fit for purpose;
+(52c)
+“ICT risk” means the risk of loss related to any reasonably identifiable circumstances related to the use of network and information systems which, if materialised, might compromise the security of the network and information systems, of any technology-dependent tool or process, of operations and processes, or of the provision of services, by producing adverse effects in the digital or physical environment;
+(52d)
+“environmental, social and governance risk” or “ESG risk” means the risk of any negative financial impact on an institution stemming from the current or prospective impact of environmental, social or governance (ESG) factors on that institution’s counterparties or invested assets; ESG risks materialise through the traditional categories of financial risks;
+(52e)
+“environmental risk” means the risk of any negative financial impact on an institution stemming from the current or prospective impact of environmental factors on that institution’s counterparties or invested assets, including factors related to the transition towards the objectives set out in Article 9 of Regulation (EU) 2020/852 of the European Parliament and of the Council (*5); environmental risk includes both physical risk and transition risk;
+(52f)
+“physical risk”, as part of the environmental risk, means the risk of any negative financial impact on an institution stemming from the current or prospective impact of the physical effects of environmental factors on that institution’s counterparties or invested assets;
+(52g)
+“transition risk”, as part of the environmental risk, means the risk of any negative financial impact on an institution stemming from the current or prospective impact of the transition to an environmentally sustainable economy on that institution’s counterparties or invested assets;
+(52h)
+“social risk” means the risk of any negative financial impact on an institution stemming from the current or prospective impact of social factors on its counterparties or invested assets;
+(52i)
+“governance risk” means the risk of any negative financial impact on an institution stemming from the current or prospective impact of governance factors on that institution’s counterparties or invested assets;
+
+(*5)  Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).’;"
+                        
+(xv)
+points (54), (55) and (56) are replaced by the following:
+‘(54)
+“probability of default” or “PD” means the probability of default of an obligor or, where applicable, of a credit facility over a one-year period, and, in the context of dilution risk, the probability of dilution over a one-year period;
+(55)
+“loss given default” or “LGD” means the ratio of the loss on an exposure related to a single facility due to the default of an obligor or, where applicable, of a credit facility to the amount outstanding at default or at a given reference date after the date of default, and, in the context of dilution risk, the loss given dilution meaning the ratio of the loss on an exposure related to a purchased receivable due to dilution, to the amount outstanding of the purchased receivable;
+(56)
+“conversion factor” or “credit conversion factor” or “CCF” means the ratio of the undrawn amount of a commitment from a single facility that could be drawn from that single facility from a certain point in time before default and therefore outstanding at default to the undrawn amount of the commitment from that facility, the extent of the commitment being determined by the advised limit, unless the unadvised limit is higher;’
+;
+(xvi)
+points (58), (59) and 60 are replaced by the following:
+‘(58)
+“funded credit protection” or “FCP” means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of an institution is derived from the right of that institution, in the event of the default of the obligor or the credit facility, or on the occurrence of other specified credit events relating to the obligor, to liquidate, or to obtain transfer or appropriation of, or to retain certain assets or amounts, or to reduce the amount of the exposure to, or to replace it with, the amount of the difference between the amount of the exposure and the amount of a claim on the institution;
+(59)
+“unfunded credit protection” or “UFCP” means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of an institution is derived from the obligation of a third party to pay an amount in the event of the default of the obligor or the credit facility, or the occurrence of other specified credit events;
+(60)
+“cash assimilated instrument” means a certificate of deposit, a bond, including a covered bond, or any other non-subordinated instrument, which has been issued by a lending institution, for which that lending institution has already received full payment and which shall be unconditionally reimbursed by the institution at its nominal value;’
+;
+(xvii)
+the following point is inserted:
+‘(60a)
+“gold bullion” means gold in the form of a commodity, including gold bars, ingots and coins, commonly accepted by the bullion market, where liquid markets for bullion exist, and the value of which is determined by the value of the gold content, defined by purity and mass, rather than by its interest to numismatists;’
+;
+(xviii)
+the following point is inserted:
+‘(74a)
+“property value” means the value of a residential property or commercial immovable property determined in accordance with Article 229(1);’
+;
+(xix)
+point (75) is replaced by the following:
+‘(75)
+“residential property” means any of the following:
+(a)
+an immovable property which has the nature of a dwelling and satisfies all applicable laws and regulations enabling the property to be occupied for housing purposes;
+(b)
+an immovable property which has the nature of a dwelling and is still under construction, provided that there is the expectation that the property will satisfy all applicable laws and regulations enabling the property to be occupied for housing purposes;
+(c)
+the right to inhabit an apartment in housing cooperatives located in Sweden;
+(d)
+land accessory to a property referred to in point (a), (b) or (c);’
+;
+(xx)
+the following points are inserted:
+‘(75a)
+“commercial immovable property” means any immovable property that is not residential property;
+(75b)
+“income producing real estate exposure” or “IPRE exposure” means an exposure secured by one or more residential properties or commercial immovable properties where the fulfilment of the credit obligations related to the exposure materially depends on the cash flows generated by those immovable properties securing that exposure, rather than on the capacity of the obligor to fulfil the credit obligations from other sources; the primary source of such cash flows being lease or rental payments, or proceeds from the sale of the residential property or commercial immovable property;
+(75c)
+“non-income-producing real estate exposure” or “non-IPRE exposure” means any exposure secured by one or more residential properties or commercial immovable properties that is not an IPRE exposure;
+(75d)
+“exposure secured by residential property” or “exposure secured by a mortgage on residential property” means an exposure secured by residential property or an exposure regarded as such in accordance with Article 108(4);
+(75e)
+“exposure secured by commercial immovable property” or “exposure secured by a mortgage on commercial immovable property” means an exposure secured by a commercial immovable property;
+(75f)
+“exposure secured by immovable property” or “exposure secured by a mortgage on immovable property”, or “exposure secured by immovable property collateral” means an exposure secured by a residential property or commercial immovable property or an exposure regarded as such in accordance with Article 108(4);’
+;
+(xxi)
+point (78) is replaced by the following:
+‘(78)
+“one-year default rate” means the ratio between the number of obligors or, where the definition of default is applied at credit facility level pursuant to Article 178(1), second subparagraph, credit facilities in respect of which a default is considered to have occurred during a period that starts from one year prior to a date of observation T, and the number of obligors, or where the definition of default is applied at credit facility level pursuant to Article 178(1), second subparagraph, credit facilities assigned to this grade or pool one year prior to that date of observation T;’
+;
+(xxii)
+the following points are inserted:
+‘(78a)
+“land acquisition, development and construction exposures”, or “ADC exposures”, means exposures to corporates or special purpose entities financing any land acquisition for development and construction purposes, or financing the development and construction of any residential property or commercial immovable property;
+(78b)
+“non-ADC exposure” means any exposure secured by one or more residential properties or commercial immovable properties that is not an ADC exposure;’
+;
+(xxiii)
+point (79) is deleted;
+(xxiv)
+point (114) is replaced by the following:
+‘(114)
+“indirect holding” means any exposure to an intermediate entity that has an exposure to capital instruments issued by a financial sector entity or to liabilities issued by an institution where, in the event the capital instruments issued by the financial sector entity or the liabilities issued by the institution were permanently written off, the loss that the institution would incur as a result would not be materially different from the loss the institution would incur from a direct holding of those capital instruments issued by the financial sector entity or of those liabilities issued by the institution;’
+;
+(xxv)
+point (126) is replaced by the following:
+‘(126)
+“synthetic holding” means an investment by an institution in a financial instrument the value of which is directly linked to the value of the capital instruments issued by a financial sector entity or to the value of the liabilities issued by an institution;’
+;
+(xxvi)
+in point (127), point (b) is replaced by the following:
+‘(b)
+the institutions are fully consolidated in accordance with Article 22 of Directive 2013/34/EU and are included in the supervision on a consolidated basis of an institution which is a parent institution in a Member State in accordance with Part One, Title II, Chapter 2, of this Regulation and subject to own funds requirements;’
+;
+(xxvii)
+point (144) is replaced by the following:
+‘(144)
+“trading desk” means a well-identified group of dealers established by the institution in accordance with Article 104b(1) to jointly manage a portfolio of trading book positions, or the non-trading book positions referred to in paragraphs (5) and (6) of that Article, in accordance with a well-defined and consistent business strategy and operating under the same risk management structure;’
+;
+(xxviii)
+in point (145), point (f) is replaced by the following:
+‘(f)
+the institution’s consolidated assets or liabilities relating to activities with counterparties located in the European Economic Area, excluding intragroup exposures in the European Economic Area, exceed 75 % of both the institution’s consolidated total assets and liabilities, excluding in both cases the intragroup exposures;’
+;
+(xxix)
+the following points are added:
+‘(151)
+“revolving exposure” means any exposure whereby the borrower’s outstanding balance is permitted to fluctuate based on its decisions to borrow and repay, up to an agreed limit;
+(152)
+“transactor exposure” means any revolving exposure that has at least 12 months of repayment history and that is one of the following:
+(a)
+an exposure for which, on a regular basis of at least every 12 months, the balance to be repaid at the next scheduled repayment date is determined as the drawn amount at a predefined reference date, with a scheduled repayment date not later than after 12 months, provided that the balance has been repaid in full at each scheduled repayment date for the previous 12 months;
+(b)
+an overdraft facility where there have been no drawdowns over the previous 12 months;
+(153)
+“fossil fuel sector entity” means a company, enterprise or undertaking statistically classified as having its principal economic activity in the coal, oil or gas sector of economic activities, as set out in Annex XXXIX, Template 3, to Commission Implementing Regulation (EU) 2021/637 (*6) and as identified by reference to the statistical classification of economic activities (NACE Revision 2) codes listed in Annex I, Sections B, C, D and G, to Regulation (EC) No 1893/2006 of the European Parliament and of the Council (*7); where the principal economic activity of a company, enterprise or undertaking is not classified using the NACE Revision 2 codes set out in Regulation (EC) No 1893/2006, or a national classification derived therefrom, institutions shall conservatively determine whether such company, enterprise or undertaking has its principal activity in one of those sectors;
+(154)
+“exposures subject to the impact of environmental or social factors” means exposures hindering the ambition of the Union to achieve its regulatory objectives relating to ESG factors, in a way that could have a negative financial impact on institutions in the Union;
+(155)
+“shadow banking entity” means an entity that carries out banking activities outside the regulated framework;
+
+(*6)  Commission Implementing Regulation (EU) 2021/637 of 15 March 2021 laying down implementing technical standards with regard to public disclosures by institutions of the information referred to in Titles II and III of Part Eight of Regulation (EU) No 575/2013 of the European Parliament and of the Council and repealing Commission Implementing Regulation (EU) No 1423/2013, Commission Delegated Regulation (EU) 2015/1555, Commission Implementing Regulation (EU) 2016/200 and Commission Delegated Regulation (EU) 2017/2295 (OJ L 136, 21.4.2021, p. 1)."
+                        
+
+(*7)  Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).’;"
+                        
+(xxx)
+the following subparagraphs are added:
+
+                                                      ‘For the purposes of the first subparagraph, points (1)(b)(ii) and (iii), where the undertaking is part of a third-country group, the total assets of each branch of the third-country group authorised in the Union shall be included in the combined total value of the assets of all undertakings in the group.
+For the purposes of the first subparagraph, point (1)(b)(iii), the consolidating supervisor may request all relevant information from the undertaking in order to take its decision.
+For the purposes of the first subparagraph, point (52a), legal risk shall not comprise refunds to third parties or employees and goodwill payments due to business opportunities, where no breach of any rules or ethical conduct has occurred and where the institution has fulfilled its obligations on a timely basis. Nor shall legal risk comprise external legal costs where the event giving rise to those external costs is not an operational risk event.
+For the purposes of the first subparagraph, point (145)(e), of this paragraph, an institution may exclude derivative positions it entered with its non-financial clients and the derivative positions it uses to hedge those positions, provided that the combined value of the excluded positions calculated in accordance with Article 273a(3) does not exceed 10 % of the institution’s total on- and off-balance-sheet assets.’
+                                                   
+(b)
+the following paragraph is added:
+‘5.   By 10 January 2026, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, specifying the criteria for the identification of activities referred to in paragraph 1, first subparagraph, point (18) of this Article.’
+(2)
+Article 5 is amended as follows:
+(a)
+point (3) is replaced by the following:
+‘(3)
+“expected loss” or “EL” means the ratio, related to a single facility, of the amount expected to be lost on an exposure from any of the following:
+(a)
+a potential default of an obligor over a one-year period to the amount outstanding at default;
+(b)
+a potential dilution event over a one-year period to the amount outstanding at the date of occurrence of the dilution event;’
+;
+(b)
+the following points are added:
+‘(4)
+“credit obligation” means any obligation arising from a credit contract, including principal, accrued interest and fees, owed by an obligor;
+(5)
+“credit exposure” means any on- or off -balance-sheet item, that results, or may result, in a credit obligation;
+(6)
+“facility” or “credit facility” means a credit exposure arising from a contract or a set of contracts between an obligor and an institution;
+(7)
+“margin of conservatism” means an add-on incorporated in risk parameter estimates to account for the expected range of estimation errors stemming from identified deficiencies in data, methods, models, and changes to underwriting standards, risk appetite, collection and recovery policies and any other source of additional uncertainty, as well as from general estimation error;
+(8)
+“appropriate adjustment” means the impact on risk parameter estimates resulting from the application of methodologies within the estimation of risk parameters to correct the identified deficiencies in data and in estimation methods, and to account for changes to underwriting standards, risk appetite, collection and recovery policies and any other source of additional uncertainty, to the extent possible in order to avoid biases in risk parameter estimates;
+(9)
+“small and medium-sized enterprise” or “SME” means a company, enterprise or undertaking which, according to its most recent consolidated accounts, has an annual turnover not exceeding EUR 50 000 000;
+(10)
+“commitment” means any contractual arrangement that an institution offers to a client, and is accepted by that client, to extend credit, purchase assets or issue credit substitutes; and any such arrangement that can be unconditionally cancelled by an institution at any time without prior notice to an obligor or any arrangement that can be cancelled by an institution where an obligor fails to meet the conditions set out in the facility documentation, including conditions that are required to be met by the obligor prior to any initial or subsequent drawdown under the arrangement, unless contractual arrangements meet all of the following conditions:
+(a)
+contractual arrangements where the institution receives no fees or commissions to establish or maintain those contractual arrangements;
+(b)
+contractual arrangements where the client is required to apply to the institution for the initial and each subsequent drawdown under those contractual arrangements;
+(c)
+contractual arrangements where the institution has full authority, regardless of the fulfilment by the client of the conditions set out in the contractual arrangement documentation, over the execution of each drawdown;
+(d)
+the contractual arrangements allow the institution to assess the creditworthiness of the client immediately prior to deciding on the execution of each drawdown and the institution has implemented and applies internal procedures that ensure that such an assessment is being made before the execution of each drawdown;
+(e)
+contractual arrangements that are offered to a corporate entity, including an SME, that is closely monitored on an ongoing basis;
+(11)
+“unconditionally cancellable commitment” means any commitment the terms of which permit the institution to cancel that commitment to the full extent allowable under consumer protection and related legal acts, where applicable, at any time without prior notice to the obligor or that effectively provide for automatic cancellation due to a deterioration in a borrower’s creditworthiness.’
+;
+(3)
+the following article is inserted:
+‘Article 5a
+
+Definitions specific to crypto-assets
+For the purposes of this Regulation, the following definitions apply:
+(1)
+“crypto-asset” means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*8) that is not a central bank digital currency;
+(2)
+“electronic money token” or “e-money token” means an electronic money token or e-money token as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114;
+(3)
+“crypto-asset exposure” means an asset or an off-balance-sheet item related to a crypto-asset that gives rise to credit risk, counterparty credit risk, market risk, operational risk or liquidity risk;
+(4)
+“traditional asset” means any asset other than a crypto-asset, including:
+(a)
+financial instruments as defined in Article 4(1), point (50), of this Regulation;
+(b)
+funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;
+(c)
+deposits as defined in Article 2(1), point (3), of Directive 2014/49/EU of the European Parliament and of the Council (*9), including structured deposits;
+(d)
+securitisation positions in the context of a securitisation as defined in Article 2, point (1), of Regulation (EU) 2017/2402;
+(e)
+non-life or life insurance products falling within the classes of insurance listed in Annexes I and II to Directive 2009/138/EC or reinsurance and retrocession contracts referred to in that Directive;
+(f)
+pension products that, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement and that entitle the investor to certain benefits;
+(g)
+officially recognised occupational pension schemes within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council (*10) or Directive 2009/138/EC;
+(h)
+individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;
+(i)
+a pan-European Personal Pension Product as defined in Article 2, point (2), of Regulation (EU) 2019/1238 of the European Parliament and of the Council (*11);
+(j)
+social security schemes covered by Regulation (EC) No 883/2004 of the European Parliament and of the Council (*12) and Regulation (EC) No 987/2009 of the European Parliament and of the Council (*13);
+(5)
+“tokenised traditional asset” means a type of crypto-asset that represents a traditional asset, including an e-money token;
+(6)
+“asset-referenced token” means an asset-referenced token as defined in Article 3(1), point (6), of Regulation (EU) 2023/1114;
+(7)
+“crypto-asset service” means a crypto-asset service as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114.
+
+(*8)  Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40)."
+                        
+
+(*9)  Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)."
+                        
+
+(*10)  Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37)."
+                        
+
+(*11)  Regulation (EU) 2019/1238 of the European Parliament and of the Council of 20 June 2019 on a pan-European Personal Pension Product (PEPP) (OJ L 198, 25.7.2019, p. 1)."
+                        
+
+(*12)  Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (OJ L 166, 30.4.2004, p. 1)."
+                        
+
+(*13)  Regulation (EC) No 987/2009 of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation (EC) No 883/2004 on the coordination of social security systems (OJ L 284, 30.10.2009, p. 1).’;"
+                        
+(4)
+Article 10a is replaced by the following:
+‘Article 10a
+
+Application of prudential requirements on a consolidated basis where investment firms are parent undertakings
+For the purposes of this Chapter, investment firms and investment holding companies shall be considered to be parent financial holding companies in a Member State or EU parent financial holding companies where such investment firms or investment holding companies are parent undertakings of an institution or of an investment firm subject to this Regulation that is referred to in Article 1(2) or (5) of Regulation (EU) 2019/2033.’
+(5)
+in Article 13(1), the second subparagraph is replaced by the following:
+
+                              ‘Large subsidiaries of EU parent institutions shall disclose the information specified in Articles 437, 438, 440, 442, 449a, 449b, 450, 451, 451a and 453 on an individual basis or, where applicable in accordance with this Regulation and Directive 2013/36/EU, on a sub-consolidated basis.’
+                           
+(6)
+Article 18 is amended as follows:
+(a)
+paragraph 2 is deleted;
+(b)
+paragraph 4 is replaced by the following:
+‘4.   Participations in institutions and financial institutions managed by an undertaking included in the consolidation together with one or more undertakings not included in the consolidation shall be consolidated proportionally according to the share of capital held, where the liability of those undertakings is limited to the share of the capital they hold.’
+(c)
+in paragraph 6, the second subparagraph is replaced by the following:
+
+                                          ‘In particular, competent authorities may permit or require the use of the method provided for in Article 22(7), (8) and (9) of Directive 2013/34/EU.’
+                                       
+(d)
+in paragraph 7, the first subparagraph is replaced by the following:
+
+                                          ‘Where an institution has a subsidiary which is an undertaking other than an institution or a financial institution or holds a participation in such an undertaking, it shall apply the equity method to that subsidiary or participation. That method shall not, however, constitute inclusion of the undertakings concerned in supervision on a consolidated basis.’
+                                       
+(e)
+in paragraph 8, the introductory wording is replaced by the following:
+
+                                          ‘Competent authorities may require full or proportional consolidation of a subsidiary or an undertaking in which an institution holds a participation where that subsidiary or undertaking is not an institution or a financial institution and where all of the following conditions are met:’
+                                       
+(f)
+the following paragraph is inserted:
+‘10.   EBA shall submit a report to the Commission by 10 July 2025 on the completeness and appropriateness of the definitions and provisions of this Regulation concerning the supervision of all types of risks to which institutions are exposed at a consolidated level. EBA shall assess in particular any possible remaining discrepancies in those definitions and provisions alongside their interaction with the applicable accounting framework, and any remaining aspect that might pose unintended constraints to a consolidated supervision that is comprehensive and adaptable to new sources or types of risks or structures that might lead to regulatory arbitrage. EBA shall update its report at least once every two years.
+In light of EBA’s findings, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to make adjustments to the relevant definitions or the scope of prudential consolidation.’
+(7)
+Article 19 is amended as follows:
+(a)
+in paragraph 1, the introductory wording is replaced by the following:
+
+                                          ‘An institution or a financial institution which is a subsidiary or an undertaking in which a participation is held, need not to be included in the consolidation where the total amount of assets and off-balance-sheet items of the undertaking concerned is less than the smaller of the following two amounts:’
+                                       
+(b)
+in paragraph 2, the introductory wording is replaced by the following:
+
+                                          ‘The competent authorities responsible for exercising supervision on a consolidated basis pursuant to Article 111 of Directive 2013/36/EU may on a case-by-case basis decide in the following cases that an institution, or a financial institution which is a subsidiary or in which a participation is held need not be included in the consolidation:’
+                                       
+(8)
+Article 20 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+in the first subparagraph, point (a) is replaced by the following:
+‘(a)
+in the case of applications for the permissions referred to in Article 143(1), Article 151(9), Article 283 and Article 325az submitted by an EU parent institution and its subsidiaries, or jointly by the subsidiaries of an EU parent financial holding company or EU parent mixed financial holding company, to decide whether or not to grant the permission sought and to determine the terms and conditions, if any, to which such permission should be subject;’
+;
+(ii)
+the third subparagraph is deleted;
+(b)
+paragraph 6 is replaced by the following:
+‘6.   Where an EU parent institution and its subsidiaries, the subsidiaries of an EU parent financial holding company or an EU parent mixed financial holding company use the IRB Approach referred to in Article 143 on a unified basis, the competent authorities shall allow the parent and its subsidiaries, considered together, to meet the qualifying criteria set out in Part Three, Title II, Chapter 3, Section 6 in a way that is consistent with the structure of the group and its risk management systems, processes and methodologies.’
+(c)
+paragraph 8 is replaced by the following:
+‘8.   EBA shall develop draft implementing technical standards to specify the joint decision process referred to in paragraph 1, point (a), of this Article with regard to the applications for permissions referred to in Article 143(1), Article 151(9) and Articles 283 and 325az with a view to facilitating joint decisions.
+EBA shall submit those draft implementing technical standards to the Commission by 10 July 2025.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.’
+(9)
+Article 22 is replaced by the following:
+‘Article 22
+
+Sub-consolidation in the case of entities in third countries
+1.   Subsidiary institutions or subsidiary intermediate financial holding companies or subsidiary intermediate mixed financial holding companies shall apply the requirements laid down in Articles 89, 90 and 91 and Parts Three, Four and Seven and the associated reporting requirements laid down in Part Seven A on the basis of their sub-consolidated situation if they have an institution or a financial institution as a subsidiary in a third country, or hold a participation in such an undertaking.
+2.   By way of derogation from paragraph 1 of this Article, subsidiary institutions or subsidiary intermediate financial holding companies or subsidiary intermediate mixed financial holding companies may choose not to apply the requirements laid down in Articles 89, 90 and 91 and Parts Three, Four and Seven and the associated reporting requirements laid down in Part Seven A on the basis of their sub-consolidated situation where the total assets and off-balance-sheet items of the subsidiaries and participations in third countries are less than 10 % of the total amount of the assets and off-balance-sheet items of the subsidiary institution or subsidiary intermediate financial holding company or subsidiary intermediate mixed financial holding company.’
+(10)
+in Article 27(1), point (a), point (v) is deleted;
+(11)
+Article 34 is replaced by the following:
+‘Article 34
+
+Additional value adjustments
+1.   Institutions shall apply the requirements of Article 105 to all their assets measured at fair value when calculating the amount of their own funds and shall deduct from Common Equity Tier 1 capital the amount of any additional value adjustments necessary.
+2.   By way of derogation from paragraph 1, in extraordinary circumstances, the existence of which shall be determined by an opinion provided by EBA in accordance with paragraph 3, institutions may reduce the total additional value adjustments in the calculation of the total amount to be deducted from Common Equity Tier 1 capital.
+3.   For the purpose of providing the opinion referred to in paragraph 2, EBA shall monitor the market conditions to assess whether extraordinary circumstances have occurred and, if so, shall notify the Commission thereof immediately.
+4.   EBA, in consultation with ESMA, shall develop draft regulatory technical standards to specify the indicators and conditions that EBA will use to determine the extraordinary circumstances referred to in paragraph 2 and to specify the reduction of the total aggregated additional value adjustments referred to in that paragraph.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(12)
+Article 36 is amended as follows:
+(a)
+paragraph 1 is amended as follows:
+(i)
+point (d) is replaced by the following:
+‘(d)
+for institutions calculating risk-weighted exposure amounts using the Internal Ratings Based Approach (the IRB Approach), the IRB shortfall, where applicable, calculated in accordance with Article 159;’
+;
+(ii)
+point (k) is amended as follows:
+(1)
+point (v) is deleted;
+(2)
+the following point is added:
+‘(vi)
+exposures in the form of units or shares in a CIU that are assigned a risk weight of 1 250 % in accordance with Article 132(2), second subparagraph.’
+;
+(b)
+the following paragraph is added:
+‘5.   For the sole purpose of calculating the applicable amount of insufficient coverage for non-performing exposures in accordance with paragraph 1, point (m), of this Article, by way of derogation from Article 47c and after having notified the competent authority, the applicable amount of insufficient coverage for non-performing exposures purchased by a specialised debt restructurer shall be zero. The derogation set out in this subparagraph shall apply on an individual basis and, in the case of groups in which all institutions qualify as specialised debt restructurers, on a consolidated basis.
+For the purposes of this paragraph, “specialised debt restructurer” means an institution that, during the preceding financial year, complied with all of the following conditions on both an individual and on a consolidated basis:
+(a)
+the main activity of the institution is the purchase, management and restructuring of non-performing exposures in accordance with a clear and effective internal decision process implemented by its management body;
+(b)
+the accounting value measured without taking into account any credit risk adjustments of its own originated loans does not exceed 15 % of its total assets;
+(c)
+at least 5 % of the accounting value measured without taking into account any credit risk adjustments’ of its own originated loans constitutes a total or partial refinancing, or the adjustment of relevant terms, of the purchased non-performing exposures that qualifies as a forbearance measure in accordance with Article 47b;
+(d)
+the total value of the assets of the institution does not exceed EUR 20 billion;
+(e)
+the institution maintains, on an ongoing basis, a net stable funding ratio of at least 130 %;
+(f)
+the sight deposits of the institution do not exceed 5 % of the total liabilities of the institution.
+The specialised debt restructurer shall notify the competent authority, without delay, if one or more of the conditions set out in the second subparagraph are no longer met. Competent authorities shall notify EBA at least on an annual basis of the application of this paragraph by institutions under their supervision.
+EBA shall establish, maintain, and publish a list of specialised debt restructurers. EBA shall monitor the activity of specialised debt restructurers and shall report by 31 December 2028 to the Commission on the results of such monitoring and, where appropriate, shall advise the Commission as to whether the conditions to qualify as “specialised debt restructurer” are sufficiently risk-based and appropriate in view of favouring the secondary market for non-performing loans, and assess if additional conditions are necessary.’
+(13)
+in Article 46(1), point (a), point (ii) is replaced by the following:
+‘(ii)
+the deductions referred to in Article 36(1), points (a) to (g), points (k)(ii) to (vi) and points (l), (m) and (n), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;’
+;
+(14)
+Article 47c is amended as follows:
+(a)
+paragraph 4 is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+
+                                                      ‘By way of derogation from paragraph 3 of this Article, the following factors shall apply to the part of the non-performing exposure guaranteed or counter-guaranteed by an eligible protection provider referred to in Article 201(1), points (a) to (e), the unsecured exposures to which would be assigned a risk weight of 0 % under Part Three, Title II, Chapter 2:’
+                                                   
+(ii)
+point (b) is replaced by the following:
+‘(b)
+1 for the secured part of the non-performing exposure to be applied as of the first day of the eighth year following its classification as non-performing, unless the eligible protection provider agreed to fulfil all payment obligations of the obligor towards the institution in full and in accordance with the original contractual payment schedule, in which case a factor of 0 for the secured part of the non-performing exposure shall apply.’
+;
+(b)
+the following paragraph is inserted:
+‘4a.   By way of derogation from paragraph 3, the part of the non-performing exposure guaranteed or insured by an official export credit agency shall not be subject to the requirements laid down in this Article.’
+(15)
+in Article 48, paragraph 1 is amended as follows:
+(a)
+in point (a), point (ii) is replaced by the following:
+‘(ii)
+Article 36(1), points (a) to (h), points (k)(ii) to (vi) and points (l), (m) and (n), excluding deferred tax assets that rely on future profitability and arise from temporary differences;’
+;
+(b)
+in point (b), point (ii) is replaced by the following:
+‘(ii)
+Article 36(1), points (a) to (h), points (k)(ii) to (vi) and points (l), (m) and (n), excluding deferred tax assets that rely on future profitability and arise from temporary differences.’
+;
+(16)
+in Article 49, paragraph 4 is replaced by the following:
+‘4.   The holdings in respect of which deduction is not made in accordance with paragraph 1 shall qualify as exposures and shall be risk weighted in accordance with Part Three, Title II, Chapter 2.
+The holdings in respect of which deduction is not made in accordance with paragraph 2 or 3 shall qualify as exposures and shall be risk weighted at 100 %.’
+(17)
+in Article 60(1), in point (a), point (ii) is replaced by the following:
+‘(ii)
+Article 36(1), points (a) to (g), points (k)(ii) to (vi) and points (l), (m) and (n), excluding deferred tax assets that rely on future profitability and arise from temporary differences;’
+;
+(18)
+in Article 62, first paragraph, point (d) is replaced by the following:
+‘(d)
+for institutions calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 3, the IRB excess, where applicable, gross of tax effects, calculated in accordance with Article 159, of up to 0,6 % of risk-weighted exposure amounts calculated in accordance with Part Three, Title II, Chapter 3.’
+;
+(19)
+in Article 70(1), in point (a), point (ii) is replaced by the following:
+‘(ii)
+Article 36(1), points (a) to (g), points (k)(ii) to (vi) and points (l), (m) and (n), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;’
+;
+(20)
+in Article 72b(3), first subparagraph, the introductory wording is replaced by the following:
+
+                              ‘In addition to the liabilities referred to in paragraph 2 of this Article, the resolution authority may permit liabilities to qualify as eligible liabilities instruments up to an aggregate amount that does not exceed 3,5 % of the total risk exposure amount calculated in accordance with Article 92(3), provided that:’
+                           
+(21)
+in Article 72i(1), in point (a), point (ii) is replaced by the following:
+‘(ii)
+Article 36(1), points (a) to (g), points (k)(ii) to (vi) and points (l), (m) and (n), excluding the amount to be deducted for deferred tax assets that rely on future profitability and arise from temporary differences;’
+;
+(22)
+Article 74 is replaced by the following:
+‘Article 74
+
+Holdings of capital instruments issued by regulated financial sector entities that do not qualify as regulatory capital
+Institutions shall not deduct from any element of own funds direct, indirect or synthetic holdings of capital instruments issued by a regulated financial sector entity that do not qualify as regulatory capital of that entity. Institutions shall apply risk weights to such holdings in accordance with Part Three, Title II, Chapter 2.’
+(23)
+Article 84 is amended as follows:
+(a)
+paragraph 1 is amended as follows;
+(i)
+in the first subparagraph, point (a) is replaced by the following:
+‘(a)
+the Common Equity Tier 1 capital of the subsidiary minus the lower of the following:
+(i)
+the amount of Common Equity Tier 1 capital of that subsidiary required to meet the following:
+(1)
+where the subsidiary is one of those listed in Article 81(1), point (a), of this Regulation but not an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 92(1), point (a), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries insofar as those requirements are to be met by Common Equity Tier 1 capital;
+(2)
+where the subsidiary is an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 11 of Regulation (EU) 2019/2033, the specific own funds requirements referred to in Article 39(2), point (a), of Directive (EU) 2019/2034, or any local supervisory regulations in third countries, insofar as those requirements are to be met by Common Equity Tier 1 capital;
+(ii)
+the amount of consolidated Common Equity Tier 1 capital that relates to that subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in Article 92(1), point (a), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries, insofar as those requirements are to be met by Common Equity Tier 1 capital;’
+;
+(ii)
+the following subparagraph is added:
+
+                                                      ‘By way of derogation from the first subparagraph, point (a), the competent authority may allow an institution to subtract either of the amounts referred to in point (a)(i) or (ii), once that institution has demonstrated to the satisfaction of the competent authority that the additional amount of minority interest is available to absorb losses at consolidated level.’
+                                                   
+(b)
+in paragraph 5, point (c) is replaced by the following:
+‘(c)
+it consolidates a subsidiary institution in which it has only a minority holding by virtue of the control relationship within the meaning of Article 4(1), point (37);’
+;
+(24)
+in Article 85, paragraph 1 is amended as follows:
+(a)
+point (a) is replaced by the following:
+‘(a)
+the Tier 1 capital of the subsidiary minus the lower of the following:
+(i)
+the amount of Tier 1 capital of the subsidiary required to meet the following:
+(1)
+where the subsidiary is one of those listed in Article 81(1), point (a), of this Regulation but not an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 92(1), point (b), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries insofar as those requirements are to be met by Tier 1 capital;
+(2)
+where the subsidiary is an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 11 of Regulation (EU) 2019/2033, the specific own funds requirements referred to in Article 39(2), point (a), of Directive (EU) 2019/2034, or any local supervisory regulations in third countries insofar as those requirements are to be met by Tier 1 capital;
+(ii)
+the amount of consolidated Tier 1 capital that relates to that subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in Article 92(1), point (b), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries, insofar as those requirements are to be met by Tier 1 capital;’
+;
+(b)
+the following subparagraph is added:
+
+                                          ‘By way of derogation from the first subparagraph, point (a), the competent authority may allow an institution to subtract either of the amounts referred to in point (a)(i) or (ii), once that institution has demonstrated to the satisfaction of the competent authority that the additional amount of Tier 1 capital is available to absorb losses at consolidated level.’
+                                       
+(25)
+in Article 87, paragraph 1 is amended as follows:
+(a)
+point (a) is replaced by the following:
+‘(a)
+the own funds of the subsidiary minus the lower of the following:
+(i)
+the amount of own funds of the subsidiary required to meet the following:
+(1)
+where the subsidiary is one of those listed in Article 81(1), point (a), of this Regulation but not an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 92(1), point (c), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries insofar as those requirements are to be met by own funds;
+(2)
+where the subsidiary is an investment firm or an intermediate investment holding company, the sum of the requirement laid down in Article 11 of Regulation (EU) 2019/2033, the specific own funds requirements referred to in Article 39(2), point (a), of Directive (EU) 2019/2034, or any local supervisory regulations in third countries insofar as those requirements are to be met by own funds;
+(ii)
+the amount of own funds that relates to that subsidiary that is required on a consolidated basis to meet the sum of the requirement laid down in Article 92(1), point (c), of this Regulation, the requirements referred to in Articles 458 and 459 of this Regulation, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU and the combined buffer requirement defined in Article 128, point (6), of that Directive, or any local supervisory regulations in third countries, insofar as those requirements are to be met by own funds;’
+;
+(b)
+the following subparagraph is added:
+
+                                          ‘By way of derogation from the first subparagraph, point (a), the competent authority may allow an institution to subtract either of the amounts referred to in point (a)(i) or (ii), once that institution has demonstrated to the satisfaction of the competent authority that the additional amount of own funds is available to absorb losses at consolidated level.’
+                                       
+(26)
+the following article is inserted:
+‘Article 88b
+
+Undertakings in third countries
+For the purposes of this Title, the terms “investment firm” and “institution” shall be understood to include undertakings established in third countries, which would, if established in the Union, fall under the definitions of those terms in this Regulation.’
+(27)
+Article 89 is amended as follows:
+(a)
+paragraphs 1 and 2 are replaced by the following:
+‘1.   A qualifying holding, the amount of which exceeds 15 % of the eligible capital of the institution, in an undertaking which is not a financial sector entity, shall be subject to the provisions laid down in paragraph 3.
+2.   The total amount of the qualifying holdings of an institution in undertakings other than those referred to in paragraph 1 that exceeds 60 % of its eligible capital shall be subject to paragraph 3.’
+(b)
+paragraph 4 is deleted;
+(28)
+Article 92 is amended as follows:
+(a)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   Institutions shall calculate the total risk exposure amount as follows:
+
+TREA = max{U-TREA; x ‏‏‏∙ S-TREA}
+
+where:
+TREA
+= the total risk exposure amount of the entity;
+U-TREA
+= the un-floored total risk exposure amount of the entity calculated in accordance with paragraph 4;
+S-TREA
+= the standardised total risk exposure amount of the entity calculated in accordance with paragraph 5;
+x
+= 72,5 %.
+By way of derogation from the first subparagraph of this paragraph, a Member State may decide that the total risk exposure amount shall be the un-floored total risk exposure amount, calculated in accordance with paragraph 4, for institutions which are part of a group with a parent institution in the same Member State, provided that that parent institution or, in the case of groups composed of a central body and permanently affiliated institutions, the whole as constituted by the central body together with its affiliated institutions, calculates its total risk exposure amount in accordance with the first subparagraph of this paragraph on a consolidated basis.
+4.   The un-floored total risk exposure amount shall be calculated as the sum of points (a) to (g) of this paragraph after having taken into account paragraph 6 of this Article:
+(a)
+the risk-weighted exposure amounts for credit risk, including counterparty credit risk, and dilution risk, calculated in accordance with Title II of this Part and Article 379, in respect of all business activities of an institution, excluding risk-weighted exposure amounts from the trading-book business of the institution;
+(b)
+the own funds requirements for the trading-book business of an institution for the following:
+(i)
+market risk, calculated in accordance with Title IV of this Part;
+(ii)
+large exposures exceeding the limits specified in Articles 395 to 401, to the extent that an institution is permitted to exceed those limits, as determined in accordance with Part Four;
+(c)
+the own funds requirements for market risk, calculated in accordance with Title IV of this Part for all non-trading book business activities that are subject to foreign exchange risk or commodity risk;
+(d)
+the own funds requirements for settlement risk, calculated in accordance with Articles 378 and 380;
+(e)
+the own funds requirements for credit valuation adjustment risk, calculated in accordance with Title VI of this Part;
+(f)
+the own funds requirements for operational risk, calculated in accordance with Title III of this Part;
+(g)
+the risk-weighted exposure amounts for counterparty credit risk arising from the trading book business of the institution for the following types of transactions and agreements, calculated in accordance with Title II of this Part:
+(i)
+contracts listed in Annex II and credit derivatives;
+(ii)
+repurchase transactions, securities or commodities lending or borrowing transactions based on securities or commodities;
+(iii)
+margin lending transactions based on securities or commodities;
+(iv)
+long settlement transactions.’
+(b)
+the following paragraphs are added:
+‘5.   The standardised total risk exposure amount shall be calculated as the sum of paragraph 4, points (a) to (g), after having taken into account paragraph 6 and the following requirements:
+(a)
+the risk-weighted exposure amounts for credit risk, including counterparty credit risk, and dilution risk, referred to in paragraph 4, point (a), and for counterparty credit risk arising from the trading book business of the institution as referred to in point (g) of that paragraph shall be calculated without using any of the following approaches:
+(i)
+the internal model approach for master netting agreements set out in Article 221;
+(ii)
+the Internal Ratings Based Approach set out in Title II, Chapter 3;
+(iii)
+the Securitisation Internal Ratings Based Approach set out in Articles 258, 259 and 260 and the Internal Assessment Approach set out in Article 265;
+(iv)
+the Internal Model Method set out in Title II, Chapter 6, Section 6;
+(b)
+the own funds requirements for market risk for the trading book business referred to in paragraph 4, point (b)(i), shall be calculated without using:
+(i)
+the alternative internal model approach set out in Title IV, Chapter 1b; or
+(ii)
+any approach listed under point (a) of this paragraph, where applicable;
+(c)
+the own funds requirements for all non-trading book business activities of an institution that are subject to foreign exchange risk or commodity risk referred to in paragraph 4, point (c), of this Article shall be calculated without using the alternative internal model approach set out in Title IV, Chapter 1b.
+6.   The following provisions shall apply to the calculations of the un-floored total risk exposure amount referred to in paragraph 4 and of the standardised total risk exposure amount referred to in paragraph 5:
+(a)
+the own funds requirements referred to in paragraph 4, points (d), (e) and (f), shall include those arising from all business activities of an institution;
+(b)
+institutions shall multiply the own funds requirements set out in paragraph 4, points (b) to (f), by 12,5.’
+(29)
+in Article 92a(1), point (a) is replaced by the following:
+‘(a)
+a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3);’
+;
+(30)
+Article 94 is amended as follows:
+(a)
+in paragraph 1, the introductory wording is replaced by the following:
+
+                                          ‘By way of derogation from Article 92(4), point (b), and Article 92(5), point (b), institutions may calculate the own funds requirement for their trading-book business in accordance with paragraph 2 of this Article, provided that the size of the institutions’ on- and off-balance-sheet trading-book business is equal to or less than both of the following thresholds on the basis of an assessment carried out on a monthly basis using the data as of the last day of the month:’
+                                       
+(b)
+in paragraph 2, points (a) and (b) are replaced by the following:
+‘(a)
+for the contracts listed in Annex II, point 1, contracts relating to equities which are referred to in point 3 of that Annex and credit derivatives, institutions may exempt those positions from the own funds requirement referred to in Article 92(4), point (b), and Article 92(5), point (b);
+(b)
+for trading book positions other than those referred to in point (a) of this paragraph, institutions may replace the own funds requirement referred to in Article 92(4), point (b), and Article 92(5), point (b), with the requirement calculated in accordance with Article 92(4), point (a), and Article 92(5), point (a).’
+;
+(c)
+paragraph 3 is amended as follows:
+(i)
+in the first subparagraph, point (c) is replaced by the following:
+‘(c)
+the absolute value of the aggregated long position shall be summed with the absolute value of the aggregated short position.’
+;
+(ii)
+the following subparagraphs are added:
+
+                                                      ‘For the purposes of the first subparagraph, a long position is one where the market value of the position increases when the value of its main risk driver increases, and a short position is one where the market value of the position decreases when the value of its main risk driver increases.
+For the purposes of the first subparagraph, the value of the aggregated long (short) position shall be equal to the sum of the values of the individual long (short) positions included in the calculation in accordance with point (a).’
+                                                   
+(d)
+the following paragraph is added:
+‘10.   EBA shall develop draft regulatory technical standards to specify the method for identifying the main risk driver of a position and for determining whether a transaction represents a long or a short position as referred to in paragraph 3 of this Article, and Articles 273a(3) and 325a(2).
+In developing those draft regulatory technical standards, EBA shall take into consideration the method developed for the regulatory technical standards mandated in accordance with Article 279a(3), point (b).
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(31)
+in Article 95(2), point (a) is replaced by the following:
+‘(a)
+the sum of the items referred to in Article 92(4), points (a) to (e) and point (g), after applying Article 92(6);’
+;
+(32)
+in Article 96(2), point (a) is replaced by the following:
+‘(a)
+Article 92(4), points (a) to (e) and point (g), after applying Article 92(6);’
+;
+(33)
+in Article 102, paragraph 4 is replaced by the following:
+‘4.   For the purpose of calculating the own funds requirements for market risk in accordance with the approach referred to in Article 325(1), point (b), trading book positions shall be assigned to trading desks.’
+(34)
+Article 104 is replaced by the following:
+‘Article 104
+
+Inclusion in the trading book
+1.   An institution shall have in place clearly defined policies and procedures for determining which positions to include in the trading book to calculate its own funds requirements, in accordance with Article 102 and this Article, taking into account its risk management capabilities and practices. An institution shall fully document its compliance with those policies and procedures, shall subject them to an internal audit on at least a yearly basis and shall make the results of that audit available to the competent authorities.
+An institution shall have in place an independent risk control function which shall evaluate, on an ongoing basis, whether its instruments are being properly assigned to the trading book or the non-trading book.
+2.   Institutions shall assign positions in the following instruments to the trading book:
+(a)
+instruments that meet the criteria set out in Article 325(6), (7) and (8), for the inclusion in the alternative correlation trading portfolio (ACTP);
+(b)
+instruments that would give rise to a net short credit or net short equity position in the non-trading book, with the exception of the own liabilities of the institution, unless such positions meet the criteria referred to in point (e);
+(c)
+instruments resulting from securities underwriting commitments, where those underwriting commitments relate only to securities that are expected to be purchased by the institution on the settlement date;
+(d)
+instruments classified unambiguously as having a trading purpose under the accounting framework applicable to the institution;
+(e)
+instruments resulting from market-making activities;
+(f)
+positions held with trading intent in CIUs, provided that those CIUs meet at least one of the conditions set out in paragraph 8;
+(g)
+listed equities;
+(h)
+trading-related securities financing transactions;
+(i)
+options, or other derivatives, embedded in the own liabilities of the institution in the non-trading book that relate to credit risk or equity risk.
+For the purposes of the first subparagraph, point (b), an institution shall have a net short equity position where a decrease in the equity’s price results in a profit for the institution. An institution shall have a net short credit position where the credit spread increase, or the deterioration in the creditworthiness of the issuer or group of issuers, results in a profit for the institution. Institutions shall continuously monitor whether instruments give rise to a net short credit or net short equity position in the non-trading book.
+For the purposes of the first subparagraph, point (i), an institution shall split the embedded option, or other derivative, from its own liability in the non-trading book that relates to credit risk or equity risk. It shall assign the embedded option, or other derivative, to the trading book and shall leave the own liability in the non-trading book. Where, due to its nature, it is not possible to split the instrument, an institution shall assign the whole instrument to the trading book. In such a case, it shall duly document the reason for applying that treatment.
+3.   Institutions shall not assign positions in the following instruments to the trading book:
+(a)
+instruments designated for securitisation warehousing;
+(b)
+real estate holdings-related instruments;
+(c)
+unlisted equities;
+(d)
+instruments related to retail and SME credit;
+(e)
+positions in other CIUs than those referred to in paragraph 2, point (f);
+(f)
+derivative contracts and CIUs with one or more of the underlying instruments referred to in points (a) to (d) of this paragraph;
+(g)
+instruments held for hedging a particular risk of one or more positions in an instrument referred to in points (a) to (f), (h) and (i) of this paragraph;
+(h)
+own liabilities of the institution, unless such instruments meet the criteria referred to in paragraph 2, point (e), or the criteria referred to in paragraph 2, third subparagraph;
+(i)
+instruments in hedge funds.
+4.   By way of derogation from paragraph 2, an institution may assign to the non-trading book a position in an instrument referred to in points (d) to (i) of that paragraph, subject to the approval of its competent authority. The competent authority shall give its approval where the institution has demonstrated to the satisfaction of its competent authority that the position is not held with trading intent or does not hedge positions held with trading intent.
+5.   By way of derogation from paragraph 3, an institution may assign to the trading book a position in an instrument referred to in point (i) of that paragraph, subject to the approval of its competent authority. The competent authority shall give its approval where the institution has demonstrated to the satisfaction of its competent authority that the position is held with trading intent, or hedges positions held with trading intent, and that the institution meets at least one of the conditions set out in paragraph 8 for that position.
+6.   Where an institution has assigned to the trading book a position in an instrument other than the instruments referred to in paragraph 2, point (a), (b) or (c), the institution’s competent authority may ask the institution to provide evidence to justify such assignment. Where the institution fails to provide suitable evidence, its competent authority may require the institution to reassign that position to the non-trading book.
+7.   Where an institution has assigned to the non-trading book a position in an instrument other than the instruments referred to in paragraph 3, the institution’s competent authority may ask the institution to provide evidence to justify such assignment. Where the institution fails to provide suitable evidence, its competent authority may require the institution to reassign that position to the trading book.
+8.   An institution shall assign to the trading book a position in a CIU, other than the positions referred to in paragraph 3, point (f), that is held with trading intent, where the institution meets any of the following conditions:
+(a)
+the institution is able to obtain sufficient information about the individual underlying exposures of the CIU;
+(b)
+the institution is not able to obtain sufficient information about the individual underlying exposures of the CIU, but the institution has knowledge of the content of the mandate of the CIU and is able to obtain daily price quotes for the CIU.
+9.   EBA shall develop draft regulatory technical standards to further specify the process that institutions are to use to calculate and monitor net short credit or net short equity positions in the non-trading book referred to in the paragraph 2, point (b).
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2027.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(35)
+Article 104a is amended as follows:
+(a)
+in paragraph 1, the second subparagraph is replaced by the following:
+
+                                          ‘EBA shall monitor the range of supervisory practices and shall issue by 10 July 2027 guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, on what exceptional circumstances entail for the purposes of the first subparagraph of this paragraph and of paragraph 5 of this Article. Until EBA issues those guidelines, competent authorities shall notify EBA of, and shall provide a rationale for, their decisions on whether or not to permit an institution to reclassify a position as referred to in paragraph 2 of this Article.’
+                                       
+(b)
+paragraph 5 is replaced by the following:
+‘5.   The reclassification of a position in accordance with this Article shall be irrevocable, except in the exceptional circumstances referred to in paragraph 1.’
+(c)
+the following paragraph is added:
+‘6.   By way of derogation from paragraph 1 of this Article, an institution may reclassify a non-trading book position as a trading book position pursuant to Article 104(2), point (d), without seeking permission from its competent authority. In such a case, the requirements laid down in paragraphs 3 and 4 of this Article shall continue to apply to the institution. The institution shall immediately notify its competent authority where such a reclassification has occurred.’
+(36)
+Article 104b is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   For the purpose of calculating the own funds requirements for market risk in accordance with the approach referred to in Article 325(1), point (b), institutions shall establish trading desks and shall assign each of their trading book positions and their non-trading book positions referred to in paragraphs 5 and 6 of this Article to one of those trading desks. Trading book positions shall be attributed to the same trading desk only where those positions are in compliance with the agreed business strategy for that trading desk and are consistently managed and monitored in accordance with paragraph 2 of this Article.’
+(b)
+the following paragraphs are added:
+‘5.   To calculate their own funds requirements for market risk, institutions shall assign each of their non-trading book positions that are subject to foreign exchange risk or commodity risk to trading desks established in accordance with paragraph 1 that manage risks that are similar to the risks of those positions.
+6.   By way of derogation from paragraph 5, institutions may, when calculating their own funds requirements for market risk, establish one or more trading desks to which they assign exclusively non-trading book positions that are subject to foreign exchange risk or commodity risk. Those trading desks shall not be subject to the requirements set out in paragraphs 1, 2 and 3.’
+(37)
+the following article is inserted:
+‘Article 104c
+
+Treatment of foreign exchange risk hedges of capital ratios
+1.   An institution which has deliberately taken a risk position in order to hedge, at least partially, against adverse movements in foreign exchange rates on any of its capital ratios as referred to in Article 92(1), points (a), (b) and (c), may, subject to the permission of its competent authority, exclude that risk position from the own funds requirements for foreign exchange risk referred to in Article 325(1), provided that all of the following conditions are met:
+(a)
+the maximum amount of the risk position that is excluded from the own funds requirements for market risk is limited to the amount of the risk position that neutralises the sensitivity of any of the capital ratios to the adverse movements in foreign exchange rates;
+(b)
+the risk position is excluded from the own funds requirements for market risk for at least six months;
+(c)
+the institution has established an appropriate risk management framework for hedging the adverse movements in foreign exchange rates on any of its capital ratios, including a clear hedging strategy and governance structure;
+(d)
+the institution has provided to the competent authority a justification for excluding a risk position from the own funds requirements for market risk, the details of that risk position and the amount to be excluded.
+2.   Any exclusion of risk positions from the own funds requirements for market risk in accordance with paragraph 1 shall be applied consistently.
+3.   The competent authority shall approve any changes by the institution to the risk management framework referred to in paragraph 1, point (c), and to the details of the risk positions referred to in paragraph 1, point (d).
+4.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the risk positions that an institution can deliberately take in order to hedge, at least partially, against the adverse movements of foreign exchange rates on any of its capital ratios referred to in paragraph 1;
+(b)
+how to determine the maximum amount referred to in paragraph 1, point (a), of this Article and the manner in which an institution is to exclude that amount for each of the approaches referred to in Article 325(1);
+(c)
+the criteria to be met by an institution’s risk management framework referred to in paragraph 1, point (c), in order to be considered appropriate for the purposes of this Article.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(38)
+Article 106 is amended as follows:
+(a)
+paragraphs 3 and 4 are replaced by the following:
+‘3.   Where an institution hedges a non-trading book credit risk exposure or counterparty risk exposure using a credit derivative booked in its trading book, that credit derivative position shall be recognised as an internal hedge of the non-trading book credit risk exposure or counterparty risk exposure for the purpose of calculating the risk-weighted exposure amounts referred to in Article 92(4), point (a), where the institution enters into another credit derivative transaction with an eligible third party protection provider that meets the requirements for unfunded credit protection in the non-trading book and perfectly offsets the market risk of the internal hedge.
+Both an internal hedge recognised in accordance with the first subparagraph and the credit derivative entered into with the eligible third party protection provider shall be included in the trading book for calculating the own funds requirements for market risk. For calculating the own funds requirements for market risk using the approach referred to in Article 325(1), point (b), both positions shall be assigned to the same trading desk that manages similar risks.
+4.   Where an institution hedges a non-trading book equity risk exposure using an equity derivative booked in its trading book, that equity derivative position shall be recognised as an internal hedge of the non-trading book equity risk exposure for the purpose of calculating the risk-weighted exposure amounts referred to in Article 92(4), point (a), where the institution enters into another equity derivative transaction with an eligible third party protection provider that meets the requirements for unfunded credit protection in the non-trading book and perfectly offsets the market risk of the internal hedge.
+Both an internal hedge recognised in accordance with the first subparagraph of this paragraph and the equity derivative entered into with the eligible third party protection provider shall be included in the trading book for calculating the own funds requirements for market risk. For calculating the own funds requirements for market risk using the approach referred to in Article 325(1), point (b), both positions shall be assigned to the same trading desk that manages similar risks.’
+(b)
+the following paragraph is inserted:
+‘4a.   For the purposes of paragraphs 3 and 4, the credit or equity derivative transaction entered into by an institution may be composed of multiple transactions with multiple eligible third party protection providers, provided that the resulting aggregated transaction meets the conditions set out in those paragraphs.’
+(c)
+paragraph 5 is replaced by the following:
+‘5.   Where an institution hedges non-trading book interest rate risk exposures using an interest rate risk position booked in its trading book, that interest rate risk position shall be considered to be an internal hedge to assess the interest rate risk arising from non-trading book positions in accordance with Articles 84 and 98 of Directive 2013/36/EU where the following conditions are met:
+(a)
+for calculating the own funds requirements for market risk using the approaches referred to in Article 325(1), points (a), (b) and (c), the position has been assigned to a separate portfolio from the other trading book positions, the business strategy of which is solely dedicated to managing and mitigating the market risk of internal hedges of interest rate risk exposure;
+(b)
+for calculating the own funds requirements for market risk using the approach referred to in Article 325(1), point (b), the position has been assigned to a trading desk the business strategy of which is solely dedicated to managing and mitigating the market risk of internal hedges of interest rate risk exposure;
+(c)
+the institution has fully documented how the position mitigates the interest rate risk arising from non-trading book positions for the purposes of the requirements laid down in Articles 84 and 98 of Directive 2013/36/EU.’
+(d)
+the following paragraphs are inserted:
+‘5a.   For the purposes of paragraph 5, point (a), the institution may assign to that portfolio other interest rate risk positions entered into with third parties, or with its own trading book, as long as the institution perfectly offsets the market risk of those interest rate risk positions entered into with its own trading book by entering into opposite interest rate risk positions with third parties.
+5b.   The following requirements shall apply to the trading desk referred to in paragraph 5, point (b), of this Article:
+(a)
+that trading desk may enter into other interest rate risk positions with third parties or with other trading desks of the institution, as long as those positions meet the requirements for inclusion in the trading book referred to in Article 104 and those other trading desks perfectly offset the market risk of those other interest rate risk positions by entering into opposite interest rate risk positions with third parties;
+(b)
+no trading book positions other than those referred to in point (a) of this paragraph are assigned to that trading desk;
+(c)
+by way of derogation from Article 104b, that trading desk shall not be subject to the requirements set out in paragraphs 1, 2 and 3 of that Article.’
+(e)
+paragraphs 6 and 7 are replaced by the following:
+‘6.   The own funds requirements for the market risk of all positions assigned to the separate portfolio referred to in paragraph 5, point (a), or to the trading desk referred to in point (b) of that paragraph, shall be calculated on a stand-alone basis, in addition to the own funds requirements for the other trading book positions.
+7.   Where an institution hedges a credit valuation adjustment (CVA) risk exposure using a derivative instrument entered into with its trading book, the position in that derivative instrument shall be recognised as an internal hedge for the CVA risk exposure for the purpose of calculating the own funds requirements for CVA risk in accordance with the approaches set out in Article 383 or 384, where the following conditions are met:
+(a)
+the derivative position is recognised as an eligible hedge in accordance with Article 386;
+(b)
+where the derivative position is subject to any of the requirements set out in Article 325c(2), point (b) or (c), or in Article 325e(1), point (c), the institution perfectly offsets the market risk of that derivative position by entering into opposite positions with third parties.
+The opposite trading book position of the internal hedge recognised in accordance with the first subparagraph shall be included in the institution’s trading book to calculate the own funds requirements for market risk.’
+                                             
+(39)
+in Article 107, paragraphs 1, 2 and 3 are replaced by the following:
+‘1.   Institutions shall apply either the Standardised Approach provided for in Chapter 2 or, where permitted by the competent authorities in accordance with Article 143, the Internal Ratings Based Approach provided for in Chapter 3 to calculate their risk-weighted exposure amounts for the purposes of Article 92(4), points (a) and (g).
+2.   For trade exposures and for default fund contributions to a central counterparty, institutions shall apply the treatment set out in Chapter 6, Section 9, to calculate their risk-weighted exposure amounts for the purposes of Article 92(4), points (a) and (g). For all other types of exposures to a central counterparty, institutions shall treat those exposures as follows:
+(a)
+as exposures to an institution for other types of exposures to a qualifying CCP;
+(b)
+as exposures to a corporate for other types of exposures to a non-qualifying CCP.
+3.   For the purposes of this Regulation, exposures to third-country investment firms, third-country credit institutions and third-country exchanges, as well as exposures to third-country financial institutions authorised and supervised by third-country authorities and subject to prudential requirements comparable to those applied to institutions in terms of robustness, shall be treated as exposures to an institution only if the third country applies prudential and supervisory requirements to that entity that are at least equivalent to those applied in the Union.’
+(40)
+Article 108 is replaced by the following:
+‘Article 108
+
+Use of credit risk mitigation techniques under the Standardised Approach and the IRB Approach for credit risk and dilution risk
+1.   For an exposure to which an institution applies the Standardised Approach under Chapter 2 or applies the IRB Approach under Chapter 3 but without using its own estimates of LGD under Article 143, the institution may take into account the effect of funded credit protection in accordance with Chapter 4 in the calculation of risk-weighted exposure amounts for the purposes of Article 92(4), points (a) and (g) and, where relevant, expected loss amounts for the purposes of the calculation referred to in Article 36(1), point (d), and Article 62, point (d).
+2.   For an exposure to which an institution applies the IRB Approach by using its own estimates of LGD under Article 143, the institution may take into account the effect of funded credit protection in accordance with Chapter 3 in the calculation of risk-weighted exposure amounts for the purposes of Article 92(4), points (a) and (g), and, where relevant, expected loss amounts for the purposes of the calculation referred to in Article 36(1), point (d), and Article 62, point (d).
+3.   Where an institution applies the IRB Approach by using its own estimates of LGD under Article 143 for both the original exposure and for comparable direct exposures to the protection provider, the institution may take into account the effect of unfunded credit protection in accordance with Chapter 3 in the calculation of risk-weighted exposure amounts for the purposes of Article 92(4), points (a) and (g), and, where relevant, expected loss amounts for the purposes of the calculation referred to in Article 36(1), point (d), and Article 62, point (d). In all other cases, for those purposes, the institution may take into account the effect of unfunded credit protection in the calculation of risk-weighted exposure amounts and expected loss amounts in accordance with Chapter 4.
+4.   Subject to the conditions set out in paragraph 5, institutions may regard loans to natural persons as exposures secured by a mortgage on residential property, instead of being treated as guaranteed exposures, for the purposes of Title II, Chapters 2, 3 and 4, as applicable, where in a Member State the following conditions for those loans have been fulfilled:
+(a)
+the majority of loans to natural persons for the purchase of residential properties in that Member State are not provided as mortgages in legal form;
+(b)
+the majority of loans to natural persons for the purchase of residential properties in that Member State are guaranteed by a protection provider with a credit assessment by a nominated ECAI corresponding to credit quality step 1 or 2, that is required to repay the institution in full where the original borrower defaults;
+(c)
+the institution has the legal right to take a mortgage on the residential property in the event that the protection provider referred to in point (b) does not meet or becomes unable to meet its obligations under the guarantee provided.
+Competent authorities shall inform EBA where the conditions set out in the first subparagraph, points (a), (b) and (c), of this paragraph are met in the national territories of their jurisdictions, and shall provide the names of protection providers eligible for that treatment that fulfil the conditions of this paragraph and paragraph 5.
+EBA shall publish the list of all such eligible protection providers on its website and update that list yearly.
+5.   For the purposes of paragraph 4, loans referred to in that paragraph may be treated as exposures secured by a mortgage on residential property, instead of being treated as guaranteed exposures, where all of the following conditions are met:
+(a)
+for an exposure that is treated under the Standardised Approach, the exposure meets all of the requirements to be assigned to the Standardised Approach “exposures secured by mortgages on immovable property” exposure class pursuant to Articles 124 and 125 with the exception that the institution granting the loan does not hold a mortgage over the residential property;
+(b)
+for an exposure that is treated under the IRB Approach, the exposure meets all of the requirements to be assigned to the IRB exposure class “retail exposures secured by residential property” referred to in Article 147(2), point (d)(ii), with the exception that the institution granting the loan does not hold a mortgage over the residential property;
+(c)
+there is no mortgage lien on the residential property when the loan is granted and for the loans granted from 1 January 2014 the borrower is contractually committed not to grant any mortgage lien without the consent of the institution that originally granted the loan;
+(d)
+the protection provider is an eligible protection provider as referred to in Article 201, and has a credit assessment by a nominated ECAI corresponding to credit quality step 1 or 2;
+(e)
+the protection provider is an institution or a financial sector entity subject to own funds requirements comparable to those applicable to institutions or insurance undertakings;
+(f)
+the protection provider has established a fully-funded mutual guarantee fund or equivalent protection for insurance undertakings to absorb credit risk losses, the calibration of which is periodically reviewed by its competent authority and is subject to periodic stress testing, at least every two years;
+(g)
+the institution is contractually and legally empowered to take a mortgage on the residential property in the event that the protection provider does not meet or becomes unable to meet its obligations under the guarantee provided.
+6.   Institutions that use the option provided for in paragraph 4 for a given eligible protection provider under the mechanism referred to in that paragraph shall do so for all its exposures to natural persons guaranteed by that protection provider under that mechanism.’
+(41)
+the following article is inserted:
+‘Article 110a
+
+Monitoring of contractual arrangements that are not commitments
+Institutions shall monitor contractual arrangements that meet all of the conditions set out in Article 5, points (10)(a) to (e), and shall document to the satisfaction of their competent authorities their compliance with all those conditions.’
+(42)
+Article 111 is replaced by the following:
+‘Article 111
+
+Exposure value
+1.   The exposure value of an asset item shall be its accounting value remaining after specific credit risk adjustments in accordance with Article 110, additional value adjustments in accordance with Article 34 related to the non-trading book business of the institution, amounts deducted in accordance with Article 36(1), point (m), and other own funds reductions related to the asset item have been applied.
+2.   The exposure value of an off-balance-sheet item listed in Annex I shall be the following percentage of the item’s nominal value after the deduction of specific credit risk adjustments in accordance with Article 110 and amounts deducted in accordance with Article 36(1), point (m):
+(a)
+100 % for items in bucket 1;
+(b)
+50 % for items in bucket 2;
+(c)
+40 % for items in bucket 3;
+(d)
+20 % for items in bucket 4;
+(e)
+10 % for items in bucket 5.
+3.   The exposure value of a commitment on an off-balance-sheet item as referred to in paragraph 2 of this Article shall be the lower of the following percentages of the commitment’s nominal value after the deduction of specific credit risk adjustments and amounts deducted in accordance with Article 36(1), point (m):
+(a)
+the percentage referred to in paragraph 2 of this Article that is applicable to the item on which the commitment is made;
+(b)
+the percentage referred to in paragraph 2 of this Article that is applicable to the type of commitment.
+4.   Contractual arrangements offered by an institution, but not yet accepted by the client, that would become commitments if accepted by the client, shall be treated as commitments and the percentage applicable shall be the one provided for in accordance with paragraph 2.
+For contractual arrangements that meet the conditions set out in Article 5, points (10)(a) to (e), the applicable percentage shall be 0 %.
+5.   Where an institution is using the Financial Collateral Comprehensive Method referred to in Article 223, the exposure value of securities or commodities sold, posted or lent under a securities financing transaction shall be increased by the volatility adjustment appropriate to such securities or commodities in accordance with Articles 223 and 224.
+6.   The exposure value of a derivative instrument listed in Annex II shall be determined in accordance with Chapter 6, taking into account the effects of contracts of novation and other netting agreements as specified in that Chapter. The exposure value of securities financing transactions and long settlement transactions may be determined in accordance with Chapter 4 or 6.
+7.   Where the exposure is covered by a funded credit protection, the exposure value may be amended in accordance with Chapter 4.
+8.   EBA shall develop draft regulatory technical standards to specify:
+(a)
+the criteria that institutions are to use to assign off-balance-sheet items, with the exception of items already included in Annex I, to the buckets 1 to 5 referred to in Annex I;
+(b)
+the factors that might constrain institutions’ ability to cancel the unconditionally cancellable commitments referred to in Annex I;
+(c)
+the process for notifying EBA about institutions’ classification of other off-balance-sheet items carrying similar risks as those referred to in Annex I.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(43)
+Article 112 is amended as follows
+(a)
+point (i) is replaced by the following:
+‘(i)
+exposures secured by mortgages on immovable property and ADC exposures;’
+;
+(b)
+point (k) is replaced by the following:
+‘(k)
+subordinated debt exposures;’
+;
+(44)
+Article 113 is amended as follows:
+(a)
+paragraph 1 is replaced by the following:
+‘1.   To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless those exposures are deducted from own funds or are subject to the treatment set out in Article 72e(5), first subparagraph, in accordance with the provisions of Section 2 of this Regulation. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Section 2, its credit quality. Credit quality may be determined by reference to the credit assessments of ECAIs or the credit assessments of export credit agencies in accordance with Section 3. With the exception of exposures assigned to the exposure classes set out in Article 112, points (a), (b), (c) and (e), of this Regulation where the assessment in accordance with Article 79, point (b), of Directive 2013/36/EU reflects higher risk characteristics than those implied by the credit quality step to which the exposure would be assigned based on the applicable credit assessment of the nominated ECAI or export credit agency, the institution shall assign a risk weight at least one credit quality step higher than the risk weight implied by the credit assessment of the nominated ECAI or export credit agency.’
+(b)
+paragraph 3 is replaced by the following:
+‘3.   Where an exposure is subject to credit protection, the exposure value or the risk weight applicable to that exposure, as appropriate, may be amended in accordance with this Chapter and Chapter 4.’
+(c)
+paragraph 5 is replaced by the following:
+‘5.   The exposure value of any item for which no risk weight is provided for under this Chapter shall be assigned a risk weight of 100 %.’
+(d)
+in paragraph 6, the first subparagraph is amended as follows:
+(i)
+the introductory wording is replaced by the following:
+
+                                                      ‘With the exception of exposures giving rise to Common Equity Tier 1, Additional Tier 1 or Tier 2 items, an institution may, subject to the prior approval of the competent authorities, decide not to apply the requirements of paragraph 1 of this Article to the exposures of that institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking, or an undertaking linked to the institution by a relationship within the meaning of Article 22(7) of Directive 2013/34/EU. Competent authorities are empowered to grant approval if the following conditions are fulfilled:’
+                                                   
+(ii)
+point (a) is replaced by the following:
+‘(a)
+the counterparty is an institution or a financial institution subject to appropriate prudential requirements;’
+;
+(45)
+Article 115 is amended as follows:
+(a)
+the following paragraph is inserted:
+‘-1.   Exposures to regional governments or local authorities for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 1 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+Table 1
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+50 %
+50 %
+100 %
+100 %
+150 %
+
+                                                ’;
+(b)
+paragraph 1 is replaced by the following:
+‘1.   Exposures to regional governments or local authorities for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight in accordance with the credit quality step to which exposures to the central government of the jurisdiction in which regional governments or local authorities are incorporated are assigned in accordance with Table 2.
+Table 2
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+50 %
+100 %
+100 %
+100 %
+150 %
+For exposures referred to in the first subparagraph, a risk weight of 100 % shall be assigned where the central government of the jurisdiction in which regional governments or local authorities are incorporated is unrated.’
+                                             
+(c)
+in paragraph 2, the first subparagraph is replaced by the following:
+
+                                          ‘By way of derogation from paragraphs - 1 and 1, exposures to regional governments or local authorities shall be treated as exposures to the central government in whose jurisdiction they are established where there is no difference in risk between such exposures because of the specific revenue-raising powers of the former, and the existence of specific institutional arrangements the effect of which is to reduce their risk of default.’
+                                       
+(d)
+paragraph 3 is replaced by the following:
+‘3.   Exposures to churches or religious communities constituted in the form of a legal person under public law shall, in so far as they raise taxes in accordance with legal acts conferring on them the right to do so, be treated as exposures to regional governments and local authorities. In that case, paragraph 2 shall not apply.’
+(e)
+in paragraph 4, the first subparagraph is replaced by the following:
+
+                                          ‘By way of derogation from paragraphs - 1 and 1, where competent authorities of a third-country which applies supervisory and regulatory arrangements at least equivalent to those applied in the Union treat exposures to regional governments or local authorities as exposures to their central government and there is no difference in risk between such exposures because of the specific revenue-raising powers of regional government or local authorities and to specific institutional arrangements to reduce the risk of default, institutions may risk weight exposures to such regional governments and local authorities in the same manner.’
+                                       
+(f)
+paragraph 5 is replaced by the following:
+‘5.   By way of derogation from paragraphs - 1 and 1, exposures to regional governments or local authorities of the Member States that are not referred to in paragraphs 2, 3 and 4 and are denominated and funded in the domestic currency of that regional government or local authority shall be assigned a risk weight of 20 %.’
+(46)
+Article 116 is amended as follows:
+(a)
+paragraph 2 is replaced by the following:
+‘2.   Exposures to public sector entities for which a credit assessment by a nominated ECAI is available shall be treated in accordance with Article 115(-1).’
+(b)
+in paragraph 4, the following subparagraph is added:
+
+                                          ‘EBA shall maintain a publicly available database of all public sector entities within the Union referred to in the first subparagraph.’
+                                       
+(47)
+in Article 117(1), the first subparagraph is replaced by the following:
+
+                              ‘Exposures to multilateral development banks that are not referred to in paragraph 2 and for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 1. Exposures to multilateral development banks that are not referred to in paragraph 2 for which a credit assessment by a nominated ECAI is not available shall be assigned a risk weight of 50 %.
+Table 1
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+30 %
+50 %
+100 %
+100 %
+150 %
+
+                              ’;
+(48)
+in Article 119, paragraphs 2 and 3 are deleted;
+(49)
+in Article 120, paragraphs 1 and 2 are replaced by the following:
+‘1.   Exposures to institutions for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 1 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+Table 1
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+30 %
+50 %
+100 %
+100 %
+150 %
+2.   Exposures to institutions with an original maturity of three months or less for which a credit assessment by a nominated ECAI is available and exposures which arise from the movement of goods across national borders with an original maturity of six months or less and for which a credit assessment by a nominated ECAI is available, shall be assigned a risk weight in accordance with Table 2 which corresponds to the credit assessment of the ECAI in accordance with Article 136.
+Table 2
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+20 %
+20 %
+50 %
+50 %
+150 %
+
+                                    ’;
+(50)
+Article 121 is replaced by the following:
+‘Article 121
+
+Exposures to unrated institutions
+1.   Exposures to institutions for which a credit assessment by a nominated ECAI is not available shall be assigned to one of the following grades:
+(a)
+where all of the following conditions are met, exposures to institutions shall be assigned to Grade A:
+(i)
+the institution has adequate capacity to meet its financial commitments, including repayments of principal and interest, in a timely manner, for the projected life of the assets or exposures and irrespective of economic cycles and business conditions;
+(ii)
+the institution meets or exceeds the requirement laid down in Article 92(1) of this Regulation, taking into account Article 458(2), points (d)(i) and (vi), and Article 459, point (a), of this Regulation where applicable, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, the combined buffer requirement defined in Article 128, point (6), of Directive 2013/36/EU, or any equivalent and additional local supervisory or regulatory requirements in third countries insofar as those requirements are published and are to be met by Common Equity Tier 1 capital, Tier 1 capital or own funds, as applicable;
+(iii)
+information about whether the requirements referred to in point (ii) of this point are met or exceeded by the institution is publicly disclosed or otherwise made available to the lending institution;
+(iv)
+the assessment performed by the lending institution in accordance with Article 79 of Directive 2013/36/EU has not revealed that the institution does not meet the conditions set out in points (i) and (ii) of this point;
+(b)
+where all of the following conditions are met and at least one of the conditions in point (a) of this paragraph is not met, exposures to institutions shall be assigned to Grade B:
+(i)
+the institution is subject to substantial credit risk, including repayment capacities that are dependent on stable or favourable economic or business conditions;
+(ii)
+the institution meets or exceeds the requirement laid down in Article 92(1) of this Regulation, taking into account Article 458(2), point (d)(i), and Article 459, point (a), of this Regulation, where applicable, the specific own funds requirements referred to in Article 104 of Directive 2013/36/EU, or any equivalent and additional local supervisory or regulatory requirements in third countries insofar as those requirements are published and are to be met by Common Equity Tier 1 capital, Tier 1 capital or own funds, as applicable;
+(iii)
+information about whether the requirements referred to in point (ii) of this point are met or exceeded by the institution is publicly disclosed or otherwise made available to the lending institution;
+(iv)
+the assessment performed by the lending institution in accordance with Article 79 of Directive 2013/36/EU has not revealed that the institution does not meet the conditions set out in points (i) and (ii) of this point.
+(c)
+where exposures to institutions are not assigned to Grade A or B, or where any of the following conditions is met, exposures to institutions shall be assigned to Grade C:
+(i)
+the institution has material default risks and limited margins of safety;
+(ii)
+adverse business, financial or economic conditions are very likely to lead, or have led, to the institution’s inability to meet its financial commitments;
+(iii)
+where audited financial statements are required by law for the institution, the external auditor has issued an adverse audit opinion or has expressed substantial doubt about the institution’s ability to continue as a going concern in its audited financial statements or audited reports within the previous 12 months.
+For the purposes of the first subparagraph, point (b)(ii), of this paragraph, equivalent and additional local supervisory or regulatory requirements shall not include capital buffers equivalent to those defined in Article 128 of Directive 2013/36/EU.
+2.   For exposures to financial institutions that are treated as exposures to institutions in accordance with Article 119(5), for the purpose of assessing whether the conditions set out in paragraph 1, points (a)(ii) and (b)(ii), of this Article are met by those financial institutions, institutions shall assess whether those financial institutions meet or exceed any comparable prudential requirements.
+3.   Exposures assigned to Grade A, B or C in accordance with paragraph 1 shall be assigned a risk weight as follows:
+(a)
+exposures assigned to Grade A, B or C which meet any of the following conditions shall be assigned a risk weight for short-term exposures in accordance with Table 1:
+(i)
+the exposure has an original maturity of three months or less;
+(ii)
+the exposure has an original maturity of six months or less and arises from the movement of goods across national borders;
+(b)
+exposures assigned to Grade A which are not short term shall be assigned a risk weight of 30 % where all of the following conditions are met:
+(i)
+the exposure does not meet any of the conditions set out in point (a);
+(ii)
+the institution’s Common Equity Tier 1 capital ratio is equal to or higher than 14 %;
+(iii)
+the institution’s leverage ratio is equal to or higher than 5 %;
+(c)
+exposures assigned to Grade A, B or C that do not meet the conditions set out in point (a) or (b) shall be assigned a risk weight in accordance with Table 1.
+Where an exposure to an institution is not denominated in the domestic currency of the jurisdiction of incorporation of that institution, or where that institution has booked the credit obligation in a branch in a different jurisdiction and the exposure is not in the domestic currency of the jurisdiction in which the branch operates, the risk weight assigned in accordance with point (a), (b) or (c), to exposures other than those with a maturity of one year or less stemming from self-liquidating, trade-related contingent items that arise from the movement of goods across national borders shall not be lower than the risk weight of an exposure to the central government of the country where the institution is incorporated.
+Table 1
+Credit risk assessment
+Grade A
+Grade B
+Grade C
+Risk weight for short-term exposures
+20 %
+50 %
+150 %
+Risk weight
+40 %
+75 %
+150 %
+
+                                       ’;
+(51)
+Article 122 is amended as follows:
+(a)
+in paragraph 1, Table 6 is replaced by the following:
+‘Table 1
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+50 %
+75 %
+100 %
+150 %
+150 %
+
+                                          ’;
+(b)
+paragraph 2 is replaced by the following:
+‘2.   Exposures for which such a credit assessment is not available shall be assigned a risk weight of 100 %.’
+(52)
+the following article is inserted:
+‘Article 122a
+
+Specialised lending exposures
+1.   Within the corporate exposure class referred to in Article 112, point (g), institutions shall separately identify as specialised lending exposures, exposures with all of the following characteristics:
+(a)
+the exposure is to an entity which was created specifically to finance or operate physical assets or is an exposure that is economically comparable to such an exposure;
+(b)
+the exposure is not related to the financing of residential property or commercial immovable property and is within the definitions of object finance, project finance or commodity finance exposures laid down in paragraph 3;
+(c)
+the contractual arrangements governing the obligation related to the exposure give the institution a substantial degree of control over the assets and the income that they generate;
+(d)
+the primary source of repayment of the obligation related to the exposure is the income generated by the assets being financed, rather than the independent capacity of a broader commercial enterprise.
+2.   Specialised lending exposures for which a directly applicable credit assessment by a nominated ECAI is available shall be assigned a risk weight in accordance with Table 1.
+Table 1
+Credit quality step
+1
+2
+3
+4
+5
+6
+Risk weight
+20 %
+50 %
+75 %
+100 %
+150 %
+150 %
+3.   Specialised lending exposures for which a directly applicable credit assessment by a nominated ECAI is not available shall be assigned a risk weight as follows:
+(a)
+where the purpose of a specialised lending exposure is to finance the acquisition of physical assets, including ships, aircraft, satellites, railcars, and fleets, and the income to be generated by those assets comes in the form of cash flows generated by the specific physical assets that have been financed and pledged or assigned to the lender (“object finance exposures”), institutions shall apply a risk weight of 100 %;
+(b)
+where the purpose of a specialised lending exposure is to provide for short-term financing of reserves, inventories or receivables of exchange-traded commodities, including crude oil, metals or crops, and the income to be generated by those reserves, inventories or receivables is to be the proceeds from the sale of the commodity (“commodity finance exposures”), institutions shall apply a risk weight of 100 %;
+(c)
+where the purpose of a specialised lending exposure is to finance an individual project, either in the form of construction of a new capital installation or refinancing of an existing installation, with or without improvements, for the development or acquisition of large, complex and expensive installations, including power plants, chemical processing plants, mines, transportation infrastructure, environment, and telecommunications infrastructure, in which the lending institution looks primarily to the revenues generated by the financed project, both as the source of repayment and as security for the loan (“project finance exposures”), institutions shall apply the following risk weights:
+(i)
+130 % where the project to which the exposure is related is in the pre-operational phase;
+(ii)
+provided that the adjustment to own funds requirements for credit risk referred to in Article 501a is not applied, 80 % where the project to which the exposure is related is in the operational phase and the exposure meets all of the following criteria:
+(1)
+there are contractual restrictions on the ability of the obligor to perform activities that might be detrimental to lenders, including the restriction that new debt cannot be issued without the consent of existing debt providers;
+(2)
+the obligor has sufficient reserve funds fully funded in cash, or other financial arrangements with an entity, to cover the contingency funding and working capital needs over the lifetime of the project being financed, provided that the entity is assigned an ECAI rating by a recognised ECAI with a credit quality step of at least 3 or, in the case of institutions calculating risk-weighted exposure amounts and expected loss amounts in accordance with Chapter 3, where the entity does not have a credit assessment by a recognised ECAI, that entity is assigned with an internal credit rating equivalent to a credit quality step of at least 3 by the institution, provided that that entity is internally rated by the institution in accordance with the provisions of Chapter 3, Section 6;
+(3)
+the project to which the exposure is related generates cash flows that are predictable and cover all future loan repayments;
+(4)
+where the revenues of the obligor are not funded by payments from a large number of users, the source of repayment of the obligation depends on one main counterparty and that main counterparty is one of the following:
+—
+a central bank, a central government, a regional government or a local authority, provided that they are assigned a risk weight of 0 % in accordance with Articles 114 and 115, or are assigned an ECAI rating with a credit quality step of at least 3 by a recognised ECAI; or, in the case of institutions calculating risk-weighted exposure amounts and expected loss amounts in accordance with Chapter 3, where the central bank, central government, regional government or local authority do not have a credit assessment by a recognised ECAI, they are assigned with an internal credit rating equivalent to a credit quality step of at least 3 by the institution, provided that they are internally rated by the institution in accordance with the provisions of Chapter 3, Section 6;
+—
+a public sector entity, provided that that entity is assigned a risk weight of 20 % or below in accordance with Article 116, or is assigned an ECAI rating with a credit quality step of at least 3 by a recognised ECAI or, in the case of institutions calculating risk-weighted exposure amounts and expected loss amounts in accordance with Chapter 3, where the public sector entity does not have a credit assessment by a recognised ECAI, that public sector entity is assigned with an internal credit rating equivalent to a credit quality step of at least 3 by the institution, provided that that public sector entity is internally rated by the institution in accordance with Chapter 3, Section 6,
+—
+a corporate entity which has been assigned an ECAI rating with a credit quality step of at least 3 by a recognised ECAI, or, in the case of institutions calculating risk-weighted exposure amounts and expected loss amounts in accordance with Chapter 3, where the corporate entity does not have a credit assessment by a recognised ECAI, that corporate entity is assigned an internal credit rating equivalent to a credit quality step of at least 3 by the institution, provided that that corporate entity is internally rated by the institution in accordance with the provisions of Chapter 3, Section 6;
+(5)
+the contractual provisions governing the exposure to the obligor provide for a high degree of protection for the lending institution in the case of a default of the obligor;
+(6)
+the main counterparty, or other counterparties which similarly comply with the eligibility criteria for the main counterparty, effectively protect the lending institution against losses resulting from the termination of the project;
+(7)
+all assets and contracts necessary to operate the project have been pledged to the lending institution to the extent permitted by applicable law;
+(8)
+the lending institution is able to take control of the obligor entity in the case of a default event;
+(iii)
+100 % where the project to which the exposure is related is in the operational phase and the exposure does not meet the conditions set out in point (ii);
+(d)
+for the purposes of point (c)(ii)(3), the cash flows generated shall not be considered predictable unless a substantial part of the revenues satisfies one or more of the following conditions:
+(i)
+the revenues are availability-based, meaning that, once construction is completed, the obligor is entitled, as long as the contractual conditions are fulfilled, to payments from its contractual counterparties which cover operating and maintenance costs, debt service costs and equity returns as the obligor operates the project, and those payments are not subject to swings in demand, such as traffic levels, and are adjusted typically only for lack of performance or lack of availability of the asset to the public;
+(ii)
+the revenues are subject to a rate-of-return regulation;
+(iii)
+the revenues are subject to a take-or-pay contract;
+(e)
+for the purposes of point (c), the operational phase shall mean the phase in which the entity that was specifically created to finance the project, or that is economically comparable, meets both of the following conditions:
+(i)
+the entity has a positive net cash flow that is sufficient to cover any remaining contractual obligation;
+(ii)
+the entity has a declining long term debt.
+4.   EBA shall develop draft regulatory technical standards to further specify the conditions under which the criteria set out in paragraph 3, point (c)(ii), are met.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.’
+(53)
+Article 123 is replaced by the following:
+‘Article 123
+
+Retail exposures
+1.   Exposures that comply with all of the following criteria shall be considered retail exposures:
+(a)
+the exposure is to one or more natural persons or to an SME;
+(b)
+the total amount owed to the institution, its parent undertakings and its subsidiaries, by the obligor or group of connected clients, including any exposure in default but excluding exposures secured by residential property, up to the property value shall not, to the knowledge of the institution, which shall take reasonable steps to confirm the situation, exceed EUR 1 million;
+(c)
+the exposure represents one of a significant number of exposures with similar characteristics, such that the risks associated with such exposure are substantially reduced;
+(d)
+the institution concerned treats the exposure in its risk management framework and manages the exposure internally as a retail exposure consistently over time and in a manner that is similar to the treatment by the institution of other retail exposures.
+The present value of retail minimum lease payments shall be eligible for the retail exposure class.
+By 10 July 2025, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, to specify proportionate diversification methods under which an exposure is to be considered as one of a significant number of similar exposures as specified in the first subparagraph, point (c), of this paragraph.
+2.   The following exposures shall not be considered to be retail exposures:
+(a)
+non-debt exposures conveying a subordinated, residual claim on the assets or income of the issuer;
+(b)
+debt exposures and other securities, partnerships, derivatives, or other vehicles, the economic substance of which is similar to the exposures specified in point (a);
+(c)
+all other exposures in the form of securities.
+3.   Retail exposures as referred to in paragraph 1 shall be assigned a risk weight of 75 %, with the exception of transactor exposures, which shall be assigned a risk weight of 45 %.
+4.   Where any of the criteria referred to in paragraph 1 are not met for an exposure to one or more natural persons, the exposure shall be considered a retail exposure and shall be assigned a risk weight of 100 %.
+5.   By way of derogation from paragraph 3, exposures due to loans granted by an institution to pensioners or employees with a permanent contract against the unconditional transfer of part of the borrower’s pension or salary to that institution shall be assigned a risk weight of 35 %, provided that all of the following conditions are met:
+(a)
+to repay the loan, the borrower unconditionally authorises the pension fund or employer to make direct payments to the institution by deducting the monthly payments on the loan from the borrower’s monthly pension or salary;
+(b)
+the risks of death, inability to work, unemployment or reduction of the net monthly pension or salary of the borrower are properly covered through an insurance policy to the benefit of the institution;
+(c)
+the monthly payments to be made by the borrower on all loans that meet the conditions set out in points (a) and (b) do not in aggregate exceed 20 % of the borrower’s net monthly pension or salary;
+(d)
+the maximum original maturity of the loan is equal to or less than 10 years.’
+(54)
+the following article is inserted:
+‘Article 123a
+
+Exposures with a currency mismatch
+1.   For exposures to natural persons that are assigned to the exposure class referred to in Article 112, point (h), or for exposures to natural persons that qualify as exposures secured by mortgages on residential property that are assigned to the exposure class referred to in Article 112, point (i), the risk weight assigned in accordance with this Chapter shall be multiplied by a factor of 1,5, whereby the resulting risk weight shall not be higher than 150 %, where the following conditions are met:
+(a)
+the exposure is denominated in a currency which is different from the currency of the obligor’s source of income;
+(b)
+the obligor does not have a hedge for its payment risk due to the currency mismatch, either by a financial instrument or foreign currency income that matches the currency of the exposure, or the total of such hedges available to the borrower covers less than 90 % of each instalment for this exposure.
+Where an institution is unable to single out those exposures with a currency mismatch, the risk weight multiplier of 1,5 shall apply to all unhedged exposures where the currency of the exposures is different from the domestic currency of the country of residence of the obligor.
+2.   For the purposes of this Article, source of income refers to any source that generates cash flows to the obligor, including from remittances, rental incomes or salaries, whilst excluding proceeds from selling assets or similar recourse actions by the institution.
+3.   By way of derogation from paragraph 1, where the pair of currencies referred to in paragraph 1, point (a), is composed of the euro and the currency of a Member State participating in the second stage of economic and monetary union (ERM II), the risk weight multiplier of 1,5 shall not apply.’
+(55)
+Articles 124, 125 and 126 are replaced by the following:
+‘Article 124
+
+Exposures secured by mortgages on immovable property
+1.   A non-ADC exposure that does not meet all of the conditions set out in paragraph 3, or any part of a non-ADC exposure that exceeds the nominal amount of the lien on the property, shall be treated as follows:
+(a)
+a non-IPRE exposure shall be risk weighted as an exposure to the counterparty that is not secured by the immovable property concerned;
+(b)
+an IPRE exposure shall be assigned a risk weight of 150 %.
+2.   A non-ADC exposure, up to the nominal amount of the lien on the property, where all of the conditions set out in paragraph 3 of this Article are met, shall be treated as follows:
+(a)
+where the exposure is secured by a residential property,
+(i)
+a non-IPRE exposure shall be treated in accordance with Article 125(1):
+(ii)
+an IPRE exposure shall be treated in accordance with Article 125(1) where it meets any of the following conditions:
+(1)
+the immovable property securing the exposure is the obligor’s primary residence, either where the immovable property as a whole constitutes a single housing unit or where the immovable property securing the exposure is a housing unit that is a separated part within the immovable property;
+(2)
+the exposure is to a natural person and is secured by an income-producing residential housing unit, either where the immovable property as a whole constitutes a single housing unit or where the housing unit is a separated part within the immovable property, and total exposures of the institution to that natural person are not secured by more than four immovable properties, including those which are not residential properties or which do not meet any of the criteria set out in this point, or separate housing units within immovable properties;
+(3)
+the exposure is to associations or cooperatives of natural persons that are regulated by national law and exist with the sole purpose of granting their members the use of a primary residence in the property securing the loan;
+(4)
+the exposure is to public housing companies or not-for-profit associations that are regulated by law and exist to serve social purposes and to offer tenants long-term housing;
+(iii)
+an IPRE exposure which does not meet any of the conditions set out in point (ii) of this point, shall be treated in accordance with Article 125(2);
+(b)
+where the exposure is secured by commercial immovable property, it shall be treated as follows:
+(i)
+a non-IPRE exposure shall be treated in accordance with Article 126(1);
+(ii)
+an IPRE exposure shall be treated in accordance with Article 126(2).
+3.   In order to be eligible for the treatment referred to in paragraph 2, an exposure secured by an immovable property shall fulfil all of the following conditions:
+(a)
+the immovable property securing the exposure meets any of the following conditions:
+(i)
+the immovable property has been fully completed;
+(ii)
+the immovable property is forest or agricultural land;
+(iii)
+the lending is to a natural person and the immovable property is either a residential property under construction or it is land upon which a residential property is planned to be constructed where that plan has been legally approved by all relevant authorities, as applicable, and where any of the following conditions is met:
+(1)
+the immovable property does not have more than four residential housing units and will be the primary residence of the obligor and the lending to the natural person is not indirectly financing ADC exposures;
+(2)
+a central government, regional government or local authority or a public sector entity is involved, exposures to which are treated in accordance with Article 115(2) or Article 116(4), respectively, and has the legal powers and ability to ensure that the property under construction will be finished within a reasonable time frame and is required, or has committed in a legally binding manner, to ensure completion where the construction would otherwise not be finished within such reasonable time frame; alternatively, there is an equivalent legal mechanism in place to ensure that the property under construction is completed within a reasonable timeframe;
+(b)
+the exposure is secured by a first lien held by the institution on the immovable property, or the institution holds the first lien and any sequentially lower ranking lien on that property;
+(c)
+the property value is not materially dependent upon the credit quality of the obligor;
+(d)
+all information required at origination of the exposure and for monitoring purposes is properly documented, including information on the ability of the obligor to repay and on the valuation of the property;
+(e)
+the requirements set out in Article 208 are met and the valuation rules set out in Article 229(1) are complied with.
+For the purposes of the first subparagraph, point (c), institutions may exclude situations where purely macro-economic factors affect both the property value and the performance of the obligor.
+For the purposes of the first subparagraph, point (d), institutions shall put in place underwriting policies with respect to the origination of exposures secured by immovable property that include the assessment of the ability of the borrower to repay. The underwriting policies shall include the relevant metrics for that assessment and their respective maximum levels.
+4.   By way of derogation from paragraph 3, point (b), in jurisdictions where junior liens provide the holder with a claim on collateral that is legally enforceable and constitutes an effective credit risk mitigant, junior liens held by an institution other than the one holding the senior lien may also be recognised, including where the institution does not hold the senior lien or does not hold a lien ranking between a more senior lien and a more junior lien both held by the institution.
+For the purposes of the first subparagraph, the rules governing the liens shall ensure all of the following:
+(a)
+each institution holding a lien on a property can initiate the sale of the property independently from other entities holding a lien on the property;
+(b)
+where the sale of the property is not carried out by means of a public auction, entities holding a senior lien take reasonable steps to obtain a fair market value or the best price that may be obtained in the circumstances when exercising any power of sale on their own.
+5.   For the purpose of calculating risk-weighted exposure amounts for undrawn facilities, liens that satisfy all eligibility requirements set out in paragraph 3 and, where applicable, paragraph 4, may be recognised where drawing under the facility is conditional on the prior or simultaneous filing of a lien to the extent of the institution’s interest in the lien once the facility is drawn, such that the institution does not have any interest in the lien to the extent that the facility is not drawn.
+6.   For the purposes of Article 125(2) and Article 126(2), the exposure-to-value (“ETV”) ratio shall be calculated by dividing the gross exposure amount by the property value subject to the following conditions:
+(a)
+the gross exposure amount shall be calculated as the accounting value of the asset item related to the exposure secured by immovable property and any undrawn but committed amount that, once drawn, would increase the exposure value of the exposure which is secured by immovable property; that gross exposure amount shall be calculated without taking into account:
+(i)
+specific credit risk adjustments in accordance with Article 110;
+(ii)
+additional value adjustments in accordance with Article 34 related to the non-trading book business of the institution;
+(iii)
+amounts deducted in accordance with Article 36(1), point (m); and
+(iv)
+other own funds reductions related to the asset item;
+(b)
+the gross exposure amount shall be calculated without taking into account any type of funded or unfunded credit protection, except for pledged deposits accounts with the lending institution that meet all requirements for on-balance-sheet netting, either under master netting agreements in accordance with Articles 196 and 206 or under other on-balance-sheet netting agreements in accordance with Articles 195 and 205 and have been unconditionally and irrevocably pledged for the sole purpose of fulfilling the credit obligation related to the exposure secured by immovable property;
+(c)
+for exposures that are required to be treated in accordance with Article 125(2) or Article 126(2) where a party other than the institution holds a senior lien and a junior lien held by the institution is recognised under paragraph 4 of this Article, the gross exposure amount shall be calculated as the sum of the gross exposure amount of the lien held by the institution and of the gross exposure amounts for all other liens of equal or higher ranking seniority than the lien held by the institution.
+For the purposes of the first subparagraph, point (a), where an institution has more than one exposure secured by the same immovable property and those exposures are secured by liens on that immovable property that are sequential in ranking order without any lien held by a third party ranking in-between, the exposures shall be treated as a single combined exposure and the gross exposure amounts for the individual exposures shall be summed up to calculate the gross exposure amount for the single combined exposure.
+For the purposes of the first subparagraph, point (c), where there is insufficient information to be able to ascertain the ranking of the other liens, the institution shall treat those liens as ranking pari passu with the junior lien held by the institution. The institution shall first determine the risk weight in accordance with Article 125(2) or Article 126(2) (the “base risk weight”), as applicable. It shall then adjust this risk weight by a multiplier of 1,25, for the purposes of calculating the risk-weighted amounts of junior liens. Where the base risk weight corresponds to the lowest exposure-to-value bucket, the multiplier shall not be applied. The risk weight resulting from multiplying the base risk weight by 1,25 shall be capped at the risk weight that would be applied to the exposure if the requirements in paragraph 3 were not met.
+7.   Exposures to a tenant under an immovable property leasing transaction under which the institution is the lessor and the tenant has an option to purchase shall qualify as exposures secured by immovable property and shall be treated in accordance with the treatment set out in Article 125 or 126 if the applicable conditions set out in this Article are met, provided that the exposure of the institution is secured by its ownership of the property.
+8.   Member States shall designate an authority to be responsible for the application of paragraph 9. That authority shall be the competent authority or the designated authority.
+Where the authority designated by the Member State for the application of this Article is the competent authority, it shall ensure that the relevant national bodies and authorities which have a macroprudential mandate are duly informed of the competent authority’s intention to make use of this Article, and are appropriately involved in the assessment of financial stability concerns in its Member State in accordance with paragraph 9.
+Where the authority designated by the Member State for the application of this Article is different from the competent authority, the Member State shall adopt the necessary provisions to ensure proper coordination and exchange of information between the competent authority and the designated authority for the proper application of this Article. In particular, authorities shall be required to cooperate closely and to share all information that might be necessary for the adequate performance of the duties imposed upon the designated authority pursuant to this Article. That cooperation shall aim to avoid any form of duplicative or inconsistent action between the competent authority and the designated authority, as well as to ensure that the interaction with other measures, in particular measures taken under Article 458 of this Regulation and Article 133 of Directive 2013/36/EU, is duly taken into account.
+9.   Based on the data collected under Article 430a and on any other relevant indicators, the authority designated in accordance with paragraph 8 of this Article shall periodically, and at least annually, assess whether the risk weights laid down in Articles 125 and 126 for exposures secured by immovable property located in the territory of the Member State of that authority are appropriately based on:
+(a)
+the loss experience of exposures secured by immovable property;
+(b)
+forward-looking immovable property market developments.
+Where, on the basis of the assessment referred to in the first subparagraph, the authority designated in accordance with paragraph 8 of this Article concludes that the risk weights set out in Article 125 or 126 do not adequately reflect the actual risks related to exposures to one or more property segments secured by mortgages on residential property or on commercial immovable property located in one or more parts of the territory of the Member State of that authority, and if it considers that the inadequacy of the risk weights could adversely affect current or future financial stability in its Member State, it may increase the risk weights applicable to those exposures within the ranges determined in the fourth subparagraph of this paragraph or impose stricter criteria than those set out in paragraph 3 of this Article.
+The authority designated in accordance with paragraph 8 of this Article shall notify EBA and the ESRB of any adjustments to risk weights and criteria applied pursuant to this paragraph. Within one month of receipt of that notification, EBA and the ESRB shall provide their opinion to the Member State concerned and may indicate in that opinion, where necessary, whether they consider that the adjustments to risk weights and criteria are also recommended for other Member States. EBA and the ESRB shall publish the risk weights and criteria for exposures referred to in Articles 125 and 126 and Article 199(1), point (a), as implemented by the relevant authority.
+For the purposes of the second subparagraph of this paragraph, the authority designated in accordance with paragraph 8 of this Article may increase the risk weights laid down in Article 125(1), first subparagraph, Article 125(2), first subparagraph, Article 126(1), first subparagraph, or Article 126(2), first subparagraph, or impose stricter criteria than those set out in paragraph 3 of this Article for exposures to one or more property segments secured by mortgages on immovable property located in one or more parts of the territory of the Member State of that authority. That authority shall not increase those risk weights to more than 150 %.
+For the purposes of the second subparagraph of this paragraph, the authority designated in accordance with paragraph 8 of this Article may also reduce the percentages of the property value referred to in Article 125(1) or Article 126(1) or the exposure-to-value percentages that define the exposure-to-value risk weight bucket set out in in Article 125(2), Table 1, or in Article 126(2), Table 1. The relevant authority shall ensure consistency across all exposure-to-value risk weight buckets, such that the risk weight of a lower exposure-to-value risk weight bucket is always lower or equal to the risk weight of an upper exposure-to-value risk weight bucket.
+10.   Where the authority designated in accordance with paragraph 8 sets higher risk weights or stricter criteria pursuant to paragraph 9, institutions shall have a six-month transitional period to apply them.
+11.   EBA, in close cooperation with the ESRB, shall develop draft regulatory technical standards to specify the types of factors to be considered for the assessment of the appropriateness of the risk weights referred to in paragraph 9.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+12.   The ESRB may, by means of recommendations, in accordance with Article 16 of Regulation (EU) No 1092/2010, and in close cooperation with EBA, give guidance to authorities designated in accordance with paragraph 8 of this Article on both of the following:
+(a)
+factors which could “adversely affect current or future financial stability” referred to in paragraph 9, second subparagraph;
+(b)
+indicative benchmarks that the authority designated in accordance with paragraph 8 is to take into account when determining higher risk weights.
+13.   Institutions established in a Member State shall apply the risk weights and criteria that have been determined by the authorities of another Member State in accordance with paragraph 9 to their corresponding exposures secured by mortgages on residential property or commercial immovable property located in one or more parts of that other Member State.
+14.   EBA shall develop draft regulatory technical standards to specify what constitutes an “equivalent legal mechanism in place to ensure that the property under construction is completed within a reasonable timeframe”, in accordance with paragraph 3, point (a)(iii)(2).
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

@@ -1,0 +1,29 @@
+Article 36
+PEPP Benefit Statement
+1.   The PEPP Benefit Statement shall include, at least, the following key information for PEPP savers:
+(a)
+personal details of the PEPP saver and the earliest date on which the decumulation phase may start for any sub-account;
+(b)
+the name and contact address of the PEPP provider and an identification of the PEPP contract;
+(c)
+the Member State in which the PEPP provider is authorised or registered and the names of the competent authorities;
+(d)
+information on pension benefit projections based on the date referred to in point (a), and a disclaimer that those projections may differ from the final value of the PEPP benefits received. If the pension benefit projections are based on economic scenarios, that information shall also include a best estimate scenario and an unfavourable scenario, taking into consideration the specific nature of the PEPP contract;
+(e)
+information on the contributions paid by the PEPP saver or any third party into the PEPP account over the previous 12 months;
+(f)
+a breakdown of all costs incurred, directly and indirectly, by the PEPP saver over the previous 12 months, indicating the costs of administration, the costs of safekeeping of assets, the costs related to portfolio transactions and other costs, as well as an estimation of the impact of the costs on the final PEPP benefits; such costs should be expressed both in monetary terms and as a percentage of contributions over the previous 12 months;
+(g)
+where applicable, the nature and the mechanism of the guarantee or risk mitigation techniques referred to in Article 46;
+(h)
+where applicable, the number and value of units corresponding to the PEPP saver’s contributions over the previous 12 months;
+(i)
+the total amount in the PEPP account of the PEPP saver on the date of the statement referred to in Article 35;
+(j)
+information on the past performance of the PEPP saver’s investment option covering performance of a minimum of 10 years or, in cases where the PEPP has been provided for less than 10 years, covering all the years for which the PEPP has been provided. Information on past performance shall be accompanied by the statement ‘past performance is not indicative of future performance’;
+(k)
+for PEPP accounts with more than one sub-account, information in the PEPP Benefit Statement shall be broken down for all existing sub-accounts;
+(l)
+summary information on the investment policy relating to ESG factors.
+2.   EIOPA shall, in consultation with the European Central Bank and competent authorities, develop draft regulatory technical standards specifying the rules to determine the assumptions on pension benefit projections referred to in point (d) of paragraph 1 of this Article and in Article 34(2). Those rules shall be applied by PEPP providers to determine, where relevant, the annual rate of nominal investment returns, the annual rate of inflation and the trend of future wages.
+EIOPA shall submit those draft regulatory technical standards to the Commission by 15 August 2020. Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Article 10 to 14 of Regulation (EU) No 1094/2010.

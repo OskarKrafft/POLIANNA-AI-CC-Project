@@ -1,0 +1,38 @@
+Article 40
+ESMA temporary intervention powers
+1.   In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 are fulfilled, temporarily prohibit or restrict in the Union:
+(a)
+the marketing, distribution or sale of certain financial instruments or financial instruments with certain specified features; or
+(b)
+a type of financial activity or practice.
+A prohibition or restriction may apply in circumstances, or be subject to exceptions, specified by ESMA.
+2.   ESMA shall take a decision under paragraph 1 only if all of the following conditions are fulfilled:
+(a)
+the proposed action addresses a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system in the Union;
+(b)
+regulatory requirements under Union law that are applicable to the relevant financial instrument or activity do not address the threat;
+(c)
+a competent authority or competent authorities have not taken action to address the threat or the actions that have been taken do not adequately address the threat.
+Where the conditions set out in the first subparagraph are fulfilled, ESMA may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a financial instrument has been marketed, distributed or sold to clients.
+3.   When taking action under this Article, ESMA shall ensure that the action:
+(a)
+does not have a detrimental effect on the efficiency of financial markets or on investors that is disproportionate to the benefits of the action;
+(b)
+does not create a risk of regulatory arbitrage, and
+(c)
+has been taken after consulting the public bodies competent for the oversight, administration and regulation of physical agricultural markets under Regulation (EC) No 1234/2007, where the measure relates to agricultural commodities derivatives.
+Where a competent authority or competent authorities have taken a measure under Article 42, ESMA may take any of the measures referred to in paragraph 1 without issuing the opinion provided for in Article 43.
+4.   Before deciding to take any action under this Article, ESMA shall notify competent authorities of the action it proposes.
+5.   ESMA shall publish on its website notice of any decision to take any action under this Article. The notice shall specify details of the prohibition or restriction and specify a time after the publication of the notice from which the measures will take effect. A prohibition or restriction shall only apply to action taken after the measures take effect.
+6.   ESMA shall review a prohibition or restriction imposed under paragraph 1 at appropriate intervals and at least every three months. If the prohibition or restriction is not renewed after that three-month period it shall expire.
+7.   Action adopted by ESMA under this Article shall prevail over any previous action taken by a competent authority.
+8.   The Commission shall adopt delegated acts in accordance with Article 50 specifying criteria and factors to be taken into account by ESMA in determining when there is a significant investor protection concern or a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of the whole or part of the financial system of the Union referred to in paragraph 2(a).
+Those criteria and factors shall include:
+(a)
+the degree of complexity of a financial instrument and the relation to the type of client to whom it is marketed and sold;
+(b)
+the size or the notional value of an issuance of financial instruments;
+(c)
+the degree of innovation of a financial instrument, an activity or a practice;
+(d)
+the leverage a financial instrument or practice provides.

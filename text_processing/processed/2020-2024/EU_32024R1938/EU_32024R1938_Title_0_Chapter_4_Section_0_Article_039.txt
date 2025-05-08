@@ -1,0 +1,51 @@
+Article 39
+Application for SoHO preparation authorisation
+1.   SoHO entities shall submit applications for SoHO preparation authorisation to the SoHO competent authority in their territory.
+2.   Applications for SoHO preparation authorisation shall include the following:
+(a)
+the name and contact details of the applicant SoHO entity responsible for the SoHO preparation authorisation;
+(b)
+details of the SoHO activities performed for that SoHO preparation and including at least:
+(i)
+a description of the SoHO used for the SoHO preparation;
+(ii)
+a list of the specific SoHO donor eligibility criteria, including SoHO donor tests specific for the SoHO preparation;
+(iii)
+a summary of SoHO collection procedures and any specific quality control tests and checks carried out on the collected SoHO prior to processing;
+(iv)
+a description of the steps of the processing applied, including details of relevant materials and equipment used, environmental conditions and the process parameters and controls at each step;
+(v)
+a description of equipment, reagents and materials coming into direct contact with the SoHO during processing and their certification status in accordance with Regulation (EU) 2017/745, where applicable, and, in the case of the use of in-house developed equipment, reagents or materials, evidence of the validation of their quality;
+(vi)
+any specific conditions and time limits for storage and transport, including validation of those conditions and limits;
+(vii)
+a specification of the SoHO preparation, including quality control and release parameters;
+(viii)
+data resulting from process validation and equipment qualification;
+(ix)
+details of any SoHO entities or third parties contracted to perform activities or relevant steps of the processing applied to the SoHO preparation;
+(x)
+the clinical indications for which the SoHO preparation is to be applied and the clinical data justifying this indication;
+(xi)
+where relevant, non-clinical data on the effectiveness and toxicity of the SoHO preparation;
+(c)
+the results of a benefit-risk assessment conducted in respect of the combination of SoHO activities performed for the SoHO preparation, together with the intended clinical indication for which the application for SoHO preparation authorisation is submitted, taking into account:
+(i)
+whether the SoHO preparation is described in, and aligned with, an EDQM SoHO monograph included in the technical guidelines referred to in Article 59(4), point (a), or a specification included in the other guidelines referred to in Article 59(4), point (b) or (c);
+(ii)
+whether the SoHO preparation meets the quality criteria defined in a monograph or specification as referred to in point (i) of this point and whether it is intended to be used for the indication and with the mode of human application to which that monograph or specification refers, where such details are provided in that monograph, or whether it meets the requirements set out in the other guidelines referred to in Article 59(4), point (b);
+(iii)
+information regarding previous use and authorisation of the SoHO preparation or a comparable SoHO preparation in other SoHO entities, as available on the EU SoHO Platform;
+(iv)
+where applicable, clinical functionality evidence generated as part of conformity assessment procedures, in accordance with Regulation (EU) 2017/745, of a certified medical device that is critical to the specific processing for the SoHO preparation, in cases where the applicant SoHO entity has access to such data;
+(v)
+documentation of a standardised process of identification, quantification and evaluation of any risks to SoHO donors, SoHO recipients or the offspring from medically assisted reproduction arising from the chain of activities performed for the SoHO preparation and taking into account the technical guidelines published by the EDQM for the performance of such risk assessments, as referred to in Article 56(4), point (a), and Article 59(4), point (a);
+(d)
+in cases where the indicated risk is greater than negligible, or the expected clinical effectiveness is unknown, a proposed plan for clinical-outcome monitoring for the purpose of providing further evidence, where necessary, for the SoHO preparation authorisation, in line with the results of the benefit-risk assessment and pursuant to point (c);
+(e)
+an indication of the data which is to be regarded as proprietary and which is to be accompanied, where appropriate, by a verifiable justification.
+3.   If the application for SoHO preparation authorisation includes clinical-outcome registration, in accordance with Article 20(5), the applicant shall provide details of the clinical registry to the SoHO competent authority and request approval for its use.
+4.   Where applicable, in accordance with Article 20(4), point (d), and Article 21, SoHO entities shall prepare and distribute the SoHO preparation concerned solely for the implementation and within the limitations, of a clinical-outcome monitoring plan that has been approved by the SoHO competent authority, pursuant to Article 19(2), point (d), and submit the results and their analysis to their SoHO competent authority in accordance with the time limit set in the approval.
+5.   The applicant SoHO entity remains responsible for collecting the clinical-outcome monitoring data and shall be in a position to make those data available upon request from the SoHO competent authority.
+6.   SoHO entities shall not make any significant change as to the steps of the processing applied or the activities performed for an authorised SoHO preparation, without the prior written SoHO preparation authorisation from the SoHO competent authorities. Significant changes for which an application for an updated SoHO preparation authorisation shall be required shall be those having an impact on the intended clinical indication or on the quality, safety or effectiveness of the SoHO preparation.
+7.   The SoHO entity authorised for the SoHO preparation shall be based in the Member State where the application for the SoHO preparation authorisation is submitted.

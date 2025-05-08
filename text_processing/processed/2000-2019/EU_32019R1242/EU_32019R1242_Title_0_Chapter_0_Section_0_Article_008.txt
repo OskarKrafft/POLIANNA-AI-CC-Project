@@ -1,0 +1,19 @@
+Article 8
+Compliance with the specific CO2 emissions targets
+1.   Where a manufacturer is found, pursuant to paragraph 2, to have excess CO2 emissions in a given reporting period from 2025 onwards, the Commission shall impose an excess CO2 emissions premium, calculated in accordance with the following formula:
+(a)
+from 2025 to 2029,
+(Excess CO2 emissions premium) = (Excess CO2 emissions × 4 250 EUR/gCO2/tkm)
+(b)
+from 2030 onwards,
+(Excess CO2 emissions premium) = (Excess CO2 emissions × 6 800 EUR/gCO2/tkm).
+2.   A manufacturer shall be deemed to have excess CO2 emissions in any of the following cases:
+(a)
+where, in any of the reporting periods of the years 2025 to 2028, the sum of the emission debts reduced by the sum of the emission credits exceeds the emission debt limit referred to in the third subparagraph of Article 7(1);
+(b)
+where, in the reporting period of the year 2029, the sum of the emission debts reduced by the sum of the emission credits is positive;
+(c)
+where, from the reporting period of the year 2030 onwards, the manufacturer’s average specific CO2 emissions exceed its specific CO2 emissions target.
+The excess CO2 emissions in a given reporting period shall be calculated in accordance with point 6 of Annex I.
+3.   The Commission shall, by means of implementing acts, determine the means for collecting excess CO2 emissions premiums under paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+4.   The excess CO2 emissions premiums shall be considered as revenue for the general budget of the European Union.

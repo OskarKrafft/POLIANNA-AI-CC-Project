@@ -1,0 +1,23 @@
+Article 12
+General obligations and principles for the verifiers
+1.   The verifier shall be independent from the company or from the ship operator and shall carry out the activities required under this Regulation in the public interest. For that purpose and in order to avoid potential conflicts of interest, neither the verifier nor any part of a legal entity of which it is part shall be a company, ship operator or the owner of a company. In addition, the verifier shall not be owned by a company, ship operator or the owner of a company nor shall it have relations with a company that could affect its independence and impartiality.
+2.   The verifier shall assess the reliability, credibility, accuracy and completeness of the data and information relating to the amount, type and emission factor of the energy used on board by ships, in particular:
+(a)
+the attribution of fuel consumption and the use of substitute sources of energy to voyages and at berth;
+(b)
+the reported fuel consumption data and related measurements and calculations;
+(c)
+the choice and the employment of emission factors;
+(d)
+the use of OPS or the application of any of the exceptions recorded in the FuelEU database in accordance with Article 6(9), point (a);
+(e)
+the data required under Article 10(3).
+3.   The assessment referred to in paragraph 2 shall be based on the following considerations:
+(a)
+whether the reported data are coherent in relation to estimated data that are based on ship tracking data and characteristics such as the installed engine power;
+(b)
+whether the reported data are free of inconsistencies, in particular when comparing the total volume of fuel purchased annually by each ship and the aggregate fuel consumption during voyages;
+(c)
+whether the collection of the data has been carried out in accordance with the applicable rules; and
+(d)
+whether the relevant records of the ship are complete and consistent.

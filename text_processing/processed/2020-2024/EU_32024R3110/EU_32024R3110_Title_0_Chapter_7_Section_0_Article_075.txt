@@ -1,0 +1,24 @@
+Article 75
+Construction digital product passport system
+1.   The Commission shall adopt delegated acts in accordance with Article 89 to supplement this Regulation by setting up a construction digital product passport system, in accordance with the conditions set out in this Chapter.
+2.   The construction digital product passport system shall:
+(a)
+be compatible with, interoperable with and based upon the digital product passport established by Regulation (EU) 2024/1781, without compromising interoperability with Building Information Modelling (BIM), and taking into account the specific characteristics and requirements related to construction products;
+(b)
+have the functionalities required to implement and manage digital product passports referred to in Article 76;
+(c)
+determine the actors, including economic operators, clients, deinstallers, users and competent national authorities, which are to have access to information in the digital product passport and to what information they are to have access, taking into account the need to protect intellectual property rights, and sensitive commercial information, and to ensure the safety of construction works;
+(d)
+determine the actors, including manufacturers, authorised representatives, importers, distributors and digital product passport service providers, which are allowed to introduce or update the information in the digital product passport, including where necessary the creation of a new digital product passport, and what information they may introduce or update;
+(e)
+lay down detailed arrangements for updating the information in the digital product passport of an existing product;
+(f)
+establish procedures to ensure the availability of digital product passports after an insolvency, a liquidation or a cessation of activity in the Union of the economic operator that created the digital product passport or, if necessary, after the obligations of manufacturers to ensure its availability have expired, including the establishment of a back-up system by digital product passport service providers;
+(g)
+establish requirements for digital product passport service providers, including, if required, a certification scheme to verify such requirements, to be based upon developments under Regulation (EU) 2024/1781 for the same purpose, as far as possible;
+(h)
+when required, lay down more detailed or alternative rules and procedures related to the life cycle of identifiers, data carriers, digital credentials and the digital product passport registry to those established by Regulation (EU) 2024/1781 for the same purpose;
+(i)
+ensure that the system is accessible for period of 25 years after the last product corresponding to its product type has been placed on the market and that the economic operator makes available the digital product passport for at least 10 years, without„ in the case of a longer period, creating a disproportionate cost and burden for the economic operators;
+(j)
+take into account the need to ensure the availability of information for the reuse and remanufacturing of products.

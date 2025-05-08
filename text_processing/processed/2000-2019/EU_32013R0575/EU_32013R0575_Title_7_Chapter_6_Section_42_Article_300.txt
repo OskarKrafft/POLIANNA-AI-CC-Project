@@ -1,0 +1,11 @@
+Article 300
+Definitions
+For the purposes of this Section, the following definitions shall apply:
+(1)
+‧bankruptcy remote‧, in relation to client assets, means that effective arrangements exist which ensure that those assets will not be available to the creditors of a CCP or of a clearing member in the event of the insolvency of that CCP or clearing member respectively, or that the assets will not be available to the clearing member to cover losses it incurred following the default of a client or clients other than those that provided those assets;
+(2)
+‧CCP-related transaction‧ means a contract or a transaction listed in Article 301(1) between a client and a clearing member that is directly related to a contract or a transaction listed in that paragraph between that clearing member and a CCP;
+(3)
+‧clearing member‧ means a clearing member as defined in point (14) of Article 2 of Regulation (EU) No 648/2012;
+(4)
+‧client‧ means a client as defined in point (15) of Article 2 of Regulation (EU) No 648/2012 or an undertaking that has established indirect clearing arrangements with a clearing member in accordance with Article 4(3) of that Regulation.

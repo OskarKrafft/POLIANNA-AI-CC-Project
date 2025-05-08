@@ -1,0 +1,40 @@
+Article 54
+Use of electronic auctions
+1.   Member States may provide that contracting authorities may use electronic auctions.
+2.   In open, restricted or negotiated procedures in the case referred to in Article 30(1)(a), the contracting authorities may decide that the award of a public contract shall be preceded by an electronic auction when the contract specifications can be established with precision.
+In the same circumstances, an electronic auction may be held on the reopening of competition among the parties to a framework agreement as provided for in the second indent of the second subparagraph of Article 32(4) and on the opening for competition of contracts to be awarded under the dynamic purchasing system referred to in Article 33.
+The electronic auction shall be based:
+—
+either solely on prices when the contract is awarded to the lowest price,
+—
+or on prices and/or on the new values of the features of the tenders indicated in the specification when the contract is awarded to the most economically advantageous tender.
+3.   Contracting authorities which decide to hold an electronic auction shall state that fact in the contract notice.
+The specifications shall include, inter alia, the following details:
+(a)
+the features, the values for which will be the subject of electronic auction, provided that such features are quantifiable and can be expressed in figures or percentages;
+(b)
+any limits on the values which may be submitted, as they result from the specifications relating to the subject of the contract;
+(c)
+the information which will be made available to tenderers in the course of the electronic auction and, where appropriate, when it will be made available to them;
+(d)
+the relevant information concerning the electronic auction process;
+(e)
+the conditions under which the tenderers will be able to bid and, in particular, the minimum differences which will, where appropriate, be required when bidding;
+(f)
+the relevant information concerning the electronic equipment used and the arrangements and technical specifications for connection.
+4.   Before proceeding with an electronic auction, contracting authorities shall make a full initial evaluation of the tenders in accordance with the award criterion/criteria set and with the weighting fixed for them.
+All tenderers who have submitted admissible tenders shall be invited simultaneously by electronic means to submit new prices and/or new values; the invitation shall contain all relevant information concerning individual connection to the electronic equipment being used and shall state the date and time of the start of the electronic auction. The electronic auction may take place in a number of successive phases. The electronic auction may not start sooner than two working days after the date on which invitations are sent out.
+5.   When the contract is to be awarded on the basis of the most economically advantageous tender, the invitation shall be accompanied by the outcome of a full evaluation of the relevant tenderer, carried out in accordance with the weighting provided for in the first subparagraph of Article 53(2).
+The invitation shall also state the mathematical formula to be used in the electronic auction to determine automatic rerankings on the basis of the new prices and/or new values submitted. That formula shall incorporate the weighting of all the criteria fixed to determine the most economically advantageous tender, as indicated in the contract notice or in the specifications; for that purpose, any ranges shall, however, be reduced beforehand to a specified value.
+Where variants are authorised, a separate formula shall be provided for each variant.
+6.   Throughout each phase of an electronic auction the contracting authorities shall instantaneously communicate to all tenderers at least sufficient information to enable them to ascertain their relative rankings at any moment. They may also communicate other information concerning other prices or values submitted, provided that that is stated in the specifications. They may also at any time announce the number of participants in that phase of the auction. In no case, however, may they disclose the identities of the tenderers during any phase of an electronic auction.
+7.   Contracting authorities shall close an electronic auction in one or more of the following manners:
+(a)
+in the invitation to take part in the auction they shall indicate the date and time fixed in advance;
+(b)
+when they receive no more new prices or new values which meet the requirements concerning minimum differences. In that event, the contracting authorities shall state in the invitation to take part in the auction the time which they will allow to elapse after receiving the last submission before they close the electronic auction;
+(c)
+when the number of phases in the auction, fixed in the invitation to take part in the auction, has been completed.
+When the contracting authorities have decided to close an electronic auction in accordance with subparagraph (c), possibly in combination with the arrangements laid down in subparagraph (b), the invitation to take part in the auction shall indicate the timetable for each phase of the auction.
+8.   After closing an electronic auction contracting authorities shall award the contract in accordance with Article 53 on the basis of the results of the electronic auction.
+Contracting authorities may not have improper recourse to electronic auctions nor may they use them in such a way as to prevent, restrict or distort competition or to change the subject-matter of the contract, as put up for tender in the published contract notice and defined in the specification.

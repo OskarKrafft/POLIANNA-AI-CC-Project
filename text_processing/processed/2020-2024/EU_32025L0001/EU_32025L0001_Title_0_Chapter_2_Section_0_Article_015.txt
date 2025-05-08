@@ -1,0 +1,38 @@
+Article 15
+Power to address or remove impediments to resolvability
+1.   Member States shall ensure that, where the assessment carried out in accordance with Article 13 or 14 reveals that there are substantive impediments to the resolvability of an insurance or reinsurance undertaking, the resolution authority notifies that insurance or reinsurance undertaking and the supervisory authority concerned thereof in writing.
+2.   The requirement for resolution authorities to draw up resolution plans and for the relevant resolution authorities to reach a joint decision in accordance with Article 17 on group resolution plans referred to in Article 9(1) and Article 11(4) respectively shall be suspended following the notification referred to in paragraph 1 of this Article until the measures to remove the substantive impediments to resolvability have been accepted by the resolution authority pursuant to paragraph 3 of this Article or decided upon pursuant to paragraph 4 of this Article.
+3.   Within four months of the date of receipt of a notification referred to in paragraph 1, the insurance or reinsurance undertaking shall propose to the resolution authority possible measures to address or remove the substantive impediments identified in the notification.
+The timeline for the implementation of those measures proposed by the undertaking shall take into account the reasons for the substantive impediments.
+The resolution authority, after having consulted the supervisory authority, shall assess whether those measures effectively address or remove the substantive impediments.
+4.   Resolution authorities that find that the measures proposed by an insurance or reinsurance undertaking in accordance with paragraph 3 do not effectively reduce or remove the impediment concerned, shall, either directly, or indirectly through the supervisory authority, require the insurance or reinsurance undertaking to take any of the alternative measures set out in paragraph 5, and notify such measures in writing to that undertaking, which shall propose a plan to comply with those requirements within one month of receiving such notification.
+When identifying alternative measures, resolution authorities shall demonstrate how the measures proposed by the insurance or reinsurance undertaking would not be able to remove the impediments to resolvability and how the alternative measures proposed are proportionate in removing those impediments. Resolution authorities shall take into account the effect of the measures on the business of the insurance or reinsurance undertaking, its stability and its ability to contribute to the economy.
+5.   For the purposes of paragraph 4, resolution authorities shall have the power to take at least any of the following alternative measures:
+(a)
+require the insurance or reinsurance undertaking to revise any intra-group financing agreements or review the absence thereof, or draw up service agreements, whether intra-group or with third parties;
+(b)
+require the insurance or reinsurance undertaking to limit its maximum individual and aggregate exposures;
+(c)
+impose specific or regular additional information requirements relevant for resolution purposes;
+(d)
+require the insurance or reinsurance undertaking to divest specific assets or to restructure liabilities;
+(e)
+require the insurance or reinsurance undertaking to limit or cease specific existing or proposed activities;
+(f)
+restrict or prevent the development of new or existing business lines or sale of new or existing products;
+(g)
+require the insurance or reinsurance undertaking to change the reinsurance strategy;
+(h)
+require changes to legal or operational structures of the insurance or reinsurance undertaking or any group entity, either directly or indirectly under its control, so as to reduce complexity to ensure that critical functions may be legally and operationally separated from other functions through the application of the resolution tools;
+(i)
+require the insurance or reinsurance undertaking or a parent undertaking to set up a parent insurance holding company in a Member State or a Union parent insurance holding company;
+(j)
+where the insurance or reinsurance undertaking is the subsidiary undertaking of a mixed-activity insurance holding company, require that the mixed-activity insurance holding company sets up a separate insurance holding company to control the insurance or reinsurance undertaking, where necessary to facilitate the resolution of the insurance or reinsurance undertaking and to avoid that the application of resolution tools and the exercise of resolution powers has an adverse effect on the non-financial part of the group.
+6.   Before identifying any alternative measure referred to in paragraph 5, the resolution authority, after having consulted the supervisory authority, shall duly consider the potential effect of such measure on the soundness and stability of that particular insurance or reinsurance undertaking’s ongoing business and on the internal market.
+7.   A notification or decision made pursuant to paragraph 1 or 4 shall:
+(a)
+contain the reasons for the assessment or determination in question;
+(b)
+be subject to a right of appeal.
+Moreover, a decision made pursuant to paragraph 4 shall indicate how it complies with the requirement for proportionate application laid down in paragraph 4, second subparagraph.
+8.   EIOPA shall, by 29 July 2027, issue guidelines in accordance with Article 16 of Regulation (EU) No 1094/2010 to specify further details on the measures provided for in paragraph 5 of this Article and the circumstances in which each measure may be applied.

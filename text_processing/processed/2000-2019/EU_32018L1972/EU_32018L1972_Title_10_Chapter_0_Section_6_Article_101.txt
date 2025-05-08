@@ -1,0 +1,26 @@
+Article 102
+Information requirements for contracts
+1.   Before a consumer is bound by a contract or any corresponding offer, providers of publicly available electronic communications services other than transmission services used for the provision of machine-to-machine services shall provide the information referred to in Articles 5 and 6 of Directive 2011/83/EU, and, in addition, the information listed in Annex VIII of this Directive to the extent that that information relates to a service they provide.
+The information shall be provided in a clear and comprehensible manner on a durable medium as defined in point (10) of Article 2 of Directive 2011/83/EU or, where provision on a durable medium is not feasible, in an easily downloadable document made available by the provider. The provider shall expressly draw the consumer’s attention to the availability of that document and the importance of downloading it for the purposes of documentation, future reference and unchanged reproduction.
+The information shall, upon request, be provided in an accessible format for end-users with disabilities in accordance with Union law harmonising accessibility requirements for products and services.
+2.   The information referred to in paragraphs 1, 3 and 5 shall also be provided to end-users that are microenterprises or small enterprises or not-for-profit organisations, unless they have explicitly agreed to waive all or parts of those provisions.
+3.   Providers of publicly available electronic communications services other than transmission services used for the provision of machine-to-machine services shall provide consumers with a concise and easily readable contract summary. That summary shall identify the main elements of the information requirements in accordance with paragraph 1. Those main elements shall include at least:
+(a)
+the name, address and contact information of the provider and, if different, the contact information for any complaint;
+(b)
+the main characteristics of each service provided;
+(c)
+the respective prices for activating the electronic communications service and for any recurring or consumption-related charges, where the service is provided for direct monetary payment;
+(d)
+the duration of the contract and the conditions for its renewal and termination;
+(e)
+the extent to which the products and services are designed for end-users with disabilities;
+(f)
+with respect to internet access services, a summary of the information required pursuant to points (d) and (e) of Article 4(1) of Regulation (EU) 2015/2120.
+By 21 December 2019, the Commission shall, after consulting BEREC, adopt implementing acts specifying a contract summary template to be used by the providers to fulfil their obligations under this paragraph.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 118(4).
+Providers subject to the obligations under paragraph 1 shall duly complete that contract summary template with the required information and provide the contract summary free of charge to consumers, prior to the conclusion of the contract, including distance contracts. Where, for objective technical reasons, it is impossible to provide the contract summary at that moment, it shall be provided without undue delay thereafter, and the contract shall become effective when the consumer has confirmed his or her agreement after reception of the contract summary.
+4.   The information referred to in paragraphs 1 and 3 shall become an integral part of the contract and shall not be altered unless the contracting parties expressly agree otherwise.
+5.   Where internet access services or publicly available interpersonal communications services are billed on the basis of either time or volume consumption, their providers shall offer consumers the facility to monitor and control the usage of each of those services. This facility shall include access to timely information on the level of consumption of services included in a tariff plan. In particular, providers shall notify consumers before any consumption limit, as established by competent authorities in coordination, where relevant, with national regulatory authorities, included in their tariff plan, is reached and when a service included in their tariff plan is fully consumed.
+6.   Member States may maintain or introduce in their national law provisions requiring providers to provide additional information on the consumption level and temporarily prevent further use of the relevant service in excess of a financial or volume limit determined by the competent authority.
+7.   Member States shall remain free to maintain or introduce in their national law provisions relating to aspects not regulated by this Article, in particular in order to address newly emerging issues.

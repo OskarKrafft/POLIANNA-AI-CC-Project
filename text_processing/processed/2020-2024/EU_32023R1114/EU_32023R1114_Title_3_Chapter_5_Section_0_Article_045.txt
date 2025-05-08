@@ -1,0 +1,21 @@
+Article 45
+Specific additional obligations for issuers of significant asset-referenced tokens
+1.   Issuers of significant asset-referenced tokens shall adopt, implement and maintain a remuneration policy that promotes the sound and effective risk management of such issuers and that does not create incentives to relax risk standards.
+2.   Issuers of significant asset-referenced tokens shall ensure that such tokens can be held in custody by different crypto-asset service providers authorised for providing custody and administration of crypto-assets on behalf of clients, including by crypto-asset service providers that do not belong to the same group, as defined in Article 2, point (11), of Directive 2013/34/EU, on a fair, reasonable and non-discriminatory basis.
+3.   Issuers of significant asset-referenced tokens shall assess and monitor the liquidity needs to meet requests for redemption of asset-referenced tokens by their holders. For that purpose, issuers of significant asset-referenced tokens shall establish, maintain and implement a liquidity management policy and procedures. That policy and those procedures shall ensure that the reserve assets have a resilient liquidity profile that enables issuers of significant asset-referenced tokens to continue operating normally, including under scenarios of liquidity stress.
+4.   Issuers of significant asset-referenced tokens shall, on a regular basis, conduct liquidity stress testing. Depending on the outcome of such tests, EBA may decide to strengthen the liquidity requirements referred to in paragraph 7, first subparagraph, point (b), of this Article and in Article 36(6).
+Where issuers of significant asset-referenced tokens offer two or more asset-referenced tokens or provide crypto-asset services, those stress tests shall cover all of those activities in a comprehensive and holistic manner.
+5.   The percentage referred to in Article 35(1), first subparagraph, point (b), shall be set at 3 % of the average amount of the reserve assets for issuers of significant asset-referenced tokens.
+6.   Where several issuers offer the same significant asset-referenced token, paragraphs 1 to 5 shall apply to each issuer.
+Where an issuer offers two or more asset-referenced tokens in the Union and at least one of those asset-referenced tokens is classified as significant, paragraphs 1 to 5 shall apply to that issuer.
+7.   EBA, in close cooperation with ESMA, shall develop draft regulatory technical standards specifying:
+(a)
+the minimum content of the governance arrangements on the remuneration policy referred to in paragraph 1;
+(b)
+the minimum contents of the liquidity management policy and procedures as set out in paragraph 3, and liquidity requirements, including by specifying the minimum amount of deposits in each official currency referenced, which cannot be lower than 60 % of the amount referenced in each official currency;
+(c)
+the procedure and timeframe for an issuer of a significant asset-referenced token to adjust the amount of its own funds as required by paragraph 5.
+In the case of credit institutions, EBA shall calibrate the technical standards taking into consideration any possible interactions between the regulatory requirements established by this Regulation and the regulatory requirements established by other Union legislative acts.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+8.   EBA, in close cooperation with ESMA and the ECB, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 with a view to establishing the common reference parameters of the stress test scenarios to be included in the stress tests referred to in paragraph 4 of this Article. Those guidelines shall be updated periodically taking into account the latest market developments.

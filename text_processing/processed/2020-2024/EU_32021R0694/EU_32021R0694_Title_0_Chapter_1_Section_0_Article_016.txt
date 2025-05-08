@@ -1,0 +1,35 @@
+Article 16
+European Digital Innovation Hubs
+1.   An initial network of European Digital Innovation Hubs shall be established during the first year of the implementation of the Programme. That initial network shall consist of at least one hub for each Member State, unless there is no candidate in a given Member State that can be designated and selected in accordance with paragraphs 2 and 3.
+2.   For the purpose of establishing the network referred to in paragraph 1 of this Article, each Member State shall designate candidate entities in accordance with its national procedures, administrative and institutional structures through an open and competitive process, on the basis of the following criteria:
+(a)
+the appropriate competences related to the activities of the European Digital Innovation Hubs referred to in paragraph 6 of this Article and competences in one or several areas identified in Article 3(2);
+(b)
+the appropriate management capacity, staff and infrastructure necessary to carry out the activities referred to in paragraph 6 of this Article;
+(c)
+the operational and legal means to apply the administrative, contractual and financial management rules laid down at Union level; and
+(d)
+the appropriate financial viability corresponding to the level of Union funds it will be called upon to manage and demonstrated, where appropriate, through guarantees issued preferably by a public authority.
+3.   The Commission shall, by means of implementing acts, adopt decisions on the selection of entities forming the initial network. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2). The Commission shall take the utmost account of the opinion of each Member State before selecting a European Digital Innovation Hub in its territory.
+The entities shall be selected by the Commission from candidate entities designated by Member States on the basis of the criteria referred to in paragraph 2 of this Article and the following additional criteria:
+(a)
+the budget available for the financing of the initial network; and
+(b)
+the need for the initial network to ensure coverage of the needs of industry and areas of public interest and to ensure comprehensive and balanced geographical coverage to improve convergence between Member States benefiting from the Cohesion Fund for 2021 to 2027 established by a Regulation of the European Parliament and of the Council and the other Member States, for example to bridge the digital divide in geographical terms.
+4.   If necessary, following an open and competitive process, the Commission shall, by means of implementing acts, adopt decisions on the selection of entities forming additional European Digital Innovation Hubs. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+The Commission shall take the utmost account of the opinion of the Member State before selecting an additional European Digital Innovation Hub in its territory.
+The Commission shall select additional European Innovation Hubs in such a way to ensure a broad geographical coverage across Europe. The number of entities of the network shall be sufficient to meet the demand for the hubs’ services in given Member States. To address the specific constraints faced by the Union’s outermost regions, specific entities may be nominated to cover the needs of such regions.
+5.   European Digital Innovation Hubs shall have substantial overall autonomy to lay down their organisation, composition, and working methods.
+6.   With respect to the implementation of the Programme, European Digital Innovation Hubs shall perform the following activities to the benefit of the Union industry, in particular SMEs and mid-caps, as well as the public sector:
+(a)
+raising awareness and providing or ensuring access to digital transformation expertise, knowhow and services, including testing and experimentation facilities;
+(b)
+assisting businesses, especially SMEs and start-ups, organisations and public administrations to become more competitive and to improve their business models through use of new technologies covered by the Programme;
+(c)
+facilitating the transfer of expertise and knowhow between regions, in particular by matching SMEs, start-ups and mid-caps established in one region with European Digital Innovation Hubs established in other regions that are best suited to providing relevant services; encouraging exchanges of skills and knowledge, joint initiatives and good practices;
+(d)
+providing or ensuring access to thematic services, in particular services related to AI, HPC and cybersecurity and trust to the public administrations, public sector organisations, SMEs or mid-caps;
+(e)
+providing financial support to third parties under Specific Objective 4.
+For the purposes of point (d) of the first subparagraph, European Digital Innovation Hubs may specialise in specific thematic services and shall not be required to provide all thematic services or to provide those services to all categories of entities referred to in this paragraph.
+7.   Where a European Digital Innovation Hub receives funding under the Programme, that funding shall be in the form of grants.

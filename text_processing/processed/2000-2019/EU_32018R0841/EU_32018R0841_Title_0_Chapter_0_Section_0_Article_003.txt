@@ -1,0 +1,24 @@
+Article 3
+Definitions
+1.   For the purposes of this Regulation, the following definitions apply:
+(1)
+‘sink’ means any process, activity or mechanism that removes a greenhouse gas, an aerosol, or a precursor to a greenhouse gas from the atmosphere;
+(2)
+‘source’ means any process, activity or mechanism that releases a greenhouse gas, an aerosol or a precursor to a greenhouse gas into the atmosphere;
+(3)
+‘carbon pool’ means the whole or part of a biogeochemical feature or system within the territory of a Member State and within which carbon, any precursor to a greenhouse gas containing carbon, or any greenhouse gas containing carbon is stored;
+(4)
+‘carbon stock’ means the mass of carbon stored in a carbon pool;
+(5)
+‘harvested wood product’ means any product of wood harvesting that has left a site where wood is harvested;
+(6)
+‘forest’ means an area of land defined by the minimum values for area size, tree crown cover or an equivalent stocking level, and potential tree height at maturity at the place of growth of the trees as specified for each Member State in Annex II. It includes areas with trees, including groups of growing, young, natural trees, or plantations that have yet to reach the minimum values for tree crown cover or an equivalent stocking level or minimum tree height as specified in Annex II, including any area that normally forms part of the forest area but on which there are temporarily no trees as a result of human intervention, such as harvesting, or as a result of natural causes, but which area can be expected to revert to forest;
+(7)
+‘forest reference level’ means an estimate, expressed in tonnes of CO2 equivalent per year, of the average annual net emissions or removals resulting from managed forest land within the territory of a Member State in the periods from 2021 to 2025 and from 2026 to 2030, based on the criteria set out in this Regulation;
+(8)
+‘half-life value’ means the number of years it takes for the quantity of carbon stored in a category of harvested wood products to decrease to one half of its initial value;
+(9)
+‘natural disturbances’ mean any non-anthropogenic events or circumstances that cause significant emissions in forests and the occurrence of which is beyond the control of the relevant Member State, and the effects of which the Member State is objectively unable to significantly limit, even after their occurrence, on emissions;
+(10)
+‘instantaneous oxidation’ means an accounting method that assumes that the release into the atmosphere of the entire quantity of carbon stored in harvested wood products occurs at the time of harvest.
+2.   The Commission is empowered to adopt delegated acts in accordance with Article 16, to amend or delete the definitions contained in paragraph 1 of this Article, or add new definitions thereto, in order to adapt that paragraph to scientific developments or technical progress and to ensure consistency between those definitions and any changes to relevant definitions in the IPCC Guidelines as adopted by the Conference of the Parties to the UNFCCC or the Conference of the Parties serving as the Meeting of the Parties to the Paris Agreement.

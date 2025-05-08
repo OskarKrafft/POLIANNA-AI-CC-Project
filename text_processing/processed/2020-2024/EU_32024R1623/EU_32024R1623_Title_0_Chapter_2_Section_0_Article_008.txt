@@ -1,0 +1,8 @@
+Article 316
+Calculation of the annual operational risk loss
+1.   Institutions with a business indicator equal to or exceeding EUR 750 million shall calculate their annual operational risk loss as the sum of all net losses over a given financial year, calculated in accordance with Article 318(1), that are equal to or exceed the loss data thresholds set out in Article 319(1) or (2).
+By way of derogation from the first subparagraph, competent authorities may grant a waiver from the requirement to calculate an annual operational risk loss to institutions with a business indicator that does not exceed EUR 1 billion, provided that the institution has demonstrated to the satisfaction of the competent authority that it would be unduly burdensome for the institution to apply the first subparagraph.
+2.   For the purposes of paragraph 1, the relevant business indicator shall be the highest value of the business indicator that the institution has reported at the last eight reporting reference dates. An institution that has not yet reported its business indicator shall use its most recent business indicator.
+3.   EBA shall develop draft regulatory technical standards to specify the condition of “unduly burdensome” for the purposes of paragraph 1.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

@@ -1,0 +1,12 @@
+Article 306
+Own funds requirements for trade exposures
+1.   An institution shall apply the following treatment to its trade exposures with CCPs:
+(a)
+it shall apply a risk weight of 2 % to the exposure values of all its trade exposures with QCCPs;
+(b)
+it shall apply the risk weight used for the Standardised Approach to credit risk as set out in Article 107(2)(b) to all its trade exposures with non-qualifying CCPs;
+(c)
+where an institution is acting as a financial intermediary between a client and a CCP and the terms of the CCP-related transaction stipulate that the institution is not obligated to reimburse the client for any losses suffered due to changes in the value of that transaction in the event that the CCP defaults, the exposure value of the transaction with the CCP that corresponds to that CCP-related transaction is equal to zero.
+2.   Notwithstanding paragraph 1, where assets posted as collateral to a CCP or a clearing member are bankruptcy remote in the event that the CCP, the clearing member or one or more of the other clients of the clearing member becomes insolvent, an institution may attribute an exposure value of zero to the counterparty credit risk exposures for those assets.
+3.   An institution shall calculate exposure values of its trade exposures with a CCP in accordance with Sections 1 to 8 of this Chapter, as applicable.
+4.   An institution shall calculate the risk weighted exposure amounts for its trade exposures with CCPs for the purposes of Article 92(3) as the sum of the exposure values of its trade exposures with CCPs, calculated in accordance with paragraphs 2 and 3 of this Article, multiplied by the risk weight determined in accordance with paragraph 1 of this Article.

@@ -1,0 +1,26 @@
+Article 14
+Practical guides
+In order to facilitate the implementation of this Directive the Commission shall make available non-binding practical guides at the latest six months before 1 July 2016. Those practical guides shall, in particular relate to the following issues:
+(a)
+the determination of exposure, taking into account appropriate European or international standards, including:
+—
+calculation methods for the assessment of the ELVs,
+—
+spatial averaging of external electric and magnetic fields,
+—
+guidance for dealing with measurements and calculations uncertainties;
+(b)
+guidance on demonstrating compliance in special types of non-uniform exposure in specific situations, based on well-established dosimetry;
+(c)
+the description of the ‘weighted peak method’ for the low frequency fields and of the ‘multifrequency fields summation’ for high frequency fields;
+(d)
+the conduct of the risk assessment and, wherever possible, the provision of simplified techniques, taking into account in particular the needs of SMEs;
+(e)
+measures aimed at avoiding or reducing risks, including specific prevention measures depending on the level of exposure and the workplace characteristics;
+(f)
+the establishment of documented working procedures, as well as specific information and training measures for workers exposed to electromagnetic fields during MRI-related activities falling under Article 10(1)(a);
+(g)
+the evaluation of exposures in the frequency range from 100 kHz to 10 MHz, where both thermal and non-thermal effects are to be considered;
+(h)
+the guidance on medical examinations and health surveillance to be provided by the employer in accordance with Article 8(2).
+The Commission shall work in close cooperation with the Advisory Committee for Safety and Health at Work. The European Parliament shall be kept informed.

@@ -1,0 +1,14 @@
+Article 28
+Closed distribution systems
+1.   Member States may provide for national regulatory authorities or other competent authorities to classify a system which distributes electricity within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4, supply household customers, as a closed distribution system if:
+(a)
+for specific technical or safety reasons, the operations or the production process of the users of that system are integrated; or
+(b)
+that system distributes electricity primarily to the owner or operator of the system or their related undertakings.
+2.   Member States may provide for national regulatory authorities to exempt the operator of a closed distribution system from:
+(a)
+the requirement under Article 25(5) to procure the energy it uses to cover energy losses and reserve capacity in its system according to transparent, non-discriminatory and market based procedures;
+(b)
+the requirement under Article 32(1) that tariffs, or the methodologies underlying their calculation, are approved prior to their entry into force in accordance with Article 37.
+3.   Where an exemption is granted under paragraph 2, the applicable tariffs, or the methodologies underlying their calculation, shall be reviewed and approved in accordance with Article 37 upon request by a user of the closed distribution system.
+4.   Incidental use by a small number of households with employment or similar associations with the owner of the distribution system and located within the area served by a closed distribution system shall not preclude an exemption under paragraph 2 being granted.

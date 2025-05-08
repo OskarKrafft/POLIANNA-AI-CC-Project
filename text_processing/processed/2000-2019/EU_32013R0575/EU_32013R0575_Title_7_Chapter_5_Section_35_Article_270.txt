@@ -1,0 +1,13 @@
+Article 270
+Mapping
+EBA shall develop draft implementing technical standards to determine, for all ECAIs, which of the credit quality steps set out in this Chapter are associated with the relevant credit assessments of an ECAI. Those determinations shall be objective and consistent, and carried out in accordance with the following principles:
+(a)
+EBA shall differentiate between the relative degrees of risk expressed by each assessment;
+(b)
+EBA shall consider quantitative factors, such as default and/or loss rates and the historical performance of credit assessments of each ECAI across different asset classes;
+(c)
+EBA shall consider qualitative factors such as the range of transactions assessed by the ECAI, its methodology and the meaning of its credit assessments, in particular whether based on expected loss or first Euro loss, and to timely payment of interest or to ultimate payment of interest;
+(d)
+EBA shall seek to ensure that securitisation positions to which the same risk weight is applied on the basis of the credit assessments of ECAIs are subject to equivalent degrees of credit risk. EBA shall consider amending its determination as to the credit quality step with which a particular credit assessment shall be associated, as appropriate.
+EBA shall submit those draft implementing technical standards to the Commission by 1 July 2014.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

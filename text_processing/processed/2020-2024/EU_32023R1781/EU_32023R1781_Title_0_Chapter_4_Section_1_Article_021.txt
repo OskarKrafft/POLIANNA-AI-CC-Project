@@ -1,0 +1,11 @@
+Article 21
+Key market actors
+Member States shall, in cooperation with the Commission in accordance with Article 19, identify key market actors along the semiconductor supply chains established in their territory, taking into account the following elements:
+(a)
+the number of other Union undertakings relying on the service or good provided by a market actor;
+(b)
+the Union or global market share of the key market actor in the market for such services or goods;
+(c)
+the importance of a market actor in maintaining a sufficient level of supply of a service or good in the Union, taking into account the availability of alternative means for the provision of that service or good;
+(d)
+the impact a disruption of supply of the service or good provided by the market actor may have on the Union’s semiconductor supply chain and dependent markets.

@@ -1,0 +1,10 @@
+Article 9
+Tasks of Transmission System Operators
+Each transmission system operator shall be responsible for:
+(a) ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity;
+(b) contributing to security of supply through adequate transmission capacity and system reliability;
+(c) managing energy flows on the system, taking into account exchanges with other interconnected systems. To that end, the transmission system operator shall be responsible for ensuring a secure, reliable and efficient electricity system and, in that context, for ensuring the availability of all necessary ancillary services insofar as this availability is independent from any other transmission system with which its system is interconnected;
+(d) providing to the operator of any other system with which its system is interconnected sufficient information to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system;
+(e) ensuring non-discrimination as between system users or classes of system users, particularly in favour of its related undertakings;
+(f) providing system users with the information they need for efficient access to the system.
+

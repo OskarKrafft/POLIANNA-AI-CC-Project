@@ -1,0 +1,17 @@
+Article 55
+Contractual recognition of bail-in
+1.   Member States shall require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to include a contractual term by which the creditor or party to the agreement creating the liability recognises that liability may be subject to the write-down and conversion powers and agrees to be bound by any reduction of the principal or outstanding amount due, conversion or cancellation that is effected by the exercise of those powers by a resolution authority, provided that such liability is:
+(a)
+not excluded under Article 44(2);
+(b)
+not a deposit referred to in point (a) of Article 108;
+(c)
+governed by the law of a third country; and
+(d)
+issued or entered into after the date on which a Member State applies the provisions adopted in order to transpose this Section.
+The first subparagraph shall not apply where the resolution authority of a Member State determines that the liabilities or instruments referred to in the first subparagraph can be subject to write down and conversion powers by the resolution authority of a Member State pursuant to the law of the third country or to a binding agreement concluded with that third country.
+Member States shall ensure that resolution authorities may require institutions and entities referred to in points (b), (c) and (d) of Article 1(1) to provide authorities with a legal opinion relating to the legal enforceability and effectiveness of such a term.
+2.   If an institution or entity referred to in point (b), (c) or (d) of Article 1(1) fails to include in the contractual provisions governing a relevant liability a term required in accordance paragraph 1, that failure shall not prevent the resolution authority from exercising the write down and conversion powers in relation to that liability.
+3.   EBA shall develop draft regulatory technical standards in order to further determine the list of liabilities to which the exclusion in paragraph 1 applies, and the contents of the term required in that paragraph, taking into account banks’ different business models.
+EBA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

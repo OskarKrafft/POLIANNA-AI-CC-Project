@@ -1,0 +1,21 @@
+Article 73
+Distributions on own funds instruments
+1.   Capital instruments for which an institution has the sole discretion to decide to pay distributions in a form other than cash or an own funds instrument shall not be capable of qualifying as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments unless the institution has received the prior permission of the competent authorities.
+2.   Competent authorities shall grant the permission referred to in paragraph 1 only where they consider all the following conditions to be met:
+(a)
+the ability of the institution to cancel payments under the instrument would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+(b)
+the ability of the instrument to absorb losses would not be adversely affected by the discretion referred to in paragraph 1, or by the form in which distributions could be made;
+(c)
+the quality of the capital instrument would not otherwise be reduced by the discretion referred to in paragraph 1, or by the form in which distributions could be made.
+3.   Capital instruments for which a legal person other than the institution issuing them has the discretion to decide or require that the payment of distributions on the instrument shall be made in a form other than cash or an own funds instrument shall not be capable of qualifying as Common Equity Tier 1, Additional Tier 1 or Tier 2 instruments.
+4.   Institutions may use a broad market index as one of the bases for determining the level of distributions on Additional Tier 1 and Tier 2 instruments.
+5.   Paragraph 4 shall not apply where the institution is a reference entity in that broad market index unless both the following conditions are met:
+(a)
+the institution considers movements in that broad market index not to be significantly correlated to the credit standing of the institution, its parent institution or parent financial holding company or parent mixed financial holding company or parent mixed activity holding company;
+(b)
+the competent authority has not reached a different determination from that referred to in point (a).
+6.   Institutions shall report and disclose the broad market indices on which their capital instruments rely.
+7.   EBA shall develop draft regulatory technical standards to specify the conditions according to which indices shall be deemed to qualify as broad market indices for the purposes of paragraph 4.
+EBA shall submit those draft regulatory technical standards to the Commission by 1 February 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

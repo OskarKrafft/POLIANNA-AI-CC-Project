@@ -1,0 +1,25 @@
+Article 10
+Requirements for the digital product passport
+1.   A digital product passport shall comply with the following essential requirements:
+(a)
+it shall be connected through a data carrier to a persistent unique product identifier;
+(b)
+the data carrier shall be physically present on the product, its packaging or on documentation accompanying the product, as specified in the applicable delegated act adopted pursuant to Article 4;
+(c)
+the data carrier and the unique product identifier shall comply with one or more of the standards referred to in Annex III, second paragraph, or equivalent European or international standards until the references of harmonised standards are published in the Official Journal of the European Union;
+(d)
+all data included in the digital product passport shall be based on open standards, developed with an interoperable format, and shall be, as appropriate, machine-readable, structured, searchable, and transferable through an open interoperable data exchange network without vender lock-in, in accordance with the essential requirements set out in this Article and Article 11;
+(e)
+personal data relating to customers shall not be stored in the digital product passport without their explicit consent in compliance with Article 6 of Regulation (EU) 2016/679;
+(f)
+the data included in the digital product passport shall refer to the product model, batch or item as specified in the delegated act adopted pursuant to Article 4;
+(g)
+the access to data included in the digital product passport shall be regulated in accordance with the essential requirements set out in this Article and Article 11 and with the specific access rights at product group level as specified in the applicable delegated act adopted pursuant to Article 4.
+The Commission is empowered to adopt delegated acts in accordance with Article 72 to amend Annex III, first paragraph, point (c), and second paragraph in light of technical and scientific progress by replacing the standards or adding other European or international standards with which the data carriers, the unique operator identifiers and the unique facility identifiers are to comply for the purposes of meeting the conditions set out in this Article.
+2.   Where other Union law requires or allows the inclusion of specific data in the digital product passport, those data may be included in the digital product passport pursuant to the applicable delegated act adopted pursuant to Article 4.
+3.   The economic operator placing the product on the market shall:
+(a)
+provide dealers and providers of online marketplaces with a digital copy of the data carrier or the unique product identifier, as relevant, to allow them to make the data carrier or the unique product identifier accessible to potential customers where they cannot physically access the product;
+(b)
+provide the digital copy referred to in point (a) or a webpage link free of charge promptly and in any event within five working days of receiving a request to do so.
+4.   The economic operator, when placing the product on the market, shall make available a back-up copy of the digital product passport through a digital product passport service provider.

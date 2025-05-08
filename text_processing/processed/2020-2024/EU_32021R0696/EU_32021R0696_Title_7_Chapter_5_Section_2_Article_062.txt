@@ -1,0 +1,9 @@
+Article 62
+Scope of GOVSATCOM
+Under the GOVSATCOM component, satellite communication capacities and services shall be combined into a common Union pool of satellite communication capacities and services, with appropriate security requirements. This component comprises:
+(a)
+the development, construction and the operations of the ground segment infrastructure; referred to in Article 67 and possible space infrastructure referred to in Article 102(2);
+(b)
+the procurement of governmental and commercial satellite communication capacities, services, and user equipment necessary for the provision of GOVSATCOM services;
+(c)
+measures necessary to further interoperability and standardisation of GOVSATCOM user equipment.

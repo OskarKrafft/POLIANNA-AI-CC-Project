@@ -1,0 +1,17 @@
+Article 20
+Issue of energy performance certificates
+1.   Member States shall ensure that a digital energy performance certificate is issued for:
+(a)
+buildings or building units when they are constructed, when they have undergone a major renovation, when they are sold, when they are rented out to a new tenant, or for which a rental contract is renewed;
+(b)
+existing buildings owned or occupied by public bodies.
+The requirement to issue an energy performance certificate shall not apply where a certificate, issued in accordance with either Directive 2010/31/EU or this Directive, for the building or building unit concerned is available and valid.
+Member States shall ensure that a paper version of the energy performance certificate is issued on request.
+2.   Member States shall require that, when buildings or building units are constructed, have undergone a major renovation, or are sold or rented out, or when rental contracts for buildings or building units are renewed, the energy performance certificate is shown to the prospective tenant or buyer and handed over to the buyer or tenant.
+3.   Where a building is sold or rented out in advance of construction or major renovation, Member States may require the seller to provide an assessment of its future energy performance, as a derogation from paragraphs 1 and 2; in that case, the energy performance certificate shall be issued at the latest once the building has been constructed or renovated and shall reflect the as-built state.
+4.   Member States shall require that buildings or buildings units which are offered for sale or for rent have an energy performance certificate, and that the energy performance indicator and class of the energy performance certificate of the building or the building unit, as applicable, is stated in online and offline advertisements, including in property search portal websites.
+Member States shall carry out sample checks or other controls to ensure compliance with these requirements.
+5.   The provisions of this Article shall be implemented in accordance with applicable national rules on joint ownership or common property.
+6.   Member States may exclude the categories of building referred to in Article 5(3), points (b), (c) and (e), from the application of paragraphs 1, 2, 4 and 5 of this Article. Member States which chose to exclude from the obligations of this Article by 28 May 2024, residential buildings which are used or intended to be used for either less than four months of the year or, alternatively, for a limited annual time of use and with an expected energy consumption of less than 25 % of what would be the result of all-year use, may continue to do so.
+7.   The possible effects of energy performance certificates in terms of legal proceedings, if any, shall be decided in accordance with national rules.
+8.   Member States shall ensure that all energy performance certificates issued are uploaded to the database for the energy performance of buildings referred to in Article 22. The upload shall contain the full energy performance certificate, including all necessary data required for the calculation of the energy performance of the building.

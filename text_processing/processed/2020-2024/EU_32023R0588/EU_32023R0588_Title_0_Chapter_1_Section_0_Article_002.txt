@@ -1,0 +1,23 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘spacecraft’ means a spacecraft as defined in Article 2, point (1), of Regulation (EU) 2021/696;
+(2)
+‘space debris’ means space debris as defined in Article 2, point (4), of Regulation (EU) 2021/696;
+(3)
+‘payload’ means equipment carried by a spacecraft for the performance of a particular mission in space;
+(4)
+‘ space ecosystem’ means a network of interacting undertakings operating in value chains in the space sector, from the smallest start-ups to the largest undertakings, encompassing the upstream and downstream segments of the space market;
+(5)
+‘European Quantum Communication Infrastructure’ or ‘EuroQCI ’ means an interconnected space, ground and terrestrial infrastructure integrated into the secure connectivity system, using quantum-based technology;
+(6)
+‘GOVSATCOM Hub’ means a GOVSATCOM hub as defined in Article 2, point (23), of Regulation (EU) 2021/696;
+(7)
+‘the Agency’ means the European Union Agency for the Space Programme established by Regulation (EU) 2021/696;
+(8)
+‘EU classified information’ or ‘EUCI’ means EU classified information or EUCI as defined in Article 2, point (25), of Regulation (EU) 2021/696;
+(9)
+‘sensitive non-classified information’ means sensitive non-classified information as defined in Article 2, point (26), of Regulation (EU) 2021/696;
+(10)
+‘blending operation’ means a blending operation as defined in Article 2, point (27), of Regulation (EU) 2021/696.

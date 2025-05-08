@@ -1,0 +1,51 @@
+Article 122
+Request for information
+1.   In order to carry out its supervisory responsibilities under Article 117, EBA may by simple request or by decision require the following persons to provide all information necessary to enable EBA to carry out its duties under this Regulation:
+(a)
+an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;
+(b)
+a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;
+(c)
+a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;
+(d)
+an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;
+(e)
+a payment service provider that provides payment services in relation to significant e-money tokens;
+(f)
+a natural or legal person in charge of distributing significant e-money tokens on behalf of an issuer of significant e-money tokens;
+(g)
+a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients in relation to significant asset-referenced tokens or significant e-money tokens;
+(h)
+an operator of a trading platform for crypto-assets that has admitted to trading a significant asset-referenced token or a significant e-money token;
+(i)
+the management body of the persons referred to in points (a) to (h).
+2.   A simple request for information as referred to in paragraph 1 shall:
+(a)
+refer to this Article as the legal basis of that request;
+(b)
+state the purpose of the request;
+(c)
+specify the information required;
+(d)
+include a time limit within which the information is to be provided;
+(e)
+inform the person from whom the information is requested that it is not obliged to provide the information but that, in the case of a voluntary reply to the request, the information provided is required to be correct and not misleading; and
+(f)
+indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading.
+3.   When requiring the provision of information by decision pursuant to paragraph 1, EBA shall:
+(a)
+refer to this Article as the legal basis of that request;
+(b)
+state the purpose of the request;
+(c)
+specify the information required;
+(d)
+set a time limit within which the information is to be provided;
+(e)
+indicate the periodic penalty payments provided for in Article 132 where the production of information is required;
+(f)
+indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading;
+(g)
+indicate the right to appeal the decision before EBA’s Board of Appeal and to have the decision reviewed by the Court of Justice in accordance with Articles 60 and 61 of Regulation (EU) No 1093/2010.
+4.   The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law, shall provide the information requested.
+5.   EBA shall without delay send a copy of the simple request or of its decision to the competent authority of the Member State where the persons concerned by the request for information are domiciled or established.

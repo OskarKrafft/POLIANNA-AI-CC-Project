@@ -1,0 +1,10 @@
+Article 3
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(a) "electrical and electronic equipment" or "EEE" means equipment which is dependent on electric currents or electromagnetic fields in order to work properly and equipment for the generation, transfer and measurement of such currents and fields falling under the categories set out in Annex IA to Directive 2002/96/EC (WEEE) and designed for use with a voltage rating not exceeding 1000 volts for alternating current and 1500 volts for direct current;
+(b) "producer" means any person who, irrespective of the selling technique used, including by means of distance communication according to Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts(9):
+(i) manufactures and sells electrical and electronic equipment under his own brand;
+(ii) resells under his own brand equipment produced by other suppliers, a reseller not being regarded as the "producer" if the brand of the producer appears on the equipment, as provided for in subpoint (i); or
+(iii) imports or exports electrical and electronic equipment on a professional basis into a Member State.
+Whoever exclusively provides financing under or pursuant to any finance agreement shall not be deemed a "producer" unless he also acts as a producer within the meaning of subpoints (i) to (iii).
+

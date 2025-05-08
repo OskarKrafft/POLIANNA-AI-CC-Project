@@ -1,0 +1,47 @@
+Article 38
+Publication of information on recipients and other information
+1.   The Commission shall make available on a centralised website information on recipients of funds financed from the budget no later than 30 June of the year following the financial year in which the funds were legally committed, where the budget is implemented by it in accordance with Article 62(1), first subparagraph, point (a), by Union institutions in accordance with Article 59(1), and by the Union bodies referred to in Articles 70 and 71.
+Where the budget is implemented in accordance with Article 62(1), first subparagraph, points (b) and (c), and with Member States in accordance to Article 62(1), first subparagraph, point (a), the Commission shall make available on its centralised website, as referred to in the first subparagraph of this paragraph, information on recipients no later than 30 June of the year following the financial year in which the contract or agreement setting out the conditions of support was established. Where the budget is implemented in accordance with Article 62(1), first subparagraph, point (b), references in this Article to recipients shall be understood as references to recipients, contractors, subcontractors and beneficiaries as referred to in sector-specific rules. Information listed under paragraph 2 of this Article for such recipients shall be published provided sector-specific rules require their collection and storage.
+2.   Save in the cases referred to in paragraph 3, the following information shall be published in an open, interoperable and machine-readable format, which allows data to be sorted, searched, extracted, compared and reused, having due regard for the requirements of confidentiality and security, in particular the protection of personal data:
+(a)
+whether the recipient is a natural or a legal person;
+(b)
+the recipient’s full legal name in the case of a legal person and their VAT identification number or tax identification number where available or another unique identifier established at country level, the first and last name of the recipient in the case of a natural person;
+(c)
+the locality of the recipient, namely:
+(i)
+the address of the recipient when the recipient is a legal person;
+(ii)
+the region on NUTS 2 level when the recipient is a natural person and is domiciled in the Union or the country when the recipient is a natural person and is not domiciled in the Union;
+(d)
+the amount committed and, in case of a commitment with multiple recipients, the breakdown of this amount per recipient where available;
+(e)
+the nature and purpose of the measure.
+3.   The information referred to in paragraph 2 of this Article shall not be published and shall not be submitted for publication in accordance with paragraph 6 of this Article for:
+(a)
+education supports paid to natural persons and other direct support paid to natural persons most in need as referred to in Article 194(4), point (b);
+(b)
+very low value contracts awarded to experts selected pursuant to Article 242(2) as well as very low value contracts below the amount referred to in point 14.4 of Annex I;
+(c)
+financial support provided through financial instruments or budgetary guarantees for an amount lower than EUR 500 000;
+(d)
+where disclosure risks threatening the rights and freedoms of the persons or entities concerned as protected by the Charter of Fundamental Rights of the European Union or harming the commercial interests of the recipients;
+(e)
+where it is not required for publication in sector-specific rules where the budget is implemented in accordance with Article 62(1), first subparagraph, point (b).
+In the cases referred to in the first subparagraph, point (c), the information made available shall be limited to statistical data, aggregated in accordance with relevant criteria, such as geographical situation, economic typology of recipients, type of support received and the Union policy area under which such support was provided.
+Where natural persons are concerned, the disclosure of the information referred to in paragraph 2 shall be based on relevant criteria such as the frequency or the type of the measure and the amounts involved.
+4.   Persons or entities implementing Union funds pursuant to Article 62(1), first subparagraph, point (c), shall publish information on recipients in accordance with rules and procedures of those persons or entities, to the extent that those rules are deemed equivalent following the assessment carried out by the Commission pursuant to Article 157(3) and (4), first subparagraph, point (e), and provided that any publication of personal data is subject to safeguards equivalent to those set out in this Article.
+Bodies designated pursuant to Article 63(3) shall publish information in accordance with sector-specific rules. Those sector-specific rules may, in accordance with the relevant legal basis, derogate from paragraphs 2 and 3 of this Article and taking into account the specificities of the sector concerned.
+Member States that receive and implement Union funds under Article 62(1), first subparagraph, point (a), shall ensure ex post publication of information on their recipients, on a centralised website referred to in paragraph 1 of this Article, in accordance with paragraphs 2 and 3 of this Article.
+5.   The websites of Union institutions shall contain a reference to the centralised website referred to in paragraph 1 where the information referred to in that paragraph can be found.
+The Commission shall make available, in an appropriate and timely manner, information about the centralised website referred to in paragraph 1, including a reference to its address, where the information as provided by the Member States, persons, entities or bodies referred to in paragraph 4 can be found.
+6.   For the purposes of the first and second subparagraphs of paragraph 1 of this Article and without prejudice to paragraphs 3 and 4 of this Article and to sector-specific rules, the Commission shall use the relevant data stored in the system referred to in Article 36(2), point (d), to feed the centralised website referred to in paragraph 1 of this Article with the information referred to in paragraph 2 of this Article.
+In addition, the data shall also include the VAT identification number or tax identification number of natural persons where available or another unique identifier established at country level with a view to improve the quality of the data transmitted without it being used for publication.
+7.   Where personal data are published, the information shall be removed two years after the end of the financial year in which the funds were legally committed.
+Where the budget is implemented in accordance with Article 62(1), first subparagraph, points (b) and (c), the personal data shall be removed two years after the end of the financial year in which the contract or agreement setting out the conditions of support was established.
+
+TITLE III
+
+
+ESTABLISHMENT AND STRUCTURE OF THE BUDGET
+

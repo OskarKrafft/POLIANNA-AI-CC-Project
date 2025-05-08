@@ -1,0 +1,30 @@
+Article 128
+Definitions
+For the purpose of this Chapter, the following definitions shall apply:
+(1)
+‧capital conservation buffer‧ means the own funds that an institution is required to maintain in accordance with Article 129;
+(2)
+‧institution-specific countercyclical capital buffer‧ means the own funds that an institution is required to maintain in accordance with Article 130;
+(3)
+‧G-SII buffer‧ means the own funds that are required to be maintained in accordance with Article 131(4);
+(4)
+‧O-SII buffer‧ means the own funds that may be required to be maintained in accordance with Article 131(5);
+(5)
+‧systemic risk buffer‧ means the own funds that an institution is or may be required to maintain in accordance with Article 133;
+(6)
+‧combined buffer requirement‧ means the total Common Equity Tier 1 capital required to meet the requirement for the capital conservation buffer extended by the following, as applicable:
+(a)
+an institution-specific countercyclical capital buffer;
+(b)
+a G-SII buffer;
+(c)
+an O-SII buffer;
+(d)
+a systemic risk buffer;
+(7)
+‧countercyclical buffer rate‧ means the rate that institutions must apply in order to calculate their institution-specific countercyclical capital buffer, and that is set in accordance with Article 136, Article 137 or by a relevant third-country authority, as the case may be;
+(8)
+‧domestically authorised institution‧ means an institution that has been authorised in the Member State for which a particular designated authority is responsible for setting the countercyclical buffer rate;
+(9)
+‧buffer guide‧ means a benchmark buffer rate calculated in accordance with Article 135(1).
+This Chapter shall not apply to investment firms that are not authorised to provide the investment services listed in points 3 and 6 of Section A of Annex I to Directive 2004/39/EC.

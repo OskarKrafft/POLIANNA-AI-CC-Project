@@ -1,0 +1,48 @@
+Article 18
+Amendments to Regulation (EC) No 595/2009
+Regulation (EC) No 595/2009 is amended as follows:
+(1)
+in Article 2, first paragraph, the following sentence is added:
+
+                              ‘It shall also apply, for the purpose of Articles 5a, 5b, and 5c, to vehicles of categories O3 and O4.’;
+(2)
+the following Articles are inserted:
+‘Article 5a
+Specific requirements for manufacturers with regard to the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+1.   Manufacturers shall ensure that new vehicles of categories O3 and O4 that are sold, registered or put into service meet the following requirements:
+(a)
+the influence of those vehicles on the CO2 emissions, fuel consumption, electric consumption and zero-emission driving range of motor vehicles is determined in accordance with the methodology referred to in point (a) of Article 5c;
+(b)
+they are fitted with on-board devices for the monitoring and recording of the payload in accordance with the requirements referred to in point (b) of Article 5c.
+2.   Manufacturers shall ensure that new vehicles of categories M2, M3, N2 and N3 that are sold, registered or put into service are fitted with on-board devices for the monitoring and recording of fuel and/or energy consumption, payload and mileage in accordance with the requirements referred to in point (b) of Article 5c.
+They shall also ensure that the zero-emission driving range and electricity consumption of those vehicles are determined in accordance with the methodology referred to in point (c) of Article 5c.
+Article 5b
+Specific requirements for Member States with regard to the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+1.   National authorities shall, in accordance with the implementing measures referred to in Article 5c, refuse to grant EC type-approval or national type-approval in respect of new vehicle types of categories M2, M3, N2, N3, O3 and O4 which do not comply with the requirements set out in those implementing measures.
+2.   National authorities shall, in accordance with the implementing measures referred to in Article 5c, prohibit the sale, registration or entry into service of new vehicles of categories M2, M3, N2, N3, O3 and O4 which do not comply with the requirements set out in those implementing measures.
+Article 5c
+Measures for determining certain aspects of the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+By 31 December 2021, the Commission shall, by means of implementing acts, adopt the following measures:
+(a)
+a methodology for assessing the performance of vehicles of categories O3 and O4 with regard to their influence on the CO2 emissions, fuel consumption, electricity consumption and zero-emission driving ranges of motor vehicles;
+(b)
+technical requirements for the fitting of on-board devices for the monitoring and recording of fuel and/or energy consumption and mileage of motor vehicles of categories M2, M3, N2 and N3, and for determining and recording the payloads or total weight of vehicles meeting the characteristics set out in point (a), (b), (c) or (d) of the first subparagraph of Article 2(1) of Regulation (EU) 2019/1242 of the European Parliament and of the Council (*1) and of their combinations with category O3 and O4 vehicles, including the transmission of data between vehicles within a combination, as necessary;
+(c)
+a methodology for determining the zero-emission driving range and electricity consumption of new vehicles of categories M2, M3, N2 and N3.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13a.
+
+(*1)  Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;"
+                        
+(3)
+the following Article is added:
+‘Article 13a
+Committee procedure
+1.   The Commission shall be assisted by the Technical Committee for Motor Vehicles established by Regulation (EU) 2018/858 of the European Parliament and of the Council (*2). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+3.   Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+(*2)  Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).’."
+                        

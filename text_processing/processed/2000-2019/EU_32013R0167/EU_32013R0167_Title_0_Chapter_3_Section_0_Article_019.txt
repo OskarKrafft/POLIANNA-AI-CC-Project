@@ -1,0 +1,18 @@
+Article 19
+Requirements for environmental performance
+1.   Manufacturers shall ensure that vehicles are designed, constructed and assembled so as to minimise the impact on the environment.
+2.   Manufacturers shall ensure that vehicles, systems, components and separate technical units comply with the relevant requirements set out in this Regulation, including the requirements relating to:
+(a)
+pollutant emissions;
+(b)
+external sound level.
+3.   The specific limit values, test procedures and requirements for pollutant emissions laid down for mobile machinery in Directive 97/68/EC shall apply.
+4.   The limit values for the specific external sound levels shall not exceed the following levels:
+(a)
+89 dB(A) for tractors with an unladen mass, in running order, of more than 1 500 kg;
+(b)
+85 dB(A) for tractors with an unladen mass, in running order, of not more than 1 500 kg.
+They shall be measured in accordance with the test procedures laid down in the delegated acts referred to in paragraph 6.
+5.   The requirements referred to in paragraphs 1 and 2 shall apply to vehicles, and to systems, components and separate technical units intended for such vehicles, if they are applicable in accordance with Annex I.
+6.   The Commission shall be empowered to adopt delegated acts in accordance with Article 71 concerning the detailed technical requirements on the external sound level, including test procedures, and on the installation in a vehicle of engines which have been approved as regards pollutant emissions and the related provisions for flexibility in order to ensure that a high level of environmental performance will be obtained. The first such delegated acts shall be adopted by 31 December 2014.
+Those specific technical requirements shall be such as to increase or at least maintain the level of environmental performance provided for by the Directives referred to in Article 76(1) and, where applicable, Article 77.

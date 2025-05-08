@@ -1,0 +1,7 @@
+Article 50
+Rate of conversion of debt to equity
+1.   Member States shall ensure that, when resolution authorities exercise the powers specified in Article 59(3) and point (f) of Article 63(1), they may apply a different conversion rate to different classes of capital instruments and liabilities in accordance with one or both of the principles referred to in paragraphs 2 and 3 of this Article.
+2.   The conversion rate shall represent appropriate compensation to the affected creditor for any loss incurred by virtue of the exercise of the write down and conversion powers.
+3.   When different conversion rates are applied according to paragraph 1, the conversion rate applicable to liabilities that are considered to be senior under applicable insolvency law shall be higher than the conversion rate applicable to subordinated liabilities.
+4.   EBA shall, by 3 January 2016, issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 on the setting of conversion rates.
+Those guidelines shall indicate, in particular, how affected creditors may be appropriately compensated by means of the conversion rate, and the relative conversion rates that might be appropriate to reflect the priority of senior liabilities under applicable insolvency law.

@@ -1,0 +1,22 @@
+Article 11
+Technical design and operation of the digital product passport
+The technical design and operation of the digital product passport shall comply with the following essential requirements:
+(a)
+the digital product passport shall be fully interoperable with other digital product passports required by delegated acts adopted pursuant to Article 4 in relation to the technical, semantic and organisational aspects of end-to-end communication and data transfer;
+(b)
+customers, manufacturers, importers, distributors, dealers, professional repairers, independent operators, refurbishers, remanufacturers, recyclers, market surveillance authorities and customs authorities, civil society organisations, trade unions and other relevant actors shall have free of charge and easy access to the digital product passport based on their respective access rights set out in the applicable delegated act adopted pursuant to Article 4;
+(c)
+the digital product passport shall be stored by the economic operator responsible for its creation or by digital product passport service providers;
+(d)
+where a new digital product passport is created for a product that already has a digital product passport, the new digital product passport shall be linked to the original digital product passport or passports;
+(e)
+the digital product passport shall remain available for the period specified in delegated acts adopted pursuant to Article 4, including after an insolvency, a liquidation or a cessation of activity in the Union of the economic operator responsible for the creation of the digital product passport;
+(f)
+the rights to introduce, modify or update data in the digital product passport shall be restricted based on the access rights specified in delegated acts adopted pursuant to Article 4;
+(g)
+data authentication, reliability and integrity shall be ensured;
+(h)
+digital product passports shall be designed and operated so that a high level of security and privacy is ensured and fraud is avoided.
+If the digital product passport is stored pursuant to point (c) of the first subparagraph or otherwise processed by digital product passport service providers, those digital product passport service providers shall not sell, reuse or process such data, in whole or in part, beyond what is necessary for the provision of the relevant storing or processing services, unless specifically agreed with the economic operator placing the product on the market or putting it into service.
+The Commission is empowered to adopt delegated acts in accordance with Article 72 to supplement this Article by setting out the requirements that digital product passport service providers are to comply with in order to become such providers, and, where appropriate, a certification scheme to verify compliance with such requirements, and by setting out the requirements that those service providers are to comply with when providing digital product passport services.
+The Commission may adopt implementing acts setting out procedures to issue and verify the digital credentials of economic operators and other relevant actors that have access rights to data included in the digital product passport. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(3).

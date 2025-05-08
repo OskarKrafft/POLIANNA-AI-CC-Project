@@ -1,0 +1,18 @@
+Article 2
+Definitions
+1.   For the purposes of this Regulation, the definitions set out in Article 2 of Regulation (EU) No 1316/2013 shall apply.
+2.   For the purposes of this Regulation and of Regulation (EU) No 1316/2013, the following definitions shall also apply:
+(a)
+"telecommunications infrastructure" means broadband networks and digital service infrastructures;
+(b)
+"digital service infrastructures" means infrastructures which enable networked services to be delivered electronically, typically over the internet, providing trans-European interoperable services of common interest for citizens, businesses and/or public authorities, and which are composed of core service platforms and generic services;
+(c)
+"building blocks" means basic digital service infrastructures, which are key enablers to be reused in more complex digital services infrastructures;
+(d)
+"core service platforms" means central hubs of digital service infrastructures aiming to ensure trans-European connectivity, access and interoperability, and which are open to Member States and may be open to other entities;
+(e)
+"generic services" means gateway services linking one or more national infrastructure(s) to core service platform(s);
+(f)
+"broadband networks" means wired and wireless access networks, ancillary infrastructure and core networks capable of delivering very high speed connectivity;
+(g)
+"horizontal actions" means studies and programme support actions as defined in points (6) and (7) of Article 2 of Regulation (EU) No 1316/2013, respectively.

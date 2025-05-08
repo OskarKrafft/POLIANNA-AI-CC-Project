@@ -1,0 +1,53 @@
+Article 12
+Specific access rules to beneficial ownership registers for persons with legitimate interest
+1.   Member States shall ensure that any natural or legal person that can demonstrate a legitimate interest in the prevention and combating of money laundering, its predicate offences and terrorist financing has access to the following information on beneficial owners of legal entities and legal arrangements held in the interconnected central registers referred to in Article 10, without alerting the legal entity or legal arrangement concerned:
+(a)
+the name of the beneficial owner;
+(b)
+the month and year of birth of the beneficial owner;
+(c)
+the country of residence and nationality or nationalities of the beneficial owner;
+(d)
+for beneficial owners of legal entities, the nature and extent of the beneficial interest held;
+(e)
+for beneficial owners of express trusts or similar legal arrangements, the nature of the beneficial interest.
+In addition to the information referred to in the first subparagraph of this paragraph, Member States shall ensure that any natural or legal persons referred to in paragraph 2, points (a), (b) and (e), also has access to historical information on the beneficial ownership of the legal entity or the legal arrangement, including of legal entities or legal arrangements that have been dissolved or ceased to exist in the preceding 5 years, as well as a description of the control or ownership structure.
+Access pursuant to this paragraph shall be granted through electronic means. However, Member States shall ensure that natural and legal persons who can demonstrate a legitimate interest are also able to access the information in other formats if they are unable to use electronic means.
+2.   The following natural or legal persons shall be deemed to have a legitimate interest to access the information listed in paragraph 1:
+(a)
+persons acting for the purpose of journalism, reporting or any other form of expression in the media, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing;
+(b)
+civil society organisations, including non-governmental organisations and academia, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing;
+(c)
+natural or legal persons likely to enter into a transaction with a legal entity or legal arrangement and who wish to prevent any link between such a transaction and money laundering, its predicate offences or terrorist financing;
+(d)
+entities subject to AML/CFT requirements in third countries, provided they can demonstrate the need to access the information referred to in paragraph 1 in relation to a legal entity or legal arrangement to perform customer due diligence in respect of a customer or prospective customer pursuant to AML/CFT requirements in those third countries;
+(e)
+third-country counterparts of Union AML/CFT competent authorities provided they can demonstrate the need to access the information referred to in paragraph 1 in relation to a legal entity or legal arrangement to perform their tasks under the AML/CFT frameworks of those third countries in the context of a specific case;
+(f)
+Member State authorities in charge of implementing Title I, Chapters II and III of Directive (EU) 2017/1132, in particular the authorities in charge of the registration of companies in the register referred to in Article 16 of that Directive, and Member State authorities responsible for scrutinising the legality of conversions, mergers and divisions of limited liability companies pursuant to Title II of that Directive;
+(g)
+programme authorities identified by Member States pursuant to Article 71 of Regulation (EU) 2021/1060, in respect of beneficiaries of Union funds;
+(h)
+public authorities implementing the Recovery and Resilience Facility under Regulation (EU) 2021/241, in respect of beneficiaries under the Facility;
+(i)
+Member States’ public authorities in the context of public procurement procedures, in respect of the tenderers and operators being awarded the contract under the public procurement procedure;
+(j)
+providers of AML/CFT products, to the strict extent that products developed on the basis of the information referred to in paragraph 1 or containing that information are provided only to customers that are obliged entities or competent authorities provided that those providers can demonstrate the need to access the information referred to in paragraph 1 in the context of a contract with an obliged entity or a competent authority.
+In addition to the categories identified under the first subparagraph, Member States shall also ensure that other persons who are able to demonstrate a legitimate interest with respect to the purpose of preventing and combating money laundering, its predicate offences and terrorist financing, are granted access to beneficial ownership information on a case-by-case basis.
+3.   By 10 July 2026, Member States shall notify to the Commission:
+(a)
+the list of public authorities that are entitled to consult beneficial ownership information pursuant to paragraph 2, points (f), (g) and (h), and the public authorities or categories of public authorities that are entitled to consult beneficial ownership information pursuant to paragraph 2, point (i);
+(b)
+any additional category of persons who have been found to have a legitimate interest to access beneficial ownership information identified in accordance with paragraph 2, second subparagraph.
+Member States shall notify the Commission of any change or addition to the categories referred to in the first subparagraph without delay, and in any case within 1 month of its occurrence.
+The Commission shall make the information received pursuant to this paragraph available to the other Member States.
+4.   Member States shall ensure that the central registers keep records of the persons accessing the information pursuant to this Article and are able to disclose them to the beneficial owners when they file a request pursuant to Article 15(1), point (c), of Regulation (EU) 2016/679.
+However, Member States shall ensure that the information provided by central registers does not lead to the identification of any person consulting the register where such persons are:
+(a)
+persons acting for the purpose of journalism, reporting or any other form of expression in the media, that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing;
+(b)
+civil society organisations that are connected with the prevention or combating of money laundering, its predicate offences or terrorist financing.
+In addition, Member States shall ensure that entities in charge of the central registers refrain from disclosing the identity of any third-country counterpart of Union AML/CFT competent authorities referred to in Article 2(1), point 44(a) and (c), of Regulation (EU) 2024/1624, for as long as necessary to protect the analyses or investigations of that authority.
+In relation to the persons referred to in points (a) and (b) of the second subparagraph of this paragraph, Member States shall ensure that where beneficial owners file a request pursuant to Article 15(1), point (c), of Regulation (EU) 2016/679, they are provided with information on the function or occupation of the persons having consulted their beneficial ownership information.
+For the purposes of the third subparagraph, when requesting access to beneficial ownership information pursuant to this Article, the authorities shall indicate the period for which they request the central registers to refrain from disclosure, which shall not exceed 5 years, and the reasons for that restriction, including how the provision of the information would jeopardise the purpose of their analyses and investigations. Member States shall ensure that, where central registers do not disclose the identity of the entity having consulted the beneficial ownership information, any extension of that period shall only be granted on the basis of a justified request by the authority in the third country, for a maximum period of 1 year, after which a new justified request for extension shall be submitted by that authority.

@@ -1,0 +1,6 @@
+Article 25
+European data altruism consent form
+1.   In order to facilitate the collection of data based on data altruism, the Commission shall adopt implementing acts establishing and developing a European data altruism consent form, after consulting the European Data Protection Board, taking into account the advice of the European Data Innovation Board and duly involving relevant stakeholders. The form shall allow the collection of consent or permission across Member States in a uniform format. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+2.   The European data altruism consent form shall use a modular approach allowing customisation for specific sectors and for different purposes.
+3.   Where personal data are provided, the European data altruism consent form shall ensure that data subjects are able to give consent to and withdraw consent from a specific data processing operation in compliance with the requirements of Regulation (EU) 2016/679.
+4.   The form shall be available in a manner that can be printed on paper and is easily understandable as well as in an electronic, machine-readable form.

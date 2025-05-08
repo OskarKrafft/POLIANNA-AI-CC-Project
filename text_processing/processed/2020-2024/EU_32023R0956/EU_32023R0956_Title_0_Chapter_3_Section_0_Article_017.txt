@@ -1,0 +1,51 @@
+Article 17
+Authorisation
+1.   Where an application for an authorisation is submitted in accordance with Article 5, the competent authority in the Member State in which the applicant is established shall grant the status of authorised CBAM declarant provided that the criteria set out in paragraph 2 of this Article are complied with. The status of authorised CBAM declarant shall be recognised in all Member States.
+Before granting the status of authorised CBAM declarant, the competent authority shall conduct a consultation procedure on the application for an authorisation via the CBAM registry. The consultation procedure shall involve the competent authorities in the other Member States and the Commission and shall not exceed 15 working days.
+2.   The criteria for granting the status of authorised CBAM declarant shall be the following:
+(a)
+the applicant has not been involved in a serious infringement or in repeated infringements of customs legislation, taxation rules, market abuse rules or this Regulation and delegated and implementing acts adopted under this Regulation, and in particular the applicant has no record of serious criminal offences relating to its economic activity during the five years preceding the application;
+(b)
+the applicant demonstrates its financial and operational capacity to fulfil its obligations under this Regulation;
+(c)
+the applicant is established in the Member State where the application is submitted; and
+(d)
+the applicant has been assigned an EORI number in accordance with Article 9 of Regulation (EU) No 952/2013.
+3.   Where the competent authority finds that the criteria set out in paragraph 2 of this Article are not fulfilled, or where the applicant has failed to provide information listed in Article 5(5), the granting of the status of authorised CBAM declarant shall be refused. Such decision to refuse the status of authorised CBAM declarant shall provide the reasons for the refusal and include information on the possibility to appeal.
+4.   A decision of the competent authority granting the status of authorised CBAM declarant shall be registered in the CBAM registry and shall contain the following information:
+(a)
+the name, address and contact information of the authorised CBAM declarant;
+(b)
+the EORI number of the authorised CBAM declarant;
+(c)
+the CBAM account number assigned to the authorised CBAM declarant in accordance with Article 16(1);
+(d)
+the guarantee required in accordance with paragraph 5 of this Article.
+5.   For the purpose of complying with the criteria set out in paragraph 2, point (b), of this Article, the competent authority shall require the provision of a guarantee if the applicant was not established throughout the two financial years preceding the year when the application in accordance with Article 5(1) was submitted.
+The competent authority shall fix the amount of such guarantee at the amount, calculated as the aggregate value of the number of CBAM certificates that the authorised CBAM declarant would have to surrender in accordance with Article 22 in respect of the imports of goods reported in accordance with Article 5(5), point (g). The guarantee provided shall be a bank guarantee, payable at first demand, by a financial institution operating in the Union or another form of guarantee which provides equivalent assurance.
+6.   Where the competent authority establishes that the guarantee provided does not ensure, or is no longer sufficient to ensure, the financial and operational capacity of the authorised CBAM declarant to fulfil its obligations under this Regulation, it shall require the authorised CBAM declarant to choose between providing an additional guarantee or replacing the initial guarantee with a new guarantee in accordance with paragraph 5.
+7.   The competent authority shall release the guarantee immediately after 31 May of the second year in which the authorised CBAM declarant has surrendered CBAM certificates in accordance with Article 22.
+8.   The competent authority shall revoke the status of authorised CBAM declarant where:
+(a)
+the authorised CBAM declarant requests a revocation; or
+(b)
+the authorised CBAM declarant no longer meets the criteria set out in paragraph 2 or 6 of this Article, or has been involved in a serious or repeated infringement of the obligation to surrender CBAM certificates referred to in Article 22(1) or of the obligation to ensure a sufficient number of CBAM certificates on its account in the CBAM registry at the end of each quarter referred to in Article 22(2).
+Before revoking the status of authorised CBAM declarant, the competent authority shall give the authorised CBAM declarant the possibility to be heard and shall conduct a consultation procedure on the possible revocation of such status. The consultation procedure shall involve the competent authorities in the other Member States and the Commission and shall not exceed 15 working days.
+Any decision of revocation shall contain the reasons for the decision as well as information about the right to appeal.
+9.   The competent authority shall register in the CBAM registry information on:
+(a)
+the applicants whose application for an authorisation has been refused pursuant to paragraph 3; and
+(b)
+the persons whose status of authorised CBAM declarant has been revoked pursuant to paragraph 8.
+10.   The Commission shall adopt, by means of implementing acts, the conditions for:
+(a)
+the application of the criteria referred to in paragraph 2 of this Article, including that of not having been involved in a serious infringement or in repeated infringements under paragraph 2, point (a), of this Article;
+(b)
+the application of the guarantee referred to in paragraphs 5, 6 and 7 of this Article;
+(c)
+the application of the criteria of a serious or repeated infringement referred to in paragraph 8 of this Article;
+(d)
+the consequences of the revocation of the status of authorised CBAM declarant referred to in paragraph 8 of this Article; and
+(e)
+the specific deadlines and format of the consultation procedure referred to in paragraphs 1 and 8 of this Article.
+The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination procedure referred to in Article 29(2).

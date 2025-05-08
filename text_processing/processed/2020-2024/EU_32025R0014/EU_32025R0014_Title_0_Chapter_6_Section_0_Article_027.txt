@@ -1,0 +1,19 @@
+Article 27
+Termination of validity
+1.   EU type-approvals shall be granted for an unlimited duration.
+2.   An EU type-approval shall become invalid in each of the following cases:
+(a)
+where production of the EU type-approved non-road mobile machinery is definitively discontinued voluntarily;
+(b)
+where new requirements applicable to the EU type-approved non-road mobile machinery become mandatory for the making available on the market, registration, or entry into service of non-road mobile machinery, and it is not possible to update the type-approval in accordance with Chapter V;
+(c)
+where the validity of the EU type-approval expires by virtue of a restriction in accordance with Article 30(3);
+(d)
+where the EU type-approval has been withdrawn in accordance with Article 23(5).
+However, in the case of the first subparagraph, point (b), the EU type-approval and the relevant EU type-approval certificate for placing non-road mobile machinery on the market shall become invalid 24 months after the date of application of the new requirements referred to in the first subparagraph, point (b).
+3.   Where only one variant within a type or one version within a variant is affected, the EU type-approval of the non-road mobile machinery in question shall become invalid only in so far as the particular variant or version is concerned.
+4.   Where the production of a particular type of non-road mobile machinery is discontinued definitively, the holder of the EU type-approval shall notify the approval authority that granted the EU type-approval for that non-road mobile machinery thereof.
+5.   Within 1 month of receiving the notification referred to in paragraph 4, the approval authority that granted the EU type-approval for the non-road mobile machinery shall inform the approval authorities of the other Member States accordingly, by means of a common secure electronic exchange system.
+6.   Without prejudice to paragraphs 4 and 5, in cases where an EU type-approval of non-road mobile machinery is due to become invalid, the holder of the EU type-approval shall notify the approval authority that granted the EU type-approval thereof.
+The approval authority that granted the EU type-approval shall, without delay, communicate all relevant information to the approval authorities of the other Member States by means of a common secure electronic exchange system.
+7.   The communication referred to in paragraph 6 shall specify, in particular, the date of production and the vehicle identification number of the last non-road mobile machinery produced.

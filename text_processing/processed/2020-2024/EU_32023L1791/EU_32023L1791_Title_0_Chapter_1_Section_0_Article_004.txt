@@ -1,0 +1,63 @@
+Article 4
+Energy efficiency targets
+1.   Member States shall collectively ensure a reduction of energy consumption of at least 11,7 % in 2030 compared to the projections of the 2020 EU Reference Scenario so that the Union’s final energy consumption amounts to no more than 763 Mtoe. Member States shall make efforts to collectively contribute to the indicative Union primary energy consumption target amounting to no more than 992,5 Mtoe in 2030.
+2.   Each Member State shall set an indicative national energy efficiency contribution based on final energy consumption to meet, collectively, the Union’s binding final energy consumption target referred to in paragraph 1 of this Article and shall make efforts to contribute collectively to the Union’s indicative primary energy consumption target referred to in that paragraph. Member States shall notify those contributions to the Commission, together with an indicative trajectory for those contributions, as part of the updates of their integrated national energy and climate plans submitted pursuant to Article 14(2) of Regulation (EU) 2018/1999, and of their integrated national energy and climate plans notified pursuant to Article 3 and Articles 7 to 12 of that Regulation. When doing so, Member States shall also express their contributions in terms of an absolute level of primary energy consumption in 2030. When setting their indicative national energy efficiency contributions, Member States shall take into account the requirements set out in paragraph 3 of this Article and explain how, and on the basis of which data, the contributions have been calculated. To that end, they may use the formula set out in Annex I to this Directive.
+Member States shall provide the shares of primary energy consumption and final energy consumption of energy end-use sectors, as defined in Regulation (EC) No 1099/2008, including industry, residential, services and transport, in their national energy efficiency contributions. Member States shall also indicate projections for energy consumption in ICT.
+3.   In setting their indicative national energy efficiency contributions referred to in paragraph 2, Member States shall take into account:
+(a)
+the Union’s 2030 final energy consumption target of no more than 763 Mtoe and the primary energy consumption target of no more than 992,5 Mtoe, as provided for in paragraph 1;
+(b)
+the measures provided for in this Directive;
+(c)
+other measures to promote energy efficiency within Member States and at Union level;
+(d)
+any relevant factors affecting efficiency efforts:
+(i)
+early efforts and actions in energy efficiency;
+(ii)
+the equitable distribution of efforts across the Union;
+(iii)
+the energy intensity of the economy;
+(iv)
+the remaining cost-effective energy-saving potential;
+(e)
+other national circumstances affecting energy consumption, in particular:
+(i)
+GDP and demographic evolution and forecast;
+(ii)
+changes of energy imports and exports, developments in the energy mix and the deployment of new sustainable fuels;
+(iii)
+the development of all sources of renewable energies, nuclear energy, carbon capture and storage;
+(iv)
+the decarbonisation of energy intensive industries;
+(v)
+the level of ambition in the national decarbonisation or climate neutrality plans;
+(vi)
+economic energy savings potential;
+(vii)
+current climate conditions and climate change forecast.
+4.   When applying the requirements set out in paragraph 3, a Member State shall ensure that its contribution in Mtoe is not more than 2,5 % above what it would have been had it resulted from the formula set out in Annex I.
+5.   The Commission shall assess that the collective contribution of Member States is at least equal to the Union’s binding target for final energy consumption set out in paragraph 1 of this Article. Where the Commission concludes that it is insufficient, as part of its assessment of the draft updated national energy and climate plans pursuant to Article 9(2) of Regulation (EU) 2018/1999, or at the latest by 1 March 2024, taking into consideration the updated 2020 EU Reference Scenario pursuant to this paragraph, the Commission shall submit to each Member State a corrected indicative national energy efficiency contribution for final energy consumption on the basis of:
+(a)
+the remaining collective reduction of final energy consumption needed to achieve the Union’s binding target set out in paragraph 1;
+(b)
+the relative GHG intensity per GDP unit in 2019 among the Member States concerned;
+(c)
+the GDP of those Member States in 2019.
+Before applying the formula in Annex I for the mechanism established in this paragraph and at the latest by 30 November 2023, the Commission shall update the 2020 EU Reference Scenario on the basis of the latest Eurostat data reported by the Member States, in accordance with Article 4(2), point (b), and Article 14 of Regulation (EU) 2018/1999.
+Notwithstanding Article 37 of this Directive, Member States that wish to update their indicative national energy efficiency contributions pursuant to paragraph 2 of this Article, using the updated 2020 EU Reference Scenario, shall notify their updated indicative national energy efficiency contribution at the latest by 1 February 2024. Where a Member State wishes to update its indicative national energy efficiency contribution, it shall ensure that its contribution in Mtoe is not more than 2,5 % above what it would have been had it resulted from the formula set out in Annex I with the use of the updated 2020 EU Reference Scenario.
+Member States to which a corrected indicative national energy efficiency contribution was submitted by the Commission shall update their indicative national energy efficiency contributions pursuant to paragraph 2 of this Article, with the corrected indicative national energy efficiency contribution for final energy consumption together with an update of their indicative trajectory for those contribution and, where applicable, their additional measures, as part of the updates of their integrated national energy and climate plans submitted pursuant to Article 14(2) of Regulation (EU) 2018/1999. The Commission shall, in accordance with that Regulation, require Member States to submit, without delay, their corrected indicative energy efficiency contribution and, where applicable, their additional measures to ensure the application of the mechanism set out in this paragraph.
+Where a Member State has notified an indicative national energy efficiency contribution for final energy consumption in Mtoe equal to or below what it would have been had it resulted from the formula set out in Annex I, the Commission shall not amend that contribution.
+When applying the mechanism set out in this paragraph, the Commission shall ensure that there is no difference left between the sum of the national contributions of all Member States and the Union’s binding target set out in paragraph 1.
+6.   Where the Commission concludes, on the basis of its assessment pursuant to Article 29(1) and (3) of Regulation (EU) 2018/1999, that insufficient progress has been made towards meeting the energy efficiency contributions, Member States that are above their indicative trajectories for final energy consumption referred to in paragraph 2 of this Article shall ensure that additional measures are implemented within one year of the date of receipt of the Commission’s assessment in order to get back on track to reach their energy efficiency contributions. Those additional measures shall include, but shall not be limited to, at least one of the following measures:
+(a)
+national measures delivering additional energy savings, including stronger project development assistance for the implementation of energy efficiency investment measures;
+(b)
+increasing the energy savings obligation set out in Article 8 of this Directive;
+(c)
+adjusting the obligation for public sector;
+(d)
+making a voluntary financial contribution to the national energy efficiency fund referred to in Article 30 of this Directive or another financing instrument dedicated to energy efficiency, where the annual financial contributions shall be equal to the investments required to reach the indicative trajectory.
+Where a Member State’s final energy consumption is above its indicative trajectory for final energy consumption referred to in paragraph 2 of this Article, it shall include in its integrated national energy and climate progress report submitted pursuant to Article 17 of Regulation (EU) 2018/1999 an explanation of the measures it will take to cover the gap in order to ensure that it reaches its national energy efficiency contributions and the amount of energy savings expected to be delivered.
+The Commission shall assess whether the national measures referred to in this paragraph are sufficient to achieve the Union’s energy efficiency targets. Where national measures are deemed to be insufficient, the Commission shall, as appropriate, propose measures and exercise its power at Union level in order to ensure, in particular, the achievement of the Union’s 2030 targets for energy efficiency.
+7.   The Commission shall assess by 31 December 2026 any methodological changes in the data reported pursuant to Regulation (EC) No 1099/2008, in the methodology for calculating energy balance, and in energy models for European energy use, and, if necessary, propose technical calculation adjustments to the Union’s 2030 targets with a view to maintaining the level of ambition set out in paragraph 1 of this Article.

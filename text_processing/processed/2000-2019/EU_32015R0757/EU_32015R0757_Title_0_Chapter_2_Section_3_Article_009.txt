@@ -1,0 +1,23 @@
+Article 9
+Monitoring on a per-voyage basis
+1.   Based on the monitoring plan assessed in accordance with Article 13(1), for each ship arriving in or departing from, and for each voyage to or from, a port under a Member State's jurisdiction, companies shall monitor in accordance with Part A of Annex I and Part A of Annex II the following parameters:
+(a)
+port of departure and port of arrival including the date and hour of departure and arrival;
+(b)
+amount and emission factor for each type of fuel consumed in total;
+(c)
+CO2 emitted;
+(d)
+distance travelled;
+(e)
+time spent at sea;
+(f)
+cargo carried;
+(g)
+transport work.
+Companies may also monitor information relating to the ship's ice class and to navigation through ice, where applicable.
+2.   By way of derogation from paragraph 1 of this Article and without prejudice to Article 10, a company shall be exempt from the obligation to monitor the information referred to in paragraph 1 of this Article on a per-voyage basis in respect of a specified ship, if:
+(a)
+all of the ship's voyages during the reporting period either start from or end at a port under the jurisdiction of a Member State; and
+(b)
+the ship, according to its schedule, performs more than 300 voyages during the reporting period.

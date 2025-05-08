@@ -1,0 +1,7 @@
+Article 7
+Conformity marking
+1. The conformity of a measuring instrument with all the provisions of this Directive shall be indicated by the presence on it of the "CE" marking and the supplementary metrology marking as specified in Article 17.
+2. The "CE" marking and supplementary metrology marking shall be affixed by, or under the responsibility of, the manufacturer. These markings may be affixed to the instrument during the fabrication process, if justified.
+3. The affixing of markings on a measuring instrument that are likely to deceive third parties as to the meaning and/or form of the "CE" marking and the supplementary metrology marking shall be prohibited. Any other marking may be affixed on a measuring instrument, provided that the visibility and legibility of the "CE" marking and the supplementary metrology marking is not thereby reduced.
+4. Where the measuring instrument is subject to measures adopted under other Directives covering other aspects which require the affixing of the "CE" marking, the marking shall indicate that the instrument in question is also presumed to conform to the requirements of those other Directives. In such a case, the publication reference of the said Directives, in the Official Journal of the European Union, must be given in the documents, notices or instructions required by those Directives and accompanying the measuring instrument.
+

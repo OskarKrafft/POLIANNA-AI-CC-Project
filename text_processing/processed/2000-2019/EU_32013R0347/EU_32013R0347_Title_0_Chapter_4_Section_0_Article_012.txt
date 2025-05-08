@@ -1,0 +1,52 @@
+Article 12
+Enabling investments with cross-border impacts
+1.   The efficiently incurred investment costs, which excludes maintenance costs, related to a project of common interest falling under the categories set out in Annex II.1(a), (b) and (d) and Annex II.2 shall be borne by the relevant TSO or the project promoters of the transmission infrastructure of the Member States to which the project provides a net positive impact, and, to the extent not covered by congestion rents or other charges, be paid for by network users through tariffs for network access in that or those Member States.
+2.   For a project of common interest falling under the categories set out in Annex II.1(a), (b) and (d) and Annex II.2, paragraph 1 shall apply only if at least one project promoter requests the relevant national authorities to apply this Article for all or parts of the costs of the project. For a project of common interest falling under the categories set out in Annex II.2, paragraph 1 shall apply only where an assessment of market demand has already been carried out and indicated that the efficiently incurred investment costs cannot be expected to be covered by the tariffs.
+Where a project has several project promoters, the relevant national regulatory authorities shall without delay request all project promoters to submit the investment request jointly in accordance with paragraph 3.
+3.   For a project of common interest to which paragraph 1 applies, the project promoters shall keep all concerned national regulatory authorities regularly informed, at least once per year, and until the project is commissioned, of the progress of that project and the identification of costs and impacts associated with it.
+As soon as such a project has reached sufficient maturity, the project promoters, after having consulted the TSOs from the Member States to which the project provides a significant net positive impact, shall submit an investment request. That investment request shall include a request for a cross-border cost allocation and shall be submitted to all the national regulatory authorities concerned, accompanied by the following:
+(a)
+a project-specific cost-benefit analysis consistent with the methodology drawn up pursuant to Article 11 and taking into account benefits beyond the borders of the Member State concerned;
+(b)
+a business plan evaluating the financial viability of the project, including the chosen financing solution, and, for a project of common interest falling under the category referred to in Annex II.2, the results of market testing; and
+(c)
+if the project promoters agree, a substantiated proposal for a cross-border cost allocation.
+If a project is promoted by several project promoters, they shall submit their investment request jointly.
+For projects included in the first Union list, project promoters shall submit their investment request by 31 October 2013.
+A copy of each investment request shall be transmitted for information without delay by the national regulatory authorities to the Agency on receipt.
+The national regulatory authorities and the Agency shall preserve the confidentiality of commercially sensitive information.
+4.   Within six months of the date on which the last investment request was received by the national regulatory authorities concerned, the national regulatory authorities shall, after consulting the project promoters concerned, take coordinated decisions on the allocation of investment costs to be borne by each system operator for the project, as well as their inclusion in tariffs. The national regulatory authorities may decide to allocate only part of the costs, or may decide to allocate costs among a package of several projects of common interest.
+When allocating the costs, the national regulatory authorities shall take into account actual or estimated:
+—
+congestion rents or other charges,
+—
+revenues stemming from the inter-transmission system operator compensation mechanism established under Article 13 of Regulation (EC) No 714/2009.
+In deciding to allocate costs across borders, the economic, social and environmental costs and benefits of the projects in the Member States concerned and the possible need for financial support shall be taken into account.
+In deciding to allocate costs across borders, the relevant national regulatory authorities, in consultation with the TSOs concerned, shall seek a mutual agreement based on, but not limited to, the information specified in paragraph 3(a) and (b).
+If a project of common interest mitigates negative externalities, such as loop flows, and that project of common interest is implemented in the Member State at the origin of the negative externality, such mitigation shall not be regarded as a cross-border benefit and shall therefore not constitute a basis for allocating costs to the TSO of the Member States affected by those negative externalities.
+5.   National regulatory authorities shall, based on the cross-border cost allocation as referred to in paragraph 4 of this Article, take into account actual costs incurred by a TSO or other project promoter as a result of the investments when fixing or approving tariffs in accordance with Article 37(1)(a) of Directive 2009/72/EC and Article 41(1)(a) of Directive 2009/73/EC, insofar as these costs correspond to those of an efficient and structurally comparable operator.
+The cost allocation decision shall be notified, without delay, by the national regulatory authorities to the Agency, together with all the relevant information with respect to the decision. In particular, the information shall contain detailed reasons on the basis of which costs were allocated among Member States, such as the following:
+(a)
+an evaluation of the identified impacts, including concerning network tariffs, on each of the concerned Member States;
+(b)
+an evaluation of the business plan referred to in paragraph 3(b);
+(c)
+regional or Union-wide positive externalities, which the project would generate;
+(d)
+the result of the consultation of the project promoters concerned.
+The cost allocation decision shall be published.
+6.   Where the national regulatory authorities concerned have not reached an agreement on the investment request within six months of the date on which the request was received by the last of the national regulatory authorities concerned, they shall inform the Agency without delay.
+In this case or upon a joint request from the national regulatory authorities concerned, the decision on the investment request including cross-border cost allocation referred to in paragraph 3 as well as the way the cost of the investments are reflected in the tariffs shall be taken by the Agency within three months of the date of referral to the Agency.
+Before taking such a decision, the Agency shall consult the national regulatory authorities concerned and the project promoters. The three-month period referred to in the second subparagraph may be extended by an additional period of two months where further information is sought by the Agency. That additional period shall begin on the day following receipt of the complete information.
+The cost allocation decision shall be published. Articles 19 and 20 of Regulation (EC) No 713/2009 shall be applicable.
+7.   A copy of all cost allocation decisions, together with all the relevant information with respect to each decision, shall be notified, without delay, by the Agency to the Commission. That information may be submitted in aggregate form. The Commission shall preserve the confidentiality of commercially sensitive information.
+8.   This cost allocation decision shall not affect the right of TSOs to apply and national regulatory authorities to approve charges for access to networks in accordance with Article 32 of Directive 2009/72/EC and of Directive 2009/73/EC, Article 14 of Regulation (EC) No 714/2009, and Article 13 of Regulation (EC) No 715/2009.
+9.   This Article shall not apply to projects of common interest having received:
+(a)
+an exemption from Articles 32, 33, 34 and Article 41(6), (8) and (10) of Directive 2009/73/EC pursuant to Article 36 of Directive 2009/73/EC;
+(b)
+an exemption from Article 16(6) of Regulation (EC) No 714/2009 or an exemption from Article 32 and Article 37(6) and (10) of Directive 2009/72/EC pursuant to Article 17 of Regulation (EC) No 714/2009;
+(c)
+an exemption under Article 22 of Directive 2003/55/EC (20); or
+(d)
+an exemption under Article 7 of Regulation (EC) No 1228/2003 (21).

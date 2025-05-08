@@ -1,0 +1,3 @@
+Article 119
+Significant deviations from the assumptions underlying the standard formula calculation
+Where it is inappropriate to calculate the Solvency Capital Requirement in accordance with the standard formula, as set out in Subsection 2, because the risk profile of the insurance or reinsurance undertaking concerned deviates significantly from the assumptions underlying the standard formula calculation, the supervisory authorities may, by means of a decision stating the reasons, require the undertaking concerned to use an internal model to calculate the Solvency Capital Requirement, or the relevant risk modules thereof.

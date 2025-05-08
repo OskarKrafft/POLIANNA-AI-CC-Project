@@ -1,0 +1,39 @@
+Article 54
+Reporting requirements
+1.   Investment firms shall report on a quarterly basis to the competent authorities all of the following information:
+(a)
+level and composition of own funds;
+(b)
+own funds requirements;
+(c)
+own funds requirement calculations;
+(d)
+the level of activity in respect of the conditions set out in Article 12(1), including the balance sheet and revenue breakdown by investment service and applicable K‐factor;
+(e)
+concentration risk;
+(f)
+liquidity requirements.
+By way of derogation from the first subparagraph, investment firms that meet the conditions for qualifying as small and non‐interconnected investment firms set out in Article 12(1) shall submit such reports on an annual basis.
+2.   The information specified in point (e) of paragraph 1 shall include the following levels of risk and shall be reported to the competent authorities at least on an annual basis:
+(a)
+the level of concentration risk associated with the default of counterparties and with trading book positions, both on an individual counterparty and aggregate basis;
+(b)
+the level of concentration risk with respect to the credit institutions, investment firms and other entities where client money is held;
+(c)
+the level of concentration risk with respect to the credit institutions, investment firms and other entities where client securities are deposited;
+(d)
+the level of concentration risk with respect to the credit institutions where the investment firm’s own cash is deposited;
+(e)
+the level of concentration risk from earnings;
+(f)
+the level of concentration risk as described in points (a) to (e) calculated taking into account assets and off‐balance‐sheet items not recorded in the trading book in addition to exposures arising from trading book positions.
+For the purposes of this paragraph, the terms ‘credit institution’ and ‘investment firm’ include private or public undertakings, including the branches of such undertakings, provided that those undertakings, if they were established in the Union, would be credit institutions or investment firms as defined in this Regulation, and provided that those undertakings have been authorised in a third country that applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
+By way of derogation from paragraph 1 of this Article, an investment firm that meets the conditions for qualifying as a small and interconnected investment firm set out in Article 12(1) shall not be required to report the information specified in point (e) of paragraph 1 of this Article and, insofar as an exemption has been granted in accordance with the second subparagraph of Article 43(1), in point (f) of paragraph 1 of this Article.
+3.   For the purposes of the reporting requirements laid down in this Article, EBA, in consultation with ESMA, shall develop draft implementing technical standards to specify:
+(a)
+the formats;
+(b)
+reporting dates and definitions and associated instructions which shall describe how to use those formats.
+The draft implementing technical standards referred to in the first subparagraph shall be concise and proportionate to the nature, scope and complexity of the activities of the investment firms, taking into account the differences in the level of detail of information submitted by an investment firm that meets the conditions for qualifying as a small and non‐interconnected investment firm set out in Article 12(1).
+EBA shall develop the draft implementing technical standards referred to in the first subparagraph by 26 December 2020.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

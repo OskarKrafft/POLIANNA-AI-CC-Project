@@ -1,0 +1,37 @@
+Article 9
+Unbundling of transmission systems and transmission system operators
+1.   Member States shall ensure that from 3 March 2012:
+(a)
+each undertaking which owns a transmission system acts as a transmission system operator;
+(b)
+the same person or persons are entitled neither:
+(i)
+directly or indirectly to exercise control over an undertaking performing any of the functions of production or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; nor
+(ii)
+directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of production or supply;
+(c)
+the same person or persons are not entitled to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking, of a transmission system operator or a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of production or supply; and
+(d)
+the same person is not entitled to be a member of the supervisory board, the administrative board or bodies legally representing the undertaking, of both an undertaking performing any of the functions of production or supply and a transmission system operator or a transmission system.
+2.   The rights referred to in points (b) and (c) of paragraph 1 shall include, in particular:
+(a)
+the power to exercise voting rights;
+(b)
+the power to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking; or
+(c)
+the holding of a majority share.
+3.   For the purpose of paragraph 1(b), the notion ‘undertaking performing any of the functions of production or supply’ shall include ‘undertaking performing any of the functions of generation and supply’ within the meaning of Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity (16), and the terms ‘transmission system operator’ and ‘transmission system’ shall include ‘transmission system operator’ and ‘transmission system’ within the meaning of that Directive.
+4.   Member States may allow for derogations from points (b) and (c) of paragraphs 1 until 3 March 2013, provided that transmission system operators are not part of a vertically integrated undertaking.
+5.   The obligation set out in paragraph 1(a) of this Article shall be deemed to be fulfilled in a situation where two or more undertakings which own transmission systems have created a joint venture which acts as a transmission system operator in two or more Member States for the transmission systems concerned. No other undertaking may be part of the joint venture, unless it has been approved under Article 14 as an independent system operator or as an independent transmission operator for the purposes of Chapter IV.
+6.   For the implementation of this Article, where the person referred to in points (b), (c) and (d) of paragraph 1 is the Member State or another public body, two separate public bodies exercising control over a transmission system operator or over a transmission system on the one hand, and over an undertaking performing any of the functions of production or supply on the other, shall be deemed not to be the same person or persons.
+7.   Member States shall ensure that neither commercially sensitive information referred to in Article 16 held by a transmission system operator which was part of a vertically integrated undertaking, nor the staff of such a transmission system operator, is transferred to undertakings performing any of the functions of production and supply.
+8.   Where on 3 September 2009, the transmission system belongs to a vertically integrated undertaking a Member State may decide not to apply paragraph 1.
+In such case, the Member State concerned shall either:
+(a)
+designate an independent system operator in accordance with Article 14, or
+(b)
+comply with the provisions of Chapter IV.
+9.   Where, on 3 September 2009, the transmission system belongs to a vertically integrated undertaking and there are arrangements in place which guarantee more effective independence of the transmission system operator than the provisions of Chapter IV, a Member State may decide not to apply paragraph 1.
+10.   Before an undertaking is approved and designated as a transmission system operator under paragraph 9 of this Article, it shall be certified according to the procedures laid down in Article 10(4), (5) and (6) of this Directive and in Article 3 of Regulation (EC) No 715/2009, pursuant to which the Commission shall verify that the arrangements in place clearly guarantee more effective independence of the transmission system operator than the provisions of Chapter IV.
+11.   Vertically integrated undertakings which own a transmission system shall not in any event be prevented from taking steps to comply with paragraph 1.
+12.   Undertakings performing any of the functions of production or supply shall not in any event be able to directly or indirectly take control over or exercise any right over unbundled transmission system operators in Member States which apply paragraph 1.

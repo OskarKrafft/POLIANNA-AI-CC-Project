@@ -1,0 +1,194 @@
+Article 1
+Amendments
+Directive 80/181/EEC is hereby amended as follows:
+(1)
+Article 1(b) shall be replaced by the following:
+‘(b)
+those listed in Chapter II of the Annex only in those Member States where they were authorised on 21 April 1973.’;
+(2)
+Article 2(a) shall be replaced by the following:
+‘(a)
+The obligations arising under Article 1 relate to measuring instruments used, measurements made and indications of quantity expressed in units of measurement.’;
+(3)
+Article 3(2) shall be replaced by the following:
+‘2.   The use of supplementary indications shall be authorised.’;
+(4)
+the following Article shall be inserted:
+‘Article 6b
+The Commission shall monitor market developments relating to this Directive and its implementation with regard to the smooth functioning of the internal market and international trade and shall submit a report on those developments, accompanied by proposals where appropriate, to the European Parliament and to the Council by 31 December 2019.’;
+(5)
+the Annex shall be amended as follows:
+(a)
+in Chapter I, point 1.1, the paragraph entitled ‘Unit of thermodynamic temperature’ shall be replaced by the following:
+
+                                                   ‘Unit of thermodynamic temperature
+The kelvin, unit of thermodynamic temperature, is the fraction 1/273,16 of the thermodynamic temperature of the triple point of water.
+This definition refers to water having the isotopic composition defined by the following amount-of-substance ratios: 0,00015576 mole of 2H per mole of 1H, 0,0003799 mole of 17O per mole of 16O and 0,0020052 mole of 18O per mole of 16O.
+(Thirteenth CGPM (1967), resolution 4 and Twenty-third CGPM (2007), resolution 10)’;
+(b)
+in Chapter I, point 1.1.1, the title shall be replaced by the following:
+
+                                                ‘Special name and symbol of the SI derived unit of temperature for expressing Celsius temperature’;
+(c)
+in Chapter I, point 1.2, the title shall be replaced by the following:
+‘1.2.   SI derived units’;
+
+(d)
+in Chapter I, point 1.2.1 shall be deleted;
+(e)
+in Chapter I, points 1.2.2 and 1.2.3 shall be replaced by the following:
+‘1.2.2.   General rule for SI derived units
+Units derived coherently from SI base units are given as algebraic expressions in the form of products of powers of the SI base units with a numerical factor equal to 1.
+1.2.3.   SI derived units with special names and symbols
+Quantity
+Unit
+Expression
+Name
+Symbol
+In terms of other SI units
+In terms of SI base units
+Plane angle
+radian
+rad
+ 
+m · m–1
+
+Solid angle
+steradian
+sr
+ 
+m2 · m–2
+
+Frequency
+hertz
+Hz
+ 
+s–1
+
+Force
+newton
+N
+ 
+m · kg · s–2
+
+Pressure, stress
+pascal
+Pa
+N · m–2
+
+m–1 · kg · s–2
+
+Energy, work; quantity of heat
+joule
+J
+N · m
+m2 · kg · s–2
+
+Power (5), radiant flux
+watt
+W
+J · s–1
+
+m2 · kg · s–3
+
+Quantity of electricity, electric charge
+coulomb
+C
+ 
+s · A
+Electric potential, potential difference, electromotive force
+volt
+V
+W · A–1
+
+m2 · kg · s–3 · A–1
+
+Electric resistance
+ohm
+Ω
+V · A–1
+
+m2 · kg · s–3 · A–2
+
+Conductance
+siemens
+S
+A · V–1
+
+m–2 · kg–1 · s3 · A2
+
+Capacitance
+farad
+F
+C · V–1
+
+m–2 · kg–1 · s4 · A2
+
+Magnetic flux
+weber
+Wb
+V · s
+m2 · kg · s–2 · A–1
+
+Magnetic flux density
+tesla
+T
+Wb · m–2
+
+kg · s–2 · A–1
+
+Inductance
+henry
+H
+Wb · A–1
+
+m2 · kg · s–2 · A–2
+
+Luminous flux
+lumen
+lm
+cd · sr
+cd
+Illuminance
+lux
+lx
+lm · m–2
+
+m–2 · cd
+Activity (of a radionuclide)
+becquerel
+Bq
+ 
+s–1
+
+Absorbed dose, specific energy imparted, kerma, absorbed dose index
+gray
+Gy
+J · kg–1
+
+m2 · s–2
+
+Dose equivalent
+sievert
+Sv
+J · kg–1
+
+m2 · s–2
+
+Catalytic activity
+katal
+kat
+ 
+mol · s–1
+
+Units derived from SI base units may be expressed in terms of the units listed in Chapter I.
+In particular, derived SI units may be expressed by the special names and symbols given in the above table; for example, the SI unit of dynamic viscosity may be expressed as m–1 · kg · s–1 or N · s · m–2 or Pa · s.’;
+(f)
+in Chapter II, the following row shall be deleted from the table:
+‘Land registration
+acre
+1 ac = 4 047  m2
+
+ac’
+(g)
+in Chapter II, the final sentence shall be replaced by the following: ‘The units listed in this Chapter may be combined with each other or with those in Chapter I to form compound units.’

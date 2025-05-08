@@ -1,0 +1,19 @@
+Article 27
+Registry of entities
+1.   ENISA shall create and maintain a registry of DNS service providers, TLD name registries, entities providing domain name registration services, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines and of social networking services platforms, on the basis of the information received from the single points of contact in accordance with paragraph 4. Upon request, ENISA shall allow the competent authorities access to that registry, while ensuring that the confidentiality of information is protected where applicable.
+2.   Member States shall require entities referred to in paragraph 1 to submit the following information to the competent authorities by 17 January 2025:
+(a)
+the name of the entity;
+(b)
+the relevant sector, subsector and type of entity referred to in Annex I or II, where applicable;
+(c)
+the address of the entity’s main establishment and its other legal establishments in the Union or, if not established in the Union, of its representative designated pursuant to Article 26(3);
+(d)
+up-to-date contact details, including email addresses and telephone numbers of the entity and, where applicable, its representative designated pursuant to Article 26(3);
+(e)
+the Member States where the entity provides services; and
+(f)
+the entity’s IP ranges.
+3.   Member States shall ensure that the entities referred to in paragraph 1 notify the competent authority about any changes to the information they submitted under paragraph 2 without delay and in any event within three months of the date of the change.
+4.   Upon receipt of the information referred to in paragraphs 2 and 3, except for that referred to in paragraph 2, point (f), the single point of contact of the Member State concerned shall, without undue delay, forward it to ENISA.
+5.   Where applicable, the information referred to in paragraphs 2 and 3 of this Article shall be submitted through the national mechanism referred to in Article 3(4), fourth subparagraph.

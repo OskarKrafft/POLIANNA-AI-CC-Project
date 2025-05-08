@@ -1,0 +1,76 @@
+Article 60
+Provision of crypto-asset services by certain financial entities
+1.   A credit institution may provide crypto-asset services if it notifies the information referred to in paragraph 7 to the competent authority of its home Member State at least 40 working days before providing those services for the first time.
+2.   A central securities depository authorised under Regulation (EU) No 909/2014 of the European Parliament and of the Council (45) shall only provide custody and administration of crypto-assets on behalf of clients if it notifies the information referred to in paragraph 7 of this Article to the competent authority of the home Member State, at least 40 working days before providing that service for the first time.
+For the purposes of the first subparagraph of this paragraph, providing custody and administration of crypto-assets on behalf of clients is deemed equivalent to providing, maintaining or operating securities accounts in relation to the settlement service referred to in Section B, point (3), of the Annex to Regulation (EU) No 909/2014.
+3.   An investment firm may provide crypto-asset services in the Union equivalent to the investment services and activities for which it is specifically authorised under Directive 2014/65/EU if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time.
+For the purposes of this paragraph:
+(a)
+providing custody and administration of crypto-assets on behalf of clients is deemed equivalent to the ancillary service referred to in Section B, point (1), of Annex I to Directive 2014/65/EU;
+(b)
+the operation of a trading platform for crypto-assets is deemed equivalent to the operation of a multilateral trading facility and operation of an organised trading facility referred to in Section A, points (8) and (9), respectively, of Annex I to Directive 2014/65/EU;
+(c)
+the exchange of crypto-assets for funds and other crypto-assets is deemed equivalent to dealing on own account referred to in Section A, point (3), of Annex I to Directive 2014/65/EU;
+(d)
+the execution of orders for crypto-assets on behalf of clients is deemed equivalent to the execution of orders on behalf of clients referred to in Section A, point (2), of Annex I to Directive 2014/65/EU;
+(e)
+the placing of crypto-assets is deemed equivalent to the underwriting or placing of financial instruments on a firm commitment basis and placing of financial instruments without a firm commitment basis referred to in Section A, points (6) and (7), respectively, of Annex I to Directive 2014/65/EU;
+(f)
+the reception and transmission of orders for crypto-assets on behalf of clients is deemed equivalent to the reception and transmission of orders in relation to one or more financial instruments referred to in Section A, point (1), of Annex I to Directive 2014/65/EU;
+(g)
+providing advice on crypto-assets is deemed equivalent to investment advice referred to in Section A, point (5), of Annex I to Directive 2014/65/EU;
+(h)
+providing portfolio management on crypto-assets is deemed equivalent to portfolio management referred to in Section A, point (4), of Annex I to Directive 2014/65/EU.
+4.   An electronic money institution authorised under Directive 2009/110/EC shall only provide custody and administration of crypto-assets on behalf of clients and transfer services for crypto-assets on behalf of clients with regard to the e-money tokens it issues if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time.
+5.   A UCITS management company or an alternative investment fund manager may provide crypto-asset services equivalent to the management of portfolios of investment and non-core services for which it is authorised under Directive 2009/65/EC or Directive 2011/61/EU if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time.
+For the purposes of this paragraph:
+(a)
+the reception and transmission of orders for crypto-assets on behalf of clients is deemed equivalent to the reception and transmission of orders in relation to financial instruments referred in Article 6(4), point (b)(iii), of Directive 2011/61/EU;
+(b)
+providing advice on crypto-assets is deemed equivalent to investment advice referred to in Article 6(4), point (b)(i), of Directive 2011/61/EU and in Article 6(3), point (b)(i), of Directive 2009/65/EC;
+(c)
+providing portfolio management on crypto-assets is deemed equivalent to the services referred to in Article 6(4), point (a), of Directive 2011/61/EU and in Article 6(3), point (a), of Directive 2009/65/EC.
+6.   A market operator authorised under Directive 2014/65/EU may operate a trading platform for crypto-assets if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time.
+7.   For the purposes of paragraphs 1 to 6, the following information shall be notified:
+(a)
+a programme of operations setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;
+(b)
+a description of:
+(i)
+the internal control mechanisms, policies and procedures to ensure compliance with the provisions of national law transposing Directive (EU) 2015/849;
+(ii)
+the risk assessment framework for the management of money laundering and terrorist financing risks; and
+(iii)
+the business continuity plan;
+(c)
+the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;
+(d)
+a description of the procedure for the segregation of clients’ crypto-assets and funds;
+(e)
+a description of the custody and administration policy, where it is intended to provide custody and administration of crypto-assets on behalf of clients;
+(f)
+a description of the operating rules of the trading platform and of the procedures and system to detect market abuse, where it is intended to operate a trading platform for crypto-assets;
+(g)
+a description of the non-discriminatory commercial policy governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets they propose to exchange for funds or other crypto-assets, where it is intended to exchange crypto-assets for funds or other crypto-assets;
+(h)
+a description of the execution policy, where it is intended to execute orders for crypto-assets on behalf of clients;
+(i)
+evidence that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations, where it is intended to provide advice on crypto-assets or provide portfolio management on crypto-assets;
+(j)
+whether the crypto-asset service relates to asset-referenced tokens, e-money tokens or other crypto-assets;
+(k)
+information on the manner in which such transfer services will be provided, where it is intended to provide transfer services for crypto-assets on behalf of clients.
+8.   A competent authority receiving a notification as referred to in paragraphs 1 to 6 shall, within 20 working days of receipt of such notification, assess whether all required information has been provided. Where the competent authority concludes that a notification is not complete, it shall immediately inform the notifying entity thereof and set a deadline by which that entity is required to provide the missing information.
+The deadline for providing any missing information shall not exceed 20 working days from the date of the request. Until the expiry of that deadline, each period as set out in paragraphs 1 to 6 shall be suspended. Any further requests by the competent authority for completion or clarification of the information shall be at its discretion but shall not result in a suspension of any period set out in paragraphs 1 to 6.
+The crypto-asset service provider shall not begin providing the crypto-asset services as long as the notification is incomplete.
+9.   The entities referred to in paragraphs 1 to 6 shall not be required to submit any information referred to in paragraph 7 that was previously submitted by them to the competent authority where such information would be identical. When submitting the information referred to in paragraph 7, the entities referred to in paragraphs 1 to 6 shall expressly state that any information that was submitted previously is still up-to-date.
+10.   Where the entities referred to in paragraphs 1 to 6 of this Article provide crypto-asset services, they shall not be subject to Articles 62, 63, 64, 67, 83 and 84.
+11.   The right to provide crypto-asset services referred to in paragraphs 1 to 6 of this Article shall be revoked upon the withdrawal of the relevant authorisation that enabled the respective entity to provide the crypto-asset services without being required to obtain an authorisation pursuant to Article 59.
+12.   Competent authorities shall communicate to ESMA the information specified in Article 109(5), after verifying the completeness of the information referred to in paragraph 7.
+ESMA shall make such information available in the register referred to in Article 109 by the starting date of the intended provision of crypto-asset services.
+13.   ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify the information referred to in paragraph 7.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+14.   ESMA, in close cooperation with EBA, shall develop draft implementing technical standards to establish standard forms, templates and procedures for the notification pursuant to paragraph 7.
+ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

@@ -1,0 +1,24 @@
+Article 25
+Registers
+1.   To contribute to efficient administration with respect to issuing, renewing, suspending and withdrawing certificates of qualification, Member States shall keep registers of the Union certificates of qualification, service record books and logbooks issued under their authority in accordance with this Directive and, where relevant, of documents recognised pursuant to Article 10(2) which have been issued, renewed, suspended or withdrawn, which have been reported lost, stolen or destroyed, or which have expired.
+For Union certificates of qualification, registers shall include the data appearing on the Union certificates of qualification and the issuing authority.
+For service record books, registers shall include the name of the holder and his identification number, the service record book identification number, the date of issuance and the issuing authority.
+For logbooks, registers shall include the name of the craft, the European Number of Identification or European Vessel Identification Number (ENI number), the logbook identification number, the date of issuance and the issuing authority.
+The Commission is empowered to adopt delegated acts in accordance with Article 31 in order to supplement the information in the registers for service record books and logbooks with other information required by the models of service record books and logbooks adopted pursuant to Article 22(4), with the objective of further facilitating the exchange of information between Member States.
+2.   For the purpose of implementing, enforcing and evaluating this Directive, for maintaining safety, for ease of navigation, as well as for statistical purposes, and in order to facilitate the exchange of information between the authorities that implement this Directive, Member States shall reliably record without delay data related to the certificates of qualification, service record books and logbooks referred to in paragraph 1 in a database kept by the Commission.
+The Commission is empowered to adopt delegated acts in accordance with Article 31 to provide the standards laying down the characteristics of such a database and the conditions for its use, specifying in particular:
+(a)
+the instructions for encoding data into the database;
+(b)
+the access rights of the users, differentiated where appropriate according to the type of users, the type of access and the purpose for which the data is used;
+(c)
+the maximum duration that data is retained in accordance with paragraph 3 of this Article, differentiated where appropriate according to the type of document;
+(d)
+the instructions regarding the operation of the database and its interaction with the registers referred to in paragraph 1 of this Article.
+3.   Any personal data included in the registers referred to in paragraph 1 or in the database referred to in paragraph 2 shall be stored for no longer than is necessary for the purposes for which the data were collected or for which they are further processed pursuant to this Directive. Once such data are no longer needed for those purposes, they shall be destroyed.
+4.   The Commission may provide access to the database to an authority of a third country or to an international organisation in so far as this is necessary for the purposes referred to in paragraph 2 of this Article, provided that:
+(a)
+the requirements of Article 9 of Regulation (EC) No 45/2001 are fulfilled; and
+(b)
+the third country or the international organisation does not limit access by Member States or by the Commission to its corresponding database.
+The Commission shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation without the Commission’s express written authorisation and under the conditions specified by the Commission.

@@ -1,0 +1,5 @@
+Article 43
+Legal risks
+1.   For the purpose of its authorisation and supervision, as well as for the information of its clients, a CSD shall have rules, procedures, and contracts that are clear and understandable for all the securities settlement systems that it operates and all other services that it provides.
+2.   A CSD shall design its rules, procedures and contracts so that they are enforceable in all relevant jurisdictions, including in the case of the default of a participant.
+3.   A CSD conducting business in different jurisdictions shall take all reasonable steps to identify and mitigate the risks arising from potential conflicts of law across jurisdictions.

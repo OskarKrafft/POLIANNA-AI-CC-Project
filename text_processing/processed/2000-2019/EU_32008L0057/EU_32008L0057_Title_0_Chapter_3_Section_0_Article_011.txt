@@ -1,0 +1,7 @@
+Article 11
+Conformity or suitability for use
+1.   Member States shall consider those interoperability constituents which bear the ‘EC’ declaration of conformity or suitability for use as complying with the essential requirements of this Directive.
+2.   All interoperability constituents shall be subject to the procedure for assessing conformity and suitability for the use indicated in the relevant TSI and shall be accompanied by the corresponding certificate.
+3.   Member States shall consider that an interoperability constituent meets the essential requirements if it complies with the conditions laid down by the corresponding TSI or the corresponding European specifications developed to comply with these conditions.
+4.   Spare parts for subsystems that are already placed in service when the corresponding TSI enters into force may be installed in these subsystems without being subject to the procedure referred to in paragraph 2.
+5.   TSIs may provide for a period of transition for rail products identified by those TSIs as interoperability constituents which have already been placed on the market when the TSIs enter into force. Such constituents shall satisfy the requirements of Article 10(1).

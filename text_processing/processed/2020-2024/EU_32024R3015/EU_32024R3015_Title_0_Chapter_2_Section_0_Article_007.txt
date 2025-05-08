@@ -1,0 +1,16 @@
+Article 7
+Information and communication systems
+1.   For the purposes of Chapters I, III, IV and V of this Regulation, the Commission and competent authorities shall use the information and communication system referred to in Article 34 of Regulation (EU) 2019/1020 in accordance with the implementing act referred to in paragraph 7, point (a), of this Article. The Commission, competent authorities and customs authorities shall have access to that system for the purposes of this Regulation.
+2.   Decisions communicated pursuant to Article 26(3) shall be entered in the relevant customs risk management environment.
+3.   The Commission shall develop an interconnection to enable the automated communication of the decisions referred to in Article 26(3) from the information and communication system referred to in paragraph 1 of this Article to the environment referred to in paragraph 2 of this Article. That interconnection shall start operating no later than 2 years from the date of the adoption of the implementing act referred to in paragraph 7, point (b), of this Article.
+4.   Requests and notifications between competent authorities and customs authorities pursuant to Chapter V, Section II, as well as the ensuing messages shall be exchanged via the information and communication system referred to in paragraph 1.
+5.   An interconnection between the information and communication system referred to in paragraph 1 and the EU Single Window Environment for Customs shall be established in accordance with Regulation (EU) 2022/2399 for the purposes of exchanging requests and notifications between customs and competent authorities pursuant to Chapter V, Section II of this Regulation. That interconnection shall be established at the latest within 4 years from the date of adoption of the implementing act referred to in paragraph 7, point (a). The requests, notifications and ensuing messages referred to in paragraph 4 shall be exchanged through that interconnection as soon as it is operational.
+6.   The Commission may extract, from the surveillance system referred to in Article 56(1) of Implementing Regulation (EU) 2015/2447, information on products entering or leaving the Union market related to the implementation of this Regulation and transmit it to the information and communication system referred to in paragraph 1 of this Article.
+7.   The Commission may adopt implementing acts to specify the procedural rules and the details of the implementation arrangements for this Article, including:
+(a)
+the functionalities, data elements and data processing, as well as the rules on the processing of personal data, confidentiality and controllership of the information and communication system referred to in paragraph 1;
+(b)
+the functionalities, data elements and data processing, as well as the rules on the processing of personal data, confidentiality and controllership for the interconnection referred to in paragraph 3;
+(c)
+the data to be transmitted, as well as the rules on its confidentiality and controllership, in accordance with paragraph 6.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 35(2).

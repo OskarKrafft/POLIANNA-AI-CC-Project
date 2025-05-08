@@ -1,0 +1,16 @@
+Article 64
+Supply alerts for critical SoHO
+1.   Critical SoHO entities shall, without undue delay, send a SoHO supply alert to their SoHO competent authorities in the event of significant shortages of supply of critical SoHO, indicating the underlying reasons, the expected impact on recipients and any mitigating actions taken, including in relation to possible alternative supply channels if appropriate.
+Shortages shall be considered significant when:
+(a)
+the human application of critical SoHO or the distribution of critical SoHO for the manufacture of products regulated by other Union legislation, as referred to in Article 2(6), is cancelled or postponed, or there is a significant risk of being cancelled or postponed, due to unavailability; and
+(b)
+the situation referred to in point (a) poses a serious risk to human health.
+2.   SoHO competent authorities that receive a SoHO supply alert referred to in paragraph 1 of this Article shall:
+(a)
+communicate that SoHO supply alert to their SoHO national authority;
+(b)
+implement appropriate measures to mitigate the risks, to the extent possible; and
+(c)
+take into account the information received in accordance with paragraph 1 of this Article in the review of the national SoHO emergency plans referred to in Article 63.
+3.   The SoHO national authorities shall submit, without undue delay, to the EU SoHO Platform the SoHO supply alert received in cases where the supply interruption might affect other Member States and may do so where such interruption might be addressed through cooperation, including through exchange of SoHO, between Member States as referred to in Article 63(3), point (e).

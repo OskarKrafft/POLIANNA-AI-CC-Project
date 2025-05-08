@@ -1,0 +1,11 @@
+Article 20
+Conditions for resolution with regard to parent undertakings and holding companies
+1.   Member States shall ensure that resolution authorities may take resolution action in relation to any of the entities referred to in Article 1(1), points (b) to (e), where that entity meets the conditions laid down in Article 19(1), mutatis mutandis.
+2.   Where the subsidiary insurance or reinsurance undertakings of a mixed-activity insurance holding company are held directly or indirectly by an intermediate insurance holding company, Member States shall ensure that resolution actions for the purposes of group resolution are taken in relation to the intermediate insurance holding company, and shall not take resolution actions for the purposes of group resolution in relation to the mixed-activity insurance holding company.
+3.   Subject to paragraph 2, resolution authorities may take resolution action with regard to any of the entities referred to in Article 1(1), points (c) to (e), even where those entities do not meet the conditions laid down in paragraph 1 of this Article, where all of the following conditions apply:
+(a)
+one or more of the subsidiary insurance or reinsurance undertakings meet the conditions established in Article 19(1);
+(b)
+the assets and liabilities of the subsidiary insurance or reinsurance undertakings are such that their failure threatens another insurance or reinsurance undertaking of the group or the group as a whole, or the insolvency law of the Member State requires that groups be treated as a whole;
+(c)
+resolution action with regard to the entities referred to in Article 1(1), points (c) to (e), is necessary for the resolution of the subsidiary insurance or reinsurance undertakings or for the resolution of the group as a whole.

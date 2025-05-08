@@ -1,0 +1,7 @@
+Article 83
+Market risk
+1.   Competent authorities shall ensure that policies and processes for the identification, measurement and management of all material sources and effects of market risks are implemented.
+2.   Where the short position falls due before the long position, competent authorities shall ensure that institutions also take measures against the risk of a shortage of liquidity.
+3.   The internal capital shall be adequate for material market risks that are not subject to an own funds requirement.
+Institutions, which have, in calculating own funds requirements for position risk in accordance with Part Three, Title IV, Chapter 2, of Regulation (EU) No 575/2013, netted off their positions in one or more of the equities constituting a stock-index against one or more positions in the stock-index future or other stock-index product shall have adequate internal capital to cover the basis risk of loss caused by the future's or other product's value not moving fully in line with that of its constituent equities. Institutions shall also have such adequate internal capital where they hold opposite positions in stock-index futures which are not identical in respect of either their maturity or their composition or both.
+Where using the treatment in Article 345 of Regulation (EU) No 575/2013, institutions shall ensure that they hold sufficient internal capital against the risk of loss which exists between the time of the initial commitment and the following working day.

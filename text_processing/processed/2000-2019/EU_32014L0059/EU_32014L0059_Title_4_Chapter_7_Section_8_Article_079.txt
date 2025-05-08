@@ -1,0 +1,12 @@
+Article 79
+Protection for structured finance arrangements and covered bonds
+1.   Member States shall ensure that there is appropriate protection for structured finance arrangements including arrangements referred to in points (e) and (f) of Article 76(2) so as to prevent either of the following:
+(a)
+the transfer of some, but not all, of the assets, rights and liabilities which constitute or form part of a structured finance arrangement, including arrangements referred to in points (e) and (f) of Article 76(2), to which the institution under resolution is a party;
+(b)
+the termination or modification through the use of ancillary powers of the assets, rights and liabilities which constitute or form part of a structured finance arrangement, including arrangements referred to in points (e) and (f) of Article 76(2), to which the institution under resolution is a party.
+2.   Notwithstanding paragraph 1, where necessary in order to ensure availability of the covered deposits the resolution authority may:
+(a)
+transfer covered deposits which are part of any of the arrangements mentioned in paragraph 1 without transferring other assets, rights or liabilities that are part of the same arrangement, and
+(b)
+transfer, modify or terminate those assets, rights or liabilities without transferring the covered deposits.

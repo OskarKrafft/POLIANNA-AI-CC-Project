@@ -1,0 +1,28 @@
+Article 4
+Engine categories
+1.   For the purposes of this Regulation, the following engine categories, divided into the sub-categories set out in Annex I, apply:
+(1)   ‘category NRE’: 
+(a)
+engines for non-road mobile machinery intended and suited to move, or to be moved, by road or otherwise, that are not excluded under Article 2(2) and are not included in any other category set out in points (2) to (10) of this paragraph;
+(b)
+engines having a reference power of less than 560 kW used in the place of Stage V engines of categories IWP, IWA, RLL or RLR;
+(2)   ‘category NRG’: engines having a reference power that is greater than 560 kW, exclusively for use in generating sets; engines for generating sets other than those having those characteristics are included in the categories NRE or NRS, according to their characteristics;
+(3)   ‘category NRSh’: hand-held SI engines having a reference power that is less than 19 kW, exclusively for use in hand-held machinery;
+(4)   ‘category NRS’: SI engines having a reference power that is less than 56 kW and not included in category NRSh;
+(5)   ‘category IWP’: 
+(a)
+engines exclusively for use in inland waterway vessels, for their direct or indirect propulsion, or intended for their direct or indirect propulsion, having a reference power that is greater than or equal to 19 kW;
+(b)
+engines used in place of engines of category IWA provided that they comply with Article 24(8);
+(6)   ‘category IWA’: auxiliary engines exclusively for use in inland waterway vessels and having a reference power that is greater than or equal to 19 kW;
+(7)   ‘category RLL’: engines exclusively for use in locomotives, for their propulsion or intended for their propulsion;
+(8)   ‘category RLR’: 
+(a)
+engines exclusively for use in railcars, for their propulsion or intended for their propulsion;
+(b)
+engines used in the place of Stage V engines of category RLL;
+(9)   ‘category SMB’: SI engines exclusively for use in snowmobiles; engines for snowmobiles other than SI engines are included in the category NRE;
+(10)   ‘category ATS’: SI engines exclusively for use in ATVs and SbS; engines for ATVs and SbS other than SI engines are included in the category NRE.
+2.   A variable-speed engine of a particular category may be used in the place of a constant-speed engine of the same category.
+Variable-speed engines of category IWP used for constant-speed operation shall additionally comply with Article 24(7) or Article 24(8), as applicable.
+3.   Engines for auxiliary railway vehicles and auxiliary engines for railcars and locomotives are included in the categories NRE or NRS, according to their characteristics.

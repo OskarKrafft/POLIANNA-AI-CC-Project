@@ -1,0 +1,42 @@
+Article 76
+Digital product passport
+1.   The information in the digital product passport shall be accurate, complete, and up-to-date.
+2.   A digital product passport for a product under this Regulation shall:
+(a)
+include the following information:
+(i)
+the declaration of performance and conformity referred to in Article 15, including the information referred to in Article 15(6) which can be included through a connection to other Union databases where it is available and the documentation provided together in accordance with Annex V;
+(ii)
+the general product information, instructions for use and safety information referred to in Article 22(6);
+(iii)
+the technical documentation referred to in Article 22(3) including the specific sections required pursuant to Articles 59 to 61;
+(iv)
+the label in accordance with Article 22(9);
+(v)
+unique identifiers issued in accordance with Article 79(1);
+(vi)
+documentation required under other Union law applicable to the product;
+(vii)
+data carriers of key parts for which a digital product passport is available;
+(b)
+be connected to one or more data carriers;
+(c)
+be accessible by electronic means through the data carrier displayed, in accordance with Article 18(2), point (g);
+(d)
+correspond to the product type and its unique identification code referred to in Article 22(5);
+(e)
+be accessible free of charge to all economic operators, clients, users and authorities through the data carrier;
+(f)
+give different levels of access to the construction digital product passport system;
+(g)
+allow actors specified in the construction digital product passport system to introduce or to update the information in the digital product passport;
+(h)
+be accessible for an established period after the last product corresponding to its product type has been placed on the market.
+3.   The requirements referred to in paragraph 2 shall:
+(a)
+ensure that actors along the value chain can easily access and understand product information relevant to them;
+(b)
+facilitate the verification of product compliance by competent national authorities; and
+(c)
+improve traceability of products along the value chain.
+4.   Products in respect of which the exemption established in Article 14 is applied are also exempt from the obligation to provide a digital product passport.

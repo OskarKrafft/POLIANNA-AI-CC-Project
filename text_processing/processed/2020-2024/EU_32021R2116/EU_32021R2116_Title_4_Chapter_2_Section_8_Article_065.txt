@@ -1,0 +1,18 @@
+Article 65
+Scope and definitions relating to this Chapter
+1.   Each Member State shall set up and operate an integrated administration and control system (the ‘integrated system’).
+2.   The integrated system shall apply to the area- and animal-based interventions listed in Title III, Chapters II and IV, of Regulation (EU) 2021/2115 and to the measures referred to in Chapter IV of Regulation (EU) No 228/2013 and in Chapter IV of Regulation (EU) No 229/2013.
+3.   To the extent necessary, the integrated system shall also be used for the management and control of conditionality and interventions in the wine sector as laid down in Title III of Regulation (EU) 2021/2115.
+4.   For the purposes of this Chapter, the following definitions apply:
+(a)
+‘geo-spatial application’ means an electronic application form that includes an information technology application based on a geographic information system that allows beneficiaries to spatially declare the agricultural parcels of the holding as defined in Article 3, point (2), of Regulation (EU) 2021/2115 and non-agricultural areas claimed for payment;
+(b)
+‘area monitoring system’ means a procedure of regular and systematic observation, tracking and assessment of agricultural activities and practices on agricultural areas by Copernicus Sentinels satellite data or other data with at least equivalent value;
+(c)
+‘system for the identification and registration of animals’ means the system for the identification and registration of kept terrestrial animals laid down by Part IV, Title I, Chapter 2, Section 1, of Regulation (EU) 2016/429 of the European Parliament and of the Council (31);
+(d)
+‘agricultural parcel’ means a unit, defined by Member States, of agricultural area as determined in accordance with Article 4(3) of Regulation (EU) 2021/2115;
+(e)
+‘geographic information system’ means a computer system capable of capturing, storing, analysing, and displaying geographically referenced information;
+(f)
+‘automatic claim system’ means an application system for area- or animal-based interventions in which the data required by the administration on at least individual areas or animals claimed for aid are available in official computerised databases managed by the Member State and made available to the beneficiary where necessary.

@@ -1,0 +1,35 @@
+Article 20
+Amendments to Directive 96/53/EC
+Directive 96/53/EC is amended as follows:
+(1)
+in Article 2, the following definition is inserted after the definition of ‘alternatively fuelled vehicle’:
+‘—
+“zero-emission vehicle” shall mean a zero-emission heavy-duty vehicle as defined in point (11) of Article 3 of Regulation (EU) 2019/1242 of the European Parliament and of the Council (*5).
+
+(*5)  Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;"
+                        
+(2)
+Article 10b is replaced by the following:
+‘Article 10b
+The maximum authorised weights of alternatively fuelled or zero-emission vehicles shall be those set out in points 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3.1, 2.3.2 and 2.4 of Annex I.
+Alternatively fuelled or zero-emission vehicles shall also comply with the maximum authorised axle weight limits set out in point 3 of Annex I.
+The additional weight required by alternatively fuelled or zero-emission vehicles shall be defined on the basis of the documentation provided by the manufacturer when the vehicle in question is approved. That additional weight shall be indicated in the official proof required in accordance with Article 6.
+The Commission shall be empowered to adopt delegated acts in accordance with Article 10h to update, for the purposes of this Directive, the list of alternative fuels referred to in Article 2 that require additional weight. It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States’ experts, before adopting those delegated acts.’;
+(3)
+Annex I is amended as follows:
+(a)
+the following subparagraph is added to the second column of points 2.2.1, 2.2.2, 2.2.3 and 2.2.4:
+
+                                          ‘In the case of vehicle combinations including alternatively fuelled or zero-emission vehicles, the maximum authorised weights provided for in this section shall be increased by the additional weight of the alternative fuel or zero-emission technology with a maximum of 1 tonne and 2 tonnes respectively.’;
+(b)
+the following subparagraph is added to the second column of point 2.3.1:
+
+                                          ‘Zero-emission vehicles: the maximum authorised weight of 18 tonnes is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’;
+(c)
+the following subparagraph is added to the third column of point 2.3.2:
+
+                                          ‘Three-axle zero-emission vehicles: the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the Union as defined in Annex II or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’;
+(d)
+the following subparagraph is added to the third column of point 2.4:
+
+                                          ‘Three-axle articulated buses that are zero-emission vehicles: the maximum authorised weight of 28 tonnes is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’.

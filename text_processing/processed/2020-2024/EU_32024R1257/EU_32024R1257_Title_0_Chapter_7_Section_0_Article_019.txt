@@ -1,0 +1,25 @@
+Article 19
+Amendment to Regulation (EU) 2018/858
+Article 84 of Regulation (EU) 2018/858 is amended as follows:
+(1)
+paragraph 1 is replaced by the following:
+‘1.   Member States shall lay down the rules on penalties applicable to infringements by economic operators, independent operators, and technical services of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. In particular, those penalties shall be proportionate to the seriousness of the non-compliance and to the number of non-compliant vehicles, systems, components or separate technical units made available on the market of the Member State concerned. Member States shall notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.’;
+(2)
+paragraph 3 is replaced by the following:
+‘3.   In addition to the types of infringements set out in paragraph 2, the types of infringements by economic operators that are also subject to penalties shall be at least the following:
+(a)
+refusal to provide access to information;
+(b)
+making available on the market vehicles, systems, components or separate technical units subject to approval without such approval, or falsifying documents, certificates of conformity, statutory plates or approval marks with that intention;
+(c)
+tampering with the vehicle and its systems.’;
+(3)
+the following paragraphs are inserted:
+‘3a.   In additional to the types of infringements set out in paragraphs 2 and 3, the types of infringements by manufacturers that are also subject to penalties shall be at least the following:
+(a)
+falsifying test results for in-service conformity under emission type-approval;
+(b)
+designing, constructing and assembling vehicles with manipulation devices or manipulation strategies, which cause a non-compliant vehicle to appear compliant with this Regulation;
+(c)
+designing, constructing and assembling vehicles of categories M1, M2, M3, N1, N2 and N3 without the required excess exhaust emissions driver warning systems or low-reagent driver warning systems.
+3b.   The types of infringements by independent operators subject to penalties shall include at least tampering with the vehicle and its systems.’.

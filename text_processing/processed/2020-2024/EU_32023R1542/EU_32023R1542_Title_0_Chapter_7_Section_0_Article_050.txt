@@ -1,0 +1,18 @@
+Article 50
+Risk management obligations
+1.   The economic operator referred to in Article 48(1) shall:
+(a)
+identify and assess the risk of adverse impacts in its supply chain, associated with the risk categories listed in point 2 of Annex X as part of its management plan, including on the basis of the information provided pursuant to Article 49 and any other relevant information that is either publicly available or provided by stakeholders, by reference to its battery due diligence policy;
+(b)
+design and implement a strategy to respond to the identified risks to prevent, mitigate and otherwise address adverse impacts by:
+(i)
+reporting findings of its risk assessment to its top management level assigned in accordance with Article 49(1), point (c);
+(ii)
+adopting risk management measures that are consistent with the internationally recognised due diligence instruments listed in point 4 of Annex X, considering its ability to influence, and where necessary take steps to exert pressure on, suppliers, including their subsidiaries and subcontractors, who can most effectively prevent or mitigate the identified risk;
+(iii)
+designing and implementing a risk management plan, monitoring and tracking performance of risk mitigation efforts, reporting back to its top management level assigned in accordance with Article 49(1), point (c), and considering suspending or discontinuing engagement with a supplier or its subsidiary or subcontractor after failed attempts at mitigation, based on relevant contracts and agreements referred to in Article 49(1), point (e);
+(iv)
+undertaking additional fact and risk assessments for risks requiring mitigation, or after a change of circumstances.
+2.   If the economic operator referred to in Article 48(1) pursues risk mitigation efforts while continuing trade or temporarily suspending trade, it shall consult with suppliers and with the stakeholders concerned, including local and national government authorities, international or civil society organisations and affected third parties such as local communities, before establishing a strategy for measurable risk mitigation in the risk management plan referred to in paragraph 1, point (b)(iii), of this Article.
+3.   The economic operator referred to in Article 48(1) shall identify and assess the probability of adverse impacts in the risk categories listed in point 2 of Annex X, in its supply chain. That economic operator shall identify and assess the risks in its supply chain as part of its own risk management systems. The economic operator shall carry out third party verifications of its own due diligence chains via a notified body in accordance with Article 51. The economic operator may use third-party verification reports issued pursuant to Article 51(2) by such a notified body concerning battery due diligence policies implemented by suppliers in that chain in accordance with this Chapter. The economic operator may also use those third-party verification reports to assess, as appropriate, the due diligence practices of those suppliers.
+4.   The economic operator referred to in Article 48(1) shall report the findings of the risk assessment referred to in paragraph 3 of this Article to its top management level to which responsibility has been assigned in accordance with Article 49(1), point (c), and shall implement the strategy referred to in paragraph 1, point (b), of this Article.

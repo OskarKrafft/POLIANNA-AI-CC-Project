@@ -1,0 +1,21 @@
+Article 31
+International access and transfer
+1.   The public sector body, the natural or legal person to which the right to re-use data was granted under Chapter II, the data intermediation services provider or the recognised data altruism organisation shall take all reasonable technical, legal and organisational measures, including contractual arrangements, in order to prevent international transfer or governmental access to non-personal data held in the Union where such transfer or access would create a conflict with Union law or the national law of the relevant Member State, without prejudice to paragraph 2 or 3.
+2.   Any decision or judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a public sector body, a natural or legal person to which the right to re-use data was granted under Chapter II, a data intermediation services provider or recognised data altruism organisation to transfer or give access to non-personal data within the scope of this Regulation held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or any such agreement between the requesting third country and a Member State.
+3.   In the absence of an international agreement as referred to in paragraph 2 of this Article, where a public sector body, a natural or legal person to which the right to re-use data was granted under Chapter II, a data intermediation services provider or recognised data altruism organisation is the addressee of a decision or judgment of a third-country court or tribunal or a decision of a third-country administrative authority to transfer or give access to non-personal data within the scope of this Regulation held in the Union and compliance with such a decision would risk putting the addressee in conflict with Union law or with the national law of the relevant Member State, transfer to or access to such data by that third-country authority shall take place only where:
+(a)
+the third-country system requires the reasons and proportionality of such a decision or judgment to be set out and requires such a decision or judgment to be specific in character, for instance by establishing a sufficient link to certain suspected persons or infringements;
+(b)
+the reasoned objection of the addressee is subject to a review by a competent third-country court or tribunal; and
+(c)
+the competent third-country court or tribunal issuing the decision or judgment or reviewing the decision of an administrative authority is empowered under the law of that third country to take duly into account the relevant legal interests of the provider of the data protected under Union law or the national law of the relevant Member State.
+4.   If the conditions laid down in paragraph 2 or 3 are met, the public sector body, the natural or legal person to which the right to re-use data was granted under Chapter II, the data intermediation services provider or the recognised data altruism organisation shall provide the minimum amount of data permissible in response to a request, based on a reasonable interpretation of the request.
+5.   The public sector body, the natural or legal person to which the right to re-use data was granted under Chapter II, the data intermediation services provider and the recognised data altruism organisation shall inform the data holder about the existence of a request of a third-country administrative authority to access its data before complying with that request, except where the request serves law enforcement purposes and for as long as this is necessary to preserve the effectiveness of the law enforcement activity.
+
+CHAPTER VIII
+
+
+
+Delegation and committee procedure
+
+

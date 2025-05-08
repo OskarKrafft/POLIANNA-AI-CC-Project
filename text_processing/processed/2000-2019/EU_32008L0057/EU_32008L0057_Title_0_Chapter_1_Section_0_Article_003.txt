@@ -1,0 +1,4 @@
+Article 3
+Overall compatibility
+1.   This Directive concerns the provisions relating to, for each subsystem, the interoperability constituents, the interfaces and procedures as well as the conditions of overall compatibility of the rail system required to achieve its interoperability.
+2.   The provisions of this Directive shall apply without prejudice to any other relevant Community provisions. However, in the case of interoperability constituents, including interfaces, compliance with the essential requirements of this Directive may require the use of individual European specifications drawn up for that purpose.

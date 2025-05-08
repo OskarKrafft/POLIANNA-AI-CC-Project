@@ -1,0 +1,33 @@
+Article 27
+Benchmark statement
+1.   Within two weeks of the inclusion of an administrator in the register referred to in Article 36, the administrator shall publish, by means that ensure fair and easy access, a benchmark statement for each benchmark or, where applicable, for each family of benchmarks, that may be used in the Union in accordance with Article 29.
+Where that administrator begins providing a new benchmark or family of benchmarks that may be used in the Union in accordance with Article 29, the administrator shall publish, within two weeks and by means that ensure a fair and easy access, a benchmark statement for each new benchmark or, where applicable, family of benchmarks.
+The administrator shall review and, where necessary, update the benchmark statement for each benchmark or family of benchmarks in the event of any changes to the information to be provided under this Article and at least every two years.
+The benchmark statement shall:
+(a)
+clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
+(b)
+lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
+(c)
+provide notice of the possibility that factors, including external factors beyond the control of the administrator, may necessitate changes to, or the cessation of, the benchmark; and
+(d)
+advise users that changes to, or the cessation of, the benchmark may have an impact upon the financial contracts and financial instruments that reference the benchmark or the measurement of the performance of investment funds.
+2.   A benchmark statement shall contain at least:
+(a)
+the definitions for all key terms relating to the benchmark;
+(b)
+the rationale for adopting the benchmark methodology and procedures for the review and approval of the methodology;
+(c)
+the criteria and procedures used to determine the benchmark, including a description of the input data, the priority given to different types of input data, the minimum data needed to determine a benchmark, the use of any models or methods of extrapolation and any procedure for rebalancing the constituents of a benchmark's index;
+(d)
+the controls and rules that govern any exercise of judgement or discretion by the administrator or any contributors, to ensure consistency in the use of such judgement or discretion;
+(e)
+the procedures which govern the determination of the benchmark in periods of stress or periods where transaction data sources may be insufficient, inaccurate or unreliable and the potential limitations of the benchmark in such periods;
+(f)
+the procedures for dealing with errors in input data or in the determination of the benchmark, including when a re-determination of the benchmark is required; and
+(g)
+the identification of potential limitations of the benchmark, including its operation in illiquid or fragmented markets and the possible concentration of inputs.
+3.   ESMA shall develop draft regulatory technical standards to specify further the contents of a benchmark statement and the cases in which an update of such statement is required.
+ESMA shall distinguish between the different types of benchmarks and sectors as set out in this Regulation and shall take into account the principle of proportionality.
+ESMA shall submit those draft regulatory technical standards to the Commission by 1 April 2017.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.

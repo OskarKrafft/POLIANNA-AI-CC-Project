@@ -1,0 +1,12 @@
+Article 8
+Technical specification concerning the module data
+1.   The Commission may adopt implementing acts specifying the following technical elements of the data to be provided for each module and the corresponding topic and detailed topic listed in Annex IV:
+(a)
+the list of variables;
+(b)
+the descriptions of variables.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2) not later than 28 February 2019 for the reference year 2020, not later than 31 December 2021 for the reference year 2023 and not later than 31 December 2024 for the reference year 2026.
+2.   When adopting the implementing acts specifying the list of variables in accordance with paragraph 1, the Commission shall ensure that the overall number of core and module variables does not exceed 300 variables in 2020, 470 variables in 2023 and 350 variables in 2026.
+3.   For the years 2023 and 2026, the Commission is empowered to adopt delegated acts in accordance with Article 16 concerning amendments of the detailed topics listed in Annex IV. In exercising its power, the Commission shall ensure that such delegated acts do not significantly increase the burden imposed by the number of variables. In particular, the Commission shall ensure that the delegated acts do not lead to an increase in the number of variables referred to in paragraph 2 of this Article, and that a maximum of 20 % of the detailed topics listed in Annex IV are changed for each module by means of delegated acts. However, if 20 % represents less than one detailed topic then one detailed topic may nevertheless be changed.
+4.   Those delegated acts shall be adopted by 30 September 2021 for the reference year 2023 and by 30 September 2024 for the reference year 2026.
+5.   The implementing acts referred to in paragraphs 1 and 2 and the delegated acts referred to in paragraph 3 shall not impose significant additional costs which result in a disproportionate and unjustified burden on agricultural holdings and on Member States.

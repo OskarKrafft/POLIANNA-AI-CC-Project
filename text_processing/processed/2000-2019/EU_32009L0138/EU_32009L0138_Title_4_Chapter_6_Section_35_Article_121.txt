@@ -1,0 +1,17 @@
+Article 121
+Statistical quality standards
+1.   The internal model, and in particular the calculation of the probability distribution forecast underlying it, shall comply with the criteria set out in paragraphs 2 to 9.
+2.   The methods used to calculate the probability distribution forecast shall be based on adequate, applicable and relevant actuarial and statistical techniques and shall be consistent with the methods used to calculate technical provisions.
+The methods used to calculate the probability distribution forecast shall be based upon current and credible information and realistic assumptions.
+Insurance and reinsurance undertakings shall be able to justify the assumptions underlying their internal model to the supervisory authorities.
+3.   Data used for the internal model shall be accurate, complete and appropriate.
+Insurance and reinsurance undertakings shall update the data sets used in the calculation of the probability distribution forecast at least annually.
+4.   No particular method for the calculation of the probability distribution forecast shall be prescribed.
+Regardless of the calculation method chosen, the ability of the internal model to rank risk shall be sufficient to ensure that it is widely used in and plays an important role in the system of governance of insurance and reinsurance undertakings, in particular their risk-management system and decision-making processes, and capital allocation in accordance with Article 120.
+The internal model shall cover all of the material risks to which insurance and reinsurance undertakings are exposed. Internal models shall cover at least the risks set out in Article 101(4).
+5.   As regards diversification effects, insurance and reinsurance undertakings may take account in their internal model of dependencies within and across risk categories, provided that supervisory authorities are satisfied that the system used for measuring those diversification effects is adequate.
+6.   Insurance and reinsurance undertakings may take full account of the effect of risk-mitigation techniques in their internal model, as long as credit risk and other risks arising from the use of risk-mitigation techniques are properly reflected in the internal model.
+7.   Insurance and reinsurance undertakings shall accurately assess the particular risks associated with financial guarantees and any contractual options in their internal model, where material. They shall also assess the risks associated with both policy holder options and contractual options for insurance and reinsurance undertakings. For that purpose, they shall take account of the impact that future changes in financial and non-financial conditions may have on the exercise of those options.
+8.   In their internal model, insurance and reinsurance undertakings may take account of future management actions that they would reasonably expect to carry out in specific circumstances.
+In the case set out in the first subparagraph, the undertaking concerned shall make allowance for the time necessary to implement such actions.
+9.   In their internal model, insurance and reinsurance undertakings shall take account of all payments to policy holders and beneficiaries which they expect to make, whether or not those payments are contractually guaranteed.

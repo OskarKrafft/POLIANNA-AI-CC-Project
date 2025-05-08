@@ -1,0 +1,12 @@
+Article 5
+Technical requirements
+1.   Vehicles, systems, components and separate technical units shall comply with the requirements of the regulatory acts listed in Annex II.
+2.   Vehicles, systems, components and separate technical units shall be considered not to comply with this Regulation in the following cases in particular:
+(a)
+if they deviate from the particulars in the EU type-approval certificates and their attachments or from the descriptive particulars in the test reports more than is permitted in the relevant regulatory act;
+(b)
+if the performance criteria or limit values for series production laid down in the relevant regulatory act have not been fulfilled under all the conditions set out in the relevant regulatory act;
+(c)
+if any information given by the manufacturer in the information document is not reproducible under all the conditions set out in the relevant regulatory act by approval authorities, market surveillance authorities or the Commission.
+Only checks, tests, inspections and assessments conducted by or carried out on behalf of the approval authorities, market surveillance authorities or the Commission shall be taken into account when assessing compliance for the purposes of this paragraph.
+3.   The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex II in order to take into account technological and regulatory developments by introducing and updating references to the regulatory acts that contain the requirements with which vehicles, systems, components and separate technical units have to comply.

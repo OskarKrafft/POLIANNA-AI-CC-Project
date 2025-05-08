@@ -1,0 +1,45 @@
+Article 2
+Definitions
+For the purposes of this Regulation, in addition to the definitions in Regulations (EC) No 715/2009, (EU) 2018/1999, (EU) 2019/942 and (EU) 2019/943 and in Directives 2009/73/EC, (EU) 2018/2001 (30) and (EU) 2019/944, the following definitions apply:
+(1)
+‘energy infrastructure’ means any physical equipment or facility falling under the energy infrastructure categories which is located within the Union, or linking the Union and one or more third countries;
+(2)
+‘energy infrastructure bottleneck’ means limitation of physical flows in an energy system due to insufficient transmission capacity, which includes, inter alia, the absence of infrastructure;
+(3)
+‘comprehensive decision’ means the decision or set of decisions taken by a Member State authority or authorities not including courts or tribunals, that determines whether or not a project promoter is authorised to build the energy infrastructure to realise a project of common interest or a project of mutual interest by having the possibility to start, or procure and start, the necessary construction works (ready-to-build phase) without prejudice to any decision taken in the context of an administrative appeal procedure;
+(4)
+‘project’ means one or several lines, pipelines, facilities, equipment or installations falling under the energy infrastructure categories set out in Annex II;
+(5)
+‘project of common interest’ means a project necessary to implement the energy infrastructure priority corridors and areas set out in Annex I and which is on the Union list;
+(6)
+‘project of mutual interest’ means a project promoted by the Union in cooperation with third countries pursuant to letters of support from the governments of the directly affected countries or other non-binding agreements, which falls under one of the energy infrastructure categories set out in point 1(a) or (f), point 3(a), or point 5(a) or (c) of Annex II, which contributes to the Union’s 2030 targets for energy and climate and its 2050 climate neutrality objective and which is on the Union list;
+(7)
+‘competing projects’ means projects that fully or partially address the same identified infrastructure gap or regional infrastructure need;
+(8)
+‘project promoter’ means one of the following:
+(a)
+a transmission system operator (TSO), a distribution system operator (DSO) or another operator or investor developing a project on the Union list;
+(b)
+in the case of more than one such TSO, DSO, other operator or investor, or any group thereof, the entity with legal personality under the applicable national law which has been designated by contractual arrangement between them and which has the capacity to undertake legal obligations and assume financial liability on behalf of the parties to the contractual arrangement;
+(9)
+‘smart electricity grid’ means an electricity network, including on islands that are not interconnected or not sufficiently connected to the trans-European energy networks, that enables cost-efficient integration and active control of the behaviour and actions of all users connected to it, including generators, consumers and prosumers, in order to ensure an economically efficient and sustainable power system with low losses and a high level of integration of renewable sources, of security of supply and of safety, and in which the grid operator can digitally monitor the actions of the users connected to it, and information and communication technologies for communicating with related grid operators, generators, energy storage facilities, and consumers or prosumers, with a view to transmitting and distributing electricity in a sustainable, cost-efficient and secure way;
+(10)
+‘smart gas grid’ means a gas network that makes use of innovative and digital solutions to integrate in a cost-efficient manner a plurality of low-carbon and particularly renewable gas sources in accordance with consumers’ needs and gas quality requirements in order to reduce the carbon footprint of the related gas consumption, enable an increased share of renewable and low-carbon gases, and create links with other energy carriers and sectors, including the related physical upgrades if they are indispensable to the functioning of the equipment and installations for integration of low-carbon and particularly renewable gases;
+(11)
+‘authority concerned’ means an authority that, under national law, is competent to issue various permits and authorisations related to the planning, design and construction of immovable assets, including energy infrastructure;
+(12)
+‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC or a regulatory authority at national level designated in accordance with Article 57 of Directive (EU) 2019/944;
+(13)
+‘relevant national regulatory authority’ means the national regulatory authority in the Member States hosting the projects and in Member States to which the project provides a significant positive impact;
+(14)
+‘works’ means the purchase, supply and deployment of components, systems and services including software, the carrying out of development, repurposing and construction and installation activities relating to a project, the acceptance of installations and the launching of a project;
+(15)
+‘studies’ means activities needed to prepare project implementation, such as preparatory, feasibility, evaluation, testing and validation studies, including software, and any other technical support measure including prior action to define and develop a project and decide on its financing, such as reconnaissance of the sites concerned and preparation of the financial package;
+(16)
+‘commissioning’ means the process of bringing a project into operation once it has been constructed;
+(17)
+‘dedicated hydrogen assets’ means infrastructure ready to accommodate pure hydrogen without further adaptation works, including pipeline networks or storage facilities that are newly constructed, repurposed from natural gas assets, or both;
+(18)
+‘repurposing’ means the technical upgrading or modification of existing natural gas infrastructure in order to ensure that it is dedicated for the use of pure hydrogen;
+(19)
+‘climate adaptation’ means a process that ensures that resilience to the potential adverse impacts of climate change of energy infrastructure is achieved through a climate vulnerability and risk assessment, including through relevant adaptation measures.

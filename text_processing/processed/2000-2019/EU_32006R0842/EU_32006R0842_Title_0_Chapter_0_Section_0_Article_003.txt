@@ -1,0 +1,21 @@
+Article 3
+Containment
+1.   Operators of the following stationary applications: refrigeration, air conditioning and heat pump equipment, including their circuits, as well as fire protection systems, which contain fluorinated greenhouse gases listed in Annex I, shall, using all measures which are technically feasible and do not entail disproportionate cost:
+(a)
+prevent leakage of these gases; and
+(b)
+as soon as possible repair any detected leakage.
+2.   Operators of the applications referred to in paragraph 1 shall ensure that they are checked for leakage by certified personnel who comply with the requirements of Article 5, according to the following schedule:
+(a)
+applications containing 3 kg or more of fluorinated greenhouse gases shall be checked for leakage at least once every 12 months; this shall not apply to equipment with hermetically sealed systems, which are labelled as such and contain less than 6 kg of fluorinated greenhouse gases;
+(b)
+applications containing 30 kg or more of fluorinated greenhouse gases shall be checked for leakage at least once every six months;
+(c)
+applications containing 300 kg or more of fluorinated greenhouse gases shall be checked for leakage at least once every three months.
+The applications shall be checked for leakage within one month after a leak has been repaired to ensure that the repair has been effective.
+For the purposes of this paragraph, ‘checked for leakage’ means that the equipment or system is examined for leakage using direct or indirect measuring methods, focusing on those parts of the equipment or system most likely to leak. The direct and indirect measuring methods of checking for leakage shall be specified in the standard checking requirements referred to in paragraph 7.
+3.   Operators of the applications referred to in paragraph 1, containing 300 kg or more of fluorinated greenhouse gases, shall install leakage detection systems. These leakage detection systems shall be checked at least once every 12 months to ensure their proper functioning. In the case of such fire protection systems installed before 4 July 2007, leakage detection systems shall be fitted by 4 July 2010.
+4.   Where a properly functioning appropriate leakage detection system is in place, the frequency of the checks required under paragraph 2(b) and (c) shall be halved.
+5.   In the case of fire protection systems where there is an existing inspection regime in place to meet ISO 14520 standard, these inspections may also fulfil the obligations of this Regulation as long as those inspections are at least as frequent.
+6.   Operators of the applications referred to in paragraph 1, containing 3 kg or more of fluorinated greenhouse gases, shall maintain records on the quantity and type of fluorinated greenhouse gases installed, any quantities added and the quantity recovered during servicing, maintenance and final disposal. They shall also maintain records of other relevant information including the identification of the company or technician who performed the servicing or maintenance, as well as the dates and results of the checks carried out under paragraphs 2, 3 and 4 and relevant information specifically identifying the separate stationary equipment of applications referred to in paragraph 2(b) and (c). These records shall be made available on request to the competent authority and to the Commission.
+7.   By 4 July 2007, the Commission shall establish, in accordance with the procedure referred to in Article 12(2), the standard leakage checking requirements for each of the applications referred to in paragraph 1 of this Article.

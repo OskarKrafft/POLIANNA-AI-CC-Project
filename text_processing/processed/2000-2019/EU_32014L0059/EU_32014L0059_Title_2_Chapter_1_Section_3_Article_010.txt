@@ -1,0 +1,62 @@
+Article 10
+Resolution plans
+1.   The resolution authority, after consulting the competent authority and after consulting the resolution authorities of the jurisdictions in which any significant branches are located insofar as is relevant to the significant branch shall draw up a resolution plan for each institution that is not part of a group subject to consolidated supervision pursuant to Articles 111 and 112 of Directive 2013/36/EU. The resolution plan shall provide for the resolution actions which the resolution authority may take where the institution meets the conditions for resolution. Information referred to paragraph 7(a) shall be disclosed to the institution concerned.
+2.   When drawing up the resolution plan, the resolution authority shall identify any material impediments to resolvability and, where necessary and proportionate, outline relevant actions for how those impediments could be addressed, according to Chapter II of this Title.
+3.   The resolution plan shall take into consideration relevant scenarios including that the event of failure may be idiosyncratic or may occur at a time of broader financial instability or system wide events. The resolution plan shall not assume any of the following:
+(a)
+any extraordinary public financial support besides the use of the financing arrangements established in accordance with Article 100;
+(b)
+any central bank emergency liquidity assistance; or
+(c)
+any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms.
+4.   The resolution plan shall include an analysis of how and when an institution may apply, in the conditions addressed by the plan, for the use of central bank facilities and shall identify those assets which would be expected to qualify as collateral.
+5.   Resolution authorities may require institutions to assist them in the drawing up and updating of the plans.
+6.   Resolution plans shall be reviewed, and where appropriate updated, at least annually and after any material changes to the legal or organisational structure of the institution or to its business or its financial position that could have a material effect on the effectiveness of the plan or otherwise necessitates a revision of the resolution plan.
+For the purpose of the revision or update of the resolution plans referred to in the first subparagraph, the institutions and the competent authorities shall promptly communicate to the resolution authorities any change that necessitates such a revision or update.
+7.   Without prejudice to Article 4, the resolution plan shall set out options for applying the resolution tools and resolution powers referred to in Title IV to the institution. It shall include, quantified whenever appropriate and possible:
+(a)
+a summary of the key elements of the plan;
+(b)
+a summary of the material changes to the institution that have occurred after the latest resolution information was filed;
+(c)
+a demonstration of how critical functions and core business lines could be legally and economically separated, to the extent necessary, from other functions so as to ensure continuity upon the failure of the institution;
+(d)
+an estimation of the timeframe for executing each material aspect of the plan;
+(e)
+a detailed description of the assessment of resolvability carried out in accordance with paragraph 2 of this Article and with Article 15;
+(f)
+a description of any measures required pursuant to Article 17 to address or remove impediments to resolvability identified as a result of the assessment carried out in accordance with Article 15;
+(g)
+a description of the processes for determining the value and marketability of the critical functions, core business lines and assets of the institution;
+(h)
+a detailed description of the arrangements for ensuring that the information required pursuant to Article 11 is up to date and at the disposal of the resolution authorities at all times;
+(i)
+an explanation by the resolution authority as to how the resolution options could be financed without the assumption of any of the following:
+(i)
+any extraordinary public financial support besides the use of the financing arrangements established in accordance with Article 100;
+(ii)
+any central bank emergency liquidity assistance; or
+(iii)
+any central bank liquidity assistance provided under non-standard collateralisation, tenor and interest rate terms;
+(j)
+a detailed description of the different resolution strategies that could be applied according to the different possible scenarios and the applicable timescales;
+(k)
+a description of critical interdependencies;
+(l)
+a description of options for preserving access to payments and clearing services and other infrastructures and, an assessment of the portability of client positions;
+(m)
+an analysis of the impact of the plan on the employees of the institution, including an assessment of any associated costs, and a description of envisaged procedures to consult staff during the resolution process, taking into account national systems for dialogue with social partners where applicable;
+(n)
+a plan for communicating with the media and the public;
+(o)
+the minimum requirement for own funds and eligible liabilities required pursuant to Article 45(1) and a deadline to reach that level, where applicable;
+(p)
+where applicable, the minimum requirement for own funds and contractual bail-in instruments pursuant to Article 45(1), and a deadline to reach that level, where applicable;
+(q)
+a description of essential operations and systems for maintaining the continuous functioning of the institution’s operational processes;
+(r)
+where applicable, any opinion expressed by the institution in relation to the resolution plan.
+8.   Member States shall ensure that resolution authorities have the power to require an institution and an entity referred to in point (b), (c) or (d) of Article 1(1) to maintain detailed records of financial contracts to which it is a party. The resolution authority may specify a time-limit within which the institution or entity referred to in point (b), (c) or (d) of Article 1(1) is to be capable of producing those records. The same time-limit shall apply to all institutions and all entities referred to in point (b), (c) and (d) of Article 1(1) under its jurisdiction. The resolution authority may decide to set different time-limits for different types of financial contracts as referred to in Article 2(100). This paragraph shall not affect the information gathering powers of the competent authority.
+9.   EBA, after consulting the ESRB, shall develop draft regulatory technical standards further specifying the contents of the resolution plan.
+EBA shall submit those draft regulatory technical standards to the Commission by 3 July 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

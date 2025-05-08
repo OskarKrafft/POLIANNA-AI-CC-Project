@@ -1,0 +1,28 @@
+Article 24
+Withdrawal of the authorisation
+1.   Competent authorities shall withdraw the authorisation of an issuer of an asset-referenced token in any of the following situations:
+(a)
+the issuer has ceased to engage in business for six consecutive months, or has not used its authorisation for 12 consecutive months;
+(b)
+the issuer has obtained its authorisation by irregular means, such as by making false statements in the application for authorisation referred to in Article 18 or in any crypto-asset white paper modified in accordance with Article 25;
+(c)
+the issuer no longer meets the conditions under which the authorisation was granted;
+(d)
+the issuer has seriously infringed the provisions of this Title;
+(e)
+the issuer has been subject to a redemption plan;
+(f)
+the issuer has expressly renounced its authorisation or has decided to cease operations;
+(g)
+the issuer’s activity poses a serious threat to market integrity, financial stability, the smooth operation of payment systems or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
+The issuer of the asset-referenced token shall notify its competent authority of any of the situations referred to in the first subparagraph, points (e) and (f).
+2.   Competent authorities shall also withdraw the authorisation of an issuer of an asset-referenced token when the ECB or, where applicable, the central bank referred to in Article 20(4), issues an opinion that the asset-referenced token poses a serious threat to the smooth operation of payment systems, monetary policy transmission or monetary sovereignty.
+3.   Competent authorities shall limit the amount of an asset-referenced token to be issued or impose a minimum denomination amount in respect of the asset-referenced token when the ECB or, where applicable, the central bank referred to in Article 20(4), issues an opinion that the asset-referenced token poses a threat to the smooth operation of payment systems, monetary policy transmission or monetary sovereignty, and specify the applicable limit or minimum denomination amount.
+4.   The relevant competent authorities shall notify the competent authority of an issuer of an asset-referenced token, without delay, of the following situations:
+(a)
+a third-party entity as referred to in Article 34(5), first subparagraph, point (h), of this Regulation has lost its authorisation as a credit institution as referred to in Article 8 of Directive 2013/36/EU, as a crypto-asset service provider as referred to in Article 59 of this Regulation, as a payment institution, or as an electronic money institution;
+(b)
+the members of the issuer’s management body or shareholders or members, whether direct or indirect, that have qualifying holdings in the issuer have infringed the provisions of national law transposing Directive (EU) 2015/849.
+5.   Competent authorities shall withdraw the authorisation of an issuer of an asset-referenced token where they are of the opinion that the situations referred to in paragraph 4 of this Article affect the good repute of the members of the management body of that issuer or the good repute of any shareholders or members, whether direct or indirect, that have qualifying holdings in the issuer, or if there is an indication of a failure of the governance arrangements or internal control mechanisms as referred to in Article 34.
+When the authorisation is withdrawn, the issuer of the asset-referenced token shall implement the procedure under Article 47.
+6.   Competent authorities shall, within two working days of withdrawing authorisation, communicate to ESMA the withdrawal of the authorisation of the issuer of the asset-referenced token. ESMA shall make the information on such withdrawal available in the register referred to in Article 109 without undue delay.

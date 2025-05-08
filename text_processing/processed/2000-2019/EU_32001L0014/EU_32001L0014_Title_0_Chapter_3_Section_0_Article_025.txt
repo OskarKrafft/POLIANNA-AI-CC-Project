@@ -1,0 +1,6 @@
+Article 25
+Capacity analysis
+1. The objective of capacity analysis is to determine the restrictions on infrastructure capacity which prevent requests for capacity from being adequately met, and to propose methods of enabling additional requests to be satisfied. This analysis shall identify the reasons for the congestion and what measures might be taken in the short and medium term to ease the congestion.
+2. The analysis shall consider the infrastructure, the operating procedures, the nature of the different services operating and the effect of all these factors on infrastructure capacity. Measures to be considered shall include in particular re-routing of services, re-timing services, speed alterations and infrastructure improvements.
+3. A capacity analysis shall be completed within six months of the identification of infrastructure as congested.
+

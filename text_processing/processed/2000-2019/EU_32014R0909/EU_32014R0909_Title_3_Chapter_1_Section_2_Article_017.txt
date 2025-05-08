@@ -1,0 +1,26 @@
+Article 17
+Procedure for granting authorisation
+1.   The applicant CSD shall submit an application for authorisation to its competent authority.
+2.   The application for authorisation shall be accompanied by all information necessary to enable the competent authority to satisfy itself that the applicant CSD has established, at the time of the authorisation, all the necessary arrangements to meet its obligations as laid down in this Regulation. The application for authorisation shall include a programme of operations setting out the types of business envisaged and the structural organisation of the CSD.
+3.   Within 30 working days from the receipt of the application, the competent authority shall assess whether the application is complete. If the application is not complete, the competent authority shall set a time limit by which the applicant CSD has to provide additional information. The competent authority shall inform the applicant CSD when the application is considered to be complete.
+4.   From the moment when the application is considered to be complete, the competent authority shall transmit all information included in the application to the relevant authorities and consult those authorities concerning the features of the securities settlement system operated by the applicant CSD. Each relevant authority may inform the competent authority of its views within 3 months of the receipt of the information by the relevant authority.
+5.   Where the applicant CSD intends to provide services referred to in point (2) of Article 4(1) of Directive 2014/65/EU in addition to the provision of non-banking-type ancillary services explicitly listed in Section B of the Annex, the competent authority shall transmit all information included in the application to the authority referred to in Article 67 of Directive 2014/65/EU and consult that authority on the ability of the applicant CSD to comply with the requirements of Directive 2014/65/EU and of Regulation (EU) No 600/2014.
+6.   The competent authority shall, before granting authorisation to the applicant CSD, consult the competent authorities of the other Member State involved in the following cases:
+(a)
+the CSD is a subsidiary of a CSD authorised in another Member State;
+(b)
+the CSD is a subsidiary of the parent undertaking of a CSD authorised in another Member State;
+(c)
+the CSD is controlled by the same natural or legal persons who control a different CSD authorised in another Member State.
+7.   The consultation referred to in paragraph 6 shall cover the following:
+(a)
+the suitability of the shareholders and persons referred to in Article 27(6) and the reputation and experience of the persons who effectively direct the business of the CSD referred to in Article 27(1) and (4), where those shareholders and persons are common to the CSD and to a CSD authorised in another Member State;
+(b)
+whether the relations referred to in points (a), (b) and (c) of paragraph 6 between the CSD authorised in another Member State and the applicant CSD do not affect the ability of the latter to comply with the requirements of this Regulation.
+8.   Within six months from the submission of a complete application, the competent authority shall inform the applicant CSD in writing with a fully reasoned decision whether the authorisation has been granted or refused.
+9.   ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the information that the applicant CSD is to provide to the competent authority in the application for authorisation.
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+10.   ESMA shall, in close cooperation with the members of the ESCB, develop draft implementing technical standards to establish standard forms, templates and procedures for the application for authorisation.
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2015.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.

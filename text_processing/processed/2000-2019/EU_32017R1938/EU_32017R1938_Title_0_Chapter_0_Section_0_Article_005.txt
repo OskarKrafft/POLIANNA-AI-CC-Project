@@ -1,0 +1,53 @@
+Article 5
+Infrastructure standard
+1.   Each Member State or, where a Member State so provides, its competent authority shall ensure that the necessary measures are taken so that in the event of a disruption of the single largest gas infrastructure, the technical capacity of the remaining infrastructure, determined in accordance with the N – 1 formula as set out in point 2 of Annex II, is able, without prejudice to paragraph 2 of this Article, to satisfy total gas demand of the calculated area during a day of exceptionally high gas demand occurring with a statistical probability of once in 20 years. This shall be done taking into account gas consumption trends, the long-term impact of energy efficiency measures and the utilisation rates of existing infrastructure.
+The obligation set out in the first subparagraph of this paragraph shall be without prejudice to the responsibility of the transmission system operators to make the corresponding investments and to the obligations of transmission system operators as laid down in Regulation (EC) No 715/2009 and Directive 2009/73/EC.
+2.   The obligation to ensure that the remaining infrastructure has the technical capacity to satisfy total gas demand, as referred to in paragraph 1 of this Article, shall also be considered to be fulfilled where the competent authority demonstrates in the preventive action plan that a disruption of gas supply may be sufficiently compensated for, in a timely manner, by appropriate market-based demand-side measures. For that purpose, the N – 1 formula shall be calculated as set out in point 4 of Annex II.
+3.   Where appropriate, in accordance with the risk assessments referred to in Article 7, the competent authorities of neighbouring Member States may agree to fulfil, jointly, the obligation set out in paragraph 1 of this Article. In such case the competent authorities shall provide in the risk assessment the calculation of the N – 1 formula together with an explanation in the regional chapters of the preventive action plans how the agreed arrangements fulfil that obligation. Point 5 of Annex II shall apply.
+4.   The transmission system operators shall enable permanent physical capacity to transport gas in both directions (‘bi-directional capacity’) on all interconnections between Member States, except:
+(a)
+in the case of connections to production facilities, to LNG facilities and to distribution networks; or
+(b)
+where an exemption from that obligation has been granted, after detailed assessment and after consulting other Member States and with the Commission in accordance with Annex III.
+For the procedure to enable or enhance bi-directional capacity on an interconnection or to obtain or prolong an exemption from that obligation Annex III shall apply. The Commission shall make public the list of exemptions and keep it updated.
+5.   A proposal for enabling or enhancing bi-directional capacity or a request for granting or prolongation of an exemption shall include a cost-benefit analysis prepared on the basis of the methodology pursuant to Article 11 of Regulation (EU) No 347/2013 of the European Parliament and of the Council (14) and shall be based on the following elements:
+(a)
+an assessment of market demand;
+(b)
+projections for demand and supply;
+(c)
+the possible economic impact on existing infrastructure;
+(d)
+a feasibility study;
+(e)
+the costs of bi-directional capacity including the necessary reinforcement of the transmission system; and
+(f)
+the benefits to the security of gas supply taking into account the possible contribution of bi-directional capacity to meeting the infrastructure standard set out in this Article.
+6.   National regulatory authorities shall take into account the efficiently incurred costs of fulfilling the obligation set out in paragraph 1 of this Article and the costs of enabling bi-directional capacity so as to grant appropriate incentives when fixing or approving, in a transparent and detailed manner, the tariffs or methodologies in accordance with Article 13 of Regulation (EC) No 715/2009 and Article 41(8) of Directive 2009/73/EC.
+7.   In so far as an investment for enabling or enhancing bi-directional capacity is not required by the market but is considered to be necessary for the security of gas supply purposes and where that investment incurs costs in more than one Member State or in one Member State for the benefit of another Member State, the national regulatory authorities of all Member States concerned shall take a coordinated decision on cost allocation before any investment decision is taken. The cost allocation shall take into account the principles described and the elements contained in Article 12(4) of Regulation (EU) No 347/2013, in particular the proportion of the benefits of the infrastructure investments for the increase of the security of gas supply of the Member States concerned as well as investments already made in the infrastructure in question. The cost allocation shall not unduly distort competition and the effective functioning of the internal market and shall seek to avoid any undue distortive effect on the market.
+8.   The competent authority shall ensure that any new transmission infrastructure contributes to the security of gas supply through the development of a well-connected network, including, where appropriate, by means of a sufficient number of cross-border entry and exit points relative to market demand and the risks identified.
+The competent authority shall assess in the risk assessment whether, with an integrated perspective on gas and electricity systems, internal bottlenecks exist and national entry capacity and infrastructure, in particular transmission networks, are capable of adapting the national and cross-border gas flows to the scenario of disruption of the single largest gas infrastructure at national level and the single largest gas infrastructure of common interest to the risk group identified in the risk assessment.
+9.   By way of exception from paragraph 1 of this Article, and subject to the conditions laid down in this paragraph, Luxembourg, Slovenia and Sweden shall not be bound by, but shall endeavour to meet, the obligation set out in that paragraph, while ensuring the gas supplies to protected customers in accordance with Article 6.
+The exception shall apply to Luxembourg provided it has:
+(a)
+at least two interconnectors with other Member States;
+(b)
+at least two different sources of gas supply; and
+(c)
+no gas storage facilities on its territory.
+The exception shall apply to Slovenia provided it has:
+(a)
+at least two interconnectors with other Member States;
+(b)
+at least two different sources of gas supply; and
+(c)
+no gas storage facilities or an LNG facility on its territory.
+The exception shall apply to Sweden provided it has:
+(a)
+no gas transit to other Member States on its territory;
+(b)
+an annual gross inland gas consumption of less than 2 Mtoe; and
+(c)
+less than 5 % of total primary energy consumption from gas.
+Luxembourg, Slovenia and Sweden shall inform the Commission of any change affecting the conditions laid down in this paragraph. The exception laid down in this paragraph shall cease to apply where at least one of those conditions is no longer fulfilled.
+As part of the national risk assessment carried out in accordance with Article 7(3) Luxembourg, Slovenia and Sweden shall describe the situation with respect to the respective conditions laid down in this paragraph and the prospects for compliance with the obligation in paragraph 1 of this Article, taking into account the economic impact of meeting the infrastructure standard, the gas market development and gas infrastructure projects in the risk group. On the basis of the information provided in the national risk assessment and if the respective conditions laid down in this paragraph are still met, the Commission may decide that the exception can continue to apply for four more years. In the event of a positive decision, the procedure set out in this subparagraph shall be repeated after four years.

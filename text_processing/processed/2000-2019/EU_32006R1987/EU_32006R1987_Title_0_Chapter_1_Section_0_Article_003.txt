@@ -1,0 +1,32 @@
+Article 3
+Definitions
+For the purposes of this Regulation, the following definitions shall apply:
+(a)
+‘alert’ means a set of data entered in SIS II allowing the competent authorities to identify a person with a view to taking specific action;
+(b)
+‘supplementary information’ means information not stored in SIS II, but connected to SIS II alerts, which is to be exchanged:
+(i)
+in order to allow Member States to consult or inform each other when entering an alert;
+(ii)
+following a hit, in order to allow the appropriate action to be taken;
+(iii)
+when the required action cannot be taken;
+(iv)
+when dealing with the quality of SIS II data;
+(v)
+when dealing with the compatibility and priority of alerts;
+(vi)
+when dealing with rights of access;
+(c)
+‘additional data’ means the data stored in SIS II and connected with SIS II alerts which are to be immediately available to the competent authorities where a person in respect of whom data has been entered in SIS II is located as a result of searches made therein;
+(d)
+‘third-country national’ means any individual who is neither:
+(i)
+a citizen of the European Union within the meaning of Article 17(1) of the Treaty;
+nor
+(ii)
+a national of a third country who, under agreements between the Community and its Member States on the one hand, and these countries, on the other, enjoys rights of free movement equivalent to those of citizens of the European Union;
+(e)
+‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable person is one who can be identified, directly or indirectly;
+(f)
+‘processing of personal data’ (‘processing’) means any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.

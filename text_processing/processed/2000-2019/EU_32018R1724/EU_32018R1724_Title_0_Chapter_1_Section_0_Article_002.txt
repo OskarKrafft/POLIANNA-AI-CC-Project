@@ -1,0 +1,11 @@
+Article 2
+Establishment of the single digital gateway
+1.   A single digital gateway (‘the gateway’) shall be established by the Commission and the Member States in accordance with this Regulation. The gateway shall consist of a common user interface managed by the Commission (‘the common user interface’), which shall be integrated into the Your Europe portal and shall give access to relevant Union and national webpages.
+2.   The gateway shall give access to:
+(a)
+information on rights, obligations and rules laid down in Union and national law that are applicable to users exercising or intending to exercise their rights derived from Union law in the field of the internal market in the areas listed in Annex I;
+(b)
+information on online and offline procedures and links to online procedures, including procedures covered by Annex II, established at Union or national level in order to enable users to exercise the rights and to comply with the obligations and rules in the field of the internal market in the areas listed in Annex I;
+(c)
+information on, and links to, the assistance and problem-solving services listed in Annex III or referred to in Article 7 which citizens and businesses can refer to if they have questions or problems related to the rights, obligations, rules or procedures referred to in points (a) and (b) of this paragraph.
+3.   The common user interface shall be accessible in all official languages of the Union.

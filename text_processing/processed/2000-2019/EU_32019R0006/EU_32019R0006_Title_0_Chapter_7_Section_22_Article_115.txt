@@ -1,0 +1,39 @@
+Article 115
+Withdrawal period for medicinal products used outside the terms of the marketing authorisation in food-producing animal species
+1.   For the purpose of Articles 113 and 114, unless a medicinal product used has a withdrawal period provided in its summary of the product characteristics for the animal species in question, a withdrawal period shall be set by the veterinarian in accordance with the following criteria:
+(a)
+for meat and offal from food-producing mammals and poultry and farmed game birds the withdrawal period shall not be less than:
+(i)
+the longest withdrawal period provided in its summary of the product characteristics for meat and offal multiplied by factor 1,5;
+(ii)
+28 days if the medicinal product is not authorised for food-producing animals;
+(iii)
+one day, if the medicinal product has a zero withdrawal period and is used in a different taxonomic family than the target species authorised;
+(b)
+for milk from animals producing milk for human consumption the withdrawal period shall not be less than:
+(i)
+the longest withdrawal period for milk provided in the summary of the product characteristics for any animal species multiplied by factor 1,5;
+(ii)
+seven days, if the medicinal product is not authorised for animals producing milk for human consumption;
+(iii)
+one day, if the medicinal product has a zero withdrawal period;
+(c)
+for eggs from animals producing eggs for human consumption the withdrawal period shall not be less than:
+(i)
+the longest withdrawal period for eggs provided in the summary of the product characteristics for any animal species multiplied by factor 1,5;
+(ii)
+10 days, if the product is not authorised for animals producing eggs for human consumption;
+(d)
+for aquatic species producing meat for human consumption the withdrawal period shall not be less than:
+(i)
+the longest withdrawal period for any of the aquatic species indicated in the summary of the product characteristics multiplied by factor of 1,5 and expressed as degree-days;
+(ii)
+if the medicinal product is authorised for food-producing terrestrial animal species, the longest withdrawal period for any of the food-producing animal species indicated in the summary of product characteristics multiplied by a factor of 50 and expressed as degree-days, but not exceeding 500 degree-days;
+(iii)
+500 degree-days, if the medicinal product is not authorised for food-producing animal species;
+(iv)
+25 degree-days if the highest withdrawal period for any animal species is zero.
+2.   If the calculation of the withdrawal period according to points (a)(i), (b)(i), (c)(i), (d)(i) and (ii) of paragraph 1 results in a fraction of days, the withdrawal period shall be rounded up to the nearest number of days.
+3.   The Commission shall adopt delegated acts in accordance with Article 147 in order to amend this Article by amending the rules laid down in paragraphs 1 and 4 thereof in the light of new scientific evidence.
+4.   For bees, the veterinarian shall determine the appropriate withdrawal period by assessing the specific situation of the particular beehive or beehives on a case-by-case basis and in particular the risk of residue in honey or in any other foodstuffs harvested from beehives intended for human consumption.
+5.   By way of derogation from Article 113(1) and (4), the Commission shall, by means of implementing acts, establish a list of substances which are essential for the treatment of equine species, or which bring added clinical benefit compared to other treatment options available for equine species and for which the withdrawal period for equine species shall be six months. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).

@@ -1,0 +1,4 @@
+Article 146
+Electronic management of operations
+1.   Where revenue and expenditure operations or document exchanges are managed by means of computer systems, documents may be signed by a computerised or electronic procedure providing authentication of the signatory. Such computer systems shall include a full and up-to-date description of the system defining the content of all data fields, describing how each individual operation is treated and explaining in detail how the computer system guarantees the existence of a complete audit trail for each operation.
+2.   Subject to the prior agreement of the Union institutions and Member States concerned, any transmission of documents between them may be done by electronic means.

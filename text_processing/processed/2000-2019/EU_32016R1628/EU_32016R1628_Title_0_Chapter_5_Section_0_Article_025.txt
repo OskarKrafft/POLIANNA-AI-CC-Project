@@ -1,0 +1,60 @@
+Article 25
+Conduct of measurements and tests for EU type-approval
+1.   The final exhaust emission test results for engines subject to this Regulation shall be calculated by applying all of the following to the laboratory test results:
+(a)
+the emissions of crankcase gases, where required by paragraph 3 and where not already included in the laboratory measurement;
+(b)
+any necessary adjustment factor, where required by paragraph 3 and where the engine includes a regenerating exhaust after-treatment system;
+(c)
+in respect of all engines, deterioration factors appropriate to the emission durability periods specified in Annex V.
+2.   The testing of an engine type or engine family to determine whether it meets the emission limits set out in this Regulation shall be carried out by using the following reference fuels or fuel combinations, as appropriate:
+(a)
+diesel;
+(b)
+petrol;
+(c)
+petrol/oil mixture, for two stroke SI engines;
+(d)
+natural gas/bio methane;
+(e)
+liquid petroleum gas (LPG);
+(f)
+ethanol.
+The engine type or engine family shall, in addition, meet the exhaust emission limits set out in this Regulation in respect of any other specified fuels, fuel mixtures or fuel emulsions included by a manufacturer in an application for EU type-approval and described in the information folder.
+3.   As regards the conduct of measurements and tests, the technical requirements shall be met in respect of:
+(a)
+apparatus and procedures for the conduct of tests;
+(b)
+apparatus and procedures for emission measurement and sampling;
+(c)
+methods for data evaluation and calculations;
+(d)
+methods for establishing deterioration factors;
+(e)
+in relation to engines in categories NRE, NRG, IWP, IWA, RLR, NRS, NRSh, SMB and ATS complying with Stage V emission limits set out in Annex II:
+(i)
+methods for taking account of emissions of crankcase gases;
+(ii)
+methods for determining and taking account of continuous or infrequent regeneration of exhaust after-treatment systems;
+(f)
+in relation to electronically controlled engines in categories NRE, NRG, IWP, IWA, RLL and RLR complying with Stage V emission limits set out in Annex II and using electronic control to determine both the quantity and timing of injecting fuel or using electronic control to activate, de-activate or modulate the emission control system used to reduce NOx:
+(i)
+emission control strategies, and shall include the documentation required to demonstrate those strategies;
+(ii)
+NOx control measures, and shall include the method used to demonstrate those control measures;
+(iii)
+the area associated with the relevant non-road steady-state test cycle, within which the amount by which the emissions are permitted to exceed the emission limits set out in Annex II is controlled;
+(iv)
+the selection by the technical service of additional measurement points from within the control area during the emission bench test.
+4.   The Commission is empowered to adopt delegated acts in accordance with Article 55 supplementing this Regulation by setting out:
+(a)
+the methodology for adapting the emission laboratory test results to include the deterioration factors referred to in point (c) of paragraph 1;
+(b)
+the technical characteristics of the reference fuels referred to in paragraph 2 and, where applicable, the requirements for the description of any other specified fuels, fuel mixtures or fuel emulsions described in the information folder;
+(c)
+the detailed technical requirements and characteristics for the conduct of measurements and tests referred to in paragraph 3;
+(d)
+the method used to measure PN, taking account of the specifications given in the 06 series of UNECE Regulation No. 49;
+(e)
+the detailed technical requirements applicable to the testing of dual-fuel engines or gaseous-fuelled single-fuel engines referred to in Annex II.
+Those delegated acts shall be adopted by 31 December 2016.

@@ -1,0 +1,14 @@
+Article 15
+Incident notification
+1.   Member States shall ensure that critical entities notify the competent authority, without undue delay, of incidents that significantly disrupt or have the potential to significantly disrupt the provision of essential services. Member States shall ensure that, unless operationally unable to do so, critical entities submit an initial notification no later than 24 hours after becoming aware of an incident, followed, where relevant, by a detailed report no later than one month thereafter. In order to determine the significance of a disruption, the following parameters shall, in particular, be taken into account:
+(a)
+the number and proportion of users affected by the disruption;
+(b)
+the duration of the disruption;
+(c)
+the geographical area affected by the disruption, taking into account whether the area is geographically isolated.
+Where an incident has or might have a significant impact on the continuity of the provision of essential services to or in six or more Member States, the competent authorities of the Member States affected by the incident shall notify the Commission of that incident.
+2.   Notifications as referred to in paragraph 1, first subparagraph, shall include any available information necessary to enable the competent authority to understand the nature, cause and possible consequences of the incident, including any available information necessary to determine any cross-border impact of the incident. Such notifications shall not subject critical entities to increased liability.
+3.   On the basis of the information provided by a critical entity in a notification as referred to in paragraph 1, the relevant competent authority, via the single point of contact, shall inform the single point of contact of other affected Member States where the incident has or might have a significant impact on critical entities and the continuity of the provision of essential services to or in one or more other Member States.
+Single points of contact sending and receiving information pursuant to the first subparagraph shall, in accordance with Union or national law, treat that information in a way that respects its confidentiality and protects the security and commercial interest of the critical entity concerned.
+4.   As soon as possible following a notification as referred to in paragraph 1, the competent authority concerned shall provide the critical entity concerned with relevant follow-up information, including information that could support that critical entity’s effective response to the incident in question. Member States shall inform the public where they determine that it would be in the public interest to do so.

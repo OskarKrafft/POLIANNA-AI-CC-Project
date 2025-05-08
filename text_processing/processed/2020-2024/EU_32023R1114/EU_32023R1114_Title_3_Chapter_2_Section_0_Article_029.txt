@@ -1,0 +1,16 @@
+Article 29
+Marketing communications
+1.   Any marketing communications relating to an offer to the public of an asset-referenced token, or to the admission to trading of such asset-referenced token, shall comply with all of the following requirements:
+(a)
+the marketing communications are clearly identifiable as such;
+(b)
+the information in the marketing communications is fair, clear and not misleading;
+(c)
+the information in the marketing communications is consistent with the information in the crypto-asset white paper;
+(d)
+the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the issuer of the asset-referenced token, as well as a telephone number and an email address to contact the issuer.
+2.   Marketing communications shall contain a clear and unambiguous statement that the holders of the asset-referenced token have a right of redemption against the issuer at any time.
+3.   Marketing communications and any modifications thereto shall be published on the issuer’s website.
+4.   Competent authorities shall not require prior approval of marketing communications before their publication.
+5.   Marketing communications shall be notified to competent authorities upon request.
+6.   No marketing communications shall be disseminated prior to the publication of the crypto-asset white paper. Such restriction does not affect the ability of the issuer of the asset-referenced token to conduct market soundings.

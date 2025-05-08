@@ -1,0 +1,52 @@
+Article 35
+Objective and scope of the write-down or conversion tool
+1.   Member States shall ensure that resolution authorities may apply the write-down or conversion tool to meet the resolution objectives for any of the following purposes:
+(a)
+to recapitalise an entity as referred to in Article 1(1), points (a) to (e), that meets the conditions for resolution referred to in Article 19(1) and Article 20(3) to the extent sufficient to apply the solvent run-off tool and to maintain its authorisation under Directive 2009/138/EC;
+(b)
+to convert to equity or reduce the principal amount of claims, including insurance claims, or debt instruments that are transferred:
+(i)
+to a bridge undertaking; or
+(ii)
+under the asset and liability separation tool or the sale-of-business tool.
+When applying the write-down or conversion tool to insurance claims, resolution authorities may also restructure the terms of the related insurance contracts to achieve the resolution objectives more effectively. When doing so, resolution authorities shall take into account the impact on the collective interest of policy holders.
+2.   Member States shall ensure that resolution authorities determine the amount by which capital instruments, debt instruments and other eligible liabilities are to be written down or converted for the purposes set out in paragraph 1 on the basis of the valuation carried out in accordance with Article 23.
+3.   Member States shall ensure that resolution authorities may apply the write-down or conversion tool to all liabilities of entities referred to in Article 1(1), points (a) to (e), maintaining their current legal form or considering a change of their legal form where necessary.
+4.   Member States shall ensure that the write-down or conversion tool may be applied to all capital instruments and all liabilities of an entity referred to in Article 1(1), points (a) to (e), that are not excluded from the scope of that tool pursuant to paragraphs 5 to 8 of this Article.
+5.   Resolution authorities shall not apply the write-down or conversion tool in relation to the following liabilities whether they are governed by the law of a Member State or of a third country:
+(a)
+secured liabilities;
+(b)
+liabilities to credit institutions, investment firms and insurance or reinsurance undertakings, except for entities that are part of the same group, with an original maturity of less than seven days;
+(c)
+liabilities with a remaining maturity of less than seven days, owed to either systems or operators of systems designated in accordance with Directive 98/26/EC or to their participants and arising from the participation in such a system, or to CCPs authorised in the Union pursuant to Article 14 of Regulation (EU) No 648/2012 and third-country CCPs recognised by the European Supervisory Authority (European Securities and Markets Authority) (ESMA), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (20), pursuant to Article 25 of Regulation (EU) No 648/2012;
+(d)
+a liability to any one of the following:
+(i)
+an employee, in relation to accrued salary, pension benefits or other fixed remuneration, except for the variable component of remuneration that is not regulated by a collective bargaining agreement;
+(ii)
+a commercial or trade creditor arising from the provision to an entity referred to in Article 1(1), points (a) to (e), of goods or services, such as IT services, utilities and the rental, servicing and upkeep of premises, that are needed to maintain the continuous functioning of the operations of that entity, or are needed for ensuring the continuity of insurance coverage;
+(iii)
+tax and social security authorities, provided that those liabilities are preferred under the applicable law;
+(iv)
+insurance guarantee schemes arising from contributions due in accordance with applicable national laws;
+(e)
+liabilities arising from compulsory insurance against civil liability in respect of the use of motor vehicles in accordance with Directive 2009/103/EC.
+6.   Member States may provide that resolution authorities are not to apply the write-down or conversion tool in relation to:
+(a)
+liabilities arising from current and future insurance claims which are covered by assets in accordance with Article 275(1), point (a), of Directive 2009/138/EC;
+(b)
+liabilities arising under private health insurance contracts or private long-term care insurance contracts provided as an alternative to mandatory health or long-term care cover provided by the statutory social security system; the exclusion shall apply only to the part of the liability concerned that replaces the mandatory component of the statutory social security system.
+7.   Paragraph 5, point (a), and paragraph 6, point (a), shall not prevent resolution authorities, where appropriate, from applying the write-down or conversion tool to any part of a secured liability or a liability for which collateral has been pledged that exceeds the value of the assets, pledge, lien or collateral against which it is secured or to any part of liabilities referred to in paragraph 6, point (a), that exceed the value of the assets entered into the special register referred to in Article 276(1) of Directive 2009/138/EC.
+8.   In exceptional circumstances, where the write-down or conversion tool is applied, resolution authorities may exclude or partially exclude certain liabilities from the application of the write-down or conversion tool in any of the following situations:
+(a)
+it is not possible to write down or convert that liability within a reasonable time, notwithstanding the good faith efforts of the resolution authority;
+(b)
+the exclusion is strictly necessary and is proportionate to achieve the continuity of critical functions and core business lines in a manner that maintains the ability of the undertaking under resolution to continue key operations, services and transactions;
+(c)
+the exclusion is strictly necessary and proportionate to avoid giving rise to widespread contagion, in a manner that could cause a serious disturbance to the economy of a Member State or of the Union;
+(d)
+the application of the write-down or conversion tool to those liabilities would cause a destruction in value such that the losses borne by other creditors would be higher than if those liabilities were excluded from the application of the write-down or conversion tool; or
+(e)
+the exclusion is strictly necessary and proportionate to ensure that third parties are compensated for their personal injuries and damage covered by insurance contracts related to third-party liabilities where such contracts are compulsory under applicable law.
+9.   Resolution authorities shall take into account that, where the write-down or conversion tool is applied, insurance contracts the terms of which were restructured pursuant to paragraph 1, second subparagraph, meet, after the contract is restructured, the compulsory minimum coverage levels under applicable law.

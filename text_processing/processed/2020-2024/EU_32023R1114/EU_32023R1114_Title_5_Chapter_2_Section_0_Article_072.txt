@@ -1,0 +1,27 @@
+Article 72
+Identification, prevention, management and disclosure of conflicts of interest
+1.   Crypto-asset service providers shall implement and maintain effective policies and procedures, taking into account the scale, the nature and range of crypto-asset services provided, to identify, prevent, manage and disclose conflicts of interest between:
+(a)
+themselves and:
+(i)
+their shareholders or members;
+(ii)
+any person directly or indirectly linked to the crypto-asset service providers or their shareholders or members by control;
+(iii)
+members of their management body;
+(iv)
+their employees; or
+(v)
+their clients; or
+(b)
+two or more clients whose mutual interests conflict.
+2.   Crypto-asset service providers shall, in a prominent place on their website, disclose to their clients and prospective clients the general nature and sources of conflicts of interest referred to in paragraph 1 and the steps taken to mitigate them.
+3.   The disclosure referred to in paragraph 2 shall be made in an electronic format and shall include sufficient detail, taking into account the nature of each client, in order to enable each client to take an informed decision about the crypto-asset service in the context of which the conflicts of interest arise.
+4.   Crypto-asset service providers shall assess and, at least annually, review their policy on conflicts of interest and take all appropriate measures to address any deficiencies in that respect.
+5.   ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify:
+(a)
+the requirements for the policies and procedures referred to in paragraph 1, taking into account the scale, the nature and the range of crypto-asset services provided;
+(b)
+the details and methodology for the content of the disclosure referred to in paragraph 2.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

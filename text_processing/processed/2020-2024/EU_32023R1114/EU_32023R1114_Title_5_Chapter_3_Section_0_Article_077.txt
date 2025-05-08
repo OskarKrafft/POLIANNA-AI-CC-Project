@@ -1,0 +1,6 @@
+Article 77
+Exchange of crypto-assets for funds or other crypto-assets
+1.   Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall establish a non-discriminatory commercial policy that indicates, in particular, the type of clients they agree to transact with and the conditions that shall be met by such clients.
+2.   Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall publish a firm price of the crypto-assets or a method for determining the price of the crypto-assets that they propose to exchange for funds or other crypto-assets, and any applicable limit determined by that crypto-asset service provider on the amount to be exchanged.
+3.   Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall execute client orders at the prices displayed at the time when the order for exchange is final. Crypto-asset service providers shall inform their clients of the conditions for their order to be deemed final.
+4.   Crypto-asset service providers exchanging crypto-assets for funds or other crypto-assets shall publish information about the transactions concluded by them, such as transaction volumes and prices.

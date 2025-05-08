@@ -1,0 +1,41 @@
+Article 2
+Definitions
+For the purposes of this Regulation the following definitions shall apply:
+1.
+‘fluorinated greenhouse gases’ means hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulphur hexafluoride (SF6) as listed in Annex I and preparations containing those substances, but excludes substances controlled under Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer (13);
+2.
+‘hydrofluorocarbon’ means an organic compound consisting of carbon, hydrogen and fluorine, and where no more than six carbon atoms are contained in the molecule;
+3.
+‘perfluorocarbon’ means an organic compound consisting of carbon and fluorine only, and where no more than six carbon atoms are contained in the molecule;
+4.
+‘global warming potential’ means the climatic warming potential of a fluorinated greenhouse gas relative to that of carbon dioxide. The global warming potential (GWP) is calculated in terms of the 100-year warming potential of one kilogram of a gas relative to one kilogram of CO2. The GWP figures listed in Annex I are those published in the third assessment report (TAR) adopted by the Intergovernmental Panel on Climate Change (2001 IPCC GWP values) (14);
+5.
+‘preparation’ means for the purposes of the obligations in this Regulation, excluding destruction, a mixture composed of two or more substances at least one of which is a fluorinated greenhouse gas, except where the total global warming potential of the preparation is less than 150. The total global warming potential (15) of the preparation shall be determined in accordance with Part 2 of Annex I;
+6.
+‘operator’ means the natural or legal person exercising actual power over the technical functioning of the equipment and systems covered by this Regulation; a Member State may, in defined, specific situations, designate the owner as being responsible for the operator's obligations;
+7.
+‘placing on the market’ means the supplying of or making available to a third party within the Community for the first time, against payment or free of charge, products and equipment containing or whose functioning relies upon fluorinated greenhouse gases, and includes import into the customs territory of the Community;
+8.
+‘use’ means the utilisation of fluorinated greenhouse gases in the production, refilling, servicing or maintenance of products and equipment covered by this Regulation;
+9.
+‘heat pump’ means a device or installation that extracts heat at low temperature from air, water or earth and supplies heat;
+10.
+‘leakage detection system’ means a calibrated mechanical, electrical or electronic device for detecting leakage of fluorinated greenhouse gases which, on detection, alerts the operator;
+11.
+‘hermetically sealed system’ means a system in which all refrigerant containing parts are made tight by welding, brazing or a similar permanent connection which may include capped valves and capped service ports that allow proper repair or disposal and which have a tested leakage rate of less than 3 grams per year under a pressure of at least a quarter of the maximum allowable pressure;
+12.
+‘container’ means a product which is designed primarily for transporting or storing fluorinated greenhouse gases;
+13.
+‘a non-refillable container’ means a container that is designed not to be refilled and is used in the servicing, maintenance or filling of refrigeration, air-conditioning or heat pump equipment, fire protection systems or high‐voltage switchgear, or to store or transport fluorinated greenhouse gas based solvents;
+14.
+‘recovery’ means the collection and storage of fluorinated greenhouse gases from, for example, machinery, equipment and containers;
+15.
+‘recycling’ means the reuse of a recovered fluorinated greenhouse gas following a basic cleaning process;
+16.
+‘reclamation’ means the reprocessing of a recovered fluorinated greenhouse gas in order to meet a specified standard of performance;
+17.
+‘destruction’ means the process by which all or most of a fluorinated greenhouse gas is permanently transformed or decomposed into one or more stable substances which are not fluorinated greenhouse gases;
+18.
+‘stationary application or equipment’ means an application or equipment which is normally not in transit during operation;
+19.
+‘novelty aerosol’ means those aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes as listed in the Annex to Directive 94/48/EC (16).

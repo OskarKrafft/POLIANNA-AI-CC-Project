@@ -1,0 +1,19 @@
+Article 23
+Valuation for the purposes of resolution
+1.   Resolution authorities shall ensure that any resolution action is taken on the basis of a valuation ensuring a fair, prudent and realistic assessment of the assets, liabilities, rights and obligations of an entity as referred to in Article 1(1), points (a) to (e).
+2.   Before the resolution authority places an entity as referred to in Article 1(1), points (a) to (e), under resolution, it shall ensure that a first valuation is carried out to determine whether the conditions for resolution under Article 19(1) or Article 20(3) are met.
+3.   After the resolution authority has decided to place an entity referred to in Article 1(1), points (a) to (e), under resolution, it shall ensure that a second valuation is carried out to:
+(a)
+inform the decision on the appropriate resolution action to be taken;
+(b)
+ensure that any losses of that entity are fully recognised at the moment the resolution tools are applied;
+(c)
+inform the decision on the extent of the cancellation or dilution of instruments of ownership;
+(d)
+inform the decision on the extent of the write-down or conversion of any unsecured liabilities, including debt instruments;
+(e)
+where the bridge undertaking tool is applied, inform the decision on the assets, liabilities, rights and obligations or instruments of ownership that may be transferred to the bridge undertaking, and inform the decision on the value of any consideration that may be paid to the undertaking under resolution or, where relevant, to the holders of the instruments of ownership;
+(f)
+where the sale-of-business tool is applied, inform the decision on the assets, liabilities, rights and obligations or instruments of ownership that may be transferred to the third-party purchaser and to inform the resolution authority’s understanding of what constitutes commercial terms for the purposes of Article 31.
+4.   The valuation referred to in paragraph 3 shall be consistent with Article 75 of Directive 2009/138/EC. However, that valuation may, where appropriate, be adjusted to reflect that the assumption that the undertaking pursues its business as a going concern is not met, and to reflect the specific circumstances related to the use of resolution tools.
+5.   The valuations referred to in paragraphs 2 and 3 may be subject to an appeal in accordance with Article 67 only together with the decision to apply a resolution tool or to exercise a resolution power.

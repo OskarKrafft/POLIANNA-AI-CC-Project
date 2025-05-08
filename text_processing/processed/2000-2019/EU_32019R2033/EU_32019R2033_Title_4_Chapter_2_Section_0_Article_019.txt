@@ -1,0 +1,7 @@
+Article 19
+Measuring ASA for the purpose of calculating K‐ASA
+1.   For the purpose of calculating K‐ASA, ASA shall be the rolling average of the value of the total daily assets safeguarded and administered, measured at the end of each business day for the previous nine months, excluding the three most recent months.
+ASA shall be the arithmetic mean of the daily values from the remaining six months.
+K‐ASA shall be calculated on the first business day of each month.
+2.   Where an investment firm has formally delegated the tasks of safeguarding and administration of assets to another financial entity, or where another financial entity has formally delegated such tasks to the investment firm, those assets shall be included in the total amount of ASA which is measured in accordance with paragraph 1.
+3.   Where an investment firm has been safeguarding and administering assets for less than six months, it shall use historical data for ASA for the period specified under paragraph 1 as soon as such data becomes available to calculate K‐ASA. The competent authority may replace missing historical data points by regulatory determinations based on the business projections of the investment firm submitted in accordance with Article 7 of Directive 2014/65/EU.

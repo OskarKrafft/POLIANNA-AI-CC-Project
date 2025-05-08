@@ -1,0 +1,28 @@
+Article 36
+Additional data for the purpose of dealing with misused identity
+1.   Where confusion may arise between the person actually intended as the subject of an alert and a person whose identity has been misused, the Member State which entered the alert shall, subject to that person's explicit consent, add data relating to the latter to the alert in order to avoid the negative consequences of misidentification.
+2.   Data relating to a person whose identity has been misused shall be used only for the following purposes:
+(a)
+to allow the competent authority to distinguish the person whose identity has been misused from the person actually intended as the subject of the alert;
+(b)
+to allow the person whose identity has been misused to prove his identity and to establish that his identity has been misused.
+3.   For the purpose of this Article, no more than the following personal data may be entered and further processed in SIS II:
+(a)
+surname(s) and forename(s), name(s) at birth and previously used names and any aliases possibly entered separately;
+(b)
+any specific objective and physical characteristic not subject to change;
+(c)
+place and date of birth;
+(d)
+sex;
+(e)
+photographs;
+(f)
+fingerprints;
+(g)
+nationality(ies);
+(h)
+number(s) of identity paper(s) and date of issue.
+4.   The technical rules necessary for entering and further processing the data referred to in paragraph 3 shall be established in accordance with the procedure referred to in Article 51(2), without prejudice to the provisions of the instrument setting up the Management Authority.
+5.   The data referred to in paragraph 3 shall be erased at the same time as the corresponding alert or earlier if the person so requests.
+6.   Only the authorities having a right of access to the corresponding alert may access the data referred to in paragraph 3. They may do so for the sole purpose of avoiding misidentification.

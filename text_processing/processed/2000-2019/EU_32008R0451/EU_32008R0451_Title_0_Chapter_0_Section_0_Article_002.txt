@@ -1,0 +1,16 @@
+Article 2
+The levels and the structure of the CPA
+1.   The CPA shall comprise:
+(a)
+a first level, comprising headings identified by an alphabetical code (sections);
+(b)
+a second level, comprising headings identified by a two-digit numerical code (divisions);
+(c)
+a third level, comprising headings identified by a three-digit numerical code (groups);
+(d)
+a fourth level, comprising headings identified by a four-digit numerical code (classes);
+(e)
+a fifth level, comprising headings identified by a five-digit numerical code (categories); and
+(f)
+a sixth level, comprising headings identified by a six-digit numerical code (subcategories).
+2.   The CPA is set out in the Annex.

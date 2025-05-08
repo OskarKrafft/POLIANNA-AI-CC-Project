@@ -1,0 +1,7 @@
+Article 18
+EU declaration of conformity
+1.   The EU declaration of conformity shall state that the compliance with the requirements laid down in Articles 6 to 10 and Articles 12, 13 and 14 has been demonstrated.
+2.   The EU declaration of conformity shall have the model structure set out in Annex IX, shall contain the elements specified in the relevant modules set out in Annex VIII, and shall be kept up to date. It shall be translated into the language or languages required by the Member State in which the battery is placed or made available on the market or put into service. It shall be drawn up in electronic format and, where requested, it shall be provided in paper format.
+3.   Where a battery is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall state the Union acts concerned and their publication references.
+4.   By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the battery with the requirements laid down in this Regulation.
+5.   Without prejudice to paragraph 3, a single EU declaration of conformity may be made up of one or more individual EU declarations of conformity already drawn up in compliance with a different Union act or acts, in order to reduce the administrative burden on economic operators.

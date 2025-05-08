@@ -1,0 +1,5 @@
+Article 40
+Prohibition of granting interest
+1.   Issuers of asset-referenced tokens shall not grant interest in relation to asset-referenced tokens.
+2.   Crypto-asset service providers shall not grant interest when providing crypto-asset services related to asset-referenced tokens.
+3.   For the purposes of paragraphs 1 and 2, any remuneration or any other benefit related to the length of time during which a holder of asset-referenced tokens holds such asset-referenced tokens shall be treated as interest. That includes net compensation or discounts, with an effect equivalent to that of interest received by the holder of asset-referenced tokens, directly from the issuer or from third parties, and directly associated to the asset-referenced tokens or from the remuneration or pricing of other products.

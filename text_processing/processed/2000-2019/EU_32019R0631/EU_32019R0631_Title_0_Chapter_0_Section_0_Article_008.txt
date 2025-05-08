@@ -1,0 +1,15 @@
+Article 8
+Excess emissions premium
+1.   In respect of each calendar year, the Commission shall impose an excess emissions premium on a manufacturer or pool manager, as appropriate, where a manufacturer's average specific emissions of CO2 exceed its specific emissions target.
+2.   The excess emissions premium under paragraph 1 shall be calculated using the following formula:
+ 
+(Excess emissions × EUR 95) × number of newly registered vehicles.
+For the purposes of this Article, the following definitions shall apply:
+—
+
+                        ‘excess emissions’ means the positive number of grams per kilometre by which a manufacturer's average specific emissions of CO2, taking into account CO2 emissions reductions due to innovative technologies approved in accordance with Article 11, exceeded its specific emissions target in the calendar year or part thereof to which the obligation under Article 4 applies, rounded to the nearest three decimal places, and
+—
+
+                        ‘number of newly registered vehicles’ means the number of new passenger cars or new light commercial vehicles counted separately of which it is the manufacturer and which were registered in that period according to the phase-in criteria as set out in Article 4(3).
+3.   The Commission shall determine, by means of implementing acts, the means for collecting excess emissions premiums imposed under paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+4.   The amounts of the excess emissions premium shall be considered as revenue for the general budget of the Union.

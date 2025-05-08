@@ -1,0 +1,8 @@
+Article 34
+Quality of the data processed in SIS II
+1.   A Member State issuing an alert shall be responsible for ensuring that the data are accurate, up-to-date and entered in SIS II lawfully.
+2.   Only the Member State issuing an alert shall be authorised to modify, add to, correct, update or delete data which it has entered.
+3.   If a Member State other than that which issued an alert has evidence suggesting that an item of data is factually incorrect or has been unlawfully stored, it shall, through the exchange of supplementary information, inform the Member State that issued the alert thereof at the earliest opportunity and not later than ten days after the said evidence has come to its attention. The Member State that issued the alert shall check the communication and, if necessary, correct or delete the item in question without delay.
+4.   If the Member States are unable to reach agreement within two months, the Member State which did not issue the alert shall submit the matter to the European Data Protection Supervisor, who shall, jointly with the national supervisory authorities concerned, act as mediator.
+5.   The Member States shall exchange supplementary information if a person complains that he is not the person wanted by an alert. If the outcome of the check is that there are in fact two different persons the complainant shall be informed of the provisions of Article 36.
+6.   Where a person is already the subject of an alert in SIS II, a Member State which enters a further alert shall reach agreement on the entry of the alert with the Member State which entered the first alert. The agreement shall be reached on the basis of the exchange of supplementary information.

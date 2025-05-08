@@ -1,0 +1,36 @@
+Article 33
+European database on medical devices
+1.   The Commission, after consulting the MDCG, shall set up, maintain and manage the European database on medical devices (‘Eudamed’) for the following purposes:
+(a)
+to enable the public to be adequately informed about devices placed on the market, the corresponding certificates issued by notified bodies and about the relevant economic operators;
+(b)
+to enable unique identification of devices within the internal market and to facilitate their traceability;
+(c)
+to enable the public to be adequately informed about clinical investigations and to enable sponsors of clinical investigations to comply with obligations under Articles 62 to 80, Article 82, and any acts adopted pursuant to Article 81;
+(d)
+to enable manufacturers to comply with the information obligations laid down in Articles 87 to 90 or in any acts adopted pursuant to Article 91;
+(e)
+to enable the competent authorities of the Member States and the Commission to carry out their tasks relating to this Regulation on a well-informed basis and to enhance the cooperation between them.
+2.   Eudamed shall include the following electronic systems:
+(a)
+the electronic system for registration of devices referred to in Article 29(4);
+(b)
+the UDI-database referred to in Article 28;
+(c)
+the electronic system on registration of economic operators referred to in Article 30;
+(d)
+the electronic system on notified bodies and on certificates referred to in Article 57;
+(e)
+the electronic system on clinical investigations referred to in Article 73;
+(f)
+the electronic system on vigilance and post-market surveillance referred to in Article 92;
+(g)
+the electronic system on market surveillance referred to in Article 100.
+3.   When designing Eudamed the Commission shall give due consideration to compatibility with national databases and national web-interfaces to allow for import and export of data.
+4.   The data shall be entered into Eudamed by the Member States, notified bodies, economic operators and sponsors as specified in the provisions on the electronic systems referred to in paragraph 2. The Commission shall provide for technical and administrative support to users of Eudamed.
+5.   All the information collated and processed by Eudamed shall be accessible to the Member States and to the Commission. The information shall be accessible to notified bodies, economic operators, sponsors and the public to the extent specified in the provisions on the electronic systems referred to in paragraph 2.
+The Commission shall ensure that public parts of Eudamed are presented in a user-friendly and easily-searchable format.
+6.   Eudamed shall contain personal data only insofar as necessary for the electronic systems referred to in paragraph 2 of this Article to collate and process information in accordance with this Regulation. Personal data shall be kept in a form which permits identification of data subjects for periods no longer than those referred to in Article 10(8).
+7.   The Commission and the Member States shall ensure that data subjects may effectively exercise their rights to information, of access, to rectification and to object in accordance with Regulation (EC) No 45/2001 and Directive 95/46/EC, respectively. They shall also ensure that data subjects may effectively exercise the right of access to data relating to them, and the right to have inaccurate or incomplete data corrected and erased. Within their respective responsibilities, the Commission and the Member States shall ensure that inaccurate and unlawfully processed data are deleted, in accordance with the applicable legislation. Corrections and deletions shall be carried out as soon as possible, but no later than 60 days after a request is made by a data subject.
+8.   The Commission shall, by means of implementing acts, lay down the detailed arrangements necessary for the setting up and maintenance of Eudamed. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3). When adopting those implementing acts, the Commission shall ensure that, as far as possible, the system is developed in such a way as to avoid having to enter the same information twice within the same module or in different modules of the system.
+9.   In relation to its responsibilities under this Article and the processing of personal data involved therein, the Commission shall be considered to be the controller of Eudamed and its electronic systems.

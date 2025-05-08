@@ -1,0 +1,13 @@
+Article 92
+Prevention and detection of market abuse
+1.   Any person professionally arranging or executing transactions in crypto-assets shall have in place effective arrangements, systems and procedures to prevent and detect market abuse. That person shall be subject to the rules of notification of the Member State where it is registered or has its head office or, in the case of a branch, the Member State where the branch is situated, and shall without delay report to the competent authority of that Member State any reasonable suspicion regarding an order or transaction, including any cancellation or modification thereof, and other aspects of the functioning of the distributed ledger technology such as the consensus mechanism, where there might exist circumstances indicating that market abuse has been committed, is being committed or is likely to be committed.
+The competent authorities receiving a report of suspicious orders or transactions shall transmit such information immediately to the competent authorities of the trading platforms concerned.
+2.   ESMA shall develop draft regulatory technical standards to further specify:
+(a)
+appropriate arrangements, systems and procedures for persons to comply with paragraph 1;
+(b)
+the template to be used by persons to comply with paragraph 1;
+(c)
+for cross-border market abuse situations, coordination procedures between the relevant competent authorities for the detection and sanctioning of market abuse.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 December 2024.
+3.   In order to ensure consistency of supervisory practices under this Article, ESMA shall by 30 June 2025 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on supervisory practices among the competent authorities to prevent and detect market abuse, if not already covered by the regulatory technical standards referred to in paragraph 2.

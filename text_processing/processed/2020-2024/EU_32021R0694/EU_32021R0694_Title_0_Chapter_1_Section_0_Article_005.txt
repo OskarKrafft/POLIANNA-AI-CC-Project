@@ -1,0 +1,16 @@
+Article 5
+Specific Objective 2 – Artificial Intelligence
+1.   The financial contribution from the Union under Specific Objective 2 – Artificial Intelligence shall pursue the following operational objectives:
+(a)
+build up and strengthen core AI capacities and knowledge in the Union, including building up and strengthening quality data resources and corresponding exchange mechanisms, and libraries of algorithms, while guaranteeing a human-centric and inclusive approach that respects Union values;
+(b)
+make the capacities referred to in point (a) accessible to businesses, especially SMEs and start-ups, as well as civil society, not-for-profit organisations, research institutions, universities and public administrations, in order to maximise their benefit to the European society and economy;
+(c)
+reinforce and network AI testing and experimentation facilities in Member States;
+(d)
+develop and reinforce commercial application and production systems in order to facilitate the integration of technologies in value chains and the development of innovative business models and to shorten the time required to pass from innovation to commercial exploitation and foster the uptake of AI-based solutions in areas of public interest and in society.
+AI-based solutions and data made available shall respect the principle of privacy and security by design and shall fully comply with data protection legislation.
+2.   The Commission, in accordance with Union and international law, including the Charter, and taking into account, inter alia, the recommendations of the High-Level Expert Group on Artificial Intelligence, shall set out ethical requirements in the work programmes under Specific Objective 2. Calls for proposals, calls for tenders and grant agreements shall include the relevant requirements set out in those work programmes.
+Where appropriate, the Commission shall carry out checks to ensure compliance with those ethical requirements. Funding for actions which do not comply with the ethical requirements may be suspended, terminated or reduced at any time in accordance with the Financial Regulation.
+3.   The actions under Specific Objective 2 shall be implemented primarily through direct management.
+The ethical and legal requirements referred to in this Article shall apply to all actions of Specific Objective 2, regardless of the method of implementation.

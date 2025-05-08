@@ -1,0 +1,53 @@
+Article 35
+Own funds requirements
+1.   Issuers of asset-referenced tokens shall, at all times, have own funds equal to an amount of at least the highest of the following:
+(a)
+EUR 350 000;
+(b)
+2 % of the average amount of the reserve of assets referred to in Article 36;
+(c)
+a quarter of the fixed overheads of the preceding year.
+For the purposes of point (b) of the first subparagraph, the average amount of the reserve of assets shall mean the average amount of the reserve assets at the end of each calendar day, calculated over the preceding six months.
+Where an issuer offers more than one asset-referenced token, the amount referred to in point (b) of the first subparagraph shall be the sum of the average amount of the reserve assets backing each asset-referenced token.
+The amount referred to in point (c) of the first subparagraph shall be reviewed annually and calculated in accordance with Article 67(3).
+2.   The own funds referred to in paragraph 1 of this Article shall consist of the Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full pursuant to Article 36 of that Regulation, without the application of the threshold exemptions referred to in Article 46(4) and Article 48 of that Regulation.
+3.   The competent authority of the home Member State may require an issuer of an asset-referenced token to hold an amount of own funds which is up to 20 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), where an assessment of any of the following indicates a higher degree of risk:
+(a)
+the evaluation of the risk-management processes and internal control mechanisms of the issuer of the asset-referenced token as referred to in Article 34(1), (8) and (10);
+(b)
+the quality and volatility of the reserve of assets referred to in Article 36;
+(c)
+the types of rights granted by the issuer of the asset-referenced token to holders of the asset-referenced token in accordance with Article 39;
+(d)
+where the reserve of assets includes investments, the risks posed by the investment policy on the reserve of assets;
+(e)
+the aggregate value and number of transactions settled in the asset-referenced token;
+(f)
+the importance of the markets on which the asset-referenced token is offered and marketed;
+(g)
+where applicable, the market capitalisation of the asset-referenced token.
+4.   The competent authority of the home Member State may require an issuer of an asset-referenced token that is not significant to comply with any requirement set out in Article 45, where necessary to address the higher degree of risks identified in accordance with paragraph 3 of this Article, or any other risks that Article 45 aims to address, such as liquidity risks.
+5.   Without prejudice to paragraph 3, issuers of asset-referenced tokens shall conduct, on a regular basis, stress testing that takes into account severe but plausible financial stress scenarios, such as interest rate shocks, and non-financial stress scenarios, such as operational risk. Based on the outcome of such stress testing, the competent authority of the home Member State shall require the issuer of the asset-referenced token to hold an amount of own funds that is between 20 % and 40 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), in certain circumstances having regard to the risk outlook and stress testing results.
+6.   EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards further specifying:
+(a)
+the procedure and timeframe for an issuer of an asset-referenced token to adjust to higher own funds requirements as set out in paragraph 3;
+(b)
+the criteria for requiring a higher amount of own funds as set out in paragraph 3;
+(c)
+the minimum requirements for the design of stress testing programmes, taking into account the size, complexity and nature of the asset-referenced token, including but not limited to:
+(i)
+the types of stress testing and their main objectives and applications;
+(ii)
+the frequency of the different stress testing exercises;
+(iii)
+the internal governance arrangements;
+(iv)
+the relevant data infrastructure;
+(v)
+the methodology and the plausibility of assumptions;
+(vi)
+the application of the proportionality principle to all of the minimum requirements, whether quantitative or qualitative; and
+(vii)
+the minimum periodicity of the stress tests and the common reference parameters of the stress test scenarios.
+EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

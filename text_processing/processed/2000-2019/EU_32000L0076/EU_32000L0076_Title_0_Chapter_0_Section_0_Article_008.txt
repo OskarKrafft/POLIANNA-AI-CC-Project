@@ -1,0 +1,23 @@
+Article 8
+Water discharges from the cleaning of exhaust gases
+1. Waste water from the cleaning of exhaust gases discharged from an incineration or co-incineration plant shall be subject to a permit granted by the competent authorities.
+2. Discharges to the aquatic environment of waste water resulting from the cleaning of exhaust gases shall be limited as far as practicable, at least in accordance with the emission limit values set in Annex IV.
+3. Subject to a specific provision in the permit, the waste water from the cleaning of exhaust gases may be discharged to the aquatic environment after separate treatment on condition that:
+(a) the requirements of relevant Community, national and local provisions are complied with in the form of emission limit values; and
+(b) the mass concentrations of the polluting substances referred to in Annex IV do not exceed the emission limit values laid down therein.
+4. The emission limit values shall apply at the point where waste waters from the cleaning of exhaust gases containing the polluting substances referred to in Annex IV are discharged from the incineration or co-incineration plant.
+Where the waste water from the cleaning of exhaust gases is treated on site collectively with other on-site sources of waste water, the operator shall take the measurements referred to in Article 11:
+(a) on the waste water stream from the exhaust gas cleaning processes prior to its input into the collective waste water treatment plant;
+(b) on the other waste water stream or streams prior to its or their input into the collective waste water treatment plant;
+(c) at the point of final waste water discharge, after the treatment, from the incineration plant or co-incineration plant.
+The operator shall take appropriate mass balance calculations in order to determine the emission levels in the final waste water discharge that can be attributed to the waste water arising from the cleaning of exhaust gases in order to check compliance with the emission limit values set out in Annex IV for the waste water stream from the exhaust gas cleaning process.
+Under no circumstances shall dilution of waste water take place for the purpose of complying with the emission limit values set in Annex IV.
+5. When waste waters from the cleaning of exhaust gases containing the polluting substances referred to in Annex IV are treated outside the incineration or co-incineration plant at a treatment plant intended only for the treatment of this sort of waste water, the emission limit values of Annex IV are to be applied at the point where the waste waters leave the treatment plant. If this off-site treatment plant is not only dedicated to treat waste water from incineration, the operator shall take the appropriate mass balance calculations, as provided for under paragraph 4(a), (b) and (c), in order to determine the emission levels in the final waste water discharge that can be attributed to the waste water arising from the cleaning of exhaust gases in order to check compliance with the emission limit values set out in Annex IV for the waste water stream from the exhaust gas cleaning process.
+Under no circumstances shall dilution of waste water take place for the purpose of complying with the emission limit values set in Annex IV.
+6. The permit shall:
+(a) establish emission limit values for the polluting substances referred to in Annex IV, in accordance with paragraph 2 and in order to meet the requirements referred to in paragraph 3(a);
+(b) set operational control parameters for waste water at least for pH, temperature and flow.
+7. Incineration and co-incineration plant sites, including associated storage areas for wastes, shall be designed and in such a way as to prevent the unauthorised and accidental release of any polluting substances into soil, surface water and groundwater in accordance with the provisions provided for in relevant Community legislation. Moreover, storage capacity shall be provided for contaminated rainwater run-off from the incineration or co-incineration plant site or for contaminated water arising from spillage or fire-fighting operations.
+The storage capacity shall be adequate to ensure that such waters can be tested and treated before discharge where necessary.
+8. Without prejudice to the provisions of the Treaty, Member States may set emission limit values for polycyclic aromatic hydrocarbons or other pollutants.
+

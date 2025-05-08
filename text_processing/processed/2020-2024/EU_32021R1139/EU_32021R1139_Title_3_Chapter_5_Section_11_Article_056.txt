@@ -1,0 +1,3 @@
+Article 56
+Blending operations
+Blending operations under the EMFAF shall be implemented in accordance with Regulation (EU) 2021/523 and Title X of the Financial Regulation.

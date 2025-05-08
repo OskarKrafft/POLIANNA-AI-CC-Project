@@ -1,0 +1,4 @@
+Article 108
+Use of credit risk mitigation technique under the Standardised Approach and the IRB Approach
+1.   For an exposure to which an institution applies the Standardised Approach under Chapter 2 or applies the IRB Approach under Chapter 3 but without using its own estimates of loss given default (LGD) and conversion factors under Article 151, the institution may use credit risk mitigation in accordance with Chapter 4 in the calculation of risk-weighted exposure amounts for the purposes of points (a) and (f) of Article 92(3) or, as relevant, expected loss amounts for the purposes of the calculation referred to in point (d) of Article 36(1) and point (c) of Article 62.
+2.   For an exposure to which an institution applies the IRB Approach by using their own estimates of LGD and conversion factors under Article 151, the institution may use credit risk mitigation in accordance with Chapter 3.

@@ -1,0 +1,44 @@
+Article 3
+Definitions
+For the purposes of this Regulation and its implementing measures the following definitions shall apply:
+1.
+‘hybrid vehicle’ means a vehicle with at least two different energy converters and two different energy storage systems (on vehicle) for the purpose of vehicle propulsion;
+2.
+‘vehicles designed to fulfil specific social needs’ means diesel vehicles of category M1 which are either:
+(a)
+special purpose vehicles as defined in Directive 70/156/EEC with a reference mass exceeding 2 000 kg;
+(b)
+vehicles with a reference mass exceeding 2 000 kg and designed to carry seven or more occupants including the driver with the exclusion, as from 1 September 2012, of vehicles of category M1G as defined in Directive 70/156/EEC;
+or
+(c)
+vehicles with a reference mass exceeding 1 760 kg which are built specifically for commercial purposes to accommodate wheelchair use inside the vehicle;
+3.
+‘reference mass’ means the mass of the vehicle in running order less the uniform mass of the driver of 75 kg and increased by a uniform mass of 100 kg;
+4.
+‘gaseous pollutants’ means the exhaust gas emissions of carbon monoxide, oxides of nitrogen, expressed in nitrogen dioxide (NO2) equivalent, and hydrocarbons;
+5.
+‘particulate pollutants’ means components of the exhaust gas which are removed from the diluted exhaust gas at a maximum temperature of 325 °K (52 °C) by means of the filters described in the test procedure for verifying average tailpipe emissions;
+6.
+‘tailpipe emissions’ means the emission of gaseous and particulate pollutants;
+7.
+‘evaporative emissions’ means the hydrocarbon vapours emitted from the fuel system of a vehicle other than those from tailpipe emissions;
+8.
+‘crankcase’ means the spaces in, or external to, an engine which are connected to the oil sump by internal or external ducts through which gases and vapours can be emitted;
+9.
+‘on-board diagnostic system’ or ‘OBD system’ means a system for emission control which has the capability of identifying the likely area of malfunction by means of fault codes stored in a computer memory;
+10.
+‘defeat device’ means any element of design which senses temperature, vehicle speed, engine speed (RPM), transmission gear, manifold vacuum or any other parameter for the purpose of activating, modulating, delaying or deactivating the operation of any part of the emission control system, that reduces the effectiveness of the emission control system under conditions which may reasonably be expected to be encountered in normal vehicle operation and use;
+11.
+‘pollution control device’ means those components of a vehicle that control and/or limit tailpipe and evaporative emissions;
+12.
+‘original pollution control device’ means a pollution control device or an assembly of such devices covered by the type approval granted for the vehicle concerned;
+13.
+‘replacement pollution control device’ means a pollution control device or an assembly of such devices intended to replace an original pollution control device and which can be approved as a separate technical unit as defined in Directive 70/156/EEC;
+14.
+‘vehicle repair and maintenance information’ means all information required for diagnosis, servicing, inspection, periodic monitoring, repair, re-programming or re-initialising of the vehicle and which the manufacturers provide for their authorised dealers and repairers, including all subsequent amendments and supplements to such information. This information includes all information required for fitting parts or equipment on vehicles;
+15.
+‘independent operator’ means undertakings other than authorised dealers and repairers which are directly or indirectly involved in the repair and maintenance of motor vehicles, in particular repairers, manufacturers or distributors of repair equipment, tools or spare parts, publishers of technical information, automobile clubs, roadside assistance operators, operators offering inspection and testing services, operators offering training for installers, manufacturers and repairers of equipment for alternative fuel vehicles;
+16.
+‘biofuels’ means liquid or gaseous fuels for transport, produced from biomass;
+17.
+‘alternative fuel vehicle’ means a vehicle designed to be capable of running on at least one type of fuel that is either gaseous at atmospheric temperature and pressure, or substantially non-mineral oil derived.

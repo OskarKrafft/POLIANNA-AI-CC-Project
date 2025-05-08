@@ -1,0 +1,13 @@
+Article 20
+Placing in service of existing subsystems after renewal or upgrading
+1.   In the event of renewal or upgrading, the contracting entity or the manufacturer shall send the Member State concerned a file describing the project. The Member State shall examine this file and, taking account of the implementation strategy indicated in the applicable TSI, shall decide whether the extent of the works means that a new authorisation for placing in service within the meaning of this Directive is needed.
+Such new authorisation for placing in service shall be required whenever the overall safety level of the subsystem concerned may be adversely affected by the works envisaged. If a new authorisation is needed, the Member State shall decide to what extent the TSIs need to be applied to the project.
+The Member State shall take its decision not later than four months after submission of the complete file by the applicant.
+2.   When a new authorisation is required and if the TSI is not fully applied, the Member States shall notify the following information to the Commission:
+—
+the reason why the TSI is not fully applied,
+—
+the technical characteristics applicable in place of the TSI,
+—
+the bodies responsible for applying, in the case of those characteristics, the verification procedure referred to in Article 18.
+3.   The Commission shall communicate the information referred to in paragraph 2 to the Agency, which shall publish it.

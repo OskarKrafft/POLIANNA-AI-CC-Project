@@ -1,0 +1,47 @@
+Article 74
+General functionalities of the EU SoHO Platform
+1.   The EU SoHO Platform shall enable SoHO entities, SoHO competent authorities, Member States and the Commission to process information, data and documents concerning SoHO and SoHO activities, including the submission, retrieval, storage, management, handling, exchange, analysis, publication, tracking and deletion of such data and documents as provided for in this Regulation.
+2.   The EU SoHO Platform shall provide a secure channel for restricted exchange of information and data, in particular:
+(a)
+between Member States’ SoHO national authorities;
+(b)
+between two SoHO competent authorities within the Member State or between a SoHO competent authority and its SoHO national authority;
+(c)
+between SoHO national authorities and the Commission, in particular in relation to activity data concerning SoHO activities of SoHO entities, the summaries of notifications and investigation reports of confirmed serious adverse reaction or serious adverse event, SoHO rapid alerts and SoHO supply alerts;
+(d)
+between SoHO national authorities and the SCB;
+(e)
+between SoHO national authorities and the ECDC, in relation to SoHO rapid alerts related to communicable diseases, where applicable;
+(f)
+between SoHO entities and their respective SoHO competent authorities, when the SoHO competent authorities choose to use the EU SoHO Platform for such exchanges.
+3.   The EU SoHO Platform shall provide public access to information regarding:
+(a)
+the registration and authorisation status of SoHO entities and their identification code and the SoHO establishment identification code;
+(b)
+approved SoHO clinical studies and authorised SoHO preparations;
+(c)
+the annual Union SoHO activity report and annual Union SoHO vigilance report, in aggregated and anonymised formats, after their approval by SoHO national authorities;
+(d)
+relevant best practices documented and published by the SCB;
+(e)
+technical guidelines for quality management published by the EDQM;
+(f)
+technical guidelines concerning the prevention of communicable and non-communicable diseases published by the ECDC and the EDQM, and concerning protection of SoHO donors, SoHO recipients and offspring from medically assisted reproduction;
+(g)
+the name, the institution of origin and the declaration of interests of each SCB member and alternate;
+(h)
+the SoHO compendium;
+(i)
+the list of the existing substances, products or activities for which an opinion on the regulatory status under this Regulation is not available and is needed as referred to in Article 69(1), point (b);
+(j)
+the more stringent measures adopted by Member States in accordance with Article 4;
+(k)
+the rules of procedure of the SCB, the agenda and the summary minutes of each meeting, unless such publication undermines the protection of a public or private interest, as referred to in Article 4 of Regulation (EC) No 1049/2001;
+(l)
+the list of SoHO national authorities.
+4.   By 7 August 2025, the Commission shall adopt implementing acts laying down technical specifications for the EU SoHO Platform, covering its management, maintenance, functions, including its minimal functionalities, the roles and responsibilities of each of the parties listed in paragraph 1, the retention periods for personal data and the technical and organisational measures to ensure the safety and security of personal data processed, including health data.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+CHAPTER XII
+
+PROCEDURAL PROVISIONS
+

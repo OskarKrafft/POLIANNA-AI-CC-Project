@@ -1,0 +1,55 @@
+Article 2
+Definitions
+For the purposes of this Regulation, the following definitions apply:
+(1)
+‘semiconductor’ means one of the following:
+(a)
+a material, including novel materials, either elemental or compound, whose electrical conductivity can be modified; or
+(b)
+a component consisting of a series of layers of semiconducting, insulating and conducting materials defined according to a predetermined pattern, and intended to perform well-defined electronic or photonic functions or both;
+(2)
+‘chip’ means an electronic device comprising various functional elements on a single piece of semiconductor material, typically taking the form of memory, logic, processor, optoelectronics and analogue devices;
+(3)
+‘quantum chip’ means a device that processes information at the level of individual quantum systems, with a varying level of component integration on-chip depending on the quantum platform used, including platforms for quantum computing, communication, sensing or metrology;
+(4)
+‘technology node’ means a specific semiconductor manufacturing process and its design rules;
+(5)
+‘semiconductor supply chain’ means the system of activities, organisations, actors, technology, information, resources and services involved in the production of semiconductors, including raw and processed materials, such as gases, manufacturing equipment, design, including related software development, fabrication, assembly, testing and packaging;
+(6)
+‘semiconductor value chain’ means the set of activities in relation to a semiconductor product from its conception to its end use, including raw and processed materials, such as gases, manufacturing equipment, research, development and innovation, design, including related software development, fabrication, testing, assembly and packaging to embedding and integration in end products, as well as end-of-life processes, such as reuse, disassembly and recycling;
+(7)
+‘pilot line’ means an experimental project or action addressing higher technology readiness levels from levels 3 to 8 to further develop an enabling infrastructure necessary to test, demonstrate, validate and calibrate a product or system with the model assumptions;
+(8)
+‘coordinator’ means a legal entity established in the Union which is a member of a European chips infrastructure consortium and which has been appointed by all the members of the consortium to be the principal point of contact for the Commission;
+(9)
+‘small and medium-sized enterprises’ or ‘SMEs’ means small or medium-sized enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (29);
+(10)
+‘small mid-cap’ means small mid-cap as defined in Article 2, point (20), of Regulation (EU) 2021/695;
+(11)
+‘first-of-a-kind facility’ means a new or substantially upgraded semiconductor manufacturing facility, or a facility for the production of equipment or key components for such equipment predominantly used in semiconductor manufacturing, which provides innovation with regard to the manufacturing process or final product that is not yet substantively present or committed to be built within the Union, including innovation that concerns improvements in computing power or in the level of security, safety or reliability, energy and environmental performance, the technology node or substrate materials, or in the implementation of production processes that lead to efficiency gains, or improves recyclability, or reduces production inputs;
+(12)
+‘next-generation chips’ means chips that go beyond the state of the art in offering significant improvements in functional performance, computing power or energy efficiency as well as other significant energy and environmental gains;
+(13)
+‘next-generation semiconductor technologies’ means semiconductor technologies that go beyond the state of the art in offering significant improvements in functional performance, computing power or energy efficiency as well as other significant energy and environmental gains;
+(14)
+‘cutting-edge semiconductor technologies’ means state-of-the-art innovation in chips and semiconductor technologies when the projects are carried out;
+(15)
+‘semiconductor manufacturing’ means any of the stages of production and processing of semiconductor wafers, including substrate materials, front-end and back-end, necessary to deliver a finished semiconductor product;
+(16)
+‘front-end’ means the entire processing of a semiconductor wafer;
+(17)
+‘back-end’ means the packaging, assembly and test of the semiconductor product;
+(18)
+‘users of semiconductors’ means undertakings that produce products in which semiconductors are incorporated;
+(19)
+‘key market actors’ means undertakings in the Union’s semiconductor supply chain, the reliable functioning of which is essential for the supply of semiconductors;
+(20)
+‘critical sector’ means any sector referred to in Annex IV;
+(21)
+‘crisis-relevant product’ means semiconductors, intermediate products and raw and processed materials which are either deployed directly by critical sectors or used in order to produce devices used by critical sectors required to produce semiconductors or intermediate products, that are affected by a semiconductor crisis and relevant to ensure crucial functions of a critical sector;
+(22)
+‘production capability’ means the ability of a facility to produce certain types of products;
+(23)
+‘production capacity’ means the maximum potential output of a facility;
+(24)
+‘trade secret’ means a trade secret as defined in Article 2, point (1), of Directive (EU) 2016/943.

@@ -1,0 +1,9 @@
+Article 17
+Implementation and enforcement
+1.   Member States shall ensure that the competent authorities take action, if necessary, through ex post supervisory measures, when provided with evidence that a digital service provider does not meet the requirements laid down in Article 16. Such evidence may be submitted by a competent authority of another Member State where the service is provided.
+2.   For the purposes of paragraph 1, the competent authorities shall have the necessary powers and means to require digital service providers to:
+(a)
+provide the information necessary to assess the security of their network and information systems, including documented security policies;
+(b)
+remedy any failure to meet the requirements laid down in Article 16.
+3.   If a digital service provider has its main establishment or a representative in a Member State, but its network and information systems are located in one or more other Member States, the competent authority of the Member State of the main establishment or of the representative and the competent authorities of those other Member States shall cooperate and assist each other as necessary. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in paragraph 2.

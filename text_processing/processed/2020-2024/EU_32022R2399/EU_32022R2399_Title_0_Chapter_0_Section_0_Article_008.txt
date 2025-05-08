@@ -1,0 +1,13 @@
+Article 8
+Establishment of national single window environments for customs
+1.   Each Member State shall establish a national single window environment for customs and shall be responsible for its development, integration and operation.
+2.   The national single window environments for customs shall enable the exchange of information and cooperation by electronic means between customs authorities, partner competent authorities and economic operators through EU CSW-CERTEX for the purposes of compliance with, and efficient enforcement of, customs legislation and the Union non-customs formalities listed in the Annex.
+3.   For the Union non-customs formalities and systems listed in Part A of the Annex, the national single window environments for customs shall provide the following functionalities:
+(a)
+a single communication channel for economic operators, who may use it to fulfil the relevant customs formalities and Union non-customs formalities subject to additional digital cooperation in accordance with Article 12;
+(b)
+quantity management related to the Union non-customs formalities, where applicable; and
+(c)
+automatic verification of compliance with the Union non-customs formalities listed in the Annex based on the data received by customs authorities through EU CSW-CERTEX from Union non-customs systems.
+4.   For each of the Union non-customs formalities and systems listed in Part B of the Annex, if the national single window environment for customs is connected to EU CSW-CERTEX in accordance with Article 5(5), that national single window environment for customs shall provide all of the functionalities listed in paragraph 3 of this Article.
+5.   The national single window environments for customs may be used as a platform to coordinate controls performed in accordance with Article 47(1) of Regulation (EU) No 952/2013.
