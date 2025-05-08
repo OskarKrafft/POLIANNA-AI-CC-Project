@@ -7,7 +7,8 @@ import os
 # The CELEX numbers are stored in a file 'searches.csv', which for example results from 
 # querying https://eur-lex.europa.eu/homepage.html for relevant policies.
 # Loading the file:
-exp_search = 'text_processing/searches.csv'
+# exp_search = 'text_processing/searches.csv'
+exp_search = 'CELEX_Renwables.csv'
 df = pd.read_csv(exp_search,encoding= "ISO-8859-1")
 
 
