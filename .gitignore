@@ -135,3 +135,7 @@ data
 
 # Transformer model outputs
 notebooks/ner_data/model_transformer_mps/
+notebooks/ner_data/model/model-best/ner/model
+notebooks/ner_data/model/model-best/ner/moves
+notebooks/ner_data/model/model-last/ner/model
+notebooks/ner_data/model/model-last/ner/moves
