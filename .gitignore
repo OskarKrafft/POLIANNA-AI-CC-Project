@@ -132,3 +132,6 @@ dmypy.json
 
 data
 .DS_Store
+
+# Transformer model outputs
+notebooks/ner_data/model_transformer_mps/
