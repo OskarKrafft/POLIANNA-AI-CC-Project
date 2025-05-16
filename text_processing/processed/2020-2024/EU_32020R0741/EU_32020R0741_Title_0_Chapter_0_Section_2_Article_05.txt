@@ -1,0 +1,290 @@
+Crops belonging to a given category shall be irrigated with reclaimed water of the corresponding minimum reclaimed water quality class as set out in Table 1, unless appropriate additional barriers as referred to in point (c) of Article 5(4) are used, which result in achieving the quality requirements set out in Table 2 of point (a). Such additional barriers may be based on the indicative list of preventive measures referred to in point 7 of Annex II or in any other equivalent national or international standards, e.g. the standard ISO 16075-2.
+
+Table 1 – Classes of reclaimed water quality and permitted agricultural use and irrigation method
+
+Minimum reclaimed water quality class
+Crop category (*1)
+
+Irrigation method
+A
+All food crops consumed raw where the edible part is in direct contact with reclaimed water and root crops consumed raw
+All irrigation methods
+B
+Food crops consumed raw where the edible part is produced above ground and is not in direct contact with reclaimed water, processed food crops and non-food crops including crops used to feed milk- or meat-producing animals
+All irrigation methods
+C
+Food crops consumed raw where the edible part is produced above ground and is not in direct contact with reclaimed water, processed food crops and non-food crops including crops used to feed milk- or meat-producing animals
+Drip irrigation (*2) or other irrigation method that avoids direct contact with the edible part of the crop
+D
+Industrial, energy and seeded crops
+All irrigation methods (*3)
+
+(a)   Minimum requirements for water quality
+
+Table 2 – Reclaimed water quality requirements for agricultural irrigation
+
+Reclaimed water quality class
+Indicative technology target
+Quality requirements
+
+E. coli
+
+(number/100 ml)
+BOD5
+
+(mg/l)
+TSS
+(mg/l)
+Turbidity
+(NTU)
+Other
+A
+Secondary treatment, filtration, and disinfection
+≤ 10
+≤ 10
+≤ 10
+≤ 5
+
+Legionella spp.: < 1 000  cfu/l where there is a risk of aerosolisation
+Intestinal nematodes (helminth eggs): ≤ 1 egg/l for irrigation of pastures or forage
+B
+Secondary treatment, and disinfection
+≤ 100
+In accordance with Directive 91/271/EEC
+(Annex I, Table 1)
+In accordance with Directive 91/271/EEC
+(Annex I, Table 1)
+-
+C
+Secondary treatment, and disinfection
+≤ 1 000 
+-
+D
+Secondary treatment, and disinfection
+≤ 10 000 
+-
+Reclaimed water shall be considered to be in compliance with the requirements set out in Table 2 where the measurements for that reclaimed water meet all of the following criteria:
+—
+the indicated values for E. coli, Legionella spp. and intestinal nematodes are met in 90 % or more of the samples; none of the values of the samples exceed the maximum deviation limit of 1 log unit from the indicated value for E. coli and Legionella spp. and 100 % of the indicated value for intestinal nematodes;
+—
+the indicated values for BOD5, TSS, and turbidity in Class A are met in 90 % or more of the samples; none of the values of the samples exceed the maximum deviation limit of 100 % of the indicated value.
+(b)   Minimum requirements for monitoring
+Reclamation facility operators shall perform routine monitoring to verify that the reclaimed water is in compliance with the minimum water quality requirements set out in point (a). The routine monitoring shall be included in the verification procedures of the water reuse system.
+The samples to be used to verify compliance with the microbiological parameters at the point of compliance shall be taken in accordance with standard EN ISO 19458 or with any other national or international standards that ensure equivalent quality.
+
+Table 3 – Minimum frequencies for routine monitoring of reclaimed water for agricultural irrigation
+
+ 
+Minimum monitoring frequencies
+Reclaimed water quality class
+
+E. coli
+
+BOD5
+
+TSS
+Turbidity
+
+Legionella spp.
+(when applicable)
+Intestinal nematodes
+(when applicable)
+A
+Once a week
+Once a week
+Once a week
+Continuous
+Twice a month
+Twice a month or as determined by the reclamation facility operator according to the number of eggs in waste water entering the reclamation facility
+B
+Once a week
+In accordance with Directive 91/271/EEC
+(Annex I, Section D)
+In accordance with Directive 91/271/EEC
+(Annex I, Section D)
+-
+C
+Twice a month
+-
+D
+Twice a month
+-
+Validation monitoring shall be performed before a new reclamation facility is put into operation.
+Reclamation facilities that are already in operation and that meet the reclaimed water quality requirements set out in Table 2 of point (a) on 25 June 2020 shall be exempted from that validation monitoring obligation.
+However, validation monitoring shall be performed in all cases where equipment is upgraded, and when new equipment or processes are added.
+Validation monitoring shall be performed for the reclaimed water quality class with the most stringent requirements, Class A, to assess whether the performance targets (log10 reduction) are complied with. Validation monitoring shall entail the monitoring of the indicator microorganisms associated with each group of pathogens, namely bacteria, viruses and protozoa. The indicator microorganisms selected are E. coli for pathogenic bacteria, F-specific coliphages, somatic coliphages or coliphages for pathogenic viruses, and Clostridium perfringens spores or spore-forming sulfate-reducing bacteria for protozoa. Performance targets (log10 reduction) for the validation monitoring for the selected indicator microorganisms are set out in Table 4 and shall be met at the point of compliance, considering the concentrations of the raw waste water entering the urban waste water treatment plant. At least 90 % of validation samples shall reach or exceed the performance targets.
+If a biological indicator is not present in sufficient quantity in raw waste water to achieve the log10 reduction, the absence of such biological indicator in reclaimed water shall mean that the validation requirements are complied with. The compliance with the performance target may be established by analytical control, by addition of the performance granted to individual treatment steps based on scientific evidence for standard well-established processes, such as published data of testing reports or case studies, or tested in a laboratory under controlled conditions for innovative treatment.
+
+Table 4 – Validation monitoring of reclaimed water for agricultural irrigation
+
+Reclaimed water quality class
+Indicator microorganisms (*4)
+
+Performance targets for the treatment chain
+(log10 reduction)
+A
+
+E. coli
+
+≥ 5,0
+Total coliphages/F-specific coliphages/somatic coliphages/coliphages (*5)
+
+≥ 6,0
+
+Clostridium perfringens spores/spore-forming sulfate-reducing bacteria (*6)
+
+≥ 4,0 (in case of Clostridium perfringens spores)
+≥ 5,0 (in case of spore-forming sulfate-reducing bacteria)
+Methods of analysis for monitoring shall be validated and documented in accordance with EN ISO/IEC-17025 or other national or international standards that ensure an equivalent quality.
+
+(*1)  If the same type of irrigated crop falls under multiple categories of Table 1, the requirements of the most stringent category shall apply.
+
+(*2)  Drip irrigation (also called trickle irrigation) is a micro-irrigation system capable of delivering water drops or tiny streams to the plants and involves dripping water onto the soil or directly under its surface at very low rates (2–20 litres/hour) from a system of small-diameter plastic pipes fitted with outlets called emitters or drippers.
+
+(*3)  In the case of irrigation methods which imitate rain, special attention should be paid to the protection of the health of workers or bystanders. For this purpose, appropriate preventive measures shall be applied.
+
+(*4)  The reference pathogens Campylobacter, Rotavirus and Cryptosporidium may also be used for validation monitoring purposes instead of the proposed indicator microorganisms. The following log10 reduction performance targets shall then apply: Campylobacter (≥ 5,0), Rotavirus (≥ 6,0) and Cryptosporidium (≥ 5,0).
+
+(*5)  Total coliphages is selected as the most appropriate viral indicator. However, if analysis of total coliphages is not feasible, at least one of them (F-specific or somatic coliphages) shall be analysed.
+
+(*6)  
+            Clostridium perfringens spores is selected as the most appropriate protozoa indicator. However, spore-forming sulfate-reducing bacteria are an alternative if the concentration of Clostridium perfringens spores does not make it possible to validate the requested log10 removal.
+ANNEX II
+(A)
+Key elements of risk management
+Risk management shall comprise identifying and managing risks in a proactive way to ensure that reclaimed water is safely used and managed and that there is no risk to the environment or to human or animal health. For those purposes, a water reuse risk management plan shall be established on the basis of the following elements:
+1.
+Description of the entire water reuse system, from the entry of waste water into the urban waste water treatment plant to the point of use, including the sources of waste water, the treatment steps and the technologies used at the reclamation facility, the supply, distribution and storage infrastructure, the intended use, the place and period of use (e.g. temporary or ad-hoc use), the irrigation method, the crop type, other water sources if a mix is intended to be used and the volume of reclaimed water to be supplied.
+2.
+Identification of all parties involved in the water reuse system and a clear description of their roles and responsibilities.
+3.
+Identification of potential hazards, in particular the presence of pollutants and pathogens, and the potential for hazardous events such as treatment failures or accidental leakages or contamination of the water reuse system.
+4.
+Identification of the environments and populations at risk, and the exposure routes to the identified potential hazards, taking into account specific environmental factors, such as local hydrogeology, topology, soil type and ecology, and factors related to the type of crops and farming and irrigation practices. Consideration of possible irreversible or long-term negative environmental and health effects of the water reclamation operation, supported by scientific evidence.
+5.
+Assessment of risks to the environment and to human and animal health, taking into account the nature of the identified potential hazards, the duration of the intended uses, the identified environments and populations at risk of exposure to those hazards and the severity of possible effects of the hazards considering the precautionary principle, as well as all relevant Union and national legislation, guidance documents and minimum requirements in relation to food and feed and worker safety. The risk assessment could be based on a review of available scientific studies and data.
+The risk assessment shall consist of the following elements:
+(a)
+an assessment of risks to the environment, including all of the following:
+(i)
+confirmation of the nature of the hazards, including, where relevant, the predicted no-effect level;
+(ii)
+assessment of the potential range of exposure;
+(iii)
+characterisation of the risks;
+(b)
+an assessment of risks to human and animal health, including all of the following:
+(i)
+confirmation of the nature of the hazards, including, where relevant, the dose-response relationship;
+(ii)
+assessment of the potential range of dose or exposure;
+(iii)
+characterisation of the risks.
+The risk assessment may be carried out using qualitative or semi-quantitative risk assessment. Quantitative risk assessment shall be used when there are sufficient supporting data or in projects having a potential high risk for the environment or public health.
+The following requirements and obligations shall, as a minimum, be taken into account in the risk assessment:
+(a)
+the requirement to reduce and prevent water pollution from nitrates in accordance with Directive 91/676/EEC;
+(b)
+the obligation for protected areas for water intended for human consumption to meet the requirements of Directive 98/83/EC;
+(c)
+the requirement to meet the environmental objectives set out in Directive 2000/60/EC;
+(d)
+the requirement to prevent groundwater pollution in accordance with Directive 2006/118/EC;
+(e)
+the requirement to meet the environmental quality standards for priority substances and certain other pollutants laid down in Directive 2008/105/EC;
+(f)
+the requirement to meet the environmental quality standards for pollutants of national concern, namely river basin specific pollutants, laid down in Directive 2000/60/EC;
+(g)
+the requirement to meet the bathing water quality standards laid down in Directive 2006/7/EC;
+(h)
+the requirements concerning the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture under Directive 86/278/EEC;
+(i)
+the requirements regarding hygiene of foodstuffs as laid down in Regulation (EC) No 852/2004 and the guidance provided in the Commission notice on guidance document on addressing microbiological risks in fresh fruits and vegetables at primary production through good hygiene;
+(j)
+the requirements for feed hygiene laid down in Regulation (EC) No 183/2005;
+(k)
+the requirement to comply with the relevant microbiological criteria set out in Regulation (EC) No 2073/2005;
+(l)
+the requirements regarding maximum levels for certain contaminants in foodstuffs set out in Regulation (EC) No 1881/2006;
+(m)
+the requirements regarding maximum residue levels of pesticides in or on food and feed set out in Regulation (EC) No 396/2005;
+(n)
+the requirements regarding animal health set out in Regulations (EC) No 1069/2009 and (EU) No 142/2011.
+(B)
+Conditions relating to the additional requirements
+6.
+Consideration of requirements for water quality and monitoring that are additional to or stricter than those specified in Section 2 of Annex I, or both, when necessary and appropriate to ensure adequate protection of the environment and of human and animal health, in particular when there is clear scientific evidence that the risk originates from reclaimed water and not from other sources.
+Depending on the outcome of the risk assessment referred to in point 5, such additional requirements may in particular concern:
+(a)
+heavy metals;
+(b)
+pesticides;
+(c)
+disinfection by-products;
+(d)
+pharmaceuticals;
+(e)
+other substances of emerging concern, including micro pollutants and micro plastics;
+(f)
+anti-microbial resistance.
+(C)
+Preventive measures
+7.
+Identification of preventive measures that are already in place or that should be taken to limit risks so that all identified risks can be adequately managed. Special attention shall be paid to water bodies used for the abstraction of water intended for human consumption and relevant safeguard zones.
+Such preventive measures may include:
+(a)
+access control;
+(b)
+additional disinfection or pollutant removal measures;
+(c)
+specific irrigation technology mitigating the risk of aerosol formation (e.g. drip irrigation);
+(d)
+specific requirements for sprinkler irrigation (e.g. maximum wind speed, distances between sprinkler and sensitive areas);
+(e)
+specific requirements for agricultural fields (e.g. slope inclination, field water saturation and karstic areas);
+(f)
+pathogen die-off support before harvest;
+(g)
+establishment of minimum safety distances (e.g. from surface water, including sources for livestock, or activities such as aquaculture, fish farming, shellfish aquaculture, swimming and other aquatic activities);
+(h)
+signage at irrigation sites, indicating that reclaimed water is being used and is not suitable for drinking.
+Specific preventive measures that may be relevant are set out in Table 1.
+
+Table 1 – Specific preventive measures
+
+Reclaimed water quality class
+Specific preventive measures
+A
+—
+Pigs must not be exposed to fodder irrigated with reclaimed water unless there are sufficient data to indicate that the risks for a specific case can be managed.
+B
+—
+Prohibition of harvesting of wet irrigated or dropped produce.
+—
+Exclude lactating dairy cattle from pasture until pasture is dry.
+—
+Fodder has to be dried or ensiled before packaging.
+—
+Pigs must not be exposed to fodder irrigated with reclaimed water unless there are sufficient data to indicate that the risks for a specific case can be managed.
+C
+—
+Prohibition of harvesting of wet irrigated or dropped produce.
+—
+Exclude grazing animals from pasture for five days after last irrigation.
+—
+Fodder has to be dried or ensiled before packaging.
+—
+Pigs must not be exposed to fodder irrigated with reclaimed water unless there are sufficient data to indicate that the risks for a specific case can be managed.
+D
+—
+Prohibition of harvesting of wet irrigated or dropped produce.
+8.
+Adequate quality control systems and procedures, including monitoring the reclaimed water for relevant parameters, and adequate maintenance programmes for equipment.
+It is recommended that the reclamation facility operator set up and maintain a quality management system certified under ISO 9001 or equivalent.
+9.
+Environmental monitoring systems to ensure that feedback from the monitoring is provided and that all processes and procedures are appropriately validated and documented.
+10.
+Appropriate systems to manage incidents and emergencies, including procedures to inform all relevant parties of such events in an appropriate manner, and regular updates of emergency response plan.
+Member States could use existing international guidance or standards, such as ISO 20426:2018 Guidelines for health risk assessment and management for non-potable water reuse, ISO 16075:2015 Guidelines for treated waste water use for irrigation projects or other equivalent standards accepted at international level, or WHO guidelines, as instruments for the systematic identification of hazards, the evaluation and the management of risks, based on a priority approach applied to the whole chain (from the treatment of urban waste water for reuse, to the distribution and the utilisation for agricultural irrigation, to the control of the effects) and on site specific risk assessment.
+11.
+Ensure that coordination mechanisms are established amongst different actors to guarantee the safe production and use of reclaimed water.
